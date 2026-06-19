@@ -1868,5 +1868,1215 @@
                 "score": 0.5831
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:nsejycihlzz6tas67ltm2mjm/app.bsky.feed.post/3molaowjnxc25",
+        "source": "bluesky",
+        "created_at": "2026-06-18T16:28:15.961Z",
+        "title_clean": "",
+        "clean_text": "Until 21 June, Wool brings over 40 cultural events to Covilhã. Beyond the festival, explore the city and surrounding areas for stunning views, places, and activities to build your own itinerary. Swipe the gallery for unique suggestions. + info ➡️ hi.switchy.io/xqF1 visitportugal Portugal art",
+        "keywords": [
+            {
+                "keyword": "festival explore the",
+                "score": 0.5936
+            },
+            {
+                "keyword": "the festival explore",
+                "score": 0.5915
+            },
+            {
+                "keyword": "the festival explore the",
+                "score": 0.5886
+            },
+            {
+                "keyword": "festival explore",
+                "score": 0.5881
+            },
+            {
+                "keyword": "beyond the festival explore",
+                "score": 0.5577
+            },
+            {
+                "keyword": "festival explore the city",
+                "score": 0.556
+            },
+            {
+                "keyword": "over 40 cultural events",
+                "score": 0.5464
+            },
+            {
+                "keyword": "visitportugal portugal art",
+                "score": 0.546
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:owrlc3sxkdctrqapjpoamvyp/app.bsky.feed.post/3mogaocz3hs27",
+        "source": "bluesky",
+        "created_at": "2026-06-16T16:44:36.803Z",
+        "title_clean": "",
+        "clean_text": "A FlixBus lançou uma nova ligação direta entre a Covilhã, Viseu e o Porto, com viagens sem transbordo e quatro horários diários.",
+        "keywords": [
+            {
+                "keyword": "porto viagens transbordo",
+                "score": 0.5737
+            },
+            {
+                "keyword": "porto viagens transbordo quatro",
+                "score": 0.5548
+            },
+            {
+                "keyword": "viagens transbordo quatro horários",
+                "score": 0.549
+            },
+            {
+                "keyword": "viseu porto viagens transbordo",
+                "score": 0.5482
+            },
+            {
+                "keyword": "viagens transbordo",
+                "score": 0.4911
+            },
+            {
+                "keyword": "porto viagens",
+                "score": 0.4834
+            },
+            {
+                "keyword": "viagens transbordo quatro",
+                "score": 0.471
+            },
+            {
+                "keyword": "viseu porto viagens",
+                "score": 0.4297
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3mobsikhd4t2x",
+        "source": "bluesky",
+        "created_at": "2026-06-14T22:20:10+00:00",
+        "title_clean": "",
+        "clean_text": "Pedro Abrunhosa, Sara Correia e Plutónio na Feira de São Tiago na Covilhã Já é conhecido o cartaz da edição deste ano da Feira de São Tiago, na Covilhã, que vai…",
+        "keywords": [
+            {
+                "keyword": "pedro abrunhosa sara correia",
+                "score": 0.611
+            },
+            {
+                "keyword": "pedro abrunhosa sara",
+                "score": 0.6032
+            },
+            {
+                "keyword": "pedro abrunhosa",
+                "score": 0.5978
+            },
+            {
+                "keyword": "abrunhosa sara correia",
+                "score": 0.5959
+            },
+            {
+                "keyword": "conhecido cartaz",
+                "score": 0.587
+            },
+            {
+                "keyword": "conhecido cartaz edição",
+                "score": 0.5315
+            },
+            {
+                "keyword": "abrunhosa sara",
+                "score": 0.514
+            },
+            {
+                "keyword": "sara correia",
+                "score": 0.5138
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mobrex7n3h2c",
+        "source": "bluesky",
+        "created_at": "2026-06-14T22:00:14+00:00",
+        "title_clean": "",
+        "clean_text": "Pedro Abrunhosa, Sara Correia e Plutónio na Feira de São Tiago na Covilhã Já é conhecido o cartaz da edição deste ano da Feira de São Tiago, na Covilhã, que vai…",
+        "keywords": [
+            {
+                "keyword": "pedro abrunhosa sara correia",
+                "score": 0.611
+            },
+            {
+                "keyword": "pedro abrunhosa sara",
+                "score": 0.6032
+            },
+            {
+                "keyword": "pedro abrunhosa",
+                "score": 0.5978
+            },
+            {
+                "keyword": "abrunhosa sara correia",
+                "score": 0.5959
+            },
+            {
+                "keyword": "conhecido cartaz",
+                "score": 0.587
+            },
+            {
+                "keyword": "conhecido cartaz edição",
+                "score": 0.5315
+            },
+            {
+                "keyword": "abrunhosa sara",
+                "score": 0.514
+            },
+            {
+                "keyword": "sara correia",
+                "score": 0.5138
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mo3t4h5sry24",
+        "source": "bluesky",
+        "created_at": "2026-06-12T14:15:20+01:00",
+        "title_clean": "",
+        "clean_text": "WOOL | Covilhã Arte Urbana arranca para a sua 13.ª edição O WOOL | Covilhã Arte Urbana começou ontem a celebrar 15 anos de actuação com uma edição em que o […] comunidadeculturaearte.com",
+        "keywords": [
+            {
+                "keyword": "arte urbana arranca 13",
+                "score": 0.664
+            },
+            {
+                "keyword": "arte urbana começou ontem",
+                "score": 0.653
+            },
+            {
+                "keyword": "arte urbana arranca",
+                "score": 0.6306
+            },
+            {
+                "keyword": "arte urbana começou",
+                "score": 0.6086
+            },
+            {
+                "keyword": "urbana arranca 13 edição",
+                "score": 0.5461
+            },
+            {
+                "keyword": "arte urbana",
+                "score": 0.5421
+            },
+            {
+                "keyword": "15 actuação edição comunidadeculturaearte",
+                "score": 0.5271
+            },
+            {
+                "keyword": "urbana começou ontem celebrar",
+                "score": 0.5125
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:nsejycihlzz6tas67ltm2mjm/app.bsky.feed.post/3mnyuttnows25",
+        "source": "bluesky",
+        "created_at": "2026-06-11T09:08:20.517Z",
+        "title_clean": "",
+        "clean_text": "More information about Wool, Covilhã Urban Art Festival here ⬇️ VisitPortugal Portugal CenterOfPOrtugal Event Wool Covilhã Art",
+        "keywords": [
+            {
+                "keyword": "portugal centerofportugal event wool",
+                "score": 0.7634
+            },
+            {
+                "keyword": "art festival here visitportugal",
+                "score": 0.718
+            },
+            {
+                "keyword": "festival here visitportugal",
+                "score": 0.6533
+            },
+            {
+                "keyword": "art festival here",
+                "score": 0.6517
+            },
+            {
+                "keyword": "festival here visitportugal portugal",
+                "score": 0.6443
+            },
+            {
+                "keyword": "urban art festival here",
+                "score": 0.6256
+            },
+            {
+                "keyword": "art festival",
+                "score": 0.6152
+            },
+            {
+                "keyword": "urban art festival",
+                "score": 0.6045
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:nsejycihlzz6tas67ltm2mjm/app.bsky.feed.post/3mnyuttne7225",
+        "source": "bluesky",
+        "created_at": "2026-06-11T09:08:20.516Z",
+        "title_clean": "",
+        "clean_text": "From 11 to 21 June, WOOL returns to transform Covilhã into an open-air museum. Inspired by Serra da Estrela and wool heritage, murals spread throughout the streets, shows, exhibitions, and more bring the historic centre to life. Don't miss it. VisitPortugal Portugal CenterOfPOrtugal Event",
+        "keywords": [
+            {
+                "keyword": "museum inspired",
+                "score": 0.5771
+            },
+            {
+                "keyword": "museum inspired by",
+                "score": 0.5669
+            },
+            {
+                "keyword": "museum inspired by serra",
+                "score": 0.5589
+            },
+            {
+                "keyword": "open air museum inspired",
+                "score": 0.5487
+            },
+            {
+                "keyword": "air museum inspired",
+                "score": 0.5423
+            },
+            {
+                "keyword": "air museum inspired by",
+                "score": 0.5412
+            },
+            {
+                "keyword": "an open air museum",
+                "score": 0.5358
+            },
+            {
+                "keyword": "the historic centre to",
+                "score": 0.5336
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:hanesgjhkjdawznkmnkz5mfp/app.bsky.feed.post/3mnuwomykmc2f",
+        "source": "bluesky",
+        "created_at": "2026-06-09T19:30:34.300Z",
+        "title_clean": "",
+        "clean_text": "Call for Papers - Phenomenology and the Political: Experience, Power, and Methods International Conference - 2-3 December 2026, University of Beira Interior (Covilhã, Portugal). Organization: Albano Pina and Janilce Praseres (PRAXIS/UBI)",
+        "keywords": [
+            {
+                "keyword": "phenomenology and the political",
+                "score": 0.6743
+            },
+            {
+                "keyword": "papers phenomenology and the",
+                "score": 0.6266
+            },
+            {
+                "keyword": "portugal organization",
+                "score": 0.612
+            },
+            {
+                "keyword": "for papers phenomenology and",
+                "score": 0.6059
+            },
+            {
+                "keyword": "call for papers phenomenology",
+                "score": 0.6055
+            },
+            {
+                "keyword": "papers phenomenology and",
+                "score": 0.6045
+            },
+            {
+                "keyword": "and the political",
+                "score": 0.5984
+            },
+            {
+                "keyword": "for papers phenomenology",
+                "score": 0.5973
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:y2akvpaj76mpar423jj3k22z/app.bsky.feed.post/3mnue2h3fec24",
+        "source": "bluesky",
+        "created_at": "2026-06-09T13:57:09.636Z",
+        "title_clean": "",
+        "clean_text": "Isto há gente mesmo rancorosa...",
+        "keywords": [
+            {
+                "keyword": "isto há gente rancorosa",
+                "score": 0.9466
+            },
+            {
+                "keyword": "há gente rancorosa",
+                "score": 0.8878
+            },
+            {
+                "keyword": "isto há gente",
+                "score": 0.7868
+            },
+            {
+                "keyword": "gente rancorosa",
+                "score": 0.7834
+            },
+            {
+                "keyword": "há gente",
+                "score": 0.7238
+            },
+            {
+                "keyword": "isto há",
+                "score": 0.5467
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mnoqp6qy7k2q",
+        "source": "bluesky",
+        "created_at": "2026-06-07T08:27:32.043Z",
+        "title_clean": "",
+        "clean_text": "A nova Reserva da Biosfera da Estrela abrange uma área total de 2.372,99 quilómetros quadrados (km²), distribuída pelos seis municípios do Parque Natural da Serra da Estrela, Seia, Gouveia, Celorico da Beira, Guarda, Manteigas e Covilhã.",
+        "keywords": [
+            {
+                "keyword": "reserva biosfera estrela abrange",
+                "score": 0.7201
+            },
+            {
+                "keyword": "biosfera estrela abrange área",
+                "score": 0.6947
+            },
+            {
+                "keyword": "reserva biosfera estrela",
+                "score": 0.69
+            },
+            {
+                "keyword": "nova reserva biosfera estrela",
+                "score": 0.6854
+            },
+            {
+                "keyword": "reserva biosfera",
+                "score": 0.6494
+            },
+            {
+                "keyword": "nova reserva biosfera",
+                "score": 0.6377
+            },
+            {
+                "keyword": "biosfera estrela abrange",
+                "score": 0.6157
+            },
+            {
+                "keyword": "parque natural serra estrela",
+                "score": 0.6151
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uzcdmllxpi2ycmx273m4zghw/app.bsky.feed.post/3mnmubutxqc2o",
+        "source": "bluesky",
+        "created_at": "2026-06-06T14:26:20.941Z",
+        "title_clean": "",
+        "clean_text": "'Tiago Oliveira cited 100 per cent participation at Lisbon Metro, Transdev Viseu, the Urban Transport Company of Guarda & the urban transport company of Covilhã, plus 'Carris workshops with 98 per cent participation; Soflusa/Transtejo, 85 per cent participation; CP operating only minimum services'.",
+        "keywords": [
+            {
+                "keyword": "per cent participation cp",
+                "score": 0.6021
+            },
+            {
+                "keyword": "cent participation soflusa transtejo",
+                "score": 0.591
+            },
+            {
+                "keyword": "cent participation cp",
+                "score": 0.5907
+            },
+            {
+                "keyword": "cent participation cp operating",
+                "score": 0.5886
+            },
+            {
+                "keyword": "cent participation at lisbon",
+                "score": 0.586
+            },
+            {
+                "keyword": "per cent participation at",
+                "score": 0.5658
+            },
+            {
+                "keyword": "participation at lisbon metro",
+                "score": 0.5616
+            },
+            {
+                "keyword": "per cent participation",
+                "score": 0.558
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:v3c3gklyjx7f4flljdozvcro/app.bsky.feed.post/3mnmk7n4xk226",
+        "source": "bluesky",
+        "created_at": "2026-06-06T11:26:08.321Z",
+        "title_clean": "",
+        "clean_text": "\"La nouvelle réserve de Biosphère [UNESCO] de Estrela couvre une aire sur les 6 municipalités du Parc National de Serra da Estrela [=chaîne de montagnes dans la région centre du Portugal] : Seia, Gouveia, Celorico da Beira, Guardia, Manteigas et Covilha.\"",
+        "keywords": [
+            {
+                "keyword": "nouvelle réserve biosphère unesco",
+                "score": 0.6103
+            },
+            {
+                "keyword": "réserve biosphère unesco",
+                "score": 0.6021
+            },
+            {
+                "keyword": "biosphère unesco",
+                "score": 0.563
+            },
+            {
+                "keyword": "la nouvelle réserve biosphère",
+                "score": 0.5448
+            },
+            {
+                "keyword": "nouvelle réserve biosphère",
+                "score": 0.5327
+            },
+            {
+                "keyword": "centre du portugal seia",
+                "score": 0.5228
+            },
+            {
+                "keyword": "réserve biosphère",
+                "score": 0.5109
+            },
+            {
+                "keyword": "région centre du portugal",
+                "score": 0.5039
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t6xm4zrxilskfwjta2x7lu56/app.bsky.feed.post/3mnmjjtflxp2k",
+        "source": "bluesky",
+        "created_at": "2026-06-06T11:13:56.6414756Z",
+        "title_clean": "",
+        "clean_text": "A nova Reserva da Biosfera da Estrela abrange uma área distribuída pelos seis municípios do Parque Natural da Serra da Estrela: Seia, Gouveia, Celorico da Beira, Guarda, Manteigas e Covilhã.",
+        "keywords": [
+            {
+                "keyword": "reserva biosfera estrela abrange",
+                "score": 0.7189
+            },
+            {
+                "keyword": "nova reserva biosfera estrela",
+                "score": 0.6966
+            },
+            {
+                "keyword": "biosfera estrela abrange área",
+                "score": 0.6934
+            },
+            {
+                "keyword": "reserva biosfera estrela",
+                "score": 0.6923
+            },
+            {
+                "keyword": "parque natural serra estrela",
+                "score": 0.6688
+            },
+            {
+                "keyword": "biosfera estrela abrange",
+                "score": 0.6266
+            },
+            {
+                "keyword": "reserva biosfera",
+                "score": 0.608
+            },
+            {
+                "keyword": "nova reserva biosfera",
+                "score": 0.6065
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:roweyd2xk6bs2mwhfk6vjzmb/app.bsky.feed.post/3mnmiemsnyw2x",
+        "source": "bluesky",
+        "created_at": "2026-06-06T10:53:08.217175Z",
+        "title_clean": "",
+        "clean_text": "A nova Reserva da Biosfera da Estrela abrange uma área distribuída pelos seis municípios do Parque Natural da Serra da Estrela: Seia, Gouveia, Celorico da Beira, Guarda, Manteigas e Covilhã.",
+        "keywords": [
+            {
+                "keyword": "reserva biosfera estrela abrange",
+                "score": 0.7189
+            },
+            {
+                "keyword": "nova reserva biosfera estrela",
+                "score": 0.6966
+            },
+            {
+                "keyword": "biosfera estrela abrange área",
+                "score": 0.6934
+            },
+            {
+                "keyword": "reserva biosfera estrela",
+                "score": 0.6923
+            },
+            {
+                "keyword": "parque natural serra estrela",
+                "score": 0.6688
+            },
+            {
+                "keyword": "biosfera estrela abrange",
+                "score": 0.6266
+            },
+            {
+                "keyword": "reserva biosfera",
+                "score": 0.608
+            },
+            {
+                "keyword": "nova reserva biosfera",
+                "score": 0.6065
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:esz3iythyz6dcf5hj2axbw4b/app.bsky.feed.post/3mnhgn5b6m22g",
+        "source": "bluesky",
+        "created_at": "2026-06-04T10:38:47.766Z",
+        "title_clean": "",
+        "clean_text": "Pee and photo stop on the way to Covilhã - gateway to the Estrella. This time last week.",
+        "keywords": [
+            {
+                "keyword": "photo stop on the",
+                "score": 0.6279
+            },
+            {
+                "keyword": "pee and photo stop",
+                "score": 0.5718
+            },
+            {
+                "keyword": "photo stop on",
+                "score": 0.5365
+            },
+            {
+                "keyword": "pee and photo",
+                "score": 0.5361
+            },
+            {
+                "keyword": "and photo stop on",
+                "score": 0.4786
+            },
+            {
+                "keyword": "photo stop",
+                "score": 0.4779
+            },
+            {
+                "keyword": "on the way to",
+                "score": 0.4776
+            },
+            {
+                "keyword": "gateway to the",
+                "score": 0.4752
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:72nebsd7jmrst5lxjxi5bizf/app.bsky.feed.post/3mnf274x7wc2p",
+        "source": "bluesky",
+        "created_at": "2026-06-03T11:50:53.295Z",
+        "title_clean": "",
+        "clean_text": "UM LIVRO E UMA MESA (16) O livro de hoje é \"O Divórcio das Nações - o colapso da Ordem Mundial visto por dentro\", de João Vale de Almeida, editado pela D. Quixote. O restaurante de hoje é a \"Taberna A Laranjinha\", na Covilhã, com o tlf. 275 083 586.",
+        "keywords": [
+            {
+                "keyword": "livro hoje",
+                "score": 0.6602
+            },
+            {
+                "keyword": "livro hoje divórcio nações",
+                "score": 0.6484
+            },
+            {
+                "keyword": "mesa 16 livro hoje",
+                "score": 0.6215
+            },
+            {
+                "keyword": "16 livro hoje",
+                "score": 0.6115
+            },
+            {
+                "keyword": "livro mesa 16 livro",
+                "score": 0.581
+            },
+            {
+                "keyword": "mesa 16 livro",
+                "score": 0.5717
+            },
+            {
+                "keyword": "livro mesa 16",
+                "score": 0.5703
+            },
+            {
+                "keyword": "16 livro",
+                "score": 0.5673
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:54ljb2yvhmkpy6snfvfvu2m2/app.bsky.feed.post/3mncunoxg222a",
+        "source": "bluesky",
+        "created_at": "2026-06-02T15:06:20.032Z",
+        "title_clean": "",
+        "clean_text": "𝐔𝐁𝐈 𝐫𝐞𝐧𝐨𝐯𝐚 𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚 𝐧𝐚 𝐫𝐞𝐝𝐞 𝐪𝐮𝐞 𝐚𝐩𝐨𝐢𝐚 𝐯𝐢́𝐭𝐢𝐦𝐚𝐬 𝐞𝐦 𝐁𝐞𝐥𝐦𝐨𝐧𝐭𝐞, 𝐂𝐨𝐯𝐢𝐥𝐡𝐚̃ 𝐞 𝐅𝐮𝐧𝐝𝐚̃𝐨 A academia assinou o protocolo \"Territorialização da Rede Nacional de Apoio às Vítimas de Violência Doméstica e Violência Contra as Mulheres\". Notícia completa:",
+        "keywords": [
+            {
+                "keyword": "𝐔𝐁𝐈 𝐫𝐞𝐧𝐨𝐯𝐚 𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚 𝐧𝐚",
+                "score": 0.6742
+            },
+            {
+                "keyword": "𝐔𝐁𝐈 𝐫𝐞𝐧𝐨𝐯𝐚 𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚",
+                "score": 0.6354
+            },
+            {
+                "keyword": "𝐫𝐞𝐧𝐨𝐯𝐚 𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚 𝐧𝐚 𝐫𝐞𝐝𝐞",
+                "score": 0.6212
+            },
+            {
+                "keyword": "𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚 𝐧𝐚 𝐫𝐞𝐝𝐞",
+                "score": 0.5782
+            },
+            {
+                "keyword": "𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚 𝐧𝐚 𝐫𝐞𝐝𝐞 𝐪𝐮𝐞",
+                "score": 0.5485
+            },
+            {
+                "keyword": "𝐫𝐞𝐧𝐨𝐯𝐚 𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚 𝐧𝐚",
+                "score": 0.5386
+            },
+            {
+                "keyword": "rede nacional apoio vítimas",
+                "score": 0.5261
+            },
+            {
+                "keyword": "academia assinou protocolo",
+                "score": 0.5128
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnc4r3qbrw2y",
+        "source": "bluesky",
+        "created_at": "2026-06-02T07:58:43.825Z",
+        "title_clean": "",
+        "clean_text": "Foram contabilizados no total 1.840 atendimentos em toda a região, que engloba a Covilhã, Belmonte e o Fundão.",
+        "keywords": [
+            {
+                "keyword": "840 atendimentos toda região",
+                "score": 0.7317
+            },
+            {
+                "keyword": "contabilizados total 840 atendimentos",
+                "score": 0.7306
+            },
+            {
+                "keyword": "total 840 atendimentos toda",
+                "score": 0.7097
+            },
+            {
+                "keyword": "total 840 atendimentos",
+                "score": 0.7037
+            },
+            {
+                "keyword": "840 atendimentos toda",
+                "score": 0.6816
+            },
+            {
+                "keyword": "840 atendimentos",
+                "score": 0.6534
+            },
+            {
+                "keyword": "contabilizados total 840",
+                "score": 0.6072
+            },
+            {
+                "keyword": "total 840",
+                "score": 0.5649
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:k2rwf6elajxfly3te2jqx3to/app.bsky.feed.post/3mnab6fiqhs2y",
+        "source": "bluesky",
+        "created_at": "2026-06-01T14:12:25.812Z",
+        "title_clean": "",
+        "clean_text": "Neste episódio em que se assinala o Dia da Criança, a cadeira do líder do podcast \"O CEO é o limite\" é ocupada por Lua Afonso, a jovem estudante da Covilhã que o Presidente da Assembleia da República apontou como um exemplo de mérito e excelência: expresso.pt/podcasts/o-ceo-... 📷 Matilde Fieschi",
+        "keywords": [
+            {
+                "keyword": "criança cadeira líder podcast",
+                "score": 0.6308
+            },
+            {
+                "keyword": "líder podcast",
+                "score": 0.5875
+            },
+            {
+                "keyword": "cadeira líder podcast",
+                "score": 0.579
+            },
+            {
+                "keyword": "presidente assembleia",
+                "score": 0.576
+            },
+            {
+                "keyword": "líder podcast ceo limite",
+                "score": 0.5711
+            },
+            {
+                "keyword": "líder podcast ceo",
+                "score": 0.5681
+            },
+            {
+                "keyword": "presidente assembleia república",
+                "score": 0.567
+            },
+            {
+                "keyword": "assinala criança cadeira líder",
+                "score": 0.5582
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mmp4rcdzrn2n",
+        "source": "bluesky",
+        "created_at": "2026-05-25T18:38:13.855962Z",
+        "title_clean": "",
+        "clean_text": "Jardim Botânico da Covilhã recebe intervenção devido ao risco de queda de árvores",
+        "keywords": [
+            {
+                "keyword": "devido risco queda árvores",
+                "score": 0.7275
+            },
+            {
+                "keyword": "risco queda árvores",
+                "score": 0.708
+            },
+            {
+                "keyword": "jardim botânico",
+                "score": 0.6503
+            },
+            {
+                "keyword": "queda árvores",
+                "score": 0.6321
+            },
+            {
+                "keyword": "intervenção devido risco queda",
+                "score": 0.3734
+            },
+            {
+                "keyword": "recebe intervenção devido risco",
+                "score": 0.3505
+            },
+            {
+                "keyword": "recebe intervenção devido",
+                "score": 0.3491
+            },
+            {
+                "keyword": "intervenção devido risco",
+                "score": 0.3441
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:esz3iythyz6dcf5hj2axbw4b/app.bsky.feed.post/3mmmpexueck26",
+        "source": "bluesky",
+        "created_at": "2026-05-24T19:33:24.418Z",
+        "title_clean": "",
+        "clean_text": "Tomorrow we head to Covilhã. Gateway to the Estrella. Going on the twisty route - 6 hours riding time >330km, no motorways but plenty of roads like this.",
+        "keywords": [
+            {
+                "keyword": "twisty route hours riding",
+                "score": 0.6317
+            },
+            {
+                "keyword": "route hours riding",
+                "score": 0.6089
+            },
+            {
+                "keyword": "twisty route hours",
+                "score": 0.6041
+            },
+            {
+                "keyword": "riding time 330km motorways",
+                "score": 0.5977
+            },
+            {
+                "keyword": "the twisty route hours",
+                "score": 0.5961
+            },
+            {
+                "keyword": "route hours",
+                "score": 0.5829
+            },
+            {
+                "keyword": "route hours riding time",
+                "score": 0.5774
+            },
+            {
+                "keyword": "time 330km motorways but",
+                "score": 0.5749
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mmed27p4jo2w",
+        "source": "bluesky",
+        "created_at": "2026-05-21T12:31:19+01:00",
+        "title_clean": "",
+        "clean_text": "Programação musical da WOOL | Covilhã Arte Urbana volta a destacar a música alternativa nacional e emergente local De 11 a 21 de junho a celebração das artes volta a invadir a cidade da Covilhã. A 13.ª edição […] comunidadeculturaearte.com",
+        "keywords": [
+            {
+                "keyword": "urbana volta destacar música",
+                "score": 0.7522
+            },
+            {
+                "keyword": "destacar música alternativa nacional",
+                "score": 0.733
+            },
+            {
+                "keyword": "música alternativa nacional emergente",
+                "score": 0.7284
+            },
+            {
+                "keyword": "volta destacar música alternativa",
+                "score": 0.7199
+            },
+            {
+                "keyword": "destacar música alternativa",
+                "score": 0.7068
+            },
+            {
+                "keyword": "música alternativa nacional",
+                "score": 0.7037
+            },
+            {
+                "keyword": "volta destacar música",
+                "score": 0.6994
+            },
+            {
+                "keyword": "destacar música",
+                "score": 0.6796
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:trdfsm22tzy5w4ue7l5pqfyt/app.bsky.feed.post/3mmd4gp6bjj2l",
+        "source": "bluesky",
+        "created_at": "2026-05-21T00:00:19+00:00",
+        "title_clean": "",
+        "clean_text": "Ich habe Fotos gemacht, irgendwo zwischen Fundão und Covilhã Anfang dieses Jahres entschloss ich mich, einem Hobby nachzugehen und kaufte eine Kamera. Ich habe angefangen, auf Instagram zu posten, habe die App jedoch aus Gründen der mentalen Hygiene …",
+        "keywords": [
+            {
+                "keyword": "habe angefangen auf instagram",
+                "score": 0.6298
+            },
+            {
+                "keyword": "angefangen auf instagram zu",
+                "score": 0.6259
+            },
+            {
+                "keyword": "angefangen auf instagram",
+                "score": 0.6183
+            },
+            {
+                "keyword": "instagram zu posten habe",
+                "score": 0.5968
+            },
+            {
+                "keyword": "instagram zu",
+                "score": 0.5892
+            },
+            {
+                "keyword": "auf instagram",
+                "score": 0.5885
+            },
+            {
+                "keyword": "auf instagram zu",
+                "score": 0.5847
+            },
+            {
+                "keyword": "auf instagram zu posten",
+                "score": 0.5834
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ed54dgkgyxqzvvduc5sg2wy7/app.bsky.feed.post/3mmd2y6jeg22p",
+        "source": "bluesky",
+        "created_at": "2026-05-20T23:34:18+00:00",
+        "title_clean": "",
+        "clean_text": "Stavo scattando delle foto, da qualche parte tra Fundão e Covilhã All'inizio di quest'anno ho deciso di dedicarmi ad un hobby e ho comprato una macchina fotografica. Ho iniziato a pubblicare su Instagram, ma ho finito per disinstallare l'app per motivi di igiene …",
+        "keywords": [
+            {
+                "keyword": "fotografica ho iniziato pubblicare",
+                "score": 0.64
+            },
+            {
+                "keyword": "iniziato pubblicare su instagram",
+                "score": 0.6192
+            },
+            {
+                "keyword": "fotografica ho iniziato",
+                "score": 0.5984
+            },
+            {
+                "keyword": "macchina fotografica ho iniziato",
+                "score": 0.5933
+            },
+            {
+                "keyword": "comprato una macchina fotografica",
+                "score": 0.5845
+            },
+            {
+                "keyword": "pubblicare su instagram",
+                "score": 0.5805
+            },
+            {
+                "keyword": "pubblicare su instagram ma",
+                "score": 0.5668
+            },
+            {
+                "keyword": "instagram ma ho finito",
+                "score": 0.5503
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:q4w35uxmlr5vkd2d6y3j5slq/app.bsky.feed.post/3mmct7dlkpz2i",
+        "source": "bluesky",
+        "created_at": "2026-05-20T21:15:11+00:00",
+        "title_clean": "",
+        "clean_text": "Andei a tirar fotos, algures entre o Fundão e a Covilhã No início deste ano, decidi arranjar um hobby e comprei uma máquina fotográfica. Comecei por publicar no Instagram,…",
+        "keywords": [
+            {
+                "keyword": "fotográfica comecei publicar instagram",
+                "score": 0.8177
+            },
+            {
+                "keyword": "comprei máquina fotográfica comecei",
+                "score": 0.7583
+            },
+            {
+                "keyword": "fotográfica comecei publicar",
+                "score": 0.7524
+            },
+            {
+                "keyword": "comecei publicar instagram",
+                "score": 0.7342
+            },
+            {
+                "keyword": "máquina fotográfica comecei publicar",
+                "score": 0.7315
+            },
+            {
+                "keyword": "fotográfica comecei",
+                "score": 0.7311
+            },
+            {
+                "keyword": "andei tirar fotos algures",
+                "score": 0.702
+            },
+            {
+                "keyword": "hobby comprei máquina fotográfica",
+                "score": 0.6956
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mly5yvpalz23",
+        "source": "bluesky",
+        "created_at": "2026-05-16T15:29:09.860601Z",
+        "title_clean": "",
+        "clean_text": "Covilhã volta a receber festival aéreo com espetáculo de acrobacias",
+        "keywords": [
+            {
+                "keyword": "festival aéreo espetáculo acrobacias",
+                "score": 0.883
+            },
+            {
+                "keyword": "volta receber festival aéreo",
+                "score": 0.8542
+            },
+            {
+                "keyword": "receber festival aéreo espetáculo",
+                "score": 0.8321
+            },
+            {
+                "keyword": "aéreo espetáculo acrobacias",
+                "score": 0.8175
+            },
+            {
+                "keyword": "festival aéreo espetáculo",
+                "score": 0.8097
+            },
+            {
+                "keyword": "receber festival aéreo",
+                "score": 0.8059
+            },
+            {
+                "keyword": "festival aéreo",
+                "score": 0.7827
+            },
+            {
+                "keyword": "aéreo espetáculo",
+                "score": 0.7192
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:flcu44pmttegrqp5ns2rhrr6/app.bsky.feed.post/3mlxxzr6gif2s",
+        "source": "bluesky",
+        "created_at": "2026-05-16T13:42:17.227976+00:00",
+        "title_clean": "",
+        "clean_text": "🇵🇹 Portugal 🍽️ Taberna A Laranjinha 📍 Rua de Primeiro de Dezembro, Centro Histórico, Covilhã e Canhoso, Covilhã, Castelo Branco, 6200-151, Portugal 🔗 View on Google Maps",
+        "keywords": [
+            {
+                "keyword": "portugal taberna laranjinha rua",
+                "score": 0.6756
+            },
+            {
+                "keyword": "branco 6200 151 portugal",
+                "score": 0.6509
+            },
+            {
+                "keyword": "6200 151 portugal view",
+                "score": 0.6413
+            },
+            {
+                "keyword": "6200 151 portugal",
+                "score": 0.637
+            },
+            {
+                "keyword": "151 portugal view",
+                "score": 0.6274
+            },
+            {
+                "keyword": "151 portugal",
+                "score": 0.6219
+            },
+            {
+                "keyword": "151 portugal view on",
+                "score": 0.6151
+            },
+            {
+                "keyword": "portugal view",
+                "score": 0.6109
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mlv32xgag22m",
+        "source": "bluesky",
+        "created_at": "2026-05-15T09:58:39.598Z",
+        "title_clean": "",
+        "clean_text": "Prossegue o On the Move no Avenidas. Vamos exibir \"Balada de um Batráquio\" e apresentar \"Isaura\". Estarão connosco as respetivas realizadoras, Leonor Teles e Sandra Ofélia, a jovem cineasta da UBI que vem da Covilhã para o efeito. Às 18h30 no Avenidas. A entrada é livre. youtu.be/u3DyUfMMJPI?...",
+        "keywords": [
+            {
+                "keyword": "connosco respetivas realizadoras leonor",
+                "score": 0.7089
+            },
+            {
+                "keyword": "respetivas realizadoras leonor teles",
+                "score": 0.6953
+            },
+            {
+                "keyword": "realizadoras leonor teles",
+                "score": 0.6849
+            },
+            {
+                "keyword": "realizadoras leonor teles sandra",
+                "score": 0.6732
+            },
+            {
+                "keyword": "realizadoras leonor",
+                "score": 0.6724
+            },
+            {
+                "keyword": "connosco respetivas realizadoras",
+                "score": 0.6718
+            },
+            {
+                "keyword": "jovem cineasta ubi vem",
+                "score": 0.6627
+            },
+            {
+                "keyword": "respetivas realizadoras leonor",
+                "score": 0.6617
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mlrn4ztqr62u",
+        "source": "bluesky",
+        "created_at": "2026-05-14T01:11:17.390Z",
+        "title_clean": "",
+        "clean_text": "Evento organizado pela Câmara da Covilhã decorre de 15 a 24 de maio",
+        "keywords": [
+            {
+                "keyword": "evento organizado",
+                "score": 0.7187
+            },
+            {
+                "keyword": "evento organizado câmara",
+                "score": 0.714
+            },
+            {
+                "keyword": "decorre 15 24",
+                "score": 0.4564
+            },
+            {
+                "keyword": "organizado câmara",
+                "score": 0.4093
+            },
+            {
+                "keyword": "decorre 15",
+                "score": 0.3299
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:fdtur6ox5oq5vkejdkaajrk4/app.bsky.feed.post/3mlq43tq4pk2s",
+        "source": "bluesky",
+        "created_at": "2026-05-13T10:33:44.330Z",
+        "title_clean": "",
+        "clean_text": "Os Efterklang regressam a Portugal em dezembro de 2026 para concertos na Covilhã, Lisboa, Espinho e Penafiel. Inclui residência artística de composição. Para saber tudo no site (link na bio) efterklang concerto agendadeconcertos aovivo efterklangportugal",
+        "keywords": [
+            {
+                "keyword": "regressam portugal 2026 concertos",
+                "score": 0.7452
+            },
+            {
+                "keyword": "portugal 2026 concertos",
+                "score": 0.673
+            },
+            {
+                "keyword": "regressam portugal 2026",
+                "score": 0.6
+            },
+            {
+                "keyword": "regressam portugal",
+                "score": 0.5904
+            },
+            {
+                "keyword": "concerto agendadeconcertos aovivo efterklangportugal",
+                "score": 0.5629
+            },
+            {
+                "keyword": "efterklang regressam portugal 2026",
+                "score": 0.5562
+            },
+            {
+                "keyword": "efterklang concerto agendadeconcertos aovivo",
+                "score": 0.5303
+            },
+            {
+                "keyword": "efterklang regressam portugal",
+                "score": 0.518
+            }
+        ]
     }
 ]

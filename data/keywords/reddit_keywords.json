@@ -3028,5 +3028,136 @@
                 "score": 0.5608
             }
         ]
+    },
+    {
+        "record_id": "reddit_1u0kep2",
+        "source": "reddit",
+        "created_at": "2026-06-08 20:50:57",
+        "title_clean": "Portas de segurança Beira Baixa",
+        "clean_text": "Portas de segurança Beira Baixa",
+        "keywords": [
+            {
+                "keyword": "portas segurança beira",
+                "score": 0.8519
+            },
+            {
+                "keyword": "portas segurança",
+                "score": 0.8501
+            },
+            {
+                "keyword": "portas segurança beira baixa",
+                "score": 0.8267
+            },
+            {
+                "keyword": "segurança beira",
+                "score": 0.7289
+            },
+            {
+                "keyword": "segurança beira baixa",
+                "score": 0.6866
+            },
+            {
+                "keyword": "beira baixa",
+                "score": 0.4276
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1ttt8q7",
+        "source": "reddit",
+        "created_at": "2026-06-01 14:04:25",
+        "title_clean": "Expressões covilhanenses",
+        "clean_text": "Podemme dizer expressões típicas e gíria regional da Covilhã que ainda hoje se usa?",
+        "keywords": [
+            {
+                "keyword": "expressões típicas gíria regional",
+                "score": 0.7593
+            },
+            {
+                "keyword": "típicas gíria regional",
+                "score": 0.6178
+            },
+            {
+                "keyword": "dizer expressões típicas gíria",
+                "score": 0.6037
+            },
+            {
+                "keyword": "expressões típicas gíria",
+                "score": 0.6011
+            },
+            {
+                "keyword": "dizer expressões típicas",
+                "score": 0.5742
+            },
+            {
+                "keyword": "podemme dizer expressões típicas",
+                "score": 0.5701
+            },
+            {
+                "keyword": "expressões típicas",
+                "score": 0.5646
+            },
+            {
+                "keyword": "gíria regional",
+                "score": 0.5638
+            },
+            {
+                "keyword": "hoje usa",
+                "score": 0.5367
+            },
+            {
+                "keyword": "dizer expressões",
+                "score": 0.5208
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1tn4jng",
+        "source": "reddit",
+        "created_at": "2026-05-25 09:58:55",
+        "title_clean": "Lançamento do BT Connect na Beira Tech",
+        "clean_text": "A Beira Tech está a lançar o BT Connect, um novo espaço exclusivo para os membros activos da nossa comunidade. Este espaço é dedicado ao networking e à partilha de conhecimento entre os participantes dos meetups, e gratuito. O BT Connect oferece uma oportunidade única para aqueles que estão presentes nos nossos eventos. A primeira apresentação sobre esta nova iniciativa terá lugar no próximo meetup, que ocorre no dia 28 de maio, no Parque Industrial do Tortosendo, Covilhã. Participar nos meetups é a chave para aceder a conteúdos e oportunidades únicas. Sabemos que a troca de ideias e experiências é fundamental para o crescimento de todos. Para saber mais, visita Inscrevete agora Mods feel free to remove if not allowed",
+        "keywords": [
+            {
+                "keyword": "bt connect oferece oportunidade",
+                "score": 0.7313
+            },
+            {
+                "keyword": "bt connect oferece",
+                "score": 0.702
+            },
+            {
+                "keyword": "lançar bt connect",
+                "score": 0.7003
+            },
+            {
+                "keyword": "tech lançar bt connect",
+                "score": 0.6948
+            },
+            {
+                "keyword": "lançar bt connect novo",
+                "score": 0.6852
+            },
+            {
+                "keyword": "gratuito bt connect",
+                "score": 0.684
+            },
+            {
+                "keyword": "bt connect",
+                "score": 0.6829
+            },
+            {
+                "keyword": "meetups gratuito bt connect",
+                "score": 0.6748
+            },
+            {
+                "keyword": "bt connect novo",
+                "score": 0.6743
+            },
+            {
+                "keyword": "gratuito bt connect oferece",
+                "score": 0.6486
+            }
+        ]
     }
 ]

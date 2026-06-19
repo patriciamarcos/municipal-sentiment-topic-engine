@@ -105,10 +105,11 @@ def download_from_r2():
             print(f"DOWNLOAD OK: {file_path}")
             downloaded += 1
 
-        except client.exceptions.NoSuchKey:
-            print(f"AVISO: {file_path} não encontrado no R2")
         except Exception as e:
-            print(f"ERRO ao descarregar {file_path}: {e}")
+            if "404" in str(e) or "NoSuchKey" in str(e):
+                print(f"AVISO: {file_path} não encontrado no R2")
+            else:
+                print(f"ERRO ao descarregar {file_path}: {e}")
 
     print(f"\nDescarregados: {downloaded}")
     print(f"Sem alterações: {skipped}")
@@ -197,7 +198,7 @@ def main():
         print("\nVerifica os erros acima antes de correr o db_insert.py")
     else:
         print("\nTodos os passos concluídos com sucesso.")
-        print("Podes agora correr o db_insert.py para inserir na BD.")
+        print("Podes agora correr o database/db_insert.py para inserir na BD.")
 
 
 # ============================================================
