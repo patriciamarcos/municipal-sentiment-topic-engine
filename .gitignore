@@ -1,0 +1,31 @@
+# ambiente virtual
+.venv/
+venv/
+env/
+
+# modelos treinados (muito grandes)
+models/
+
+# dados raw e processados (ficam no R2)
+data/raw/
+data/clean/
+data/keywords/
+data/ner/
+data/sentiment/
+data/emotion/
+data/topics/
+data/merged/
+
+# variáveis de ambiente (credenciais)
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# sistemas operativos
+.DS_Store
+Thumbs.db

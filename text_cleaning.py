@@ -856,6 +856,13 @@ if __name__ == "__main__":
             "record_type": "post",
             "min_chars": 20,
         },
+        {
+            "input_path": "data/raw/youtube_posts.json",
+            "output_path": "data/clean/youtube/youtube_cleaned.json",
+            "skipped_output_path": "data/clean/youtube/youtube_skipped.json",
+            "record_type": "post",
+            "min_chars": 20,
+        },
     ]
 
     clean_multiple_json_files(FILES_TO_CLEAN)
@@ -868,3 +875,6 @@ if __name__ == "__main__":
 
     print("\n\n===== EXEMPLOS DE REDDIT LIMPOS =====")
     show_examples_from_json("data/clean/reddit/reddit_cleaned.json", limit=3)
+
+    print("\n\n===== EXEMPLOS DE YOUTUBE LIMPOS =====")
+    show_examples_from_json("data/clean/youtube/youtube_cleaned.json", limit=3)

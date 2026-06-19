@@ -18,21 +18,28 @@ FILES_TO_PROCESS = [
         "input_path": "data/clean/news/news_cleaned.json",
         "output_path": "data/keywords/news_keywords.json",
         "top_n": 10,
-        "min_chars": 80,
+        "min_chars": 20,
     },
     {
         "name": "bluesky",
         "input_path": "data/clean/bluesky/bluesky_cleaned.json",
         "output_path": "data/keywords/bluesky_keywords.json",
         "top_n": 8,
-        "min_chars": 20,
+        "min_chars": 10,
     },
     {
         "name": "reddit",
         "input_path": "data/clean/reddit/reddit_cleaned.json",
         "output_path": "data/keywords/reddit_keywords.json",
         "top_n": 10,
-        "min_chars": 40,
+        "min_chars": 20,
+    },
+    {
+        "name": "youtube",
+        "input_path": "data/clean/youtube/youtube_cleaned.json",
+        "output_path": "data/keywords/youtube_keywords.json",
+        "top_n": 10,
+        "min_chars": 20,
     },
 ]
 
