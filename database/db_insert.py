@@ -302,6 +302,13 @@ def insert_topic(cursor, text_document_id, merged):
 
     topic_keywords = merged.get("topic_keywords", [])
 
+    # apagar tópico existente para este documento
+    cursor.execute("""
+        DELETE FROM [dbo].[TopicAssignment]
+        WHERE [TextDocument_ID] = ?
+    """, text_document_id)
+
+    # inserir tópico atualizado
     cursor.execute("""
         INSERT INTO [dbo].[TopicAssignment] (
             [TextDocument_ID],
@@ -318,7 +325,6 @@ def insert_topic(cursor, text_document_id, merged):
         ", ".join(topic_keywords) if topic_keywords else None,
         "1.0",
     )
-
 
 # ============================================================
 # VERIFICAR JÁ INSERIDOS
