@@ -1,0 +1,3032 @@
+[
+    {
+        "record_id": "reddit_1t9jcs3",
+        "source": "reddit",
+        "created_at": "2026-05-10 21:22:18",
+        "title_clean": "Procura de trabalho, sou estudante",
+        "clean_text": "sou estudante universitária, e estou á procura de emprego, já mandei CV para todos os trabalhos disponíveis que eu poderia fazer, mas ngm me responde, se alguém souber de algo ou tiver alguma dica, agradeço Pode ser qualquer tipo de trabalho",
+        "keywords": [
+            {
+                "keyword": "universitária estou procura emprego",
+                "score": 0.7384
+            },
+            {
+                "keyword": "estou procura emprego",
+                "score": 0.7364
+            },
+            {
+                "keyword": "procura emprego mandei cv",
+                "score": 0.7101
+            },
+            {
+                "keyword": "emprego mandei cv",
+                "score": 0.7046
+            },
+            {
+                "keyword": "procura emprego",
+                "score": 0.6828
+            },
+            {
+                "keyword": "estou procura emprego mandei",
+                "score": 0.6797
+            },
+            {
+                "keyword": "cv todos trabalhos disponíveis",
+                "score": 0.6733
+            },
+            {
+                "keyword": "procura emprego mandei",
+                "score": 0.6357
+            },
+            {
+                "keyword": "qualquer tipo trabalho",
+                "score": 0.6127
+            },
+            {
+                "keyword": "cv todos trabalhos",
+                "score": 0.6117
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1t4oexy",
+        "source": "reddit",
+        "created_at": "2026-05-05 18:42:16",
+        "title_clean": "Ajuda Questionário Dissertação - Faltam 50 respostas",
+        "clean_text": "Olá, Se puderem ajudar a obter respostas necessárias para a minha dissertação, deixo o link Faço também troca de respostas! Obrigada",
+        "keywords": [
+            {
+                "keyword": "respostas necessárias minha dissertação",
+                "score": 0.835
+            },
+            {
+                "keyword": "necessárias minha dissertação",
+                "score": 0.7673
+            },
+            {
+                "keyword": "necessárias minha dissertação deixo",
+                "score": 0.7521
+            },
+            {
+                "keyword": "minha dissertação deixo link",
+                "score": 0.7104
+            },
+            {
+                "keyword": "minha dissertação",
+                "score": 0.6979
+            },
+            {
+                "keyword": "dissertação deixo link",
+                "score": 0.6032
+            },
+            {
+                "keyword": "minha dissertação deixo",
+                "score": 0.5937
+            },
+            {
+                "keyword": "dissertação deixo link faço",
+                "score": 0.5752
+            },
+            {
+                "keyword": "respostas obrigada",
+                "score": 0.5553
+            },
+            {
+                "keyword": "ajudar obter respostas necessárias",
+                "score": 0.5367
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1t3rm4x",
+        "source": "reddit",
+        "created_at": "2026-05-04 19:16:12",
+        "title_clean": "Alguém a vender casa ?",
+        "clean_text": "Viva a todos, ando à procura de compra de casa com um teto máximo de 170k pela zona da Covilha, Fundão e arredores. Alguém sabe de alguma casa ? Particulares principalmente.",
+        "keywords": [
+            {
+                "keyword": "compra casa teto máximo",
+                "score": 0.7464
+            },
+            {
+                "keyword": "procura compra casa",
+                "score": 0.7199
+            },
+            {
+                "keyword": "casa teto máximo 170k",
+                "score": 0.7174
+            },
+            {
+                "keyword": "ando procura compra casa",
+                "score": 0.6946
+            },
+            {
+                "keyword": "procura compra casa teto",
+                "score": 0.6932
+            },
+            {
+                "keyword": "alguém sabe alguma casa",
+                "score": 0.69
+            },
+            {
+                "keyword": "compra casa",
+                "score": 0.6697
+            },
+            {
+                "keyword": "sabe alguma casa",
+                "score": 0.6641
+            },
+            {
+                "keyword": "compra casa teto",
+                "score": 0.6462
+            },
+            {
+                "keyword": "alguma casa particulares principalmente",
+                "score": 0.6241
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1sx6liu",
+        "source": "reddit",
+        "created_at": "2026-04-27 15:12:28",
+        "title_clean": "Procuro lojas de segunda mão e mercados de usados (cozinha, casa, etc.) ♻️",
+        "clean_text": "Olá pessoal! sou nova na Covilhã e ando à procura de recomendações de lojas de segunda mão, lojas de usados, mercados ao ar livre tipo Feira da Ladra ou até eventos onde se vendam coisas em segunda mão especialmente utensílios de cozinha, loiça, pequenos eletrodomésticos e coisas para a casa no geral. Tenho tentado adotar um consumo mais consciente e sustentável, fugindo um bocado às grandes superfícies e procurando alternativas mais interessantes coisas reutilizadas, com história, e muitas vezes de melhor qualidade. Se conhecerem sítios porreiros lojas físicas, feiras, mercados ou até páginas online, agradecia imenso as sugestões muito obrigada",
+        "keywords": [
+            {
+                "keyword": "recomendações lojas segunda mão",
+                "score": 0.6852
+            },
+            {
+                "keyword": "sítios porreiros lojas físicas",
+                "score": 0.6761
+            },
+            {
+                "keyword": "ando procura recomendações lojas",
+                "score": 0.6747
+            },
+            {
+                "keyword": "procura recomendações lojas",
+                "score": 0.6649
+            },
+            {
+                "keyword": "recomendações lojas",
+                "score": 0.6641
+            },
+            {
+                "keyword": "conhecerem sítios porreiros lojas",
+                "score": 0.6631
+            },
+            {
+                "keyword": "procurando alternativas interessantes coisas",
+                "score": 0.6531
+            },
+            {
+                "keyword": "sítios porreiros lojas",
+                "score": 0.6459
+            },
+            {
+                "keyword": "lojas usados",
+                "score": 0.6319
+            },
+            {
+                "keyword": "recomendações lojas segunda",
+                "score": 0.6294
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1sumqqu",
+        "source": "reddit",
+        "created_at": "2026-04-24 17:43:26",
+        "title_clean": "Há vivências da infância que o corpo não esquece - preciso da tua ajuda neste estudo",
+        "clean_text": "Olá a todos! Estou a desenvolver um estudo sobre a relação entre trauma infantil e diferentes dimensões do funcionamento em adultos, nomeadamente a consciência corporal, a reatividade do sistema nervoso autónomo, os estilos de vinculação e a sintomatologia de Perturbação de Stresse PósTraumático PSPT. Se tiver 18 anos ou mais e residir em Portugal, pode participar. O questionário é anónimo, confidencial e voluntário. Pode aceder aqui Caso tenha alguma dúvida, não hesite em perguntar. Se não puder participar, a partilha já é uma grande ajuda. Obrigada",
+        "keywords": [
+            {
+                "keyword": "estudo relação trauma infantil",
+                "score": 0.7683
+            },
+            {
+                "keyword": "relação trauma infantil diferentes",
+                "score": 0.7487
+            },
+            {
+                "keyword": "relação trauma infantil",
+                "score": 0.7331
+            },
+            {
+                "keyword": "trauma infantil diferentes dimensões",
+                "score": 0.7167
+            },
+            {
+                "keyword": "trauma infantil diferentes",
+                "score": 0.7117
+            },
+            {
+                "keyword": "trauma infantil",
+                "score": 0.6826
+            },
+            {
+                "keyword": "desenvolver estudo relação trauma",
+                "score": 0.6696
+            },
+            {
+                "keyword": "estudo relação trauma",
+                "score": 0.6456
+            },
+            {
+                "keyword": "stresse póstraumático pspt tiver",
+                "score": 0.5989
+            },
+            {
+                "keyword": "relação trauma",
+                "score": 0.5859
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1sl4js8/beira_tech_meetups_tech_na_beira_interior_juntate/",
+        "source": "unknown",
+        "created_at": "2026-04-14 10:18:03",
+        "title_clean": "Beira Tech - Meetup's tech na Beira Interior - Junta-te a nós!",
+        "clean_text": "Vamos lançar o 1.º Beira Tech Meetup no Parkurbis! No dia 30 de abril, juntamos a malta de tech da região da Covilhã para um encontro simples boa conversa, partilha real e networking útil sem complicações. O objectivo é criar um ponto de encontro regular para quem está a construir, aprender ou escalar projetos em tecnologia, aqui na Beira Interior! Onde PARKURBIS Parque de Ciência e Tecnologia da Covilhã Covilhã Quando 30 de abril Para quem devs, founders, freelancers, product, data, IA, cibersegurança e curiosos por tecnologia Limite 35 aventureiros GRATUITO Se estás por perto e queres fazer parte desde o início, registate já",
+        "keywords": [
+            {
+                "keyword": "lançar beira tech meetup",
+                "score": 0.7915
+            },
+            {
+                "keyword": "beira tech meetup",
+                "score": 0.7188
+            },
+            {
+                "keyword": "beira tech meetup parkurbis",
+                "score": 0.7177
+            },
+            {
+                "keyword": "tech meetup",
+                "score": 0.7168
+            },
+            {
+                "keyword": "tech meetup parkurbis",
+                "score": 0.6914
+            },
+            {
+                "keyword": "tech meetup parkurbis 30",
+                "score": 0.6432
+            },
+            {
+                "keyword": "objectivo criar ponto encontro",
+                "score": 0.5925
+            },
+            {
+                "keyword": "vamos lançar beira tech",
+                "score": 0.5749
+            },
+            {
+                "keyword": "lançar beira tech",
+                "score": 0.5684
+            },
+            {
+                "keyword": "criar ponto encontro",
+                "score": 0.5615
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1scbva5/questionário_de_dissertação_de_mestrado_preciso/",
+        "source": "unknown",
+        "created_at": "2026-04-04 15:17:17",
+        "title_clean": "Questionário de Dissertação de Mestrado (Preciso de 30 respostas!!)",
+        "clean_text": "Bom dia a todosas, Neste momento estou a desenvolver a minha investigação de dissertação intitulada Relação entre o uso das Redes Sociais, Solidão e Comparação Social numa amostra de jovens adultos portugueses. Gostaria de convidar a todos aqueles com idades entre os 18 anos e os 30 anos e nacionalidade portuguesa, a responderem e a partilharem este inquérito! O questionário tem duração de 510 minutos. A vossa participação é voluntária. Os dados obtidos serão apenas utilizados para fins académicos, e garantese anonimato e confidencialidade das respostas. Agradeço desde já pela vossa atenção! Participe através deste link",
+        "keywords": [
+            {
+                "keyword": "jovens adultos portugueses gostaria",
+                "score": 0.7386
+            },
+            {
+                "keyword": "amostra jovens adultos portugueses",
+                "score": 0.7364
+            },
+            {
+                "keyword": "jovens adultos portugueses",
+                "score": 0.722
+            },
+            {
+                "keyword": "adultos portugueses gostaria",
+                "score": 0.6943
+            },
+            {
+                "keyword": "adultos portugueses",
+                "score": 0.6846
+            },
+            {
+                "keyword": "nacionalidade portuguesa responderem partilharem",
+                "score": 0.6537
+            },
+            {
+                "keyword": "18 30 nacionalidade portuguesa",
+                "score": 0.6516
+            },
+            {
+                "keyword": "adultos portugueses gostaria convidar",
+                "score": 0.6395
+            },
+            {
+                "keyword": "social amostra jovens adultos",
+                "score": 0.6355
+            },
+            {
+                "keyword": "30 nacionalidade portuguesa responderem",
+                "score": 0.6346
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/gallery/1saoq4i",
+        "source": "unknown",
+        "created_at": "2026-04-02 17:59:06",
+        "title_clean": "Tattoos!",
+        "clean_text": "Hi, Im Alexandra or yandere_tattoo! Ive recently moved to Covilhã and opened a private tattoo studio named Until Death So this is my official application to becoming your new tattoo artist! I mostly do illustrative styles with themes like animecartoon, videogames, nature and animals. Im originally from Finland, so my portuguese is not great yet!, but theres another artist in the studio who speaks portuguese and can help with translation if youre not comfortable with english As a person Im really openminded and kind, I really care about my work and customers You can find me on instagram yandere_tattoo or our studio page untildeath.ttt",
+        "keywords": [
+            {
+                "keyword": "your new tattoo artist",
+                "score": 0.7228
+            },
+            {
+                "keyword": "becoming your new tattoo",
+                "score": 0.6884
+            },
+            {
+                "keyword": "new tattoo artist",
+                "score": 0.687
+            },
+            {
+                "keyword": "new tattoo artist mostly",
+                "score": 0.6842
+            },
+            {
+                "keyword": "tattoo artist mostly",
+                "score": 0.666
+            },
+            {
+                "keyword": "tattoo artist",
+                "score": 0.6654
+            },
+            {
+                "keyword": "tattoo artist mostly illustrative",
+                "score": 0.6641
+            },
+            {
+                "keyword": "tattoo studio",
+                "score": 0.6456
+            },
+            {
+                "keyword": "your new tattoo",
+                "score": 0.6418
+            },
+            {
+                "keyword": "new tattoo",
+                "score": 0.6109
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1s0mcwk/campos_de_basketball/",
+        "source": "unknown",
+        "created_at": "2026-03-22 13:59:37",
+        "title_clean": "Campos de basketball",
+        "clean_text": "Hello, Existe algum campo onde se possa jogar basketball preferência gratuito e acessível sem ser a sócios para os lados da camara? Sei que existe o complexo ao pé do puralã, mas queria perceber se existe algo mais para o topo da cidade",
+        "keywords": [
+            {
+                "keyword": "campo possa jogar basketball",
+                "score": 0.7524
+            },
+            {
+                "keyword": "jogar basketball preferência gratuito",
+                "score": 0.6883
+            },
+            {
+                "keyword": "basketball preferência gratuito acessível",
+                "score": 0.677
+            },
+            {
+                "keyword": "possa jogar basketball preferência",
+                "score": 0.6624
+            },
+            {
+                "keyword": "basketball preferência gratuito",
+                "score": 0.6552
+            },
+            {
+                "keyword": "possa jogar basketball",
+                "score": 0.638
+            },
+            {
+                "keyword": "jogar basketball preferência",
+                "score": 0.6348
+            },
+            {
+                "keyword": "algum campo possa jogar",
+                "score": 0.6187
+            },
+            {
+                "keyword": "basketball preferência",
+                "score": 0.6023
+            },
+            {
+                "keyword": "jogar basketball",
+                "score": 0.5869
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_/r/gamingportugal/comments/1rkhsxd/processador_gráfica/",
+        "source": "unknown",
+        "created_at": "2026-03-04 16:36:50",
+        "title_clean": "Processador + gráfica",
+        "clean_text": "Processador + gráfica",
+        "keywords": [
+            {
+                "keyword": "processador gráfica",
+                "score": 0.9232
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://i.redd.it/pqieeeh7ollg1.jpeg",
+        "source": "unknown",
+        "created_at": "2026-02-25 08:30:44",
+        "title_clean": "Wheels tocam ao vivo na Covilhã - 29 de Fev no auditório Júlio Cardona",
+        "clean_text": "A banda leiriense Wheels vem atuar à Covilhã esta quinta no Auditório Júlio Cardona, às 2130. Trazem um som de rock psicadélico indie alternativo, e estão numa fase mesmo boa banda em clara ascensão Para quem gosta de música ao vivo e quer apoiar concertos na cidade, pareceme um ótimo programa para quintafeira à noite. Espero ver alguns de vocês por lá!",
+        "keywords": [
+            {
+                "keyword": "concertos cidade pareceme",
+                "score": 0.6361
+            },
+            {
+                "keyword": "concertos cidade pareceme ótimo",
+                "score": 0.6062
+            },
+            {
+                "keyword": "banda leiriense wheels vem",
+                "score": 0.5988
+            },
+            {
+                "keyword": "apoiar concertos cidade pareceme",
+                "score": 0.5817
+            },
+            {
+                "keyword": "concertos cidade",
+                "score": 0.581
+            },
+            {
+                "keyword": "música vivo quer",
+                "score": 0.5695
+            },
+            {
+                "keyword": "quer apoiar concertos cidade",
+                "score": 0.5666
+            },
+            {
+                "keyword": "música vivo",
+                "score": 0.5626
+            },
+            {
+                "keyword": "rock psicadélico indie",
+                "score": 0.5595
+            },
+            {
+                "keyword": "leiriense wheels vem",
+                "score": 0.5518
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1r64u1n/barbeiro/",
+        "source": "unknown",
+        "created_at": "2026-02-16 09:07:46",
+        "title_clean": "Barbeiro",
+        "clean_text": "bom dia a todos, podem me dizer recomendações de barbeiros nas Covilhã que estejam habituados a fazer cortes à tesoura em cabelos masculinos de tamanho médio? não sou fã nem uso degradês etc... e sinto que de momento não conheço quem me pode ajudar",
+        "keywords": [
+            {
+                "keyword": "recomendações barbeiros",
+                "score": 0.8128
+            },
+            {
+                "keyword": "me dizer recomendações barbeiros",
+                "score": 0.8092
+            },
+            {
+                "keyword": "dizer recomendações barbeiros",
+                "score": 0.7927
+            },
+            {
+                "keyword": "fazer cortes tesoura cabelos",
+                "score": 0.7192
+            },
+            {
+                "keyword": "cortes tesoura cabelos masculinos",
+                "score": 0.6917
+            },
+            {
+                "keyword": "cortes tesoura cabelos",
+                "score": 0.6731
+            },
+            {
+                "keyword": "tesoura cabelos",
+                "score": 0.6338
+            },
+            {
+                "keyword": "tesoura cabelos masculinos",
+                "score": 0.6303
+            },
+            {
+                "keyword": "tesoura cabelos masculinos tamanho",
+                "score": 0.6024
+            },
+            {
+                "keyword": "cabelos masculinos",
+                "score": 0.5808
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1r00nke/faz_falta_um_parque_de_estacionamento_amplo_nas/",
+        "source": "unknown",
+        "created_at": "2026-02-09 10:22:05",
+        "title_clean": "Faz falta um parque de estacionamento amplo nas Penhas da Saúde...",
+        "clean_text": "Boas. Antes de me mandarem já com pedras, leiam o post todo primeiro existem lá opções, mas os limpa neves não entram lá O seguinte texto é apenas a opinião de alguém que não é morador da Covilhã, apenas alguém que vai há Serra da Estrela uma vez por ano!!!, portanto a minha opinião pode estar completamente errada ou enviesada pelas diversas experiências vividas. Dito isto... Há na minha opinião, há um claro caos nas Penhas da Saúde, quando os acessos ao maciço central estão cortados. É claro as filas de transito devido à normal afluência e consequente corte da estrada mais a frente. Logo, toda a gente aterra nas Penhas da Saúde... Isto gera os já conhecidos constrangimentos e complicações no estacionamento de quem quer ir aproveitar, lá está, a neve como turista já nem falo dos possíveis coitados que ali trabalham. Há uma clara falta de opções de estacionamento nas Penhas da Saúde. O parque do hotel, é problemático devido a várias situações que não vale a pena estar aqui a descrever... Faz falta, um grande parque de estacionamento ali na zona, AMPLO, plano q.b., QUE FACILITE!!!!! os trabalhos das equipas limpa neves... se é possível? Não sei, talvez não... mas que faz mesmo muito falta lá isso faz... Um agradecimento especial a todas as equipas que tornam possível a deslocação em segurança à zona. Até pó ano! Com ou sem neve! Nota não quero falar de falta de senso comum em diversos condutores e demais situações que presenciei este fim de semana, porque é surreal algumas das coisas que por ali se passam.",
+        "keywords": [
+            {
+                "keyword": "até pó neve não",
+                "score": 0.6184
+            },
+            {
+                "keyword": "ir aproveitar lá neve",
+                "score": 0.6107
+            },
+            {
+                "keyword": "limpa neves não entram",
+                "score": 0.6078
+            },
+            {
+                "keyword": "até pó neve",
+                "score": 0.6054
+            },
+            {
+                "keyword": "limpa neves possível não",
+                "score": 0.6041
+            },
+            {
+                "keyword": "limpa neves não",
+                "score": 0.5996
+            },
+            {
+                "keyword": "lá opções limpa neves",
+                "score": 0.5925
+            },
+            {
+                "keyword": "neves possível não",
+                "score": 0.5887
+            },
+            {
+                "keyword": "zona até pó neve",
+                "score": 0.5796
+            },
+            {
+                "keyword": "opções limpa neves não",
+                "score": 0.5758
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1qvkg6t/mais_um_pato_bravo_à_procura_de_informações/",
+        "source": "unknown",
+        "created_at": "2026-02-04 09:52:12",
+        "title_clean": "Mais um pato bravo à procura de informações",
+        "clean_text": "Bom dia a todos. Não morando na região, mas sendo visitante todos os anos por esta altura, eu, como tantos patos bravos, somos confrontados com a obrigação obviamente de comprar correntes para os nossos veículos para subir até certo ponto na Serra. As previsões no próximo fim de semana, apontam para queda de neve. Ou seja, pela primeira vez, terei de comprar as ditas correntes ou as mantas. Depois de fazer uma pesquisa, pareceme que o local ideal será comprar este material será na região da Covilhã, pelo que após pesquisa rápida surgiume a Roady no Intermarche. Já enviei email, mas palpitame que ninguém me vai responder. A minha questão é simples... se a Roady não tiver em stock no Sábado, para o tamanho dos meus pneus, onde poderei encontrar mais deste material na cidade da Covilhã? Obrigado a todos e boa semana! P.S não vou passar das Penhas da Saúde por motivos óbvios. EDIT acabei por mandar vir da Amazon.es porque não encontro em lado nenhum para o tamanho dos meus pneus.",
+        "keywords": [
+            {
+                "keyword": "até certo ponto serra",
+                "score": 0.5449
+            },
+            {
+                "keyword": "comprar correntes nossos veículos",
+                "score": 0.5378
+            },
+            {
+                "keyword": "nossos veículos subir até",
+                "score": 0.536
+            },
+            {
+                "keyword": "correntes nossos veículos subir",
+                "score": 0.5347
+            },
+            {
+                "keyword": "semana apontam queda neve",
+                "score": 0.5293
+            },
+            {
+                "keyword": "terei comprar ditas correntes",
+                "score": 0.5268
+            },
+            {
+                "keyword": "obviamente comprar correntes nossos",
+                "score": 0.5173
+            },
+            {
+                "keyword": "obviamente comprar correntes",
+                "score": 0.5149
+            },
+            {
+                "keyword": "apontam queda neve seja",
+                "score": 0.5025
+            },
+            {
+                "keyword": "pareceme local ideal comprar",
+                "score": 0.5011
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1qubcvk/dicas_de_atividades/",
+        "source": "unknown",
+        "created_at": "2026-02-02 23:24:51",
+        "title_clean": "Dicas de atividades",
+        "clean_text": "Boas, Vim para Covilhã com o intuito de ir até a estância de esqui da Serra, mas se encontra fechada e provavelmente não irá abrir nos dias que estarei aqui. Indicam algum sítio para visitar e brincar na neve, aqui próximo, e que de para chegar mesmo com os acesso fechados? Além do mais, estou aberto a sugestões de atividades, restaurantes e tascas por aqui!",
+        "keywords": [
+            {
+                "keyword": "ir até estância esqui",
+                "score": 0.7667
+            },
+            {
+                "keyword": "sítio visitar brincar neve",
+                "score": 0.7449
+            },
+            {
+                "keyword": "até estância esqui",
+                "score": 0.7286
+            },
+            {
+                "keyword": "visitar brincar neve aqui",
+                "score": 0.7258
+            },
+            {
+                "keyword": "neve aqui próximo",
+                "score": 0.7214
+            },
+            {
+                "keyword": "neve aqui próximo chegar",
+                "score": 0.7133
+            },
+            {
+                "keyword": "brincar neve aqui próximo",
+                "score": 0.7019
+            },
+            {
+                "keyword": "visitar brincar neve",
+                "score": 0.6986
+            },
+            {
+                "keyword": "esqui serra encontra fechada",
+                "score": 0.6936
+            },
+            {
+                "keyword": "estância esqui",
+                "score": 0.6905
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://v.redd.it/swpi675zs4fg1",
+        "source": "unknown",
+        "created_at": "2026-01-23 17:10:44",
+        "title_clean": "Neve na Covilhã 🌨️",
+        "clean_text": "Primeira vez que vejo neve na Covilhã",
+        "keywords": [
+            {
+                "keyword": "primeira vez vejo neve",
+                "score": 0.9429
+            },
+            {
+                "keyword": "vez vejo neve",
+                "score": 0.8642
+            },
+            {
+                "keyword": "vejo neve",
+                "score": 0.6778
+            },
+            {
+                "keyword": "primeira vez vejo",
+                "score": 0.6339
+            },
+            {
+                "keyword": "primeira vez",
+                "score": 0.4686
+            },
+            {
+                "keyword": "vez vejo",
+                "score": 0.4158
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1qjm2ij/procuro_emprego_sou_estudante/",
+        "source": "unknown",
+        "created_at": "2026-01-22 05:31:35",
+        "title_clean": "Procuro Emprego, sou estudante.",
+        "clean_text": "Olá sou estudante da UBI, estou a procura de um emprego cá na Covilhãestou cá a viver desde setembro do ano passado, ando a mandar o CV a todo lado, mas ngm me responde, se alguém souber de algo ou tiver alguma dica, agradeço Pode ser qualquer tipo de trabalho",
+        "keywords": [
+            {
+                "keyword": "estou procura emprego cá",
+                "score": 0.6821
+            },
+            {
+                "keyword": "estou procura emprego",
+                "score": 0.6715
+            },
+            {
+                "keyword": "ubi estou procura emprego",
+                "score": 0.6657
+            },
+            {
+                "keyword": "procura emprego cá",
+                "score": 0.6485
+            },
+            {
+                "keyword": "procura emprego",
+                "score": 0.6279
+            },
+            {
+                "keyword": "estudante ubi estou procura",
+                "score": 0.5376
+            },
+            {
+                "keyword": "emprego cá",
+                "score": 0.524
+            },
+            {
+                "keyword": "mandar cv",
+                "score": 0.503
+            },
+            {
+                "keyword": "mandar cv todo lado",
+                "score": 0.4861
+            },
+            {
+                "keyword": "mandar cv todo",
+                "score": 0.4606
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1qae1tj/novas_amizades/",
+        "source": "unknown",
+        "created_at": "2026-01-11 23:03:47",
+        "title_clean": "Novas amizades",
+        "clean_text": "Fala pessoal! Tem alguém por aí que é da Covilhã e gostaria de formar um grupo de desconhecidosamigos! Sou F na casa dos 30 e não tenho muitos amigos por aqui, quem sabe mais alguém nessa situação. Tenho vários hoobies, como academia, jogar, comer, padel, caminhadas, entre outros! Falem alguma coisa pelo chat!",
+        "keywords": [
+            {
+                "keyword": "gostaria formar grupo desconhecidosamigos",
+                "score": 0.6781
+            },
+            {
+                "keyword": "formar grupo desconhecidosamigos sou",
+                "score": 0.647
+            },
+            {
+                "keyword": "muitos amigos aqui",
+                "score": 0.6316
+            },
+            {
+                "keyword": "grupo desconhecidosamigos sou",
+                "score": 0.6307
+            },
+            {
+                "keyword": "muitos amigos aqui quem",
+                "score": 0.6106
+            },
+            {
+                "keyword": "tenho muitos amigos aqui",
+                "score": 0.5966
+            },
+            {
+                "keyword": "caminhadas outros falem alguma",
+                "score": 0.5941
+            },
+            {
+                "keyword": "grupo desconhecidosamigos sou casa",
+                "score": 0.583
+            },
+            {
+                "keyword": "fala pessoal alguém aí",
+                "score": 0.5686
+            },
+            {
+                "keyword": "formar grupo desconhecidosamigos",
+                "score": 0.5637
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1q43vwd/roupas_para_esquiar/",
+        "source": "unknown",
+        "created_at": "2026-01-04 22:36:40",
+        "title_clean": "Roupas para esquiar",
+        "clean_text": "Boas! Conhecem algum lugar que alugue casaco e calças para esqui? Ou então seria melhor comprar? Na estação da Serra não alugam, apenas os equipamentos.",
+        "keywords": [
+            {
+                "keyword": "alugue casaco calças esqui",
+                "score": 0.7747
+            },
+            {
+                "keyword": "casaco calças esqui",
+                "score": 0.648
+            },
+            {
+                "keyword": "algum lugar alugue casaco",
+                "score": 0.6463
+            },
+            {
+                "keyword": "calças esqui",
+                "score": 0.6446
+            },
+            {
+                "keyword": "casaco calças esqui então",
+                "score": 0.6246
+            },
+            {
+                "keyword": "esqui então seria melhor",
+                "score": 0.6082
+            },
+            {
+                "keyword": "lugar alugue casaco calças",
+                "score": 0.5904
+            },
+            {
+                "keyword": "não alugam apenas equipamentos",
+                "score": 0.5782
+            },
+            {
+                "keyword": "alugue casaco calças",
+                "score": 0.5654
+            },
+            {
+                "keyword": "conhecem algum lugar alugue",
+                "score": 0.5636
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1of6a5l/looking_for_information_about_beira_interior/",
+        "source": "unknown",
+        "created_at": "2025-10-24 18:59:32",
+        "title_clean": "Looking for information about Beira Interior University and Covilha as a city in general",
+        "clean_text": "I am coming to the city for an erasmus exchange in the summer term next year. I dont know what to expect, it would help a lot if someone gave me a heads up. What are the average prices of rent and living, are there a lot of erasmus students in the city, is the city lively, is the population on the younger or older side. Also any info about the uni, are the standards of education high for erasmus students for psychology majors specifically, How hard is to pass subjects, do the profesors speak good english and do they provide additional lectures in english, is it possible to survive with limited knowledge of Portuguese. Thanks in advance for anyone who answers some of these questions Theres not a lot of info on the Internet about the city so Im counting on reddit...",
+        "keywords": [
+            {
+                "keyword": "erasmus students for",
+                "score": 0.5889
+            },
+            {
+                "keyword": "erasmus students in",
+                "score": 0.5749
+            },
+            {
+                "keyword": "high for erasmus students",
+                "score": 0.5518
+            },
+            {
+                "keyword": "of erasmus students in",
+                "score": 0.5486
+            },
+            {
+                "keyword": "erasmus students",
+                "score": 0.5451
+            },
+            {
+                "keyword": "education high for erasmus",
+                "score": 0.5444
+            },
+            {
+                "keyword": "erasmus students in the",
+                "score": 0.5437
+            },
+            {
+                "keyword": "lot of erasmus students",
+                "score": 0.5404
+            },
+            {
+                "keyword": "of erasmus students",
+                "score": 0.5165
+            },
+            {
+                "keyword": "erasmus students for psychology",
+                "score": 0.5049
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1nry6r3/amigs_jogos_de_tabuleiro_pogo_e_dnd/",
+        "source": "unknown",
+        "created_at": "2025-09-27 15:32:50",
+        "title_clean": "Amig , jogos de tabuleiro, PoGo e DnD",
+        "clean_text": "Boa tarde malta, Alguém se quer juntar ou adotarme no grupo para jogar uns jogos de tabuleiro, PokémonGo ou fazer campanha de DnD?",
+        "keywords": [
+            {
+                "keyword": "juntar adotarme grupo jogar",
+                "score": 0.7464
+            },
+            {
+                "keyword": "quer juntar adotarme grupo",
+                "score": 0.7387
+            },
+            {
+                "keyword": "juntar adotarme grupo",
+                "score": 0.7015
+            },
+            {
+                "keyword": "alguém quer juntar adotarme",
+                "score": 0.7006
+            },
+            {
+                "keyword": "adotarme grupo jogar jogos",
+                "score": 0.6901
+            },
+            {
+                "keyword": "adotarme grupo jogar",
+                "score": 0.6837
+            },
+            {
+                "keyword": "malta alguém quer juntar",
+                "score": 0.6834
+            },
+            {
+                "keyword": "alguém quer juntar",
+                "score": 0.6804
+            },
+            {
+                "keyword": "quer juntar adotarme",
+                "score": 0.6795
+            },
+            {
+                "keyword": "quer juntar",
+                "score": 0.6602
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1nipwnj/camisola_do_sporting_covilhã/",
+        "source": "unknown",
+        "created_at": "2025-09-16 18:40:52",
+        "title_clean": "Camisola do Sporting Covilhã",
+        "clean_text": "Viva malta, Sou de Lisboa, e estou a tentar comprar uma camisola do Sporting de Covilha online mas a mesma aparece como indisponivel. Alguem sabe se é normal estar assim? Caso seja, alguma ajuda de como comprar? Obrigado desde já",
+        "keywords": [
+            {
+                "keyword": "tentar comprar camisola sporting",
+                "score": 0.7733
+            },
+            {
+                "keyword": "comprar camisola sporting",
+                "score": 0.7365
+            },
+            {
+                "keyword": "tentar comprar camisola",
+                "score": 0.7229
+            },
+            {
+                "keyword": "estou tentar comprar camisola",
+                "score": 0.6933
+            },
+            {
+                "keyword": "comprar camisola",
+                "score": 0.6834
+            },
+            {
+                "keyword": "lisboa estou tentar comprar",
+                "score": 0.47
+            },
+            {
+                "keyword": "tentar comprar",
+                "score": 0.4323
+            },
+            {
+                "keyword": "seja alguma ajuda comprar",
+                "score": 0.4269
+            },
+            {
+                "keyword": "estou tentar comprar",
+                "score": 0.414
+            },
+            {
+                "keyword": "alguma ajuda comprar",
+                "score": 0.4101
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1ngpila/cabeleireirabarbeiro/",
+        "source": "unknown",
+        "created_at": "2025-09-14 12:02:25",
+        "title_clean": "Cabeleireira/barbeiro",
+        "clean_text": "Este fim de semana cometeu se uma atrocidade, em casa, com o meu cabelo e ficou mesmo mal cortado... Gostava de ir a um sítio não mt carobarato para desenrascar esta situação. Estou aberto a sugestões.",
+        "keywords": [
+            {
+                "keyword": "atrocidade casa meu cabelo",
+                "score": 0.6854
+            },
+            {
+                "keyword": "casa meu cabelo",
+                "score": 0.5763
+            },
+            {
+                "keyword": "meu cabelo",
+                "score": 0.5135
+            },
+            {
+                "keyword": "cometeu atrocidade casa meu",
+                "score": 0.4726
+            },
+            {
+                "keyword": "atrocidade casa meu",
+                "score": 0.466
+            },
+            {
+                "keyword": "carobarato desenrascar situação estou",
+                "score": 0.465
+            },
+            {
+                "keyword": "cortado gostava ir sítio",
+                "score": 0.4525
+            },
+            {
+                "keyword": "semana cometeu atrocidade casa",
+                "score": 0.4314
+            },
+            {
+                "keyword": "mal cortado gostava ir",
+                "score": 0.4259
+            },
+            {
+                "keyword": "sítio não mt carobarato",
+                "score": 0.4174
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1n51xwn/sugestões_de_ginásios/",
+        "source": "unknown",
+        "created_at": "2025-08-31 18:19:18",
+        "title_clean": "Sugestões de ginásios",
+        "clean_text": "Com bom acompanhamento a nível de funcionários...",
+        "keywords": [
+            {
+                "keyword": "bom acompanhamento nível funcionários",
+                "score": 0.9206
+            },
+            {
+                "keyword": "acompanhamento nível funcionários",
+                "score": 0.8335
+            },
+            {
+                "keyword": "nível funcionários",
+                "score": 0.7591
+            },
+            {
+                "keyword": "bom acompanhamento nível",
+                "score": 0.6524
+            },
+            {
+                "keyword": "bom acompanhamento",
+                "score": 0.6154
+            },
+            {
+                "keyword": "acompanhamento nível",
+                "score": 0.5189
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1n4ri6u/cinemas/",
+        "source": "unknown",
+        "created_at": "2025-08-31 10:41:28",
+        "title_clean": "Cinemas",
+        "clean_text": "Estou a me mudar para Covilhã nesta próxima semana, porém reparei que há apenas 1 cinema na cidade e há baixíssima variedade de filmes em cartaz. Alguém pode me informar se há algum plano futuro na cidade para outro shopping center com outra rede de cinema, como NOS por exemplo?",
+        "keywords": [
+            {
+                "keyword": "cinema cidade há baixíssima",
+                "score": 0.6904
+            },
+            {
+                "keyword": "cinema cidade há",
+                "score": 0.6846
+            },
+            {
+                "keyword": "apenas cinema cidade há",
+                "score": 0.6718
+            },
+            {
+                "keyword": "há apenas cinema cidade",
+                "score": 0.6576
+            },
+            {
+                "keyword": "futuro cidade outro shopping",
+                "score": 0.6523
+            },
+            {
+                "keyword": "cinema cidade",
+                "score": 0.64
+            },
+            {
+                "keyword": "futuro cidade outro",
+                "score": 0.6371
+            },
+            {
+                "keyword": "apenas cinema cidade",
+                "score": 0.6293
+            },
+            {
+                "keyword": "plano futuro cidade outro",
+                "score": 0.6288
+            },
+            {
+                "keyword": "algum plano futuro cidade",
+                "score": 0.6273
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1n3zwt0/voleibol_em_covilhã/",
+        "source": "unknown",
+        "created_at": "2025-08-30 12:04:09",
+        "title_clean": "Voleibol em Covilhã",
+        "clean_text": "Olá malta! Alguém sabe onde posso jogar voleibol aqui em Covilhã? Tenho alguma experiência, mas não me importo nada de jogar com grupos que estejam a começar. O que gosto mesmo é da diversão e do convívio.",
+        "keywords": [
+            {
+                "keyword": "posso jogar voleibol aqui",
+                "score": 0.7696
+            },
+            {
+                "keyword": "jogar voleibol aqui",
+                "score": 0.7498
+            },
+            {
+                "keyword": "voleibol aqui",
+                "score": 0.7288
+            },
+            {
+                "keyword": "sabe posso jogar voleibol",
+                "score": 0.7127
+            },
+            {
+                "keyword": "posso jogar voleibol",
+                "score": 0.7044
+            },
+            {
+                "keyword": "jogar voleibol",
+                "score": 0.6857
+            },
+            {
+                "keyword": "alguém sabe posso jogar",
+                "score": 0.4792
+            },
+            {
+                "keyword": "posso jogar",
+                "score": 0.4683
+            },
+            {
+                "keyword": "me importo nada jogar",
+                "score": 0.4668
+            },
+            {
+                "keyword": "importo nada jogar grupos",
+                "score": 0.4557
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1mb0169/covilha_bjj_jiu_jitsu/",
+        "source": "unknown",
+        "created_at": "2025-07-27 22:51:43",
+        "title_clean": "Covilha Bjj (jiu jitsu)",
+        "clean_text": "Olá, alguém sabe se na covilhã existe academia de bjj ou grappling?",
+        "keywords": [
+            {
+                "keyword": "existe academia bjj",
+                "score": 0.6031
+            },
+            {
+                "keyword": "existe academia bjj grappling",
+                "score": 0.5791
+            },
+            {
+                "keyword": "academia bjj",
+                "score": 0.5657
+            },
+            {
+                "keyword": "olá alguém sabe",
+                "score": 0.5498
+            },
+            {
+                "keyword": "academia bjj grappling",
+                "score": 0.4977
+            },
+            {
+                "keyword": "olá alguém",
+                "score": 0.4878
+            },
+            {
+                "keyword": "existe academia",
+                "score": 0.4522
+            },
+            {
+                "keyword": "bjj grappling",
+                "score": 0.4379
+            },
+            {
+                "keyword": "alguém sabe",
+                "score": 0.4366
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1m3xvx9/à_procura_de_trabalho_em_covilhã_falo_apenas/",
+        "source": "unknown",
+        "created_at": "2025-07-19 14:41:40",
+        "title_clean": "À procura de trabalho em Covilhã (falo apenas inglês)",
+        "clean_text": "Olá! Estou em Covilhã e à procura de qualquer tipo de trabalho. Falo apenas inglês, por isso tem sido um pouco difícil. Se alguém souber de alguém que esteja a contratar, agradeço muito qualquer dica. Obrigado!",
+        "keywords": [
+            {
+                "keyword": "esteja contratar agradeço qualquer",
+                "score": 0.633
+            },
+            {
+                "keyword": "alguém esteja contratar",
+                "score": 0.6272
+            },
+            {
+                "keyword": "esteja contratar",
+                "score": 0.6057
+            },
+            {
+                "keyword": "procura qualquer tipo trabalho",
+                "score": 0.6055
+            },
+            {
+                "keyword": "alguém esteja contratar agradeço",
+                "score": 0.5908
+            },
+            {
+                "keyword": "trabalho falo apenas inglês",
+                "score": 0.5845
+            },
+            {
+                "keyword": "souber alguém esteja contratar",
+                "score": 0.5634
+            },
+            {
+                "keyword": "contratar agradeço qualquer",
+                "score": 0.5611
+            },
+            {
+                "keyword": "esteja contratar agradeço",
+                "score": 0.5558
+            },
+            {
+                "keyword": "contratar agradeço",
+                "score": 0.5354
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1lmr330/aprendendo_português/",
+        "source": "unknown",
+        "created_at": "2025-06-28 16:33:48",
+        "title_clean": "Aprendendo português",
+        "clean_text": "Oi! Vou mudar para a Covilhã em agosto e gostaria de aprender português. Alguém sabe onde encontrar curso de português na Covilhã? Obrigada",
+        "keywords": [
+            {
+                "keyword": "gostaria aprender português",
+                "score": 0.8913
+            },
+            {
+                "keyword": "gostaria aprender português alguém",
+                "score": 0.8777
+            },
+            {
+                "keyword": "sabe encontrar curso português",
+                "score": 0.822
+            },
+            {
+                "keyword": "aprender português",
+                "score": 0.817
+            },
+            {
+                "keyword": "aprender português alguém sabe",
+                "score": 0.808
+            },
+            {
+                "keyword": "aprender português alguém",
+                "score": 0.808
+            },
+            {
+                "keyword": "encontrar curso português",
+                "score": 0.7982
+            },
+            {
+                "keyword": "curso português",
+                "score": 0.7214
+            },
+            {
+                "keyword": "português alguém sabe",
+                "score": 0.6628
+            },
+            {
+                "keyword": "português alguém sabe encontrar",
+                "score": 0.6588
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1kaxya7/ringue_para_dar_uns_toques/",
+        "source": "unknown",
+        "created_at": "2025-04-29 20:23:52",
+        "title_clean": "Ringue para dar uns toques",
+        "clean_text": "Onde há um ringue de graça só para ir dar uns toques de vez em quando ? E se o pessoal se quiser juntar era top",
+        "keywords": [
+            {
+                "keyword": "só ir dar toques",
+                "score": 0.6192
+            },
+            {
+                "keyword": "ir dar toques vez",
+                "score": 0.5971
+            },
+            {
+                "keyword": "toques vez pessoal quiser",
+                "score": 0.5886
+            },
+            {
+                "keyword": "ringue graça só ir",
+                "score": 0.5819
+            },
+            {
+                "keyword": "dar toques vez",
+                "score": 0.5727
+            },
+            {
+                "keyword": "só ir dar",
+                "score": 0.5709
+            },
+            {
+                "keyword": "quiser juntar era top",
+                "score": 0.551
+            },
+            {
+                "keyword": "graça só ir",
+                "score": 0.5408
+            },
+            {
+                "keyword": "dar toques vez pessoal",
+                "score": 0.54
+            },
+            {
+                "keyword": "toques vez",
+                "score": 0.5349
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1k9c8l2/tcg_mtg_lorcana/",
+        "source": "unknown",
+        "created_at": "2025-04-27 19:28:20",
+        "title_clean": "TCG - MTG, Lorcana...",
+        "clean_text": "Olá malta. Moro na Covilhã mas desde que deixei de ser estudante estou um pouco afastado destas coisas que acontecem na cidade. Alguém sabe onde há malta que se junta para jogar TCG eou Boardgames? Para além do sitio onde conseguem saber quando há eventos?",
+        "keywords": [
+            {
+                "keyword": "tcg eou boardgames além",
+                "score": 0.6365
+            },
+            {
+                "keyword": "jogar tcg eou boardgames",
+                "score": 0.6252
+            },
+            {
+                "keyword": "boardgames além sitio",
+                "score": 0.597
+            },
+            {
+                "keyword": "boardgames além sitio conseguem",
+                "score": 0.5949
+            },
+            {
+                "keyword": "tcg eou boardgames",
+                "score": 0.5711
+            },
+            {
+                "keyword": "eou boardgames além sitio",
+                "score": 0.5682
+            },
+            {
+                "keyword": "boardgames além",
+                "score": 0.5462
+            },
+            {
+                "keyword": "jogar tcg",
+                "score": 0.5366
+            },
+            {
+                "keyword": "junta jogar tcg",
+                "score": 0.5279
+            },
+            {
+                "keyword": "coisas acontecem cidade alguém",
+                "score": 0.5252
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1jv1ahh/cacifo_público_na_covilhã/",
+        "source": "unknown",
+        "created_at": "2025-04-09 09:02:55",
+        "title_clean": "Cacifo público na Covilhã?",
+        "clean_text": "Bom dia. Alguém sabe se existe algum cacifo de utilização pública na Covilhã, ou pelo menos alguma loja que guarde mochilas, preferencialmente junto à estação de comboios? Na estação propriamente dita penso não haver. Obrigado.",
+        "keywords": [
+            {
+                "keyword": "mochilas preferencialmente junto estação",
+                "score": 0.7351
+            },
+            {
+                "keyword": "alguma loja guarde mochilas",
+                "score": 0.6823
+            },
+            {
+                "keyword": "loja guarde mochilas preferencialmente",
+                "score": 0.6417
+            },
+            {
+                "keyword": "loja guarde mochilas",
+                "score": 0.6395
+            },
+            {
+                "keyword": "junto estação comboios estação",
+                "score": 0.5954
+            },
+            {
+                "keyword": "junto estação comboios",
+                "score": 0.5937
+            },
+            {
+                "keyword": "menos alguma loja",
+                "score": 0.5891
+            },
+            {
+                "keyword": "preferencialmente junto estação comboios",
+                "score": 0.5848
+            },
+            {
+                "keyword": "junto estação",
+                "score": 0.574
+            },
+            {
+                "keyword": "menos alguma loja guarde",
+                "score": 0.5728
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://i.redd.it/ao7ljpl88fqe1.jpeg",
+        "source": "unknown",
+        "created_at": "2025-03-23 11:01:54",
+        "title_clean": "Banho turco - onde?",
+        "clean_text": "Bom dia! Onde existe banho turco? Entre a Guarda e Castelo Branco, no máximo... Ao contrário da sauna que se realiza em atmosfera seca, o banho turco consiste em permanecer numa atmosfera saturada de vapor de água 100 de humidade, a uma temperatura entre os 40 e 50 graus.",
+        "keywords": [
+            {
+                "keyword": "banho turco consiste",
+                "score": 0.7775
+            },
+            {
+                "keyword": "atmosfera seca banho turco",
+                "score": 0.7724
+            },
+            {
+                "keyword": "seca banho turco consiste",
+                "score": 0.7703
+            },
+            {
+                "keyword": "seca banho turco",
+                "score": 0.769
+            },
+            {
+                "keyword": "banho turco guarda",
+                "score": 0.7387
+            },
+            {
+                "keyword": "banho turco",
+                "score": 0.7213
+            },
+            {
+                "keyword": "banho turco guarda castelo",
+                "score": 0.7096
+            },
+            {
+                "keyword": "banho turco consiste permanecer",
+                "score": 0.707
+            },
+            {
+                "keyword": "existe banho turco",
+                "score": 0.705
+            },
+            {
+                "keyword": "existe banho turco guarda",
+                "score": 0.6931
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1jhwox1/pilates_onde/",
+        "source": "unknown",
+        "created_at": "2025-03-23 10:56:25",
+        "title_clean": "Pilates - onde?",
+        "clean_text": "Bom dia! Onde se pode praticar pilates? Quais as opções na Covilhã ou relativamente próximo?",
+        "keywords": [
+            {
+                "keyword": "pode praticar pilates",
+                "score": 0.6427
+            },
+            {
+                "keyword": "praticar pilates quais opções",
+                "score": 0.6399
+            },
+            {
+                "keyword": "praticar pilates",
+                "score": 0.6046
+            },
+            {
+                "keyword": "bom pode praticar pilates",
+                "score": 0.5837
+            },
+            {
+                "keyword": "pode praticar",
+                "score": 0.5001
+            },
+            {
+                "keyword": "pode praticar pilates quais",
+                "score": 0.4905
+            },
+            {
+                "keyword": "pilates quais opções",
+                "score": 0.4795
+            },
+            {
+                "keyword": "praticar pilates quais",
+                "score": 0.479
+            },
+            {
+                "keyword": "quais opções",
+                "score": 0.4633
+            },
+            {
+                "keyword": "bom pode praticar",
+                "score": 0.4632
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1j3erdg/onde_pôr_o_carro_a_lavar_por_dentro_e_por_fora/",
+        "source": "unknown",
+        "created_at": "2025-03-04 16:29:42",
+        "title_clean": "Onde pôr o carro a lavar, por dentro e por fora?",
+        "clean_text": "Boa tarde a tods! Na Covilhã, onde existe um bom sítio para me levarem o carro, por dentro e por fora? Sem riscarem e sem colocarem produtos oleosos no tablier. Obrigada",
+        "keywords": [
+            {
+                "keyword": "carro dentro fora riscarem",
+                "score": 0.7425
+            },
+            {
+                "keyword": "levarem carro dentro fora",
+                "score": 0.7203
+            },
+            {
+                "keyword": "sítio me levarem carro",
+                "score": 0.7085
+            },
+            {
+                "keyword": "levarem carro dentro",
+                "score": 0.6786
+            },
+            {
+                "keyword": "carro dentro fora",
+                "score": 0.6767
+            },
+            {
+                "keyword": "me levarem carro dentro",
+                "score": 0.6713
+            },
+            {
+                "keyword": "levarem carro",
+                "score": 0.6603
+            },
+            {
+                "keyword": "me levarem carro",
+                "score": 0.654
+            },
+            {
+                "keyword": "carro dentro",
+                "score": 0.6013
+            },
+            {
+                "keyword": "bom sítio me levarem",
+                "score": 0.5918
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1iq4v7p/como_está_o_tempo_na_serra_da_estrela/",
+        "source": "unknown",
+        "created_at": "2025-02-15 16:19:57",
+        "title_clean": "Como está o tempo na Serra da Estrela?",
+        "clean_text": "Boas vou estar amanhã na como o tempo está lá amanhã se está neve ou nao? Obrigado.",
+        "keywords": [
+            {
+                "keyword": "tempo lá amanhã neve",
+                "score": 0.902
+            },
+            {
+                "keyword": "amanhã neve",
+                "score": 0.8683
+            },
+            {
+                "keyword": "lá amanhã neve",
+                "score": 0.8608
+            },
+            {
+                "keyword": "lá amanhã neve nao",
+                "score": 0.8519
+            },
+            {
+                "keyword": "amanhã neve nao",
+                "score": 0.8496
+            },
+            {
+                "keyword": "amanhã neve nao obrigado",
+                "score": 0.8085
+            },
+            {
+                "keyword": "tempo lá amanhã",
+                "score": 0.7793
+            },
+            {
+                "keyword": "boas vou estar amanhã",
+                "score": 0.7432
+            },
+            {
+                "keyword": "vou estar amanhã tempo",
+                "score": 0.7135
+            },
+            {
+                "keyword": "amanhã tempo lá",
+                "score": 0.7113
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1iliaq2/serra_estrelacomboio_covilhã/",
+        "source": "unknown",
+        "created_at": "2025-02-09 16:18:15",
+        "title_clean": "Serra Estrela/Comboio Covilhã",
+        "clean_text": "Boa tarde, queria ir à Serra da estrela na próxima semana. Mas venho de Lisboa de comboio. O comboio chegaria à Covilhã às 1153 e o Autocarro para a Torre sai às 1202... Vocês sabem se os atrasos da CP para a Covilhã são frequentes ou se o autocarro espera?",
+        "keywords": [
+            {
+                "keyword": "comboio comboio chegaria",
+                "score": 0.6068
+            },
+            {
+                "keyword": "semana venho lisboa comboio",
+                "score": 0.6033
+            },
+            {
+                "keyword": "comboio chegaria",
+                "score": 0.5992
+            },
+            {
+                "keyword": "lisboa comboio comboio chegaria",
+                "score": 0.5786
+            },
+            {
+                "keyword": "sabem atrasos",
+                "score": 0.519
+            },
+            {
+                "keyword": "são frequentes autocarro espera",
+                "score": 0.5143
+            },
+            {
+                "keyword": "venho lisboa comboio comboio",
+                "score": 0.5137
+            },
+            {
+                "keyword": "frequentes autocarro espera",
+                "score": 0.5124
+            },
+            {
+                "keyword": "venho lisboa comboio",
+                "score": 0.5088
+            },
+            {
+                "keyword": "1202 vocês sabem atrasos",
+                "score": 0.4944
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1i1du1x/o_que_ver_e_visitar_na_covilhã/",
+        "source": "unknown",
+        "created_at": "2025-01-14 19:12:27",
+        "title_clean": "O que ver e visitar na covilhã",
+        "clean_text": "Boas pessoal, vou visitar a covilha serra da estrela para a próxima semana com a rapariga, vão ser 2.5 dias a contar com as viagens, o que aconselha a visitar? estava pensar alem de ir ao pico e se tiver sorte ver a neve, fazer algum geocahing. Também vou para Manteigas. todas as dicas dão jeito. Também alguns locais para comer que não sejam muito caros.",
+        "keywords": [
+            {
+                "keyword": "boas pessoal vou visitar",
+                "score": 0.6078
+            },
+            {
+                "keyword": "vou visitar",
+                "score": 0.5955
+            },
+            {
+                "keyword": "pessoal vou visitar",
+                "score": 0.5864
+            },
+            {
+                "keyword": "rapariga vão contar viagens",
+                "score": 0.578
+            },
+            {
+                "keyword": "próxima semana rapariga vão",
+                "score": 0.5429
+            },
+            {
+                "keyword": "sorte ver neve fazer",
+                "score": 0.5296
+            },
+            {
+                "keyword": "neve fazer algum geocahing",
+                "score": 0.523
+            },
+            {
+                "keyword": "aconselha visitar",
+                "score": 0.5223
+            },
+            {
+                "keyword": "contar viagens aconselha visitar",
+                "score": 0.5177
+            },
+            {
+                "keyword": "viagens aconselha visitar",
+                "score": 0.5168
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1gx5kmh/encontro_de_carros/",
+        "source": "unknown",
+        "created_at": "2024-11-22 11:20:02",
+        "title_clean": "Encontro de carros",
+        "clean_text": "Boas pessoal! Gostava de saber se existem encontros mensais ou recorrentes de carros clássicos, etc, para além do Clássicos da Covilhã, aqui na zona da Covilhã e arredores. Obrigado!",
+        "keywords": [
+            {
+                "keyword": "encontros mensais recorrentes carros",
+                "score": 0.7068
+            },
+            {
+                "keyword": "mensais recorrentes carros clássicos",
+                "score": 0.6942
+            },
+            {
+                "keyword": "recorrentes carros clássicos etc",
+                "score": 0.6324
+            },
+            {
+                "keyword": "carros clássicos etc além",
+                "score": 0.6292
+            },
+            {
+                "keyword": "carros clássicos etc",
+                "score": 0.6071
+            },
+            {
+                "keyword": "mensais recorrentes carros",
+                "score": 0.5997
+            },
+            {
+                "keyword": "recorrentes carros clássicos",
+                "score": 0.5987
+            },
+            {
+                "keyword": "gostava saber existem encontros",
+                "score": 0.5613
+            },
+            {
+                "keyword": "saber existem encontros mensais",
+                "score": 0.5595
+            },
+            {
+                "keyword": "existem encontros mensais recorrentes",
+                "score": 0.5533
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1gx354k/peladinhas/",
+        "source": "unknown",
+        "created_at": "2024-11-22 08:21:28",
+        "title_clean": "Peladinhas",
+        "clean_text": "Existe por aí grupos de pessoal que combinam peladinhas. Gostava de voltar a mandar uns toques",
+        "keywords": [
+            {
+                "keyword": "existe aí grupos",
+                "score": 0.7376
+            },
+            {
+                "keyword": "pessoal combinam peladinhas",
+                "score": 0.7312
+            },
+            {
+                "keyword": "existe aí grupos pessoal",
+                "score": 0.6928
+            },
+            {
+                "keyword": "aí grupos",
+                "score": 0.6891
+            },
+            {
+                "keyword": "grupos pessoal combinam peladinhas",
+                "score": 0.6866
+            },
+            {
+                "keyword": "aí grupos pessoal",
+                "score": 0.6702
+            },
+            {
+                "keyword": "aí grupos pessoal combinam",
+                "score": 0.6606
+            },
+            {
+                "keyword": "pessoal combinam peladinhas gostava",
+                "score": 0.6422
+            },
+            {
+                "keyword": "pessoal combinam",
+                "score": 0.6368
+            },
+            {
+                "keyword": "grupos pessoal combinam",
+                "score": 0.5607
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1gwuvc2/discos_vinil/",
+        "source": "unknown",
+        "created_at": "2024-11-22 00:26:58",
+        "title_clean": "Discos Vinil",
+        "clean_text": "Alguém pode recomendar locais para comprar discos de vinil na Covilhã?",
+        "keywords": [
+            {
+                "keyword": "recomendar locais comprar discos",
+                "score": 0.7599
+            },
+            {
+                "keyword": "pode recomendar locais comprar",
+                "score": 0.6917
+            },
+            {
+                "keyword": "recomendar locais comprar",
+                "score": 0.6667
+            },
+            {
+                "keyword": "locais comprar discos vinil",
+                "score": 0.6637
+            },
+            {
+                "keyword": "locais comprar discos",
+                "score": 0.659
+            },
+            {
+                "keyword": "alguém pode recomendar locais",
+                "score": 0.6426
+            },
+            {
+                "keyword": "comprar discos vinil",
+                "score": 0.6016
+            },
+            {
+                "keyword": "pode recomendar locais",
+                "score": 0.5921
+            },
+            {
+                "keyword": "locais comprar",
+                "score": 0.5574
+            },
+            {
+                "keyword": "comprar discos",
+                "score": 0.5389
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1fgkh3l/alojamento_de_esudantes/",
+        "source": "unknown",
+        "created_at": "2024-09-14 12:02:13",
+        "title_clean": "Alojamento de esudantes",
+        "clean_text": "Olá! O meu filho poderá ser colocado na UBI vou saber amanhã Que dicas me podem dar wm relação a alojamento? A universidade tem bastante alojamento? Os alunos custumam organizarse e alugar um t3 para partilhar e dividir as despesas? Os transportes publicos são bons e podese ficar mais longe ou é melhor ficar perto da universidade por causa do frio do Inverno? As casasquartos geralmente estão bem preparados para o frio? Em suma, um guia de como procurar alojamento na Covilhã para totós",
+        "keywords": [
+            {
+                "keyword": "alunos custumam organizarse alugar",
+                "score": 0.7023
+            },
+            {
+                "keyword": "organizarse alugar",
+                "score": 0.6416
+            },
+            {
+                "keyword": "alojamento universidade bastante",
+                "score": 0.6401
+            },
+            {
+                "keyword": "custumam organizarse alugar",
+                "score": 0.6352
+            },
+            {
+                "keyword": "alojamento universidade bastante alojamento",
+                "score": 0.6342
+            },
+            {
+                "keyword": "relação alojamento universidade bastante",
+                "score": 0.6254
+            },
+            {
+                "keyword": "relação alojamento universidade",
+                "score": 0.6127
+            },
+            {
+                "keyword": "alojamento universidade",
+                "score": 0.6119
+            },
+            {
+                "keyword": "ficar perto universidade",
+                "score": 0.6022
+            },
+            {
+                "keyword": "melhor ficar perto universidade",
+                "score": 0.5929
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://i.redd.it/5kd13fohtnld1.jpeg",
+        "source": "unknown",
+        "created_at": "2024-09-02 10:58:47",
+        "title_clean": "Covilhã, Beira Baixa",
+        "clean_text": "Covilhã, Beira Baixa",
+        "keywords": [
+            {
+                "keyword": "beira baixa",
+                "score": 0.5572
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1ex1zaq/qual_a_melhor_pizzaria_na_cidade_da_covilhã/",
+        "source": "unknown",
+        "created_at": "2024-08-20 17:43:44",
+        "title_clean": "Qual a melhor Pizzaria na cidade da Covilhã?",
+        "clean_text": "Basicamente, o título.",
+        "keywords": [
+            {
+                "keyword": "basicamente título",
+                "score": 0.9562
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1e6iwxg/alguém_para_fazer_alguma_coisa/",
+        "source": "unknown",
+        "created_at": "2024-07-18 18:51:14",
+        "title_clean": "Alguém para fazer alguma coisa?",
+        "clean_text": "Bom dia, tenho 23 anos e sou um rapaz espanhol. Eu cheguei para um estágio nesta cidade há dois semanas, más até agora fazer amizades foi impossivel para mim. Eu gostaria de conhecer gente boa, que me mostrasse os melhores sítios da zona. Muito obrigado pela atençao e desculpem o meu mau português.",
+        "keywords": [
+            {
+                "keyword": "gostaria conhecer gente boa",
+                "score": 0.5814
+            },
+            {
+                "keyword": "23 sou rapaz espanhol",
+                "score": 0.5803
+            },
+            {
+                "keyword": "sou rapaz espanhol",
+                "score": 0.5798
+            },
+            {
+                "keyword": "sou rapaz espanhol eu",
+                "score": 0.5746
+            },
+            {
+                "keyword": "desculpem meu mau português",
+                "score": 0.5651
+            },
+            {
+                "keyword": "espanhol eu cheguei",
+                "score": 0.5639
+            },
+            {
+                "keyword": "eu gostaria conhecer gente",
+                "score": 0.5572
+            },
+            {
+                "keyword": "rapaz espanhol eu cheguei",
+                "score": 0.5563
+            },
+            {
+                "keyword": "espanhol eu cheguei estágio",
+                "score": 0.5557
+            },
+            {
+                "keyword": "espanhol eu",
+                "score": 0.543
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1dzu8fs/leather_outlet_stores/",
+        "source": "unknown",
+        "created_at": "2024-07-10 12:12:55",
+        "title_clean": "Leather / Outlet stores",
+        "clean_text": "alguma loja outlet não turística para bons produtos de couro?",
+        "keywords": [
+            {
+                "keyword": "loja outlet não turística",
+                "score": 0.8174
+            },
+            {
+                "keyword": "alguma loja outlet",
+                "score": 0.7534
+            },
+            {
+                "keyword": "alguma loja",
+                "score": 0.7401
+            },
+            {
+                "keyword": "turística bons produtos couro",
+                "score": 0.6998
+            },
+            {
+                "keyword": "não turística bons produtos",
+                "score": 0.6602
+            },
+            {
+                "keyword": "alguma loja outlet não",
+                "score": 0.6597
+            },
+            {
+                "keyword": "turística bons produtos",
+                "score": 0.6539
+            },
+            {
+                "keyword": "loja outlet",
+                "score": 0.6365
+            },
+            {
+                "keyword": "outlet não turística bons",
+                "score": 0.6173
+            },
+            {
+                "keyword": "loja outlet não",
+                "score": 0.6162
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1dtgrqw/estadia_barata/",
+        "source": "unknown",
+        "created_at": "2024-07-02 08:24:24",
+        "title_clean": "Estadia barata",
+        "clean_text": "Bom dia, não consigo encontrar uma estadia na covilhã por menos de 40, em muitas cidades nos hostels pagase uma média de 20 noite, mas na covilhã não consigo encontrar nada disso. Alguém conhece alguma estadia barata ou não há alternativas ?",
+        "keywords": [
+            {
+                "keyword": "muitas cidades hostels",
+                "score": 0.68
+            },
+            {
+                "keyword": "cidades hostels pagase",
+                "score": 0.6762
+            },
+            {
+                "keyword": "cidades hostels",
+                "score": 0.6762
+            },
+            {
+                "keyword": "muitas cidades hostels pagase",
+                "score": 0.6746
+            },
+            {
+                "keyword": "cidades hostels pagase média",
+                "score": 0.6636
+            },
+            {
+                "keyword": "hostels pagase",
+                "score": 0.6577
+            },
+            {
+                "keyword": "40 muitas cidades hostels",
+                "score": 0.646
+            },
+            {
+                "keyword": "hostels pagase média",
+                "score": 0.6412
+            },
+            {
+                "keyword": "hostels pagase média 20",
+                "score": 0.6375
+            },
+            {
+                "keyword": "conhece alguma estadia barata",
+                "score": 0.5592
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1df9f4f/nova_aplicação_para_denúncia_de_estacionamentos/",
+        "source": "unknown",
+        "created_at": "2024-06-13 20:52:30",
+        "title_clean": "Nova Aplicação Para Denúncia de Estacionamentos Abusivos",
+        "clean_text": "Olá Covilhã. Este post serve para dar a conhecer uma nova app de denúncias de estacionamentos ilegais, que pode ser visitada no seguinte link Já existem outras aplicações que fazem o mesmo, mas acredito que esta tem algumas vantagens É uma Single Page Web App, significa que funciona igual em IOS e Android sem necessitar de instalar nada. Funciona através do navegador. Podem adicionar na mesma ao home screen como se fosse uma App Nativa É muito mais fácil e rápido de criar uma nova denúncia Não é necessário preencher dados constantemente, a morada e a polícia responsável é identificada automaticamente através da localização. Fiz esta web app para ser mais fácil e rápido denunciar situações de estacionamento abusivo na minha cidade, com o objetivo de tentar reduzir um pouco o problema, que tem piorado e muito nos últimos anos, e achei que podia ser do interesse também. Ainda existem outras vertentes da app, mas para saber mais acerca do funcionamento é só visitar Eu não ganho dinheiro com isto, só gasto na verdade. O site não tem nem vai ter publicidade, é só mesmo algo que eu acredito ser serviço publico e queria partilhar com quem possa ter interesse. Utilizem com honestidade e moderação, a polícia é notificada em todas as denúncias. Qualquer dúvida podem perguntar que eu respondo. Fiquem bem.",
+        "keywords": [
+            {
+                "keyword": "nova app denúncias estacionamentos",
+                "score": 0.7938
+            },
+            {
+                "keyword": "app denúncias estacionamentos ilegais",
+                "score": 0.7374
+            },
+            {
+                "keyword": "app denúncias estacionamentos",
+                "score": 0.7069
+            },
+            {
+                "keyword": "conhecer nova app denúncias",
+                "score": 0.6444
+            },
+            {
+                "keyword": "nova app denúncias",
+                "score": 0.6256
+            },
+            {
+                "keyword": "app fácil rápido denunciar",
+                "score": 0.6067
+            },
+            {
+                "keyword": "outras vertentes app saber",
+                "score": 0.5922
+            },
+            {
+                "keyword": "vertentes app saber acerca",
+                "score": 0.5829
+            },
+            {
+                "keyword": "outras vertentes app",
+                "score": 0.5804
+            },
+            {
+                "keyword": "denúncias estacionamentos ilegais pode",
+                "score": 0.5784
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1d170s4/formulário_académico/",
+        "source": "unknown",
+        "created_at": "2024-05-26 17:56:15",
+        "title_clean": "Formulário Académico",
+        "clean_text": "Boa tarde, Sou estudante e precisava que preenchessem um google forms no ambito de um projeto académico relacionado com a saude mental. Obrigado.",
+        "keywords": [
+            {
+                "keyword": "estudante precisava preenchessem google",
+                "score": 0.6631
+            },
+            {
+                "keyword": "académico relacionado saude mental",
+                "score": 0.651
+            },
+            {
+                "keyword": "precisava preenchessem google forms",
+                "score": 0.6416
+            },
+            {
+                "keyword": "google forms ambito projeto",
+                "score": 0.6282
+            },
+            {
+                "keyword": "preenchessem google forms ambito",
+                "score": 0.5982
+            },
+            {
+                "keyword": "google forms",
+                "score": 0.584
+            },
+            {
+                "keyword": "google forms ambito",
+                "score": 0.5776
+            },
+            {
+                "keyword": "preenchessem google forms",
+                "score": 0.5726
+            },
+            {
+                "keyword": "relacionado saude mental obrigado",
+                "score": 0.5628
+            },
+            {
+                "keyword": "relacionado saude mental",
+                "score": 0.5624
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/199tip6/ha_transportes_publicos_covilhã_torre_ao_fim_de/",
+        "source": "unknown",
+        "created_at": "2024-01-18 16:04:52",
+        "title_clean": "Ha transportes publicos Covilhã - Torre ao fim de semana?",
+        "clean_text": "Basicamemte é isso, qual a melhor opção para ir lá acima para quem nao tem carro?",
+        "keywords": [
+            {
+                "keyword": "quem nao carro",
+                "score": 0.6288
+            },
+            {
+                "keyword": "acima quem nao carro",
+                "score": 0.6288
+            },
+            {
+                "keyword": "opção ir lá acima",
+                "score": 0.6131
+            },
+            {
+                "keyword": "nao carro",
+                "score": 0.5973
+            },
+            {
+                "keyword": "melhor opção ir lá",
+                "score": 0.5787
+            },
+            {
+                "keyword": "opção ir lá",
+                "score": 0.5545
+            },
+            {
+                "keyword": "melhor opção ir",
+                "score": 0.5414
+            },
+            {
+                "keyword": "qual melhor opção ir",
+                "score": 0.5369
+            },
+            {
+                "keyword": "opção ir",
+                "score": 0.4954
+            },
+            {
+                "keyword": "ir lá acima",
+                "score": 0.4949
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/17o0wva/colvilhã_mtg/",
+        "source": "unknown",
+        "created_at": "2023-11-05 01:20:35",
+        "title_clean": "Colvilhã MTG?",
+        "clean_text": "Are there any MTG magic the gathering or cardshops in covilhã. Everything seems to be either dead or closed?",
+        "keywords": [
+            {
+                "keyword": "mtg magic the gathering",
+                "score": 0.6898
+            },
+            {
+                "keyword": "there any mtg magic",
+                "score": 0.622
+            },
+            {
+                "keyword": "any mtg magic the",
+                "score": 0.5982
+            },
+            {
+                "keyword": "any mtg magic",
+                "score": 0.5843
+            },
+            {
+                "keyword": "mtg magic the",
+                "score": 0.5715
+            },
+            {
+                "keyword": "mtg magic",
+                "score": 0.5489
+            },
+            {
+                "keyword": "magic the gathering",
+                "score": 0.5431
+            },
+            {
+                "keyword": "there any mtg",
+                "score": 0.5179
+            },
+            {
+                "keyword": "are there any mtg",
+                "score": 0.5008
+            },
+            {
+                "keyword": "gathering or cardshops in",
+                "score": 0.4971
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/17cgq5g/ajudemme_a_terminar_o_mestrado_sff_questionário/",
+        "source": "unknown",
+        "created_at": "2023-10-20 17:30:50",
+        "title_clean": "Ajudem-me a terminar o mestrado sff // Questionário para dissertação",
+        "clean_text": "Olá a todos, Estou a realizar uma dissertação de merstrado. O tema é identificar a percepção da Qualidade do Serviço da Ryanair. É um questionário muito curto, demora apenas uns 23 minutos Link Faltamme apenas 40 respostas, é um processo rápido e fácil e faziam alguém bastante feliz Obrigado",
+        "keywords": [
+            {
+                "keyword": "qualidade serviço ryanair questionário",
+                "score": 0.594
+            },
+            {
+                "keyword": "percepção qualidade serviço ryanair",
+                "score": 0.5926
+            },
+            {
+                "keyword": "serviço ryanair questionário curto",
+                "score": 0.5803
+            },
+            {
+                "keyword": "qualidade serviço ryanair",
+                "score": 0.551
+            },
+            {
+                "keyword": "serviço ryanair questionário",
+                "score": 0.5167
+            },
+            {
+                "keyword": "ryanair questionário curto demora",
+                "score": 0.4982
+            },
+            {
+                "keyword": "ryanair questionário curto",
+                "score": 0.4927
+            },
+            {
+                "keyword": "identificar percepção qualidade serviço",
+                "score": 0.4636
+            },
+            {
+                "keyword": "serviço ryanair",
+                "score": 0.4623
+            },
+            {
+                "keyword": "ryanair questionário",
+                "score": 0.4512
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/176ky2x/nucleoclube_automóvel_ubi/",
+        "source": "unknown",
+        "created_at": "2023-10-12 23:38:18",
+        "title_clean": "Nucleo/Clube Automóvel UBI",
+        "clean_text": "Boas! Alguém sabe de algum núcleoclube de automóveis, tem a ver com os karts e assim, que está para ser criado na UBI?",
+        "keywords": [
+            {
+                "keyword": "automóveis ver karts assim",
+                "score": 0.5526
+            },
+            {
+                "keyword": "automóveis ver karts",
+                "score": 0.5179
+            },
+            {
+                "keyword": "karts assim criado ubi",
+                "score": 0.508
+            },
+            {
+                "keyword": "karts assim criado",
+                "score": 0.4685
+            },
+            {
+                "keyword": "automóveis ver",
+                "score": 0.4521
+            },
+            {
+                "keyword": "ver karts assim criado",
+                "score": 0.4243
+            },
+            {
+                "keyword": "karts assim",
+                "score": 0.4218
+            },
+            {
+                "keyword": "ver karts assim",
+                "score": 0.3831
+            },
+            {
+                "keyword": "alguém sabe algum",
+                "score": 0.3636
+            },
+            {
+                "keyword": "boas alguém sabe algum",
+                "score": 0.3368
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/161sxm8/alguém_tem_conhecimento_de_alguma_loja_que_venda/",
+        "source": "unknown",
+        "created_at": "2023-08-26 11:40:41",
+        "title_clean": "Alguém tem conhecimento de alguma loja que venda merchandise de Metal/Punk na Covilhã, ou perto?",
+        "clean_text": "Alguém tem conhecimento de alguma loja que venda merchandise de Metal/Punk na Covilhã, ou perto?",
+        "keywords": [
+            {
+                "keyword": "loja venda merchandise metal",
+                "score": 0.7552
+            },
+            {
+                "keyword": "venda merchandise metal punk",
+                "score": 0.7323
+            },
+            {
+                "keyword": "alguém conhecimento alguma loja",
+                "score": 0.6962
+            },
+            {
+                "keyword": "alguma loja venda",
+                "score": 0.6849
+            },
+            {
+                "keyword": "merchandise metal punk",
+                "score": 0.684
+            },
+            {
+                "keyword": "alguma loja venda merchandise",
+                "score": 0.6806
+            },
+            {
+                "keyword": "loja venda merchandise",
+                "score": 0.6409
+            },
+            {
+                "keyword": "alguma loja",
+                "score": 0.6342
+            },
+            {
+                "keyword": "loja venda",
+                "score": 0.6306
+            },
+            {
+                "keyword": "merchandise metal",
+                "score": 0.618
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/13a3h6m/alguém_por_aqui/",
+        "source": "unknown",
+        "created_at": "2023-05-06 21:57:38",
+        "title_clean": "Alguém por aqui?",
+        "clean_text": "Acabei de chegar, estou tirando as teias de aranha desse subreddit.",
+        "keywords": [
+            {
+                "keyword": "estou tirando teias aranha",
+                "score": 0.8744
+            },
+            {
+                "keyword": "teias aranha desse subreddit",
+                "score": 0.8001
+            },
+            {
+                "keyword": "tirando teias aranha desse",
+                "score": 0.7834
+            },
+            {
+                "keyword": "aranha desse subreddit",
+                "score": 0.7805
+            },
+            {
+                "keyword": "chegar estou tirando teias",
+                "score": 0.7538
+            },
+            {
+                "keyword": "acabei chegar estou tirando",
+                "score": 0.7492
+            },
+            {
+                "keyword": "teias aranha desse",
+                "score": 0.7455
+            },
+            {
+                "keyword": "estou tirando teias",
+                "score": 0.739
+            },
+            {
+                "keyword": "tirando teias aranha",
+                "score": 0.7331
+            },
+            {
+                "keyword": "chegar estou tirando",
+                "score": 0.7168
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/xvl8qx/olá_reddit_da_covilhã_procuro_pessoal_para_me/",
+        "source": "unknown",
+        "created_at": "2022-10-04 17:32:13",
+        "title_clean": "Olá Reddit da Covilhã! Procuro pessoal para me divertir.",
+        "clean_text": "Olá, o meu nome é João, sou um estudante da UBI que está aqui no rcovilha á procura de novos amigos. Novos, velhos, permanentes our só de passagem. Curto de ir ver filmes, jantar fora e jogar jogos de PC e PS4, também gosto de passear de vez em quando só para apanhar um bocado de ar. Não, não sou um catfish, podemme fazer as perguntas que quiserem P Mandem DM se estiverem interessados!",
+        "keywords": [
+            {
+                "keyword": "podemme fazer perguntas quiserem",
+                "score": 0.6196
+            },
+            {
+                "keyword": "procura novos amigos",
+                "score": 0.5807
+            },
+            {
+                "keyword": "podemme fazer perguntas",
+                "score": 0.5807
+            },
+            {
+                "keyword": "fazer perguntas quiserem",
+                "score": 0.5787
+            },
+            {
+                "keyword": "fazer perguntas quiserem mandem",
+                "score": 0.5786
+            },
+            {
+                "keyword": "mandem dm estiverem interessados",
+                "score": 0.5696
+            },
+            {
+                "keyword": "procura novos amigos novos",
+                "score": 0.5624
+            },
+            {
+                "keyword": "perguntas quiserem mandem",
+                "score": 0.5596
+            },
+            {
+                "keyword": "perguntas quiserem mandem dm",
+                "score": 0.556
+            },
+            {
+                "keyword": "olá meu nome joão",
+                "score": 0.5545
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/sjj4fj/erasmus_portugal/",
+        "source": "unknown",
+        "created_at": "2022-02-03 13:24:59",
+        "title_clean": "Erasmus Portugal",
+        "clean_text": "Hello to all those who read it, I have until February 8, 2022 to say if Im finally going on Erasmus or not, Im going to Portugal to the city of Colvilhã, and I dont know anything, neither prices, nor things to do nor Nothing, I dont know how difficult it will be to learn Portuguese and I have many more doubts. If anyone knows about the subject or wants to advise me and show me their opinion, they are welcome. All the best!",
+        "keywords": [
+            {
+                "keyword": "going to portugal",
+                "score": 0.6304
+            },
+            {
+                "keyword": "going to portugal to",
+                "score": 0.6246
+            },
+            {
+                "keyword": "im going to portugal",
+                "score": 0.6132
+            },
+            {
+                "keyword": "to learn portuguese and",
+                "score": 0.5723
+            },
+            {
+                "keyword": "portugal to the",
+                "score": 0.5635
+            },
+            {
+                "keyword": "be to learn portuguese",
+                "score": 0.5624
+            },
+            {
+                "keyword": "to learn portuguese",
+                "score": 0.5611
+            },
+            {
+                "keyword": "portugal to",
+                "score": 0.5604
+            },
+            {
+                "keyword": "to portugal",
+                "score": 0.5495
+            },
+            {
+                "keyword": "to portugal to the",
+                "score": 0.5481
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/rxgypr/recomendação_de_psicólogo/",
+        "source": "unknown",
+        "created_at": "2022-01-06 15:18:40",
+        "title_clean": "Recomendação de psicólogo",
+        "clean_text": "Boa tarde pessoal. Preciso de referências de um bom psicólogo na zona da Covilhã. Tenho uma amiga minha que anda numa clínica de psicologia no entanto esta não lhe dá o devido acompanhamento. Fico a aguardar as vossas sugestões. Obrigado desde já.",
+        "keywords": [
+            {
+                "keyword": "preciso referências bom psicólogo",
+                "score": 0.854
+            },
+            {
+                "keyword": "referências bom psicólogo",
+                "score": 0.8186
+            },
+            {
+                "keyword": "referências bom psicólogo zona",
+                "score": 0.7805
+            },
+            {
+                "keyword": "bom psicólogo",
+                "score": 0.7393
+            },
+            {
+                "keyword": "bom psicólogo zona",
+                "score": 0.7315
+            },
+            {
+                "keyword": "minha anda clínica psicologia",
+                "score": 0.6591
+            },
+            {
+                "keyword": "psicólogo zona",
+                "score": 0.6555
+            },
+            {
+                "keyword": "clínica psicologia",
+                "score": 0.6352
+            },
+            {
+                "keyword": "clínica psicologia entanto",
+                "score": 0.6045
+            },
+            {
+                "keyword": "anda clínica psicologia",
+                "score": 0.6026
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_http://24.sapo.pt/atualidade/artigos/cplp-sedia-organismo-autonomo-na-covilha",
+        "source": "unknown",
+        "created_at": "2017-09-12 09:54:39",
+        "title_clean": "CPLP sedia organismo autónomo na Covilhã",
+        "clean_text": "CPLP sedia organismo autónomo na Covilhã",
+        "keywords": [
+            {
+                "keyword": "cplp sedia organismo autónomo",
+                "score": 0.8123
+            },
+            {
+                "keyword": "cplp sedia organismo",
+                "score": 0.7441
+            },
+            {
+                "keyword": "sedia organismo autónomo",
+                "score": 0.6957
+            },
+            {
+                "keyword": "sedia organismo",
+                "score": 0.6088
+            },
+            {
+                "keyword": "cplp sedia",
+                "score": 0.5561
+            },
+            {
+                "keyword": "organismo autónomo",
+                "score": 0.518
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/evilbuildings/comments/6vqvfo/this_evil_cube_is_not_your_companion/?st=j6r101r3&sh=deeae809",
+        "source": "unknown",
+        "created_at": "2017-08-25 10:55:45",
+        "title_clean": "This evil cube is not your companion • r/evilbuildings",
+        "clean_text": "This evil cube is not your companion • r/evilbuildings",
+        "keywords": [
+            {
+                "keyword": "evil cube is not",
+                "score": 0.8532
+            },
+            {
+                "keyword": "this evil cube is",
+                "score": 0.8496
+            },
+            {
+                "keyword": "this evil cube",
+                "score": 0.8439
+            },
+            {
+                "keyword": "evil cube is",
+                "score": 0.8369
+            },
+            {
+                "keyword": "evil cube",
+                "score": 0.8364
+            },
+            {
+                "keyword": "your companion evilbuildings",
+                "score": 0.7459
+            },
+            {
+                "keyword": "companion evilbuildings",
+                "score": 0.7153
+            },
+            {
+                "keyword": "not your companion evilbuildings",
+                "score": 0.7115
+            },
+            {
+                "keyword": "cube is not your",
+                "score": 0.6694
+            },
+            {
+                "keyword": "this evil",
+                "score": 0.6429
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://redd.it/6uvnui",
+        "source": "unknown",
+        "created_at": "2017-08-21 10:37:03",
+        "title_clean": "Helicóptero aterra para transportar bombeiros na Rotunda do rato - Covilhã • r/portugal",
+        "clean_text": "Helicóptero aterra para transportar bombeiros na Rotunda do rato - Covilhã • r/portugal",
+        "keywords": [
+            {
+                "keyword": "helicóptero aterra transportar bombeiros",
+                "score": 0.8182
+            },
+            {
+                "keyword": "helicóptero aterra transportar",
+                "score": 0.745
+            },
+            {
+                "keyword": "helicóptero aterra",
+                "score": 0.727
+            },
+            {
+                "keyword": "aterra transportar bombeiros rotunda",
+                "score": 0.6614
+            },
+            {
+                "keyword": "transportar bombeiros rotunda",
+                "score": 0.6611
+            },
+            {
+                "keyword": "transportar bombeiros rotunda rato",
+                "score": 0.6562
+            },
+            {
+                "keyword": "aterra transportar bombeiros",
+                "score": 0.6088
+            },
+            {
+                "keyword": "transportar bombeiros",
+                "score": 0.592
+            },
+            {
+                "keyword": "bombeiros rotunda rato",
+                "score": 0.5587
+            },
+            {
+                "keyword": "bombeiros rotunda",
+                "score": 0.5526
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_http://www.rtp.pt/noticias/economia/investimento-da-portugal-telecom-na-covilha-esta-as-moscas_v864916",
+        "source": "unknown",
+        "created_at": "2015-10-12 15:34:19",
+        "title_clean": "Investimento da Portugal Telecom na Covilhã está às moscas",
+        "clean_text": "Investimento da Portugal Telecom na Covilhã está às moscas",
+        "keywords": [
+            {
+                "keyword": "investimento portugal telecom",
+                "score": 0.8964
+            },
+            {
+                "keyword": "portugal telecom",
+                "score": 0.7645
+            },
+            {
+                "keyword": "investimento portugal",
+                "score": 0.6591
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.ubi.pt/Noticia.aspx?id=4801",
+        "source": "unknown",
+        "created_at": "2014-05-08 14:45:41",
+        "title_clean": "Marcelo Rebelo de Sousa na UBI",
+        "clean_text": "Marcelo Rebelo de Sousa na UBI",
+        "keywords": [
+            {
+                "keyword": "marcelo rebelo",
+                "score": 0.5796
+            },
+            {
+                "keyword": "marcelo rebelo sousa",
+                "score": 0.5319
+            },
+            {
+                "keyword": "marcelo rebelo sousa ubi",
+                "score": 0.5
+            },
+            {
+                "keyword": "rebelo sousa",
+                "score": 0.4628
+            },
+            {
+                "keyword": "rebelo sousa ubi",
+                "score": 0.4543
+            },
+            {
+                "keyword": "sousa ubi",
+                "score": 0.2862
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.ubi.pt/Noticia.aspx?id=4331",
+        "source": "unknown",
+        "created_at": "2013-12-10 21:25:46",
+        "title_clean": "José Sócrates vai integrar o Conselho Geral da UBI",
+        "clean_text": "José Sócrates vai integrar o Conselho Geral da UBI",
+        "keywords": [
+            {
+                "keyword": "sócrates integrar conselho geral",
+                "score": 0.6013
+            },
+            {
+                "keyword": "integrar conselho geral",
+                "score": 0.5227
+            },
+            {
+                "keyword": "integrar conselho geral ubi",
+                "score": 0.5217
+            },
+            {
+                "keyword": "sócrates integrar",
+                "score": 0.4846
+            },
+            {
+                "keyword": "sócrates integrar conselho",
+                "score": 0.4789
+            },
+            {
+                "keyword": "josé sócrates integrar",
+                "score": 0.4162
+            },
+            {
+                "keyword": "josé sócrates integrar conselho",
+                "score": 0.3994
+            },
+            {
+                "keyword": "integrar conselho",
+                "score": 0.3656
+            },
+            {
+                "keyword": "conselho geral ubi",
+                "score": 0.2515
+            },
+            {
+                "keyword": "conselho geral",
+                "score": 0.2497
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_http://economico.sapo.pt/noticias/centro-de-dados-da-covilha-coloca-pt-num-nivel-nunca-atingido_181604.html",
+        "source": "unknown",
+        "created_at": "2013-11-14 18:20:32",
+        "title_clean": "Centro de Dados da Covilhã coloca PT num nível nunca atingido",
+        "clean_text": "Centro de Dados da Covilhã coloca PT num nível nunca atingido",
+        "keywords": [
+            {
+                "keyword": "pt nível nunca atingido",
+                "score": 0.7585
+            },
+            {
+                "keyword": "coloca pt nível nunca",
+                "score": 0.6727
+            },
+            {
+                "keyword": "pt nível nunca",
+                "score": 0.6482
+            },
+            {
+                "keyword": "coloca pt nível",
+                "score": 0.613
+            },
+            {
+                "keyword": "pt nível",
+                "score": 0.5549
+            },
+            {
+                "keyword": "nível nunca atingido",
+                "score": 0.5327
+            },
+            {
+                "keyword": "coloca pt",
+                "score": 0.4171
+            },
+            {
+                "keyword": "centro dados",
+                "score": 0.4098
+            },
+            {
+                "keyword": "nível nunca",
+                "score": 0.4063
+            },
+            {
+                "keyword": "nunca atingido",
+                "score": 0.351
+            }
+        ]
+    },
+    {
+        "record_id": "unknown_https://www.reddit.com/r/covilha/comments/1r4n1p9/torre/",
+        "source": "unknown",
+        "created_at": "2026-02-14 15:12:07",
+        "title_clean": "Torre",
+        "clean_text": "É possível ir até à torre de alguma forma com os acessos cortados? Estou a achar surreal...",
+        "keywords": [
+            {
+                "keyword": "possível ir até torre",
+                "score": 0.8344
+            },
+            {
+                "keyword": "até torre alguma acessos",
+                "score": 0.8136
+            },
+            {
+                "keyword": "ir até torre alguma",
+                "score": 0.8044
+            },
+            {
+                "keyword": "ir até torre",
+                "score": 0.7778
+            },
+            {
+                "keyword": "torre alguma acessos",
+                "score": 0.7574
+            },
+            {
+                "keyword": "torre alguma acessos cortados",
+                "score": 0.7449
+            },
+            {
+                "keyword": "até torre",
+                "score": 0.7425
+            },
+            {
+                "keyword": "até torre alguma",
+                "score": 0.7208
+            },
+            {
+                "keyword": "torre alguma",
+                "score": 0.5797
+            },
+            {
+                "keyword": "possível ir até",
+                "score": 0.5608
+            }
+        ]
+    }
+]

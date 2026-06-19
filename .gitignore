@@ -9,12 +9,7 @@ models/
 # dados raw e processados (ficam no R2)
 data/raw/
 data/clean/
-data/keywords/
-data/ner/
-data/sentiment/
-data/emotion/
-data/topics/
-data/merged/
+
 
 # variáveis de ambiente (credenciais)
 .env
