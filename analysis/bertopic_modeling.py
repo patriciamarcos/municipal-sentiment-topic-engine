@@ -11,20 +11,21 @@ from sklearn.feature_extraction.text import CountVectorizer
 from bertopic.representation import KeyBERTInspired
 
 
+BASE_DIR = Path(__file__).parent.parent
 # ============================================================
 # CONFIGURAÇÃO
 # ============================================================
 
 INPUT_FILES = [
-    "data/keywords/news_keywords.json",
-    "data/keywords/reddit_keywords.json",
-    "data/keywords/bluesky_keywords.json",
-    "data/keywords/youtube_keywords.json",
+    BASE_DIR / "data/keywords/news_keywords.json",
+    BASE_DIR / "data/keywords/reddit_keywords.json",
+    BASE_DIR / "data/keywords/bluesky_keywords.json",
+    BASE_DIR / "data/keywords/youtube_keywords.json",
 ]
 
-OUTPUT_RESULTS = "data/topics/all_topics.json"
-TOPIC_INFO_OUTPUT = "data/topics/topic_info.json"
-MODEL_OUTPUT_DIR = "models/bertopic_model/"
+OUTPUT_RESULTS = BASE_DIR / "data/topics/all_topics.json"
+TOPIC_INFO_OUTPUT = BASE_DIR / "data/topics/topic_info.json"
+MODEL_OUTPUT_DIR = BASE_DIR / "models/bertopic_model/"
 MODELO_EMBEDDINGS = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 MAX_TEXTS = None
 MIN_TOPIC_SIZE = 10

@@ -7,18 +7,20 @@ from tqdm import tqdm
 from transformers import pipeline
 import torch
 
+
+BASE_DIR = Path(__file__).parent.parent
 # ============================================================
 # CONFIGURAÇÃO
 # ============================================================
 
 INPUT_FILES = [
-    "data/keywords/news_keywords.json",
-    "data/keywords/reddit_keywords.json",
-    "data/keywords/bluesky_keywords.json",
-    "data/keywords/youtube_keywords.json",
+    BASE_DIR / "data/keywords/news_keywords.json",
+    BASE_DIR / "data/keywords/reddit_keywords.json",
+    BASE_DIR / "data/keywords/bluesky_keywords.json",
+    BASE_DIR / "data/keywords/youtube_keywords.json",
 ]
 
-OUTPUT_FILE = "data/ner/all_ner.json"
+OUTPUT_FILE = BASE_DIR / "data/ner/all_ner.json"
 
 MODEL_NAME = "Davlan/xlm-roberta-base-ner-hrl"
 

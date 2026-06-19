@@ -6,18 +6,19 @@ from transformers import pipeline
 import torch
 
 
+BASE_DIR = Path(__file__).parent.parent
 # ============================================================
 # CONFIGURAÇÃO
 # ============================================================
 
 INPUT_FILES = [
-    "data/raw/news_posts.json",
-    "data/raw/reddit_posts.json",
-    "data/raw/bluesky_posts.json",
-    "data/raw/youtube_posts.json",
+    BASE_DIR / "data/raw/news_posts.json",
+    BASE_DIR / "data/raw/reddit_posts.json",
+    BASE_DIR / "data/raw/bluesky_posts.json",
+    BASE_DIR / "data/raw/youtube_posts.json",
 ]
 
-OUTPUT_FILE = "data/sentiment/all_sentiment.json"
+OUTPUT_FILE = BASE_DIR / "data/sentiment/all_sentiment.json"
 
 MODEL_NAME = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
 MODEL_VERSION = "1.0"

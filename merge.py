@@ -2,24 +2,22 @@ import json
 from pathlib import Path
 
 
+BASE_DIR = Path(__file__).parent
 # ============================================================
 # CONFIGURAÇÃO
 # ============================================================
 
-# ficheiros de input
-SENTIMENT_FILE   = "data/sentiment/all_sentiment.json"
-EMOTION_FILE     = "data/emotion/all_emotion.json"
-KEYWORDS_FILES   = [
-    "data/keywords/news_keywords.json",
-    "data/keywords/reddit_keywords.json",
-    "data/keywords/bluesky_keywords.json",
-    "data/keywords/youtube_keywords.json",
+SENTIMENT_FILE = BASE_DIR / "data/sentiment/all_sentiment.json"
+EMOTION_FILE   = BASE_DIR / "data/emotion/all_emotion.json"
+KEYWORDS_FILES = [
+    BASE_DIR / "data/keywords/news_keywords.json",
+    BASE_DIR / "data/keywords/reddit_keywords.json",
+    BASE_DIR / "data/keywords/bluesky_keywords.json",
+    BASE_DIR / "data/keywords/youtube_keywords.json",
 ]
-NER_FILE         = "data/ner/all_ner.json"
-TOPICS_FILE      = "data/topics/all_topics.json"
-
-# ficheiro de output
-OUTPUT_FILE      = "data/merged/all_merged.json"
+NER_FILE    = BASE_DIR / "data/ner/all_ner.json"
+TOPICS_FILE = BASE_DIR / "data/topics/all_topics.json"
+OUTPUT_FILE = BASE_DIR / "data/merged/all_merged.json"
 
 
 

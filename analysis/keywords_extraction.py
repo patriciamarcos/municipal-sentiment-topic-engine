@@ -8,6 +8,7 @@ import torch
 from tqdm import tqdm
 
 
+BASE_DIR = Path(__file__).parent.parent
 # ============================================================
 # CONFIGURAÇÃO
 # ============================================================
@@ -15,29 +16,29 @@ from tqdm import tqdm
 FILES_TO_PROCESS = [
     {
         "name": "news",
-        "input_path": "data/clean/news/news_cleaned.json",
-        "output_path": "data/keywords/news_keywords.json",
+        "input_path": BASE_DIR / "data/clean/news/news_cleaned.json",
+        "output_path": BASE_DIR / "data/keywords/news_keywords.json",
         "top_n": 10,
         "min_chars": 20,
     },
     {
         "name": "bluesky",
-        "input_path": "data/clean/bluesky/bluesky_cleaned.json",
-        "output_path": "data/keywords/bluesky_keywords.json",
+        "input_path": BASE_DIR / "data/clean/bluesky/bluesky_cleaned.json",
+        "output_path": BASE_DIR / "data/keywords/bluesky_keywords.json",
         "top_n": 8,
         "min_chars": 10,
     },
     {
         "name": "reddit",
-        "input_path": "data/clean/reddit/reddit_cleaned.json",
-        "output_path": "data/keywords/reddit_keywords.json",
+        "input_path": BASE_DIR / "data/clean/reddit/reddit_cleaned.json",
+        "output_path": BASE_DIR / "data/keywords/reddit_keywords.json",
         "top_n": 10,
         "min_chars": 20,
     },
     {
         "name": "youtube",
-        "input_path": "data/clean/youtube/youtube_cleaned.json",
-        "output_path": "data/keywords/youtube_keywords.json",
+        "input_path": BASE_DIR / "data/clean/youtube/youtube_cleaned.json",
+        "output_path": BASE_DIR / "data/keywords/youtube_keywords.json",
         "top_n": 10,
         "min_chars": 20,
     },

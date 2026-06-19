@@ -4,17 +4,17 @@ from pathlib import Path
 from datetime import datetime
 from db_connection import get_connection
 
-
+BASE_DIR = Path(__file__).parent.parent
 # ============================================================
 # CONFIGURAÇÃO
 # ============================================================
 
-MERGED_FILE = "data/merged/all_merged.json"
+MERGED_FILE = BASE_DIR / "data/merged/all_merged.json"
 RAW_FILES = {
-    "news":    "data/raw/news_posts.json",
-    "reddit":  "data/raw/reddit_posts.json",
-    "bluesky": "data/raw/bluesky_posts.json",
-    "youtube": "data/raw/youtube_posts.json",
+    "news":    BASE_DIR / "data/raw/news_posts.json",
+    "reddit":  BASE_DIR / "data/raw/reddit_posts.json",
+    "bluesky": BASE_DIR / "data/raw/bluesky_posts.json",
+    "youtube": BASE_DIR / "data/raw/youtube_posts.json",
 }
 
 # mapeamento de source para SNetwork_ID

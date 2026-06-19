@@ -834,32 +834,35 @@ def show_examples_from_json(file_path, limit=2):
 
 
 if __name__ == "__main__":
+    from pathlib import Path
+    BASE_DIR = Path(__file__).parent.parent
+
     FILES_TO_CLEAN = [
         {
-            "input_path": "data/raw/news_posts.json",
-            "output_path": "data/clean/news/news_cleaned.json",
-            "skipped_output_path": "data/clean/news/news_skipped.json",
+            "input_path": BASE_DIR / "data/raw/news_posts.json",
+            "output_path": BASE_DIR / "data/clean/news/news_cleaned.json",
+            "skipped_output_path": BASE_DIR / "data/clean/news/news_skipped.json",
             "record_type": "news",
             "min_chars": 30,
         },
         {
-            "input_path": "data/raw/bluesky_posts.json",
-            "output_path": "data/clean/bluesky/bluesky_cleaned.json",
-            "skipped_output_path": "data/clean/bluesky/bluesky_skipped.json",
+            "input_path": BASE_DIR / "data/raw/bluesky_posts.json",
+            "output_path": BASE_DIR / "data/clean/bluesky/bluesky_cleaned.json",
+            "skipped_output_path": BASE_DIR / "data/clean/bluesky/bluesky_skipped.json",
             "record_type": "post",
             "min_chars": 20,
         },
         {
-            "input_path": "data/raw/reddit_posts.json",
-            "output_path": "data/clean/reddit/reddit_cleaned.json",
-            "skipped_output_path": "data/clean/reddit/reddit_skipped.json",
+            "input_path": BASE_DIR / "data/raw/reddit_posts.json",
+            "output_path": BASE_DIR / "data/clean/reddit/reddit_cleaned.json",
+            "skipped_output_path": BASE_DIR / "data/clean/reddit/reddit_skipped.json",
             "record_type": "post",
             "min_chars": 20,
         },
         {
-            "input_path": "data/raw/youtube_posts.json",
-            "output_path": "data/clean/youtube/youtube_cleaned.json",
-            "skipped_output_path": "data/clean/youtube/youtube_skipped.json",
+            "input_path": BASE_DIR / "data/raw/youtube_posts.json",
+            "output_path": BASE_DIR / "data/clean/youtube/youtube_cleaned.json",
+            "skipped_output_path": BASE_DIR / "data/clean/youtube/youtube_skipped.json",
             "record_type": "post",
             "min_chars": 20,
         },
