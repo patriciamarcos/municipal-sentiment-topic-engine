@@ -1,0 +1,83 @@
+name: BERTopic Retraining
+
+on:
+  schedule:
+    - cron: "0 2 1,15 * *"  # dia 1 e dia 15 de cada mês às 2h
+  workflow_dispatch:          # permite correr manualmente
+
+jobs:
+  bertopic:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download raw data from R2
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+        run: |
+          python - <<'PYEOF'
+          import boto3
+          import os
+          from pathlib import Path
+
+          client = boto3.client(
+              "s3",
+              endpoint_url=os.getenv("R2_ENDPOINT_URL"),
+              aws_access_key_id=os.getenv("R2_ACCESS_KEY_ID"),
+              aws_secret_access_key=os.getenv("R2_SECRET_ACCESS_KEY"),
+              region_name="auto",
+          )
+
+          bucket = os.getenv("R2_BUCKET_NAME")
+
+          files = [
+              "data/raw/news_posts.json",
+              "data/raw/reddit_posts.json",
+              "data/raw/bluesky_posts.json",
+              "data/raw/youtube_posts.json",
+          ]
+
+          for file_path in files:
+              local_path = Path(file_path)
+              local_path.parent.mkdir(parents=True, exist_ok=True)
+              try:
+                  client.download_file(bucket, file_path, str(local_path))
+                  print(f"Download OK: {file_path}")
+              except Exception as e:
+                  print(f"AVISO: {file_path} não encontrado - {e}")
+
+          print("Download concluído")
+          PYEOF
+
+      - name: Run text cleaning
+        run: python analysis/text_cleaning.py
+
+      - name: Run keywords extraction
+        run: python analysis/keywords_extraction.py
+
+      - name: Run BERTopic retraining
+        run: python analysis/bertopic_modeling.py
+
+      - name: Run merge
+        run: python merge.py
+
+      - name: Commit updated outputs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git commit -m "bertopic retraining - $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
