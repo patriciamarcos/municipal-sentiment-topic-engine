@@ -3242,5 +3242,46 @@
                 "score": 0.5911
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ifvmqpoxfljlbvqdxsodz5r6/app.bsky.feed.post/3mosmlxqf2c2t",
+        "source": "bluesky",
+        "created_at": "2026-06-21T14:49:59.634Z",
+        "title_clean": "",
+        "clean_text": "Artist Ovelhas Mémé streetart OvelhasMémé art photography sheep woolfest mémé graffiti urbanart artist mouton streetartphotography arturbain graffeur Covilhã",
+        "keywords": [
+            {
+                "keyword": "artist ovelhas mémé streetart",
+                "score": 0.8349
+            },
+            {
+                "keyword": "streetart ovelhasmémé art photography",
+                "score": 0.8324
+            },
+            {
+                "keyword": "mouton streetartphotography arturbain graffeur",
+                "score": 0.8001
+            },
+            {
+                "keyword": "mémé streetart ovelhasmémé art",
+                "score": 0.792
+            },
+            {
+                "keyword": "streetart ovelhasmémé art",
+                "score": 0.783
+            },
+            {
+                "keyword": "ovelhasmémé art photography",
+                "score": 0.7757
+            },
+            {
+                "keyword": "urbanart artist mouton streetartphotography",
+                "score": 0.7635
+            },
+            {
+                "keyword": "ovelhasmémé art photography sheep",
+                "score": 0.7573
+            }
+        ]
     }
 ]
