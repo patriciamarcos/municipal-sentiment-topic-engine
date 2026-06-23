@@ -3159,5 +3159,54 @@
                 "score": 0.6486
             }
         ]
+    },
+    {
+        "record_id": "reddit_1ucz8na",
+        "source": "reddit",
+        "created_at": "2026-06-22 22:31:35",
+        "title_clean": "Mulheres na casa dos 30 anos na zona da Covilhã para amizade, caminhadas e viagens 😊",
+        "clean_text": "Olá! Tenho 30 anos e sou da zona da Covilhã. Nos últimos tempos tenho sentido falta de conhecer e criar amizade com pessoas novas e pensei que talvez não fosse a única. Gosto de viajar, fazer caminhadas, descobrir sítios novos, ir beber um café e ter boas conversas. Gostava de conhecer outras mulheres ou pessoas em geral da Covilhã, Fundão, Guarda ou arredores que também queiram fazer novas amizades. A ideia seria combinar algo simples, como um café, uma caminhada ou até criar um grupo para viajar no futuro. Se alguém estiver na mesma situação, pode comentar ou enviar mensagem.",
+        "keywords": [
+            {
+                "keyword": "novas amizades ideia seria",
+                "score": 0.7024
+            },
+            {
+                "keyword": "fazer novas amizades ideia",
+                "score": 0.7012
+            },
+            {
+                "keyword": "criar amizade pessoas novas",
+                "score": 0.6804
+            },
+            {
+                "keyword": "queiram fazer novas amizades",
+                "score": 0.6644
+            },
+            {
+                "keyword": "amizade pessoas novas pensei",
+                "score": 0.6627
+            },
+            {
+                "keyword": "novas amizades ideia",
+                "score": 0.6574
+            },
+            {
+                "keyword": "conversas gostava conhecer outras",
+                "score": 0.6548
+            },
+            {
+                "keyword": "gostava conhecer outras",
+                "score": 0.6493
+            },
+            {
+                "keyword": "amizades ideia seria",
+                "score": 0.6467
+            },
+            {
+                "keyword": "fazer novas amizades",
+                "score": 0.6428
+            }
+        ]
     }
 ]
