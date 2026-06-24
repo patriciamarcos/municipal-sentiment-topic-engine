@@ -257,6 +257,7 @@ def main():
 
         keywords_data = {
             "keywords": keywords_record.get("keywords", []),
+            "source_name": keywords_record.get("source_name"),
         }
 
         # ====================================================
@@ -296,8 +297,6 @@ def main():
             "source":      source,
             "created_at":  sentiment_record.get("created_at"),
             "title":       sentiment_record.get("title"),
-
-            # análises
             **sentiment_data,
             **emotion_data,
             **keywords_data,

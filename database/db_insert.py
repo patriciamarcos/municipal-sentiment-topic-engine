@@ -124,10 +124,11 @@ def insert_post(cursor, record, snetwork_id, user_id):
             [URL],
             [ViewCount],
             [LikeCount],
-            [ReplyCount]
+            [ReplyCount],
+            [Source_Name]
         )
         OUTPUT INSERTED.[Post_ID]
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     """,
         platform_id,
         user_id,
@@ -139,6 +140,7 @@ def insert_post(cursor, record, snetwork_id, user_id):
         safe_int(metrics.get("views", 0)),
         safe_int(metrics.get("likes", metrics.get("upvotes", 0))),
         safe_int(metrics.get("comments", metrics.get("replies", 0))),
+        record.get("source_name") or None,
     )
 
     return cursor.fetchone()[0]
@@ -398,9 +400,28 @@ def main():
             merged.get("platform_id", "")
         )
 
-        # saltar se já existe
+        # se já existe, apenas atualizar tópico
         if platform_id in existing_ids:
             skipped += 1
+
+            # atualizar tópico se existir no merged
+            topics_record = merged if merged.get("topic_id") is not None else None
+            if topics_record:
+                try:
+                    cursor.execute("""
+                        SELECT [TextDocument_ID] FROM [dbo].[TextDocument]
+                        WHERE [Post_ID] = (
+                            SELECT [Post_ID] FROM [dbo].[Post]
+                            WHERE [Original_External_ID] = ?
+                        )
+                    """, platform_id)
+                    row = cursor.fetchone()
+                    if row:
+                        insert_topic(cursor, row[0], merged)
+                        conn.commit()
+                except Exception:
+                    conn.rollback()
+
             continue
 
         source      = merged.get("source", "")
@@ -424,6 +445,7 @@ def main():
             # ================================================
             # POST
             # ================================================
+            raw_record["source_name"] = merged.get("source_name")
             post_id = insert_post(cursor, raw_record or merged, snetwork_id, user_id)
 
             # ================================================

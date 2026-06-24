@@ -437,6 +437,7 @@ def process_record(record, model, top_n=10, min_chars=80):
         "title_clean": record.get("title_clean", ""),
         "clean_text": text,
         "keywords": keywords,
+        "source_name": record.get("source_name"),
     }
 
 # ============================================================

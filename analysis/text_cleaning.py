@@ -157,23 +157,17 @@ def fix_known_scraping_errors(text):
 
 
 def remove_news_source_from_title(title):
-    """
-    Remove a fonte no fim do título.
-
-    Exemplo:
-    'Título da notícia - Rádio Clube da Covilhã'
-    fica:
-    'Título da notícia'
-    """
     title = str(title or "").strip()
+    extracted_source = None
 
     for source in NEWS_SOURCES_TO_REMOVE:
         suffix = f" - {source}"
 
         if title.endswith(suffix):
+            extracted_source = source
             title = title[: -len(suffix)].strip()
 
-    return title
+    return title, extracted_source
 
 
 def is_noise_text(text):
@@ -409,27 +403,17 @@ def remove_duplicate_records(records):
 
 
 def build_text_from_news_record(record):
-    """
-    Constrói o texto final a partir de um registo de notícia.
-    Usa title + text, porque há notícias em que o campo text está vazio.
-    """
-    title = remove_news_source_from_title(record.get("title", ""))
+    title, _ = remove_news_source_from_title(record.get("title", ""))
     body = str(record.get("text", "") or "").strip()
 
     return remove_repeated_title_from_text(title, body)
 
 
 def clean_news_record(record, min_chars=30):
-    """
-    Limpa um registo de notícia e devolve um dicionário preparado
-    para análise posterior.
-
-    Se o texto for ruído ou demasiado curto, devolve None.
-    """
     record_id = generate_record_id(record)
 
     original_title = str(record.get("title", "") or "").strip()
-    clean_title = remove_news_source_from_title(original_title)
+    clean_title, source_name = remove_news_source_from_title(original_title)
 
     original_text = build_text_from_news_record(record)
     clean_text = clean_text_basic(original_text)
@@ -447,6 +431,7 @@ def clean_news_record(record, min_chars=30):
         "author": record.get("author", ""),
         "title_original": original_title,
         "title_clean": clean_title,
+        "source_name": source_name,
         "url": record.get("url", ""),
         "created_at": record.get("created_at", ""),
         "original_text": original_text,
