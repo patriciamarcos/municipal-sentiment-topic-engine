@@ -354,6 +354,30 @@ def main():
     print("A TREINAR BERTopic")
 
     topics, probs = topic_model.fit_transform(documents)
+    # guardar coordenadas UMAP 2D para visualização
+    print("A calcular projeção UMAP 2D para visualização")
+    umap_2d = UMAP(
+        n_neighbors=10,
+        n_components=2,
+        min_dist=0.0,
+        metric="cosine",
+        random_state=42,
+    )
+    embeddings_list = embedding_model.encode(documents, show_progress_bar=True)
+    coords_2d = umap_2d.fit_transform(embeddings_list)
+
+    umap_coords = []
+    for idx in range(len(valid_records)):
+        umap_coords.append({
+            "record_id": valid_records[idx].get("record_id", ""),
+            "source": valid_records[idx].get("source", ""),
+            "topic_id": int(topics[idx]),
+            "x": float(coords_2d[idx, 0]),
+            "y": float(coords_2d[idx, 1]),
+        })
+
+    save_json_file(umap_coords, BASE_DIR / "data/topics/umap_coords.json")
+    print(f"Coordenadas UMAP guardadas: {len(umap_coords)}")
 
     # ========================================================
     # RESULTADOS
