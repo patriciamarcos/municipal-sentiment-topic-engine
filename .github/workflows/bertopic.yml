@@ -2,7 +2,7 @@ name: BERTopic Retraining
 
 on:
   schedule:
-    - cron: "0 2 1,15 * *"  # dia 1 e dia 15 de cada mês às 2h
+    - cron: "0 2 * * 0"  # todos os domingos às 2h
   workflow_dispatch:          # permite correr manualmente
 
 jobs:
