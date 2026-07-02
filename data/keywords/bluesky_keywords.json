@@ -3283,5 +3283,47 @@
                 "score": 0.7573
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:k2rwf6elajxfly3te2jqx3to/app.bsky.feed.post/3mpnst4nc2w2r",
+        "source": "bluesky",
+        "created_at": "2026-07-02T10:23:14.828Z",
+        "title_clean": "",
+        "clean_text": "Dos bálsamos vulvais aos lubrificantes vaginais: a partir da Covilhã a Labfit quer tornar-se referência internacional",
+        "keywords": [
+            {
+                "keyword": "bálsamos vulvais lubrificantes vaginais",
+                "score": 0.8113
+            },
+            {
+                "keyword": "vulvais lubrificantes vaginais",
+                "score": 0.7882
+            },
+            {
+                "keyword": "lubrificantes vaginais",
+                "score": 0.7661
+            },
+            {
+                "keyword": "vulvais lubrificantes vaginais partir",
+                "score": 0.7538
+            },
+            {
+                "keyword": "lubrificantes vaginais partir",
+                "score": 0.7381
+            },
+            {
+                "keyword": "bálsamos vulvais lubrificantes",
+                "score": 0.7318
+            },
+            {
+                "keyword": "vulvais lubrificantes",
+                "score": 0.7042
+            },
+            {
+                "keyword": "vaginais partir",
+                "score": 0.6974
+            }
+        ],
+        "source_name": null
     }
 ]
