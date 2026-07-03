@@ -62,6 +62,31 @@ def get_current_user(
         )
     return {"email": email, **user}
 
+
+def get_user(email: str):
+    return USERS.get(email)
+
+def create_user(email: str, password: str, role: str):
+    if email in USERS:
+        return False
+    USERS[email] = {
+        "password": pwd_context.hash(password),
+        "role": role,
+    }
+    return True
+
+def delete_user(email: str):
+    if email not in USERS:
+        return False
+    del USERS[email]
+    return True
+
+def list_users():
+    return [
+        {"email": email, "role": data["role"]}
+        for email, data in USERS.items()
+    ]
+
 def require_admin(user: dict = Depends(get_current_user)) -> dict:
     if user["role"] != "admin":
         raise HTTPException(
