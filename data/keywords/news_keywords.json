@@ -112272,5 +112272,955 @@
             }
         ],
         "source_name": "Município da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigwJBVV95cUxQM0FndmpUaGVudEk5bVA0U2FyMG4tTGR4djZQSzBMNWtfRllfVUZwQ1YxNDcxNUhRQkxsQV9iYlpHWTVSYU1qX3NLQmVXS003ZThsaVJ1N1phMGhVdW1ya2U5dEFYMG15UjVQbFUxX0g0d1BBNDBfOTZSWS1LN29FOV9jRFlSYTJHWG1GRnphXy00UzNaRV9fUE5FajAyWGtoazRpbkdpWU1xMElaWTJtTGNuMTRndjluSEQySFZQUktUaE9JcTZkYjlmT2hvZWx5SlNaMEtyb3lQWFpaRkxlZzhydkNtR0d0LXhvN2ZtZWRSZjJ2QUpBLWVqdUpEVVdpNzFB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 10:00:00 GMT",
+        "title_clean": "Dos bálsamos aos lubrificantes vaginais: a partir da Covilhã a Labfit quer tornar-se referência internacional - Expresso",
+        "clean_text": "Dos bálsamos aos lubrificantes vaginais: a partir da Covilhã a Labfit quer tornar-se referência internacional - Expresso",
+        "keywords": [
+            {
+                "keyword": "bálsamos lubrificantes vaginais",
+                "score": 0.772
+            },
+            {
+                "keyword": "lubrificantes vaginais",
+                "score": 0.7522
+            },
+            {
+                "keyword": "bálsamos lubrificantes vaginais partir",
+                "score": 0.7394
+            },
+            {
+                "keyword": "lubrificantes vaginais partir",
+                "score": 0.7166
+            },
+            {
+                "keyword": "vaginais partir",
+                "score": 0.6657
+            },
+            {
+                "keyword": "labfit quer tornar referência",
+                "score": 0.5819
+            },
+            {
+                "keyword": "labfit quer",
+                "score": 0.5691
+            },
+            {
+                "keyword": "bálsamos lubrificantes",
+                "score": 0.5479
+            },
+            {
+                "keyword": "labfit quer tornar",
+                "score": 0.4477
+            },
+            {
+                "keyword": "quer tornar referência internacional",
+                "score": 0.4052
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXM2NXN0NmJfbkUwNzl1SlN6UnZ3WnZ3RjRfWmlVS0VQVkpxQU53d1pTb3RueWRMbWJCOFlkS29aaG92dDFZOTdsY1doY0RrMW9saWlWY29qUGVNeHRXbTllZXRyZzNTeWVWSlVkX3o0VHJ3OXJYVG5GekowT3NMbm5mVFNIcE0wYW9JNWdidzZXSVBINDBnRVZYVHhMQ1dhMWc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:34:21 GMT",
+        "title_clean": "Município da Covilhã melhora acessibilidades na periferia da cidade",
+        "clean_text": "Município da Covilhã melhora acessibilidades na periferia da cidade. O município da Covilhã vai repavimentar uma das principais vias de acesso à cidade, entre a Rotunda do Operário (ANIL) e a Rua General Humberto Delgado (Canhoso), num investimento de mais de 700 mil euros.",
+        "keywords": [
+            {
+                "keyword": "melhora acessibilidades periferia cidade",
+                "score": 0.7315
+            },
+            {
+                "keyword": "acessibilidades periferia cidade",
+                "score": 0.718
+            },
+            {
+                "keyword": "vias acesso cidade rotunda",
+                "score": 0.6956
+            },
+            {
+                "keyword": "acesso cidade rotunda",
+                "score": 0.6873
+            },
+            {
+                "keyword": "principais vias acesso cidade",
+                "score": 0.6653
+            },
+            {
+                "keyword": "periferia cidade",
+                "score": 0.656
+            },
+            {
+                "keyword": "acesso cidade rotunda operário",
+                "score": 0.6541
+            },
+            {
+                "keyword": "vias acesso cidade",
+                "score": 0.6345
+            },
+            {
+                "keyword": "acesso cidade",
+                "score": 0.6189
+            },
+            {
+                "keyword": "cidade rotunda",
+                "score": 0.5871
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxNMnBWamJYWmczLUhheDZ2bzdHcG04OXNpd29ESWVVMTFvZTNMM0xySG9LNlJ1M1RnMTNXeHFyN2VCbkE1aEZrYTRoLUpSekpyRXpHbnpBNnp1VHBfQ0IxZVE1ekRKYUlkX08zaVlkYm12SGdzMWFRdEc1anJ1MGg3Tk9kejV6NWVPVWpsc0t4Z0JhR0xlSjZVSTJRZF9Kb1pKZmc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 09:12:00 GMT",
+        "title_clean": "Assembleia Municipal da Covilhã aprova contas consolidadas…com reservas",
+        "clean_text": "Assembleia Municipal da Covilhã aprova contas consolidadas…com reservas. A Assembleia Municipal da Covilhã aprovou, por maioria (27 votos a favor, oito abstenções e sete votos contra), as contas consolidadas do Grupo Municipal de 2025 (envolve as empresas municipais), que revelaram um passivo superior a 50 milhões de euros, e um resultado líquido negativo de 3,4 milhões de euros. Um documento que teve reservas expressas pelo Revisor Oficial de Contas (ROC), sobretudo quanto ao litígio da autarquia com a Águas da Covilhã (ADC). O PCP votou contra. Marco Gabriel apontou como justificação o resultado negativo do ano que passou, o passivo existente e o saldo transitado de 21 milhões de euros, perguntando se essa verba estará \"cativa\" para pagar os litígios com a ADC. Também o Chega se mostrou desfavorável. Amadeu Alberto afirmou que o documento revela um agravamento da situação financeira, criticou o aumento de despesas com pessoal ou serviços externos, e disse que o relatório mostra opções políticas diferentes das que o seu partido defende. O eleito lembrou que uma boa gestão autárquica não se mede pelo que se gasta, mas sim pela capacidade em gerir o melhor possível os recursos públicos. Já João Bernardo, do CDS-PP, justificou o voto contra por considerar que as contas revelam o \"pior resultado consolidado da história recente\". O eleito apontou \"incapacidade de execução\" à atual maioria na Câmara, justificada com os mais de 20 milhões de euros que transitaram do ano anterior. O Movimento Independente pelas Pessoas (MIPP) absteve-se por considerar que as contas não revelam nenhuma rutura financeira, mas deixou reparos às reservas do ROC e às \"sérias dúvidas\" levantadas pelo mesmo. Já o PSD pediu maior transparência no que diz respeito às contas das empresas municipais. Quanto à bancada do PS, votou a favor, defendendo que o documento mostra um município ativo, com capacidade de resposta e com investimento. Hélio Fazendeiro recusou o cenário negativo traçado pela oposição, disse que todos os executivos têm contas \"boas e más\", e desvalorizou o saldo negativo do último ano, lembrando que as autarquias não servem para dar lucro financeiro, mas sim social. \"O lucro, no nosso caso, mede-se no número de problemas resolvidos\", afirmou, defendendo que o aumento da despesa resulta do reforço dos apoios às freguesias, associações e população, bem como da subida dos custos com pessoal e serviços. Quanto às reservas do ROC, o autarca espera, em 2026, que as mesmas não apareçam, e garantiu que, no conflito existente com a ADC, o município tem previstas verbas para acautelar eventuais responsabilidades financeiras, acreditando que o diferendo será resolvido.",
+        "keywords": [
+            {
+                "keyword": "adc pcp votou",
+                "score": 0.646
+            },
+            {
+                "keyword": "grupo municipal 2025 envolve",
+                "score": 0.6297
+            },
+            {
+                "keyword": "votos contra contas consolidadas",
+                "score": 0.6159
+            },
+            {
+                "keyword": "atual maioria câmara justificada",
+                "score": 0.613
+            },
+            {
+                "keyword": "contas consolidadas grupo municipal",
+                "score": 0.6103
+            },
+            {
+                "keyword": "maioria câmara justificada 20",
+                "score": 0.6008
+            },
+            {
+                "keyword": "execução atual maioria câmara",
+                "score": 0.5864
+            },
+            {
+                "keyword": "apoios freguesias associações população",
+                "score": 0.5862
+            },
+            {
+                "keyword": "contas empresas municipais quanto",
+                "score": 0.5803
+            },
+            {
+                "keyword": "pp justificou voto",
+                "score": 0.5725
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14SXZhTklhODRpaF9vZ0RyaWhWVzc4aEZQY1JVVDlMaUVYSXBCVjYzWlpxNUg3dlZXTk55UndVVkI0STBucTViUVRYWkFab243RlNGYUR2a0VyQU92bVluSWNLTk9PcXM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 14:28:16 GMT",
+        "title_clean": "DESPORTO | TORNEIO INTERFREGUESIAS",
+        "clean_text": "DESPORTO | TORNEIO INTERFREGUESIAS. Ao longo do último mês, várias freguesias do concelho foram palco do Torneio Interfreguesias, organizado pelo Município da Covilhã. Os jogos passaram por vários pavilhões do concelho, mais propriamente aqueles fora do centro urbano, numa medida que tem como objetivo levar o desporto as freguesias com menos atividade desportiva no decorrer da época . No escalão +18, participaram as freguesias de Dominguizo, União de Freguesias Covilhã e Canhoso, Teixoso, Vila do Carvalho, Tortosendo, Verdelhos, Cortes do Meio, Erada, Paul, Vales do Rio e Peso. Já no escalão +35, entraram em competição as freguesias de Vales do Rio, Boidobra, Teixoso, Vila do Carvalho e União de Freguesias Covilhã e Canhoso. A iniciativa contou com perto de 350 participantes, distribuídos por atletas, fisioterapeutas/massagistas e representantes das Juntas de Freguesia, evidenciando o forte envolvimento das freguesias. A classificação no escalão de + 18 ficou organizada da seguinte forma: ➡ 1.º Classificado: Junta de Freguesia do Tortosendo; ➡ 2.º Classificado: Junta de Freguesia das Cortes do Meio; ➡ 3º Classificado: União de Freguesias Covilhã e Canhoso; A classificação no escalão de + 35 ficou organizada da seguinte forma: ➡ 1.º Classificado: Junta de Freguesia dos Vales do Rio; ➡ 2.º Classificado: Junta de Freguesia da Vila do Carvalho; ➡ 3.º Classificado: Junta de Freguesia Teixoso; A última Jornada do escalão +35, bem como a final do +18 foram realizadas no Pavilhão do Unidos Futebol Clube na Freguesia do Tortosendo. No final teve lugar a cerimónia de entrega de prémios , que contou com a presença do Vereador com o pelouro do Desporto, Luís Marques. municipiodacovilha atecerofuturo",
+        "keywords": [
+            {
+                "keyword": "jogos passaram vários pavilhões",
+                "score": 0.7248
+            },
+            {
+                "keyword": "palco torneio interfreguesias organizado",
+                "score": 0.6785
+            },
+            {
+                "keyword": "torneio interfreguesias organizado",
+                "score": 0.668
+            },
+            {
+                "keyword": "passaram vários pavilhões",
+                "score": 0.6626
+            },
+            {
+                "keyword": "pelouro desporto luís",
+                "score": 0.6531
+            },
+            {
+                "keyword": "pelouro desporto luís marques",
+                "score": 0.6484
+            },
+            {
+                "keyword": "passaram vários pavilhões concelho",
+                "score": 0.648
+            },
+            {
+                "keyword": "vários pavilhões",
+                "score": 0.6431
+            },
+            {
+                "keyword": "palco torneio interfreguesias",
+                "score": 0.6431
+            },
+            {
+                "keyword": "torneio interfreguesias",
+                "score": 0.6396
+            }
+        ],
+        "source_name": "Município da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRnFCa2czQnBGTzVicUhXSXlFal9ZVmF4VUU3V3hzZ2pUR3Jsb3EzMFduYl9HcWluNkZQQXBRTXV5dlpsMG96aVdZcFJsM1ZHWjJxTTNVbV9pOUFpbkpmeGdHTTc0dGhWc1FZ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "title_clean": "FORMAÇÃO | PRIMEIROS SOCORROS PEDIÁTRICOS",
+        "clean_text": "FORMAÇÃO | PRIMEIROS SOCORROS PEDIÁTRICOS. O Município da Covilhã promoveu na última semana uma ação de formação de Primeiros Socorros Pediátricos, destinada aos assistentes operacionais afetos ao Serviço de Gestão Escolar. Integrada no Plano de Formação do Município - 2026, esta ação foi ministrada pela Associação Humanitária dos Bombeiros Voluntários da Covilhã, tendo como objetivo dotar os funcionários de conhecimentos teóricos e práticos fundamentais para a prestação de primeiros socorros em crianças e jovens, promovendo uma cultura de segurança, prevenção e intervenção eficaz em caso de necessidade. municipiodacovilha atecerofuturo",
+        "keywords": [
+            {
+                "keyword": "ação formação primeiros socorros",
+                "score": 0.7376
+            },
+            {
+                "keyword": "formação primeiros socorros pediátricos",
+                "score": 0.708
+            },
+            {
+                "keyword": "formação primeiros socorros",
+                "score": 0.7027
+            },
+            {
+                "keyword": "socorros crianças jovens promovendo",
+                "score": 0.6846
+            },
+            {
+                "keyword": "socorros pediátricos destinada assistentes",
+                "score": 0.6816
+            },
+            {
+                "keyword": "prestação primeiros socorros crianças",
+                "score": 0.6764
+            },
+            {
+                "keyword": "afetos serviço gestão escolar",
+                "score": 0.6494
+            },
+            {
+                "keyword": "primeiros socorros crianças jovens",
+                "score": 0.6467
+            },
+            {
+                "keyword": "socorros pediátricos destinada",
+                "score": 0.6428
+            },
+            {
+                "keyword": "ação ministrada associação humanitária",
+                "score": 0.6411
+            }
+        ],
+        "source_name": "Município da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9lMkV5M0c2Ni16eTg3WlB3OUF0VnBDY0h2OF9jWTF2b18teXJMTTB0UDNWalA2OHk4UHU0dngtNlZVZnpObFo0SVl4YUNiVXJaeFNFRGV4WG1ybDNVU0FteUxjTXBPaU9MQjkw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "title_clean": "🟠 CALOR | AVISO LARANJA",
+        "clean_text": "🟠 CALOR | AVISO LARANJA. O Instituto Português do Mar e da Atmosfera (IPMA) emitiu um Aviso Laranja para Tempo Quente para a região, válido entre os dias 1 e 3 de julho, devido à previsão de temperaturas elevadas. Perante este cenário, é fundamental adotar medidas de autoproteção que contribuam para a sua hidratação, conforto térmico e bem-estar: ☀️ Procure permanecer em ambientes frescos, arejados ou climatizados sempre que possível; 💧 Beba água regularmente, pelo menos 1,5 litros por dia, reforçando a ingestão durante os períodos de maior calor. Prefira água e sumos naturais sem adição de açúcar e evite bebidas alcoólicas; 🥗 Opte por refeições leves e frescas; 🧴 Utilize protetor solar com fator de proteção igual ou superior a 30, renovando a aplicação de duas em duas horas; 👒 Use roupa larga e fresca, preferencialmente de cores claras, chapéu de abas largas e óculos de sol com proteção ultravioleta; 🚗 Sempre que possível, realize deslocações nas horas de menor calor; 😴 Faça pausas frequentes e garanta períodos adequados de descanso; ❤️ Dê especial atenção aos grupos mais vulneráveis, nomeadamente crianças, idosos, grávidas, pessoas com mobilidade reduzida e doentes crónicos; 📞 Os doentes crónicos ou sujeitos a medicação e/ou dietas específicas devem seguir as recomendações do médico assistente ou contactar o SNS 24 através do número 808 24 24 24. Durante a noite, promova o arrefecimento da habitação através da abertura das janelas, mantendo durante o dia portadas, persianas ou cortinas fechadas para reduzir a entrada de calor. Proteja-se e mantenha-se atento às informações e recomendações das entidades oficiais.",
+        "keywords": [
+            {
+                "keyword": "tempo quente região válido",
+                "score": 0.6683
+            },
+            {
+                "keyword": "válido devido previsão temperaturas",
+                "score": 0.6489
+            },
+            {
+                "keyword": "devido previsão temperaturas elevadas",
+                "score": 0.6406
+            },
+            {
+                "keyword": "arejados climatizados",
+                "score": 0.6394
+            },
+            {
+                "keyword": "devido previsão temperaturas",
+                "score": 0.6382
+            },
+            {
+                "keyword": "quente região válido devido",
+                "score": 0.6371
+            },
+            {
+                "keyword": "português mar atmosfera ipma",
+                "score": 0.6365
+            },
+            {
+                "keyword": "aviso laranja tempo quente",
+                "score": 0.6317
+            },
+            {
+                "keyword": "tempo quente região",
+                "score": 0.631
+            },
+            {
+                "keyword": "arejados climatizados sempre possível",
+                "score": 0.6218
+            }
+        ],
+        "source_name": "Município da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWTZqU3FWdWh0TW5pM3pTSVZhQ3QySW1kSFpQRFpqd0YwR25CNDdnaktaamJRNVpJVjcyanRTczVGcWJSQS0zbFYxb0J2akt4SnIxeFVvVzZSN2NITG52SldMRlFWZTVOdGRuVEYxYmZOZmNmdVhZZnZIWFZPcjNyXy1EaXNFWG9FTTkwT3N6R21MbWlSLW5WVzNPM0doNWRxazQxaU5ic3dMR0JLcFpGekx4NVVLZ3dZZWFuNWs5elI1clZTdVk2UGUxR0UxMzNiblFYXw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:13:01 GMT",
+        "title_clean": "Covilhã: João Morgado apresenta nova edição de \"Magalhães\" e a \"Ave-do-Paraíso\" no Festival Portas do Sol - Agência Incomparáveis",
+        "clean_text": "Covilhã: João Morgado apresenta nova edição de \"Magalhães\" e a \"Ave-do-Paraíso\" no Festival Portas do Sol - Agência Incomparáveis. Romance inspirado na vida de Fernão de Magalhães será levado a público no pré-lançamento da 7.ª edição do festival, na Covilhã - Publicidade - O escritor português João Morgado apresenta, no próximo sábado, 4 de julho, a nova edição do romance Magalhães e a Ave-do-Paraíso, numa sessão integrada no pré-lançamento da 7.ª edição do Festival Portas do Sol. A apresentação está marcada para as 18h00, no Largo Dr. Valério de Morais, na Covilhã, e reunirá leitores e público interessado na literatura histórica. A obra recupera a figura de Fernão de Magalhães, navegador português que comandou a expedição responsável pela primeira viagem de circum-navegação do planeta. Através de uma narrativa que combina factos históricos e ficção, João Morgado acompanha o percurso de uma das personalidades mais marcantes da história marítima portuguesa, explorando as decisões, os desafios e os acontecimentos que marcaram a viagem iniciada em 1519. Na publicação, o autor conduz o leitor por um período determinante da expansão marítima, abordando episódios relacionados com a preparação da expedição, a travessia de mares desconhecidos, os conflitos políticos e pessoais, bem como o legado deixado por Fernão de Magalhães para a história da navegação mundial. A apresentação integra a programação cultural do Festival Portas do Sol, iniciativa dedicada às artes de rua e à promoção da cultura, que volta a reunir diversas expressões artísticas e atividades abertas ao público. A sessão constitui igualmente um momento de aproximação entre a literatura e o património histórico português. João Morgado é autor de vários romances históricos dedicados a figuras e acontecimentos da história de Portugal, tendo desenvolvido um percurso literário centrado na divulgação da memória histórica através da ficção. A nova edição de Magalhães e a Ave-do-Paraíso reforça esse trabalho, voltando a colocar em destaque uma das viagens que marcou a história da humanidade. Saiba mais sobre o festival em: A sessão de apresentação decorrerá no Largo Dr. Valério de Morais, a partir das 18h00, e será aberta ao público, proporcionando aos participantes a oportunidade de conhecer a nova edição da obra e contactar diretamente com o autor. ■",
+        "keywords": [
+            {
+                "keyword": "português joão morgado apresenta",
+                "score": 0.6492
+            },
+            {
+                "keyword": "português joão morgado autor",
+                "score": 0.6108
+            },
+            {
+                "keyword": "nova edição romance magalhães",
+                "score": 0.6062
+            },
+            {
+                "keyword": "edição romance magalhães",
+                "score": 0.5859
+            },
+            {
+                "keyword": "morgado apresenta nova edição",
+                "score": 0.583
+            },
+            {
+                "keyword": "edição magalhães ave paraíso",
+                "score": 0.5732
+            },
+            {
+                "keyword": "paraíso festival",
+                "score": 0.572
+            },
+            {
+                "keyword": "edição romance magalhães ave",
+                "score": 0.5691
+            },
+            {
+                "keyword": "apresenta nova edição magalhães",
+                "score": 0.5674
+            },
+            {
+                "keyword": "sábado nova edição romance",
+                "score": 0.5661
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGxmN2xjYzVBWDA3NGMxQ2htT05FQ0lESFpTMlpKOXpSeXRNSkEwd2dTYVBVSWRMcjgyUHBZZmwxYVRJX0RRLUVZWGFucEc4WGczOXlVN2N3VU0zOHZ0QnZ4XzdZeGN6c3NlNGVCTWl5LWVHYjZQUDlqYlctM01UbEJEV0hIQ0wzaG9lNFR3MUhhMUNjeGd0Yjg2cnFKVG5nYVZB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:41:43 GMT",
+        "title_clean": "GNR da Covilhã resgata águia-de-asa-redonda presa no interior de um poço",
+        "clean_text": "GNR da Covilhã resgata águia-de-asa-redonda presa no interior de um poço. O Comando Territorial da GNR de Castelo Branco, através do Serviço da Proteção da Natureza e do Ambiente (SEPNA) da Covilhã, no dia 30 de junho, recuperou uma Águia-de-asa-redonda (Buteo Buteo), no concelho da Covilhã. No decorrer de uma ação de patrulhamento, os militares da Guarda deslocaram-se ao local, onde localizaram a ave no interior de um poço, pousada sobre um tronco de madeira, impossibilitada de voar e de sair pelos próprios meios. Após a sua recuperação, verificaram que o exemplar se encontrava exausto, com a plumagem molhada e sem capacidade de reação. Face ao seu estado debilitado, a ave foi recolhida em segurança e transportada para o Centro de Recuperação de Animais Selvagens (CERAS), em Castelo Branco, onde será sujeita a avaliação médico-veterinária, tratamento clínico, monitorização e posterior libertação no seu habitat natural. A Guarda Nacional Republicana, através do Serviço da Proteção da Natureza e do Ambiente (SEPNA), tem como preocupação diária a proteção dos animais, apelando à denúncia de eventuais situações de maus-tratos ou abandono. Para o efeito, poderá ser utilizada a Linha SOS Ambiente e Território (808 200 520) funcionando em permanência para a denúncia de infrações ou esclarecimento de dúvidas.",
+        "keywords": [
+            {
+                "keyword": "recuperou águia",
+                "score": 0.7445
+            },
+            {
+                "keyword": "recuperou águia asa",
+                "score": 0.7183
+            },
+            {
+                "keyword": "resgata águia",
+                "score": 0.7095
+            },
+            {
+                "keyword": "recuperou águia asa redonda",
+                "score": 0.7075
+            },
+            {
+                "keyword": "resgata águia asa redonda",
+                "score": 0.6775
+            },
+            {
+                "keyword": "resgata águia asa",
+                "score": 0.6687
+            },
+            {
+                "keyword": "30 recuperou águia",
+                "score": 0.6459
+            },
+            {
+                "keyword": "30 recuperou águia asa",
+                "score": 0.6352
+            },
+            {
+                "keyword": "águia asa redonda presa",
+                "score": 0.6314
+            },
+            {
+                "keyword": "águia asa",
+                "score": 0.6114
+            }
+        ],
+        "source_name": "Notícias do Centro"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlN4b2JlNzBGSzFXaGFKYm1oSlI3YkNNUFJ1cXZNWVZIaWJETy1QWGZNOWlhdnNmQUJUMVp4NjhWYjFLMnIzRUF4OVJNRXo5SlVoMUxSenk3QWkzZDZwVmw3SWVnSDBXbElwRlhuVnJ0UFJMUGtvc1Q2Umt5ZVVmZDNBSUJCb2poNnNuVnE2cW1pSnUwM0NyTnNLM1c3ekVvV1NDN1QwWldzZnN3azJlVQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 11:23:18 GMT",
+        "title_clean": "Alunos do primeiro ciclo do Teixoso (Covilhã) vão ter aulas sobre Proteção Civil",
+        "clean_text": "Alunos do primeiro ciclo do Teixoso (Covilhã) vão ter aulas sobre Proteção Civil. O Agrupamento de Escolas do Teixoso vai desenvolver no próximo ano letivo o projeto \"Mãozinhas 112\", uma iniciativa inovadora que pretende integrar a educação para a Proteção Civil no percurso escolar dos alunos do 1º ciclo. Desenvolvida em articulação com o Serviço Municipal de Proteção Civil da Covilhã, no âmbito de uma parceria com a autarquia, a iniciativa tem como objetivo sensibilizar as crianças para a prevenção de riscos, a autoproteção e os comportamentos adequados em situações de emergência, nomeadamente como utilizar corretamente o número telefónico 112. Para tal, os alunos terão contacto com temas como a segurança na escola e em casa, a prevenção de incêndios rurais, os sismos, os fenómenos meteorológicos extremos, os primeiros socorros e o conhecimento dos agentes de proteção civil. «Assente numa forte componente prática e de envolvimento comunitário, o \"Mãozinhas 112\" procura contribuir para a formação de cidadãos mais conscientes, resilientes e preparados para enfrentar situações de risco, levando igualmente a cultura de segurança às famílias e à comunidade», adianta o Agrupamento em comunicado enviado a O INTERIOR. O projeto será implementado em regime piloto na Escola Básica 2/3 do Teixoso, mas poderá ser replicado noutras escolas do concelho da Covilhã.",
+        "keywords": [
+            {
+                "keyword": "vão aulas proteção civil",
+                "score": 0.7427
+            },
+            {
+                "keyword": "proteção civil agrupamento escolas",
+                "score": 0.7261
+            },
+            {
+                "keyword": "proteção civil percurso escolar",
+                "score": 0.7238
+            },
+            {
+                "keyword": "aulas proteção civil agrupamento",
+                "score": 0.7196
+            },
+            {
+                "keyword": "educação proteção civil percurso",
+                "score": 0.7141
+            },
+            {
+                "keyword": "aulas proteção civil",
+                "score": 0.714
+            },
+            {
+                "keyword": "educação proteção civil",
+                "score": 0.7032
+            },
+            {
+                "keyword": "integrar educação proteção civil",
+                "score": 0.7016
+            },
+            {
+                "keyword": "iniciativa objetivo sensibilizar crianças",
+                "score": 0.6843
+            },
+            {
+                "keyword": "objetivo sensibilizar crianças prevenção",
+                "score": 0.6702
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTldyREk5UjBVOGtsX0puYmp3cUZmNnJEaE1Ma0ljaW5XNEthbDhXektnSEMyUS02ck0zR3RqZjY3RGtjTTU1M1NGbm5UVmRiV3lfWG1VZG5MSVM2dDB2Vy1yWmJuc00zX3hSdC1NaF9zNVFhUkZfdUVJTnJKekdHOW1wQlpKbVR4a2JJUTNLRUZEbUtseEh5TEpubVFVSFR0WHZwcHRnVFBnR0didEM3dVhKSi1rV05Z?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 13:03:57 GMT",
+        "title_clean": "Mutualista da Covilhã vence Iniciativa Gulbenkian Integração com projeto “IntegraCare”",
+        "clean_text": "Mutualista da Covilhã vence Iniciativa Gulbenkian Integração com projeto \"IntegraCare\". A Mutualista da Covilhã venceu a Iniciativa Gulbenkian Integração, da Fundação Calouste Gulbenkian que vai financiar um novo projeto da associação covilhanense chamado \"IntegraCare - Cuidar para Integrar\". O objetivo da iniciativa é reforçar a «integração de migrantes e refugiados no concelho da Covilhã através de uma resposta inovadora e de proximidade que articula saúde, apoio jurídico, mediação intercultural e capacitação». A Fundação Calouste Gulbenkian recebeu 286 candidaturas, tendo destacado 28 projetos vencedores, entre o quais o da Mutualista da Covilhã.",
+        "keywords": [
+            {
+                "keyword": "vence iniciativa gulbenkian integração",
+                "score": 0.7497
+            },
+            {
+                "keyword": "venceu iniciativa gulbenkian integração",
+                "score": 0.7452
+            },
+            {
+                "keyword": "vence iniciativa gulbenkian",
+                "score": 0.7201
+            },
+            {
+                "keyword": "iniciativa gulbenkian integração fundação",
+                "score": 0.7186
+            },
+            {
+                "keyword": "venceu iniciativa gulbenkian",
+                "score": 0.7154
+            },
+            {
+                "keyword": "iniciativa gulbenkian integração",
+                "score": 0.6672
+            },
+            {
+                "keyword": "iniciativa gulbenkian integração projeto",
+                "score": 0.6555
+            },
+            {
+                "keyword": "gulbenkian integração fundação",
+                "score": 0.6454
+            },
+            {
+                "keyword": "fundação calouste gulbenkian recebeu",
+                "score": 0.636
+            },
+            {
+                "keyword": "vence iniciativa",
+                "score": 0.5706
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTNGUHFLR3p0bW1FWUktM1dJNy10LWRWeG1kUEtiUGJoSDYtTGR6ZW9pcVBOelVnVV9La1RDMUVDZmZIRDZxR2NuaG8tRUpOWUhjcGZzVFc2aDY5dlByZmJFdnNSTzJiZWJXT2R6YTNsMm5RMDZzYUtFSFcyOGxjRDV3cUswT3ZIUDZ1X1ZSbzN0c0E?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 08:32:58 GMT",
+        "title_clean": "Festival Portas do Sol arranca hoje na Covilhã",
+        "clean_text": "Festival Portas do Sol arranca hoje na Covilhã. A sétima edição do Festival Portas do Sol vai decorrer a partir de hoje e até sábado, dia 4, no Centro Histórico da Covilhã, com organização da ASTA e com um programa que reúne 44 atividades gratuitas e reforça a aposta na ocupação artística do espaço público, na valorização do património e no envolvimento da comunidade local. Uma das principais novidades desta edição é a participação dos museus da Covilhã e do Arquivo Municipal em atividades desenvolvidas no espaço público. A ligação às associações locais mantém-se igualmente como uma das marcas do festival. Depois da experiência realizada no ano passado, a ASTA renovou a colaboração com a Associação Estrela Três Pontas, que participará num espetáculo resultante de um workshop de teatro-circo. O circo contemporâneo, a dança aérea, o malabarismo e outras disciplinas acrobáticas continuam a ocupar um lugar central na programação. A edição de 2026 introduz também novos espaços e atividades. Entre as novidades está a realização de um sunset no Miradouro das Portas do Sol, entre as 19h30 e as 21h00. Programa completo AQUI",
+        "keywords": [
+            {
+                "keyword": "festival portas sol decorrer",
+                "score": 0.6326
+            },
+            {
+                "keyword": "edição festival portas sol",
+                "score": 0.6241
+            },
+            {
+                "keyword": "festival portas sol",
+                "score": 0.6218
+            },
+            {
+                "keyword": "sétima edição festival",
+                "score": 0.6124
+            },
+            {
+                "keyword": "festival depois experiência realizada",
+                "score": 0.6087
+            },
+            {
+                "keyword": "festival portas sol arranca",
+                "score": 0.5991
+            },
+            {
+                "keyword": "edição festival",
+                "score": 0.596
+            },
+            {
+                "keyword": "festival depois experiência",
+                "score": 0.5958
+            },
+            {
+                "keyword": "igualmente marcas festival depois",
+                "score": 0.5814
+            },
+            {
+                "keyword": "marcas festival",
+                "score": 0.5762
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUdzdTI0R25Jd1FOWWE3NG5QdWpNdTI1OG4xcmU4c2VJWDNFeFpRMTdMSkZEOVVzMk5JWElMeDdIVm5vLUVDTHFoblMzY3JiYmZFTWI5ZWZHX2RvWDhxMTNseXQyTklMSXljYWZkdng2dnhveTBPblhiaDZyeDNKTzNkb2RUZzZpbmFwWURSTEU3Nzk4SE9VdVlOVFBrcl9KRk1wUWFHRHAyRk5vQS1NVzV0TUxsUzAyLWtaYXlKQUtKMW1LSEx5QzF5aEZiQ2RIZHZicA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 11:16:35 GMT",
+        "title_clean": "Estado dos cemitérios da Covilhã e do Canhoso motiva críticas e leva Junta a exigir intervenção",
+        "clean_text": "Estado dos cemitérios da Covilhã e do Canhoso motiva críticas e leva Junta a exigir intervenção. O estado de conservação e limpeza dos cemitérios do Canhoso e da Covilhã esteve em destaque na Assembleia da União de Freguesias da Covilhã e Canhoso, com eleitos da oposição a denunciarem a degradação daqueles espaços e a exigirem uma intervenção urgente. Em representação da coligação CDS/IL, Paulo Santos afirmou que, após várias visitas ao cemitério do Canhoso, ficou \"com profunda tristeza\" perante o estado em que se encontra. \"É de lamentar que continue com um aspeto pouco digno, marcado pela degradação e pela clara falta de limpeza\", afirmou, lembrando que \"aquele é um local de memória, de luto e de recolhimento\". O eleito defendeu que o espaço \"merece a máxima dignidade e mais atenção deste Executivo e, neste caso, também da Câmara Municipal\", questionando o presidente da Junta sobre \"que medidas urgentes e concretas vão ser tomadas, e para quando, para devolver a dignidade e a limpeza que o cemitério do Canhoso e os seus visitantes merecem\". Também Ana Calmão, do PSD, alertou para a situação do cemitério da Covilhã, considerando que \"necessita de maior cuidado a nível de limpeza e de manutenção\". A eleita sublinhou que, sendo \"um espaço de memória, respeito e homenagem aos nossos familiares, merece uma atenção permanente e condizente com a sua importância para a comunidade\". Na resposta, o presidente da União de Freguesias da Covilhã e Canhoso, Francisco Mota, garantiu que a preocupação é partilhada pelo executivo e que a situação já foi comunicada aos responsáveis. \"Já tive a oportunidade de falar com a pessoa responsável pelo cemitério da Covilhã e dei indicações a quem está com esse pelouro na Câmara Municipal da nossa preocupação\", afirmou. O autarca frisou que os cemitérios são \"um espaço de uma sensibilidade enorme\" e assegurou que a Junta continuará a pressionar para que sejam mantidos em condições dignas. \"O que nós queremos, propugnamos e exigimos é que sejam espaços cada vez mais cuidados, para que as pessoas que ali vão prestar homenagem aos seus entes queridos possam realmente fazê-lo em condições dignas\", declarou, acrescentando que \"quem lá está merece tanta dignidade como os que a visitam\". Francisco Mota garantiu ainda que, caso a situação se mantenha, a União de Freguesias continuará a insistir junto da Câmara Municipal. \"Podem ter a certeza de que, se o problema persistir, estaremos na linha da frente para que ele seja resolvido o mais rapidamente possível\", concluiu.",
+        "keywords": [
+            {
+                "keyword": "alertou situação cemitério",
+                "score": 0.731
+            },
+            {
+                "keyword": "preocupação autarca frisou cemitérios",
+                "score": 0.7297
+            },
+            {
+                "keyword": "estado conservação limpeza cemitérios",
+                "score": 0.7005
+            },
+            {
+                "keyword": "situação cemitério",
+                "score": 0.6965
+            },
+            {
+                "keyword": "estado cemitérios",
+                "score": 0.6858
+            },
+            {
+                "keyword": "responsável cemitério",
+                "score": 0.6827
+            },
+            {
+                "keyword": "conservação limpeza cemitérios canhoso",
+                "score": 0.6787
+            },
+            {
+                "keyword": "dignidade limpeza cemitério canhoso",
+                "score": 0.6657
+            },
+            {
+                "keyword": "limpeza cemitério canhoso",
+                "score": 0.6636
+            },
+            {
+                "keyword": "autarca frisou cemitérios são",
+                "score": 0.6623
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2lfYnpnWmRmS3k3LXBublQ4c3E0UHRpaEcwZWJYM1Z4R1Z5Ynp3UDV6di1fS01iNVJwaDZrTkhaTWZCek4yU1hQMkJRY3JiNEY1Um9jZnBUY21JWml3TnRVc2Ntb25Pc0tvekZFM183U2EwVE5CNmFFTC1RcUozT3VGeW9vYllvd3V0QUNmT0Q0bWpzY1VaUg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 10:23:11 GMT",
+        "title_clean": "Sporting da Covilhã reforça defesa com Diogo Silva",
+        "clean_text": "Sporting da Covilhã reforça defesa com Diogo Silva. O Sporting da Covilhã anunciou a contratação de Diogo Silva para a temporada 2026/27, reforçando o setor defensivo do plantel serrano. O defesa chega à Covilhã depois de ter dividido a última época entre o Tirsense e a Ovarense, clube que representou na segunda metade da temporada. Ao longo da formação, Diogo Silva passou pelo SC Coimbrões, Feirense e Gondomar, iniciando depois o percurso no futebol sénior. Agora, abraça um novo desafio ao serviço do Sporting da Covilhã, que prossegue a construção do plantel para a nova época. Com esta contratação, os leões da Serra acrescentam mais uma opção para o setor defensivo, numa altura em que continuam a preparar a temporada 2026/27.",
+        "keywords": [
+            {
+                "keyword": "defesa diogo silva sporting",
+                "score": 0.6621
+            },
+            {
+                "keyword": "anunciou contratação diogo silva",
+                "score": 0.6485
+            },
+            {
+                "keyword": "anunciou contratação diogo",
+                "score": 0.6451
+            },
+            {
+                "keyword": "diogo silva sporting",
+                "score": 0.6425
+            },
+            {
+                "keyword": "reforça defesa diogo",
+                "score": 0.5612
+            },
+            {
+                "keyword": "contratação diogo silva temporada",
+                "score": 0.5564
+            },
+            {
+                "keyword": "defesa diogo",
+                "score": 0.5425
+            },
+            {
+                "keyword": "contratação diogo",
+                "score": 0.5413
+            },
+            {
+                "keyword": "formação diogo",
+                "score": 0.5145
+            },
+            {
+                "keyword": "diogo silva temporada 2026",
+                "score": 0.497
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUZtN2RjTDZ5VUJRcWhNRlg1M1Q4RkVfZ2hfa1dIckZVUjFDdnVMYWJtYWhpYTdyM295UnVnd0tFQUp2dTloQjdyemdzZDdUbFBfcGZmWjJORDRNUG1VNnE0TW5rMTduckYtbGJNaWxVRzNEN0M4WUFuRHhJOUZpdnkwYUkxNEp4Ry05SHI1dHVRa09UaXNTSERVaHlkQUViVlNnUFpBN1BrZ1hoZ291ZnlUUnhzaVgyY3Y4VC1YUkRwcjlLajI5UA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:01:13 GMT",
+        "title_clean": "Mais de 200 pessoas na festa de final de ano da Academia de Música da Banda da Covilhã",
+        "clean_text": "Mais de 200 pessoas na festa de final de ano da Academia de Música da Banda da Covilhã. A Academia de Música da Banda da Covilhã assinalou o final do ano letivo com dois momentos especiais, marcados pela apresentação pública do trabalho realizado ao longo do ano pelos alunos. O primeiro momento, que decorreu no dia 25 de junho, na Galeria António Lopes, resultou num recital das classes de canto e piano, onde foi evidenciada a evolução artística e musical dos alunos. A iniciativa integrou o projeto \"Piano ao Meio\", promovido pelo município da Covilhã. Já no segundo momento, dia 27 de junho, no Jardim Público, a festa de encerramento recebeu mais de 200 pessoas, que assistiram às apresentações preparadas pelos alunos e professores. O programa contou com as atuações da classe de Cordas, Sopros e Percussão, da Orquestra dos 1os Sons e da Orquestra Juvenil da Academia de Música da Banda da Covilhã. A tarde ficou ainda marcada pela participação da marcha do ATL do Rodrigo e pelo regresso do Pautinha (mascote da Academia), que surgiu com uma nova imagem. Em nota de imprensa, a Academia de Música da Banda da Covilhã \"agradece a todos os alunos, encarregados de educação, professores, colaboradores, voluntários, público e restantes participantes e parceiros que contribuíram para o sucesso das iniciativas.\" Recordar que as inscrições para o próximo ano letivo já se encontram abertas e podem ser feitas através dos contactos da Banda da Covilhã. Para o próximo ano, há também novidades, como a abertura das classes de violoncelo e contrabaixo.",
+        "keywords": [
+            {
+                "keyword": "festa final academia música",
+                "score": 0.7192
+            },
+            {
+                "keyword": "lopes resultou recital",
+                "score": 0.6885
+            },
+            {
+                "keyword": "resultou recital classes canto",
+                "score": 0.6731
+            },
+            {
+                "keyword": "resultou recital",
+                "score": 0.672
+            },
+            {
+                "keyword": "final academia música",
+                "score": 0.6574
+            },
+            {
+                "keyword": "musical alunos iniciativa integrou",
+                "score": 0.6566
+            },
+            {
+                "keyword": "recital classes canto piano",
+                "score": 0.6557
+            },
+            {
+                "keyword": "classes canto piano evidenciada",
+                "score": 0.6504
+            },
+            {
+                "keyword": "artística musical alunos iniciativa",
+                "score": 0.6479
+            },
+            {
+                "keyword": "recital classes canto",
+                "score": 0.6432
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUU1qRWtoWnpYZC1TaDdXT1lqUU1NNkw1U09DaGVZUzVPRnNnNFBSbllpWk9WdlZJVmV2eUpxUmFKemFYZTd6WWFmRzJPeXVDWjJQRVd6UDNNOEhkSHpobTBwcl91UWpqSHBpY1laQloyX1ByNnE4YVBvblNDbjc3NDRNb1Azd2xQd1JtZllwZGxCazBnXzg2aXRPdGNGWlR4MGpPdEZfQ0M2YUdaRnR2WmpzWHFyTWpJeU9QcVBTbmxmRFVJVUhWUw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 09:47:05 GMT",
+        "title_clean": "AM Covilhã: Presidentes de Junta unem-se em defesa dos cuidados de saúde de proximidade",
+        "clean_text": "AM Covilhã: Presidentes de Junta unem-se em defesa dos cuidados de saúde de proximidade. A Assembleia Municipal da Covilhã aprovou por unanimidade, na sessão de 29 de junho, uma moção apresentada pelos 25 presidentes de Junta de Freguesia do concelho, em defesa da valorização e reforço dos serviços de saúde de proximidade. O documento, apresentado por Pedro Silveira, presidente da Junta de Freguesia de Peraboa, alerta para a falta de profissionais em várias extensões de saúde e manifesta preocupação com a estratégia seguida pela Unidade Local de Saúde (ULS) da Cova da Beira. Na apresentação da moção, Pedro Silveira sublinhou que \"a saúde é um direito fundamental consagrado na Constituição da República Portuguesa\" e defendeu que, perante os desafios demográficos e territoriais do interior, \"torna-se essencial valorizar as respostas de proximidade\". O documento recorda que o concelho dispõe de 25 extensões de saúde, responsáveis pela prestação de cuidados de saúde primários nas freguesias, mas alerta que atualmente três dessas unidades estão sem médico há cerca de quatro meses e uma outra funciona sem enfermeiro. Os autarcas referem que, na reunião realizada a 28 de maio com o Conselho de Administração da ULS Cova da Beira, esperavam conhecer \"um plano para o fortalecimento dos cuidados de saúde de proximidade\", mas afirmam ter encontrado \"uma estratégia unicamente focada em números, e não nas pessoas\", baseada numa aposta nas teleconsultas em detrimento do reforço das extensões de saúde. A moção critica ainda aquilo que considera ser \"uma tentativa de transmissão de competências encapotada da ULS para as Juntas de Freguesia\", ao sugerir que os presidentes de junta assegurem o acompanhamento dos utentes, competência que os autarcas consideram não lhes caber. Embora reconheçam que a ULS garante não existir qualquer plano para encerrar extensões de saúde, os presidentes de junta consideram que algumas medidas poderão conduzir ao seu enfraquecimento. Entre as situações apontadas estão relatos de novos residentes impedidos de se inscreverem nas extensões das freguesias onde vivem, sendo encaminhados para unidades da Covilhã, Tortosendo ou Teixoso, bem como dificuldades no acesso à vacinação infantil. Os signatários defendem que as juntas de freguesia pretendem colaborar com a ULS e com a Câmara Municipal, mas exigem uma estratégia clara para os cuidados de saúde de proximidade. Consideram ainda contraditório que estejam a ser realizados investimentos na requalificação de várias extensões de saúde, através do Plano de Recuperação e Resiliência, sem que exista um reforço dos recursos humanos. Através da moção, os presidentes de junta instam a ULS Cova da Beira a repor \"com urgência\" o normal funcionamento das extensões de saúde com falta de médicos ou enfermeiros, garantir que os cuidados de proximidade não são comprometidos, corrigir quaisquer limitações à inscrição de utentes nas extensões do concelho e, em conjunto com a Câmara Municipal, definir uma estratégia de longo prazo assente na valorização de todas as extensões de saúde existentes. Debate reuniu consenso político A moção recolheu o voto favorável de todos os grupos municipais, embora acompanhada de diferentes leituras sobre a situação. Em nome do Partido Socialista, Pedro Bernardo afirmou que o partido se solidariza \"com todos os presidentes de junta e com as populações\", considerando particularmente preocupantes os relatos de impedimentos na inscrição de utentes nas extensões de saúde. Também Sara Fonseca, presidente da Junta de Freguesia da Erada e enfermeira, manifestou preocupação com a crescente utilização da teleconsulta como resposta à falta de profissionais. \"A teleconsulta é uma ferramenta importante e útil em algumas situações, mas não pode ser encarada como um substituto da consulta presencial\", afirmou, defendendo que \"o interior não precisa de menos saúde presencial. Precisa de mais profissionais, mais proximidade e mais confiança no Serviço Nacional de Saúde\". Pelo PSD, Nuno Pais justificou o voto favorável afirmando que \"a defesa dos cuidados de saúde de proximidade deve estar acima de qualquer divergência política ou institucional\". O deputado reconheceu a importância das preocupações expressas na moção, mas sublinhou também os investimentos recentes da ULS, designadamente a criação de novas Unidades de Saúde Familiar e o reforço do atendimento telefónico, defendendo que \"a saúde de proximidade não se defende com alarmismos, defende-se com a verdade, com profissionais, com investimento, com boa organização e com um diálogo permanente entre as populações\". João Bernardo, do CDS-PP, considerou que o documento coloca \"um objeto humano\" acima da disputa política e apelou a uma maior intervenção do Conselho Municipal de Saúde na definição da estratégia para o concelho. O Chega, pela voz de Amadeu Alberto, apoiou igualmente a moção, defendendo que \"a saúde não pode depender do código postal\", embora tenha considerado que o texto poderia ir mais longe na responsabilização do Governo e da administração da ULS. Vítor Reis Silva, do PCP, saudou o consenso alcançado pelos presidentes de junta e classificou o documento como \"justo\" e \"adequado\", defendendo um maior investimento nos cuidados de saúde primários e no Serviço Nacional de Saúde. Também José Pascoa, do MIPP, manifestou solidariedade para com os autarcas, alertando para os riscos de gerir a saúde \"como se gere um supermercado\". Nuno Pedro, do PS, enalteceu o consenso obtido entre as freguesias e apelou a uma maior intervenção do Governo perante a falta de profissionais nas extensões de saúde.",
+        "keywords": [
+            {
+                "keyword": "saúde presidentes junta consideram",
+                "score": 0.7067
+            },
+            {
+                "keyword": "extensões saúde presidentes junta",
+                "score": 0.7013
+            },
+            {
+                "keyword": "intervenção conselho municipal saúde",
+                "score": 0.6924
+            },
+            {
+                "keyword": "consenso alcançado presidentes junta",
+                "score": 0.6653
+            },
+            {
+                "keyword": "sugerir presidentes junta assegurem",
+                "score": 0.6613
+            },
+            {
+                "keyword": "encerrar extensões saúde presidentes",
+                "score": 0.6326
+            },
+            {
+                "keyword": "alcançado presidentes junta classificou",
+                "score": 0.6268
+            },
+            {
+                "keyword": "através moção presidentes junta",
+                "score": 0.6263
+            },
+            {
+                "keyword": "saúde proximidade assembleia municipal",
+                "score": 0.626
+            },
+            {
+                "keyword": "presidentes junta assegurem acompanhamento",
+                "score": 0.6187
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ29LUHJwcWh0T2Zmb3gwRENiUUYxZ2pGMXZqa2VYUHB2Yl94RDVNMVZUcjEyeHo2bExKd1BPcGNMZmRUV3RGaVhRYmJUbWREQ0dyN3RYNHZkV2dBanJkdFVkTXVzTXJ5MGx0M01XSjdkeFZOc2NUUm9fY3ZqVTB3VUphV1luSl9JZkhseXI1Vm5ZRllVaGhUanYxdnpzeHNfNklCZ3ZKVmlhN3NOZjhnTTM4UkxmbjFMYmJCNkxJMVNHUmc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 17:18:32 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva",
+        "clean_text": "Mercado of Sport's: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva. Cleiton Mendonça é mais uma opção para a equipa serrana, chegando com a ambição de contribuir para os objetivos do clube na próxima temporada. Já Diogo Silva reforça o setor defensivo dos leões da Serra, acrescentando soluções para a linha recuada do conjunto covilhanense. Com estas duas incorporações, o Sporting da Covilhã prossegue a construção do plantel para 2026/2027, reforçando as opções à disposição da equipa técnica para a nova temporada.",
+        "keywords": [
+            {
+                "keyword": "cleiton mendonça opção equipa",
+                "score": 0.5927
+            },
+            {
+                "keyword": "mendonça opção equipa serrana",
+                "score": 0.5896
+            },
+            {
+                "keyword": "reforçando opções disposição equipa",
+                "score": 0.5776
+            },
+            {
+                "keyword": "próxima temporada diogo",
+                "score": 0.5712
+            },
+            {
+                "keyword": "opções disposição equipa",
+                "score": 0.5703
+            },
+            {
+                "keyword": "disposição equipa",
+                "score": 0.5639
+            },
+            {
+                "keyword": "mendonça opção equipa",
+                "score": 0.5574
+            },
+            {
+                "keyword": "opção equipa serrana",
+                "score": 0.5508
+            },
+            {
+                "keyword": "opção equipa serrana chegando",
+                "score": 0.5447
+            },
+            {
+                "keyword": "garante cleiton mendonça diogo",
+                "score": 0.5431
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3hELUl6LXVlTTNTNEFha1ZCamN5UW01emQxblpFYWFMUzlZamxQaWNVWnpoTURFLVNMVzJWMV9CcFlIVk5kQzJVX05wdEJfcHRXMTUxa0Q0LTBIamxNcHNwNndmV1c3ajBXRXl1UHlKUF9Mdi14YWhUNGk3N3MtekVxblkwUnYyczJWVjZnZDRiN2RmYkl1TGFtUjAwZGhEWF9FZGVzOG9EQjJlVjkzNXZoaHJiQWx5dUJVc3FoMA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 15:14:26 GMT",
+        "title_clean": "COVILHÃ: GNR resgata Águia-de-asa-redonda encontrada no interior de um poço",
+        "clean_text": "COVILHÃ: GNR resgata Águia-de-asa-redonda encontrada no interior de um poço. O Comando Territorial de Castelo Branco, através do Serviço da Proteção da Natureza e do Ambiente (SEPNA) da Covilhã, no dia 30 de junho, recuperou uma Águia-de-asa-redonda (Buteo Buteo), no concelho da Covilhã. No decorrer de uma ação de patrulhamento, os militares da Guarda deslocaram-se ao local, onde localizaram a ave no interior de um poço, pousada sobre um tronco de madeira, impossibilitada de voar e de sair pelos próprios meios. Após a sua recuperação, verificaram que o exemplar se encontrava exausto, com a plumagem molhada e sem capacidade de reação. Face ao seu estado debilitado, a ave foi recolhida em segurança e transportada para o Centro de Recuperação de Animais Selvagens (CERAS), em Castelo Branco, onde será sujeita a avaliação médico-veterinária, tratamento clínico, monitorização e posterior libertação no seu habitat natural. A Guarda Nacional Republicana, através do Serviço da Proteção da Natureza e do Ambiente (SEPNA), tem como preocupação diária a proteção dos animais, apelando à denúncia de eventuais situações de maus-tratos ou abandono. Para o efeito, poderá ser utilizada a Linha SOS Ambiente e Território (808 200 520) funcionando em permanência para a denúncia de infrações ou esclarecimento de dúvidas.",
+        "keywords": [
+            {
+                "keyword": "recuperou águia",
+                "score": 0.6688
+            },
+            {
+                "keyword": "gnr resgata águia",
+                "score": 0.667
+            },
+            {
+                "keyword": "resgata águia",
+                "score": 0.6409
+            },
+            {
+                "keyword": "gnr resgata águia asa",
+                "score": 0.6402
+            },
+            {
+                "keyword": "recuperou águia asa",
+                "score": 0.6344
+            },
+            {
+                "keyword": "recuperou águia asa redonda",
+                "score": 0.6158
+            },
+            {
+                "keyword": "resgata águia asa",
+                "score": 0.6025
+            },
+            {
+                "keyword": "recuperação animais selvagens ceras",
+                "score": 0.5971
+            },
+            {
+                "keyword": "centro recuperação animais selvagens",
+                "score": 0.5918
+            },
+            {
+                "keyword": "resgata águia asa redonda",
+                "score": 0.5915
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXhjclNnam8xbktwZk9MMXllX3kwZjBSTEFCNDEwMDFRdFlnY0FGVFlNQnpYQXlYaWFPQnJ3OEh0SDF6Nkd5enREaDlrWEljV0doVndhU0lLcEVicUdKS1U5RU1GbmJtelB5cWl2czIxZkp1Z0I1QWhlYjJmem5OZHZkU3pYOUE4Ym41Mkhlejd6LU1FNlJZMmhQbkFWUjZqWGNXWWJlY2J0OW5oR3VEakdWUWRKaFhUSWd2SnZlbEs1RFk1X3l2cw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 17:18:32 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva",
+        "clean_text": "Mercado of Sport's: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva. Cleiton Mendonça é mais uma opção para a equipa serrana, chegando com a ambição de contribuir para os objetivos do clube na próxima temporada. Já Diogo Silva reforça o setor defensivo dos leões da Serra, acrescentando soluções para a linha recuada do conjunto covilhanense. Com estas duas incorporações, o Sporting da Covilhã prossegue a construção do plantel para 2026/2027, reforçando as opções à disposição da equipa técnica para a nova temporada.",
+        "keywords": [
+            {
+                "keyword": "cleiton mendonça opção equipa",
+                "score": 0.5927
+            },
+            {
+                "keyword": "mendonça opção equipa serrana",
+                "score": 0.5896
+            },
+            {
+                "keyword": "reforçando opções disposição equipa",
+                "score": 0.5776
+            },
+            {
+                "keyword": "próxima temporada diogo",
+                "score": 0.5712
+            },
+            {
+                "keyword": "opções disposição equipa",
+                "score": 0.5703
+            },
+            {
+                "keyword": "disposição equipa",
+                "score": 0.5639
+            },
+            {
+                "keyword": "mendonça opção equipa",
+                "score": 0.5574
+            },
+            {
+                "keyword": "opção equipa serrana",
+                "score": 0.5508
+            },
+            {
+                "keyword": "opção equipa serrana chegando",
+                "score": 0.5447
+            },
+            {
+                "keyword": "garante cleiton mendonça diogo",
+                "score": 0.5431
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWxUcUVHUWxic0I0YW9YeS14TFZWN0d2cUdsSE1EdklpZVVSX3UyVU5lcVFrcmV5Q2hTcHJpUjR4dkxSaDJhd1ppTksyMl9OT2hVZ0xaazMxcWdLNnh0dUNoWDB2RlZDazZUQzhWWDZib09HZDZadzJ5SHdHbThwNFZYeWZibDNhS2dNUDJsZnM5b1lFR1p5RjV0SmU5dnZndVMwQmlZQl9ZeVhK0gGnAUFVX3lxTE53Y1VUTkJ0TEptdlBIdm1XREsxZjRUOGZDMGVxZTFFcFEyQzNFU3BPX1FFQkJmdUF1dGpobGtVN2Ytem93U2lIaEJjQ2ZCLVdWLVNXQ0pZeVlLeDFZcm84X0ZFMTNxZ1pTcGg3NXk1U2czSlVIazNfWTV4RnRBN193WTBiSnQ3cWhtRThNR3M2LWlKVzR5XzhWNTdkVi1EcGJEbDZmc1FB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 15:31:00 GMT",
+        "title_clean": "Vianense anuncia contratação de dois criativos - Record",
+        "clean_text": "Vianense anuncia contratação de dois criativos - Record. O Vianense prepara a época do regresso à Liga 3 e anunciou, esta quinta-feira, a contratação de mais duas unidades criativas para o plantel às ordens de Filipe Mesquita: o médio ofensivo João Castro e o extremo Sekou Diancoumba. O primeiro tem 25 anos e tem experiência de Liga 3, ao ter representado Fafe, Anadia e São João de Ver neste terceiro escalão. Na última época, ao serviço dos malapeiros, fez 2 golos em 26 jogos. Já Sekou tem 21 anos, descobriu a Liga 3 em 2024/25, no Vilaverdense, tendo feito a segunda metade da última época no Sp. Covilhã.",
+        "keywords": [
+            {
+                "keyword": "prepara época regresso liga",
+                "score": 0.5611
+            },
+            {
+                "keyword": "época regresso liga",
+                "score": 0.5203
+            },
+            {
+                "keyword": "golos 26 jogos sekou",
+                "score": 0.5111
+            },
+            {
+                "keyword": "regresso liga anunciou",
+                "score": 0.4953
+            },
+            {
+                "keyword": "época regresso liga anunciou",
+                "score": 0.4935
+            },
+            {
+                "keyword": "liga anunciou",
+                "score": 0.4879
+            },
+            {
+                "keyword": "liga 2024 25 vilaverdense",
+                "score": 0.4845
+            },
+            {
+                "keyword": "vianense prepara época regresso",
+                "score": 0.4764
+            },
+            {
+                "keyword": "liga anunciou quinta",
+                "score": 0.4614
+            },
+            {
+                "keyword": "25 experiência liga representado",
+                "score": 0.4573
+            }
+        ],
+        "source_name": null
     }
 ]
