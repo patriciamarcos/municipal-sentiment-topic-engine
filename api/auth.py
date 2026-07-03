@@ -19,6 +19,10 @@ USERS = {
     "admin@municipalsentiment.pt": {
         "password": pwd_context.hash("admin123"),
         "role": "admin",
+    },
+    "tecnico@municipalsentiment.pt": {
+        "password": pwd_context.hash("tecnico123"),
+        "role": "tecnico",
     }
 }
 
