@@ -3325,5 +3325,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpse7pcbst23",
+        "source": "bluesky",
+        "created_at": "2026-07-04T05:45:03+00:00",
+        "title_clean": "",
+        "clean_text": "Mutualista da Covilhã vence Iniciativa Gulbenkian Integração com projeto \"IntegraCare\" A Mutualista da Covilhã venceu a Iniciativa Gulbenkian Integração, da Fundação Calouste Gulbenkian que vai financiar um novo…",
+        "keywords": [
+            {
+                "keyword": "vence iniciativa gulbenkian integração",
+                "score": 0.8013
+            },
+            {
+                "keyword": "venceu iniciativa gulbenkian integração",
+                "score": 0.8011
+            },
+            {
+                "keyword": "iniciativa gulbenkian integração fundação",
+                "score": 0.7194
+            },
+            {
+                "keyword": "venceu iniciativa gulbenkian",
+                "score": 0.7187
+            },
+            {
+                "keyword": "vence iniciativa gulbenkian",
+                "score": 0.717
+            },
+            {
+                "keyword": "gulbenkian integração fundação",
+                "score": 0.6984
+            },
+            {
+                "keyword": "iniciativa gulbenkian integração",
+                "score": 0.6639
+            },
+            {
+                "keyword": "integração fundação calouste gulbenkian",
+                "score": 0.6551
+            }
+        ],
+        "source_name": null
     }
 ]

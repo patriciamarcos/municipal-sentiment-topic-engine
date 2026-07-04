@@ -76460,5 +76460,1021 @@
         },
         "model_name": "tabularisai/multilingual-emotion-classification",
         "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoUlBtV3ZIa3BuMF83V2NRdndXSnQ5RlJWdDh1R2tZaGoyR2NPVEw3RU1nNmluMEZja2lfVkt0Wk1ydkhmNk1aUXZRZ0lSVVoxYXVldmJJUWd1YzIxcHFXRGt3NXVxZ1VmSEdB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title": "📍 ESTE FIM DE SEMANA NA COVILHÃ, NÃO PERCA - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9923,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9923,
+            "CONTEMPT": 0.0056,
+            "SADNESS": 0.0044,
+            "JOY": 0.0042,
+            "ANGER": 0.004,
+            "SURPRISE": 0.0037,
+            "FRUSTRATION": 0.0035,
+            "DISGUST": 0.0028,
+            "FEAR": 0.0022,
+            "GRATITUDE": 0.0019,
+            "LOVE": 0.0017
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WWm4yTWlYVnU3RFZhaTlvWXpkaVMybXFkSHZnOFFWcUhsUlZOZ0NNbldWUzgwTnZiWXhHMDNscmVqQkhDbWROWVJSZkFYZEY2cjIzVFVfcXJZRHY0M010eWpqczI4WjRyOTIw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 08:39:48 GMT",
+        "title": "MUNICÍPIO AVANÇA COM REPAVIMENTAÇÃO DA ESTRADA ENTRE A COVILHÃ E CANHOSO - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9914,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9914,
+            "FRUSTRATION": 0.0071,
+            "ANGER": 0.0042,
+            "SADNESS": 0.0038,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "FEAR": 0.0028,
+            "CONTEMPT": 0.0024,
+            "LOVE": 0.0023,
+            "GRATITUDE": 0.0014
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mdnhRLUdaNERIVTlyM1QtYzFVY2I2MTZVUlhxZ0RKY29ZVjZmN1Rkekp6a0dEVTJUemVoS0ZHdHdHWGlCTFU3MnFUV3drclFSQ0NwTzhfU2dIT0h2bTg3M280YXlJY1phaXJybjBmLXJJUDZwY09V?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "title": "MUNICÍPIO DA COVILHÃ VAI REQUALIFICAR ESTRADA ENTRE O PARQUE INDUSTRIAL DO TORTO - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9911,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9911,
+            "FRUSTRATION": 0.0065,
+            "SURPRISE": 0.0044,
+            "ANGER": 0.0042,
+            "SADNESS": 0.0036,
+            "FEAR": 0.0035,
+            "JOY": 0.0034,
+            "DISGUST": 0.0027,
+            "LOVE": 0.0025,
+            "CONTEMPT": 0.0022,
+            "GRATITUDE": 0.0014
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91emNLR1poUUlPc1JjcXhHR2IxNHc3X2VSZnBVcFFwV0lhSnNSWUpQQlZyMU1PMFcteXdZVjVDUmR1aDl4RFlwWndmTVlVS01VOVRRd0RsRkJwMEVDMHhTeW41T3JjQXE0RWc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 08:36:52 GMT",
+        "title": "PERABOA | FEIRA DA CHAVELHA - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9856,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9856,
+            "JOY": 0.0176,
+            "ANGER": 0.006,
+            "CONTEMPT": 0.0055,
+            "DISGUST": 0.0037,
+            "SURPRISE": 0.0029,
+            "FRUSTRATION": 0.0029,
+            "SADNESS": 0.0025,
+            "GRATITUDE": 0.002,
+            "LOVE": 0.0017,
+            "FEAR": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUkJDdmtWTUZESWdfQVduWTQ4NURDNElIcWo1ZkpXMVRYbEhrT1YxQndXWDBldkVLUkdXQ1dqYXdncHhGQ0NCVGhqZkM0VFVDZE9iRk1ZS0tYcnRISWN3VW9RTThRWk5VLWRB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title": "FORMAÇÃO | PRIMEIROS SOCORROS PEDIÁTRICOS - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8743,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8743,
+            "FEAR": 0.1201,
+            "ANGER": 0.0174,
+            "SURPRISE": 0.0152,
+            "DISGUST": 0.0086,
+            "CONTEMPT": 0.0077,
+            "FRUSTRATION": 0.0036,
+            "JOY": 0.0032,
+            "LOVE": 0.0031,
+            "SADNESS": 0.0014,
+            "GRATITUDE": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVGNYTl9EOHJvTUVzTWdHVmZtR0UxTm5BVE9teXQ2cUdvU2I1ZU5ENVlBaHpZbWkzUmVKNTRNdi14MFBXUkpkN1VzMmhRbkFTYlpwVkh1cEwtYkIzQlBZOHl2RDg1UlEzQ1E4?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title": "OBRAS | PASSEIOS ALAMEDA EUROPA - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9863,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9863,
+            "GRATITUDE": 0.0133,
+            "JOY": 0.0051,
+            "FRUSTRATION": 0.0044,
+            "ANGER": 0.004,
+            "SADNESS": 0.0035,
+            "CONTEMPT": 0.0022,
+            "SURPRISE": 0.0021,
+            "DISGUST": 0.002,
+            "LOVE": 0.0019,
+            "FEAR": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QUjJWNUN6ZHFHdzRFdS1SUnUxRkhqcHFrdUkwZDhaZWR4YkNZeE1nLXBicXdBbjZTa0oyX25XbnBJZWxkTWZ3SUt3VHBnM0dDNmRaX0tSUmQ4YkVZWk9BSQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title": "COVILHÃ EM TRILHOS | CAMINHADA PELA ROTA DA VARANDA DOS PASTORES - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9838,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9838,
+            "JOY": 0.0531,
+            "FRUSTRATION": 0.0066,
+            "DISGUST": 0.0038,
+            "SADNESS": 0.0034,
+            "ANGER": 0.0027,
+            "GRATITUDE": 0.0021,
+            "CONTEMPT": 0.002,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0018,
+            "FEAR": 0.0016
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sQVB5dGVrbXQxTi1DaEZjYlZ1TVVhSkxBNGt0c3hsYW50UnBqVGROZlpHUWE1a1JQa1BqdU1aNmtOamJRdzNxZEloQnVJX3ZqZGJEem1iclVuNGl2Y3ctWVJ6bl93LWNlcldN?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "title": "🟠 CALOR | AVISO LARANJA - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9911,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9911,
+            "FRUSTRATION": 0.01,
+            "CONTEMPT": 0.0051,
+            "DISGUST": 0.0037,
+            "SADNESS": 0.0035,
+            "FEAR": 0.0032,
+            "ANGER": 0.0031,
+            "JOY": 0.0027,
+            "GRATITUDE": 0.002,
+            "SURPRISE": 0.002,
+            "LOVE": 0.0019
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WXNXZkFGYjUzWW9NWVZUNGhjei1iTERtSXJOZHlla1pIaVRYcldZWE05QUpTSGZrdUZhdFJScjZTc3VZVUw2Q0FCVGpTSzNod1MxNDFoaVB4QTJPSlo5OXdnbE42Qlp6SWhPeQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 07:26:00 GMT",
+        "title": "Freguesias querem mais médicos - Noticias da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9635,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9635,
+            "ANGER": 0.0639,
+            "FRUSTRATION": 0.0439,
+            "CONTEMPT": 0.0097,
+            "SURPRISE": 0.0041,
+            "JOY": 0.0035,
+            "DISGUST": 0.0031,
+            "LOVE": 0.0026,
+            "GRATITUDE": 0.0018,
+            "SADNESS": 0.0016,
+            "FEAR": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVpMOVdnaUJpLVJBTjFSWHZsalh3VEVJZ1ZORWhQZlNPLVI0eUZSR0cyZjdaWTczUUpJLWV3UjVaMVRaNTg4UGhrNENzYzhJR0ZpQU1ETUhERk1hOUZCN1RXY0U2cW9kcUlibXc2NWFEM3YwRFJseEpYcmxRWmowcjVUbjQwZDhXM1pLSjBINnNoMUIwSHN4Q2hleEFwR2pFbEhRMHE4Uy16a19oZ3lv0gGqAUFVX3lxTE52MUNSeFRlREpfRVZWSU9WbzNFb25RVjZ1TmRwbXRFQ3hCOEI0OFo0emh0a293eUEyY2ptbUFaZHpNRGpXOGFnYzc2cFRocmZwS1o5UUZJaElGTUhjMG1GUHY1aUtMSjFuekFrMnZMcWJvR0x5MDV3ZUluUmZrb3M4bUZQMTZ2SkJkd3F4Zk03SDdaNnlFN3VWSEV3RXpxY0tqSEJSejU1R01n?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title": "Diogo Silva e João Pacheco reforçam o Sp. Covilhã - Record",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9945,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9945,
+            "CONTEMPT": 0.0343,
+            "FRUSTRATION": 0.0143,
+            "SADNESS": 0.0056,
+            "ANGER": 0.005,
+            "LOVE": 0.0038,
+            "JOY": 0.0034,
+            "DISGUST": 0.0023,
+            "FEAR": 0.0015,
+            "GRATITUDE": 0.0015,
+            "SURPRISE": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzX2FBUXZzQkdsVlBBQVc5QU9XcWRWZlBPWmJNckVOOHpVY3BIMzktdWpSUUdWSDNtZ0NrbDJ2bVo4YVBaYjBtbmZHM2Yzd2MyTDBMYUN5Z3A?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 09:57:00 GMT",
+        "title": "“Não há palavras” - Noticias da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.983,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.983,
+            "LOVE": 0.0249,
+            "ANGER": 0.0106,
+            "SADNESS": 0.0077,
+            "SURPRISE": 0.0066,
+            "FRUSTRATION": 0.0055,
+            "GRATITUDE": 0.0055,
+            "CONTEMPT": 0.0042,
+            "JOY": 0.0033,
+            "FEAR": 0.0032,
+            "DISGUST": 0.0017
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWlWY1IwXzl2Vkl5Uy0tUHdMc0kybm1manRsQjRsT1hzajZOdm1DZ2lGbFFJZklCSjZ1ajROQnpkeVJld0k2eVNPVWhFX3FLdDVTT1pyY0hZazBXVXpST0xYWVQ0UU9zdkFkSGVRMU13VzNjTkE0TXBuUWdWcy1YMmxzSWlvYm12cTBJMjBlLTZJTFU?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 10:15:07 GMT",
+        "title": "Moto Clube da Covilhã organiza evento solidário para ajudar Miguel - Motojornal",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9838,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9838,
+            "JOY": 0.0341,
+            "GRATITUDE": 0.0074,
+            "LOVE": 0.0057,
+            "ANGER": 0.0032,
+            "FRUSTRATION": 0.0032,
+            "CONTEMPT": 0.0026,
+            "SADNESS": 0.0024,
+            "SURPRISE": 0.0023,
+            "DISGUST": 0.0023,
+            "FEAR": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU3haSW1LbVpuamJyUG9pc01CSkVPd3JwbFdSVURRYXI5UDJRVlJqelFIZ3h3VC1vUFluQTBMem9fQjJSWEVWcFBhdzZzS0QzNGtPQm9rR2FveFRucGZLXzRSR2w0Z3g0LUFic2tLNGZMbk9qRlRNaGZWTGVOWDEyMDhFTGxUNG5INVVaU1A2WjBCMTFOY0dadGpHREo3MDdoVjZ2QVJGSmttUk0xUGRUZHM1elFwdC1LUU4xMGN2WlBpbVJVMmNXTHMxYXJ3WXBBMHJqcHl3QlctTGRwQlBIclp3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 10:27:19 GMT",
+        "title": "PSD da União de Freguesias da Covilhã e Canhoso propõe medidas preventivas para a utilização de trotinetas eléctricas na cidade - oRegiões",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9645,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9645,
+            "ANGER": 0.0366,
+            "CONTEMPT": 0.0107,
+            "FRUSTRATION": 0.0087,
+            "DISGUST": 0.0052,
+            "FEAR": 0.0034,
+            "SADNESS": 0.0032,
+            "LOVE": 0.0025,
+            "SURPRISE": 0.0022,
+            "JOY": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVh4bWVmeE9hTVhBMFpGM1RHVzFVazRFc2kwYkRIdjJLRndOQzliYmd2OTVOMjJYNTQ0MHNiWGp2QW1pU2hoNkxrMG5udGZpY2EzLS1pRFp2RGZiLXRkeW1Ic1NpNmFuRkRGLTVUODVNeC0xV2pDZHlpYUlmZ2E1NnQwN08zWEFkQk1kZTdpdVdPaDE3UDJ6MGRB?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 08:30:28 GMT",
+        "title": "João Pacheco é reforço do Sporting Clube da Covilhã - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9567,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9567,
+            "CONTEMPT": 0.0336,
+            "LOVE": 0.0106,
+            "JOY": 0.0071,
+            "SADNESS": 0.0039,
+            "SURPRISE": 0.0036,
+            "FRUSTRATION": 0.0028,
+            "DISGUST": 0.0021,
+            "FEAR": 0.0019,
+            "ANGER": 0.0018,
+            "GRATITUDE": 0.0003
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGdnVk43ZmctcUpQSFNRMGRVLUJMMkpOUE52QWl6algtbHZCclVacDJUMmJ5ei1lekxyVEtTX01RSTVPVlZ6d1lUb2YyZ0VfYk8xeWVuWUR6cExjc1VPbWFLRUc5OXRGQ3JTNXRuaThRVkVOYnRnMVMyamRzV2ZMMUxrdUI0YUNSdldnc3h0RE5xU0FGUi0wQUp1QWttUE4yQ0k5VDBwRHI5U20zZ3FxTEEtSlJqaklkX005YUNJUGhqU2xLeDFRVW9RM3Zudw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 12:02:48 GMT",
+        "title": "Município da Covilhã disponibiliza abrigos climatizados temporários devido à onda de calor - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "FEAR": 0.0064,
+            "SADNESS": 0.004,
+            "DISGUST": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "CONTEMPT": 0.0028,
+            "LOVE": 0.0025,
+            "ANGER": 0.0022,
+            "JOY": 0.002,
+            "SURPRISE": 0.0018,
+            "GRATITUDE": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGdRTUhOajFSeGhHbm9IeXg0SUVnMTFRalU2WWtKVXI0ZVBSZkVRLXR6OWZOY29vek16NC1WZktHRVFFRldIcjYzMzdzZzJnY2k5TlVFLWhJQjhXcUQ2VVNvMm1hUVpaUGZybkxxRlYxVlJ6T1g0cnRYS3RFb1VHNTJVYkUyODFRV1piYWR2MHNPbW9LMFEybC04Wjh0QlFYLU5PWU1yVUVRYk5VWWlYWHRUZHNEc1JDUUhocmgxYVl2aUFtU0V3ZWNpRVZOMGxNMzdLU0NTY1Mzdw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 09:13:23 GMT",
+        "title": "PDM da Covilhã: Consulta pública e sessões de esclarecimento nas 25 freguesias arrancam a 6 de julho - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9902,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9902,
+            "ANGER": 0.0101,
+            "FRUSTRATION": 0.0061,
+            "SADNESS": 0.0054,
+            "CONTEMPT": 0.0053,
+            "JOY": 0.0041,
+            "LOVE": 0.0028,
+            "DISGUST": 0.0028,
+            "SURPRISE": 0.0025,
+            "FEAR": 0.0019,
+            "GRATITUDE": 0.0016
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWENiMnlINVRhUzdOcFlQSnhrV2ZvQzRvUlp5emp0ZGJ4UlBybnEyLXdqVnZkZDFtX2dwRDNKb2Z3Z0pvYW11UE5KNmNLV3JpUlFQRjd0bjNMWjFiTEYyOU0xY3A1M3BUczlLd1dhaXFtZ0Q3RzNURFowb0NCWWFmM1ZnRHVTZURJRjBUZUVyYXVYMFhCSmJpYnNQU2tmOHhIUlk3YndlR0tyQVNzcURJMGFWN1Vya09MWldTZHJHcXE4aHN3S1JTXw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 10:18:43 GMT",
+        "title": "Covilhã revê Estratégia Local de Habitação para reforçar aposta na habitação acessível - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9922,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9922,
+            "FRUSTRATION": 0.009,
+            "SADNESS": 0.0058,
+            "ANGER": 0.0043,
+            "CONTEMPT": 0.0033,
+            "JOY": 0.0032,
+            "GRATITUDE": 0.0027,
+            "DISGUST": 0.0026,
+            "LOVE": 0.0026,
+            "SURPRISE": 0.0022,
+            "FEAR": 0.002
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmJpYnotZ2JESGlkaHg3Y0tXSnFicnVQNkt2cHBqWGVmdV9kTW9pUXY4UjZlT0JuazJJVkgtbzlyVHZzTnhmUGQzbDRwQ1IxUkdBYVZBcjZXOThqMTQwQzk0NE9qS2Yta3k1QnNiTFE2V1pTQ21PRUc4MkJZWUY4eTYtaW9GcDBhUHdyZA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 13:35:51 GMT",
+        "title": "Banda da Covilhã leva “Lendas do Rock” ao Tortosendo - Jornal o Interior",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9921,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9921,
+            "JOY": 0.0074,
+            "CONTEMPT": 0.0067,
+            "SADNESS": 0.0056,
+            "FRUSTRATION": 0.0047,
+            "LOVE": 0.0028,
+            "DISGUST": 0.0027,
+            "ANGER": 0.0024,
+            "SURPRISE": 0.0024,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDJCc1dkTU5Cc285VVlYc0xMY0pSOVdHUUdMT1FqWk5CZHhBWjlHcnB2VUNMUUhJYzJOcHljbGFzX1M1ZTl6Q2o4ektDTjFLX2ljVWE3dlIwZmEzUm56SF9hamNxbFZ6ck1haTNJRFFWX2RGc3B3ZEdjMjgwUVh4Q2k1R1N5d0Z3X1VROTg0MXBMVktIVFE0dGE5cUcxZU5vYTlXM2h6NXZTQ3ZuV3hyLTBGUDJJSnB0?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 16:46:12 GMT",
+        "title": "Covilhã disponibiliza abrigos climatizados e adapta serviços municipais - Notícias ao Minuto",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.97,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.97,
+            "FRUSTRATION": 0.0312,
+            "ANGER": 0.0062,
+            "FEAR": 0.0053,
+            "LOVE": 0.0027,
+            "DISGUST": 0.0025,
+            "CONTEMPT": 0.0024,
+            "SADNESS": 0.0023,
+            "SURPRISE": 0.0021,
+            "JOY": 0.0021,
+            "GRATITUDE": 0.0015
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTJsZXo2SXBCT3RMWlBUYXNDTEt0ZUVqYzNCdTB5OWxOWkQwVDhEYnBiNV9XWk9DSXdueGdiUGR3aGhwYmg1REVkbXN3cnM4MG9YSUw5MTRHYW81MGdVXzd6REpMMkxqS25BNGtPUUVBR2tObTdJWWpUVjFWWVc1SHc0QWs4ME14UDZsVVY2aVJ2dWZQOFd4Ump6ZmFXWS1Qbkl4Tm41YW9QN1lmYlI4dmVFZGdaSkhz?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 09:09:10 GMT",
+        "title": "Covilhã: GNR resgata águia-de-asa-redonda encontrada no interior de um poço - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8685,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8685,
+            "FEAR": 0.0388,
+            "SURPRISE": 0.0198,
+            "DISGUST": 0.0176,
+            "SADNESS": 0.0026,
+            "FRUSTRATION": 0.0018,
+            "CONTEMPT": 0.0016,
+            "JOY": 0.0013,
+            "LOVE": 0.001,
+            "ANGER": 0.0009,
+            "GRATITUDE": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNktKQVY2eWlwUi1HdTk1ZlJMeE1qQzF5anR0X25oSGpTd1pldVRtTWdCM1ZsWjJwcnJkUGI5aTJCaVJUemJ4ODRYNnQ1RVQyelB2MEU0UGRnUi1ORGJQeW1lZlhpRHZONzlhOVJ5SkNTdHYtck5PamRpSGYxSXFfOWIwa3gtdmJzdlRwMmoxLU51NzRhd2tqQnZTWUpQZlF2ODg5R0UyMTNVQmFEbjF6em9n?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 15:00:44 GMT",
+        "title": "COVILHÃ: Município disponibiliza abrigos temporários climatizados - SAPO",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9872,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9872,
+            "FEAR": 0.0052,
+            "DISGUST": 0.004,
+            "FRUSTRATION": 0.0038,
+            "SADNESS": 0.0036,
+            "CONTEMPT": 0.0031,
+            "LOVE": 0.0024,
+            "ANGER": 0.0021,
+            "JOY": 0.0021,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0014
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUFTRjg4ZWtqam1Ga1hydHNGeTEwWmVUTmRJOHRkalpHa1IwNmpHcU55eG40d1FNdDhadjFyNExFLTlJN2NNT2tMZUFEN0REcm50bmtJcFB3WF9aNllUdTFEMHBjN1ltMVNxX0V6bThTMTBOcTBZTzBkeW1ZYUVycTZYWkRmQ3hUYS10UUw2QUd2U2dISGxPWG04bFJSOUUxSnZ5ZUdXZ0lDemphcFoyVDZYT2YyUGZEUFBGYWR1WHFxZ01LUU92N3pzRWtoVzE4RS1sajQ5cUQ1QloxcHJr?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 13:40:51 GMT",
+        "title": "COVILHÃ: Banhos interditos na Praia Fluvial de Unhais da Serra devido a contaminação microbiológica - SAPO",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9831,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9831,
+            "FEAR": 0.0111,
+            "DISGUST": 0.0066,
+            "SADNESS": 0.0042,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "ANGER": 0.003,
+            "CONTEMPT": 0.0024,
+            "JOY": 0.0023,
+            "LOVE": 0.0011,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzVLUGRmTXBIanJPb2tkUWFVRG45ODV1MHkySGtUeFp5VUhIbG9CU25VX1lMU3JPanhPNUpGMnVrX3JyYVhkRlFINmdPcEtqU3Bienp2bmlpQnA4dms0MHpqQmxVZGRpb21Pc0pSdHpmX3hLOHhXUXREMXBUdzIwVHlibUU3a0UyNE5Kcl9RZ0pUcjZqUzQta181a3pKSjFFbHEtUGlmZHplYkI4dk5yZ0ZkSEVpajh3RW1BaWgwU2g?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 08:12:07 GMT",
+        "title": "Abrigos climatizados temporários disponíveis durante o fim de semana - Central Press",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9892,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9892,
+            "FRUSTRATION": 0.0049,
+            "SADNESS": 0.0041,
+            "CONTEMPT": 0.0034,
+            "DISGUST": 0.0033,
+            "FEAR": 0.0024,
+            "JOY": 0.0023,
+            "ANGER": 0.0023,
+            "SURPRISE": 0.0022,
+            "LOVE": 0.0022,
+            "GRATITUDE": 0.0018
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmhOQWNYYks1VmVHX1FEQlVoY3g3b21wUFJTTzZrLVFLS2g2NUtWTDlFejlpZHI3T01VMUwyVXI1LU5MWGtBMjNmWHpNTUo3V20tVjFFVGVJX2NZcGMzM1paQzFtQmlEX0trMW9ibEx5WXdqQmJXcU44dzUwdUZDcm9seGRCYWdVMzZtbUNJc2ZveHkzZjFBT0dZUUszYjFKYkpvSk8tNndGaVRMbDNScjNkNzFWUkdiRUVDWlNSbFUtWEU?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 13:42:57 GMT",
+        "title": "COVILHÃ: Banhos interditos na Praia Fluvial de Unhais da Serra devido a contaminação microbiológica - MaisBeiras Informação",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9843,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9843,
+            "FEAR": 0.0089,
+            "DISGUST": 0.0069,
+            "SADNESS": 0.004,
+            "SURPRISE": 0.0036,
+            "FRUSTRATION": 0.0036,
+            "ANGER": 0.003,
+            "CONTEMPT": 0.0025,
+            "JOY": 0.0025,
+            "LOVE": 0.0011,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWhPdHU5Q3VjZ1hITGJzM0Vjc2dPS0VJVk1Nd1dXVWZrLUlTTHhXVk1lZk43T1JyaUN2Z1VOX3JWcmNSUGlZWlA5OGtnTjJxMGxfbXRsbGhhanVNM0EzZnFQR0VpTkpCRDl1bV9MWmJicnZkY0hiLThJYWtQTXotTTFNWDVUR0FnTGpCN3BCbnRvbHpRRDZNU2ZlcVRLZWlw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 16:06:18 GMT",
+        "title": "Diogo Silva e João Pacheco reforçam o Sp. Covilhã - Portal Tela Portugal -",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9952,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9952,
+            "CONTEMPT": 0.01,
+            "SADNESS": 0.0062,
+            "FRUSTRATION": 0.0061,
+            "ANGER": 0.0041,
+            "DISGUST": 0.0039,
+            "JOY": 0.0032,
+            "LOVE": 0.0026,
+            "FEAR": 0.0026,
+            "SURPRISE": 0.0023,
+            "GRATITUDE": 0.002
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpse7pcbst23",
+        "source": "bluesky",
+        "created_at": "2026-07-04T05:45:03+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.5662,
+        "active_emotions": [
+            "NEUTRAL",
+            "JOY"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.5662,
+            "JOY": 0.1675,
+            "CONTEMPT": 0.0775,
+            "SURPRISE": 0.0691,
+            "LOVE": 0.0239,
+            "GRATITUDE": 0.0143,
+            "ANGER": 0.0111,
+            "SADNESS": 0.0045,
+            "FRUSTRATION": 0.0039,
+            "DISGUST": 0.0032,
+            "FEAR": 0.0031
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
     }
 ]
