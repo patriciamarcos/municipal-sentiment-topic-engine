@@ -114472,5 +114472,155 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRpNUhVZVQ0Vi14NkpZbGhiVm9WUWpGV2JWMVVGVkpMWVNWTjJsNGJjb29wWGw3Zi1DT2lCUGExNDlFWFUwLWxsaFR5Mm01TVdLSzhjV3g3czhneUNlbG4ybFZTbHQ3czlncnQ2S3kxN3lmUTB2ak9NRXFnS3pKaXdMcUZOR0FpOUlGRS11Qjg5N1dmV2RIUXJCRDBOZzVYa2hUdWRyYi15Z1hlRkp0M05WZDNWSW8?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "title_clean": "Calor: Câmara Municipal da Covilhã adapta serviços municipais - Diario Digital Castelo Branco",
+        "clean_text": "Calor: Câmara Municipal da Covilhã adapta serviços municipais - Diario Digital Castelo Branco",
+        "keywords": [
+            {
+                "keyword": "serviços municipais diario digital",
+                "score": 0.8566
+            },
+            {
+                "keyword": "municipais diario digital",
+                "score": 0.7766
+            },
+            {
+                "keyword": "municipais diario digital castelo",
+                "score": 0.7756
+            },
+            {
+                "keyword": "adapta serviços municipais",
+                "score": 0.7417
+            },
+            {
+                "keyword": "serviços municipais",
+                "score": 0.7408
+            },
+            {
+                "keyword": "serviços municipais diario",
+                "score": 0.7198
+            },
+            {
+                "keyword": "adapta serviços municipais diario",
+                "score": 0.7035
+            },
+            {
+                "keyword": "municipais diario",
+                "score": 0.6655
+            },
+            {
+                "keyword": "diario digital castelo",
+                "score": 0.6607
+            },
+            {
+                "keyword": "diario digital castelo branco",
+                "score": 0.6204
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHNTNVM1Z3hoRnZsUlB0S0lCdVF6dDRWbG8yM1N3RFdjaFJxbGJTWFQ2b3d6OEh0c1ZnRFdYNUNfbnN4cGtsTFNEZ0JjczIzWWg2aFhHNmNwT3BoZkpOZWZhX2VsUHJSZHZVVlEwdDB1UUMtQm80eVA0eG5JaEhaNGdFdVdqSFhsblRJemtXdFFGc0VxWmd2VWU4bGo5Tjc3V1YwbFR3?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 17:20:55 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva",
+        "clean_text": "Mercado of Sport's: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva",
+        "keywords": [
+            {
+                "keyword": "mercado of sport sporting",
+                "score": 0.7265
+            },
+            {
+                "keyword": "mercado of sport",
+                "score": 0.6918
+            },
+            {
+                "keyword": "of sport sporting",
+                "score": 0.6679
+            },
+            {
+                "keyword": "of sport",
+                "score": 0.6647
+            },
+            {
+                "keyword": "sport sporting",
+                "score": 0.6372
+            },
+            {
+                "keyword": "garante cleiton mendonça diogo",
+                "score": 0.5424
+            },
+            {
+                "keyword": "mendonça diogo",
+                "score": 0.5401
+            },
+            {
+                "keyword": "mendonça diogo silva",
+                "score": 0.5025
+            },
+            {
+                "keyword": "cleiton mendonça diogo",
+                "score": 0.4976
+            },
+            {
+                "keyword": "cleiton mendonça diogo silva",
+                "score": 0.4849
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CeWM3NllQdU5EM2dVelRQbE9mOUp4enB2Ty13WGFvUjhVcG96ckE0ZXhmMldiaTNpcF9NbmgwMGtmdG1OR0dXcTd3aE5TZnlFc2NRQUVfS3p2RTlsNEtaV3NLaTBtQ3c?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 18:30:15 GMT",
+        "title_clean": "SC Covilhã (Jun.B S17) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "clean_text": "SC Covilhã (Jun.B S17) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "keywords": [
+            {
+                "keyword": "s17 portugal jogos classificações",
+                "score": 0.8474
+            },
+            {
+                "keyword": "portugal jogos classificações plantel",
+                "score": 0.8071
+            },
+            {
+                "keyword": "jun s17 portugal jogos",
+                "score": 0.8009
+            },
+            {
+                "keyword": "s17 portugal jogos",
+                "score": 0.799
+            },
+            {
+                "keyword": "portugal jogos classificações",
+                "score": 0.7947
+            },
+            {
+                "keyword": "portugal jogos",
+                "score": 0.6874
+            },
+            {
+                "keyword": "jun s17 portugal",
+                "score": 0.6753
+            },
+            {
+                "keyword": "s17 portugal",
+                "score": 0.645
+            },
+            {
+                "keyword": "jogos classificações plantel estatísticas",
+                "score": 0.5794
+            },
+            {
+                "keyword": "jogos classificações plantel",
+                "score": 0.5389
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]

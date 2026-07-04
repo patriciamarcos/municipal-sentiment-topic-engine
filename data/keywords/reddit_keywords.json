@@ -3208,5 +3208,55 @@
                 "score": 0.6428
             }
         ]
+    },
+    {
+        "record_id": "reddit_1un6nhl",
+        "source": "reddit",
+        "created_at": "2026-07-04 11:27:26",
+        "title_clean": "Melhor bitoque/prego em pão",
+        "clean_text": "Bons dias! Para o pessoal que já anda na Covilhã há algum tempo qual consideram o melhor sítio para um bitoque ou até um bom prego em pão? Tudo aquilo que provei parece sempre faltar algo. Ou é mais barato mas levamos com uma carne tipo sola de sapato ou até se paga mais mas nunca sinto carne no ponto. Imagino sempre, ambos, com um bife um bocado mais alto para poder ter o verdadeiro mal passado. Se forem batatas caseiras também ainda melhor",
+        "keywords": [
+            {
+                "keyword": "barato levamos carne tipo",
+                "score": 0.7096
+            },
+            {
+                "keyword": "algo barato levamos carne",
+                "score": 0.7047
+            },
+            {
+                "keyword": "barato levamos carne",
+                "score": 0.6909
+            },
+            {
+                "keyword": "levamos carne tipo",
+                "score": 0.6314
+            },
+            {
+                "keyword": "sempre ambos bife bocado",
+                "score": 0.6171
+            },
+            {
+                "keyword": "levamos carne tipo sola",
+                "score": 0.6133
+            },
+            {
+                "keyword": "levamos carne",
+                "score": 0.6118
+            },
+            {
+                "keyword": "carne tipo sola sapato",
+                "score": 0.6111
+            },
+            {
+                "keyword": "até bom prego pão",
+                "score": 0.6057
+            },
+            {
+                "keyword": "ambos bife bocado",
+                "score": 0.5879
+            }
+        ],
+        "source_name": null
     }
 ]
