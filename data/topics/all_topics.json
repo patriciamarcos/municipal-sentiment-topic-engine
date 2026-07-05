@@ -42407,5 +42407,3599 @@
             "condicionado",
             "típicas"
         ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWFQNzlveXNvNjBxWkhkalZnZGxhNDJIcDJDWkZFbVJqUUxCT21ObXRmZHJBX1BzUC1QT25vcmFtXzlyeGNIN25ZOXFmZXh3ZTRRR0ZnUXQ0NVp0dWhsSm13LVRGV1E5NEQ1blJxbkx4MzJwLXNSVzY1cnZMT2hRTkgweE5QM01IWGF3QWlPSS1IZVZFOUF1WnN4Zw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 12:00:00 GMT",
+        "title_clean": "Sertã e Covilhã: Escolas recebem selo prata de anticorrupção - reconquista.pt",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTXJJUDV2RV8zc2NNQXhNRjl0U2o4VGw4ZVA2c19VbEstVjJ3dDFFcmJZanRTNXpDZEx5ZkNUNzNxY2FDLV9SNlY3NS11OS10bzA1RGFCZ3hWT0R1Z3BLeFpnS05weWl1NUF3ZHhSWXRyNmNXdjhCZVBzeVc1bmVmZExVSEgyQW4yNmJqbkRxamFFTlZhWDRISXpQaV9vWS1LVkxweE0yQUFTRmcwU3liTkRnTnE0TENyLVQ4cXNzMXNCMHhMNkZ0STJBRzVFT2swYl90aHlNMVhzXzlSNkdheDl5eUxiaG9QN2Mw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 20:55:37 GMT",
+        "title_clean": "Escritor João Morgado apresenta \"Cemitério de Pardais\" na Covilhã e desafia leitores a redescobrir gestos de humanidade - Agência Incomparáveis",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGZncG9EbHdKWi1sUmtrX1R6Z1FWbVRWVUlBZHY2OVJNUk1IUGI4VW85VHRJZkNoTFJyWWIzTVVVckFDR2RFTWY4VHVral8ycXUzTF96RmtHNVg2dTJ6N2c2bUtHSHBiSlhTekhQdzZGWjlubzMxTkpuU1lOd3NjSW84cnVPV0o1eUthV0xCWjFnVm9qclB3Z012SjVaTExIQzFmdA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 13:11:16 GMT",
+        "title_clean": "Banda da Covilhã promove Dias Abertos na Academia de Música",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpUWDhIT05IS0dlTEdic21HaXgyOGIxMEo2V3FnVFdyR3NPX2w0MzBXVm40UFVSM0I5RER1ejYzT0ZOYTNFLTh2MTdBbDZFNjBid3FmbmRzMUlrQTJpVi1IaEZvMkNfUFpXUS1HajRoUHM5a05qX09YeDZjVjh3RzdaamVUVEJwQWN5SEw2WGh3UkZpQV9TcHItTXpqVnV2VWlyWlJGOTNoUQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 15:32:53 GMT",
+        "title_clean": "Câmara da Covilhã aprova isenção de IMI para jovens durante cinco anos",
+        "topic_id": 8,
+        "topic_probability": 0.5091075760328415,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxNeENSZkY2WXVRdnpBWW1fc29WX2hpblBlM3l2UW5ZS0tFZUp5ZFd1b2VraTJzcGZrT2d3cmp1emgtTE1URDRTdXdtYmVMcE9mN083TTBFdkZjTDVrY0phRnJDZ0hyUkY5cGxjWndLSXBoREZJTkJtU1dkX1BMVnp1VzNhdVN2MEJla29DMnlhdUJVWGM0NlNINm1jWnlKMk5nejhYQkdYWlVQMkdoQVRRbFBXbGoxWF9pYUpUTFB2MEpFVXdxLXc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 10:51:51 GMT",
+        "title_clean": "Rotary Club da Covilhã promove debate e homenagens no âmbito do seu 60.º aniversário",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHI3TENMelNLRS1TdnZmbV9lY2tSaDdtdkM5endIZEVhMnEtQW9YTXNoSm1oYWY4LWJQU2Z2X21oQUZLUUo0eUtneVY4VnY1TlgtTVhUUEtKdUpzcGpFVlZ0NUdYcmxfbXQ3Mml1Zmppeng0aGNZd25GcVQ5cGZHZllCWDl5Z1pOSFRlTUwyUjlhb3pLUVlwU05EazdiS0tiZzlxZlgtZHRnelE3aGFuZERHcnNOaWlXMzY5RTBFdjkxYmM?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 13:21:40 GMT",
+        "title_clean": "COVILHÃ: Agrupamento de Escolas de Teixoso apresenta projeto “Mãozinhas 112”",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0xSUTBHcG1uQjRKajJkdEhvUXZ5blEwWTFEWC1xa3NyZXJsMWRrVlBha2NyQ3BvWnBjRy05ZlBEZUZoN3N3SVUzWTlaYjF6QjcyWjA4RUx0UXo5c2d6dFk0MTlRZmNaWXhsSTltMW4xOW9NcndYXzAxX3hYc3owM0NhWTgxVnN5NFRIUzNKX3I?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 08:02:00 GMT",
+        "title_clean": "Eduardo Malta: retratos da vida de um artista covilhanense",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxNT1dTT1RDaHpnLTJtd0RHX0lTSngza1JxVVRyNW5aYW02RUY5X2lIRENqcnRJSS1tNG1vTExDU1llM2c5YXRia3BoVzY3Ynk5cjV2T295TmdlcHY3TGVGenZJUW85WEs3N1YtUTRLLWtrUlFKUzJQQWRzZ3RNQU5sNXhndEFnOTVlYVB2a3RFVm1JVUxLMWRZV1RlN0p4QQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 09:03:11 GMT",
+        "title_clean": "Covilhã: unidade móvel com rastreios de saúde gratuitos",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHloaXJ6QmY5RkljdTRfVi1oT0h0S2pCMjFpU0xyU1IyWGo4Vk9BeHMxS3lUcjIzdGZ2SFNBQTlVQjB0Q1lZZ3RQWUlORTVxX1Jvel8yZkFtQThPa0pmdzlnemRzVWxQaVgzTDZzaDZZU1dOMkI4Wl9hdVJPNGNpNTd1Ujc0blY4Zk8tNldkZGQxemJ1eTRfQ09DRUlFUHZuYTJMa04zWkNaZDk2SHk3M1ltdGhYUTBoQnctTnBR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 13:21:40 GMT",
+        "title_clean": "COVILHÃ: Agrupamento de Escolas de Teixoso apresenta projeto “Mãozinhas 112”",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVpxUGkzbm5tMGJDVmQxQnMzbXRESnE3OC0zQ3lmSDNkRl8zRUJLaVVLaHI4TEUtaUVWU0FFRkJpLXdRMmhJMTdnSU1oQVpDYjFTOVpBWFBBWVlQbmFmTnhqd3Z0bWlySC1ZaEowLVBLR3RXTjMtMDZENnh4bmdoYmRhaEthdU1PTjdYWHRuN09CYkhEcmhhSExmTWZoZTVyekt0R3hFbkQ0cHBGV2w3anMyMkdfVkVhbEVXaUJXMGhJbzJ2T1d3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 09:56:04 GMT",
+        "title_clean": "Casa do Benfica da Covilhã promove novos encontros de troca de cromos do Mundial 2026",
+        "topic_id": 2,
+        "topic_probability": 0.4962263721716684,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2RKOENvZ29kM01VREVSN2xwaS1LeFRQM09fMTZ6c2pHZEgtcUloOEdaRENGNkJCQUlac2R3VVMyUktYNm9KcVIxUktmVnoxdEMzelZQakE0bXR6djlpZ3lpSU82SEstWXhnSFk2Z0pvVEVVdjZ2M0p2TG8yY2pQV2U1aGxfYTBqUlVRMVd5VWt6eEppUW5CcDdfcy05MmpyRjZTekJmQVI1NlQxa0U1OWRoQ040Qi1SdlE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 05:59:28 GMT",
+        "title_clean": "Infantis A - Benfica de Castelo Branco - Sporting Clube da Covilhã - 27/04/13 - ogol.com.br",
+        "topic_id": 2,
+        "topic_probability": 0.5116177531270949,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxPS25wZ1diUHNYR1lLdXdmVndqTEV2b2JSY2FGR3NPa1FIR1lCUXJqR0JuSjRwSHZSaDNpYUdocXZfVThaREk0TDd3ejExdVBWRnJSMThCR3VYQ2RrcGhOR0xwWHlqUTVURGMtY0E1dnVXOXQzS1BBMU5WWFJjNzltcmZJWVkzNy1vaXFJMExIOGo?oc=5",
+        "source": "news",
+        "created_at": "Sat, 20 Jun 2026 10:04:06 GMT",
+        "title_clean": "Wool | Covilhã Arte Urbana encerra este fim-de-semana - Comunidade Cultura e Arte",
+        "topic_id": 6,
+        "topic_probability": 0.19753722257828837,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTlqaXJFZERYanJmUzNPWnhzLW1oME5SbktlbnRERHZEam9QZGdBWmdLV0F5STc2QUFyVXAtMHQ3cWJ2elRfUWNkWDdXbEFqYzA1NFJTOHVJWlBnSy1hbXhsa3JVX05iVGxWSEpnbXlzSXlITHkwbXNGdmNaaUNDbzhXQW5PWldBTl9DNGZPcWhNaW9TYlp0WndINTJrc1ZFYkwwcVhUa3JXNmxIQmJMRFQxNXpEVVFYYWhR?oc=5",
+        "source": "news",
+        "created_at": "Sat, 20 Jun 2026 16:56:46 GMT",
+        "title_clean": "Moto Clube da Covilhã e Góis Moto Clube juntam forças para o 6.º Moto Rali “Tá-se Bem em Alcateia” - Motojornal",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUHE5ZTBhY19mcDgwWlZ6MVJqQ2hNU2FEOE9RUVpsem1QNE9uU00ybC0yQmo4R09iX2lWUm1RN1ZZdEJnVG95OG53cUZNMHp4WEZzMzlxNWNjMkJVc2RjTFVjaU9YSHJYVlEydzFnNUpPbjhBQkwtMHVBQ3RUWDdDN1I3OEJMZWx5c2I3Nm41SlVTcWp2NTNmTWpRVUF4OC1tSWt5UmM2OVJBdDljUXJzeXlEdEw4VU5mandQZDBaNjhrUQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 20 Jun 2026 09:15:00 GMT",
+        "title_clean": "UF Covilhã e Canhoso promove segunda Caminhada Noturna do programa \"Põe-te a Andar\"",
+        "topic_id": 6,
+        "topic_probability": 0.1956121716477212,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWdydkhaajJnZUhqUVFPdHVxam5mczZ0MXM4ejZOSmRWWDNITkd5TktVTmRwd0dKbVVmakZ4VEw2N3luVlQ4dnF5NjlNSTJnNUtiZTgxSzlPaUVHakhIVTVvYU0yVlpSSEFYakZ2ajExUWlhYmkxWTZ5N18zaWx5dExqU2k5TGFGRE5GR0JJektPMWNuUWsxcDRuSUVvbnBZWDBON0VkblVZUFJ0UXdZQk1BOUJhd1RjQUZaWHhfMXNTM0tU?oc=5",
+        "source": "news",
+        "created_at": "Sat, 20 Jun 2026 11:40:00 GMT",
+        "title_clean": "Covilhã: Sequela prepara novos singles com participação de Kalú dos Xutos e Pontapés",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifEFVX3lxTFB6cjRsclZPVk8zVnpfNDRmTjRnR1dKOGFBV2J4R3Q4eEVmcUFpa1ZubF9vM2o4NVhUMHoyQTA5Y0dWcnZYSFd0YnkwRTFhTE56Uld1U3cyT0RmSWk5cTh6eDgzZ2tyTGRQZGx6SWlFbk85Nk1ULTlWREx4NmU?oc=5",
+        "source": "news",
+        "created_at": "Sun, 21 Jun 2026 10:41:00 GMT",
+        "title_clean": "Monumental: o \"luxo\" acessível aos estudantes",
+        "topic_id": -1,
+        "topic_probability": 0.15306231079848723,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAFBVV95cUxPdGp4dXY2a3Y3SUU0S3dRR2Z3Qk9aR1lDd3hPVThZU0YxbjdLSktNOEloVTlSTGJKc0hXcWFtcTMyVElKd2NiNWI4MkVBU01VQ21Pc1dkMnVObS1MSi0xV3djTV9YcVowcUJFUUd4TmIyTU5JZ2l1ZjdFU05mUlAxSmJGa0Q5UXVyX29qSlFzdGdZQlcwaEt4Tw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 21 Jun 2026 14:33:40 GMT",
+        "title_clean": "Festival de Cicloturismo na Covilhã aposta na subida à Torre",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDJKdzB4Q2RXdGlSYldTTl85aEdTZGRFcGVfb0tRUUJlNTVOZW05UXR1SnRDeG5RWFJ2N1QybDRLVXh2S1UzMkZtSEljTGtSWTBCMUJ4NjJpZEp6NG9WbjdfRFlaN0RXQVh5Q3hPY252ZlVRckJQZE1YTTNQVFNQVUEzdUNvSW5vaWp4MXNlN18xYzZvZFFmdVBRUVRtMlFMMFRBUjlSME5LTno5d2g4dUNPRTM?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 05:10:09 GMT",
+        "title_clean": "Museu da Covilhã analisa legado do retratista Eduardo Malta",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdi1yVWhuMm53a3NYTVQ0TF9saTBudEw0ekFDU2NPajdmajBlNFE5S3FFSk00Z2pnTXlXZ1JZbmxlajB1eXBwaGxibWhPQUxYUjFlYmMyZEhuWTB1SElrTHRGVHRUdmwyUklHUXctaTFEYzk4Tl9YbTRLa1dqSkdZVU1VZlJ4d3pvTGFhQXlYMXVuZHFYNmtkTWRSVlNXMHNKXzlVVmFOS3hIdFZvSm5nUEI1T1MxSHRuSU9UQW13blZCckN1LVhmbWNVejA4Ni1QS01rZXhMUURIcHdfWjJGX2F5clVrYzBjTjN30gHrAUFVX3lxTE52LXJVaG4ybndrc1hNVDRMX2xpMG50TDR6QUNTY09qN2ZqMGU0UTlLcUVKTTRnamdNeVdnUllubGVqMHV5cHBobGJtaE9BTFhSMWViYzJkSG5ZMHVISWtMdEZUdFR2bDJSSUdRdy1pMURjOThOX1htNEtrV2pKR1lVTVVmUnh3em9MYWFBeVgxdW5kcVg2a2RNZFJWU1cwc0pfOVVWYU5LeEh0Vm9KbmdQQjVPUzFIdG5JT1RBbXduVkJyQ3UtWGZtY1V6MDg2LVBLTWtleExRREhwd19aMkZfYXlyVWtjMGNOM3c?oc=5",
+        "source": "news",
+        "created_at": "Sun, 21 Jun 2026 16:29:53 GMT",
+        "title_clean": "Adriano Castanheira despede-se do Sp. Covilhã e garante estar pronto para a nova etapa - Record",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdW5Sd1VwZFJxeTY2R05MZ3lqQk5jYlVINnFUN1hsN1NKalJoN0puVDhQQ3lRdVk5SGV0RDF0emJEcUdDYUJxV1NURXgxdllsaTNCNEhIWjd3d24yQ18zc1dscG9vRWlJRHNYTmlzYnMxUzF4WXI0eWJfQ1RMVlVGZ0RWcXhReHlNQXJlSEtkZlhwQ2o1Zzl4X196aE5DV0RiUXRBcjNWbFhneno5YVE5YWE4M0VsMlN0ZmV4M2sxOGwzMDNiWFNoVnZ3X2ZRQzlxaVRwV1Z4R21sbHlr?oc=5",
+        "source": "news",
+        "created_at": "Sun, 21 Jun 2026 11:29:18 GMT",
+        "title_clean": "Bombeiros da Covilhã assinalam 151 anos. Joaquim Matias garante que \"socorro à população está garantido\"",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxPc3JXYVVERzluVkxJd04xWFN4bWdBMkQ3NDhVMDJuMF9FNXZYSkFXaDBsT2RQQTQ4d2ptYkVadXpaV3BRQ2lxc2dFemFIRU8yNDczVjNPUDZMVV9qVFdjSDZDUGsxXzNTdFRWbHM0R3RkZURIUmlwdzFHLWo2MjhFTWp2bGI3cTdWS3FhZFBzWG82dGEzNWV2QndtdHFzRFlNTV9fTVFEaUJtUGU4VnJwNkd2N2h0cHljWW9vX1RB?oc=5",
+        "source": "news",
+        "created_at": "Sun, 21 Jun 2026 08:20:00 GMT",
+        "title_clean": "Sporting da Covilhã anuncia as primeiras três renovações para a nova temporada",
+        "topic_id": 2,
+        "topic_probability": 0.5558041959484467,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE16QzVtbHZnMzdoSHkxSkc0VzRBREx5bVZZc0RadW1JczVkTHpEc1U5MUhvQWx4Z2pOV3BHcXBVT2pMamxYdllKVFdTakVpb2xiY1ktQ2kwaENWc1VQUmxDLVhqVUt2SUxUQXU0TVg2SjNkdkZfYUw2LWhlZUFMbEx3LW12WHBUVmRuOUFzNmNmWDQ4ODAtSjdaVGd6WkNiT3VpeDd3V3JSUGZVZHN1T2JB?oc=5",
+        "source": "news",
+        "created_at": "Mon, 15 Jun 2026 08:45:34 GMT",
+        "title_clean": "“Crazy Family Run” regressa à Covilhã com segunda edição dedicada à diversão em família",
+        "topic_id": 6,
+        "topic_probability": 0.30673576860003854,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUxnREttTUFNa055MDJfXzBKSmRWbHFjcE5BNjNxRnhDM0dOeEVkaXZuWFpQS2FKeXZIbUJBUVk3RXlzRUhZNEp4bll0RFJFcjdVSmhZVERFZUZxRE0tVEVONElydlR5R0ttZnRvNk1sNEROcnVsc2hlenl2Z01CU19IR2Y5aXlpRlJocDAxcEcxSURndU1ZRVB2OHgtNEdtcWpFSF9mTE1YSk1uRVdDSGVMSkJmczVCc2kyeGxGeVRUZjFWdk5FdVZkb1JYeDh5STB1cmhqZEpySjlGUG1PaFBnU0QxYzd6VHc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 16 Jun 2026 17:35:39 GMT",
+        "title_clean": "Covilhã acolhe 1ª edição do \"1993 - Festival de Cicloturismo da Serra da Estrela / À conquista da Torre\" - Diario Digital Castelo Branco",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlYyZWJQOW1LZlFDb0ZTTElRUmZXOUhVMzV1d0lIdldDWkJmWHhRZTZNNFJXOGNmVEVITk5Ba3haUEpVVzVhVldQMDlsOGo4RU5LWTlwNWVZUFJOcjBOSllPMUNJcVR1TVloWk5KQnZPdWwtdFoxb0RqX0I5ZkQzTkNDdGRxTDRHbThUQm0tYmo0bXBveFgtb0czQUNBQ1dnLTc3dnBUdmxNdnIyMFZROHl3?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 16:02:30 GMT",
+        "title_clean": "Covilhã: ASTA realiza 7ª edição do Festival Portas do Sol - Diario Digital Castelo Branco",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifEFVX3lxTE4tMEVPYVh1d0xpVk1yUnlFXzJpcEowdjdVMUxEeTMwb3J4SFRmT1JuR0FyWFMxVG5jV3VObnBxZnFuM0lNMEtjU1NqdDNGM2pjdTlST1FxQ2xQWF9BbDdrbHZDWXBCMktScmNTeHhmSlZhSm1BQXlPOU1LRTQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 09:00:00 GMT",
+        "title_clean": "Campeonatos Nacionais de Estrada na Guarda",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVC1NQVFsdmJBbjZyZnY1Vk9Pb190aGVxZ0JjYUNXZnQ3dWVub2RWQThkZWIzdmN6bzRnaXFneHVBdEtIdXdPbnBsLXhEZVN4ekdGeHZKQjRwczBqd1RFcjdVN0ZUMzNLMFEwR0o0cVBlOFVvWTROdDQ3R2tSV1NuYlBUeU1ZSEF5N0EwS2tRNmRfb2tBTm9oc0R3azdNb0RnZWFyekxvMmhLVzZMNFZ2Y1FLVmtOZTBl?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 12:39:43 GMT",
+        "title_clean": "COVILHÃ: Museu promove tertúlia com o tema “Olhares sobre Eduardo Malta”",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUtxUEVuSUx1eGszaDhBUkMxNHhkQmZCUXBTWlE0WC1Xc19nQUxDSTRLeDBmU2M5MWxUVUk1c2F0Zm9INHVGNXdMT0hYOHBCMzY5dlVoVmgwNlJTektRNDhPMzJUWG43cnJaMmdpUmdreF9abGhIc2NsVmc0RC1XZnpZdjJ4YjJ2U2FxX3BfaS1lck9aUWk0YzVxWXRHSWFrUHQ5Ug?oc=5",
+        "source": "news",
+        "created_at": "Tue, 16 Jun 2026 09:59:41 GMT",
+        "title_clean": "COVILHÃ: José Rodrigues vence Rampa Serra da Estrela/Covilhã na categoria GT",
+        "topic_id": 2,
+        "topic_probability": 0.30724013408702644,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnVGQTd1NUpxYlBVcGl0SDlIeUdjU09wWWhpZmQyV3ZXOTMtcHdsbXNJUHpmZVVQX2NBUXktTjJYMDZfTFhxdlZYQ1ZPOTB1OEVfZy1lYzBZSTV5ZDE0ODB1Y2JsSlNSV3dhUWhkbllpOTRZOTRNT0F2WUZtRk9fenNUZmVwZGJRVXY0SWNfRTZ2aThObXJwQ1dlZXRmdmRENXVLLWVMN3c2V3BQUXNQM3RKQ3d5RXAyS0JxVmhhOTNmUzd3SVdfYVgweUZoeWN5VTNIOXBZb3E?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 15:04:29 GMT",
+        "title_clean": "Mercado of Sport’s: SC Covilhã reforça aposta na formação e mantém trio de jovens para 2026/27",
+        "topic_id": 2,
+        "topic_probability": 0.5439140118257171,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibEFVX3lxTE1fMk15X1kzZDVxU2JSamR3WENDdFBkR1NpQU5kZmRKQXNTemNNai1oQ3hNX0RlX2hPSHNQN09wU2o4YnBmcGVjdVdaNzRtdTBRTWk2cnRETHZOZEpEekRVTUpfcTNRLXh2Yy1YSg?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 09:00:00 GMT",
+        "title_clean": "Arquivo de campeonatos nacionais",
+        "topic_id": 2,
+        "topic_probability": 0.5036041677264375,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxPallxNE1obEpGaVFrckFDQUkzdFJCeWZVZ0lZTU16RGROVWZKWTF6eGs1NF82U2dlc05NQzE3d0JMZzYwM1R5WGZFSjE0c1lsdUZWanBwdDVWc1o3YmlLYm1FLTBacm5zbl9uY3V6eFUtUGdtMlpGYmtGQUV0eENoYUxVU3BUZVQxZHhJ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 16 Jun 2026 14:52:24 GMT",
+        "title_clean": "FlixBus lança nova ligação entre a Covilhã, Viseu e Porto",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3I0QUtwXy1PcTR1bjRvN1NCakhhS2tuTm1IaHZFbS1PS1Rud2U3bVI3TlRkRGNOeEh0eVY4VkZUdHQwT05IbzdnNnNpNlRUeWMxZkZWUmtxcFpNNTFQTkk4Y2JETEVLS28zUExSUVhlZ1owY1E0UkRJbTVaTGRxallpT0xiUHNzU3Z5ZDBQYnl3VlBROV9PMzF3b2Z5eVZBdFE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 13:23:47 GMT",
+        "title_clean": "COVILHÃ: Agrupamento de Escolas de Teixoso apresenta projeto \"Mãozinhas 112\"",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0ZXclVmQ2dRc2NpV2ZyUXNGOWdMMk1YUWhNaGsxOXpkN3Z3R0xUaE9JOFUtS3NBZnJ5V1dwX1VBcnVuUEpwdDdPZFpwMS1jYUpPNDZESGRNZ2hKeE1NTHdTMmh2UDAzdHV3VlZ1cldMWDdxNmJBM20yRU83eG1TbVN1cFB2d2ZmMDhzYlUxeUdoMkJIOUFZNVY2blphdUc4OVprR0RLVGRBM2NXenl6MHdlR081MlN1VDJOR1U0aHR3dGU3?oc=5",
+        "source": "news",
+        "created_at": "Tue, 16 Jun 2026 15:02:27 GMT",
+        "title_clean": "COVILHÃ: Doutorandas da UBI garantem lugar na final internacional do concurso “My 3-Minute PhD Thesis”",
+        "topic_id": -1,
+        "topic_probability": 0.11191826101462196,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVFIanFDTTg1d1YwcDh3bU85bEFPTWRWQXV1UDBkejdaaXlqNC1MRkJpMUxoS2NNSDB5RW9ZZ0tjUVZsQ2VZMm5sVk1fWUtVNGkxMGJYNmRvb3BPbmt3dkZQaEk1bEpxbWUxWmdaZ1NWMWVSemZiLVV5YW9XN1RlYWlSVUx3c0wtclJvVlM4MUxlck9Ta2V3aGVmU093TTJhQXRCNTU1WWZGcDgwdjdwT3B2X29ZeW5aRGVUczEyME4?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 14:05:11 GMT",
+        "title_clean": "Covilhã estende programa \"Verão no Centro Histórico\" a três freguesias",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTFUZXRwOGFYS3BkYXdUdVZUVHFFdU9PQkdzY1ZadXJpN1VsR0NfaUNXQ2VzSHNrblJLOVlEckNiZTZQWEdUdzh1U0R5dmdYU1lBQWVhQkJtRlhoZExfNVdQQi1ES091eWtUSDFUNVhtajhuZXZiYklMLTJEaXhqM2tRUG9LN0JnWlhjZlE3cXo1YXByZUJLTk5oV29PN0xLdjVnWkg5WXdaZThKX0ZzWnYwSmdPLVE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 13:09:49 GMT",
+        "title_clean": "Museu da Covilhã promove tertúlia dedicada à vida e obra de Eduardo Malta",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxNN1dxc2VKcUJ1MDBKSXJ0bjViWjcwTGJSWmtnR1Z3YTdvMG5xbUVpRG9ZcFVLQTNlWDlyQmFfYThtQTFvNHl6Wll1dERoYm51dWhzS05jTEZFNEFxcGVEd2VZMEdpMVlwZlhDb2RZV1JPUEdYYk5LVFdUU1RYZnRfUGlWbmZBRGtKU2dra1pFUFY5VmJRQUdObW9EaFEtcGdyS0EzV0VPR0RMWGZaeEhQRVhZRGk3WGdtWlZRVHE3VEtjWWpCcXdzM1hhZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 12:40:13 GMT",
+        "title_clean": "Grupo Humanitário Dadores de Sangue da Covilhã promove recolha de sangue na quinta-feira",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE1NRFRRMi1rV01kVEI1d2RmV3h5dTctMEg5T0NTcjhqLW1uTTcyblNTbG14b2htUVNyYmM0bkJwMUxBUUJfaEdQb3NTa0NfY3M1T1BzUzN2Vmd2UURIellwZ2RwdFl5Mnpzb2pz?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 08:57:00 GMT",
+        "title_clean": "Lisa Sereno no terraço do TMC",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxQS2xSWWMyVEJoUGRZRnBVdHkyU0owMlFHWjVtZDVfZlQzenRtWmJqQlFNenZ1MmVMQmxWc0Z1aDRtVGVlbHJCUVpHYU1HTDdKS2xQbDJCT0F2UnFzcTR6bWZESE1xbkNZM3R2bVI5WmRqdGw3TjBQVEppTHVnenNIdUJWbHVMbWhES3FqZXIxeEZrUjJhcFJhLWI0VUg2Y1VZVGE0Y1JkbVppNE9VTFR3?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 10:40:00 GMT",
+        "title_clean": "Tomás Pimenta renova com o Sporting da Covilhã para a época 2026/27",
+        "topic_id": 2,
+        "topic_probability": 0.5937587934471009,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnZ4ZExuRV9HTmRUMW03Z0NPOGRHRGxEeWRlRXpvOU82VTg4YTdxR3A0NF83bFVFUHItZG9NRXdiNjZURW1BNDVOY00yU2d0RnJfTEkyX3lSbHF0V2tfVVZlTlZxbm52SVZWVHJpdHNMLUJvdzNzSFQ1dGlzbHJqZFVmUmRFc0ZGdGRrRGR5T1JncnlkRFpQdHEtQ3YybFlpQzRXa21tMTZlcm1nY3lvTw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 08:44:36 GMT",
+        "title_clean": "Sporting da Covilhã reforça a baliza com a contratação de Rafa Pires",
+        "topic_id": 2,
+        "topic_probability": 0.650469260028362,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMicEFVX3lxTE9FbVI4dzlyRVNtdGZXclpVdGpxbU1UYS1HMkhaQnplU1N5dU5ySlNpNUJJbHQ0T3BFeUZSQ2ZlcXJuazA5XzVobTdVWm9NOGt0REpOWjZJdE1VSnZKUWxzZW53blBScVRLeUh2bkh1RlE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 08:00:00 GMT",
+        "title_clean": "Ecofestival “Salva a Terra” na Raia",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxORGZITXZmN3hWMVF3dDdNR3M2SlFzZk5OekhnLXNsZ29HWTc1REVaN1hoOXVxNkxnYVUtTEJ0aEdUSVh1UzdFckRJN2ViRms2dUNnN0YtV2dydGpvS3lRMjdlVEJXY05lYnU4MXkwNGowZmdiZW5mbDBESmpGWjRKdENBQUR1SHdFcnpmanNXUGYtWjFBcUtmaHEzekdtRjA1cHNWMFJGeFRfTFpGZEppZFAybURtcGc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 10:25:00 GMT",
+        "title_clean": "Ginastas da Covilhã em destaque entre os melhores do país em Coimbra",
+        "topic_id": 2,
+        "topic_probability": 0.30161308177942625,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFVuV0c4TkdOcXB3ZU5wd0txRzRGcS0wTFV2UkZRLXZRei14T1ktZUpHODFKUmVJT3pkbXdsY3ZZWVlJWXRSVjUtanVPTE9xdnpoVGxvTG0yUWwzNzBNZEZCRWo2aWdkZEhEXzNEcllHYktsd2Rmd1NkMlV1TFhqa1pnbFNFQlprMHV0S05DUDl6cWJmVlNMOVZyR3ZtZG50bnNuc1BaTlBlcnczRFBsLVZVMnZrZzZxQkF0X0U2ZVdmc3hkVENJLUlkNkhIdw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 11:00:37 GMT",
+        "title_clean": "COVILHÃ: Galeria António Lopes promove oficina de “Gravura em Relevo sobre PVC Espumado”",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDZ5dWdJUHBQMl82U1puQkY0MjRVTE1TelN3d3FOV3hNM0ZnZThIZFY4elBGc3Jhd3U0MTR1bUhzVHcyM054R0tkOG9VY3hRT2g2a2VaZzBhSzRqdXNSRkJQdWhLS3B4SDJMRnlWQ2NyZlZtY19oaHowLTdwVWl4WHhIaUhlUDdfdGQzOHoteXpSN2NiMjlzcG9vWQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 12:11:00 GMT",
+        "title_clean": "Castelo Branco vai construir pavilhão desportivo na Zona de Lazer",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTZBMEVUZHVLTjVKeG1DS29zS0RJN08tYkZKR2FQellmekNRbjlSS2pweXNkTGlyWGN5Q0N5UXBHS3RROHlFMWdXQzViYjNjeTR2MkE0b3VnQmJSTGdhQnVFcnhLNTBNbmJZMWRlbmxkWnM1Tk54NmJFR2tjSDdHb240WTE2V0dGNnlxbG5BTGpUbXdEQlU5cHRR?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 11:00:00 GMT",
+        "title_clean": "Criticada “operação de marketing” dos promotores do Projeto Sophia",
+        "topic_id": 8,
+        "topic_probability": 0.3322104450701411,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxONWlUTU13OEk0Z1VfV1VyZjRqbGgxS19BN1NKTUw0UWhEUl9pLTl3OHhndVNvRDd2SHhfdW9HcGw4dy1oOUx5ck5WQldFTDlQa2plaEhyc3RZMExzM2dkbzhfd2htdXdHb3FTcklCR29haVNGUDRRX2t5MlFoN3RVMk9fQVpoR1dTeGVKN1VIQTJuMm9maWJKVWFqa0g5Y1gtRnlF?oc=5",
+        "source": "news",
+        "created_at": "Sat, 20 Jun 2026 16:33:00 GMT",
+        "title_clean": "Aposta perdida resulta num festival de cicloturismo na Estrela - Jornal de Notícias",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDJPejBvQjJabVk0cUNRaldYcXNTOElhTlJOd0JCYzdGSXN3aHkxU0YtaUJzR01BdzJybWxlOGNOazAyVkZHR210M25YTWV1Tmc0Q3Z5UXhQVTdSRVoyUkZoUjNFZGluNFpoRlNMY0IxNXkxdWZ4N202SV9kVk9Xd3VJOWRacmtTY1MtUmJJMEVrWkZrX1lMd3YxNzJFYmFNa0E1RXBvWm5LTmF6UlhKT2dGaFhJRkZUWHc?oc=5",
+        "source": "news",
+        "created_at": "Sat, 20 Jun 2026 10:00:00 GMT",
+        "title_clean": "Intelcia sai do Parkurbis e Município aponta à instalação de novas empresas",
+        "topic_id": 8,
+        "topic_probability": 0.26664997777572974,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2tNQ3NMNHJyX0JObU41aWdOZmYzNHJ5RldDeGstZWR1ejMta1JWVFJLNGdnX1JpWHozTi1hbWxrM3ViR0RVanpjMURvOE05LUV2dWdoVGU2TWFlcE5hZ1lYZUR3S0prcWJnVTI4ZVhEZVdGOGVIeUE5bXpucmlFOHNud3pvQjhsMl9EdmdaU25IR2tOZElKbHNCUmdUeGN5di0yendLTUtJMlNHUXBtZ19nYWZjcURiQ1hnTGNiNi1PSGw4?oc=5",
+        "source": "news",
+        "created_at": "Wed, 17 Jun 2026 10:55:06 GMT",
+        "title_clean": "Novos murais de arte urbana e inauguração de “A Nossa Casa” marcam reta final do WOOL",
+        "topic_id": 6,
+        "topic_probability": 0.22445232816566932,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajE0SlEzU0dxQjMyWXBUVVA3amFqSlo1Y0pKdVUyQkhGc0xBRENtU01DeDhlSDFQNnMwT3M4bFVOUHJtTHAxZEUzRzFPcmpnbVZrak1hbFljdHFkcjFwSm9DZ19oem9ycGpNdW9EMHh3dy1QZjdram1Nb243QnZNM29lam1kSHl4M1VBV3BtZlo4VTVVVlBXOVBGVGZrZkE2TVNfS2o2akVnc2gtZ0lsb2JQV0M0eFh5Q3BjN0dpZlY?oc=5",
+        "source": "news",
+        "created_at": "Sun, 21 Jun 2026 10:10:00 GMT",
+        "title_clean": "Associação Diabéticos organiza caminhada para promover hábitos de vida saudáveis",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTV5NE1RbGpySDhoLThhWmZpbkxINGptcjFnNExkLUEwOWIzQ0Q1TUtmYnJXTnZRN3lRSG1LSkkwY1lYUHJrc0xBVnQ3cnMzekFiQUxHSHlSOVBuX0E1VUtJZk4wcnZPNjlKNVdUS21lcW1tbVphdjJxVmdLTkxHSmR6Wl9rTFhhM3l1NGVxSzNKdkJYT1hQWGgyNEhPcmFIalJ3bW4zUVo1S2w1RHNiZjVNRWY5V0o0MWZwbXVDRjhiRmZGNnpTdnBpWFVOOEdsTnpz?oc=5",
+        "source": "news",
+        "created_at": "Thu, 18 Jun 2026 07:23:02 GMT",
+        "title_clean": "PJ detém jovem por tentativa de homicídio por atropelamento - gazetadointerior.pt",
+        "topic_id": 0,
+        "topic_probability": 0.1574423111856374,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0s4cnFDLXJHRl9CdXg3ZkRFVnl3bjUtcGo3VXJHb2pEZVA4UXRRZENBN3h5T002dGc2em5INW1EeWU1UVhZTFk3MXN4b2ZJQkpTRi1qaEFVcVQ5a2ZkWW80LUZ4SGVYRWVSRXpXMEJPejY5RHRVQVdTRUUtZnI4eHpkZU53aTQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 21 Jun 2026 07:30:06 GMT",
+        "title_clean": "Aposta perdida resulta num festival de cicloturis­mo - PressReader",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXlVdWlZM293MDFiOHFtLWlIZGNmRDBIalRSQUxFRllWb3RoMTRIOTduWVV2NjZ0d1lreldhSmg0SXAwOFBZdHVORnE0LUoxb0gtRzE1NkU4OWdrRmpub0xYN1p1eGlIdklYUFBGQ2hJLVp2d3lIeWwtRG5HakVIX2ZwT3VaUFZCUkhKXy0yMXJ6em85WXA2cW1yRQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 13:05:53 GMT",
+        "title_clean": "Marisa Pires e Gabriel Sousa em guerra na CMTV por parceria com Pedro Jorge - Infocul.pt",
+        "topic_id": 2,
+        "topic_probability": 0.2896870135193277,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZGl4VG9zcUtVeER5NUVBd19FZk9EZGdldy16YU84RHJ0Tldnd3BQT19wM0luR1RoaUZPSnRjeUFScEZwSzNzelllR2dSUUNUQ1I4bnNTZGUxUFUxcUljb0tYYUN1TTQ0N0JkYU50RW5IZEtlZUc2ZkdXQ3loLVJ6TnZ1OE9RcnEwNlp3M0ZTT2RHT0VQRkJ1R2JUb3JNOXdhQ3J3Y0JzQWo0QzVBOXlxTUItd1o0MEkxSlFMQk0zX0NfTXlHY3dIaW9rSkl3UWZo?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "title_clean": "Covilhã: Atores amadores dos 68 aos 90 anos estreiam espetáculo da Quarta Parede - Diário Digital Castelo Branco",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE9hdWhQV3JXWmhPRHFtejFBd1VMbzFlVFFEWDFKSVhxZUZtTkZfT0VuV3g5TF94SGNpQ21TRjlXZHh1Y2FoejRVeGlWQUFfSlZ5NktnbXlYQXhRNXVwWmlVbU9ON1JoMFcxOG5PY2pyeF9OaDYxTXdIUlB2REhRZw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 24 Jun 2026 10:03:00 GMT",
+        "title_clean": "“Verão no Centro Histórico” vai às freguesias",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxNNU1yMm1RTGZWSkFEdDVCS2N3UFBMWjFaLTR6eGkxeVRPbmxVWHZNYVdld3dMQ3VDQUtVckUtdk5tREw2WEQwd1ljSXBvaXRLcG1VSnVya1haZ3BDVmtFZWxzQ2VSQ1ZhcmZ0MUp0dDVLUlBzRGF0RkcxR29UMUVkR1ZSYS1YbVRpbDVGejN2YkdRX3RKVTV6UWVtRzRpbjVLZkd2TG9YWG9oYl9fU1FzMDc0WkRxckQ3LVV0VmdORkVuQ2pVMU1jN3hxUjBaVnc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 24 Jun 2026 09:40:06 GMT",
+        "title_clean": "Jovens talentos da Academia da Banda da Covilhã apresentam-se ao público nos dias 25 e 27",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3pSOHR5QjUtU2s5N3QyQk43cTZHYWFrMllKcXBibmdBclA3ZjNWb1hwaVpjREE2ZnJYc2NOdThzQzRGVEU5SFJELVhMa2s5enVDalBfN2V5Tnd3Q3NLQ3kteXdaMlMyeDVVeGZDU1dsbXNKaGYzUjVobVhlZk1QOUw1S000dld4X196ZnRQajBFTVBJREgyeHFGck9TeTJZRjhicGpYWE9NNlNIUkE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 24 Jun 2026 12:47:09 GMT",
+        "title_clean": "COVILHÃ: Verão no Centro Histórico apresenta-se nas freguesias",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFBhR3dWcmVyMzQ0RFA5NWJjeC1yYm5yRWV2LVVzcmVfVVNYTTNUMEhGNC0xNnUtbC0zXzBqTUdiajFuSG9hLWRZYW1vS2tkOTdZeUpDTF9KYXlGWEVQb0V1cXJrRi1wcjRLeVhJS3NHU0Fab0lGTGJoc05BdS1JekxBTW5SakphRTdTTWNnTzBNMDhfYTdEQml4NGpTQ2ZmRF9yNkVjVFpKclh4d0ZZOUFhRWw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 24 Jun 2026 08:51:00 GMT",
+        "title_clean": "Festival Wool transformou a Covilhã em cidade de telas gigantes - Conta Lá",
+        "topic_id": 6,
+        "topic_probability": 0.1955143114225508,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmtNQkxGeE8zb0tQXzdDaEZJaGxSWjFRUGFaZ1Q3X1BUNUpwVEg4VjJvS3lzUnh3MG9GMUdaTUd5c1VYeVFwc2M2bkxoRnhlcktxTmxaWEZYYk5kakIwQ2hqQ2ZhbVBXb0lhelRrWFZ6VVV2WFFGdHQzWW1UeXo4UlhDQ05Hc3RKeDF4T21IamJWRlpLWklYc2lnZm5PeUJ1TW9HR04weFlWRHNoSVNNbmxUYlRLaTZYYkZzUjNTaUVLOTB5?oc=5",
+        "source": "news",
+        "created_at": "Wed, 24 Jun 2026 08:06:19 GMT",
+        "title_clean": "Primeira edição da UBI Run angaria mais de 1.400 euros para instituições da Covilhã",
+        "topic_id": -1,
+        "topic_probability": 0.11365098526647772,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTUk5RlBmYnRVa3BFekQtMEEtc3hhYlpPX3paN19Ed0dPNmtLTndXY0FybzBaZU1PcnR2UUxfX2NBRl9IaUVOcjJGR3BQbDktbWhOUDdUMXI1VHdXUUtsTHE4QVY1TFBZcmVZdThYeTRpZVVNbWVaUUx2SEMwLTFaaEVnRkgzSUx6ZDNCcHgxR1FJOFdfblFiem9OOE1fMHE4Z29iV0NGVXh6SDlRQnIxZU9TcF9vY3hMV3FoM0NlaHFVQm1IbXV0YQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 24 Jun 2026 08:43:44 GMT",
+        "title_clean": "Lisa Sereno leva sonoridades dreampop e folk ao terraço do Teatro Municipal da Covilhã",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTA0QTJucFY2VE9FWE1ZNkd0U2l4RnJVYTBXeEJpU0k0OEg0a0NoTW1hb1JERTFQdVc2U0lpVnhhcWpyZ1pzSm0xckRaZTlCeFFwTDczci1kOG9wWkxQV29acFB0UENhdWR3a3pFU01UNm1lTVpoa3VMYklwZm1lWmdPZ1dOZnBFbXFhQm84RzJlR2VrRDJDd3BtamZUY01YZGlrNXhZOWRHY2tYNFE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 09:23:26 GMT",
+        "title_clean": "13.ª edição do Wool: “O grande projeto desta edição foi a comunidade”",
+        "topic_id": 6,
+        "topic_probability": 0.19756464401112117,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxPOS1HRnVCb1E5NUNNSmR2dVNEVE9VN1hGSTJwUUlBcmh2SU1oYXZ6TVlLOXphNUlneDl5cDhyNEJKaUhYYXZYSGNlaWM1aFpDQUFlUUVfYVRVYVY4aDZBbFNhSmRwd2hVN1BHekhHT29IVmVDemE3QURsZnJjQW5BbWtEVmsxdDBVcWZvSlU2U0JZVThFeWF4NnZIQXNSMzFXNGRCbkQtRGpqbjJHTVZxbklRdUszQWdXa0E?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 08:18:01 GMT",
+        "title_clean": "Covilhã: “Equipa António Carlos” recebe novos reconhecimentos da “RE/MAX” em Portugal - Agência Incomparáveis",
+        "topic_id": 9,
+        "topic_probability": 0.15743042962656092,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxQcE1ucWVWUkp4b1l1Z0VBb1lXMjB4UEhMRllUb044Tk1lOTUxVU5oUW9zYnVqMERwLXRRNTBib0xhNjNlQTBPN0xIUWlQU0I2R2c2bFNId1V2VWVDbFBCSHRMVlVNTVkzdlY3aTlOY01hN2JGRF9mZFUzbnhTbmlQWVZxeGNLeEtqZkEyTw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 08:37:00 GMT",
+        "title_clean": "Atores amadores acima dos 65 apresentam “Sala de Ensaio”",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMkMwMzRUNUViZm1lemItZjllekVWdEFyZ2dWUEJJdEYtQ1ZLVzBLUzBnYld2MElKZGxJY3VfSFMtN2lNZzEtbS11bVl6Y1JIaEJ1Qk5xRHIxbEdJYnJ0aHhmTC1tbXluS1JWdzE5UkY0Ny1xVlpra251bmNzeVlmajlnN2V2Q05LUW8tb1lnTzlBR25ianVvNGd0Y2liVVVzeV9kSk9ZbnRLak9HM3MycE81bEdEeUhZX0RLQmFkc19zOW1ZR09PbHhmUk5xX0xRTVE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 10:29:16 GMT",
+        "title_clean": "COVILHÃ: Campanha apela à inscrição de dadores de medula óssea para ajudar Ilda Rodrigues",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3VQeVZRNHYyakhmelk2RnNmZl9NWEdUUDdIdHo4dUk2ZVo4VDcxb240bHBibVVRMWNGN1RZME9RVGFQNnVkZzlzOFdOTXMxN1BFN2ExenZXZ0dfUUU4VWVfb1hTbGV5a3c4QkJVR1dCeVplQ3M2MFhTeW1MSTk4dTVEQWFFZDZPclJ2blRJajdVMjc1dGlDQlVfbjcyTkhSTVJzRVJjYndqT25melM3b19wbnJTVDJOYTBMcjhINE53MDZmdndYVzd3cmxvWGhsaUxvRDNDaE9GUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 15:33:30 GMT",
+        "title_clean": "COVILHÃ: UBI e CCDR Centro alinham estratégias para reforço do desenvolvimento da Região Centro",
+        "topic_id": -1,
+        "topic_probability": 0.11647283842250522,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1NlRkRzUkRtQW9QY0tKNjVycjlFWWRSSjgyRTdkOWxiMktxS1ZvS20xaFZEMzc5clg5UXMwQV9pUHdyWFIzcEtVbGR0Ykx2dHBILVREdHhIeGl3cGMxQ1VFbUJJZUhodktYWTFEU0Q4TjkwUTZQelZFR0stT0pwekR5QmNNR29NYmx2OHo3WUxzZEhmcFBjNVNSM1lNc1dDR1VEMHJFenJQekp4QW9TenNudkN6MnViV2hNUUNEcXFhZ1FJUnQxa1hSdjk?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 16:52:14 GMT",
+        "title_clean": "COVILHÃ: GNR recupera falcão Peneireiro ferido e encaminha para centro de recuperação",
+        "topic_id": -1,
+        "topic_probability": 0.0053499027415017724,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTBySkFRelRzazR6QjlyLTBpLU5OdGd4c3gxQ1Y2UVl2ekZCZkdDZkZ4dnhrOGthVkczaEpoVVpZbTNtMmtVUmc3OWpXZk50TVRjeGd4Rm05Wm1yX0thdUZwblY3T3dzcWpuWmpMNk9xTzBFSVBWNnFTbXR3N1dpZ2Zfbk5jWThnbTFZV0tvbk0xYnRXZ3J0aEp0a2ZlTGp0ckhhQmdzUVIwb090V0VMVW5sUGZxUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 12:44:59 GMT",
+        "title_clean": "COVILHÃ: Campanha apela à inscrição de dadores de medula óssea para ajudar Ilda Rodrigues",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxPSldWV1Z3b1pQa2dFeDVESWpxTWpuSlhERUo0MU5vbkUzdGxHSnAwUHZiYUFiNGduX3UxNXZSb24wSWl1ZnJrMGZlVHlCRzlTTlFqdzFiQzBlTkliME5lYjBSam1pWFpITXJoRjJkSXM4Y1kxQ2w1eG42S2szTlI1c1BpcHhBYlhEdFoxU0FCQmJfLTlZRG1Sc1BWVTZoS05DUGd5TzFvM1Eza2FY0gGsAUFVX3lxTE9KV1ZXVndvWlBrZ0V4NURJanFNam5KWERFSjQxTm9uRTN0bEdKcDBQdmJhQWI0Z25fdTE1dlJvbjBJaXVmcmswZmVUeUJHOVNOUWp3MWJDMGVOSWIwTmViMFJqbWlYWkhNcmhGMmRJczhjWTFDbDV4bjZLazNOUjVzUGlweEFiWER0WjFTQUJCYl8tOVlEbVJzUFZVNmhLTkNQZ3lPMW8zUTNrYVg?oc=5",
+        "source": "news",
+        "created_at": "Fri, 19 Jun 2026 09:39:51 GMT",
+        "title_clean": "Tiago Moutinho: «Fizemos tudo para vencer» - Record",
+        "topic_id": 2,
+        "topic_probability": 0.46358359371150737,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU1BEbEZWYXBYOVNiazJhSWhBY0w3ekVOOTJ0X0hNXzFpaFQ2cTVjT24wSFNjZ29JaDYtZjhIdnlYU0Z2TE9SWld5ZWdIWWh0V2JiRFhfWkRsUWhqYUNRTmhDRmJaNk1VM1lsT0liT3owVHUwOXJkaU9EU3RhYXhIQkRrY2YzRDFmVk1ZcktfX3owRnhDWkdCZHFMN0dBZDAtdVdST3JNZjQzS3BCRVVuSGVUcnRtNFhqV19DTFEwUmM1UWczSEdTSGxxbkktUlpPSVVCZzA0VVNFQ3M?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 09:29:47 GMT",
+        "title_clean": "\"Mãozinhas 112\": Agrupamento de Escolas do Teixoso com 23 aspirantes na educação para a proteção civil",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxQcWVNX1piSDBfSjE4SmtsQlBDekRYbkx6cG54LWcyb0xFcWc2RUhQYUluMTdxUDhJWFJ3Z2FSRGxqc0w0aWdfeHhKak1kQVFFLUlsWjN2UXhSaGtvYzJrZlAta3RHaVZvQ1FFdkllNF9NT2FVaFlaOXNDbHg2NHpORmxZN0UxWXRTa1VzTDI5MHRXNkRyQVFHV1NtNWVGeTN0N2pvVS1vbXVTNUtoMXpRYU9ibHZMWUdiZU9rREVoZFBLRnR0aG1v?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 13:18:58 GMT",
+        "title_clean": "Região apela à dádiva de medula óssea pela Ilda Rodrigues e por todos os que precisam",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmo5UTlmNWV1TWQ2dC10VXphcGNxN0l2WlVaYTZDemNpcHk1S01vRnJSQzZqX29IcjJZWjE4RHVYSnh1dl9YQkxuRm5jS21fNV81UHdVLTBFdGFXaTRrUlJJSWZYZmtpQjQ2OHpMLTY4Q3NWTmtNV1JjNkZiSVR2WFBuMHZHdXZ3OUNVRDhWVzkyb0xRTVQyNUp1VDdja0djc0M0TGNjS3dpWDZ0WmxvUw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 08:58:11 GMT",
+        "title_clean": "Gabriel Sousa acusa (novamente) Pedro Jorge de quebrar acordo: “Preferia que fossem honestos” - Dioguinho",
+        "topic_id": 2,
+        "topic_probability": 0.3257096703659092,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE5xbnh0czlXRk1ZYmFUblRZZGlQS21XRjlSLWRyb3dJYlMwWjZMTzdyVElTQnpzRFJUMTluSGtkWW1ZSXNoY2FGRTJnTkRfRVVKY3RqMFM5d3dCUzZFekJ3S3JhbHk2SnU4eFow?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "title_clean": "BOMBEIROS VOLUNTÁRIOS DA COVILHÃ | 151.º ANIVERSÁRIO",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBCOGpUelk5V0hUbTZoZUljZDFac1hLaXJFVUplOTlPSGxTd3RjVnlOZzdQZkd5alhHSm1DdTdsYzludjZuYWpqc0N4UTgwNks2bVBZMC1KTlhoYlVOMHU3UHViamtDMXM5UXZZ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "title_clean": "VISITA OBRAS | DE REQUALIFICAÇÃO NA FREGUESIA DO PESO",
+        "topic_id": 9,
+        "topic_probability": 0.16331387166379221,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBCTWYySU5mZC1IQUJpMHgxeUtNOXlRd3VUdDZSZTZUUl94R2RtbXBHcTgtSEItTlA4SWdOZFNzQzd2RkR3cUN0RTItX2dSRG1fZnoxcy1kRVN6NmNJTDNHYUZWOGFCYTlWdVFF?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 07:00:00 GMT",
+        "title_clean": "VISITA | REQUALIFICAÇÃO NA FREGUESIA DO BARCO",
+        "topic_id": 9,
+        "topic_probability": 0.16954314517362248,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBJRDc5aDRyQnZpb2NwclBwQXJXZVB1Q2xscEJ1YVZBWEstTEJYVDVfdEVvSmNhdzF4OE1za2pCbUlXVUdONDNuRnY2ZWMzQTBydS1tX1pSRWtuY3B1cC1pS3hta2NSdVpGblVr?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "title_clean": "WOOL | INICIATIVA",
+        "topic_id": -1,
+        "topic_probability": 0.1253050922825546,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBsVDA3eDJranJBSzZTdW9XN2RtZVp0b09vcFQ2bE1OaVEwLTA5aUY0ZF9tOG14MC0xSVl4OE13NTNNR2wtdmJJN1RzT1lydksyWFlVMEo4MWpzZlpMUUtKUmdHZHBMcnl2RTh3?oc=5",
+        "source": "news",
+        "created_at": "Thu, 25 Jun 2026 07:00:00 GMT",
+        "title_clean": "A CIDADE QUE SONHAMOS | PROPOSTAS DOS MAIS NOVOS",
+        "topic_id": -1,
+        "topic_probability": 0.13525938717451033,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE4yeWM3cFlPbHhCMVBlNW55M1AzSWVfejRxMGl2ejhRNXZNVmlwNUNMOXd2MlVvZWZDaGZxT0JmOXhUUkhXMmtGYnE3emt4clgxNVJqQTNGN1lqTlU2dmNiLWE2MGFxWjdha0ZR?oc=5",
+        "source": "news",
+        "created_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "title_clean": "APRESENTAÇÃO DE LIVRO | DIAS PERDIDOS NO PARAÍSO",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxQYS1mSXRBUnhrelJrMjltaTRqdEJvWDJMUGVEbzFKRFRRSV81X0RPVW9uTXRCMlpON2dWYUlROFN0a2drMEdRMFlZdWpWYVdVaFowYVdVUWhrRkx1ZDQ1b21DVHRianUzYWZlSmt3U3FfSEZBS1d3TENXSExoYmxiR21B?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 12:53:45 GMT",
+        "title_clean": "GNR resgata falcão-peneireiro ferido na Covilhã",
+        "topic_id": -1,
+        "topic_probability": 0.005345451284448817,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFB4MjREZkgwWnhFUnVKSDFJd0pKVGliR0RDcVU2NGVGZUVjV0lpX1ExNm5GbU5sV0Roa0tHbk5ZRG9vd2FqTFdUQnpqWDNiYTRMR3pWMWNFT0IyY3BDS3c4QXhwNk9QVllTZ1dj?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 14:57:46 GMT",
+        "title_clean": "ANIVERSÁRIO | ÁGUAS DA COVILHÃ",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlBJQS00bTE4VXB1X0d6bWR4TWhOZW53a3liZmZVcHFYSnd2cHhFVDNwdWNtaTlRSmZUNGFPT1NUZmd4M0k0T2NYV1FSZ3ZicjdxZXAtNmJaYUZfRU1IY3Z2Um1kWnZ2X2N4R0tVUUluSjBsZExPZm9oVHEyeHE5QngwTk4yZnZQaURXTUpma0hrZnQzTjkySQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 23:34:59 GMT",
+        "title_clean": "Campos FPB Sub14 reúnem atletas masculinos e femininos na Covilhã - Federação Portuguesa de Basquetebol",
+        "topic_id": 2,
+        "topic_probability": 0.34236020699063746,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE1mYUZrRE1sZDZPbGx3Qm8wTDhIVU9QLUhEdTNwUVVzaExSRkZ0UGRtVV93LWl2YXFQX0FFbUVwRWZOMV9EdERSVzUyUWFHX2hIcTNDOFFqLVlmbUdwb2tIbEhORExZOVF2V3Q4?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 14:57:46 GMT",
+        "title_clean": "VISITA | NOVO LAR DA SANTA CASA DA MISERCÓRIDIA",
+        "topic_id": -1,
+        "topic_probability": 0.15743994407458992,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTFBQcU9PbEphZG1kaEU5TTJWdV90RmtIQzZRTnFCUGZpSW5zUXJONkl3RkdZYTdVN2xoalFwcWdfZS1TUmNfZGNtVGhTYnpmb0RpMGh5eHlTNlozU3BreU0xRlNiUUxOZHY2dnc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 13:35:40 GMT",
+        "title_clean": "INAUGURAÇÃO | CAPELA DE SÃO JOÃO",
+        "topic_id": -1,
+        "topic_probability": 0.15891033157907716,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzVuUkl2aERTZUJNWDBETHJhdjR5QkRVZVZzSkpwSlRmZkZEUm1fRWFJUENtVm82WVh2ZE41UnRPU3FzV290eHNpbjFCM3FsYlYxTUpqSUZoX3d6VmoxU3hMQzZtVTdrQ0xfLUhBTkF2VEJTbmRON3hWYnl2NGF1ODl5N3VWU1FSQkRBbWtNbnpuQkp3S1kxTy1JcGZLdDB3NFF4QU02UlRuemVXMVBMQTA5LXBpWWc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 08:56:49 GMT",
+        "title_clean": "GNR de Castelo Branco recupera Falcão Peneireiro-euroasiático na Covilhã",
+        "topic_id": -1,
+        "topic_probability": 0.0053525124101888415,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0lqaGZzWGZOeEFDYWdEOWRaNTlTWkdRZW1iUFF5dWhJN0V4dG1fd0hsN1hFMnppMnFKTWFoTXVQOXVCMVNWMXpJZjJibERKaHFYMGJKQXI2VmtSbjVwXzM0cjV3QVc1WWVsRWpZZ2dXNF82UlA5MHlIZUhOdkdoVU95TnNIZEJONVZTbXBjdjVMM2JYLURhWnQ2NVpncHI3SWZkcTVlX0JHcWIzRDU2aGQ3OA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 09:38:51 GMT",
+        "title_clean": "Sporting da Covilhã convoca Assembleia Geral Ordinária para 4 de julho",
+        "topic_id": 2,
+        "topic_probability": 0.48347938953111674,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWNRUzlnQ1ZaV1VoSlR1bm9yR09Ca1R5NFRJZU1BbmlRcnNOYWJPZ1QydjhZNzlhUFNNTjhHcmMwZ3VCRnFxR2VnekJIT1VMOHFCQ0l3SHlINTRkejlDYTJ0T2VFUlhBUEhfZEU3U0VkS1RFM3hXWEVNbUl1MDBnaDUxX3hJQlQwR0hSREYtdzk2ODB2d1dVbkp5NEJXMERNR1FfVGJueFdITTAyYXQzcWExLUFQLThLenoxbE1mTFI5NmtE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 17:13:00 GMT",
+        "title_clean": "COVILHÃ: Município avança com repavimentação da estrada entre Covilhã e Canhoso",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzFKU0E4Z1dmT0JjaEJmb3hsRmx6dzE2c0h3Q3dYUUR1VXIyaU9IWUpiZldtaFlZYnpDVS1rSVhxVEVzTVRhWmNGaFZqZzlsMnVNd0h0VENKaW55cUF2M3k1UUQtaWR3Zmw3aXN2ZzNjOWg0V0lLTnhXX2Rqb2xOZ3Vfb1NyTW1hUm9vTnpka1F3MEJxenZwdEZUUzRPRnBkTDJ1THlfYnY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 17:16:07 GMT",
+        "title_clean": "COVILHÃ: Município avança com repavimentação da estrada entre Covilhã e Canhoso",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXBhSUpDaHJ3SmhRcnllMnlHbEsyX25ZV1pjQlFvQW43TGZlZWlvQjUtMmJfUmNQNl9JMXVvTEM1Nnhpcjl2SW5oakVVRHRDejdZWHBLeGdTS1kxSDFWVGV0LXNzbExwTGN3RWhJWFZaQkhnZ1RMcmFJalUwYmViVjNJMmFTX2ZxcTRsb0JTZlk2N2QtNjB6elNqcHRRUTZzOW1FY3BQSk9DdzRmSHJSM2tsbnZjckQtbUV2NEJEdktPNnhWOHJsSjFveFhyZzlveHc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 14:30:21 GMT",
+        "title_clean": "COVILHÃ: Feira da Chavelha regressa a Peraboa com três dias de tradição, música e animação",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTM4OUg4M2xhVWZveXFBM0tMOEk1dXhvN2Z6TFJ0OXkya2Zad2hLcHNaZFlRTGtqdndLaTFJTnhDMnh6TEdfT1B1d3Q1bVNiNmMwX2dGeFNSX2JJOHJnTzZWeWVabXAtVFQ1bGQxZ2hJQnEtVGVqaHZQWU9WN0ZaMUkzR0JjbERPa3pzTFNRSk9NNkVKbGFSN0Q4RFM5M0xmTGZ3QU1wNlFoUElEeFk1dzZCbGJfVk03aTM4dHItakFPbkNIYXhIcUVxVnY?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 06:06:54 GMT",
+        "title_clean": "Repavimentação da ligação ao Canhoso representa investimento de 700 mil euros",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDFwZlQzN0trTXV1RnlJTXlGTTZQUVNkcmlwMlBseU1IQ0g4Uzg2MVdpMFVKNF9nNVg4QzREY3cwdVU0U0tqMktrOW9jbkt3R2NSN1VHVy1mOExqNGJWczVscnh3ZlcyQUFLbGd4WkdGZEVONlhiMjlhVnl1YmlIM1FwOXpEMmlCaVBsVnNWYTFOSGtpZGFwQnQ0MVhUME9TQ0pYVkN3cFFudWZ0bTh6TEtFUkZYSldiQjdJVE9ZVQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 07:50:26 GMT",
+        "title_clean": "Universidades da Cidade de Macau e Beira Interior assinam \"início de cooperação académica\" - Observador",
+        "topic_id": -1,
+        "topic_probability": 0.11375030332527038,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWlVQYkpVN3EwYmliWFMyaF85a1FqSndybTRSR250NEFzeVNzUllWWXJNUHRYUGJibHBSZmpXYTUwRldxbkxkOHE4Wnk2bGJFT0toNDBLdEtHR0pKTGExamU3S0RVNUhrTlk5ekRIbWZkcXBkMVY2X1BMUmxWdk9DRnlBb0NxXzA3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 13:29:00 GMT",
+        "title_clean": "Pré-escolar fecha em aldeia do concelho de Belmonte",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWQ0VUItMnlXeW5sYmlFeF9JSDd3RGswdnBIeTFsTjl3Ny1nZ0tNVlp4X05XQnNlbzlGVXV6TjZPVXlvYmJyWE5vWjlfV01aZDNpekFaWGJvcTNheGRNdHR0Y1ZqeG56cEM2bGd1eW9XUWh4Z0o1WGwzaXVIdEoyZ2FZaDFLOWs4eUtuX01PSWY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 07:56:00 GMT",
+        "title_clean": "SEPNA recupera falcão peneireiro",
+        "topic_id": -1,
+        "topic_probability": 0.005350745703244003,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMk81enFHZG1EUlVrNW5GWnZ3NmppQ2RGRjB2ZFhvTlFDblFSaUI1d1ZhOWRBQWF0NXVFLVZfTnJPOVdyeVRjYWJiZFhCdV92VVNHekRqRk9YNHdlOXhSamktVkd6SXFUcjcxQ1h6di1OUUhoMmZRejdGT3ZRb3U5ZUpKVDk2dFd4LWh2bFhtWG93T19rWWh0RjQ3VmtsSXpZaE9uaTNXel9ZVVFVTk11M2JDb1ZzdUdBWjllekNDdWREOW5MVDR1UnZuc1NlSjY3N1M4?oc=5",
+        "source": "news",
+        "created_at": "Fri, 26 Jun 2026 13:41:28 GMT",
+        "title_clean": "Repavimentação do TCT entre o Canhoso e a Rotunda do Operário adjudicada. Obra arranca em julho",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1VQQmpqbmpNMDEwX3A3enliUmpEV29MR3VRQ0F2Wnh4dGpod1dlM3hhSlQyVEtPZG5DVGlyNHNuaktpMDBqWEZ1dFJkcXcwRTQyVXVXQUFfNlYxVTVOX1VfbHJuMG16YWlXYUZTbk1ldG43ZkgyREVBbjJQN3d0VW9wNTVKdDFnb0xuYnBtZHgzQ3g5U2NqdkNLNVpTUmo2Q2F1d3VCazNaWVJSaUQ0YjBlUVk3a3J0X1p5VUZzV01ZUdIBvAFBVV95cUxPb2dMQXNibmZTXzQyRVdwellMRG1tNndvM1k5UGdoODI3bUx5WGlwN18zb1dscVVZUDJ6dGtHbnpzNjFfRWZmc2NaX3JTQS1uZmxRRWZtX3BKZzF0OU1ydGRWZFlhdEc5YUJQNDdvOVlPUDBOa21HcUs0QnR6OHA5WEdha2U0bllkX1VvUHVYNXM1c3IzTHpHaGtxVDFVRm4zRFdwY3RWSFpjT0R2d1lJaDQ0T2J6Ml9sNjRESw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 15:10:00 GMT",
+        "title_clean": "Sp. Covilhã garante dois reforços para a nova época - Record",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxOalBBTER3eGpDTmwxZkVMWnZLMmlKcEhGOG9EM1FMLWVXbzhxajhrYUVNX0kweHF0UFlxelEwVDY5SEhlYXBqZGhUb0dRU0FIMVM2QS1tTnlHTUhyNkxBZVFCTDdNdFh5dWgySm1GXzlIX29Ubm1JWWJVQloxajBNa3l5TUhZd3R2a0lwbTdmVFh4NF9aUXhVVkV2eGRpOVR5b3RJTFpXZm0yT3hRMWJpbUxGZk51bU85YnV5bw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 09:43:02 GMT",
+        "title_clean": "Covilhã investe mais de 700 mil euros na requalificação de via principal de acesso à cidade",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUg3TEZhZld5R3dXcWUwQlFNVkxHTy1wbkZHdVlqWHJKcU1ia2NJQVR4a2s3SmQ4U0ZBNGx3bGlnbXlZbXJ0aHpwajlTX01OM2FqZ0pGelhSOE1TZWxNVk9iREhqb2pOWDFobnVHdEsydFYtZHBqTTZqX3RlbjF1NjFHdjllLTJuMGJmOTh0VWRQWXZ1OWt0VnRDeTdrUVFzVllMMklhOWhCblZLSGFzV2ZkZTRJaXZaaHVCVUdLdldOVlBoOFhkY0trWG9ZalhMZnFJenpHUUNsQnRMb3pr?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 09:00:12 GMT",
+        "title_clean": "Câmara da Covilhã abre concurso para requalificar ligação entre a Zona Industrial do Tortosendo e o TCT",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnVnU1BMaVlwenBPMkZhaHkxaEhkYkdBS0dQX3Utd1A3SHVtOEdYVjZibVhnSlltR2NuVFk3MW4zRXVnaEp2RVhVckN6U1dueW9tNFJEc01uRVBPMXpxdS1oUnhnazFVSXE4YXcyZnMyME1PajFPTkphM25kVE00dW1Vaw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 23:21:54 GMT",
+        "title_clean": "Peraboa (Covilhã) – Manuel Silveira Carrola - - Capeia Arraiana",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxPNW9RemlWbVZCcjhFRmNpZ0d2Nk81UWRNeVZfSG9YYkNLa3Jtc1pCS0drMTVFTGxVLXRDMC1yTF9uVlZCMnZSV0pValRFTW1CVmttWXgzUzBHdzRTazBTRFpLYmxLRVZYRlpXWl9hU3VzZzhWMF8zODYwOG5JWTBQZ2RrbnV1RFhwcndPR0dpU2xJM1FNVEpWMkhHSFpNT0FfV2R1bV83RGlFV0pOSVpVX3JidEp4dmdiWEZqajZxTnBQOW9XLWdSRzFtbw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 09:44:56 GMT",
+        "title_clean": "Associação Desportiva da Estação promove gala dos 50 anos no Teatro Municipal da Covilhã",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAJBVV95cUxPcDN2VF9ubF9VYW9KVV8yUXdSOWtuTU1XdVJZbjVOTU1Ram1BVDZIcWlmRGtKTTNtNXZicjlwbG01WmtZWGxOZm01VGZCWUxJVmtZeHVQLWVmMkJkcVAycm40SC0xUU5rV3VZdC1TSzQ4UWdhd3hlWmMwak9hNk9fOHEybk54NFhsU2dHbTB0dVlyOEQzWDJnUWJPY3pLUUJLazVjVmtRNE9jamlyLWQ0cTg2MllHZnhhTXlodnEtQjhoNmlZWHl5UjZZMmtnODhZVkhTTmM4Rk84dGt2RDBwZkhMYnVQS1kzd2I3NW9GQWJCWm4zdkpnQnFvLUNJa1VXY1BQaEg5YzY2WXdFV1FxUmkzUmhUUWZl?oc=5",
+        "source": "news",
+        "created_at": "Sun, 28 Jun 2026 04:23:33 GMT",
+        "title_clean": "Bombeiros Da Covilhã Ameaçam Parar Atividades - Diário do Distrito",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkREM0FGUFliR0JTdFNXdnpPcjFwcGp5Zm9TM0hadFJFSERpY0hoMV9rRHp1RlY1MGRQUm5tUlZQanZkQ09EWW1Pa3ZyRHdXdXQ4VkFqaU1fcmVMeUVOekVmbTYtU2g2amd4RkZMQ0x2ZmFFZ2JPbVIzTzA5Rk54LTdoZVo3UDNFTENPV1dHMVRERWxseXhTY0dTaHJ1WkNpSXJJYQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 15:19:13 GMT",
+        "title_clean": "Sp. Covilhã contrata dois reforços para a nova época - portaltela.pt",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibEFVX3lxTFAySV9kcUxTZWR0LTZzeW5FamNQWUp2Y2RJMzRGVDlGeUlTdUM0eGlmc3FQOVdnOFNUUEhqRXNtSzV2WUJXc1ctRGVhWThpWi1lT2lSQnFMekdCRG9oc0xXOTh3V0RTNXNQTUZnZg?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 06:28:03 GMT",
+        "title_clean": "ANIVERSÁRIO | ÁGUAS DA COVILHÃ",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2s2NC1aTE9vWlJDazBPOUtWWVYweDBZTTd1WXpmcjB1MXRCOUM5aENnUFMtVHNPZGdIVWN2NjBfOE9JblhYUWNaSUxVclRXb0pNcGdTQkFiUHFUUzNkdFZBcmtjUHhSODYyeWFsTE4tbTl3Rk1ZQWRZMzdQSzEyTVlzd1hDVVNLU3hmUUFXOFluOXZodXZiajYtOGJYYmpFdGhmaDdSLV9GSjhWNkpRcGk0YWlpeGsySDRYc0s5ZnUxNWdsYUFjZG5CcGgxcXdLV1NOYWN5YWl3UHZoUWw3TXJR?oc=5",
+        "source": "news",
+        "created_at": "Sun, 28 Jun 2026 15:48:31 GMT",
+        "title_clean": "Feira da Chavelha na Covilhã destaca importância de preservar artefacto utilizado por pastores - SIC Notícias",
+        "topic_id": -1,
+        "topic_probability": 0.005363645294667677,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDR5MnV6SHpza1BtQXVzR09HVkhibE1vYi1LZWlWbWtodGxmVTZHTS1ScVR2V0M5d1lxR3U1RTQ0MlNZUEJRT2Q5WDNxaE1nMjJUODk0WTVrWW9nejVmZjRlN2lINm45T3RmMkZUUU5wZmd6a2pxMGEyMXhTd2thMGN4QmwwWThRcDFkVDYxLU5HNFhMMzJDazhRX1MxVURDMEZNUm9wTjhIbmNRbU5KanhIR1d2Zw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 28 Jun 2026 12:59:52 GMT",
+        "title_clean": "Covilhã: Município investe 700 mil na repavimentação da EN18 - Diario Digital Castelo Branco",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3N6MklRMWhCVkltNFJwOGJSeTVROHBCUktGcDdLaHNFWWI3eGU4TkZJd2JETlBaNmJXMVZHSWZVWVY5TE53NUdIQTRJcmNyMmFacmFIaUpHSnpVekZyblFUY0t0SnliakJFcVZXTGhFaUd2MHNfeHhpRXFCUG5Tb3l5MEliUEdWOFdfUHdrTlBfbkRNZkZSOTlFTzV0ZDE5WHozREZLWmIxaVZvTHlqeUMyTGdZenpXaGFqVmpsZW5yYTd2OW56VmdOY2R1bjQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 11:30:59 GMT",
+        "title_clean": "Câmara de Penamacor avança com regulamento de apoio ao comércio tradicional e à restauração",
+        "topic_id": 9,
+        "topic_probability": 0.2292726884719166,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxPeG1waTJKSmlUV0dIb1pVb3RsQ2JLX3c3V0c4SGNaWlZkMEJ6RmQ0bVZEdlJ6Um1TM0ZBbUdRUGFYaXVwWXVLSUhkVVFGdGE5dUhXUUlGSkVUTVBUeTY4SloyaWxxUFhzMWxGb2tfWElia2dsS0NrSEVuWWV5TWZvZWk4aUVvZk1ZTk9GQzNJOVBPdlJLekZDTTlocWd0X3EyRThxbVliUVpJcmZpbWNnSGx6ajlNUQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 27 Jun 2026 09:11:00 GMT",
+        "title_clean": "Portugal inventa a receita do século: um bombom de chocolate com queijo de ovelha - New in Setúbal",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHJNQ01BSHhsdFZQVlp5WDFvOG9sVGlURmtWcTRuX0FHRlUwY3NURTB0Tl9UMkNfYThiYWZ6clFRTGJHbnFrQW05UnNmdktoalNEZ1lWTjFZbWR1UUprM0pUbnJQZ2FkeWVhVWYybkFHWGNVVlB3VHprRlFUXy1zbGo4cm1xcExINXd6eHQ0TkJHaE80dzZSX3V3?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 12:08:00 GMT",
+        "title_clean": "Covilhã congratula maior subida populacional das últimas décadas",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxNblU1R1FURGJDX3hITDFRbzdNdkFuVmZXT2I2Wmg2aVhSc3lwQWtic1VxeXpMeExPZWRnMUZTM0QyNFVIS0xPSlZ5RFJIRjZQR2JnaHUyOXdvdmY2aTR5N1JyYTV4NjNOSTg5OUJwVlpxMFFYMW5jd0xtSlR5TWNidE1nZ0NscEIzeU84T1VWSVIzcGhzcThRSkhjTW9MWDJRQ2FQYlhRMA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 10:25:00 GMT",
+        "title_clean": "Ginastas da Covilhã em destaque entre os melhores do país em Coimbra - Rádio Castelo Branco",
+        "topic_id": 2,
+        "topic_probability": 0.4144077400333383,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkR5Y0hnX1VjdFdQa045QlN5aE9Qd0E0NWIwQ0NHODFFNi1vVmNZYjZBdTl1OFFuZjZ0elNJUEp6R1p6TFV5RGZDU05iNXgwcURvVEduRk55TGNyUlB2LXVWS3BmMHR1RGNFejUzNGxyWEZqeE1HOVF5dTBCMXdNdmFMdndTQ1JEWlZ3RnR2Y3Y0M0pTSkdOQl8wdkxjem9OREstWTVZNC1ONW9KVFJoVndBR2tPNWJ2NERj?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 14:17:31 GMT",
+        "title_clean": "Covilhã abre concurso de 1 milhão para requalificação rodoviária",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifEFVX3lxTE1JUWlQb1h4ZVJSZVhfVEg1bVloc3RYMWJtZzZnbXRLRUJyYUszOXhsbnQ3eTQ1WFlGd2dTSk1lSVUyZUE2NlRyeEhIOEIxc2NJMFljVEVUTG5uV0Z2MVl2Vk02MVY1a1lsOWxpbmVESTRUMV9uV3VZZzB2SWw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 07:35:00 GMT",
+        "title_clean": "Novo “tapete” entre Canhoso e Covilhã avança",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE9CR1ppZ1hnTTZLM0psOW5CN2c5NE5EX2NiYkpHY1dSbGtKclhtUDVHOHB1MGFCZDdnS1d4NkxHNm5ySjNJZERqVmIyc05ldG9QYng2M1BLMEhpbXhxTjlMbndBeWhTTVNmbzZlTVhzbG5KWWU4UFJhOXVvYmhHUQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 08:45:00 GMT",
+        "title_clean": "Belmonte Medieval com orçamento pela metade",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWI4X19XZlpFSWNBbVdtLUt5T2UyaThQSlZCSG9XLXJIcjlBOWplYktrYzM0RUwySlZNNTN0clp3ZDVZQ1VybzRFMlN0OGtPNVNzUTZ3b2NoNHpPUWE5OUFzOGs4T2w3Q2h1czZGbGhYQ19VNFAtTUhGTDl6UUZjdzVjMk9rTmY1a1pSVnQ2MFZ0SVNpTHdDSjZLQl85N2J0OW9LRFB3T18?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 13:45:47 GMT",
+        "title_clean": "Sporting da Covilhã: Extremo Cleiton Mendonça reforça o plantel",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXFiYUtQa1FDaGl0ZllDc2xKLU5ESmUzRW1aakdzd2w5OWNNVGhkR2lTNUVWdm12N1lpSzg1ODdFUWIyc0Q1bVpfMUV0bDRPanNrUS1kSlhhenlKWVFfY1FCaUVHenFOZ1FjYkhhMUlBQ2VWbUhJS0o3WVBQS2QxSnFYc1BzeUs3enFTOVdIdmxBYTU0RlJSS2RLRWw2NmpTTEtPdE14eU1rYmxHVTl6MVFvMzA0enZFSUNaQWlB?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 08:12:14 GMT",
+        "title_clean": "Liga 3: Sporting da Covilhã anuncia mais três reforços para a próxima temporada",
+        "topic_id": 2,
+        "topic_probability": 0.5990029086301099,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3otWGpBb2d2SXVIMk0ybTliUXFLQUlRRzlOQ2E0M1h4Q1p0bF9tRzhXQUgwck1lV0VqTXAwUjR4VFNERmlTREU0dGlIOENTbTVOa3BsQi1IcldoT2YyYXVSN1NkUTNuWERtMk5FTE5yTGgxRC0yODRzeHVDOWt6S21QN1lYcE5nUW9hT25kb3hPamxlUWxkNmpvSGg5RDdPS0Q4QWx6al9zNXhpNFBxcEtLbUNONFp2SlNnVmMzUm9rY2pRcHItSC1falRPSGlMaGZza24tN1d3TW8?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 16:04:58 GMT",
+        "title_clean": "COVILHÃ: Município vai requalificar estrada entre o Parque Industrial do Tortosendo e o Eixo TCT",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDBqV0xkTVpYNkdpNVVnZFJ1Wk9pWlRRSWdGOGVzSWloZjR2TDFlaGFDVllwMGhtTFdHd3FCaXFvdWN3emFhNDlLckc3RC1TcEYxcGtqVlZqX3lkMmdHMVNNbzRUOWNrU2tuX2hiS2ZtMHNjcTNVM2lnX3RDVGdMckllaHMzX0ozZHBwUnloOU9fYTNsQUxmU3J3VmVtdFRGT1FDMFhPZkM0SHdKUTJ1b1ZKN2Q5Yldoc3gzNk9obUM2eTkyWmp0Z2NmVnUyWFU?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 08:59:39 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã assegura quatro reforços para a época 2026/2027",
+        "topic_id": 2,
+        "topic_probability": 0.5432347741906943,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkMwRm9wV3BiVHVFVnVkYUVyRmlDa254V2FWcFhQR3paWHJsWk9Xc0g3aFAyUFBFVDYyR19oWDhfSll2YjFBVjM5LWZsUEhCM2Q3MER3MHI1YWoxOERmVUU1bEoyMDNWVVJBR3Q0aElQVnhFa1BZNmRvUnlKQU5ndEVIWTkzcDdMeEZGWkRpcHBaSy1OTllzMDVJZW1QeER4OGMtcHdBN0FZdkpsZUdCaXJn?oc=5",
+        "source": "news",
+        "created_at": "Tue, 23 Jun 2026 11:03:57 GMT",
+        "title_clean": "COVILHÃ: Galeria António Lopes promove oficina de \"Gravura em Relevo sobre PVC Espumado\"",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1V4RnkwUVV1bWlHYTRNS3lrN2ZqMTNOQWU0dkx2WlJXTkowWjRnRDdQa0sxV3EyNWdxb2xibndyVjJhR0p1bEtlUzFYT2dQUlIyS1AzMHF1bjFGQTgzV25IWHVHUkMyc0ZTX2h1STVpeVhsOHVudUpVbHljYVR0ZF91eGdLTkFGOXdycUYzVElwdEN2eWZUZGVCbGdOZl9vUWdRRHMwbTJiYkl0dGNLS0FIMVVHLTRoenc?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 14:39:46 GMT",
+        "title_clean": "Fundão: Município distinguido com selo de “Município Amigo da Juventude” 2026",
+        "topic_id": -1,
+        "topic_probability": 0.1267513963139507,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAJBVV95cUxQcDJ4Ny1zVFNsZEFrM2RkTEgxU0U5RUEwdlRjMkdFeS01eDllYkhNeVJwQkxuN0RqLUp3WGUteTg0QmdrMDVwQmZRVzRKbHJhOERtMjd6UkNIbnhFUGwxRW5kaUhvNjgyendiTVNIVHd5ajhzVFdHMkYtSVpvZDZsYzFRR2FoT3Zkbi1yN1BSb1hzcDNMQWtlWGVmRWlfT3Aycy1mRm52RjFrb0FZR0JXUTJyVzJEZDJla0pEODhYV201amJ2OU9VOGlJVDZvcWFLSHFlLWg0RC00dGMwYlI3cUszMHMyUlpMSUhXT0IxQ1RRbW9kUGIxZ3JMRFlvbk1RX3N2TDlKUVM4UFJwR0R0NVNLYW5JcFll?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "“Estamos na Covilhã. Além de portugueses, temos quatro brasileiros, uma russa e um angolano, todos altamente qualificados” - SIC Notícias",
+        "topic_id": 2,
+        "topic_probability": 0.2888801287873188,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTThfWTNtRnh5QXJBbjRmcTlrMThrQ3Y1STZsTXB1X18ybTItaHhSZHFndFJqa0J4MzhtcUpWN1ZjSDFJZGE3eWJSOGg2bUFuR2VuWFZzLU95VUxtOWhLWHMzZkNIdVMwOFVsQ1pTZk9LYk9wcHFQa3kweWtPUC1lWFAyUmFkeGdoa0RSZTFyYTlkRi1MYVRzMW44c0E5WW5GdlJzU0NsUVVyZFU?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 08:01:16 GMT",
+        "title_clean": "Julho traz música, teatro e cinema ao Teatro Municipal da Covilhã",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLUFKZ2Y0VFRSZ0Q2SjJmeHd2a05QVEU5dkg3UmJ6S2RvcTlxNWV0eGRkYXY5cFFUeGdZOXkzdlc1YUdNblBwR0xqb3otYTh1TVA4TnRLVFI3dkRiQmlQMDZaa1Rxc2g3eDdsS3JwclBrZzNON2N2dmZkY2l0SjRsS0xDcXg3cmlwS0ZyMmx1LVN6U0g2cXozMnVuUWJJSUpIQmdCM3NBSEE0Z0hlVjloS1plbk5oV2x1c1VSUlA3WUFHY0YyYVpsVzJmdjVIUk81enZ4dndGM1o3Q00?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 10:36:23 GMT",
+        "title_clean": "Assembleia Municipal da Covilhã aprova por unanimidade 15 votos de louvor e dois votos de pesar",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYW1qekFPMlkzZlI1anNYTEVHWThZbmRTWlBLVUNiSGJsd2Nrcnp4QVlqYk5jTTAxY3MyNlBTeUR2eTNHbFJfTDVZN0F1NEhLYUswTVFWNVpkSmZEbjFnbHVoZXh3ei1yMUhSZmd6V2JqSG8wRzJiM2Vjbw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 13:16:00 GMT",
+        "title_clean": "Grimi: do Leão da Serra para o de Portugal",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdHZ3R3A2U3RqZi1vSFFBTE5lXzRaTWh0YkY4UHZya09TcFdFSmwwN0VPd0Q3UGlVSFRCR3dXeUw4TFM1clVzQTREZUp6YmJubHhTOFRrSTltSm5jUWRIekFOS01ubi1YZ3BnbDRIXzU1YXh5NjlpUjA3STJIaDV0UGJqTkRHNVpNalZ5b001NlBqMWVNQmJnUzVlZU5UcGFXUHgwa1V2Y2NiaFNMT1dQRTNncURPZFBGVWZKODcwNVRXOHZNREVNZVpqeWRabDUxOTQ5NDg4RXo0WlhTZU9UaFViMGVxUQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 09:21:13 GMT",
+        "title_clean": "População da Covilhã ultrapassa os 50 mil habitantes. PS congratula-se, PSD reclama mérito e Chega vota contra",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAJBVV95cUxQbmNpMlNqNGNncjI2cnkzOEluWm9sWEIyMUxZWjdiYjAyMEQtWnRDNlIzTkFMTWx3NzQtMTFMZmV6cHY3d1g3b0tYYUtIRWdHZUpIWVJKNHdZRnFSUjhROVo5NWM0U1VqMkIxMHd0RlhKSE4zZFZyTXN5TXBBQWxJdGtNMU1ZWU5oM1RWOXczYzdUT2w4VWZqMkxmSGF3SEdhNEh1N2pOWGhEYkJQVWd6NDhMOUhHc3hBVl9hd3lrZ21mTi0zVnlnSWxwREt1dEpubmtUYjRCV3N0MkphMVQ2S0d5RmN6STNFQ1VocU4zVjhtb3Yzd2dBSDZjc0FZcUctQmdhcnh0NHprT1VmeDBmUmp6REhRREJMRU5DTA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "“Corremos o mundo à procura de um extrato natural e alguém nos disse: ‘Porque estão à procura na Austrália? Têm isso na Guarda’” - Expresso",
+        "topic_id": 2,
+        "topic_probability": 0.2491492293940403,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTBlYzN5WFl4c2ZkZmhibE54MmdFZ205ZnlRVnByU2d6bEs3azhTNDdFVk9uamdYSVdhTGVKNjlTbGhwVDhGSWY2Ty0ybjU0dU1QeEx2bU9ldkloUFh1ZWNnREhmbnFxWThkNjVFR1I0QUtkcGgtOHBSQmlfeUc3T2RJYllLQUVoYktTazZ3MVpaRnU1blo0V0hTaGg1VnkzRWhyTHd4UTVwa1NzSWdxMWljc1U5NUo5RXE4?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 05:52:51 GMT",
+        "title_clean": "Crianças da Marinha Grande vão ter colónias de férias em quatro estações náuticas - Jornal de Leiria",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmRJVmZsMkdfT0RDcS1ScFBBZ2FrM1RlY01nNFFjaHFqaWNoMzZjeGVtMHFTdXI1LWVKXzlpVXVSSGxVaTdfUGR0WldoUjhmMjZJdzJCdW9rSUU1eUJ2NGVPWktobktmaEtIT0JvczI2d3YxYzFHSmpUWWViWVRiaVNISXh1TTNMZmRpQmxuRENRX2w5LVU4aDJOQ0hhaU1wVVRVZy1vWWFmbEJLWFF4VXlWa094Rk4xaFB1LQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 11:27:22 GMT",
+        "title_clean": "PCC: Lua Afonso e Francisco Vaz garantem pódios em prova de Trail nos Pirenéus",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOVk3ZjNpczVXOTI2WnNsZmJoNDE5Q3BkMEpwNGFuUWNnQU1INDVmUHZOZlRoUnQyRE1jb3dvUlVwRFNXYVNNd3RsY3FLTHMxSndFZU9sLWN3NnByQ1BkM254T3Fid0tMM1FKWUZvQWFoMmpPdmRzOFQxSlN2aURoZnVHaUpzeE1vaFUtNW5jTmhyOTZDMlNrUTlUQV9uRm13bXZka0ppUVA1TFpOUmtZbThtVHAzV0tFQVBXdXNLbWFueDFoNVlxVVhTY3p6akNGbHNJLWRaYmo4elhCZExLY0ZfUdIB4wFBVV95cUxQOVk3ZjNpczVXOTI2WnNsZmJoNDE5Q3BkMEpwNGFuUWNnQU1INDVmUHZOZlRoUnQyRE1jb3dvUlVwRFNXYVNNd3RsY3FLTHMxSndFZU9sLWN3NnByQ1BkM254T3Fid0tMM1FKWUZvQWFoMmpPdmRzOFQxSlN2aURoZnVHaUpzeE1vaFUtNW5jTmhyOTZDMlNrUTlUQV9uRm13bXZka0ppUVA1TFpOUmtZbThtVHAzV0tFQVBXdXNLbWFueDFoNVlxVVhTY3p6akNGbHNJLWRaYmo4elhCZExLY0ZfUQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 07:30:00 GMT",
+        "title_clean": "Presidente da Academia Portuguesa de Fibromialgia ingressou na Real Academia de Medicina do País Basco - e-global.pt",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0ARBVV95cUxNUmpzX3RpU2JaejdTWGFkWUhOc1VOSW1IaDJkS1VrZlFYXzBPa1dDUU9wdmNydFdDZC1Gam12Y0hNdldPZ2QzVnR6YUNXQlBjSURBUHZCRDF5M1p5dzZsSGJXOWVFSHJYdFhZRkdCSzBoWXd6NnByTElHQTgxMmluby10WE5NSVBwR3J2UE1DQ2stQU5BV3hjTUloRHd5VVB6dFZoQ3BFTi1pSTZDYm5ybmtwSGYzWlJtU09xYzZMS0Vrb2RXQzIyQXlIOTA3V0RFcE9Vajg0NG1MdHZFUUdFVlVDTEhCTVpuQzREdU1zb3FlQkFKa3lZY28zQXY2RGxvWjhyVHFYM0Z2SjItUWtDeElSNmZscXNiUEFrZ3U3c24zYUtkem52R3NrV01PZlFXVHNjRXBVdWo4RU5DMzNOUTI1NV9UTU9nU3luX3hBbU5hX2E4SmFTZ1pNTDVRRzVranJLaW90YW45R2RhZUtNdlhtU1JsWmNYQ3FYNUdleGZ5VnNicm11Y2pRVDFJRW9jSDJQM2hhY3VNOFQwOGJFa2dNdm5LRGIwcFotM2RBcnB2WFlsQXA4blJUTy1QUnpRb0JnWURiWklTUUZ0dlVZd0pXaDlxZXM5blJaZWxrdzdpNnprMmxRRWxtUV8xNmJPaUUtSS1xZEhLWW9OaU41ai02b3FlLVI3a0tBSC1aTTlaWjI3eVVDQmJBQkl1bW9ORW42aFRnUFQwRjI2bkJkckhTZEpKUTBWaHhxMU9pMmt0Rmtaa2V5Mk5IN0tfZm04?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "“Estamos na Covilhã. Além de portugueses, temos quatro brasileiros, uma russa e um angolano, todos altamente qualificados” - SIC Notícias",
+        "topic_id": 2,
+        "topic_probability": 0.2761524674678423,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1E0R1h6MXNsRzFtTDJYMkc2cUV3X0hUbUh1WUNoZjY2c3ZLS1o1cmd3ZFY3dWM2c1JZb2xIdlFFYlZSdDFMeFh5cWd6VHgwTE5aRGtzTzRfM283dVdRS0JJZU5HaXVnUnA5WGVwcEtydjdNNnhOcW1IMWNBMk5TTGdxNnllSWN3eFVQalhDNnNpSHpONms5S3BXWQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 08:08:43 GMT",
+        "title_clean": "AM Covilhã: Quando uma estrada chamou todas as outras",
+        "topic_id": 9,
+        "topic_probability": 0.39769576899538617,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBCakE0c2JPbzRZVjVBT0pIR0V2V3BkUDE0UGhFRTFhNEV6aVFKdFA4bDlaMF9WV2RpLTdUaTJwaTlWeFZYTWxHWnFvYkt4M0tuUDgtRTZEM2JSd0FKbVQySGZrNXd0c0RTVHln?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 10:12:17 GMT",
+        "title_clean": "OLHARES SOBRE EDUARDO MALTA | TERTÚLIA NO MUSEU",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBCRHdZcVB2UlJCR0VKR2ExeEVFZmE1UnJ1TzRKVGtmeW1fUWt4MF82VnVKSFYxZ1Z6RDJTMEpRUHFtSmFkdFB5UWZkcU5Va20wTl9aWEJqNElaZGFMZFNENXlERFRVdkEwc3BV?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 14:28:16 GMT",
+        "title_clean": "DESPORTO | TORNEIO INTERFREGUESIAS",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGOGtkU2hHdXFvc0w5Ui1sRi1yVW4xc1lDbVhnZlZnMGwwM0VrX0x2UkpLa284X3pQYmtROUVHcjl0aFp1akRWbkVlejB2RDJwVXo0SFFqWTJ5RmZNTlI5RFRR?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 13:39:00 GMT",
+        "title_clean": "Vem aí o Portas do Sol",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE53MmZFQ1FBQzFiR2tnSzlSQ3RmSTh2NUdFX08zZVhSSWZYWGxITGlCRDhOVlpndGIzTnhJVFMyNnFGWDZlNkVPZG9qaXNBaDdGWTBfNGUxTElrRExUempVRjJtWGlOOWEzREFz?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 12:33:10 GMT",
+        "title_clean": "DOMINGUIZO | FARRAPEIROS",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mZ2RneTJRS3pubkJIZElWWDdpX3laV3I3X3NqUEtTMWR0WVUzY0tUNERVcUxFZGZoeVlaNzJianRiRWpyWE10NzkxWUptOXAtdWo3MUg4cjVuR1V6dnEzUnpTdnA1VGgz?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 08:10:00 GMT",
+        "title_clean": "“Vamos continuar a alcatroar”",
+        "topic_id": 9,
+        "topic_probability": 0.3312158189572327,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBqN3pfV2h0OE5JR3p0R0RhUURjNTh2Tm5pYjliOG10Q2dkV3VzM3l4UEhPN1N6dHh4OVkzQ1Q1Mk9XV1dRTFpsMGtsdl9PQlFuQU5zeENtbElKNjhsSFJaTVlhV2JEU3M3Y1J3?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 08:36:56 GMT",
+        "title_clean": "FORMAÇÃO | PRIMEIROS SOCORROS PEDIÁTRICOS",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9ya0RoeEp3TExYb1NzNGdIQzd3SWREdjBiVnRmLTBDbjhEbXdva3VQcVd2eHpWS2FvNW5LRU51RzNwS2dESHdCN0VGeENwYjJZSTBMUzZUb3dydEczRFdsd3RXMTZ0YnVNSHhF?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 15:13:25 GMT",
+        "title_clean": "INAUGURAÇÃO | ERPI DO PESO",
+        "topic_id": -1,
+        "topic_probability": 0.14084951863210685,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9SWmtmUFNwbG1lOVJjMWRhUzVzSzg0MFR0dlRlU040QzgwLWd1cVNQTm9HRUxZa2lHQmROeWg5NGRJR3BHLU1wbVJqbFlfV2o0Y2lMTFl4S0F6ODF6dHN4MWI2WmFtTjhJelRF?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 08:36:52 GMT",
+        "title_clean": "PERABOA | FEIRA DA CHAVELHA",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHZ2VUpJZkZ6SEZKbm9MbndRVDJNZmlCUHBRM09HSFhZMmY5M0FfRzBJRnRkbEFRR0lldW92Q3VtRENwUlZiZjRkQ1JJUEQ0UDhrY3BKQ0RMNHFzcldFa3BoZGd5Q3V2LWtjMmV3OENDNlp4NXA1aFhKX0JqSUdrYzFNMGJKVV9GWTJjZkJMMTkyTDBtNWh6RHFxbGkybEd1U2ptLQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 14:44:30 GMT",
+        "title_clean": "Banda da Covilhã promove Concerto de Verão no Tortosendo",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGp6b1BRYkVvRWpQWHRWc2VWY1ZBZjROUWxFRXoxQ3kxcFJKS0h6QWRELUYtUVVFUjBDeHlsdFg0LWRnREE5Tk02UjM1V25TekQ5V2FDT3hoOVJYd1JEOGJkd21IMmZuRUVHR01uOEQ3bUpLNEs2Tmk4eEdGVkMzVnByWURKMldOTlhaNHdobUNjaktZbEg1dzNlUWcwbEhsc0Z5X1lvRC1vcDZNcFotYWlrWU1tODNJc2VzdlI5WjRaVTl0U0E?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 12:41:00 GMT",
+        "title_clean": "Contas consolidadas do Grupo Município da Covilhã aprovadas com críticas da oposição",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVVxTVBUVkhIR0ZNNlZtalNra1lGTnV1NHl5RkVQU2d1LWUxam5xYXVZcGtLNWp6TG9NTWcyNXYtNFotdW80a3dJSTZCci1DT1VCV2J2VXN5UnBoTU15WGFld0lkNnVrSHd1eTh4Z2RBN0JhWnNRSGN0cWpmUjhLX1cyX2ZoMklTUFpsakJPb1hXY1dHU0V0ZDcwZ2RXeDJNNjl0dnA5T0tnNm9GRlMyck9MZjh5bUg4WWtBNDJrZExaMEh2ZDBZdTNLOXNKa2RNbWcw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 14:14:44 GMT",
+        "title_clean": "Mutualista da Covilhã vence iniciativa “Gulbenkian Integração” com projeto de apoio a migrantes",
+        "topic_id": -1,
+        "topic_probability": 0.17199551884489922,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTFBjZXFvNm9mMmZ6NHlHcHljRFFQcFpPWllCeWZUSm83NlFxUFlqeUNsaEJ3TzE3TGJGOEVERVB3anZ4aUNvNzBqSFR6RlEtbmZudmNfSXlaNlFWb3pOSDVUUEVXeXBDSGJwaGFkaTBJbG1XQ1c4UE5wQ3RXUmZUdw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:15:00 GMT",
+        "title_clean": "Junta de Caria recupera gestão das piscinas",
+        "topic_id": 8,
+        "topic_probability": 0.3020107084283559,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWJzaG9uLVdDVkhDbWFnOF9GX0t6Uk5xTm10MzFBZTFjaUlwNXNxUnl4XzdYbDRxMENQdk9IcE0yajktTkhySHlGS1Y5SngycXhOTUUyYS1HN2VhTVY0OHNNNWhJamprVTRHSGoyYzFxRWQ5R1l3cjdQSktGZjBIRlFYYWowNmtOSW44c0cteHhfNzFBbTlBb3J4U250SlViVlNxYUxPTVFidlBBOUthNG0wVDE2LUpnSW5BQjZ3WUxaWXZGbXZKc0VGa2czQWJrTW9Od0lLVTRuQXZFalBrZ0M3SUZyZE96b2xqeQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 11:21:11 GMT",
+        "title_clean": "COVILHÃ: Final Four das Taças Nacionais de Futsal consagrou campeões e destacou ACD Ladoeiro/CB Idanha-a-Nova",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTE5YX2pVM1I2bTNraktLNTEzTjdqTXlTTWxyVUp1YWhOUFlVajBQYTF0WnNFSnV3TWpLV3BpcHBRNXIxTG9GUExheEYtSXRlVnJaVmdEb0NpSVdXc0Etc1VrYkJzV3A2VEdUYlo4cUZDdGpxZHNCNzlaTA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 17:00:00 GMT",
+        "title_clean": "Distrito: PSP fez quatro detenções - reconquista.pt",
+        "topic_id": 0,
+        "topic_probability": 0.16379044531167133,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblhWMFJPYVlHQVMtMU1JOXp2RVNFRGtjd29HU0RlQ21uWWVvQmNUdXFaelJZSkU3X09nWGI5djdzZ0RqNklneXdrRGxJNjlyN2FOTE5Qc2FWVG9zUWI3ekdSdXJKOG51LURqMUpyaWhyRzVLb1VCVzktc2NsQ0MyVzkzOGdPUC1yMzdsdnNrdkpkb095ZThDdmJtSTlpak1sM2tRVGxZNFlLVEhmdWdnc1FwanZDdmtiT3FReHUzUHZvODJIdHpwQkttMjFjZVllX2c?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 10:12:41 GMT",
+        "title_clean": "Assembleia aprova regulamentos do \"Natal Solidário\" e \"Escola para Todos\" na UF Covilhã e Canhoso",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibkFVX3lxTE9QejVKTEJkZDZBaDJKdXdVRGJidjVxeENHRzdENFVvTWNvazNPTnBUdjYwZkR0UnB5ZUJ2N3VRckJBR194TkR1Rm14M1p3WW5QRzNXVVdMS3ZnUHY3eEVwX2VNcEc1N2FPQmIyaW53?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 15:04:40 GMT",
+        "title_clean": "SC Covilhã (Fut.9 Jun.D S13) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "topic_id": 2,
+        "topic_probability": 0.42658244066214074,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE91R3g4eVpmWnozbXRJcVhVQklGS3l1M2gtSm1GSmZzUnBORHc1Q3ZYNXJKRzVtcEN4a2FHT2ZQVXNPOEI1bUwzRzcyZFI5N3lLa0tmRHZfMG9nVFVuNG9hek5USU5OaW9UbWFqX2FsOG9adw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 11:46:53 GMT",
+        "title_clean": "Ryan Hirooka :: 2026/2027 - SC Covilhã - Ficha e Estatísticas do Jogador",
+        "topic_id": 2,
+        "topic_probability": 0.3908106249369075,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkVsNGdCM3ZIUUpRd3dpTHZZb1BPTjVTdjlmWW51a2RCTWtpT2liUU9OdE51SXkzNFo5cWdYa2JWNlcxS2NubFUzVVUxUVkxSFFyUE5pcHYwa2NVOGZRQVVVQUhHd3VfVEpsbjJpc2FLZTlYSG0yZ1BINklKNEFaM2E5RFdxdU4zOUFjeDlFVUJrMWtLSnA1a0ROeTM5X2NkdWMySUU4d2gwOVJmNlMtS0Q2MWlYQVl0QWVzNTB3cTNqS2txdmk3YlR3?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 12:20:47 GMT",
+        "title_clean": "Jogos SC Covilhã 2026/27 | Calendário e Resultados",
+        "topic_id": 2,
+        "topic_probability": 0.41934131774374417,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMib0FVX3lxTE8waGRoMWNCNjZHYlRjdzVYd0VOdU9HaGNHM29JaFhONGdRMk04OW1JTUdSazBzaXlGTl9lMUFDZXh3ZFVWN1NnbVVxRVBjZ0phb3Ztb3hxUmRRVlI5aFQ1UjhicGFIZV81bG56djVTVQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 11:49:48 GMT",
+        "title_clean": "Mica Silva :: 2026/2027 - SC Covilhã - Ficha e Estatísticas do Jogador",
+        "topic_id": 2,
+        "topic_probability": 0.4281543387086049,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRXNaWHVQb3FtNDlkMkRRdllWRVJleDVqcXlpQXJ0WmZUamM3XzUzLVF0M09BUy01WFZEOExLblh5VTYzWEZjX0FxUDNWMkVjVDBpX1o2aWt1WFRFX0liUzRhd1lHS0Y3Ql9hUTZhOHJLSlhyVEJFbzlzMTJPdw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 12:20:43 GMT",
+        "title_clean": "SC Covilhã | Jogadores, Estatísticas e Análises",
+        "topic_id": 2,
+        "topic_probability": 0.38793243242295267,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMDRHeTZtRkU1cnViSlBBSnBSVjRScHFweFVUXzR4Tk83YmhLZGRaR0xFVEdlZkZ6UDBiUFFhS2lUUEVYaXJ0dC1qRlNaaXBGTDNWcE8zS0tLMk1naGx5ZQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 14:28:16 GMT",
+        "title_clean": "DESPORTO | TORNEIO INTERFREGUESIAS",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigwJBVV95cUxQM0FndmpUaGVudEk5bVA0U2FyMG4tTGR4djZQSzBMNWtfRllfVUZwQ1YxNDcxNUhRQkxsQV9iYlpHWTVSYU1qX3NLQmVXS003ZThsaVJ1N1phMGhVdW1ya2U5dEFYMG15UjVQbFUxX0g0d1BBNDBfOTZSWS1LN29FOV9jRFlSYTJHWG1GRnphXy00UzNaRV9fUE5FajAyWGtoazRpbkdpWU1xMElaWTJtTGNuMTRndjluSEQySFZQUktUaE9JcTZkYjlmT2hvZWx5SlNaMEtyb3lQWFpaRkxlZzhydkNtR0d0LXhvN2ZtZWRSZjJ2QUpBLWVqdUpEVVdpNzFB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 10:00:00 GMT",
+        "title_clean": "Dos bálsamos aos lubrificantes vaginais: a partir da Covilhã a Labfit quer tornar-se referência internacional - Expresso",
+        "topic_id": -1,
+        "topic_probability": 0.11086681346974923,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXM2NXN0NmJfbkUwNzl1SlN6UnZ3WnZ3RjRfWmlVS0VQVkpxQU53d1pTb3RueWRMbWJCOFlkS29aaG92dDFZOTdsY1doY0RrMW9saWlWY29qUGVNeHRXbTllZXRyZzNTeWVWSlVkX3o0VHJ3OXJYVG5GekowT3NMbm5mVFNIcE0wYW9JNWdidzZXSVBINDBnRVZYVHhMQ1dhMWc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:34:21 GMT",
+        "title_clean": "Município da Covilhã melhora acessibilidades na periferia da cidade",
+        "topic_id": 9,
+        "topic_probability": 0.2861357319786941,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxNMnBWamJYWmczLUhheDZ2bzdHcG04OXNpd29ESWVVMTFvZTNMM0xySG9LNlJ1M1RnMTNXeHFyN2VCbkE1aEZrYTRoLUpSekpyRXpHbnpBNnp1VHBfQ0IxZVE1ekRKYUlkX08zaVlkYm12SGdzMWFRdEc1anJ1MGg3Tk9kejV6NWVPVWpsc0t4Z0JhR0xlSjZVSTJRZF9Kb1pKZmc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 09:12:00 GMT",
+        "title_clean": "Assembleia Municipal da Covilhã aprova contas consolidadas…com reservas",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14SXZhTklhODRpaF9vZ0RyaWhWVzc4aEZQY1JVVDlMaUVYSXBCVjYzWlpxNUg3dlZXTk55UndVVkI0STBucTViUVRYWkFab243RlNGYUR2a0VyQU92bVluSWNLTk9PcXM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 14:28:16 GMT",
+        "title_clean": "DESPORTO | TORNEIO INTERFREGUESIAS",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRnFCa2czQnBGTzVicUhXSXlFal9ZVmF4VUU3V3hzZ2pUR3Jsb3EzMFduYl9HcWluNkZQQXBRTXV5dlpsMG96aVdZcFJsM1ZHWjJxTTNVbV9pOUFpbkpmeGdHTTc0dGhWc1FZ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "title_clean": "FORMAÇÃO | PRIMEIROS SOCORROS PEDIÁTRICOS",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9lMkV5M0c2Ni16eTg3WlB3OUF0VnBDY0h2OF9jWTF2b18teXJMTTB0UDNWalA2OHk4UHU0dngtNlZVZnpObFo0SVl4YUNiVXJaeFNFRGV4WG1ybDNVU0FteUxjTXBPaU9MQjkw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "title_clean": "🟠 CALOR | AVISO LARANJA",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWTZqU3FWdWh0TW5pM3pTSVZhQ3QySW1kSFpQRFpqd0YwR25CNDdnaktaamJRNVpJVjcyanRTczVGcWJSQS0zbFYxb0J2akt4SnIxeFVvVzZSN2NITG52SldMRlFWZTVOdGRuVEYxYmZOZmNmdVhZZnZIWFZPcjNyXy1EaXNFWG9FTTkwT3N6R21MbWlSLW5WVzNPM0doNWRxazQxaU5ic3dMR0JLcFpGekx4NVVLZ3dZZWFuNWs5elI1clZTdVk2UGUxR0UxMzNiblFYXw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:13:01 GMT",
+        "title_clean": "Covilhã: João Morgado apresenta nova edição de \"Magalhães\" e a \"Ave-do-Paraíso\" no Festival Portas do Sol - Agência Incomparáveis",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGxmN2xjYzVBWDA3NGMxQ2htT05FQ0lESFpTMlpKOXpSeXRNSkEwd2dTYVBVSWRMcjgyUHBZZmwxYVRJX0RRLUVZWGFucEc4WGczOXlVN2N3VU0zOHZ0QnZ4XzdZeGN6c3NlNGVCTWl5LWVHYjZQUDlqYlctM01UbEJEV0hIQ0wzaG9lNFR3MUhhMUNjeGd0Yjg2cnFKVG5nYVZB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:41:43 GMT",
+        "title_clean": "GNR da Covilhã resgata águia-de-asa-redonda presa no interior de um poço",
+        "topic_id": -1,
+        "topic_probability": 0.005349892366955097,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlN4b2JlNzBGSzFXaGFKYm1oSlI3YkNNUFJ1cXZNWVZIaWJETy1QWGZNOWlhdnNmQUJUMVp4NjhWYjFLMnIzRUF4OVJNRXo5SlVoMUxSenk3QWkzZDZwVmw3SWVnSDBXbElwRlhuVnJ0UFJMUGtvc1Q2Umt5ZVVmZDNBSUJCb2poNnNuVnE2cW1pSnUwM0NyTnNLM1c3ekVvV1NDN1QwWldzZnN3azJlVQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 11:23:18 GMT",
+        "title_clean": "Alunos do primeiro ciclo do Teixoso (Covilhã) vão ter aulas sobre Proteção Civil",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTldyREk5UjBVOGtsX0puYmp3cUZmNnJEaE1Ma0ljaW5XNEthbDhXektnSEMyUS02ck0zR3RqZjY3RGtjTTU1M1NGbm5UVmRiV3lfWG1VZG5MSVM2dDB2Vy1yWmJuc00zX3hSdC1NaF9zNVFhUkZfdUVJTnJKekdHOW1wQlpKbVR4a2JJUTNLRUZEbUtseEh5TEpubVFVSFR0WHZwcHRnVFBnR0didEM3dVhKSi1rV05Z?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 13:03:57 GMT",
+        "title_clean": "Mutualista da Covilhã vence Iniciativa Gulbenkian Integração com projeto “IntegraCare”",
+        "topic_id": -1,
+        "topic_probability": 0.13755039803217173,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTNGUHFLR3p0bW1FWUktM1dJNy10LWRWeG1kUEtiUGJoSDYtTGR6ZW9pcVBOelVnVV9La1RDMUVDZmZIRDZxR2NuaG8tRUpOWUhjcGZzVFc2aDY5dlByZmJFdnNSTzJiZWJXT2R6YTNsMm5RMDZzYUtFSFcyOGxjRDV3cUswT3ZIUDZ1X1ZSbzN0c0E?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 08:32:58 GMT",
+        "title_clean": "Festival Portas do Sol arranca hoje na Covilhã",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUdzdTI0R25Jd1FOWWE3NG5QdWpNdTI1OG4xcmU4c2VJWDNFeFpRMTdMSkZEOVVzMk5JWElMeDdIVm5vLUVDTHFoblMzY3JiYmZFTWI5ZWZHX2RvWDhxMTNseXQyTklMSXljYWZkdng2dnhveTBPblhiaDZyeDNKTzNkb2RUZzZpbmFwWURSTEU3Nzk4SE9VdVlOVFBrcl9KRk1wUWFHRHAyRk5vQS1NVzV0TUxsUzAyLWtaYXlKQUtKMW1LSEx5QzF5aEZiQ2RIZHZicA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 11:16:35 GMT",
+        "title_clean": "Estado dos cemitérios da Covilhã e do Canhoso motiva críticas e leva Junta a exigir intervenção",
+        "topic_id": 9,
+        "topic_probability": 0.18094415431279942,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2lfYnpnWmRmS3k3LXBublQ4c3E0UHRpaEcwZWJYM1Z4R1Z5Ynp3UDV6di1fS01iNVJwaDZrTkhaTWZCek4yU1hQMkJRY3JiNEY1Um9jZnBUY21JWml3TnRVc2Ntb25Pc0tvekZFM183U2EwVE5CNmFFTC1RcUozT3VGeW9vYllvd3V0QUNmT0Q0bWpzY1VaUg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 10:23:11 GMT",
+        "title_clean": "Sporting da Covilhã reforça defesa com Diogo Silva",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUZtN2RjTDZ5VUJRcWhNRlg1M1Q4RkVfZ2hfa1dIckZVUjFDdnVMYWJtYWhpYTdyM295UnVnd0tFQUp2dTloQjdyemdzZDdUbFBfcGZmWjJORDRNUG1VNnE0TW5rMTduckYtbGJNaWxVRzNEN0M4WUFuRHhJOUZpdnkwYUkxNEp4Ry05SHI1dHVRa09UaXNTSERVaHlkQUViVlNnUFpBN1BrZ1hoZ291ZnlUUnhzaVgyY3Y4VC1YUkRwcjlLajI5UA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 14:01:13 GMT",
+        "title_clean": "Mais de 200 pessoas na festa de final de ano da Academia de Música da Banda da Covilhã",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUU1qRWtoWnpYZC1TaDdXT1lqUU1NNkw1U09DaGVZUzVPRnNnNFBSbllpWk9WdlZJVmV2eUpxUmFKemFYZTd6WWFmRzJPeXVDWjJQRVd6UDNNOEhkSHpobTBwcl91UWpqSHBpY1laQloyX1ByNnE4YVBvblNDbjc3NDRNb1Azd2xQd1JtZllwZGxCazBnXzg2aXRPdGNGWlR4MGpPdEZfQ0M2YUdaRnR2WmpzWHFyTWpJeU9QcVBTbmxmRFVJVUhWUw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 09:47:05 GMT",
+        "title_clean": "AM Covilhã: Presidentes de Junta unem-se em defesa dos cuidados de saúde de proximidade",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ29LUHJwcWh0T2Zmb3gwRENiUUYxZ2pGMXZqa2VYUHB2Yl94RDVNMVZUcjEyeHo2bExKd1BPcGNMZmRUV3RGaVhRYmJUbWREQ0dyN3RYNHZkV2dBanJkdFVkTXVzTXJ5MGx0M01XSjdkeFZOc2NUUm9fY3ZqVTB3VUphV1luSl9JZkhseXI1Vm5ZRllVaGhUanYxdnpzeHNfNklCZ3ZKVmlhN3NOZjhnTTM4UkxmbjFMYmJCNkxJMVNHUmc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 17:18:32 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3hELUl6LXVlTTNTNEFha1ZCamN5UW01emQxblpFYWFMUzlZamxQaWNVWnpoTURFLVNMVzJWMV9CcFlIVk5kQzJVX05wdEJfcHRXMTUxa0Q0LTBIamxNcHNwNndmV1c3ajBXRXl1UHlKUF9Mdi14YWhUNGk3N3MtekVxblkwUnYyczJWVjZnZDRiN2RmYkl1TGFtUjAwZGhEWF9FZGVzOG9EQjJlVjkzNXZoaHJiQWx5dUJVc3FoMA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 15:14:26 GMT",
+        "title_clean": "COVILHÃ: GNR resgata Águia-de-asa-redonda encontrada no interior de um poço",
+        "topic_id": -1,
+        "topic_probability": 0.00535167139866564,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXhjclNnam8xbktwZk9MMXllX3kwZjBSTEFCNDEwMDFRdFlnY0FGVFlNQnpYQXlYaWFPQnJ3OEh0SDF6Nkd5enREaDlrWEljV0doVndhU0lLcEVicUdKS1U5RU1GbmJtelB5cWl2czIxZkp1Z0I1QWhlYjJmem5OZHZkU3pYOUE4Ym41Mkhlejd6LU1FNlJZMmhQbkFWUjZqWGNXWWJlY2J0OW5oR3VEakdWUWRKaFhUSWd2SnZlbEs1RFk1X3l2cw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 17:18:32 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWxUcUVHUWxic0I0YW9YeS14TFZWN0d2cUdsSE1EdklpZVVSX3UyVU5lcVFrcmV5Q2hTcHJpUjR4dkxSaDJhd1ppTksyMl9OT2hVZ0xaazMxcWdLNnh0dUNoWDB2RlZDazZUQzhWWDZib09HZDZadzJ5SHdHbThwNFZYeWZibDNhS2dNUDJsZnM5b1lFR1p5RjV0SmU5dnZndVMwQmlZQl9ZeVhK0gGnAUFVX3lxTE53Y1VUTkJ0TEptdlBIdm1XREsxZjRUOGZDMGVxZTFFcFEyQzNFU3BPX1FFQkJmdUF1dGpobGtVN2Ytem93U2lIaEJjQ2ZCLVdWLVNXQ0pZeVlLeDFZcm84X0ZFMTNxZ1pTcGg3NXk1U2czSlVIazNfWTV4RnRBN193WTBiSnQ3cWhtRThNR3M2LWlKVzR5XzhWNTdkVi1EcGJEbDZmc1FB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 15:31:00 GMT",
+        "title_clean": "Vianense anuncia contratação de dois criativos - Record",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBoUlBtV3ZIa3BuMF83V2NRdndXSnQ5RlJWdDh1R2tZaGoyR2NPVEw3RU1nNmluMEZja2lfVkt0Wk1ydkhmNk1aUXZRZ0lSVVoxYXVldmJJUWd1YzIxcHFXRGt3NXVxZ1VmSEdB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "📍 ESTE FIM DE SEMANA NA COVILHÃ, NÃO PERCA",
+        "topic_id": 6,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE5WWm4yTWlYVnU3RFZhaTlvWXpkaVMybXFkSHZnOFFWcUhsUlZOZ0NNbldWUzgwTnZiWXhHMDNscmVqQkhDbWROWVJSZkFYZEY2cjIzVFVfcXJZRHY0M010eWpqczI4WjRyOTIw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 08:39:48 GMT",
+        "title_clean": "MUNICÍPIO AVANÇA COM REPAVIMENTAÇÃO DA ESTRADA ENTRE A COVILHÃ E CANHOSO",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMid0FVX3lxTE5mdnhRLUdaNERIVTlyM1QtYzFVY2I2MTZVUlhxZ0RKY29ZVjZmN1Rkekp6a0dEVTJUemVoS0ZHdHdHWGlCTFU3MnFUV3drclFSQ0NwTzhfU2dIT0h2bTg3M280YXlJY1phaXJybjBmLXJJUDZwY09V?oc=5",
+        "source": "news",
+        "created_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "title_clean": "MUNICÍPIO DA COVILHÃ VAI REQUALIFICAR ESTRADA ENTRE O PARQUE INDUSTRIAL DO TORTO",
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTE91emNLR1poUUlPc1JjcXhHR2IxNHc3X2VSZnBVcFFwV0lhSnNSWUpQQlZyMU1PMFcteXdZVjVDUmR1aDl4RFlwWndmTVlVS01VOVRRd0RsRkJwMEVDMHhTeW41T3JjQXE0RWc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 08:36:52 GMT",
+        "title_clean": "PERABOA | FEIRA DA CHAVELHA",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUkJDdmtWTUZESWdfQVduWTQ4NURDNElIcWo1ZkpXMVRYbEhrT1YxQndXWDBldkVLUkdXQ1dqYXdncHhGQ0NCVGhqZkM0VFVDZE9iRk1ZS0tYcnRISWN3VW9RTThRWk5VLWRB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "FORMAÇÃO | PRIMEIROS SOCORROS PEDIÁTRICOS",
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "escolar",
+            "escola",
+            "ensino",
+            "projeto",
+            "comunitário",
+            "iniciativa",
+            "alunos",
+            "apresentação",
+            "apresenta",
+            "crianças"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVGNYTl9EOHJvTUVzTWdHVmZtR0UxTm5BVE9teXQ2cUdvU2I1ZU5ENVlBaHpZbWkzUmVKNTRNdi14MFBXUkpkN1VzMmhRbkFTYlpwVkh1cEwtYkIzQlBZOHl2RDg1UlEzQ1E4?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "OBRAS | PASSEIOS ALAMEDA EUROPA",
+        "topic_id": 9,
+        "topic_probability": 0.40889093862152714,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QUjJWNUN6ZHFHdzRFdS1SUnUxRkhqcHFrdUkwZDhaZWR4YkNZeE1nLXBicXdBbjZTa0oyX25XbnBJZWxkTWZ3SUt3VHBnM0dDNmRaX0tSUmQ4YkVZWk9BSQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "COVILHÃ EM TRILHOS | CAMINHADA PELA ROTA DA VARANDA DOS PASTORES",
+        "topic_id": 6,
+        "topic_probability": 0.25963472228918244,
+        "topic_keywords": [
+            "feira",
+            "festival",
+            "portas",
+            "fim semana",
+            "verão",
+            "comunidade",
+            "encerra",
+            "locais",
+            "sol",
+            "evento"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE5sQVB5dGVrbXQxTi1DaEZjYlZ1TVVhSkxBNGt0c3hsYW50UnBqVGROZlpHUWE1a1JQa1BqdU1aNmtOamJRdzNxZEloQnVJX3ZqZGJEem1iclVuNGl2Y3ctWVJ6bl93LWNlcldN?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "title_clean": "🟠 CALOR | AVISO LARANJA",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibEFVX3lxTE81WXNXZkFGYjUzWW9NWVZUNGhjei1iTERtSXJOZHlla1pIaVRYcldZWE05QUpTSGZrdUZhdFJScjZTc3VZVUw2Q0FCVGpTSzNod1MxNDFoaVB4QTJPSlo5OXdnbE42Qlp6SWhPeQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 07:26:00 GMT",
+        "title_clean": "Freguesias querem mais médicos",
+        "topic_id": 8,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "assembleia municipal",
+            "municipais",
+            "assembleia",
+            "junta",
+            "aprovadas",
+            "municipal",
+            "contas",
+            "maioria",
+            "concelho",
+            "aprovou"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVpMOVdnaUJpLVJBTjFSWHZsalh3VEVJZ1ZORWhQZlNPLVI0eUZSR0cyZjdaWTczUUpJLWV3UjVaMVRaNTg4UGhrNENzYzhJR0ZpQU1ETUhERk1hOUZCN1RXY0U2cW9kcUlibXc2NWFEM3YwRFJseEpYcmxRWmowcjVUbjQwZDhXM1pLSjBINnNoMUIwSHN4Q2hleEFwR2pFbEhRMHE4Uy16a19oZ3lv0gGqAUFVX3lxTE52MUNSeFRlREpfRVZWSU9WbzNFb25RVjZ1TmRwbXRFQ3hCOEI0OFo0emh0a293eUEyY2ptbUFaZHpNRGpXOGFnYzc2cFRocmZwS1o5UUZJaElGTUhjMG1GUHY1aUtMSjFuekFrMnZMcWJvR0x5MDV3ZUluUmZrb3M4bUZQMTZ2SkJkd3F4Zk03SDdaNnlFN3VWSEV3RXpxY0tqSEJSejU1R01n?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "title_clean": "Diogo Silva e João Pacheco reforçam o Sp. Covilhã - Record",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzX2FBUXZzQkdsVlBBQVc5QU9XcWRWZlBPWmJNckVOOHpVY3BIMzktdWpSUUdWSDNtZ0NrbDJ2bVo4YVBaYjBtbmZHM2Yzd2MyTDBMYUN5Z3A?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 09:57:00 GMT",
+        "title_clean": "“Não há palavras”",
+        "topic_id": 4,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipiodacovilha",
+            "museu",
+            "municipiodacovilha atecerofuturo",
+            "covilhanense",
+            "património",
+            "portugal",
+            "património cultural",
+            "portugueses",
+            "eduardo",
+            "história"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWlWY1IwXzl2Vkl5Uy0tUHdMc0kybm1manRsQjRsT1hzajZOdm1DZ2lGbFFJZklCSjZ1ajROQnpkeVJld0k2eVNPVWhFX3FLdDVTT1pyY0hZazBXVXpST0xYWVQ0UU9zdkFkSGVRMU13VzNjTkE0TXBuUWdWcy1YMmxzSWlvYm12cTBJMjBlLTZJTFU?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 10:15:07 GMT",
+        "title_clean": "Moto Clube da Covilhã organiza evento solidário para ajudar Miguel - Motojornal",
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vila carvalho",
+            "desportiva",
+            "junta freguesia",
+            "freguesias canhoso",
+            "desporto",
+            "festival",
+            "participantes",
+            "clube",
+            "união freguesias canhoso",
+            "vila"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU3haSW1LbVpuamJyUG9pc01CSkVPd3JwbFdSVURRYXI5UDJRVlJqelFIZ3h3VC1vUFluQTBMem9fQjJSWEVWcFBhdzZzS0QzNGtPQm9rR2FveFRucGZLXzRSR2w0Z3g0LUFic2tLNGZMbk9qRlRNaGZWTGVOWDEyMDhFTGxUNG5INVVaU1A2WjBCMTFOY0dadGpHREo3MDdoVjZ2QVJGSmttUk0xUGRUZHM1elFwdC1LUU4xMGN2WlBpbVJVMmNXTHMxYXJ3WXBBMHJqcHl3QlctTGRwQlBIclp3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 10:27:19 GMT",
+        "title_clean": "PSD da União de Freguesias da Covilhã e Canhoso propõe medidas preventivas para a utilização de trotinetas eléctricas na cidade - oRegiões",
+        "topic_id": 9,
+        "topic_probability": 0.42105447966218146,
+        "topic_keywords": [
+            "canhoso",
+            "estrada",
+            "municipais",
+            "municipal",
+            "rua",
+            "cidade",
+            "vila",
+            "área",
+            "belmonte",
+            "zona"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVh4bWVmeE9hTVhBMFpGM1RHVzFVazRFc2kwYkRIdjJLRndOQzliYmd2OTVOMjJYNTQ0MHNiWGp2QW1pU2hoNkxrMG5udGZpY2EzLS1pRFp2RGZiLXRkeW1Ic1NpNmFuRkRGLTVUODVNeC0xV2pDZHlpYUlmZ2E1NnQwN08zWEFkQk1kZTdpdVdPaDE3UDJ6MGRB?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 08:30:28 GMT",
+        "title_clean": "João Pacheco é reforço do Sporting Clube da Covilhã",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGdnVk43ZmctcUpQSFNRMGRVLUJMMkpOUE52QWl6algtbHZCclVacDJUMmJ5ei1lekxyVEtTX01RSTVPVlZ6d1lUb2YyZ0VfYk8xeWVuWUR6cExjc1VPbWFLRUc5OXRGQ3JTNXRuaThRVkVOYnRnMVMyamRzV2ZMMUxrdUI0YUNSdldnc3h0RE5xU0FGUi0wQUp1QWttUE4yQ0k5VDBwRHI5U20zZ3FxTEEtSlJqaklkX005YUNJUGhqU2xLeDFRVW9RM3Zudw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 12:02:48 GMT",
+        "title_clean": "Município da Covilhã disponibiliza abrigos climatizados temporários devido à onda de calor",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGdRTUhOajFSeGhHbm9IeXg0SUVnMTFRalU2WWtKVXI0ZVBSZkVRLXR6OWZOY29vek16NC1WZktHRVFFRldIcjYzMzdzZzJnY2k5TlVFLWhJQjhXcUQ2VVNvMm1hUVpaUGZybkxxRlYxVlJ6T1g0cnRYS3RFb1VHNTJVYkUyODFRV1piYWR2MHNPbW9LMFEybC04Wjh0QlFYLU5PWU1yVUVRYk5VWWlYWHRUZHNEc1JDUUhocmgxYVl2aUFtU0V3ZWNpRVZOMGxNMzdLU0NTY1Mzdw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 09:13:23 GMT",
+        "title_clean": "PDM da Covilhã: Consulta pública e sessões de esclarecimento nas 25 freguesias arrancam a 6 de julho",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWENiMnlINVRhUzdOcFlQSnhrV2ZvQzRvUlp5emp0ZGJ4UlBybnEyLXdqVnZkZDFtX2dwRDNKb2Z3Z0pvYW11UE5KNmNLV3JpUlFQRjd0bjNMWjFiTEYyOU0xY3A1M3BUczlLd1dhaXFtZ0Q3RzNURFowb0NCWWFmM1ZnRHVTZURJRjBUZUVyYXVYMFhCSmJpYnNQU2tmOHhIUlk3YndlR0tyQVNzcURJMGFWN1Vya09MWldTZHJHcXE4aHN3S1JTXw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 10:18:43 GMT",
+        "title_clean": "Covilhã revê Estratégia Local de Habitação para reforçar aposta na habitação acessível",
+        "topic_id": -1,
+        "topic_probability": 0.15697755772853517,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmJpYnotZ2JESGlkaHg3Y0tXSnFicnVQNkt2cHBqWGVmdV9kTW9pUXY4UjZlT0JuazJJVkgtbzlyVHZzTnhmUGQzbDRwQ1IxUkdBYVZBcjZXOThqMTQwQzk0NE9qS2Yta3k1QnNiTFE2V1pTQ21PRUc4MkJZWUY4eTYtaW9GcDBhUHdyZA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 13:35:51 GMT",
+        "title_clean": "Banda da Covilhã leva “Lendas do Rock” ao Tortosendo",
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "espetáculo",
+            "teatro",
+            "teatro municipal",
+            "concerto",
+            "concertos",
+            "apresenta",
+            "musical",
+            "feira",
+            "lugar",
+            "sala"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDJCc1dkTU5Cc285VVlYc0xMY0pSOVdHUUdMT1FqWk5CZHhBWjlHcnB2VUNMUUhJYzJOcHljbGFzX1M1ZTl6Q2o4ektDTjFLX2ljVWE3dlIwZmEzUm56SF9hamNxbFZ6ck1haTNJRFFWX2RGc3B3ZEdjMjgwUVh4Q2k1R1N5d0Z3X1VROTg0MXBMVktIVFE0dGE5cUcxZU5vYTlXM2h6NXZTQ3ZuV3hyLTBGUDJJSnB0?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 16:46:12 GMT",
+        "title_clean": "Covilhã disponibiliza abrigos climatizados e adapta serviços municipais - Notícias ao Minuto",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTJsZXo2SXBCT3RMWlBUYXNDTEt0ZUVqYzNCdTB5OWxOWkQwVDhEYnBiNV9XWk9DSXdueGdiUGR3aGhwYmg1REVkbXN3cnM4MG9YSUw5MTRHYW81MGdVXzd6REpMMkxqS25BNGtPUUVBR2tObTdJWWpUVjFWWVc1SHc0QWs4ME14UDZsVVY2aVJ2dWZQOFd4Ump6ZmFXWS1Qbkl4Tm41YW9QN1lmYlI4dmVFZGdaSkhz?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 09:09:10 GMT",
+        "title_clean": "Covilhã: GNR resgata águia-de-asa-redonda encontrada no interior de um poço",
+        "topic_id": -1,
+        "topic_probability": 0.005340088803306114,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxPNktKQVY2eWlwUi1HdTk1ZlJMeE1qQzF5anR0X25oSGpTd1pldVRtTWdCM1ZsWjJwcnJkUGI5aTJCaVJUemJ4ODRYNnQ1RVQyelB2MEU0UGRnUi1ORGJQeW1lZlhpRHZONzlhOVJ5SkNTdHYtck5PamRpSGYxSXFfOWIwa3gtdmJzdlRwMmoxLU51NzRhd2tqQnZTWUpQZlF2ODg5R0UyMTNVQmFEbjF6em9n?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 15:00:44 GMT",
+        "title_clean": "COVILHÃ: Município disponibiliza abrigos temporários climatizados",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUFTRjg4ZWtqam1Ga1hydHNGeTEwWmVUTmRJOHRkalpHa1IwNmpHcU55eG40d1FNdDhadjFyNExFLTlJN2NNT2tMZUFEN0REcm50bmtJcFB3WF9aNllUdTFEMHBjN1ltMVNxX0V6bThTMTBOcTBZTzBkeW1ZYUVycTZYWkRmQ3hUYS10UUw2QUd2U2dISGxPWG04bFJSOUUxSnZ5ZUdXZ0lDemphcFoyVDZYT2YyUGZEUFBGYWR1WHFxZ01LUU92N3pzRWtoVzE4RS1sajQ5cUQ1QloxcHJr?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 13:40:51 GMT",
+        "title_clean": "COVILHÃ: Banhos interditos na Praia Fluvial de Unhais da Serra devido a contaminação microbiológica",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzVLUGRmTXBIanJPb2tkUWFVRG45ODV1MHkySGtUeFp5VUhIbG9CU25VX1lMU3JPanhPNUpGMnVrX3JyYVhkRlFINmdPcEtqU3Bienp2bmlpQnA4dms0MHpqQmxVZGRpb21Pc0pSdHpmX3hLOHhXUXREMXBUdzIwVHlibUU3a0UyNE5Kcl9RZ0pUcjZqUzQta181a3pKSjFFbHEtUGlmZHplYkI4dk5yZ0ZkSEVpajh3RW1BaWgwU2g?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 08:12:07 GMT",
+        "title_clean": "Abrigos climatizados temporários disponíveis durante o fim de semana",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmhOQWNYYks1VmVHX1FEQlVoY3g3b21wUFJTTzZrLVFLS2g2NUtWTDlFejlpZHI3T01VMUwyVXI1LU5MWGtBMjNmWHpNTUo3V20tVjFFVGVJX2NZcGMzM1paQzFtQmlEX0trMW9ibEx5WXdqQmJXcU44dzUwdUZDcm9seGRCYWdVMzZtbUNJc2ZveHkzZjFBT0dZUUszYjFKYkpvSk8tNndGaVRMbDNScjNkNzFWUkdiRUVDWlNSbFUtWEU?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 13:42:57 GMT",
+        "title_clean": "COVILHÃ: Banhos interditos na Praia Fluvial de Unhais da Serra devido a contaminação microbiológica",
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "municipais",
+            "junta freguesia",
+            "juntas freguesia",
+            "alerta",
+            "balnear",
+            "concelho",
+            "disponibiliza",
+            "municipal",
+            "feira",
+            "locais"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWhPdHU5Q3VjZ1hITGJzM0Vjc2dPS0VJVk1Nd1dXVWZrLUlTTHhXVk1lZk43T1JyaUN2Z1VOX3JWcmNSUGlZWlA5OGtnTjJxMGxfbXRsbGhhanVNM0EzZnFQR0VpTkpCRDl1bV9MWmJicnZkY0hiLThJYWtQTXotTTFNWDVUR0FnTGpCN3BCbnRvbHpRRDZNU2ZlcVRLZWlw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 16:06:18 GMT",
+        "title_clean": "Diogo Silva e João Pacheco reforçam o Sp. Covilhã - Portal Tela Portugal -",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRpNUhVZVQ0Vi14NkpZbGhiVm9WUWpGV2JWMVVGVkpMWVNWTjJsNGJjb29wWGw3Zi1DT2lCUGExNDlFWFUwLWxsaFR5Mm01TVdLSzhjV3g3czhneUNlbG4ybFZTbHQ3czlncnQ2S3kxN3lmUTB2ak9NRXFnS3pKaXdMcUZOR0FpOUlGRS11Qjg5N1dmV2RIUXJCRDBOZzVYa2hUdWRyYi15Z1hlRkp0M05WZDNWSW8?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "title_clean": "Calor: Câmara Municipal da Covilhã adapta serviços municipais - Diario Digital Castelo Branco",
+        "topic_id": 7,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "peraboa",
+            "feira",
+            "portugal",
+            "beira",
+            "concelho",
+            "esteve",
+            "frança",
+            "festival",
+            "fundão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHNTNVM1Z3hoRnZsUlB0S0lCdVF6dDRWbG8yM1N3RFdjaFJxbGJTWFQ2b3d6OEh0c1ZnRFdYNUNfbnN4cGtsTFNEZ0JjczIzWWg2aFhHNmNwT3BoZkpOZWZhX2VsUHJSZHZVVlEwdDB1UUMtQm80eVA0eG5JaEhaNGdFdVdqSFhsblRJemtXdFFGc0VxWmd2VWU4bGo5Tjc3V1YwbFR3?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 17:20:55 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã garante Cleiton Mendonça e Diogo Silva",
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CeWM3NllQdU5EM2dVelRQbE9mOUp4enB2Ty13WGFvUjhVcG96ckE0ZXhmMldiaTNpcF9NbmgwMGtmdG1OR0dXcTd3aE5TZnlFc2NRQUVfS3p2RTlsNEtaV3NLaTBtQ3c?oc=5",
+        "source": "news",
+        "created_at": "Fri, 03 Jul 2026 18:30:15 GMT",
+        "title_clean": "SC Covilhã (Jun.B S17) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "topic_id": 2,
+        "topic_probability": 0.4119638214588842,
+        "topic_keywords": [
+            "portugal",
+            "portuguesa",
+            "lisboa",
+            "liga",
+            "tiago",
+            "serra",
+            "cruz",
+            "equipa",
+            "fundão",
+            "joão"
+        ]
+    },
+    {
+        "record_id": "reddit_1un6nhl",
+        "source": "reddit",
+        "created_at": "2026-07-04 11:27:26",
+        "title_clean": "Melhor bitoque/prego em pão",
+        "topic_id": -1,
+        "topic_probability": 0.0955995043612357,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:k2rwf6elajxfly3te2jqx3to/app.bsky.feed.post/3mpnst4nc2w2r",
+        "source": "bluesky",
+        "created_at": "2026-07-02T10:23:14.828Z",
+        "title_clean": "",
+        "topic_id": -1,
+        "topic_probability": 0.10354560428816376,
+        "topic_keywords": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpse7pcbst23",
+        "source": "bluesky",
+        "created_at": "2026-07-04T05:45:03+00:00",
+        "title_clean": "",
+        "topic_id": -1,
+        "topic_probability": 0.13650681248569774,
+        "topic_keywords": []
     }
 ]
