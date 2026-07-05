@@ -119,7 +119,7 @@ A documentação interativa está disponível em `/docs`.
 
 A extração de dados é feita num repositório partilhado, que alimenta este projeto e um Agente de Gestão de Incidentes:
 
-👉 [extracao-dados-covilha](https://github.com/carolinarraposo/extracao-dados-covilha)
+Repositório Extração: [extracao-dados-covilha](https://github.com/carolinarraposo/extracao-dados-covilha)
 
 ---
 
