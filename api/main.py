@@ -3,15 +3,11 @@ from fastapi import Depends, FastAPI, HTTPException, status
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
-
 from api.auth import USERS, verify_password, create_access_token, require_admin, list_users, create_user, delete_user
 from api.routers import sentimentos, emocoes, topicos, entidades, keywords, posts
 
 load_dotenv()
 
-# ============================================================
-# APP
-# ============================================================
 
 app = FastAPI(
     title="Municipal Sentiment API",
@@ -19,9 +15,6 @@ app = FastAPI(
     version="1.0.0",
 )
 
-# ============================================================
-# CORS
-# ============================================================
 
 app.add_middleware(
     CORSMiddleware,
@@ -31,9 +24,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ============================================================
-# ROUTERS
-# ============================================================
 
 app.include_router(sentimentos.router)
 app.include_router(emocoes.router)
@@ -42,9 +32,6 @@ app.include_router(entidades.router)
 app.include_router(keywords.router)
 app.include_router(posts.router)
 
-# ============================================================
-# AUTH
-# ============================================================
 
 class LoginRequest(BaseModel):
     email: str
@@ -91,9 +78,6 @@ def remove_user(email: str, user: dict = Depends(require_admin)):
         raise HTTPException(status_code=404, detail="Utilizador não encontrado.")
     return {"message": f"Utilizador {email} removido com sucesso."}
 
-# ============================================================
-# ROOT
-# ============================================================
 
 @app.get("/", tags=["Root"])
 def root():

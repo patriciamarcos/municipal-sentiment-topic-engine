@@ -7,9 +7,6 @@ import torch
 
 
 BASE_DIR = Path(__file__).parent.parent
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 INPUT_FILES = [
     BASE_DIR / "data/raw/news_posts.json",
@@ -19,23 +16,14 @@ INPUT_FILES = [
 ]
 
 OUTPUT_FILE = BASE_DIR / "data/sentiment/all_sentiment.json"
-
 MODEL_NAME = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
 MODEL_VERSION = "1.0"
-
 MAX_TEXTS = None
-
 MAX_TOKENS = 400
 
 
-# ============================================================
-# JSON
-# ============================================================
-
 def load_json_file(path):
-
     path = Path(path)
-
     if not path.exists():
         return []
 
@@ -44,16 +32,13 @@ def load_json_file(path):
 
 
 def save_json_file(data, path):
-
     path = Path(path)
-
     path.parent.mkdir(
         parents=True,
         exist_ok=True
     )
 
     with open(path, "w", encoding="utf-8") as f:
-
         json.dump(
             data,
             f,
@@ -62,14 +47,8 @@ def save_json_file(data, path):
         )
 
 
-# ============================================================
-# TEXTO FINAL
-# ============================================================
-
 def build_sentiment_text(record):
-
     parts = []
-
     title = str(
         record.get("title", "")
     ).strip()
@@ -86,9 +65,6 @@ def build_sentiment_text(record):
 
     return "\n\n".join(parts)
 
-# ============================================================
-# CHUNKS
-# ============================================================
 
 def split_text_into_chunks(
     text,
@@ -123,23 +99,15 @@ def split_text_into_chunks(
     return chunks
 
 
-# ============================================================
-# LABELS
-# ============================================================
-
 LABEL_MAPPING = {
     "negative": "NEGATIVE",
     "neutral": "NEUTRAL",
     "positive": "POSITIVE"
 }
 
-# ============================================================
-# PROCESSAMENTO INCREMENTAL
-# ============================================================
 
 def get_existing_processed_ids(existing_results):
     ids = set()
-
     for item in existing_results:
         platform_id = item.get("platform_id")
         source = item.get("source", "")
@@ -158,16 +126,10 @@ def normalize_platform_id(record):
         record["platform_id"] = f"https://www.youtube.com/watch?v={platform_id}"
 
     return record
-# ============================================================
-# MAIN
-# ============================================================
 
 def main():
-
     print("A CARREGAR DADOS")
-
     records = []
-
     for file_path in INPUT_FILES:
 
         current_records = load_json_file(
@@ -189,57 +151,36 @@ def main():
         f"{len(records)}"
     )
 
-    # ========================================================
-    # RESULTADOS EXISTENTES
-    # ========================================================
 
     existing_results = load_json_file(OUTPUT_FILE)
-
     processed_ids = get_existing_processed_ids(
         existing_results
     )
 
     print(f"Registos já processados: {len(processed_ids)}")
 
-    # ========================================================
-    # FILTRAR APENAS NOVOS
-    # ========================================================
-
     new_records = []
-
     for record in records:
-
         platform_id = record.get("platform_id")
         source = record.get("source", "")
-
         unique_id = f"{source}_{platform_id}"
-
         if unique_id in processed_ids:
             continue
 
         new_records.append(record)
 
     print(f"Novos registos encontrados: {len(new_records)}")
-
     if not new_records:
         print("\nNenhum novo registo para analisar.")
         return
 
-    # ========================================================
-    # LIMITADOR
-    # ========================================================
 
     if MAX_TEXTS is not None:
-
         new_records = new_records[:MAX_TEXTS]
-
         print(
             f"A usar {len(new_records)} textos"
         )
 
-    # ========================================================
-    # DEVICE
-    # ========================================================
 
     device = (
         0
@@ -252,9 +193,6 @@ def main():
         f"{'cuda' if device == 0 else 'cpu'}"
     )
 
-    # ========================================================
-    # MODELO
-    # ========================================================
     print(
         "A CARREGAR MODELO "
         "DE SENTIMENTOS"
@@ -270,14 +208,8 @@ def main():
 
     tokenizer = sentiment_pipeline.tokenizer
 
-    # ========================================================
-    # PROCESSAMENTO
-    # ========================================================
-
     print("A ANALISAR SENTIMENTOS")
-
     new_results = []
-
     sentiment_counter = Counter()
 
     for record in tqdm(new_records):
@@ -301,7 +233,6 @@ def main():
         positive_scores = []
 
         for chunk in chunks:
-
             try:
                 prediction = sentiment_pipeline(
                     chunk
@@ -542,15 +473,9 @@ def main():
             result
         )
 
-    # ========================================================
-    # JUNTAR COM RESULTADOS ANTIGOS
-    # ========================================================
 
     final_results = existing_results + new_results
 
-    # ========================================================
-    # GUARDAR
-    # ========================================================
     print(
         "A GUARDAR RESULTADOS"
     )
@@ -565,9 +490,6 @@ def main():
         f"{OUTPUT_FILE}"
     )
 
-    # ========================================================
-    # ESTATÍSTICAS
-    # ========================================================
 
     print("\n")
     print(
@@ -588,9 +510,6 @@ def main():
             f"{sentiment} -> {count} ({percentage}%)"
         )
 
-    # ========================================================
-    # EXEMPLOS
-    # ========================================================
 
     print("\nEXEMPLOS")
 
@@ -614,10 +533,6 @@ def main():
 
     print("\nANÁLISE DE SENTIMENTOS TERMINADA")
 
-
-# ============================================================
-# ENTRYPOINT
-# ============================================================
 
 if __name__ == "__main__":
     main()

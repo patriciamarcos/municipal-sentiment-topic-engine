@@ -8,13 +8,12 @@ from passlib.context import CryptContext
 
 SECRET_KEY                  = os.getenv("JWT_SECRET_KEY", "muda-esta-chave-em-producao")
 ALGORITHM                   = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 8  # 8 horas
+ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 8 
 
 pwd_context   = CryptContext(schemes=["bcrypt"], deprecated="auto")
 bearer_scheme = HTTPBearer()
 
-# utilizadores em memória (simples para projeto académico)
-# em produção deviam estar na BD
+
 USERS = {
     "admin@municipalsentiment.pt": {
         "password": pwd_context.hash("admin123"),

@@ -12,9 +12,6 @@ from bertopic.representation import KeyBERTInspired
 
 
 BASE_DIR = Path(__file__).parent.parent
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 INPUT_FILES = [
     BASE_DIR / "data/keywords/news_keywords.json",
@@ -66,14 +63,10 @@ STOPWORDS_PT = [
     "forma", "âmbito",
     "nota", "imprensa", "comunicado",
     "afirmou", "referiu", "explicou", "adiantou", "adianta",
-
-    # ruído municipal/jornalístico
     "covilhã", "covilha", "notícias", "noticias", "município", "câmara",
 ]
 
-# ============================================================
-# JSON
-# ============================================================
+
 def load_json_file(path):
     path = Path(path)
 
@@ -92,9 +85,6 @@ def save_json_file(data, path):
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 
-# ============================================================
-# FILTRAR KEYWORDS RUINS
-# ============================================================
 
 def filter_keywords(keywords):
 
@@ -107,15 +97,12 @@ def filter_keywords(keywords):
         if not keyword:
             continue
 
-        # remover keywords demasiado curtas
         if len(keyword) <= 2:
             continue
 
-        # remover keywords com números
         if any(char.isdigit() for char in keyword):
             continue
 
-        # remover nomes próprios simples
         words = keyword.split()
 
         if len(words) == 1 and words[0][0].isupper():
@@ -125,27 +112,17 @@ def filter_keywords(keywords):
 
     return filtered
 
-# ============================================================
-# TEXTO FINAL PARA BERTopic
-# ============================================================
 
 def build_document_text(record):
-
     source = record.get("source", "")
-
     title = str(record.get("title_clean", "")).strip()
-
     clean_text = str(record.get("clean_text", "")).strip()
-
     keywords = record.get("keywords", [])
-
     filtered_keywords = filter_keywords(keywords)
-
     keyword_text = ", ".join(
         filtered_keywords[:TOP_N_KEYWORDS_FROM_RECORD]
     )
 
-    # NEWS
     if source == "news":
 
         final_text = f"""
@@ -155,7 +132,6 @@ def build_document_text(record):
 
         {keyword_text}
         """
-    # REDES SOCIAIS
     else:
 
         final_text = f"""
@@ -166,67 +142,40 @@ def build_document_text(record):
     return final_text.strip()
 
 
-# ============================================================
-# PROCESSAMENTO INCREMENTAL
-# ============================================================
-
 def get_existing_processed_ids(existing_results):
     ids = set()
 
     for item in existing_results:
         record_id = item.get("record_id")
         source = item.get("source", "")
-
         unique_id = f"{source}_{record_id}"
-
         ids.add(unique_id)
 
     return ids
 
 
-# ============================================================
-# MAIN
-# ============================================================
-
 def main():
     print("A CARREGAR DADOS")
 
     records = []
-
     for file_path in INPUT_FILES:
-
         current_records = load_json_file(file_path)
-
         print(f"\n{file_path}")
         print(f"Registos carregados: {len(current_records)}")
-
         records.extend(current_records)
 
     print(f"\nTOTAL DE REGISTOS: {len(records)}")
 
-    # ========================================================
-    # RESULTADOS EXISTENTES
-    # ========================================================
-
     existing_results = load_json_file(OUTPUT_RESULTS)
-
     processed_ids = get_existing_processed_ids(existing_results)
-
     print(f"Registos já processados: {len(processed_ids)}")
 
-    # ========================================================
-    # FILTRAR APENAS NOVOS
-    # ========================================================
 
     new_records = []
-
     for record in records:
-
         record_id = record.get("record_id")
         source = record.get("source", "")
-
         unique_id = f"{source}_{record_id}"
-
         if unique_id in processed_ids:
             continue
 
@@ -238,27 +187,14 @@ def main():
         print("\nNenhum novo registo para analisar.")
         return
 
-    # ========================================================
-    # LIMITADOR OPCIONAL
-    # ========================================================
 
     if MAX_TEXTS is not None:
         new_records = new_records[:MAX_TEXTS]
-
         print(f"\nA usar apenas {len(new_records)} textos")
 
-    # ========================================================
-    # DEVICE
-    # ========================================================
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
-
     print(f"\nDispositivo usado: {device}")
-
-    # ========================================================
-    # EMBEDDING MODEL
-    # ========================================================
-
     print("\n")
     print("A CARREGAR SENTENCE TRANSFORMER")
 
@@ -266,7 +202,6 @@ def main():
         MODELO_EMBEDDINGS,
         device=device
     )
-
 
     print("\nA CRIAR VECTORIZER")
 
@@ -276,27 +211,19 @@ def main():
         min_df=3
     )
 
-
     print("A CRIAR REPRESENTATION MODEL")
     representation_model = KeyBERTInspired()
-    # ========================================================
-    # DOCUMENTOS
-    # ========================================================
     print("A PREPARAR DOCUMENTOS")
 
     documents = []
-
     valid_records = []
 
     for record in tqdm(new_records):
-
         text = build_document_text(record)
-
         if len(text) < 10:
             continue
 
         documents.append(text)
-
         valid_records.append(record)
 
     print(f"\nDocumentos válidos: {len(documents)}")
@@ -304,10 +231,6 @@ def main():
     if not documents:
         print("\nNenhum documento válido.")
         return
-
-    # ========================================================
-    # UMAP
-    # ========================================================
 
     umap_model = UMAP(
         n_neighbors=10,
@@ -317,9 +240,6 @@ def main():
         random_state=42,
     )
 
-    # ========================================================
-    # HDBSCAN
-    # ========================================================
 
     hdbscan_model = HDBSCAN(
         min_cluster_size=MIN_TOPIC_SIZE,
@@ -329,9 +249,6 @@ def main():
         prediction_data=True,
     )
 
-    # ========================================================
-    # BERTopic
-    # ========================================================
     print("A CRIAR BERTopic")
 
     topic_model = BERTopic(
@@ -348,14 +265,9 @@ def main():
         min_topic_size=MIN_TOPIC_SIZE,
     )
 
-    # ========================================================
-    # FIT TRANSFORM
-    # ========================================================
     print("A TREINAR BERTopic")
 
     topics, probs = topic_model.fit_transform(documents)
-    # guardar coordenadas UMAP 2D para visualização
-    print("A calcular projeção UMAP 2D para visualização")
     umap_2d = UMAP(
         n_neighbors=10,
         n_components=2,
@@ -378,22 +290,13 @@ def main():
 
     save_json_file(umap_coords, BASE_DIR / "data/topics/umap_coords.json")
     print(f"Coordenadas UMAP guardadas: {len(umap_coords)}")
-
-    # ========================================================
-    # RESULTADOS
-    # ========================================================
-
     print("\n")
     print("A GUARDAR RESULTADOS")
 
     new_results = []
-
     for idx, record in enumerate(valid_records):
-
         topic_id = int(topics[idx])
-
         probability = None
-
         try:
             if probs[idx] is not None:
                 probability = float(max(probs[idx]))
@@ -401,13 +304,10 @@ def main():
             probability = None
 
         topic_keywords = []
-
         if topic_id != -1:
-
             topic_words = topic_model.get_topic(topic_id)
 
             if topic_words:
-
                 topic_keywords = [
                     word
                     for word, score in topic_words
@@ -425,33 +325,17 @@ def main():
 
         new_results.append(result)
 
-    # ========================================================
-    # JUNTAR COM RESULTADOS ANTIGOS
-    # ========================================================
 
     final_results = existing_results + new_results
-
     save_json_file(final_results, OUTPUT_RESULTS)
-
     print(f"Resultados guardados em:")
     print(OUTPUT_RESULTS)
 
-    # ========================================================
-    # INFO DOS TÓPICOS
-    # ========================================================
-
     topic_info_df = topic_model.get_topic_info()
-
     topic_info = topic_info_df.to_dict(orient="records")
-
     save_json_file(topic_info, TOPIC_INFO_OUTPUT)
-
     print(f"\nInformação dos tópicos guardada em:")
     print(TOPIC_INFO_OUTPUT)
-
-    # ========================================================
-    # GUARDAR MODELO
-    # ========================================================
 
     print("\n")
     print("A GUARDAR MODELO BERTopic")
@@ -462,7 +346,6 @@ def main():
     )
 
     Path(MODEL_OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
-
     topic_model.save(
         MODEL_OUTPUT_DIR,
         serialization="safetensors",
@@ -473,24 +356,16 @@ def main():
     print(f"\nModelo guardado em:")
     print(MODEL_OUTPUT_DIR)
 
-    # ========================================================
-    # ESTATÍSTICAS
-    # ========================================================
-
     print("\n")
     print("TOP TÓPICOS")
 
     topic_counter = Counter(topics)
-
     for topic_id, count in topic_counter.most_common(20):
-
         if topic_id == -1:
             continue
 
         topic_words = topic_model.get_topic(topic_id)
-
         if topic_words:
-
             topic_name = ", ".join(
                 word
                 for word, score in topic_words[:5]
@@ -503,29 +378,19 @@ def main():
         print(f"Total documentos: {count}")
         print(f"Keywords: {topic_name}")
 
-    # ========================================================
-    # EXEMPLOS
-    # ========================================================
 
     print("\n")
     print("EXEMPLOS")
-
     for idx in range(min(5, len(new_results))):
-
         item = new_results[idx]
-
         print(f"\nTITLE:")
         print(item["title_clean"])
-
         print(f"\nTOPIC ID:")
         print(item["topic_id"])
-
         print(f"\nPROBABILITY:")
         print(item["topic_probability"])
-
         print(f"\nTOPIC KEYWORDS:")
         print(", ".join(item["topic_keywords"]))
-
     print("BERTopic TERMINADO")
 
 

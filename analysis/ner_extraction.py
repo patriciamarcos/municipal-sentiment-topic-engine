@@ -9,9 +9,6 @@ import torch
 
 
 BASE_DIR = Path(__file__).parent.parent
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 INPUT_FILES = [
     BASE_DIR / "data/keywords/news_keywords.json",
@@ -21,11 +18,8 @@ INPUT_FILES = [
 ]
 
 OUTPUT_FILE = BASE_DIR / "data/ner/all_ner.json"
-
 MODEL_NAME = "Davlan/xlm-roberta-base-ner-hrl"
-
 MAX_TEXTS = None
-
 VALID_LABELS = [
     "PER",
     "ORG",
@@ -33,13 +27,8 @@ VALID_LABELS = [
     "MISC",
 ]
 
-# tamanho seguro para XLM-Roberta
 MAX_TOKENS = 400
-
-# mínimo de caracteres totais
 MIN_ENTITY_LENGTH = 3
-
-# mínimo de caracteres alfabéticos
 MIN_ENTITY_CHARS = 4
 
 ENTITY_NORMALIZATION = {
@@ -72,12 +61,8 @@ GENERIC_ENTITIES = {
     "serra", "presidente",
     "município da", "câmara da",
 }
-# ============================================================
-# JSON
-# ============================================================
 
 def load_json_file(path):
-
     path = Path(path)
 
     if not path.exists():
@@ -88,7 +73,6 @@ def load_json_file(path):
 
 
 def save_json_file(data, path):
-
     path = Path(path)
 
     path.parent.mkdir(
@@ -106,12 +90,7 @@ def save_json_file(data, path):
         )
 
 
-# ============================================================
-# TEXTO FINAL
-# ============================================================
-
 def build_ner_text(record):
-
     title = str(
         record.get("title_clean", "")
     ).strip()
@@ -129,10 +108,6 @@ def build_ner_text(record):
     return final_text.strip()
 
 
-# ============================================================
-# CHUNKS
-# ============================================================
-
 def split_text_into_chunks(
     text,
     tokenizer,
@@ -145,7 +120,6 @@ def split_text_into_chunks(
     )
 
     chunks = []
-
     for i in range(0, len(tokens), max_tokens):
 
         chunk_tokens = tokens[i:i + max_tokens]
@@ -160,22 +134,10 @@ def split_text_into_chunks(
     return chunks
 
 
-# ============================================================
-# LIMPEZA DE TEXTO
-# ============================================================
-
 def clean_entity_text(text):
-
-    # remover lixo sentencepiece
     text = text.replace("▁", " ")
-
-    # remover wordpieces
     text = text.replace("##", "")
-
-    # remover espaços duplicados
     text = " ".join(text.split())
-
-    # remover símbolos extremos
     text = text.strip(
         " ,.-:;()[]{}\"'`´"
     )
@@ -183,18 +145,9 @@ def clean_entity_text(text):
     return text.strip()
 
 
-# ============================================================
-# NORMALIZAÇÃO AUTOMÁTICA
-# ============================================================
-
 def normalize_entity(entity_text):
-
     entity_text = entity_text.strip()
-
-    # remover múltiplos espaços
     entity_text = " ".join(entity_text.split())
-
-    # remover acentos para comparação
     normalized = unicodedata.normalize(
         "NFKD",
         entity_text
@@ -206,23 +159,14 @@ def normalize_entity(entity_text):
     )
 
     normalized = normalized.lower()
-
     return normalized
 
 
-# ============================================================
-# DETETAR ENTIDADES FRAGMENTADAS
-# ============================================================
-
 def is_fragmented_entity(entity_text):
-
     words = entity_text.split()
-
-    # apenas uma sílaba pequena
     if len(entity_text) <= 4:
         return True
 
-    # terminações muito suspeitas
     suspicious_suffixes = [
         "ção",
         "ções",
@@ -230,7 +174,6 @@ def is_fragmented_entity(entity_text):
         "mento",
     ]
 
-    # fragmentos comuns
     bad_fragments = {
         "vilhã",
         "vilha",
@@ -253,9 +196,7 @@ def is_fragmented_entity(entity_text):
     if entity_text.lower() in bad_fragments:
         return True
 
-    # palavras muito pequenas
     short_words = 0
-
     for word in words:
 
         if len(word) <= 2:
@@ -264,7 +205,6 @@ def is_fragmented_entity(entity_text):
     if short_words >= len(words):
         return True
 
-    # entidade sem vogais suficientes
     letters = re.findall(
         r"[a-zà-ÿA-ZÀ-Ÿ]",
         entity_text
@@ -278,27 +218,17 @@ def is_fragmented_entity(entity_text):
     if len(letters) > 0:
 
         vowel_ratio = len(vowels) / len(letters)
-
         if vowel_ratio < 0.2:
             return True
 
     return False
 
 
-# ============================================================
-# VALIDAR ENTIDADE
-# ============================================================
-
 def is_valid_entity(entity_text):
-
     if not entity_text:
         return False
 
     entity_text = entity_text.strip()
-
-    # ========================================================
-    # TAMANHO MÍNIMO
-    # ========================================================
 
     alpha_chars = re.findall(
         r"[A-Za-zÀ-ÿ]",
@@ -308,16 +238,9 @@ def is_valid_entity(entity_text):
     if len(alpha_chars) < MIN_ENTITY_CHARS:
         return False
 
-    # ========================================================
-    # APENAS NÚMEROS
-    # ========================================================
 
     if entity_text.isdigit():
         return False
-
-    # ========================================================
-    # STOPWORDS / LIXO
-    # ========================================================
 
     invalid_terms = {
         "co",
@@ -361,36 +284,21 @@ def is_valid_entity(entity_text):
     if entity_text.lower() in invalid_terms:
         return False
 
-    # ========================================================
-    # MUITO CURTO E MINÚSCULO
-    # ========================================================
 
     if re.fullmatch(r"[a-zà-ÿ]+", entity_text.lower()):
 
         if len(entity_text) <= 4:
             return False
 
-    # ========================================================
-    # FRAGMENTOS ESTRANHOS
-    # ========================================================
-    # começa minúscula
     if entity_text[0].islower():
         return False
-
-    # ========================================================
-    # MUITOS SÍMBOLOS
-    # ========================================================
-
+    
     symbol_count = len(
         re.findall(r"[^A-Za-zÀ-ÿ0-9\s\-]", entity_text)
     )
 
     if symbol_count > 3:
         return False
-
-    # ========================================================
-    # UMA ÚNICA LETRA MAIÚSCULA
-    # ========================================================
 
     words = entity_text.split()
 
@@ -401,9 +309,6 @@ def is_valid_entity(entity_text):
 
     return True
 
-# ============================================================
-# REMOVER DUPLICADOS + NORMALIZAR
-# ============================================================
 def normalize_entity_text(text):
     key = text.lower().strip()
     return ENTITY_NORMALIZATION.get(key, text)
@@ -425,11 +330,8 @@ def remove_substring_duplicates(entities):
     return final
 
 def remove_duplicate_entities(entities):
-
     seen = set()
-
     final_entities = []
-
     for entity in entities:
 
         normalized_text = normalize_entity(
@@ -445,21 +347,13 @@ def remove_duplicate_entities(entities):
             continue
 
         seen.add(key)
-
         final_entities.append(entity)
 
     return final_entities
 
-
-# ============================================================
-# MAIN
-# ============================================================
-
 def main():
     print("A CARREGAR DADOS")
-
     records = []
-
     for file_path in INPUT_FILES:
 
         current_records = load_json_file(
@@ -479,10 +373,6 @@ def main():
         f"{len(records)}"
     )
 
-    # ========================================================
-    # LIMITADOR OPCIONAL
-    # ========================================================
-
     if MAX_TEXTS is not None:
 
         records = records[:MAX_TEXTS]
@@ -491,9 +381,6 @@ def main():
             f"A usar {len(records)} textos"
         )
 
-    # ========================================================
-    # DEVICE
-    # ========================================================
 
     device = 0 if torch.cuda.is_available() else -1
 
@@ -503,13 +390,9 @@ def main():
         f"{'cuda' if device == 0 else 'cpu'}"
     )
 
-    # ========================================================
-    # MODELO
-    # ========================================================
 
     print("\n")
     print("A CARREGAR MODELO NER")
-
     ner_pipeline = pipeline(
         "ner",
         model=MODEL_NAME,
@@ -520,29 +403,17 @@ def main():
 
     tokenizer = ner_pipeline.tokenizer
 
-    # ========================================================
-    # PROCESSAMENTO
-    # ========================================================
-
     print("\n")
     print("A EXTRAIR ENTIDADES")
-
     results = []
-
     entity_counter = Counter()
-
     label_counter = Counter()
-
     for record in tqdm(records):
 
         text = build_ner_text(record)
 
         if len(text) < 20:
             continue
-
-        # ====================================================
-        # CHUNKS
-        # ====================================================
 
         chunks = split_text_into_chunks(
             text,
@@ -551,13 +422,7 @@ def main():
         )
 
         entities = []
-
-        # ====================================================
-        # PROCESSAR CHUNKS
-        # ====================================================
-
         for chunk in chunks:
-
             try:
 
                 predictions = ner_pipeline(
@@ -568,13 +433,10 @@ def main():
 
                 print("\nERRO AO PROCESSAR CHUNK")
                 print(e)
-
                 continue
 
             for pred in predictions:
-
                 label = pred["entity_group"]
-
                 if label not in VALID_LABELS:
                     continue
 
@@ -587,9 +449,7 @@ def main():
                 ):
                     continue
 
-                # normalizar variantes para forma canónica
                 entity_text = normalize_entity_text(entity_text)
-
                 entity = {
                     "text": entity_text,
                     "label": label
@@ -597,19 +457,10 @@ def main():
 
                 entities.append(entity)
 
-        # ====================================================
-        # REMOVER DUPLICADOS
-        # ====================================================
-
         entities = remove_duplicate_entities(entities)
         entities = remove_substring_duplicates(entities)
 
-        # ====================================================
-        # CONTADORES
-        # ====================================================
-
         for entity in entities:
-
             entity_counter[
                 entity["text"]
             ] += 1
@@ -617,10 +468,6 @@ def main():
             label_counter[
                 entity["label"]
             ] += 1
-
-        # ====================================================
-        # RESULTADO FINAL
-        # ====================================================
 
         result = {
             "record_id": record.get(
@@ -644,10 +491,6 @@ def main():
 
         results.append(result)
 
-    # ========================================================
-    # GUARDAR RESULTADOS
-    # ========================================================
-
     print("\n")
     print("A GUARDAR RESULTADOS")
 
@@ -658,10 +501,6 @@ def main():
 
     print("Resultados guardados em:")
     print(OUTPUT_FILE)
-
-    # ========================================================
-    # ESTATÍSTICAS
-    # ========================================================
 
     print("\n")
     print("TOP ENTIDADES")
@@ -677,17 +516,11 @@ def main():
 
         print(f"{label} -> {count}")
 
-    # ========================================================
-    # EXEMPLOS
-    # ========================================================
-
     print("\n")
     print("EXEMPLOS")
 
     for idx in range(min(5, len(results))):
-
         item = results[idx]
-
         print("\nTITLE:")
         print(item["title_clean"])
 
@@ -707,11 +540,6 @@ def main():
                 )
 
     print("\nNER TERMINADO")
-
-
-# ============================================================
-# ENTRYPOINT
-# ============================================================
 
 if __name__ == "__main__":
     main()

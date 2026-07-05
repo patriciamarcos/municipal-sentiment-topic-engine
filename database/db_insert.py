@@ -5,9 +5,6 @@ from datetime import datetime
 from db_connection import get_connection
 
 BASE_DIR = Path(__file__).parent.parent
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 MERGED_FILE = BASE_DIR / "data/merged/all_merged.json"
 RAW_FILES = {
@@ -17,20 +14,14 @@ RAW_FILES = {
     "youtube": BASE_DIR / "data/raw/youtube_posts.json",
 }
 
-# mapeamento de source para SNetwork_ID
-# deve corresponder aos IDs inseridos na tabela SocialNetwork
 SNETWORK_MAP = {
-    "news":     3,  # GoogleNews
-    "reddit":   2,  # Reddit
-    "bluesky":  1,  # Bluesky
-    "youtube":  4,  # YouTube
-    "facebook": 5,  # Facebook
+    "news":     3,
+    "reddit":   2,
+    "bluesky":  1,
+    "youtube":  4,
+    "facebook": 5,
 }
 
-
-# ============================================================
-# JSON
-# ============================================================
 
 def load_json_file(path):
     path = Path(path)
@@ -43,9 +34,6 @@ def load_json_file(path):
         return json.load(f)
 
 
-# ============================================================
-# NORMALIZAÇÃO
-# ============================================================
 
 def normalize_platform_id(source, platform_id):
     if source == "youtube" and platform_id and not platform_id.startswith("http"):
@@ -81,9 +69,6 @@ def safe_int(value, default=0):
         return default
 
 
-# ============================================================
-# INSERÇÃO
-# ============================================================
 
 def get_or_create_user(cursor, handle, snetwork_id):
     if not handle:
@@ -304,13 +289,11 @@ def insert_topic(cursor, text_document_id, merged):
 
     topic_keywords = merged.get("topic_keywords", [])
 
-    # apagar tópico existente para este documento
     cursor.execute("""
         DELETE FROM [dbo].[TopicAssignment]
         WHERE [TextDocument_ID] = ?
     """, text_document_id)
 
-    # inserir tópico atualizado
     cursor.execute("""
         INSERT INTO [dbo].[TopicAssignment] (
             [TextDocument_ID],
@@ -328,9 +311,6 @@ def insert_topic(cursor, text_document_id, merged):
         "1.0",
     )
 
-# ============================================================
-# VERIFICAR JÁ INSERIDOS
-# ============================================================
 
 def get_existing_platform_ids(cursor):
     cursor.execute(
@@ -339,17 +319,12 @@ def get_existing_platform_ids(cursor):
     return {row[0] for row in cursor.fetchall()}
 
 
-# ============================================================
-# MAIN
-# ============================================================
-
 def main():
     print("A CARREGAR DADOS")
 
     merged_records = load_json_file(MERGED_FILE)
     print(f"Registos merged: {len(merged_records)}")
 
-    # índice de raw records por platform_id para obter texto original
     raw_index = {}
     for source, path in RAW_FILES.items():
         records = load_json_file(path)
@@ -361,11 +336,6 @@ def main():
             raw_index[pid] = record
 
     print(f"Registos raw indexados: {len(raw_index)}")
-
-    # ========================================================
-    # LIGAÇÃO
-    # ========================================================
-
     print("\nA LIGAR À BASE DE DADOS")
 
     conn = get_connection()
@@ -376,17 +346,8 @@ def main():
 
     cursor = conn.cursor()
 
-    # ========================================================
-    # VERIFICAR JÁ INSERIDOS
-    # ========================================================
-
     existing_ids = get_existing_platform_ids(cursor)
     print(f"Posts já existentes na BD: {len(existing_ids)}")
-
-    # ========================================================
-    # INSERÇÃO
-    # ========================================================
-
     print("\nA INSERIR DADOS")
 
     inserted      = 0
@@ -400,11 +361,9 @@ def main():
             merged.get("platform_id", "")
         )
 
-        # se já existe, apenas atualizar tópico
         if platform_id in existing_ids:
             skipped += 1
 
-            # atualizar tópico se existir no merged
             topics_record = merged if merged.get("topic_id") is not None else None
             if topics_record:
                 try:
@@ -432,32 +391,16 @@ def main():
             errors += 1
             continue
 
-        # raw record para texto original
         raw_record = raw_index.get(platform_id, {})
 
         try:
-            # ================================================
-            # USER
-            # ================================================
             author  = raw_record.get("author") or None
             user_id = get_or_create_user(cursor, author, snetwork_id)
-
-            # ================================================
-            # POST
-            # ================================================
             raw_record["source_name"] = merged.get("source_name")
             post_id = insert_post(cursor, raw_record or merged, snetwork_id, user_id)
-
-            # ================================================
-            # COMENTARIOS
-            # ================================================
             comments = raw_record.get("comments", [])
             for comment in comments:
                 insert_comment(cursor, comment, post_id, snetwork_id)
-
-            # ================================================
-            # TEXT DOCUMENT
-            # ================================================
             original_text = raw_record.get("text", "")
             clean_text    = merged.get("title", "") or original_text
 
@@ -470,9 +413,6 @@ def main():
                 merged.get("created_at"),
             )
 
-            # ================================================
-            # ANÁLISES
-            # ================================================
             insert_sentiment(cursor, text_document_id, merged)
             insert_emotion(cursor, text_document_id, merged)
             insert_keywords(cursor, text_document_id, merged.get("keywords", []))
@@ -494,21 +434,14 @@ def main():
             errors += 1
             continue
 
-    # ========================================================
-    # ESTATÍSTICAS
-    # ========================================================
 
     print(f"\nINSERÇÃO CONCLUÍDA")
     print(f"Inseridos:  {inserted}")
     print(f"Ignorados:  {skipped}")
     print(f"Erros:      {errors}")
 
-    # ========================================================
-    # VALIDAÇÃO
-    # ========================================================
 
     print("\nVALIDAÇÃO")
-
     cursor.execute("SELECT COUNT(*) FROM [dbo].[Post]")
     print(f"Posts na BD:              {cursor.fetchone()[0]}")
 
@@ -537,10 +470,6 @@ def main():
 
     print("\nDB INSERT TERMINADO")
 
-
-# ============================================================
-# ENTRYPOINT
-# ============================================================
 
 if __name__ == "__main__":
     main()

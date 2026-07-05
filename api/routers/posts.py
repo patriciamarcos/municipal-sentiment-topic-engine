@@ -17,7 +17,6 @@ def get_posts(
     pagina: int = Query(1, ge=1),
     limite: int = Query(20, le=100),
 ):
-    """Lista de posts com filtros."""
     conn   = get_connection()
     cursor = conn.cursor()
 

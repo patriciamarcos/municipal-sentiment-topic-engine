@@ -8,9 +8,6 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
 
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 UMAP_COORDS_FILE = BASE_DIR / "data/topics/umap_coords.json"
 TOPIC_INFO_FILE  = BASE_DIR / "data/topics/topic_info.json"
@@ -25,10 +22,6 @@ COLORS = [
 
 OUTLIER_COLOR = "#000000"
 
-# ============================================================
-# JSON
-# ============================================================
-
 def load_json(path):
     path = Path(path)
     if not path.exists():
@@ -37,9 +30,6 @@ def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-# ============================================================
-# MAIN
-# ============================================================
 
 def main():
     print("A CARREGAR DADOS")
@@ -55,14 +45,12 @@ def main():
         if t["Topic"] != -1
     }
 
-    # extrair arrays
     xs        = np.array([r["x"] for r in coords_data])
     ys        = np.array([r["y"] for r in coords_data])
     topic_ids = [r["topic_id"] for r in coords_data]
 
     unique_topics = sorted(set(topic_ids))
 
-    # mapa de cores
     color_map = {}
     color_idx = 0
     for t in unique_topics:
@@ -72,17 +60,12 @@ def main():
             color_map[t] = COLORS[color_idx % len(COLORS)]
             color_idx += 1
 
-    # ========================================================
-    # PLOT
-    # ========================================================
-
     print("A gerar visualização")
 
     fig, ax = plt.subplots(figsize=(14, 8), dpi=150)
     fig.patch.set_facecolor("white")
     ax.set_facecolor("#F8F9FA")
 
-    # outliers primeiro
     outlier_mask = np.array([t == -1 for t in topic_ids])
     if outlier_mask.any():
         ax.scatter(
@@ -91,7 +74,6 @@ def main():
             linewidths=0, zorder=1,
         )
 
-    # tópicos
     for topic_id in unique_topics:
         if topic_id == -1:
             continue
@@ -103,7 +85,6 @@ def main():
 
         ax.scatter(x, y, c=col, s=40, alpha=0.75, linewidths=0, zorder=2)
 
-        # label no centroide
         cx, cy = np.median(x), np.median(y)
         ax.text(
             cx, cy, f"T{topic_id}",
@@ -118,9 +99,6 @@ def main():
             zorder=3,
         )
 
-    # ========================================================
-    # LEGENDA
-    # ========================================================
 
     legend_patches = []
     for topic_id in sorted([t for t in unique_topics if t != -1]):

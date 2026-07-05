@@ -3,9 +3,6 @@ from pathlib import Path
 
 
 BASE_DIR = Path(__file__).parent
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 SENTIMENT_FILE = BASE_DIR / "data/sentiment/all_sentiment.json"
 EMOTION_FILE   = BASE_DIR / "data/emotion/all_emotion.json"
@@ -25,9 +22,6 @@ def normalize_platform_id(source, platform_id):
     if source == "youtube" and platform_id and not platform_id.startswith("http"):
         return f"https://www.youtube.com/watch?v={platform_id}"
     return platform_id
-# ============================================================
-# JSON
-# ============================================================
 
 def load_json_file(path):
     path = Path(path)
@@ -49,14 +43,6 @@ def save_json_file(data, path):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
-# ============================================================
-# NORMALIZAÇÃO DE IDs
-# ============================================================
-
-# os ficheiros de keywords/ner/topics usam record_id = "source_platform_id"
-# os ficheiros de sentiment/emotion usam platform_id diretamente
-# esta função extrai o platform_id a partir do record_id
-
 def extract_platform_id(record_id, source):
     prefix = f"{source}_"
 
@@ -65,10 +51,6 @@ def extract_platform_id(record_id, source):
 
     return record_id
 
-
-# ============================================================
-# CONSTRUIR ÍNDICES
-# ============================================================
 
 def build_sentiment_index(records):
     index = {}
@@ -140,16 +122,8 @@ def build_topics_index(records):
     return index
 
 
-# ============================================================
-# MAIN
-# ============================================================
-
 def main():
     print("A CARREGAR DADOS")
-
-    # ========================================================
-    # CARREGAR TODOS OS FICHEIROS
-    # ========================================================
 
     sentiment_records = load_json_file(SENTIMENT_FILE)
     print(f"Sentimentos: {len(sentiment_records)}")
@@ -168,10 +142,6 @@ def main():
     topics_records = load_json_file(TOPICS_FILE)
     print(f"Tópicos: {len(topics_records)}")
 
-    # ========================================================
-    # CONSTRUIR ÍNDICES
-    # ========================================================
-
     print("\nA CONSTRUIR ÍNDICES")
 
     sentiment_index = build_sentiment_index(sentiment_records)
@@ -179,7 +149,6 @@ def main():
     ner_index       = build_ner_index(ner_records)
     topics_index    = build_topics_index(topics_records)
 
-    # índice de keywords (pode haver múltiplos ficheiros, mesmo record_id)
     keywords_index = {}
     for record in keywords_records:
         record_id = record.get("record_id", "")
@@ -197,11 +166,6 @@ def main():
     print(f"Índice NER:         {len(ner_index)}")
     print(f"Índice tópicos:     {len(topics_index)}")
 
-    # ========================================================
-    # MERGE
-    # ========================================================
-
-    # usa sentiment como âncora — tem todos os documentos
     print("\nA FAZER MERGE")
 
     merged_results = []
@@ -217,10 +181,6 @@ def main():
         source      = sentiment_record.get("source", "")
         key         = f"{source}_{platform_id}"
 
-        # ====================================================
-        # SENTIMENTOS
-        # ====================================================
-
         sentiment_data = {
             "sentiment":         sentiment_record.get("sentiment"),
             "sentiment_score":   sentiment_record.get("sentiment_score"),
@@ -229,10 +189,6 @@ def main():
             "positive":          sentiment_record.get("positive"),
             "comments_polarity": sentiment_record.get("comments_polarity"),
         }
-
-        # ====================================================
-        # EMOÇÕES
-        # ====================================================
 
         emotion_record = emotion_index.get(key, {})
 
@@ -246,10 +202,6 @@ def main():
             "emotion_scores":   emotion_record.get("emotion_scores", {}),
         }
 
-        # ====================================================
-        # KEYWORDS
-        # ====================================================
-
         keywords_record = keywords_index.get(key, {})
 
         if keywords_record:
@@ -260,10 +212,6 @@ def main():
             "source_name": keywords_record.get("source_name"),
         }
 
-        # ====================================================
-        # NER
-        # ====================================================
-
         ner_record = ner_index.get(key, {})
 
         if ner_record:
@@ -272,10 +220,6 @@ def main():
         ner_data = {
             "entities": ner_record.get("entities", []),
         }
-
-        # ====================================================
-        # TÓPICOS
-        # ====================================================
 
         topics_record = topics_index.get(key, {})
 
@@ -287,10 +231,6 @@ def main():
             "topic_probability": topics_record.get("topic_probability"),
             "topic_keywords":    topics_record.get("topic_keywords", []),
         }
-
-        # ====================================================
-        # RESULTADO FINAL
-        # ====================================================
 
         merged = {
             "platform_id": platform_id,
@@ -306,19 +246,9 @@ def main():
 
         merged_results.append(merged)
 
-    # ========================================================
-    # GUARDAR
-    # ========================================================
-
     print("\nA GUARDAR RESULTADOS")
-
     save_json_file(merged_results, OUTPUT_FILE)
-
     print(f"Resultados guardados em:\n{OUTPUT_FILE}")
-
-    # ========================================================
-    # ESTATÍSTICAS
-    # ========================================================
 
     total = len(merged_results)
 
@@ -328,14 +258,9 @@ def main():
     print(f"Com NER:       {matched_ner} ({round(matched_ner/total*100, 1)}%)")
     print(f"Com tópicos:   {matched_topics} ({round(matched_topics/total*100, 1)}%)")
 
-    # ========================================================
-    # EXEMPLOS
-    # ========================================================
-
     print("\nEXEMPLOS")
 
     for item in merged_results[:3]:
-        print("\n----------------")
         print(item.get("title", ""))
         print(f"Sentimento:  {item['sentiment']} (score: {item['sentiment_score']})")
         print(f"Emoção:      {item['dominant_emotion']}")
@@ -346,10 +271,6 @@ def main():
 
     print("\nMERGE TERMINADO")
 
-
-# ============================================================
-# ENTRYPOINT
-# ============================================================
 
 if __name__ == "__main__":
     main()

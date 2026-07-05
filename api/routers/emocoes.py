@@ -10,7 +10,6 @@ def get_distribuicao(
     data_inicio: Optional[str] = Query(None),
     data_fim: Optional[str] = Query(None),
 ):
-    """Distribuição de emoções dominantes."""
     conn   = get_connection()
     cursor = conn.cursor()
 
@@ -57,7 +56,6 @@ def get_emocoes_ativas(
     fonte: Optional[str] = Query(None),
     excluir_neutral: bool = Query(True, description="Excluir NEUTRAL das emoções ativas"),
 ):
-    """Distribuição de emoções ativas (incluindo secundárias)."""
     conn   = get_connection()
     cursor = conn.cursor()
 
@@ -90,7 +88,6 @@ def get_emocoes_ativas(
 
 @router.get("/por-topico")
 def get_emocoes_por_topico():
-    """Distribuição de emoções dominantes por tópico."""
     conn   = get_connection()
     cursor = conn.cursor()
 

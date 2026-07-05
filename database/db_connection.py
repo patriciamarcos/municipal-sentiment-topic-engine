@@ -4,9 +4,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 DB_SERVER   = os.getenv("DB_SERVER")
 DB_NAME     = os.getenv("DB_NAME")
@@ -23,14 +20,7 @@ CONNECTION_STRING = (
 )
 
 
-# ============================================================
-# LIGAÇÃO
-# ============================================================
-
 def get_connection():
-    """
-    Cria e devolve uma ligação à base de dados.
-    """
     try:
         conn = pyodbc.connect(CONNECTION_STRING)
         return conn
@@ -42,11 +32,7 @@ def get_connection():
 
 
 def test_connection():
-    """
-    Testa a ligação à base de dados.
-    """
     print(f"A ligar a: {DB_SERVER} / {DB_NAME}")
-
     conn = get_connection()
 
     if conn is None:
@@ -69,10 +55,6 @@ def test_connection():
     finally:
         conn.close()
 
-
-# ============================================================
-# ENTRYPOINT
-# ============================================================
 
 if __name__ == "__main__":
     test_connection()

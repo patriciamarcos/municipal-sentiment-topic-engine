@@ -9,9 +9,6 @@ from tqdm import tqdm
 
 
 BASE_DIR = Path(__file__).parent.parent
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 FILES_TO_PROCESS = [
     {
@@ -48,12 +45,8 @@ FILES_TO_PROCESS = [
 MODELO_KEYBERT = "paraphrase-multilingual-MiniLM-L12-v2"
 MOSTRAR_EXEMPLOS = 2
 
-# ============================================================
-# BLACKLIST
-# ============================================================
 
 BLACKLIST_KEYWORDS = [
-    # locais/fontes
     "covilhã",
     "covilha",
     "beira interior",
@@ -62,8 +55,6 @@ BLACKLIST_KEYWORDS = [
     "câmara municipal",
     "presidente câmara",
     "cm covilhã",
-
-    # jornais/fontes
     "notícias",
     "noticias",
     "rádio",
@@ -80,8 +71,6 @@ BLACKLIST_KEYWORDS = [
     "sapo",
     "zerozero.pt",
     "universidade da beira",
-
-    # lixo editorial
     "publicação comentários",
     "artigos espaço comentário",
     "espaço comentário",
@@ -100,13 +89,9 @@ BLACKLIST_KEYWORDS = [
     "considera essencial reflexão debate",
     "livre veiculação opiniões",
     "conteúdos comentários são",
-
-    # futebol spam
     "goal",
     "scores for",
     "fulltime",
-
-    # genéricos
     "candidato",
     "futebol",
     "data",
@@ -205,11 +190,6 @@ FINAIS_INVALIDOS = [
     "estão",
 ]
 
-
-# ============================================================
-# JSON
-# ============================================================
-
 def load_json_file(file_path):
     file_path = Path(file_path)
 
@@ -223,7 +203,6 @@ def load_json_file(file_path):
 
 
 def load_existing_keywords(output_path):
-
     output_path = Path(output_path)
 
     if not output_path.exists():
@@ -240,23 +219,18 @@ def load_existing_keywords(output_path):
 
 def save_json_file(data, output_path):
     output_path = Path(output_path)
-
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(output_path, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 
-# ============================================================
-# LIMPEZA DE TEXTO
-# ============================================================
 
 def normalize_text(text):
     text = str(text or "")
     text = re.sub(r"http\S+|www\S+", " ", text)
     text = re.sub(r"\S+@\S+", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
-
     return text
 
 
@@ -296,9 +270,6 @@ def texto_tem_ruido(texto):
 
     return any(t in texto for t in termos_ruido)
 
-# ============================================================
-# QUALIDADE DAS KEYWORDS
-# ============================================================
 
 def keyword_valida(keyword):
     keyword = keyword.lower().strip()
@@ -336,7 +307,6 @@ def keyword_valida(keyword):
 
 def keyword_tem_qualidade(keyword):
     keyword_lower = keyword.lower().strip()
-
     palavras = keyword_lower.split()
 
     if len(keyword_lower) < 4:
@@ -359,9 +329,6 @@ def keyword_tem_qualidade(keyword):
 
     return True
 
-# ============================================================
-# EXTRAÇÃO
-# ============================================================
 
 def extract_keywords(text, model, top_n=10):
     keywords = model.extract_keywords(
@@ -404,10 +371,6 @@ def extract_keywords(text, model, top_n=10):
     return final_keywords
 
 
-# ============================================================
-# PROCESSAMENTO
-# ============================================================
-
 def process_record(record, model, top_n=10, min_chars=80):
     text = str(record.get("clean_text", "")).strip()
     text = normalize_text(text)
@@ -440,9 +403,6 @@ def process_record(record, model, top_n=10, min_chars=80):
         "source_name": record.get("source_name"),
     }
 
-# ============================================================
-# ESTATÍSTICAS
-# ============================================================
 
 def show_statistics(results):
     keyword_counter = Counter()
@@ -475,9 +435,6 @@ def show_examples(results, limit=5):
             print(f"- {kw['keyword']} ({kw['score']})")
 
 
-# ============================================================
-# MAIN
-# ============================================================
 def process_file(file_config, model):
 
     input_path = Path(file_config["input_path"])
@@ -490,12 +447,8 @@ def process_file(file_config, model):
     print(f"PROCESSAMENTO -> {file_config['name'].upper()}")
 
     records = load_json_file(input_path)
-
     print(f"\nRegistos carregados: {len(records)}")
 
-    # ============================================================
-    # CARREGAR RESULTADOS EXISTENTES
-    # ============================================================
 
     existing_results = load_existing_keywords(
         file_config["output_path"]
@@ -508,14 +461,9 @@ def process_file(file_config, model):
 
     print(f"Registos já processados: {len(processed_ids)}")
 
-    # ============================================================
-    # PROCESSAMENTO INCREMENTAL
-    # ============================================================
 
     new_results = []
-
     skipped_existing = 0
-
     for record in tqdm(records):
 
         record_id = record.get("record_id")
@@ -534,9 +482,6 @@ def process_file(file_config, model):
         if processed is not None:
             new_results.append(processed)
 
-    # ============================================================
-    # JUNTAR RESULTADOS
-    # ============================================================
 
     final_results = existing_results + new_results
 
@@ -548,11 +493,9 @@ def process_file(file_config, model):
     print(f"\nRegistos já existentes ignorados: {skipped_existing}")
     print(f"Novos registos processados: {len(new_results)}")
     print(f"Total acumulado: {len(final_results)}")
-
     print(f"\nGuardado em: {file_config['output_path']}")
 
     show_statistics(final_results)
-
     show_examples(new_results, limit=MOSTRAR_EXEMPLOS)
 
 

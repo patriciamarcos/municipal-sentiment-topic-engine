@@ -50,10 +50,6 @@ SCRAPING_CORRECTIONS = {
 
 
 def normalize_unicode(text):
-    """
-    Normaliza caracteres Unicode sem remover acentos.
-    Mantém caracteres portugueses como ç, ã, õ, á, é, í, ó, ú.
-    """
     if text is None:
         return ""
 
@@ -62,12 +58,6 @@ def normalize_unicode(text):
 
 
 def decode_html_entities(text):
-    """
-    Converte entidades HTML para texto normal.
-    Exemplo:
-    &amp; -> &
-    &quot; -> "
-    """
     if text is None:
         return ""
 
@@ -75,10 +65,6 @@ def decode_html_entities(text):
 
 
 def normalize_quotes_and_dashes(text):
-    """
-    Normaliza aspas, apóstrofos, travessões e hífens especiais.
-    Isto ajuda a evitar variações causadas por scraping.
-    """
     replacements = {
         "“": '"',
         "”": '"',
@@ -101,55 +87,29 @@ def normalize_quotes_and_dashes(text):
 
 
 def remove_urls(text):
-    """
-    Remove URLs normais e alguns URLs mal formatados que aparecem no scraping.
-    """
     text = re.sub(r"https?://\S+|www\.\S+", " ", text)
-
-    # Alguns textos extraídos aparecem como:
-    # httpsdocs.google.com...
-    # httpsforms.gle...
-    # httpspreview.redd.it...
     text = re.sub(r"\bhttps\S+", " ", text)
 
     return text
 
 
 def remove_emails(text):
-    """
-    Remove emails.
-    """
     return re.sub(r"\b\S+@\S+\.\S+\b", " ", text)
 
 
 def remove_mentions(text):
-    """
-    Remove menções de redes sociais, como @utilizador.
-    """
     return re.sub(r"@\w+", " ", text)
 
 
 def clean_hashtags(text):
-    """
-    Remove o símbolo #, mas mantém a palavra.
-    Exemplo:
-    #Covilhã -> Covilhã
-    """
     return re.sub(r"#(\w+)", r"\1", text)
 
 
 def remove_extra_whitespace(text):
-    """
-    Remove espaços repetidos, tabs e quebras excessivas.
-    """
     return re.sub(r"\s+", " ", text).strip()
 
 
 def fix_known_scraping_errors(text):
-    """
-    Corrige erros específicos observados no scraping.
-    Esta função pode crescer à medida que fores encontrando novos problemas.
-    """
     for wrong, right in SCRAPING_CORRECTIONS.items():
         text = text.replace(wrong, right)
 
@@ -171,26 +131,17 @@ def remove_news_source_from_title(title):
 
 
 def is_noise_text(text):
-    """
-    Verifica se o texto parece ser ruído de scraping.
-    """
     text_lower = str(text or "").lower()
 
     return any(pattern in text_lower for pattern in NOISE_PATTERNS)
 
 
 def is_too_short(text, min_chars=30):
-    """
-    Verifica se o texto é demasiado curto para análise.
-    """
     text = str(text or "").strip()
     return len(text) < min_chars
 
 
 def remove_repeated_title_from_text(title, body):
-    """
-    Evita duplicar o título se o corpo do texto já começar com o título.
-    """
     title = str(title or "").strip()
     body = str(body or "").strip()
 
@@ -207,14 +158,6 @@ def remove_repeated_title_from_text(title, body):
 
 
 def clean_text_basic(text):
-    """
-    Limpeza geral e segura para NLP.
-
-    Não remove acentos.
-    Não transforma tudo em minúsculas.
-    Não remove pontuação importante.
-    Isto é importante para NER e modelos de linguagem.
-    """
     text = normalize_unicode(text)
     text = decode_html_entities(text)
     text = normalize_quotes_and_dashes(text)
@@ -229,13 +172,6 @@ def clean_text_basic(text):
 
 
 def validate_clean_text(clean_text, min_chars=30):
-    """
-    Valida se o texto limpo pode ser usado para análise.
-
-    Devolve:
-    - True/False
-    - motivo de rejeição, se existir
-    """
     if not clean_text:
         return False, "empty_text"
 
@@ -249,9 +185,6 @@ def validate_clean_text(clean_text, min_chars=30):
 
 
 def get_record_source(record):
-    """
-    Obtém a fonte/plataforma do registo.
-    """
     return (
         record.get("source")
         or record.get("Fonte")
@@ -260,16 +193,10 @@ def get_record_source(record):
 
 
 def get_record_platform_id(record):
-    """
-    Obtém o ID externo do registo, quando existe.
-    """
     return str(record.get("platform_id", "") or "").strip()
 
 
 def get_record_title(record):
-    """
-    Obtém o título do registo, aceitando campos em inglês e português.
-    """
     return (
         record.get("title")
         or record.get("Título")
@@ -278,9 +205,6 @@ def get_record_title(record):
 
 
 def get_record_text(record):
-    """
-    Obtém o texto principal do registo, aceitando vários nomes de campo.
-    """
     return (
         record.get("text")
         or record.get("Texto")
@@ -293,9 +217,6 @@ def get_record_text(record):
 
 
 def get_record_author(record):
-    """
-    Obtém o autor do registo.
-    """
     return (
         record.get("author")
         or record.get("Autor")
@@ -305,9 +226,6 @@ def get_record_author(record):
 
 
 def get_record_created_at(record):
-    """
-    Obtém a data de criação/publicação do registo.
-    """
     return (
         record.get("created_at")
         or record.get("Data")
@@ -316,9 +234,6 @@ def get_record_created_at(record):
 
 
 def get_record_url(record):
-    """
-    Obtém o URL do registo.
-    """
     return (
         record.get("url")
         or record.get("URL")
@@ -327,9 +242,6 @@ def get_record_url(record):
 
 
 def get_like_count(record):
-    """
-    Obtém likes/upvotes de acordo com a estrutura do ficheiro.
-    """
     metrics = record.get("metrics", {})
 
     if isinstance(metrics, dict):
@@ -339,9 +251,6 @@ def get_like_count(record):
 
 
 def get_reply_count(record):
-    """
-    Obtém número de respostas/comentários de acordo com a estrutura do ficheiro.
-    """
     metrics = record.get("metrics", {})
 
     if isinstance(metrics, dict):
@@ -351,14 +260,6 @@ def get_reply_count(record):
 
 
 def generate_record_id(record):
-    """
-    Gera um identificador único para cada registo.
-
-    Prioridade:
-    1. source + platform_id
-    2. source + url
-    3. hash baseado em source + título + texto
-    """
     source = str(get_record_source(record) or "").strip()
     platform_id = get_record_platform_id(record)
     url = str(get_record_url(record) or "").strip()
@@ -377,14 +278,6 @@ def generate_record_id(record):
 
 
 def remove_duplicate_records(records):
-    """
-    Remove duplicados do ficheiro raw ANTES da limpeza.
-
-    Critério:
-    - mesmo record_id = duplicado
-
-    Mantém apenas a primeira ocorrência.
-    """
     unique_records = []
     seen_ids = set()
     duplicate_count = 0
@@ -443,13 +336,7 @@ def clean_news_record(record, min_chars=30):
 
 
 def clean_post_record(record, min_chars=30):
-    """
-    Limpa um post genérico de rede social.
-    Pode ser usado para Bluesky, Reddit, Facebook, etc.
-    Aceita campos em inglês e português.
-    """
     record_id = generate_record_id(record)
-
     source = get_record_source(record)
     platform_id = get_record_platform_id(record)
     title = get_record_title(record)
@@ -484,11 +371,6 @@ def clean_post_record(record, min_chars=30):
 
 
 def clean_comment_record(record, min_chars=10):
-    """
-    Limpa comentários/respostas.
-    O min_chars pode ser mais baixo porque comentários costumam ser curtos.
-    Esta função é para comentários já separados num ficheiro próprio.
-    """
     record_id = generate_record_id(record)
 
     original_text = (
@@ -502,7 +384,6 @@ def clean_comment_record(record, min_chars=10):
     )
 
     clean_text = clean_text_basic(original_text)
-
     is_valid, reason = validate_clean_text(clean_text, min_chars=min_chars)
 
     if not is_valid:
@@ -537,18 +418,6 @@ def clean_comment_record(record, min_chars=10):
 
 
 def clean_records(records, record_type="news", min_chars=30):
-    """
-    Limpa uma lista de registos.
-
-    record_type pode ser:
-    - 'news'
-    - 'post'
-    - 'comment'
-
-    Devolve:
-    - lista de registos limpos
-    - lista de registos ignorados
-    """
     cleaned_records = []
     skipped_records = []
 
@@ -582,10 +451,6 @@ def clean_records(records, record_type="news", min_chars=30):
 
 
 def load_json_file(input_path):
-    """
-    Carrega um ficheiro JSON.
-    Assume que o ficheiro contém uma lista de registos.
-    """
     input_path = Path(input_path)
 
     with open(input_path, "r", encoding="utf-8") as file:
@@ -603,9 +468,6 @@ def load_json_file(input_path):
 
 
 def save_json_file(data, output_path):
-    """
-    Guarda uma lista de dicionários num ficheiro JSON.
-    """
     output_path = Path(output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -620,10 +482,7 @@ def clean_json_file(
     record_type="news",
     min_chars=30
 ):
-    """
-    Limpa todos os registos de um ficheiro JSON.
-    Esta função é útil para testes, mas reprocessa tudo sempre.
-    """
+
     records = load_json_file(input_path)
 
     cleaned_records, skipped_records = clean_records(
@@ -635,7 +494,7 @@ def clean_json_file(
     save_json_file(cleaned_records, output_path)
     save_json_file(skipped_records, skipped_output_path)
 
-    print("===== LIMPEZA CONCLUÍDA =====")
+    print("LIMPEZA CONCLUÍDA")
     print(f"Ficheiro de entrada: {input_path}")
     print(f"Total de registos encontrados: {len(records)}")
     print(f"Registos limpos válidos: {len(cleaned_records)}")
@@ -645,18 +504,6 @@ def clean_json_file(
 
 
 def clean_json_file_incremental(input_path, output_path, skipped_output_path, record_type="news", min_chars=30):
-    """
-    Limpa apenas registos novos.
-
-    Lê:
-    - ficheiro original atualizado
-    - ficheiro limpo acumulado, se existir
-    - ficheiro de ignorados acumulado, se existir
-
-    Guarda:
-    - ficheiro limpo acumulado atualizado
-    - ficheiro de ignorados acumulado atualizado
-    """
     raw_records = load_json_file(input_path)
 
     unique_raw_records, duplicate_count = remove_duplicate_records(raw_records)
@@ -736,7 +583,7 @@ def clean_json_file_incremental(input_path, output_path, skipped_output_path, re
     save_json_file(final_cleaned_records, output_path)
     save_json_file(final_skipped_records, skipped_output_path)
 
-    print("===== LIMPEZA INCREMENTAL CONCLUÍDA =====")
+    print("LIMPEZA INCREMENTAL CONCLUÍDA")
     print(f"Ficheiro de entrada: {input_path}")
     print(f"Total de registos no ficheiro original: {len(raw_records)}")
     print(f"Duplicados removidos do raw: {duplicate_count}")
@@ -751,10 +598,6 @@ def clean_json_file_incremental(input_path, output_path, skipped_output_path, re
 
 
 def clean_multiple_json_files(files_to_clean):
-    """
-    Limpa vários ficheiros JSON usando a mesma lógica.
-    Cada ficheiro pode ter um tipo diferente: news, post ou comment.
-    """
     for file_config in files_to_clean:
         input_path = file_config["input_path"]
 
@@ -779,10 +622,6 @@ def clean_multiple_json_files(files_to_clean):
 
 
 def show_examples_from_json(file_path, limit=2):
-    """
-    Mostra alguns exemplos de um ficheiro JSON no terminal.
-    Serve para validares rapidamente os resultados da limpeza.
-    """
     if not Path(file_path).exists():
         print(f"Ficheiro não encontrado: {file_path}")
         return
@@ -855,14 +694,14 @@ if __name__ == "__main__":
 
     clean_multiple_json_files(FILES_TO_CLEAN)
 
-    print("\n\n===== EXEMPLOS DE NOTÍCIAS LIMPAS =====")
+    print("\n\nEXEMPLOS DE NOTÍCIAS LIMPAS")
     show_examples_from_json("data/clean/news/news_cleaned.json", limit=3)
 
-    print("\n\n===== EXEMPLOS DE BLUESKY LIMPOS =====")
+    print("\n\nEXEMPLOS DE BLUESKY LIMPOS")
     show_examples_from_json("data/clean/bluesky/bluesky_cleaned.json", limit=3)
 
-    print("\n\n===== EXEMPLOS DE REDDIT LIMPOS =====")
+    print("\n\nEXEMPLOS DE REDDIT LIMPOS")
     show_examples_from_json("data/clean/reddit/reddit_cleaned.json", limit=3)
 
-    print("\n\n===== EXEMPLOS DE YOUTUBE LIMPOS =====")
+    print("\n\nEXEMPLOS DE YOUTUBE LIMPOS")
     show_examples_from_json("data/clean/youtube/youtube_cleaned.json", limit=3)

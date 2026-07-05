@@ -10,7 +10,6 @@ def get_mais_frequentes(
     tipo: Optional[str] = Query(None, description="PER, ORG, LOC ou MISC"),
     fonte: Optional[str] = Query(None),
 ):
-    """Entidades mais frequentes no corpus."""
     conn   = get_connection()
     cursor = conn.cursor()
 
@@ -43,7 +42,6 @@ def get_mais_frequentes(
 
 @router.get("/distribuicao-tipo")
 def get_distribuicao_tipo(fonte: Optional[str] = Query(None)):
-    """Distribuição de entidades por tipo (PER, ORG, LOC, MISC)."""
     conn   = get_connection()
     cursor = conn.cursor()
 
@@ -84,7 +82,6 @@ def get_entidades_por_topico(
     topico_id: int = Query(...),
     limite: int = Query(10),
 ):
-    """Entidades mais frequentes num tópico específico."""
     conn   = get_connection()
     cursor = conn.cursor()
 

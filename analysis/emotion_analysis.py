@@ -7,9 +7,6 @@ import torch
 
 
 BASE_DIR = Path(__file__).parent.parent
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
 
 INPUT_FILES = [
     BASE_DIR / "data/raw/news_posts.json",
@@ -21,17 +18,11 @@ INPUT_FILES = [
 OUTPUT_FILE = BASE_DIR / "data/emotion/all_emotion.json"
 MODEL_NAME = "tabularisai/multilingual-emotion-classification"
 MODEL_VERSION = "1.0"
-
 MAX_TEXTS = None
-
 MAX_TOKENS = 400
-
 MIN_CHARS = 5
-
 EMOTION_THRESHOLD = 0.15
-# ============================================================
-# JSON
-# ============================================================
+
 
 def load_json_file(path):
     path = Path(path)
@@ -45,7 +36,6 @@ def load_json_file(path):
 
 def save_json_file(data, path):
     path = Path(path)
-
     path.parent.mkdir(
         parents=True,
         exist_ok=True
@@ -60,13 +50,8 @@ def save_json_file(data, path):
         )
 
 
-# ============================================================
-# TEXTO FINAL
-# ============================================================
-
 def build_emotion_text(record):
     parts = []
-
     title = str(
         record.get("title", "")
     ).strip()
@@ -84,9 +69,6 @@ def build_emotion_text(record):
     return "\n\n".join(parts)
 
 
-# ============================================================
-# CHUNKS
-# ============================================================
 
 def split_text_into_chunks(text, tokenizer, max_tokens=400):
     tokens = tokenizer.encode(
@@ -95,7 +77,6 @@ def split_text_into_chunks(text, tokenizer, max_tokens=400):
     )
 
     chunks = []
-
     for i in range(0, len(tokens), max_tokens):
         chunk_tokens = tokens[i:i + max_tokens]
 
@@ -108,10 +89,6 @@ def split_text_into_chunks(text, tokenizer, max_tokens=400):
 
     return chunks
 
-
-# ============================================================
-# PROCESSAMENTO INCREMENTAL
-# ============================================================
 
 def get_existing_processed_ids(existing_results):
     ids = set()
@@ -134,41 +111,24 @@ def normalize_platform_id(record):
         record["platform_id"] = f"https://www.youtube.com/watch?v={platform_id}"
 
     return record
-# ============================================================
-# MAIN
-# ============================================================
+
 
 def main():
     print("A CARREGAR DADOS")
-
     records = []
 
     for file_path in INPUT_FILES:
         current_records = load_json_file(file_path)
-
         print(file_path)
         print(f"Registos carregados: {len(current_records)}")
-
         records.extend(current_records)
 
     print(f"TOTAL DE REGISTOS: {len(records)}")
-
-    # ========================================================
-    # RESULTADOS EXISTENTES
-    # ========================================================
-
     existing_results = load_json_file(OUTPUT_FILE)
-
     processed_ids = get_existing_processed_ids(existing_results)
-
     print(f"Registos já processados: {len(processed_ids)}")
 
-    # ========================================================
-    # FILTRAR APENAS NOVOS
-    # ========================================================
-
     new_records = []
-
     for record in records:
         platform_id = record.get("platform_id")
         source = record.get("source", "")
@@ -186,17 +146,11 @@ def main():
         print("\nNenhum novo registo para analisar.")
         return
 
-    # ========================================================
-    # LIMITADOR
-    # ========================================================
 
     if MAX_TEXTS is not None:
         new_records = new_records[:MAX_TEXTS]
         print(f"A usar {len(new_records)} textos")
 
-    # ========================================================
-    # DEVICE
-    # ========================================================
 
     device = 0 if torch.cuda.is_available() else -1
 
@@ -205,9 +159,6 @@ def main():
         f"{'cuda' if device == 0 else 'cpu'}"
     )
 
-    # ========================================================
-    # MODELO
-    # ========================================================
 
     print("A CARREGAR MODELO DE EMOÇÕES")
 
@@ -221,19 +172,13 @@ def main():
 
     tokenizer = emotion_pipeline.tokenizer
 
-    # ========================================================
-    # PROCESSAMENTO
-    # ========================================================
-
     print("A ANALISAR EMOÇÕES")
 
     new_results = []
-
     emotion_counter = Counter()
 
     for record in tqdm(new_records):
         record = normalize_platform_id(record)
-
         text = build_emotion_text(record)
 
         if len(text.strip()) < MIN_CHARS:
@@ -245,11 +190,8 @@ def main():
             max_tokens=MAX_TOKENS
         )
 
-        # acumulador: label -> lista de scores por chunk
         chunk_scores = {}
-
         for chunk in chunks:
-
             try:
                 predictions = emotion_pipeline(chunk)[0]
 
@@ -270,13 +212,11 @@ def main():
         if not chunk_scores:
             continue
 
-        # média de scores por emoção entre chunks
         avg_scores = {
             label: sum(scores) / len(scores)
             for label, scores in chunk_scores.items()
         }
 
-        # emoção dominante
         dominant_emotion = max(
             avg_scores,
             key=lambda k: avg_scores[k]
@@ -288,7 +228,6 @@ def main():
 
         emotion_counter[dominant_emotion] += 1
 
-        # todos os scores arredondados
         all_scores = {
             label: round(score, 4)
             for label, score in sorted(
@@ -298,7 +237,6 @@ def main():
             )
         }
 
-        # emoções ativas acima do threshold
         active_emotions = [
             label
             for label, score in avg_scores.items()
@@ -320,26 +258,12 @@ def main():
 
         new_results.append(result)
 
-    # ========================================================
-    # JUNTAR COM RESULTADOS ANTIGOS
-    # ========================================================
 
     final_results = existing_results + new_results
 
-    # ========================================================
-    # GUARDAR
-    # ========================================================
-
     print("A GUARDAR RESULTADOS")
-
     save_json_file(final_results, OUTPUT_FILE)
-
     print(f"Resultados guardados em:\n{OUTPUT_FILE}")
-
-    # ========================================================
-    # ESTATÍSTICAS
-    # ========================================================
-
     print("\nDISTRIBUIÇÃO DE EMOÇÕES")
 
     total = sum(emotion_counter.values())
@@ -348,14 +272,9 @@ def main():
         percentage = round((count / total) * 100, 1)
         print(f"{emotion} -> {count} ({percentage}%)")
 
-    # ========================================================
-    # EXEMPLOS
-    # ========================================================
 
     print("\nEXEMPLOS")
-
     for item in new_results[:5]:
-        print("\n----------------")
         print(item.get("title", ""))
         print(f"Emoção: {item['dominant_emotion']}")
         print(f"Confiança: {item['confidence']}")
@@ -366,10 +285,6 @@ def main():
 
     print("\nANÁLISE DE EMOÇÕES TERMINADA")
 
-
-# ============================================================
-# ENTRYPOINT
-# ============================================================
 
 if __name__ == "__main__":
     main()

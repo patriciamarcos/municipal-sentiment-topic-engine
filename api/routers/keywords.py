@@ -10,7 +10,6 @@ def get_mais_frequentes(
     fonte: Optional[str] = Query(None),
     topico_id: Optional[int] = Query(None),
 ):
-    """Keywords mais frequentes no corpus."""
     conn   = get_connection()
     cursor = conn.cursor()
 
@@ -47,7 +46,6 @@ def get_mais_frequentes(
 
 @router.get("/por-topico")
 def get_keywords_por_topico(limite: int = Query(10)):
-    """Top keywords por tópico."""
     conn   = get_connection()
     cursor = conn.cursor()
 

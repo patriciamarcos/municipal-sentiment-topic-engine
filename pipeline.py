@@ -7,13 +7,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ============================================================
-# CONFIGURAÇÃO
-# ============================================================
-
 BASE_DIR = Path(__file__).parent
 
-# ficheiros a descarregar do R2
 R2_FILES = [
     "data/raw/news_posts.json",
     "data/raw/reddit_posts.json",
@@ -21,7 +16,6 @@ R2_FILES = [
     "data/raw/youtube_posts.json",
 ]
 
-# scripts a correr por ordem
 PIPELINE_STEPS = [
     {
         "name": "Limpeza de texto",
@@ -50,10 +44,6 @@ PIPELINE_STEPS = [
 ]
 
 
-# ============================================================
-# R2
-# ============================================================
-
 def get_r2_client():
     return boto3.client(
         "s3",
@@ -81,14 +71,12 @@ def download_from_r2():
         local_path.parent.mkdir(parents=True, exist_ok=True)
 
         try:
-            # verificar tamanho do ficheiro no R2
             response = client.head_object(
                 Bucket=bucket,
                 Key=file_path,
             )
             r2_size = response["ContentLength"]
 
-            # verificar se ficheiro local existe e tem o mesmo tamanho
             if local_path.exists():
                 local_size = local_path.stat().st_size
                 if local_size == r2_size:
@@ -96,7 +84,6 @@ def download_from_r2():
                     skipped += 1
                     continue
 
-            # descarregar ficheiro
             client.download_file(
                 bucket,
                 file_path,
@@ -116,15 +103,8 @@ def download_from_r2():
 
     return downloaded
 
-
-# ============================================================
-# EXECUTAR SCRIPTS
-# ============================================================
-
 def run_script(name, script_path):
-    print(f"\n{'=' * 60}")
     print(f"A CORRER: {name}")
-    print(f"{'=' * 60}")
 
     if not script_path.exists():
         print(f"ERRO: script não encontrado -> {script_path}")
@@ -143,19 +123,9 @@ def run_script(name, script_path):
     return True
 
 
-# ============================================================
-# MAIN
-# ============================================================
-
 def main():
     print("\n")
-    print("=" * 60)
     print("MUNICIPAL SENTIMENT PIPELINE")
-    print("=" * 60)
-
-    # ========================================================
-    # DOWNLOAD DO R2
-    # ========================================================
 
     downloaded = download_from_r2()
 
@@ -164,9 +134,6 @@ def main():
         print("Pipeline terminado sem processamento.")
         return
 
-    # ========================================================
-    # PIPELINE DE ANÁLISE
-    # ========================================================
 
     print(f"\n{downloaded} ficheiro(s) novo(s) — a iniciar pipeline")
 
@@ -177,14 +144,9 @@ def main():
         if not success:
             failed.append(step["name"])
 
-    # ========================================================
-    # RESUMO
-    # ========================================================
 
     print("\n")
-    print("=" * 60)
     print("PIPELINE CONCLUÍDO")
-    print("=" * 60)
 
     total = len(PIPELINE_STEPS)
     succeeded = total - len(failed)
@@ -200,10 +162,6 @@ def main():
         print("\nTodos os passos concluídos com sucesso.")
         print("Podes agora correr o database/db_insert.py para inserir na BD.")
 
-
-# ============================================================
-# ENTRYPOINT
-# ============================================================
 
 if __name__ == "__main__":
     main()
