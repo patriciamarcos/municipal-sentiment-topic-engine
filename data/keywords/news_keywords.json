@@ -114872,5 +114872,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9PSjlGWDUyUzJnX1lrSUlZZzVOU2VXaUdybnZ0YUJMSnZDM3lTeGlPSlNVd2pVMUhNMGRSSHowb1VZaVdJaGhMQkNSbXJrMDdWT0xldHVCYkpaOUtXSDhEWWhjcGdzeDhPVWJn?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 10:08:44 GMT",
+        "title_clean": "1993 – FESTIVAL DE CICLOTURISMO DA SERRA DA ESTRELA | À CONQUISTA DA TORRE COM I",
+        "clean_text": "1993 - FESTIVAL DE CICLOTURISMO DA SERRA DA ESTRELA | À CONQUISTA DA TORRE COM I. O 1993 - Festival de Cicloturismo da Serra da Estrela já está em andamento e a cumprir promessas. Tal como anunciado, abriram hoje as inscrições para todos os que se queiram juntar ao comentador Olivier Bonamici no desafio de tentar subir à torre em bicicleta, no próximo dia 19 de setembro. Depois de ter perdido uma aposta, Olivier Bonamici vai cumprir uma promessa feita em direto na televisão e contará com o apoio do Município da Covilhã e de todos os que se queiram juntar a este grande desafio. Para participar basta inscrever-se em: O valor da inscrição é de 10 euros e dá direito a Seguro, Jersey, Bifana e Bebida. Mas não esqueça a festa do cicloturismo não se esgota neste desafio. O 1993 - Festival de cicloturismo da Serra da Estrela vai decorrer entre os dias 18 e 20 de setembro e promete muitas atividades e animação. Mais novidades em breve. municipiodacovilha atecerofuturo",
+        "keywords": [
+            {
+                "keyword": "torre 1993 festival cicloturismo",
+                "score": 0.7431
+            },
+            {
+                "keyword": "desafio 1993 festival cicloturismo",
+                "score": 0.7254
+            },
+            {
+                "keyword": "1993 festival cicloturismo",
+                "score": 0.7021
+            },
+            {
+                "keyword": "festival cicloturismo",
+                "score": 0.6831
+            },
+            {
+                "keyword": "torre 1993 festival",
+                "score": 0.6664
+            },
+            {
+                "keyword": "festa cicloturismo",
+                "score": 0.6549
+            },
+            {
+                "keyword": "conquista torre 1993 festival",
+                "score": 0.6483
+            },
+            {
+                "keyword": "festa cicloturismo não esgota",
+                "score": 0.6478
+            },
+            {
+                "keyword": "não esqueça festa cicloturismo",
+                "score": 0.6443
+            },
+            {
+                "keyword": "esgota desafio 1993 festival",
+                "score": 0.643
+            }
+        ],
+        "source_name": "Município da Covilhã"
     }
 ]
