@@ -114622,5 +114622,255 @@
             }
         ],
         "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU3YUN5d3JPbVVOQWRKRDRJZ0ZRbXJEanJFcjh2di11SDlyZ2t5MkZVLVZqX3NuRUVaTkhfTENIdXhNclhadWxOSDFzempDSkQxTHZtblRhV1hfNW5aNVdzdmdSSnN4QXN3Skw2eC00MnV0ZkVhT2RPcnpLeFNnLXBNQ0NXcExtbUNMaG9QWTRibU10RDBKTk1Hb1d0aWFybTQ1OW5OODBwUU1PTmcxVjBFOGJZQdIBsAFBVV95cUxPdDBIVmZ0el90a3h0SlF6VDlJTXpoaTF3TndoanZUUzZxSTRaMmFlM2JzRWFNSmdpOE9XWTZXT3BqTEtfQjE2eldoVmtwMk0zbzZmZjdQT1AybVlrbXJxc21KOWttdWpfMGkyYU42NGpzVmN4VGtYQlBzWTZ4amd3amZVLWhiUWdQR2tSdTFVZXpvU2dnSFJ5QlhiNjBkWnB4ajlvZnlBaHFKS3g0MUZ2NQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 04 Jul 2026 19:56:32 GMT",
+        "title_clean": "Rodrigo Ferreira deixa o Sp. Covilhã para rumar a Leça - Record",
+        "clean_text": "Rodrigo Ferreira deixa o Sp. Covilhã para rumar a Leça - Record. O Leça anunciou este sábado a contratação de Rodrigo Ferreira, médio de 24 anos, que representou o Sp. Covilhã nas últimas três temporadas. De saída do clube serrano, o jovem português leva agora a experiência na Liga 3 para o emblema de Leça da Palmeira, que vai regressar à competição na nova época, depois de se sagrar campeão do Campeonato de Portugal em 2025/26. Rodrigo Ferreira conta com passagens pelo Bragança, Leixões, Trofense e Montalegre antes de chegar à Covilhã, onde totalizou 58 jogos em três anos, tendo apontado um golo e uma assistência - ambos na última temporada. \"Os leçeiros podem esperar um Rodrigo que está pronto para assumir a responsabilidade do que é ser Leça\", garantiu o médio, aos meios do clube.",
+        "keywords": [
+            {
+                "keyword": "serrano jovem português leva",
+                "score": 0.67
+            },
+            {
+                "keyword": "serrano jovem português",
+                "score": 0.6573
+            },
+            {
+                "keyword": "sagrar campeão campeonato portugal",
+                "score": 0.6436
+            },
+            {
+                "keyword": "jovem português leva agora",
+                "score": 0.631
+            },
+            {
+                "keyword": "campeão campeonato portugal",
+                "score": 0.6174
+            },
+            {
+                "keyword": "campeão campeonato portugal 2025",
+                "score": 0.6154
+            },
+            {
+                "keyword": "jovem português leva",
+                "score": 0.6096
+            },
+            {
+                "keyword": "portugal 2025 26 rodrigo",
+                "score": 0.6021
+            },
+            {
+                "keyword": "campeonato portugal 2025 26",
+                "score": 0.581
+            },
+            {
+                "keyword": "campeonato portugal 2025",
+                "score": 0.5727
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkozcndweURrSUdiUkpGZ3FEdHdIMXFLdTRYdjkzTVF4SV9XcUNncTZZQ2ktbGE2bU9fOWVSaFFBYW12TE5USDVrVTJFN08zQTBsM1BkMUZrdGNCOFV0dkluXzVvVjMtMkxSbUZ6WlVzWm9YR3VEVWRFanpJUk5yd295Y1drellhN0VHVDc1a0g1SkRtM3VtZFRzYXRQVG8x?oc=5",
+        "source": "news",
+        "created_at": "Sat, 04 Jul 2026 13:15:00 GMT",
+        "title_clean": "Ricardo Libório reforça o plantel do Sporting da Covilhã",
+        "clean_text": "Ricardo Libório reforça o plantel do Sporting da Covilhã. Ricardo Libório, extremo de 22 anos, natural de Vila Nova de Famalicão, é o novo reforço do Sporting Clube da Covilhã para a época 2026/2027. O jogador, na temporada passada, representou o Tirsense, onde apontou 1 golo em 10 jogos e o Pevidém SC por 17 jogos, anotando 6 tentos. O atleta fez toda a sua formação no Famalicão e Vitória SC, passando ainda duas temporadas nos sub-19 ao serviço do FC Vizela. Em 2022/2023 e 2023/2024 vestiu ainda a camisola dos Sandinenses.",
+        "keywords": [
+            {
+                "keyword": "2027 jogador temporada passada",
+                "score": 0.6383
+            },
+            {
+                "keyword": "fc vizela",
+                "score": 0.6294
+            },
+            {
+                "keyword": "2027 jogador temporada",
+                "score": 0.6176
+            },
+            {
+                "keyword": "jogador temporada passada representou",
+                "score": 0.6136
+            },
+            {
+                "keyword": "2027 jogador",
+                "score": 0.613
+            },
+            {
+                "keyword": "jogador temporada passada",
+                "score": 0.6095
+            },
+            {
+                "keyword": "2026 2027 jogador temporada",
+                "score": 0.609
+            },
+            {
+                "keyword": "2026 2027 jogador",
+                "score": 0.6053
+            },
+            {
+                "keyword": "famalicão novo reforço sporting",
+                "score": 0.598
+            },
+            {
+                "keyword": "fc vizela 2022 2023",
+                "score": 0.5874
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlFqbEFlZDhyNkdlSmFVWFBtOWlEYklxZWZMZ0FaN0dMX0hnMXJncXRLN0tjWUozaDNGa243amtNeGdDQVllS3lxVGJ0U2NkNklIdDVOV2NSRm1IUHRJaE0xVUtPN3M0T0t4Y3VtTUxRSmVmSVl2QTl2RVNsa2dMQndqVWdrU3R4VW1YZmV6Z0RYMTVLdDVzTlRodlk1aGtCdGxBczdUV1BZWUZaLXhBQjRwLUh0SjliZkYyMS1WMDNfX00?oc=5",
+        "source": "news",
+        "created_at": "Sat, 04 Jul 2026 22:14:47 GMT",
+        "title_clean": "Pedro Jorge e Marisa Pires celebram vitória e aniversário da loja na Covilhã com grande festa - A Televisão",
+        "clean_text": "Pedro Jorge e Marisa Pires celebram vitória e aniversário da loja na Covilhã com grande festa - A Televisão. Marisa Pires e Pedro Jorge celebraram uma tarde muito especial neste sábado, juntando dois motivos de festa: o reencontro do casal, depois de semanas separados devido à participação de Pedro Jorge no \"Desafio Final\", e o quarto aniversário da loja que ambos são proprietários na Covilhã, recentemente remodelada. A celebração foi organizada ao pormenor por Marisa Pires, que lançou o convite nas redes sociais e viu o repto ser correspondido por uma forte adesão de fãs e clientes, que aproveitaram para conhecer o casal de perto e parabenizá-los pela dupla conquista. O momento em que Pedro Jorge dançou \"Loba\" Entre muita comida, música e descontos especiais para os clientes, houve também espaço para diversão. Pedro Jorge não resistiu a dançar o tema \"Loba\", de Ana Duarte, canção que já gerou alguma polémica, mas que naquele momento serviu apenas para animar a festa. O vencedor de dois reality shows juntou-se à filha Yara e a algumas amigas para fazer a coreografia, recordando momentos semelhantes vividos na \"Casa dos Segredos 9\". Com o negócio a bom porto e a vida pessoal em plena harmonia, o casal prepara-se agora para umas merecidas férias em família, que já não deverão tardar.",
+        "keywords": [
+            {
+                "keyword": "jorge marisa pires celebram",
+                "score": 0.6923
+            },
+            {
+                "keyword": "celebram vitória aniversário loja",
+                "score": 0.6716
+            },
+            {
+                "keyword": "marisa pires celebram",
+                "score": 0.6657
+            },
+            {
+                "keyword": "pires pedro jorge celebraram",
+                "score": 0.6332
+            },
+            {
+                "keyword": "pedro jorge celebraram",
+                "score": 0.6303
+            },
+            {
+                "keyword": "pires celebram vitória aniversário",
+                "score": 0.6283
+            },
+            {
+                "keyword": "jorge celebraram tarde especial",
+                "score": 0.6172
+            },
+            {
+                "keyword": "jorge celebraram",
+                "score": 0.6154
+            },
+            {
+                "keyword": "celebram vitória aniversário",
+                "score": 0.6124
+            },
+            {
+                "keyword": "pires celebram",
+                "score": 0.6069
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3k1R0pJcFhZaGxjcjZMZTZMWWtEQm9DQmk2cFU0UTNxQ0dTT3JEWVRRdGJsd0dFQUY1OHlXV0U0OVFnS2d3dUlTTVVLb2Jianc2V2tzYzNtZXZPSzVXRElJVXltb3Q5NzJwOTBiQXBxMkhpSnduUVgwVVp5S0pVQVRyUk9yaUx5cEFmR3h2NE9YV24xbXNGbXp1OXB3ZFM1TGVlS1RYcEhMQQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 04 Jul 2026 20:04:45 GMT",
+        "title_clean": "Rodrigo Ferreira deixa o Sp. Covilhã e segue para o Leça - Portal Tela Portugal -",
+        "clean_text": "Rodrigo Ferreira deixa o Sp. Covilhã e segue para o Leça - Portal Tela Portugal -. - Rodrigo Ferreira, médio de 24 anos, transferiu-se do Sp. Covilhã para o Leça da Palmeira. - O Leça anunciou a contratação neste sábado, destacando a experiência do jogador na Liga três. - Em Covilhã, o atleta somou 58 jogos em três épocas, com 1 golo e 1 assistência. - Passou ainda por Bragança, Leixões, Trofense e Montalegre antes de chegar ao clube serrano. - O Leça vai regressar à competição na nova época, depois de se sagrarem campeões do Campeonato de Portugal em 2025/26. O Leça anunciou neste sábado a contratação de Rodrigo Ferreira, médio de 24 anos, que se desvinculou do Sp. Covilhã após três temporadas. O jogador aportará experiência da Liga 3 ao emblema de Leça da Palmeira, que regressa à competição na próxima época. Rodrigo Ferreira soma passagens por Bragança, Leixões, Trofense e Montalegre antes de chegar ao Covilhã, onde disputou 58 jogos em três anos, com um golo e uma assistência na última temporada. O anúncio chega numa altura em que Leça se prepara para a nova edição da competição, após ter sagrado campeão do Campeonato de Portugal na temporada 2025/26. O clube pretende manter o ritmo competitivo nessa etapa. Segundo o staff do Leça, o jogador chega pronto para assumir responsabilidades e ajudar a equipa a cumprir os objetivos traçados para a nova época. Entre na conversa da comunidade",
+        "keywords": [
+            {
+                "keyword": "campeão campeonato portugal temporada",
+                "score": 0.5996
+            },
+            {
+                "keyword": "jogador chega",
+                "score": 0.5741
+            },
+            {
+                "keyword": "jogador chega pronto assumir",
+                "score": 0.5686
+            },
+            {
+                "keyword": "jogador aportará",
+                "score": 0.564
+            },
+            {
+                "keyword": "experiência jogador liga três",
+                "score": 0.5512
+            },
+            {
+                "keyword": "portugal rodrigo",
+                "score": 0.5486
+            },
+            {
+                "keyword": "leça jogador chega pronto",
+                "score": 0.5467
+            },
+            {
+                "keyword": "sagrarem campeões campeonato portugal",
+                "score": 0.5441
+            },
+            {
+                "keyword": "portugal rodrigo ferreira",
+                "score": 0.5433
+            },
+            {
+                "keyword": "jogador liga três",
+                "score": 0.5417
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3pwRnB4b3g3ZDBVV2lCRHljamI5a0xsdUkxZXprRk5PaHdGMDZQaEdDRlotVDNYbnd2dHA4LXdFTWxKbHl4cFY5eFg5bTlMWWo1aTVrYTF6Yk1CSlllSUdNSWFoYVhNVzdYV1BnT2VBdUJFdG1aT0pUc2dGVl9ScFJCV3dxZ09GZUx6ZTlpeHMzSkVLa2VuSDMxZWR3MkFQdDN3b19VRGc0djIzZ0hUSGhKdWpMUHc?oc=5",
+        "source": "news",
+        "created_at": "Sat, 04 Jul 2026 20:47:37 GMT",
+        "title_clean": "Pedro Jorge e Marisa Pires celebram vitória no Desafio Final e aniversário do negócio na Covilhã - Infocul",
+        "clean_text": "Pedro Jorge e Marisa Pires celebram vitória no Desafio Final e aniversário do negócio na Covilhã - Infocul. Pedro Jorge e Marisa Pires celebram vitória no Desafio Final e aniversário do negócio na Covilhã com festa. A tarde deste sábado, 4 de julho, teve um significado especial para Pedro Jorge e Marisa Pires. O casal juntou amigos, clientes e admiradores numa celebração que cruzou a vitória no «Desafio Final» com os quatro anos do negócio que mantém na Covilhã. O momento surgiu poucos dias depois do reencontro do casal, após nove semanas de afastamento. Durante esse período, Pedro Jorge esteve concentrado na participação no reality show da TVI, que acabou por vencer. Agora, já de regresso à vida fora da casa, o empresário voltou também à rotina familiar e profissional. Festa juntou clientes e admiradores A iniciativa foi organizada por Marisa Pires, que tinha divulgado previamente o convite através das redes sociais. - Publicidade - A resposta foi expressiva. Ao longo da tarde, várias pessoas passaram pelo estabelecimento para felicitar o casal, acompanhar a festa e assinalar o aniversário do espaço. A celebração aconteceu também numa altura em que o estabelecimento passou por uma remodelação recente. Entre música, petiscos e algumas promoções destinadas aos clientes, o ambiente foi marcado pela proximidade entre Pedro Jorge, Marisa Pires e quem acompanhou o percurso do casal nos últimos meses. Pedro Jorge dança \"Loba\" com a filha Yara A certa altura, Pedro Jorge acabou por entrar também na animação. O vencedor do «Desafio Final» dançou ao som de \"Loba\", tema de Ana Duarte que tem estado em destaque. Sem dar importância às polémicas associadas à música, Pedro Jorge juntou-se à filha, Yara, e a um grupo de amigas para repetir os passos da coreografia. O momento recuperou, de algum modo, o lado mais descontraído que o concorrente já tinha mostrado durante a passagem pela «Casa dos Segredos 9». Casal prepara agora férias em família Depois das celebrações, Pedro Jorge e Marisa Pires voltam agora às rotinas do negócio e da família. O casal atravessa uma fase de maior estabilidade, depois de várias semanas separado pela participação do empresário no programa da TVI. A próxima etapa passa pelo descanso. Está prevista uma viagem em família, na companhia dos filhos, depois de semanas intensas entre competição, reencontro e celebrações.",
+        "keywords": [
+            {
+                "keyword": "vitória desafio final aniversário",
+                "score": 0.6663
+            },
+            {
+                "keyword": "celebram vitória desafio final",
+                "score": 0.6591
+            },
+            {
+                "keyword": "jorge marisa pires celebram",
+                "score": 0.6438
+            },
+            {
+                "keyword": "marisa pires celebram",
+                "score": 0.611
+            },
+            {
+                "keyword": "pires celebram vitória",
+                "score": 0.6028
+            },
+            {
+                "keyword": "celebram vitória desafio",
+                "score": 0.6011
+            },
+            {
+                "keyword": "celebram vitória",
+                "score": 0.601
+            },
+            {
+                "keyword": "celebração cruzou vitória desafio",
+                "score": 0.5978
+            },
+            {
+                "keyword": "marisa pires celebram vitória",
+                "score": 0.59
+            },
+            {
+                "keyword": "depois celebrações pedro jorge",
+                "score": 0.5883
+            }
+        ],
+        "source_name": null
     }
 ]
