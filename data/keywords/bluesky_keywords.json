@@ -3367,5 +3367,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:csdyjzhcjsh2me4vtsyjflhr/app.bsky.feed.post/3mpyy4nokss2y",
+        "source": "bluesky",
+        "created_at": "2026-07-06T20:57:20.736Z",
+        "title_clean": "",
+        "clean_text": "Eles é que a levam toda!!! Está na altura de abrir outra OGMA, na Covilhã, por exemplo, para construir em vez de comprar sucata ao quilo.",
+        "keywords": [
+            {
+                "keyword": "toda altura abrir outra",
+                "score": 0.5334
+            },
+            {
+                "keyword": "altura abrir outra ogma",
+                "score": 0.5249
+            },
+            {
+                "keyword": "levam toda altura abrir",
+                "score": 0.5107
+            },
+            {
+                "keyword": "toda altura abrir",
+                "score": 0.5093
+            },
+            {
+                "keyword": "altura abrir outra",
+                "score": 0.4894
+            },
+            {
+                "keyword": "abrir outra ogma",
+                "score": 0.4724
+            },
+            {
+                "keyword": "construir vez comprar sucata",
+                "score": 0.4421
+            },
+            {
+                "keyword": "altura abrir",
+                "score": 0.418
+            }
+        ],
+        "source_name": null
     }
 ]

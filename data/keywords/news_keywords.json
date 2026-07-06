@@ -115272,5 +115272,105 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBIenhVcHYxN3NpNUJObzFfUW9zaDBOeE1zbmhKZWRnS2J6a2lzOE5MS1ZHWVZjVmlMSHNnSXZ6MDVWSTZGSUw2ejdyeW9ZYmlLZVFQRU5Nd1hES2tITndYMDlqZjVmR2t6Uk04?oc=5",
+        "source": "news",
+        "created_at": "Tue, 30 Jun 2026 08:34:47 GMT",
+        "title_clean": "MUNICÍPIO DA COVILHÃ VAI REQUALIFICAR ESTRADA ENTRE O PARQUE INDUSTRIAL DO TORTO",
+        "clean_text": "MUNICÍPIO DA COVILHÃ VAI REQUALIFICAR ESTRADA ENTRE O PARQUE INDUSTRIAL DO TORTO. O Município da Covilhã já lançou concurso público para a empreitada de requalificação da estrada que liga a rotunda de acesso à Zona Industrial do Tortosendo à rotunda do eixo TCT, num investimento previsto superior a 1 milhão de euros. A obra agora lançada a concurso inclui a construção de um troço de acesso ao futuro quartel da GNR, que está agora em fase de construção. Com o valor de 997.386 euros acrescido de IVA, o concurso vai agora decorrer os trâmites e prevê, após conclusão do processo e início de obra, um prazo de execução de 300 dias para realizar a repavimentação da estrada, bem como a construção de passeios e do referido acesso ao quartel da GNR. Trata-se de uma importante empreitada que visa melhorar as condições de circulação naquela via, tal como apontou o Presidente da Câmara, Hélio Fazendeiro, na última reunião pública do executivo, realizada na sexta-feira, quando deu conhecimento da abertura do procedimento. Esta obra integra um conjunto de intervenções que o Município da Covilhã está a levar a cabo para melhorar as condições de circulação do Concelho e que inclui reparações em diferentes vias, algumas das quais já em curso. A estas obras vai juntar-se ainda a repavimentação da estrada entre a Rotunda do Operário (ANIL) e a Rua General Humberto Delgado (Canhoso), bem como o troço entre a EN18 e o Parque Industrial do Canhoso, e cuja empreitada já foi adjudicada por um valor global de de 688.692 euros + IVA.",
+        "keywords": [
+            {
+                "keyword": "público empreitada requalificação estrada",
+                "score": 0.7094
+            },
+            {
+                "keyword": "empreitada requalificação estrada",
+                "score": 0.6708
+            },
+            {
+                "keyword": "empreitada requalificação estrada liga",
+                "score": 0.6334
+            },
+            {
+                "keyword": "requalificação estrada liga rotunda",
+                "score": 0.632
+            },
+            {
+                "keyword": "concurso inclui construção troço",
+                "score": 0.6234
+            },
+            {
+                "keyword": "juntar repavimentação estrada rotunda",
+                "score": 0.6173
+            },
+            {
+                "keyword": "lançou concurso público empreitada",
+                "score": 0.6087
+            },
+            {
+                "keyword": "realizar repavimentação estrada",
+                "score": 0.6029
+            },
+            {
+                "keyword": "requalificar estrada parque industrial",
+                "score": 0.5924
+            },
+            {
+                "keyword": "lançada concurso inclui construção",
+                "score": 0.5881
+            }
+        ],
+        "source_name": "Município da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgNBVV95cUxOc0RWU1ZrdGJUckN2ODBlc3FVcFJGVlpVQ2xtOUN2b3dOVnYxdk1OUWlTdUk2NEpOeGlwZ1p2MmNzNkhReEw3NWZieUJjQ0I2RWJXTlpnN3FNWU9CLXRwZHB5X2taQS1IdGhfcnY1M0R5dks2ckotZFlSN2FJRVpYbnBqd1I5Q0F3alBHbDRCVW0tQzhhV2RNN3VwdVRUOXVuR21xUUZrWXduM3o4WHNGQ2JlNXpjVE1GSzZlc3ZrQ3YtS0tjMDhpa2RDUW41akVCQlRrU0t1SGxqOEs5MG55RTItY2d6Vzc4MWZUY2VuQWxrcFRWVVFQWnVqV1pWZGFvckk0NUM4aE5aOXNsSXZGX3RiSXlYTjdjRmE2a180R0plalRqcmZLM0FORmJhTnBta0UzajBxeGVIVUtuNTFfbUQ0VUVSVTlDVU1KMTdXWVc3QjFRaWJabmtWb2hEb0RZUlBWUDVJVHV5eGFTZ1BZRnRIT2w1Yk8wTVFtT3Ytc1g5YXhWcWRNdmhnOUhCbEg1RUQ1VV9WSmFoQ0pHMnd0VFdJZmxDS192Qmc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 05 Jul 2026 11:26:18 GMT",
+        "title_clean": "Dos bálsamos vulvais aos lubrificantes vaginais: a partir da Covilhã a Labfit quer tornar-se referência internacional - MSN",
+        "clean_text": "Dos bálsamos vulvais aos lubrificantes vaginais: a partir da Covilhã a Labfit quer tornar-se referência internacional - MSN",
+        "keywords": [
+            {
+                "keyword": "bálsamos vulvais lubrificantes vaginais",
+                "score": 0.7958
+            },
+            {
+                "keyword": "vulvais lubrificantes vaginais",
+                "score": 0.7765
+            },
+            {
+                "keyword": "lubrificantes vaginais",
+                "score": 0.7595
+            },
+            {
+                "keyword": "vulvais lubrificantes vaginais partir",
+                "score": 0.7469
+            },
+            {
+                "keyword": "lubrificantes vaginais partir",
+                "score": 0.7361
+            },
+            {
+                "keyword": "bálsamos vulvais lubrificantes",
+                "score": 0.7049
+            },
+            {
+                "keyword": "vaginais partir",
+                "score": 0.6914
+            },
+            {
+                "keyword": "vulvais lubrificantes",
+                "score": 0.6809
+            },
+            {
+                "keyword": "labfit quer tornar referência",
+                "score": 0.5264
+            },
+            {
+                "keyword": "labfit quer",
+                "score": 0.5207
+            }
+        ],
+        "source_name": null
     }
 ]
