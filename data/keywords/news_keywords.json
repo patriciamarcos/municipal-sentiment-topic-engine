@@ -115672,5 +115672,55 @@
             }
         ],
         "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzk2Vkd6eDB3bm5DQXg0cUpJMlpvckw0YWhXU2JDUHlrTEYxUjItWjVNcDEyd3Zkc2FaTDBUSTdKU3lodFpYcFNnck5HTDVJRUZ5VHRfNjBHWFpUbkU5c3dPOHBod0lQRGxfTzRCQ0NQcW12bjU0Y1g5Yjh0T0dSQ2lERmt2cU1Od1lOWW02cTdkNEw4bFItQVB0OTB3SkdhTkt2NFNQNjcyVUhHUzIxZk0yZy16elM5?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 05:07:13 GMT",
+        "title_clean": "Jardim das Artes volta a receber o Festival do Pastel de Molho",
+        "clean_text": "Jardim das Artes volta a receber o Festival do Pastel de Molho Nos dias 9, 10 e 11 de julho, o Jardim das Artes volta a receber o Festival do Pastel de Molho, de acordo com nota de imprensa enviada à Central Press. Numa organização conjunta do Município da Covilhã e da Confraria da Pastinaca e do Pastel de Molho, o evento visa divulgar, promover e valorizar um produto certificado e único deste território. Neste 5º Festival do Pastel de Molho da Covilhã haverá espaços de venda com produtores certificados, bem como animação para miúdos e graúdos. Com horário entre as 19h30 e as 00h00, o festival terá todos os dias música ambiente e animação infantil gratuita e que inclui pinturas faciais, modelagem de balões de água e um insuflável. A abertura do certame é a 9 de julho, quinta-feira, dia em que contará com a apresentação da Marcha Infantil do ATL do Rodrigo, agendada para as 21h00. No dia seguinte, à mesma hora, atuam as Adufeiras do Paul e no dia 11 será a vez de Maria Branco subir ao palco. O Pastel de Molho da Covilhã é um produto gastronómico feito à base de massa folhada, recheado com carne, que é servido com molho de açafrão (ou chá) e que está associado aos hábitos alimentares da classe operária das fábricas que marcam a história do concelho.",
+        "keywords": [
+            {
+                "keyword": "artes volta receber festival",
+                "score": 0.7256
+            },
+            {
+                "keyword": "volta receber festival",
+                "score": 0.7252
+            },
+            {
+                "keyword": "receber festival",
+                "score": 0.7059
+            },
+            {
+                "keyword": "território 5º festival",
+                "score": 0.6526
+            },
+            {
+                "keyword": "5º festival",
+                "score": 0.6355
+            },
+            {
+                "keyword": "5º festival pastel",
+                "score": 0.6182
+            },
+            {
+                "keyword": "5º festival pastel molho",
+                "score": 0.6036
+            },
+            {
+                "keyword": "território 5º festival pastel",
+                "score": 0.5996
+            },
+            {
+                "keyword": "jardim artes volta receber",
+                "score": 0.5914
+            },
+            {
+                "keyword": "volta receber festival pastel",
+                "score": 0.5913
+            }
+        ],
+        "source_name": "Central Press"
     }
 ]
