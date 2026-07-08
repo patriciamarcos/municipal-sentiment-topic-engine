@@ -1,4 +1,4 @@
-﻿transformers==5.9.
+﻿transformers==5.9.0
 sentence-transformers==5.5.1
 tokenizers==0.22.2
 keybert==0.9.0
