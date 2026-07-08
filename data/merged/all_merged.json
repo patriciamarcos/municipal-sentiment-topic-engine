@@ -285431,19 +285431,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 0,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.4696087030261436,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -285589,18 +285589,18 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.3971653328277137,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -285690,19 +285690,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 3,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -285815,19 +285815,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 0.5091075760328415,
+        "topic_id": 17,
+        "topic_probability": 1.0,
         "topic_keywords": [
+            "isenção",
+            "habitação",
             "assembleia municipal",
-            "municipais",
+            "imposto",
+            "tributária",
+            "residência",
+            "iniciativa",
             "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "fixação jovens",
+            "residente"
         ]
     },
     {
@@ -286024,18 +286024,18 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.038121575991949805,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -286138,19 +286138,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 0,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.40112950585663776,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -286408,19 +286408,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -286517,19 +286517,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 5,
-        "topic_probability": 1.0,
+        "topic_id": 4,
+        "topic_probability": 0.44312050671296055,
         "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
         ]
     },
     {
@@ -286631,19 +286631,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 0,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.3995157627246842,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -286728,20 +286728,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.4962263721716684,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.13088369238986564,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2RKOENvZ29kM01VREVSN2xwaS1LeFRQM09fMTZ6c2pHZEgtcUloOEdaRENGNkJCQUlac2R3VVMyUktYNm9KcVIxUktmVnoxdEMzelZQakE0bXR6djlpZ3lpSU82SEstWXhnSFk2Z0pvVEVVdjZ2M0p2TG8yY2pQV2U1aGxfYTBqUlVRMVd5VWt6eEppUW5CcDdfcy05MmpyRjZTekJmQVI1NlQxa0U1OWRoQ040Qi1SdlE?oc=5",
@@ -286826,18 +286815,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.5116177531270949,
+        "topic_probability": 0.6750615800899422,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -287022,19 +287011,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 0.19753722257828837,
+        "topic_id": 16,
+        "topic_probability": 0.24354248348532045,
         "topic_keywords": [
-            "feira",
+            "wool festival arte",
+            "festival wool",
+            "wool festival",
+            "organização festival",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "festival arte",
+            "wool arte urbana",
+            "comunitário",
+            "programa evento",
+            "edição wool"
         ]
     },
     {
@@ -287159,19 +287148,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.12715594320503212,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -287260,20 +287249,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 0.1956121716477212,
-        "topic_keywords": [
-            "feira",
-            "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.07025321994611955,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWdydkhaajJnZUhqUVFPdHVxam5mczZ0MXM4ejZOSmRWWDNITkd5TktVTmRwd0dKbVVmakZ4VEw2N3luVlQ4dnF5NjlNSTJnNUtiZTgxSzlPaUVHakhIVTVvYU0yVlpSSEFYakZ2ajExUWlhYmkxWTZ5N18zaWx5dExqU2k5TGFGRE5GR0JJektPMWNuUWsxcDRuSUVvbnBZWDBON0VkblVZUFJ0UXdZQk1BOUJhd1RjQUZaWHhfMXNTM0tU?oc=5",
@@ -287397,20 +287375,9 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
-        "topic_keywords": [
-            "português",
-            "peraboa",
-            "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
-            "festival",
-            "fundão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.15583941104713575,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6cjRsclZPVk8zVnpfNDRmTjRnR1dKOGFBV2J4R3Q4eEVmcUFpa1ZubF9vM2o4NVhUMHoyQTA5Y0dWcnZYSFd0YnkwRTFhTE56Uld1U3cyT0RmSWk5cTh6eDgzZ2tyTGRQZGx6SWlFbk85Nk1ULTlWREx4NmU?oc=5",
@@ -287599,9 +287566,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.15306231079848723,
-        "topic_keywords": []
+        "topic_id": 9,
+        "topic_probability": 0.1578514241738772,
+        "topic_keywords": [
+            "inaugura",
+            "universidade beira",
+            "universidade",
+            "estudantes ubi",
+            "universitário",
+            "universidade beira interior",
+            "universidades",
+            "beira interior ubi",
+            "académica",
+            "beira"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdGp4dXY2a3Y3SUU0S3dRR2Z3Qk9aR1lDd3hPVThZU0YxbjdLSktNOEloVTlSTGJKc0hXcWFtcTMyVElKd2NiNWI4MkVBU01VQ21Pc1dkMnVObS1MSi0xV3djTV9YcVowcUJFUUd4TmIyTU5JZ2l1ZjdFU05mUlAxSmJGa0Q5UXVyX29qSlFzdGdZQlcwaEt4Tw?oc=5",
@@ -287706,19 +287684,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 1,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -287839,19 +287817,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -287963,18 +287941,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 1.0,
+        "topic_probability": 0.4172412653262486,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -288084,19 +288062,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 4,
-        "topic_probability": 1.0,
+        "topic_id": 3,
+        "topic_probability": 0.6657734321081601,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -288206,18 +288184,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.5558041959484467,
+        "topic_probability": 0.6542865229562097,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -288302,20 +288280,9 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 0.30673576860003854,
-        "topic_keywords": [
-            "feira",
-            "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
-        ]
+        "topic_id": -1,
+        "topic_probability": 1.2568652396760968e-06,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUxnREttTUFNa055MDJfXzBKSmRWbHFjcE5BNjNxRnhDM0dOeEVkaXZuWFpQS2FKeXZIbUJBUVk3RXlzRUhZNEp4bll0RFJFcjdVSmhZVERFZUZxRE0tVEVONElydlR5R0ttZnRvNk1sNEROcnVsc2hlenl2Z01CU19IR2Y5aXlpRlJocDAxcEcxSURndU1ZRVB2OHgtNEdtcWpFSF9mTE1YSk1uRVdDSGVMSkJmczVCc2kyeGxGeVRUZjFWdk5FdVZkb1JYeDh5STB1cmhqZEpySjlGUG1PaFBnU0QxYzd6VHc?oc=5",
@@ -288435,18 +288402,18 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 7,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -288544,19 +288511,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -288666,19 +288633,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.18872304365721623,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -288815,19 +288782,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -288957,20 +288924,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.30724013408702644,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.3452148278888087,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnVGQTd1NUpxYlBVcGl0SDlIeUdjU09wWWhpZmQyV3ZXOTMtcHdsbXNJUHpmZVVQX2NBUXktTjJYMDZfTFhxdlZYQ1ZPOTB1OEVfZy1lYzBZSTV5ZDE0ODB1Y2JsSlNSV3dhUWhkbllpOTRZOTRNT0F2WUZtRk9fenNUZmVwZGJRVXY0SWNfRTZ2aThObXJwQ1dlZXRmdmRENXVLLWVMN3c2V3BQUXNQM3RKQ3d5RXAyS0JxVmhhOTNmUzd3SVdfYVgweUZoeWN5VTNIOXBZb3E?oc=5",
@@ -289067,18 +289023,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.5439140118257171,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -289175,19 +289131,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.5036041677264375,
+        "topic_id": 0,
+        "topic_probability": 1.0,
         "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
+            "teatro municipal",
+            "feira",
             "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -289316,19 +289272,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
+        "topic_id": 18,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
-            "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "transporte rodoviário",
+            "viajar",
+            "viagens",
+            "transporte",
+            "aeroporto",
+            "autocarros",
+            "mobilidade",
+            "passageiros",
+            "rodoviário",
+            "autocarro"
         ]
     },
     {
@@ -289430,19 +289386,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 0,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.3973090891026515,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -289555,9 +289511,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.11191826101462196,
-        "topic_keywords": []
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "inaugura",
+            "universidade beira",
+            "universidade",
+            "estudantes ubi",
+            "universitário",
+            "universidade beira interior",
+            "universidades",
+            "beira interior ubi",
+            "académica",
+            "beira"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVFIanFDTTg1d1YwcDh3bU85bEFPTWRWQXV1UDBkejdaaXlqNC1MRkJpMUxoS2NNSDB5RW9ZZ0tjUVZsQ2VZMm5sVk1fWUtVNGkxMGJYNmRvb3BPbmt3dkZQaEk1bEpxbWUxWmdaZ1NWMWVSemZiLVV5YW9XN1RlYWlSVUx3c0wtclJvVlM4MUxlck9Ta2V3aGVmU093TTJhQXRCNTU1WWZGcDgwdjdwT3B2X29ZeW5aRGVUczEyME4?oc=5",
@@ -289685,19 +289652,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -289830,19 +289797,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -289923,19 +289890,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 4,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
         ]
     },
     {
@@ -290044,19 +290011,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 3,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.6740600898263203,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -290146,18 +290113,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.5937587934471009,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -290307,18 +290274,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.650469260028362,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -290491,19 +290458,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.5371728711316872,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -290628,20 +290595,9 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.30161308177942625,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.09874911957879218,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFVuV0c4TkdOcXB3ZU5wd0txRzRGcS0wTFV2UkZRLXZRei14T1ktZUpHODFKUmVJT3pkbXdsY3ZZWVlJWXRSVjUtanVPTE9xdnpoVGxvTG0yUWwzNzBNZEZCRWo2aWdkZEhEXzNEcllHYktsd2Rmd1NkMlV1TFhqa1pnbFNFQlprMHV0S05DUDl6cWJmVlNMOVZyR3ZtZG50bnNuc1BaTlBlcnczRFBsLVZVMnZrZzZxQkF0X0U2ZVdmc3hkVENJLUlkNkhIdw?oc=5",
@@ -290733,19 +290689,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -290854,19 +290810,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5203034197157255,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -290992,19 +290948,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 0.3322104450701411,
+        "topic_id": 1,
+        "topic_probability": 1.0,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -291093,19 +291049,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 1,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -291214,20 +291170,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 0.26664997777572974,
-        "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.24391388718457663,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2tNQ3NMNHJyX0JObU41aWdOZmYzNHJ5RldDeGstZWR1ejMta1JWVFJLNGdnX1JpWHozTi1hbWxrM3ViR0RVanpjMURvOE05LUV2dWdoVGU2TWFlcE5hZ1lYZUR3S0prcWJnVTI4ZVhEZVdGOGVIeUE5bXpucmlFOHNud3pvQjhsMl9EdmdaU25IR2tOZElKbHNCUmdUeGN5di0yendLTUtJMlNHUXBtZ19nYWZjcURiQ1hnTGNiNi1PSGw4?oc=5",
@@ -291351,19 +291296,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 0.22445232816566932,
+        "topic_id": 0,
+        "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -291452,19 +291397,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 1.0,
+        "topic_id": 4,
+        "topic_probability": 0.2389647743892868,
         "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
         ]
     },
     {
@@ -291577,19 +291522,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 0,
-        "topic_probability": 0.1574423111856374,
+        "topic_id": 7,
+        "topic_probability": 1.0,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "detenção",
+            "investigação criminal",
+            "departamento investigação criminal",
+            "criminal",
+            "polícia judiciária",
+            "prisão",
+            "polícia",
+            "crimes",
+            "pj",
+            "crime"
         ]
     },
     {
@@ -291672,19 +291617,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 5,
+        "topic_probability": 0.20230991405555956,
         "topic_keywords": [
-            "português",
-            "peraboa",
-            "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
-            "festival",
-            "fundão"
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
@@ -291798,19 +291743,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.2896870135193277,
+        "topic_id": 0,
+        "topic_probability": 0.10673430569409531,
         "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
+            "teatro municipal",
+            "feira",
             "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -291919,19 +291864,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 3,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -292076,19 +292021,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -292197,19 +292142,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 3,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -292350,19 +292295,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -292444,19 +292389,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 0.1955143114225508,
+        "topic_id": 16,
+        "topic_probability": 0.1455587419775068,
         "topic_keywords": [
-            "feira",
+            "wool festival arte",
+            "festival wool",
+            "wool festival",
+            "organização festival",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "festival arte",
+            "wool arte urbana",
+            "comunitário",
+            "programa evento",
+            "edição wool"
         ]
     },
     {
@@ -292557,9 +292502,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.11365098526647772,
-        "topic_keywords": []
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "inaugura",
+            "universidade beira",
+            "universidade",
+            "estudantes ubi",
+            "universitário",
+            "universidade beira interior",
+            "universidades",
+            "beira interior ubi",
+            "académica",
+            "beira"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTUk5RlBmYnRVa3BFekQtMEEtc3hhYlpPX3paN19Ed0dPNmtLTndXY0FybzBaZU1PcnR2UUxfX2NBRl9IaUVOcjJGR3BQbDktbWhOUDdUMXI1VHdXUUtsTHE4QVY1TFBZcmVZdThYeTRpZVVNbWVaUUx2SEMwLTFaaEVnRkgzSUx6ZDNCcHgxR1FJOFdfblFiem9OOE1fMHE4Z29iV0NGVXh6SDlRQnIxZU9TcF9vY3hMV3FoM0NlaHFVQm1IbXV0YQ?oc=5",
@@ -292679,19 +292635,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 3,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.5434341582434569,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -292796,19 +292752,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 0.19756464401112117,
+        "topic_id": 16,
+        "topic_probability": 0.1424741877664004,
         "topic_keywords": [
-            "feira",
+            "wool festival arte",
+            "festival wool",
+            "wool festival",
+            "organização festival",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "festival arte",
+            "wool arte urbana",
+            "comunitário",
+            "programa evento",
+            "edição wool"
         ]
     },
     {
@@ -292902,20 +292858,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.15743042962656092,
-        "topic_keywords": [
-            "canhoso",
-            "estrada",
-            "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.09087232867035162,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcE1ucWVWUkp4b1l1Z0VBb1lXMjB4UEhMRllUb044Tk1lOTUxVU5oUW9zYnVqMERwLXRRNTBib0xhNjNlQTBPN0xIUWlQU0I2R2c2bFNId1V2VWVDbFBCSHRMVlVNTVkzdlY3aTlOY01hN2JGRF9mZFUzbnhTbmlQWVZxeGNLeEtqZkEyTw?oc=5",
@@ -293007,19 +292952,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 3,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.7774902420863274,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -293112,19 +293057,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 4,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
         ]
     },
     {
@@ -293229,9 +293174,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.11647283842250522,
-        "topic_keywords": []
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "inaugura",
+            "universidade beira",
+            "universidade",
+            "estudantes ubi",
+            "universitário",
+            "universidade beira interior",
+            "universidades",
+            "beira interior ubi",
+            "académica",
+            "beira"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1NlRkRzUkRtQW9QY0tKNjVycjlFWWRSSjgyRTdkOWxiMktxS1ZvS20xaFZEMzc5clg5UXMwQV9pUHdyWFIzcEtVbGR0Ykx2dHBILVREdHhIeGl3cGMxQ1VFbUJJZUhodktYWTFEU0Q4TjkwUTZQelZFR0stT0pwekR5QmNNR29NYmx2OHo3WUxzZEhmcFBjNVNSM1lNc1dDR1VEMHJFenJQekp4QW9TenNudkN6MnViV2hNUUNEcXFhZ1FJUnQxa1hSdjk?oc=5",
@@ -293339,9 +293295,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.0053499027415017724,
-        "topic_keywords": []
+        "topic_id": 15,
+        "topic_probability": 0.36509569237629796,
+        "topic_keywords": [
+            "cova beira",
+            "vila",
+            "cova",
+            "encontrado",
+            "sertã",
+            "poço",
+            "chama",
+            "uls cova beira",
+            "cobra",
+            "guarda"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTBySkFRelRzazR6QjlyLTBpLU5OdGd4c3gxQ1Y2UVl2ekZCZkdDZkZ4dnhrOGthVkczaEpoVVpZbTNtMmtVUmc3OWpXZk50TVRjeGd4Rm05Wm1yX0thdUZwblY3T3dzcWpuWmpMNk9xTzBFSVBWNnFTbXR3N1dpZ2Zfbk5jWThnbTFZV0tvbk0xYnRXZ3J0aEp0a2ZlTGp0ckhhQmdzUVIwb090V0VMVW5sUGZxUQ?oc=5",
@@ -293433,19 +293400,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 4,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
         ]
     },
     {
@@ -293551,18 +293518,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.46358359371150737,
+        "topic_probability": 0.16041355358935672,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -293683,19 +293650,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 0,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.40264027088867665,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -293780,19 +293747,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 4,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
         ]
     },
     {
@@ -293883,19 +293850,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.3257096703659092,
+        "topic_id": 0,
+        "topic_probability": 0.514947771153807,
         "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
+            "teatro municipal",
+            "feira",
             "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -293985,19 +293952,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -294094,19 +294061,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.16331387166379221,
+        "topic_id": 1,
+        "topic_probability": 1.0,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -294219,19 +294186,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.16954314517362248,
+        "topic_id": 1,
+        "topic_probability": 1.0,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -294321,7 +294288,7 @@
             }
         ],
         "topic_id": -1,
-        "topic_probability": 0.1253050922825546,
+        "topic_probability": 0.10260548487185296,
         "topic_keywords": []
     },
     {
@@ -294423,7 +294390,7 @@
             }
         ],
         "topic_id": -1,
-        "topic_probability": 0.13525938717451033,
+        "topic_probability": 0.10836410076547749,
         "topic_keywords": []
     },
     {
@@ -294516,18 +294483,18 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.4678263349375044,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -294637,9 +294604,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.005345451284448817,
-        "topic_keywords": []
+        "topic_id": 15,
+        "topic_probability": 0.3626998040246021,
+        "topic_keywords": [
+            "cova beira",
+            "vila",
+            "cova",
+            "encontrado",
+            "sertã",
+            "poço",
+            "chama",
+            "uls cova beira",
+            "cobra",
+            "guarda"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4MjREZkgwWnhFUnVKSDFJd0pKVGliR0RDcVU2NGVGZUVjV0lpX1ExNm5GbU5sV0Roa0tHbk5ZRG9vd2FqTFdUQnpqWDNiYTRMR3pWMWNFT0IyY3BDS3c4QXhwNk9QVllTZ1dj?oc=5",
@@ -294735,19 +294713,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -295432,19 +295410,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.34236020699063746,
+        "topic_id": 0,
+        "topic_probability": 1.0,
         "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
+            "teatro municipal",
+            "feira",
             "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -295538,7 +295516,7 @@
             }
         ],
         "topic_id": -1,
-        "topic_probability": 0.15743994407458992,
+        "topic_probability": 0.5115360891826309,
         "topic_keywords": []
     },
     {
@@ -295636,7 +295614,7 @@
             }
         ],
         "topic_id": -1,
-        "topic_probability": 0.15891033157907716,
+        "topic_probability": 0.5144217965045221,
         "topic_keywords": []
     },
     {
@@ -295745,9 +295723,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.0053525124101888415,
-        "topic_keywords": []
+        "topic_id": 15,
+        "topic_probability": 0.3569736425032676,
+        "topic_keywords": [
+            "cova beira",
+            "vila",
+            "cova",
+            "encontrado",
+            "sertã",
+            "poço",
+            "chama",
+            "uls cova beira",
+            "cobra",
+            "guarda"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0lqaGZzWGZOeEFDYWdEOWRaNTlTWkdRZW1iUFF5dWhJN0V4dG1fd0hsN1hFMnppMnFKTWFoTXVQOXVCMVNWMXpJZjJibERKaHFYMGJKQXI2VmtSbjVwXzM0cjV3QVc1WWVsRWpZZ2dXNF82UlA5MHlIZUhOdkdoVU95TnNIZEJONVZTbXBjdjVMM2JYLURhWnQ2NVpncHI3SWZkcTVlX0JHcWIzRDU2aGQ3OA?oc=5",
@@ -295840,18 +295829,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.48347938953111674,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -295960,19 +295949,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5139180241165068,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -296081,19 +296070,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5095744105189726,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -296226,18 +296215,18 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.4092372450884505,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -296347,19 +296336,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5159634635610033,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -296476,9 +296465,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.11375030332527038,
-        "topic_keywords": []
+        "topic_id": 9,
+        "topic_probability": 0.6075836557434097,
+        "topic_keywords": [
+            "inaugura",
+            "universidade beira",
+            "universidade",
+            "estudantes ubi",
+            "universitário",
+            "universidade beira interior",
+            "universidades",
+            "beira interior ubi",
+            "académica",
+            "beira"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWlVQYkpVN3EwYmliWFMyaF85a1FqSndybTRSR250NEFzeVNzUllWWXJNUHRYUGJibHBSZmpXYTUwRldxbkxkOHE4Wnk2bGJFT0toNDBLdEtHR0pKTGExamU3S0RVNUhrTlk5ekRIbWZkcXBkMVY2X1BMUmxWdk9DRnlBb0NxXzA3?oc=5",
@@ -296594,19 +296594,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 0,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -296711,9 +296711,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.005350745703244003,
-        "topic_keywords": []
+        "topic_id": 15,
+        "topic_probability": 0.36375745167826584,
+        "topic_keywords": [
+            "cova beira",
+            "vila",
+            "cova",
+            "encontrado",
+            "sertã",
+            "poço",
+            "chama",
+            "uls cova beira",
+            "cobra",
+            "guarda"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMk81enFHZG1EUlVrNW5GWnZ3NmppQ2RGRjB2ZFhvTlFDblFSaUI1d1ZhOWRBQWF0NXVFLVZfTnJPOVdyeVRjYWJiZFhCdV92VVNHekRqRk9YNHdlOXhSamktVkd6SXFUcjcxQ1h6di1OUUhoMmZRejdGT3ZRb3U5ZUpKVDk2dFd4LWh2bFhtWG93T19rWWh0RjQ3VmtsSXpZaE9uaTNXel9ZVVFVTk11M2JDb1ZzdUdBWjllekNDdWREOW5MVDR1UnZuc1NlSjY3N1M4?oc=5",
@@ -296829,19 +296840,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5241864498576161,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -296966,15 +296977,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -297079,19 +297090,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5162436664784916,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -297220,19 +297231,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 9,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -297405,18 +297416,18 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.408179161233676,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -297574,19 +297585,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.2822556071592012,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -297669,19 +297680,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 4,
-        "topic_probability": 1.0,
+        "topic_id": 3,
+        "topic_probability": 0.6578249553419392,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -297798,15 +297809,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -297903,19 +297914,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -298000,9 +298011,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.005363645294667677,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDR5MnV6SHpza1BtQXVzR09HVkhibE1vYi1LZWlWbWtodGxmVTZHTS1ScVR2V0M5d1lxR3U1RTQ0MlNZUEJRT2Q5WDNxaE1nMjJUODk0WTVrWW9nejVmZjRlN2lINm45T3RmMkZUUU5wZmd6a2pxMGEyMXhTd2thMGN4QmwwWThRcDFkVDYxLU5HNFhMMzJDazhRX1MxVURDMEZNUm9wTjhIbmNRbU5KanhIR1d2Zw?oc=5",
@@ -298110,19 +298132,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5177624912833282,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -298243,19 +298265,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.2292726884719166,
+        "topic_id": 1,
+        "topic_probability": 0.4224333616116406,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -298364,18 +298386,18 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.28371558334746666,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -298541,19 +298563,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.1905913084617926,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -298690,20 +298712,9 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.4144077400333383,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.0998000738633193,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkR5Y0hnX1VjdFdQa045QlN5aE9Qd0E0NWIwQ0NHODFFNi1vVmNZYjZBdTl1OFFuZjZ0elNJUEp6R1p6TFV5RGZDU05iNXgwcURvVEduRk55TGNyUlB2LXVWS3BmMHR1RGNFejUzNGxyWEZqeE1HOVF5dTBCMXdNdmFMdndTQ1JEWlZ3RnR2Y3Y0M0pTSkdOQl8wdkxjem9OREstWTVZNC1ONW9KVFJoVndBR2tPNWJ2NERj?oc=5",
@@ -298807,19 +298818,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -298932,19 +298943,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5130336295823945,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -299041,20 +299052,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
-        "topic_keywords": [
-            "canhoso",
-            "estrada",
-            "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.23034957130899514,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWI4X19XZlpFSWNBbVdtLUt5T2UyaThQSlZCSG9XLXJIcjlBOWplYktrYzM0RUwySlZNNTN0clp3ZDVZQ1VybzRFMlN0OGtPNVNzUTZ3b2NoNHpPUWE5OUFzOGs4T2w3Q2h1czZGbGhYQ19VNFAtTUhGTDl6UUZjdzVjMk9rTmY1a1pSVnQ2MFZ0SVNpTHdDSjZLQl85N2J0OW9LRFB3T18?oc=5",
@@ -299170,15 +299170,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -299304,18 +299304,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.5990029086301099,
+        "topic_probability": 0.5121856910718684,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -299436,19 +299436,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -299558,18 +299558,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.5432347741906943,
+        "topic_probability": 0.5158942274902146,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -299662,19 +299662,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -299767,9 +299767,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.1267513963139507,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcDJ4Ny1zVFNsZEFrM2RkTEgxU0U5RUEwdlRjMkdFeS01eDllYkhNeVJwQkxuN0RqLUp3WGUteTg0QmdrMDVwQmZRVzRKbHJhOERtMjd6UkNIbnhFUGwxRW5kaUhvNjgyendiTVNIVHd5ajhzVFdHMkYtSVpvZDZsYzFRR2FoT3Zkbi1yN1BSb1hzcDNMQWtlWGVmRWlfT3Aycy1mRm52RjFrb0FZR0JXUTJyVzJEZDJla0pEODhYV201amJ2OU9VOGlJVDZvcWFLSHFlLWg0RC00dGMwYlI3cUszMHMyUlpMSUhXT0IxQ1RRbW9kUGIxZ3JMRFlvbk1RX3N2TDlKUVM4UFJwR0R0NVNLYW5JcFll?oc=5",
@@ -299853,20 +299864,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.2888801287873188,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.08216220298683888,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTThfWTNtRnh5QXJBbjRmcTlrMThrQ3Y1STZsTXB1X18ybTItaHhSZHFndFJqa0J4MzhtcUpWN1ZjSDFJZGE3eWJSOGg2bUFuR2VuWFZzLU95VUxtOWhLWHMzZkNIdVMwOFVsQ1pTZk9LYk9wcHFQa3kweWtPUC1lWFAyUmFkeGdoa0RSZTFyYTlkRi1MYVRzMW44c0E5WW5GdlJzU0NsUVVyZFU?oc=5",
@@ -299978,19 +299978,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 3,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -300128,19 +300128,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -300261,20 +300261,9 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 1.0,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.042742097499196004,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdHZ3R3A2U3RqZi1vSFFBTE5lXzRaTWh0YkY4UHZya09TcFdFSmwwN0VPd0Q3UGlVSFRCR3dXeUw4TFM1clVzQTREZUp6YmJubHhTOFRrSTltSm5jUWRIekFOS01ubi1YZ3BnbDRIXzU1YXh5NjlpUjA3STJIaDV0UGJqTkRHNVpNalZ5b001NlBqMWVNQmJnUzVlZU5UcGFXUHgwa1V2Y2NiaFNMT1dQRTNncURPZFBGVWZKODcwNVRXOHZNREVNZVpqeWRabDUxOTQ5NDg4RXo0WlhTZU9UaFViMGVxUQ?oc=5",
@@ -300398,20 +300387,9 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 1.0,
-        "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.2268963187748095,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbmNpMlNqNGNncjI2cnkzOEluWm9sWEIyMUxZWjdiYjAyMEQtWnRDNlIzTkFMTWx3NzQtMTFMZmV6cHY3d1g3b0tYYUtIRWdHZUpIWVJKNHdZRnFSUjhROVo5NWM0U1VqMkIxMHd0RlhKSE4zZFZyTXN5TXBBQWxJdGtNMU1ZWU5oM1RWOXczYzdUT2w4VWZqMkxmSGF3SEdhNEh1N2pOWGhEYkJQVWd6NDhMOUhHc3hBVl9hd3lrZ21mTi0zVnlnSWxwREt1dEpubmtUYjRCV3N0MkphMVQ2S0d5RmN6STNFQ1VocU4zVjhtb3Yzd2dBSDZjc0FZcUctQmdhcnh0NHprT1VmeDBmUmp6REhRREJMRU5DTA?oc=5",
@@ -300496,19 +300474,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.2491492293940403,
+        "topic_id": 5,
+        "topic_probability": 0.3664457040123946,
         "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
@@ -300622,18 +300600,18 @@
             }
         ],
         "topic_id": 6,
-        "topic_probability": 1.0,
+        "topic_probability": 0.21058214173908207,
         "topic_keywords": [
-            "feira",
-            "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "lojas",
+            "serra shopping",
+            "centro comercial",
+            "supermercado",
+            "loja",
+            "mercadona",
+            "shopping",
+            "mercado",
+            "vendas",
+            "portugal"
         ]
     },
     {
@@ -300726,19 +300704,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.5324557169523508,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -300875,20 +300853,9 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 1.0,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.20574487782974624,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxNUmpzX3RpU2JaejdTWGFkWUhOc1VOSW1IaDJkS1VrZlFYXzBPa1dDUU9wdmNydFdDZC1Gam12Y0hNdldPZ2QzVnR6YUNXQlBjSURBUHZCRDF5M1p5dzZsSGJXOWVFSHJYdFhZRkdCSzBoWXd6NnByTElHQTgxMmluby10WE5NSVBwR3J2UE1DQ2stQU5BV3hjTUloRHd5VVB6dFZoQ3BFTi1pSTZDYm5ybmtwSGYzWlJtU09xYzZMS0Vrb2RXQzIyQXlIOTA3V0RFcE9Vajg0NG1MdHZFUUdFVlVDTEhCTVpuQzREdU1zb3FlQkFKa3lZY28zQXY2RGxvWjhyVHFYM0Z2SjItUWtDeElSNmZscXNiUEFrZ3U3c24zYUtkem52R3NrV01PZlFXVHNjRXBVdWo4RU5DMzNOUTI1NV9UTU9nU3luX3hBbU5hX2E4SmFTZ1pNTDVRRzVranJLaW90YW45R2RhZUtNdlhtU1JsWmNYQ3FYNUdleGZ5VnNicm11Y2pRVDFJRW9jSDJQM2hhY3VNOFQwOGJFa2dNdm5LRGIwcFotM2RBcnB2WFlsQXA4blJUTy1QUnpRb0JnWURiWklTUUZ0dlVZd0pXaDlxZXM5blJaZWxrdzdpNnprMmxRRWxtUV8xNmJPaUUtSS1xZEhLWW9OaU41ai02b3FlLVI3a0tBSC1aTTlaWjI3eVVDQmJBQkl1bW9ORW42aFRnUFQwRjI2bkJkckhTZEpKUTBWaHhxMU9pMmt0Rmtaa2V5Mk5IN0tfZm04?oc=5",
@@ -300972,20 +300939,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 2,
-        "topic_probability": 0.2761524674678423,
-        "topic_keywords": [
-            "portugal",
-            "portuguesa",
-            "lisboa",
-            "liga",
-            "tiago",
-            "serra",
-            "cruz",
-            "equipa",
-            "fundão",
-            "joão"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.08218774777174202,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1E0R1h6MXNsRzFtTDJYMkc2cUV3X0hUbUh1WUNoZjY2c3ZLS1o1cmd3ZFY3dWM2c1JZb2xIdlFFYlZSdDFMeFh5cWd6VHgwTE5aRGtzTzRfM283dVdRS0JJZU5HaXVnUnA5WGVwcEtydjdNNnhOcW1IMWNBMk5TTGdxNnllSWN3eFVQalhDNnNpSHpONms5S3BXWQ?oc=5",
@@ -301193,19 +301149,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.39769576899538617,
+        "topic_id": 1,
+        "topic_probability": 0.482345597769221,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -301339,19 +301295,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 4,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.882763238826261,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -301496,19 +301452,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.6662306803174153,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -301649,19 +301605,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -301754,18 +301710,18 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.40554278510140646,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -301931,19 +301887,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.3312158189572327,
+        "topic_id": 1,
+        "topic_probability": 0.5403844704273264,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -302032,19 +301988,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 0,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -302145,9 +302101,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.14084951863210685,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.541058876777007,
+        "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SWmtmUFNwbG1lOVJjMWRhUzVzSzg0MFR0dlRlU040QzgwLWd1cVNQTm9HRUxZa2lHQmROeWg5NGRJR3BHLU1wbVJqbFlfV2o0Y2lMTFl4S0F6ODF6dHN4MWI2WmFtTjhJelRF?oc=5",
@@ -302239,18 +302206,18 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.4083490567497959,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -302364,19 +302331,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 3,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.3402062541487893,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -302505,19 +302472,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -302634,9 +302601,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.17199551884489922,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjZXFvNm9mMmZ6NHlHcHljRFFQcFpPWllCeWZUSm83NlFxUFlqeUNsaEJ3TzE3TGJGOEVERVB3anZ4aUNvNzBqSFR6RlEtbmZudmNfSXlaNlFWb3pOSDVUUEVXeXBDSGJwaGFkaTBJbG1XQ1c4UE5wQ3RXUmZUdw?oc=5",
@@ -302749,19 +302727,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 0.3020107084283559,
+        "topic_id": 1,
+        "topic_probability": 1.0,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -302880,18 +302858,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 1.0,
+        "topic_probability": 0.5417259342716289,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -302967,19 +302945,19 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": 0,
-        "topic_probability": 0.16379044531167133,
+        "topic_id": 7,
+        "topic_probability": 0.07167848927917167,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "detenção",
+            "investigação criminal",
+            "departamento investigação criminal",
+            "criminal",
+            "polícia judiciária",
+            "prisão",
+            "polícia",
+            "crimes",
+            "pj",
+            "crime"
         ]
     },
     {
@@ -303112,19 +303090,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -303210,18 +303188,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.42658244066214074,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -303345,18 +303323,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.3908106249369075,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -303422,18 +303400,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.41934131774374417,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -303520,18 +303498,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.4281543387086049,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -303585,18 +303563,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.38793243242295267,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -303778,19 +303756,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.665604145257228,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -303881,7 +303859,7 @@
             }
         ],
         "topic_id": -1,
-        "topic_probability": 0.11086681346974923,
+        "topic_probability": 0.1008620812897999,
         "topic_keywords": []
     },
     {
@@ -303974,19 +303952,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.2861357319786941,
+        "topic_id": 1,
+        "topic_probability": 0.4746965012551349,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -304099,19 +304077,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 8,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -304256,19 +304234,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.6775080626846974,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -304357,19 +304335,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 0,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -304450,19 +304428,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 5,
-        "topic_probability": 1.0,
+        "topic_id": 3,
+        "topic_probability": 0.3143025192322546,
         "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -304563,18 +304541,18 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.4612202256555098,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -304680,9 +304658,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.005349892366955097,
-        "topic_keywords": []
+        "topic_id": 15,
+        "topic_probability": 0.3638569207627293,
+        "topic_keywords": [
+            "cova beira",
+            "vila",
+            "cova",
+            "encontrado",
+            "sertã",
+            "poço",
+            "chama",
+            "uls cova beira",
+            "cobra",
+            "guarda"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlN4b2JlNzBGSzFXaGFKYm1oSlI3YkNNUFJ1cXZNWVZIaWJETy1QWGZNOWlhdnNmQUJUMVp4NjhWYjFLMnIzRUF4OVJNRXo5SlVoMUxSenk3QWkzZDZwVmw3SWVnSDBXbElwRlhuVnJ0UFJMUGtvc1Q2Umt5ZVVmZDNBSUJCb2poNnNuVnE2cW1pSnUwM0NyTnNLM1c3ekVvV1NDN1QwWldzZnN3azJlVQ?oc=5",
@@ -304783,19 +304772,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 0,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.41335434002090093,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -304884,9 +304873,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.13755039803217173,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.02961462000835777,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTNGUHFLR3p0bW1FWUktM1dJNy10LWRWeG1kUEtiUGJoSDYtTGR6ZW9pcVBOelVnVV9La1RDMUVDZmZIRDZxR2NuaG8tRUpOWUhjcGZzVFc2aDY5dlByZmJFdnNSTzJiZWJXT2R6YTNsMm5RMDZzYUtFSFcyOGxjRDV3cUswT3ZIUDZ1X1ZSbzN0c0E?oc=5",
@@ -304978,19 +304978,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -305100,19 +305100,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.18094415431279942,
+        "topic_id": 1,
+        "topic_probability": 0.6611452848876489,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -305221,15 +305221,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -305330,19 +305330,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 3,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -305519,19 +305519,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5295251189971286,
         "topic_keywords": [
+            "vereador",
+            "eleito",
             "assembleia municipal",
+            "eleições",
             "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -305625,18 +305625,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 1.0,
+        "topic_probability": 0.6746145107501729,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -305741,9 +305741,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.00535167139866564,
-        "topic_keywords": []
+        "topic_id": 15,
+        "topic_probability": 0.36164175832540957,
+        "topic_keywords": [
+            "cova beira",
+            "vila",
+            "cova",
+            "encontrado",
+            "sertã",
+            "poço",
+            "chama",
+            "uls cova beira",
+            "cobra",
+            "guarda"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXhjclNnam8xbktwZk9MMXllX3kwZjBSTEFCNDEwMDFRdFlnY0FGVFlNQnpYQXlYaWFPQnJ3OEh0SDF6Nkd5enREaDlrWEljV0doVndhU0lLcEVicUdKS1U5RU1GbmJtelB5cWl2czIxZkp1Z0I1QWhlYjJmem5OZHZkU3pYOUE4Ym41Mkhlejd6LU1FNlJZMmhQbkFWUjZqWGNXWWJlY2J0OW5oR3VEakdWUWRKaFhUSWd2SnZlbEs1RFk1X3l2cw?oc=5",
@@ -305839,15 +305850,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -305960,15 +305971,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -306117,19 +306128,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.1335210724517599,
         "topic_keywords": [
+            "teatro municipal",
             "feira",
+            "tiago",
             "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -306242,19 +306253,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 1.0,
+        "topic_id": 1,
+        "topic_probability": 0.5263450232496087,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -306371,19 +306382,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 9,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -306476,18 +306487,18 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 7,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.40715250678145554,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -306577,19 +306588,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 0,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "escolar",
-            "escola",
-            "ensino",
-            "projeto",
-            "comunitário",
-            "iniciativa",
-            "alunos",
-            "apresentação",
-            "apresenta",
-            "crianças"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -306686,19 +306697,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.40889093862152714,
+        "topic_id": 1,
+        "topic_probability": 0.5705666749054992,
         "topic_keywords": [
-            "canhoso",
-            "estrada",
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -306795,20 +306806,9 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 6,
-        "topic_probability": 0.25963472228918244,
-        "topic_keywords": [
-            "feira",
-            "festival",
-            "portas",
-            "fim semana",
-            "verão",
-            "comunidade",
-            "encerra",
-            "locais",
-            "sol",
-            "evento"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.07090151008785703,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sQVB5dGVrbXQxTi1DaEZjYlZ1TVVhSkxBNGt0c3hsYW50UnBqVGROZlpHUWE1a1JQa1BqdU1aNmtOamJRdzNxZEloQnVJX3ZqZGJEem1iclVuNGl2Y3ctWVJ6bl93LWNlcldN?oc=5",
@@ -306888,19 +306888,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 5,
-        "topic_probability": 1.0,
+        "topic_id": 3,
+        "topic_probability": 0.3167656268432875,
         "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -307033,19 +307033,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 8,
-        "topic_probability": 1.0,
+        "topic_id": 4,
+        "topic_probability": 0.173913816397897,
         "topic_keywords": [
-            "assembleia municipal",
-            "municipais",
-            "assembleia",
-            "junta",
-            "aprovadas",
-            "municipal",
-            "contas",
-            "maioria",
-            "concelho",
-            "aprovou"
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
         ]
     },
     {
@@ -307158,15 +307158,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -307303,19 +307303,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 4,
-        "topic_probability": 1.0,
+        "topic_id": 3,
+        "topic_probability": 0.17320808669203286,
         "topic_keywords": [
-            "municipiodacovilha",
-            "museu",
-            "municipiodacovilha atecerofuturo",
-            "covilhanense",
-            "património",
-            "portugal",
-            "património cultural",
-            "portugueses",
-            "eduardo",
-            "história"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -307428,19 +307428,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 1,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.1293032125517077,
         "topic_keywords": [
-            "vila carvalho",
-            "desportiva",
-            "junta freguesia",
-            "freguesias canhoso",
-            "desporto",
+            "teatro municipal",
+            "feira",
+            "tiago",
             "festival",
-            "participantes",
-            "clube",
-            "união freguesias canhoso",
-            "vila"
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -307521,20 +307521,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 9,
-        "topic_probability": 0.42105447966218146,
-        "topic_keywords": [
-            "canhoso",
-            "estrada",
-            "municipais",
-            "municipal",
-            "rua",
-            "cidade",
-            "vila",
-            "área",
-            "belmonte",
-            "zona"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.22937776255827538,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVh4bWVmeE9hTVhBMFpGM1RHVzFVazRFc2kwYkRIdjJLRndOQzliYmd2OTVOMjJYNTQ0MHNiWGp2QW1pU2hoNkxrMG5udGZpY2EzLS1pRFp2RGZiLXRkeW1Ic1NpNmFuRkRGLTVUODVNeC0xV2pDZHlpYUlmZ2E1NnQwN08zWEFkQk1kZTdpdVdPaDE3UDJ6MGRB?oc=5",
@@ -307647,18 +307636,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 1.0,
+        "topic_probability": 0.4672250478286865,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -307755,19 +307744,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 5,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -307996,19 +307985,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 5,
+        "topic_id": 1,
         "topic_probability": 1.0,
         "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
             "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
         ]
     },
     {
@@ -308113,9 +308102,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.15697755772853517,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmJpYnotZ2JESGlkaHg3Y0tXSnFicnVQNkt2cHBqWGVmdV9kTW9pUXY4UjZlT0JuazJJVkgtbzlyVHZzTnhmUGQzbDRwQ1IxUkdBYVZBcjZXOThqMTQwQzk0NE9qS2Yta3k1QnNiTFE2V1pTQ21PRUc4MkJZWUY4eTYtaW9GcDBhUHdyZA?oc=5",
@@ -308231,19 +308231,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 3,
-        "topic_probability": 1.0,
+        "topic_id": 0,
+        "topic_probability": 0.33430219068263833,
         "topic_keywords": [
-            "espetáculo",
-            "teatro",
             "teatro municipal",
-            "concerto",
-            "concertos",
-            "apresenta",
-            "musical",
             "feira",
-            "lugar",
-            "sala"
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -308344,19 +308344,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 5,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -308461,9 +308461,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.005340088803306114,
-        "topic_keywords": []
+        "topic_id": 15,
+        "topic_probability": 0.36258555881797144,
+        "topic_keywords": [
+            "cova beira",
+            "vila",
+            "cova",
+            "encontrado",
+            "sertã",
+            "poço",
+            "chama",
+            "uls cova beira",
+            "cobra",
+            "guarda"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNktKQVY2eWlwUi1HdTk1ZlJMeE1qQzF5anR0X25oSGpTd1pldVRtTWdCM1ZsWjJwcnJkUGI5aTJCaVJUemJ4ODRYNnQ1RVQyelB2MEU0UGRnUi1ORGJQeW1lZlhpRHZONzlhOVJ5SkNTdHYtck5PamRpSGYxSXFfOWIwa3gtdmJzdlRwMmoxLU51NzRhd2tqQnZTWUpQZlF2ODg5R0UyMTNVQmFEbjF6em9n?oc=5",
@@ -308563,19 +308574,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 5,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -308660,20 +308671,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 5,
-        "topic_probability": 1.0,
-        "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.025611705320214163,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzVLUGRmTXBIanJPb2tkUWFVRG45ODV1MHkySGtUeFp5VUhIbG9CU25VX1lMU3JPanhPNUpGMnVrX3JyYVhkRlFINmdPcEtqU3Bienp2bmlpQnA4dms0MHpqQmxVZGRpb21Pc0pSdHpmX3hLOHhXUXREMXBUdzIwVHlibUU3a0UyNE5Kcl9RZ0pUcjZqUzQta181a3pKSjFFbHEtUGlmZHplYkI4dk5yZ0ZkSEVpajh3RW1BaWgwU2g?oc=5",
@@ -308773,19 +308773,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 5,
+        "topic_id": 3,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
+            "incêndios",
+            "incêndio",
+            "fogo",
+            "chamas",
+            "bombeiros",
+            "bombeiro",
+            "associação humanitária bombeiros",
+            "humanitária bombeiros",
+            "bombeiros voluntários",
+            "alerta"
         ]
     },
     {
@@ -308870,20 +308870,9 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 5,
-        "topic_probability": 1.0,
-        "topic_keywords": [
-            "municipais",
-            "junta freguesia",
-            "juntas freguesia",
-            "alerta",
-            "balnear",
-            "concelho",
-            "disponibiliza",
-            "municipal",
-            "feira",
-            "locais"
-        ]
+        "topic_id": -1,
+        "topic_probability": 0.025603060243624236,
+        "topic_keywords": []
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWhPdHU5Q3VjZ1hITGJzM0Vjc2dPS0VJVk1Nd1dXVWZrLUlTTHhXVk1lZk43T1JyaUN2Z1VOX3JWcmNSUGlZWlA5OGtnTjJxMGxfbXRsbGhhanVNM0EzZnFQR0VpTkpCRDl1bV9MWmJicnZkY0hiLThJYWtQTXotTTFNWDVUR0FnTGpCN3BCbnRvbHpRRDZNU2ZlcVRLZWlw?oc=5",
@@ -308995,15 +308984,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -309088,18 +309077,18 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 7,
+        "topic_id": 0,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "português",
-            "peraboa",
+            "teatro municipal",
             "feira",
-            "portugal",
-            "beira",
-            "concelho",
-            "esteve",
-            "frança",
+            "tiago",
             "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
             "fundão"
         ]
     },
@@ -309194,15 +309183,15 @@
         "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -309288,18 +309277,18 @@
             }
         ],
         "topic_id": 2,
-        "topic_probability": 0.4119638214588842,
+        "topic_probability": 1.0,
         "topic_keywords": [
             "portugal",
-            "portuguesa",
-            "lisboa",
+            "gustavo",
+            "campeonato",
             "liga",
-            "tiago",
-            "serra",
-            "cruz",
+            "sporting clube",
+            "joão",
             "equipa",
-            "fundão",
-            "joão"
+            "bola",
+            "serrano",
+            "futebol"
         ]
     },
     {
@@ -309416,9 +309405,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "gustavo",
+            "campeonato",
+            "liga",
+            "sporting clube",
+            "joão",
+            "equipa",
+            "bola",
+            "serrano",
+            "futebol"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkozcndweURrSUdiUkpGZ3FEdHdIMXFLdTRYdjkzTVF4SV9XcUNncTZZQ2ktbGE2bU9fOWVSaFFBYW12TE5USDVrVTJFN08zQTBsM1BkMUZrdGNCOFV0dkluXzVvVjMtMkxSbUZ6WlVzWm9YR3VEVWRFanpJUk5yd295Y1drellhN0VHVDc1a0g1SkRtM3VtZFRzYXRQVG8x?oc=5",
@@ -309530,9 +309530,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "gustavo",
+            "campeonato",
+            "liga",
+            "sporting clube",
+            "joão",
+            "equipa",
+            "bola",
+            "serrano",
+            "futebol"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlFqbEFlZDhyNkdlSmFVWFBtOWlEYklxZWZMZ0FaN0dMX0hnMXJncXRLN0tjWUozaDNGa243amtNeGdDQVllS3lxVGJ0U2NkNklIdDVOV2NSRm1IUHRJaE0xVUtPN3M0T0t4Y3VtTUxRSmVmSVl2QTl2RVNsa2dMQndqVWdrU3R4VW1YZmV6Z0RYMTVLdDVzTlRodlk1aGtCdGxBczdUV1BZWUZaLXhBQjRwLUh0SjliZkYyMS1WMDNfX00?oc=5",
@@ -309629,9 +309640,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.07893709195594739,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3k1R0pJcFhZaGxjcjZMZTZMWWtEQm9DQmk2cFU0UTNxQ0dTT3JEWVRRdGJsd0dFQUY1OHlXV0U0OVFnS2d3dUlTTVVLb2Jianc2V2tzYzNtZXZPSzVXRElJVXltb3Q5NzJwOTBiQXBxMkhpSnduUVgwVVp5S0pVQVRyUk9yaUx5cEFmR3h2NE9YV24xbXNGbXp1OXB3ZFM1TGVlS1RYcEhMQQ?oc=5",
@@ -309739,9 +309761,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "gustavo",
+            "campeonato",
+            "liga",
+            "sporting clube",
+            "joão",
+            "equipa",
+            "bola",
+            "serrano",
+            "futebol"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3pwRnB4b3g3ZDBVV2lCRHljamI5a0xsdUkxZXprRk5PaHdGMDZQaEdDRlotVDNYbnd2dHA4LXdFTWxKbHl4cFY5eFg5bTlMWWo1aTVrYTF6Yk1CSlllSUdNSWFoYVhNVzdYV1BnT2VBdUJFdG1aT0pUc2dGVl9ScFJCV3dxZ09GZUx6ZTlpeHMzSkVLa2VuSDMxZWR3MkFQdDN3b19VRGc0djIzZ0hUSGhKdWpMUHc?oc=5",
@@ -309837,9 +309870,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.09877366115485117,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PSjlGWDUyUzJnX1lrSUlZZzVOU2VXaUdybnZ0YUJMSnZDM3lTeGlPSlNVd2pVMUhNMGRSSHowb1VZaVdJaGhMQkNSbXJrMDdWT0xldHVCYkpaOUtXSDhEWWhjcGdzeDhPVWJn?oc=5",
@@ -309931,9 +309975,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMWNROE1wN2hWeG5vbnViZW1YNExTZHhPTU9hLUJZdExzZEk2V0ZWLXVuUmozeF9XaF94T0VUOG1zVVZPcFBxLU5PWGZnc3VDdkFWc1otdndfYlZqbGdDVDFrTVhnSnhpVXl2SE5vS2lSX1hnZ0NhcTJtd3lhekozZkp4aEZURElHeUhnXzAwTndMUUoyaHFPYU1aNG8weFhpV1RHaS1KdTVTY3AtYlEwU0dKZGkxN1JMLTRlUG55cFU1bldrMXdldDhWMzlEYVlKMnRPMTBWTkFOYUNvTXhsaF9zclhwTGNRMktITE5WNkNjTWRXUlFlWGdR?oc=5",
@@ -310049,8 +310104,8 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
+        "topic_id": -1,
+        "topic_probability": 0.23255252415271008,
         "topic_keywords": []
     },
     {
@@ -310159,9 +310214,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 4,
+        "topic_probability": 0.4371570908960179,
+        "topic_keywords": [
+            "local saúde",
+            "unidades saúde",
+            "unidade local saúde",
+            "cuidados saúde",
+            "saúde uls cova",
+            "nacional saúde",
+            "serviço nacional saúde",
+            "clínicas",
+            "clínica",
+            "saúde"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnpZYk1BbUZZc1RzWVZWRFVobEhyRDhCYm1LSEJJeDh6S3kwYkNZY2NFWVFQdVUtZzhKTHAxWmxiOUFZc2gwOGJ0S2pTSjVPbXJiazNGX1N2dDl4cW5ETk4wb1Vpbm5LX3VBaV9ZTnZvcDZ5U1FlQk5DVzdFRFVwQlhOeGpCOU5hRm1FSWVVQUdrcnFBTUgwb1dCclBNNFNEcnpKSEtnOG9vMUpn?oc=5",
@@ -310261,9 +310327,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 0.390721629282811,
+        "topic_keywords": [
+            "portugal",
+            "gustavo",
+            "campeonato",
+            "liga",
+            "sporting clube",
+            "joão",
+            "equipa",
+            "bola",
+            "serrano",
+            "futebol"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSEhvb255eEFlWXZCRFFaR2s2aklENFJJbkJyd1hIaWtYTU53cVFTYWtuekZxZUZsa1NGeUhXT1Q2TDNYZGdLWE90ZUtTNHhuei1nR3RWZVNpVjVwQ0VQYl92V2FLSzVpNkZHSTVvZVVsZXE1Y3RLaTdIejYwNlgtdENTT3lscFhIclNpcW9saEZOSC1rUktnWGY0a2RkbUJYMDRqSjJKeDFkcnRaMkdBYkNDdFJvNDFGRmdJ?oc=5",
@@ -310347,8 +310424,8 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
+        "topic_id": -1,
+        "topic_probability": 0.025591270990405826,
         "topic_keywords": []
     },
     {
@@ -310481,9 +310558,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 9,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "inaugura",
+            "universidade beira",
+            "universidade",
+            "estudantes ubi",
+            "universitário",
+            "universidade beira interior",
+            "universidades",
+            "beira interior ubi",
+            "académica",
+            "beira"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVp3Qm5ZbGhXRmtyNzJoSFZlUEhjU2RXREcwU3BmMk45ajhwZF9KME9Uck1paU5qdVc0WWtZcFpJWldJb1I0WFRqcnM3RnQxYk1SdjZwQktfbmloeHVzNllrVGJ1VUJGRTh1dUdYWmZHUHAzdGVBczR4ODJXZUhDQnQ4WGJ1OGxHWDVpakRCQWpZRGlGaVE1dVl4bEQ4dw?oc=5",
@@ -310567,8 +310655,8 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
+        "topic_id": -1,
+        "topic_probability": 0.02558565557883506,
         "topic_keywords": []
     },
     {
@@ -310654,8 +310742,8 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
+        "topic_id": -1,
+        "topic_probability": 0.10086338633053132,
         "topic_keywords": []
     },
     {
@@ -310772,9 +310860,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOc0RWU1ZrdGJUckN2ODBlc3FVcFJGVlpVQ2xtOUN2b3dOVnYxdk1OUWlTdUk2NEpOeGlwZ1p2MmNzNkhReEw3NWZieUJjQ0I2RWJXTlpnN3FNWU9CLXRwZHB5X2taQS1IdGhfcnY1M0R5dks2ckotZFlSN2FJRVpYbnBqd1I5Q0F3alBHbDRCVW0tQzhhV2RNN3VwdVRUOXVuR21xUUZrWXduM3o4WHNGQ2JlNXpjVE1GSzZlc3ZrQ3YtS0tjMDhpa2RDUW41akVCQlRrU0t1SGxqOEs5MG55RTItY2d6Vzc4MWZUY2VuQWxrcFRWVVFQWnVqV1pWZGFvckk0NUM4aE5aOXNsSXZGX3RiSXlYTjdjRmE2a180R0plalRqcmZLM0FORmJhTnBta0UzajBxeGVIVUtuNTFfbUQ0VUVSVTlDVU1KMTdXWVc3QjFRaWJabmtWb2hEb0RZUlBWUDVJVHV5eGFTZ1BZRnRIT2w1Yk8wTVFtT3Ytc1g5YXhWcWRNdmhnOUhCbEg1RUQ1VV9WSmFoQ0pHMnd0VFdJZmxDS192Qmc?oc=5",
@@ -310859,8 +310958,8 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
+        "topic_id": -1,
+        "topic_probability": 0.10083484708385024,
         "topic_keywords": []
     },
     {
@@ -310977,9 +311076,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.2762166664192833,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEpWYVQyNkgzVFNJZGZmZ3dLLVFhdjhReXlZeUdQdGpaNUprWnpPcGI3RFlVTG5xTHlheTFTTnB1SnRVMFVST3N6RHp0OXdkZ2EtQjdwcnJ6LXVuenRIaXgtSlp5eERVaDNEb2c2eDRKLTVOTzE3NHVUeE9NQUt3dmIxQlhKUQ?oc=5",
@@ -311095,9 +311205,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FUkZ0R010VEdFTUFXVF8wTlYzeHIwb3BtMDBNQ2xxd2JtSDhMX2gwNlh0UTBUWkVFVy0yRmxwNmpMMDVFU0dndXE4NTRWdTJxUEltWlVLdEZoUFBxU3NoMDVtd1RrUmRKQ3UxVzhFeExuQ3pKTlhsejlkYVI5STg?oc=5",
@@ -311193,9 +311314,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.5300747523339958,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxLUJmdUhtbUVDSmZPVTF0aVBKNVA5aE9YTUwyWUFRS1lBOE5fZHBHTDREelpfMDRWMWNSOXZNMmFYa05mNjdsSDNQUjdHcUlZOXc?oc=5",
@@ -311311,9 +311443,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2lmczBtRVdxdHBUUnNHYloxOHBtMFB6c1E2ZTdOSHdyTHNfd3RWaU1MWGtuWGRUUHp1YjF3eG1waDFVRDV2RVppbXZRRG40VURxd2ZZc01BNTJmTWdOYjRnVnp0Vk4zc2Z3Ujl5dWx3alFOTFFtRmtHYy16T2dpWmhJWGRoek5kTlFPektiZllDa2dIZE5MT1RJYmVHa28wQ1FiSHlPY1VzdWpNSE9uV0VGVTQxMHllaEJOcTFR?oc=5",
@@ -311417,8 +311560,8 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
+        "topic_id": -1,
+        "topic_probability": 0.22920510962627677,
         "topic_keywords": []
     },
     {
@@ -311507,9 +311650,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.2864640519367643,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTVVfWGlGcnJERDM1Ql9QVjJoYmNpVlo4VS1KQzBfX3NxZmhxSElMTnN3Q3l5U2hQdHV6VmhCU1lHTmhhdDgyR1ZKTGZocFAyVFpLTkIxMW1fX1lDbkFLamdSc3pJbk1FbTBPYlVoZ2NUUERaU3pwc1AxQ1dEdHhDNWZiWG40NEQ5LWQtd1lEcEJ4Qk1oQXd6MVhmMkstVVBHSkttdzhHNFFsRlNyQVVVNHpGUy1hUVZSZi1lWU5n?oc=5",
@@ -311653,9 +311807,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCMlJqem1LUklOWnA2cUVCOUUzcUhzVDdTQmEzek9vN0dOOHIxb3VpYmc2elVxTTNPQXV4X3RHUGYyUk5QMXJBUlNrUXNMaVcyaHhVdjdGWUtxUS1hdWZGUXpwcFR3ZWpxQTlIUDNVWkV0OWdncHBz?oc=5",
@@ -311751,9 +311916,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYjViLXl4dDBuVDFMald2MFMySWc1TjdZZEFFMkJiTWpxeDBoTzJUVzROVGFDTjNIbU9wRC1zMzJnbUFqVWtNN3pDXzVETUdieWx2NHlGNllMYXRQWWk3eXlLbDkxOTRKckozTTRxREd6T0d0RGdYWVowQllLR0hYR0piWFljakE?oc=5",
@@ -311861,9 +312037,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sS29ieHh0c2NRN1RWcXhKSGVWNGYwZk9ZakFQLVFSalRPTFl2aDhHejhwSXVzeDh2NXpYZE5uTjlJQTdtcVo2YmJyVlROSkNXbkotM0c4d0tLZnlvQjBnSHI3WmY?oc=5",
@@ -311967,9 +312154,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUFPeFFQeDhJMjQtT1ZOR2VDZlJSeUc3NjQ2MkxxTHc3SmJNVk5kRkRzMDZGTWxNaF9RMDdqT3RCZXI4dmMyTWdxV0R0YW1iSEszUDFGZ3hKQVZtS3hjSkhza29LUDU4ZGtMejF0WGEwcXNyZ091Vlc0SU5USGpheGNLdU5FdVIxdjZBQXlIM3dsRmxldnpz?oc=5",
@@ -312085,8 +312283,8 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
+        "topic_id": -1,
+        "topic_probability": 0.26812624508510474,
         "topic_keywords": []
     },
     {
@@ -312219,9 +312417,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 17,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "isenção",
+            "habitação",
+            "assembleia municipal",
+            "imposto",
+            "tributária",
+            "residência",
+            "iniciativa",
+            "assembleia",
+            "fixação jovens",
+            "residente"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMFo0NzMwU3hCQVpNM016OTdjSy1xNEh0dHNEM0hrclhoM2M3U1gteWkxQW93bnZWNE9MVUR3bDJNS05Sa2UtbHd4ZVZIOGJMbTlLYWY3ekNZai1ZRzFpeXN1Yk5qeEkwT05EWHROY2lGR2htZXFUYmRId183bGtnSzN5Z2psdzQ4QVN1TG1INWlJa3M2UnRkOVdTakJHT0JSbmhHWHJxR2R1cnpwa1hULXc3N1czTnhVMlN6TXdJQy1TUQ?oc=5",
@@ -312321,9 +312530,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObV9haHU3dVRrNDV1VTNTUnNTQUZEbHBETGdrcGlSdkNqME02WFVxUjJ1SFl3S1BPdTE1cDN0ejJpaUQ3cVloUXdKUlBSZzFrTzJod01rR0ZaQ1ctWGpCbFdhMEJVSDYwenVFOFZuS1kxeFM0WmNQMGoyNnB6RVg5SG9haFI4WlBqYU81NTZWYV9aQ0xQSmwyRG1OT1NhXzkzZV9jNTFWZHVpcmFZSWFhdmhTN2pxdmFIbm1DVldnQjM5TklQX1ZHcDNfQ2Q1dTBLb0l3NTdPeFBoOHV1UERWc0hvUmtCNFVhb3JmS1l6TWVSVmJQc3AtdUVLYU13TzNGaXROag?oc=5",
@@ -312423,9 +312643,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.43424836063887423,
+        "topic_keywords": [
+            "vereador",
+            "eleito",
+            "assembleia municipal",
+            "eleições",
+            "municipais",
+            "política",
+            "candidato",
+            "votos",
+            "presidente",
+            "municipal"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjZzWXluaVBXZC1LOUk4VU5OcUlENk4zdl9KS0REemtINVFneXVoSERsWmNKa3NkQWtBajJvaHNOeFpSN1pLa3hKMVFxaVJ1Q2JiejNVdnRzY2w2Z1FfQ0UwbTdGWTg1X0tQR0ljU3FHYXhMS1VVak9weldUa0NzQWwySGJOemFJbFB4cXlVemhBYWt2Z0lkQkJYMGVqY2RrVHFqVXJOUFllbWhEMUoxdTRB?oc=5",
@@ -312513,9 +312744,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.6476640911602597,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdXp6b0VXOGVxdFhrLVJpbktaTHR6VzZkZGVsSEQwNEhGVHpkQUczZU5aQ0J1WEhNaVZ4ZHl5cURIYk54R3g4TFlPcGRWVlJOU2swQmJWUmp2MExnOGVKRFVqOUdHNDU4dWh6bjVJZE9UWW8zLTdYVE9WczBMVXVJbkt2cUdUYjBrNXVVYXFZcWppZGZESU95S2s5NjJndEVqRHZISlNRTVJ4WWJXVHYzaHFiRTgwR29vd3NYa1RUZnRSeU5Ia2J6c0J5bw?oc=5",
@@ -312623,9 +312865,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0haMUhTUVpPSldkend2ZzhSdVJndm04dkthOWU2RWFRczJJV3FReWtNV2pVXzhkVnRaQ09nYk9JYmRzUXFuNE9SbVhHSHQ2a3BFTFROdm96UzdXY2tqeDN3bE1keEFDbHBPT1dmeUJXOThHaWgzWXhWTXF6ZlN3dFBkVE9qc0ZBWC05TWZ3TGF2R2lrYlpoQk5Dc2MxRS1XZk9BZHYwMVZSR2dNMEFWeDE3ckE0SVNwQnBLdTFXLU1SVUZwMEE?oc=5",
@@ -312717,9 +312970,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.3346953923045883,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQmJVQ0lRdm5yQmxCNmZOQWZfQ0dxOW50M1VxNnplT0FGZFFoMGFmOTBpMWlaUm9yY0ZtcEcyNWFEVlF4NGk4WVg4OXFUMVpuZXdvaVZqTVBia2lCbDJFeW13TEVXNEJBZFk4ZQ?oc=5",
@@ -312771,273 +313035,205 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
-    },
-    {
-        "platform_id": "1un6nhl",
-        "source": "reddit",
-        "created_at": "2026-07-04 11:27:26",
-        "title": "Melhor bitoque/prego em pão",
-        "sentiment": "NEGATIVE",
-        "sentiment_score": -0.1276,
-        "negative": 0.3774,
-        "neutral": 0.3729,
-        "positive": 0.2497,
-        "comments_polarity": 0.0117,
-        "dominant_emotion": "NEUTRAL",
-        "emotion_confidence": 0.4929,
-        "active_emotions": [
-            "NEUTRAL"
-        ],
-        "emotion_scores": {
-            "NEUTRAL": 0.4929,
-            "FRUSTRATION": 0.0641,
-            "CONTEMPT": 0.0535,
-            "ANGER": 0.0285,
-            "DISGUST": 0.0067,
-            "LOVE": 0.0047,
-            "SADNESS": 0.0022,
-            "JOY": 0.0013,
-            "GRATITUDE": 0.0006,
-            "FEAR": 0.0005,
-            "SURPRISE": 0.0004
-        },
-        "keywords": [
-            {
-                "keyword": "barato levamos carne tipo",
-                "score": 0.7096
-            },
-            {
-                "keyword": "algo barato levamos carne",
-                "score": 0.7047
-            },
-            {
-                "keyword": "barato levamos carne",
-                "score": 0.6909
-            },
-            {
-                "keyword": "levamos carne tipo",
-                "score": 0.6314
-            },
-            {
-                "keyword": "sempre ambos bife bocado",
-                "score": 0.6171
-            },
-            {
-                "keyword": "levamos carne tipo sola",
-                "score": 0.6133
-            },
-            {
-                "keyword": "levamos carne",
-                "score": 0.6118
-            },
-            {
-                "keyword": "carne tipo sola sapato",
-                "score": 0.6111
-            },
-            {
-                "keyword": "até bom prego pão",
-                "score": 0.6057
-            },
-            {
-                "keyword": "ambos bife bocado",
-                "score": 0.5879
-            }
-        ],
-        "source_name": null,
-        "entities": [
-            {
-                "text": "Covilhã",
-                "label": "LOC"
-            }
-        ],
-        "topic_id": -1,
-        "topic_probability": 0.0955995043612357,
-        "topic_keywords": []
-    },
-    {
-        "platform_id": "1un6nhl",
-        "source": "reddit",
-        "created_at": "2026-07-04 11:27:26",
-        "title": "Melhor bitoque/prego em pão",
-        "sentiment": "NEGATIVE",
-        "sentiment_score": -0.1276,
-        "negative": 0.3774,
-        "neutral": 0.3729,
-        "positive": 0.2497,
-        "comments_polarity": 0.0117,
-        "dominant_emotion": "NEUTRAL",
-        "emotion_confidence": 0.4929,
-        "active_emotions": [
-            "NEUTRAL"
-        ],
-        "emotion_scores": {
-            "NEUTRAL": 0.4929,
-            "FRUSTRATION": 0.0641,
-            "CONTEMPT": 0.0535,
-            "ANGER": 0.0285,
-            "DISGUST": 0.0067,
-            "LOVE": 0.0047,
-            "SADNESS": 0.0022,
-            "JOY": 0.0013,
-            "GRATITUDE": 0.0006,
-            "FEAR": 0.0005,
-            "SURPRISE": 0.0004
-        },
-        "keywords": [
-            {
-                "keyword": "barato levamos carne tipo",
-                "score": 0.7096
-            },
-            {
-                "keyword": "algo barato levamos carne",
-                "score": 0.7047
-            },
-            {
-                "keyword": "barato levamos carne",
-                "score": 0.6909
-            },
-            {
-                "keyword": "levamos carne tipo",
-                "score": 0.6314
-            },
-            {
-                "keyword": "sempre ambos bife bocado",
-                "score": 0.6171
-            },
-            {
-                "keyword": "levamos carne tipo sola",
-                "score": 0.6133
-            },
-            {
-                "keyword": "levamos carne",
-                "score": 0.6118
-            },
-            {
-                "keyword": "carne tipo sola sapato",
-                "score": 0.6111
-            },
-            {
-                "keyword": "até bom prego pão",
-                "score": 0.6057
-            },
-            {
-                "keyword": "ambos bife bocado",
-                "score": 0.5879
-            }
-        ],
-        "source_name": null,
-        "entities": [
-            {
-                "text": "Covilhã",
-                "label": "LOC"
-            }
-        ],
-        "topic_id": -1,
-        "topic_probability": 0.0955995043612357,
-        "topic_keywords": []
-    },
-    {
-        "platform_id": "1ucz8na",
-        "source": "reddit",
-        "created_at": "2026-06-22 22:31:35",
-        "title": "Mulheres na casa dos 30 anos na zona da Covilhã para amizade, caminhadas e viagens 😊",
-        "sentiment": "NEUTRAL",
-        "sentiment_score": 0.0951,
-        "negative": 0.2119,
-        "neutral": 0.4811,
-        "positive": 0.307,
-        "comments_polarity": 0.0176,
-        "dominant_emotion": "NEUTRAL",
-        "emotion_confidence": 0.9807,
-        "active_emotions": [
-            "NEUTRAL"
-        ],
-        "emotion_scores": {
-            "NEUTRAL": 0.9807,
-            "JOY": 0.0068,
-            "SURPRISE": 0.005,
-            "FRUSTRATION": 0.0049,
-            "LOVE": 0.0024,
-            "FEAR": 0.0024,
-            "SADNESS": 0.0023,
-            "DISGUST": 0.0023,
-            "ANGER": 0.0022,
-            "CONTEMPT": 0.0018,
-            "GRATITUDE": 0.0011
-        },
-        "keywords": [
-            {
-                "keyword": "novas amizades ideia seria",
-                "score": 0.7024
-            },
-            {
-                "keyword": "fazer novas amizades ideia",
-                "score": 0.7012
-            },
-            {
-                "keyword": "criar amizade pessoas novas",
-                "score": 0.6804
-            },
-            {
-                "keyword": "queiram fazer novas amizades",
-                "score": 0.6644
-            },
-            {
-                "keyword": "amizade pessoas novas pensei",
-                "score": 0.6627
-            },
-            {
-                "keyword": "novas amizades ideia",
-                "score": 0.6574
-            },
-            {
-                "keyword": "conversas gostava conhecer outras",
-                "score": 0.6548
-            },
-            {
-                "keyword": "gostava conhecer outras",
-                "score": 0.6493
-            },
-            {
-                "keyword": "amizades ideia seria",
-                "score": 0.6467
-            },
-            {
-                "keyword": "fazer novas amizades",
-                "score": 0.6428
-            }
-        ],
-        "source_name": null,
-        "entities": [
-            {
-                "text": "Covilhã",
-                "label": "LOC"
-            },
-            {
-                "text": "Fundão",
-                "label": "LOC"
-            },
-            {
-                "text": "Guarda",
-                "label": "LOC"
-            }
-        ],
-        "topic_id": 4,
-        "topic_probability": 1.0,
+        "topic_id": 12,
+        "topic_probability": 0.17735603334960484,
         "topic_keywords": [
             "atlético cp",
+            "equipa sporting",
             "sporting",
             "liga",
             "atlético",
+            "futebol",
+            "equipa",
             "cp",
             "voleibol",
-            "jogar",
-            "caldas sc",
-            "condicionado",
-            "típicas"
+            "jogar"
+        ]
+    },
+    {
+        "platform_id": "1un6nhl",
+        "source": "reddit",
+        "created_at": "2026-07-04 11:27:26",
+        "title": "Melhor bitoque/prego em pão",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -0.1276,
+        "negative": 0.3774,
+        "neutral": 0.3729,
+        "positive": 0.2497,
+        "comments_polarity": 0.0117,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.4929,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.4929,
+            "FRUSTRATION": 0.0641,
+            "CONTEMPT": 0.0535,
+            "ANGER": 0.0285,
+            "DISGUST": 0.0067,
+            "LOVE": 0.0047,
+            "SADNESS": 0.0022,
+            "JOY": 0.0013,
+            "GRATITUDE": 0.0006,
+            "FEAR": 0.0005,
+            "SURPRISE": 0.0004
+        },
+        "keywords": [
+            {
+                "keyword": "barato levamos carne tipo",
+                "score": 0.7096
+            },
+            {
+                "keyword": "algo barato levamos carne",
+                "score": 0.7047
+            },
+            {
+                "keyword": "barato levamos carne",
+                "score": 0.6909
+            },
+            {
+                "keyword": "levamos carne tipo",
+                "score": 0.6314
+            },
+            {
+                "keyword": "sempre ambos bife bocado",
+                "score": 0.6171
+            },
+            {
+                "keyword": "levamos carne tipo sola",
+                "score": 0.6133
+            },
+            {
+                "keyword": "levamos carne",
+                "score": 0.6118
+            },
+            {
+                "keyword": "carne tipo sola sapato",
+                "score": 0.6111
+            },
+            {
+                "keyword": "até bom prego pão",
+                "score": 0.6057
+            },
+            {
+                "keyword": "ambos bife bocado",
+                "score": 0.5879
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
+        ]
+    },
+    {
+        "platform_id": "1un6nhl",
+        "source": "reddit",
+        "created_at": "2026-07-04 11:27:26",
+        "title": "Melhor bitoque/prego em pão",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -0.1276,
+        "negative": 0.3774,
+        "neutral": 0.3729,
+        "positive": 0.2497,
+        "comments_polarity": 0.0117,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.4929,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.4929,
+            "FRUSTRATION": 0.0641,
+            "CONTEMPT": 0.0535,
+            "ANGER": 0.0285,
+            "DISGUST": 0.0067,
+            "LOVE": 0.0047,
+            "SADNESS": 0.0022,
+            "JOY": 0.0013,
+            "GRATITUDE": 0.0006,
+            "FEAR": 0.0005,
+            "SURPRISE": 0.0004
+        },
+        "keywords": [
+            {
+                "keyword": "barato levamos carne tipo",
+                "score": 0.7096
+            },
+            {
+                "keyword": "algo barato levamos carne",
+                "score": 0.7047
+            },
+            {
+                "keyword": "barato levamos carne",
+                "score": 0.6909
+            },
+            {
+                "keyword": "levamos carne tipo",
+                "score": 0.6314
+            },
+            {
+                "keyword": "sempre ambos bife bocado",
+                "score": 0.6171
+            },
+            {
+                "keyword": "levamos carne tipo sola",
+                "score": 0.6133
+            },
+            {
+                "keyword": "levamos carne",
+                "score": 0.6118
+            },
+            {
+                "keyword": "carne tipo sola sapato",
+                "score": 0.6111
+            },
+            {
+                "keyword": "até bom prego pão",
+                "score": 0.6057
+            },
+            {
+                "keyword": "ambos bife bocado",
+                "score": 0.5879
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
@@ -313126,19 +313322,120 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 5,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "atlético cp",
-            "sporting",
-            "liga",
-            "atlético",
-            "cp",
-            "voleibol",
-            "jogar",
-            "caldas sc",
-            "condicionado",
-            "típicas"
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
+        ]
+    },
+    {
+        "platform_id": "1ucz8na",
+        "source": "reddit",
+        "created_at": "2026-06-22 22:31:35",
+        "title": "Mulheres na casa dos 30 anos na zona da Covilhã para amizade, caminhadas e viagens 😊",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0951,
+        "negative": 0.2119,
+        "neutral": 0.4811,
+        "positive": 0.307,
+        "comments_polarity": 0.0176,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9807,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9807,
+            "JOY": 0.0068,
+            "SURPRISE": 0.005,
+            "FRUSTRATION": 0.0049,
+            "LOVE": 0.0024,
+            "FEAR": 0.0024,
+            "SADNESS": 0.0023,
+            "DISGUST": 0.0023,
+            "ANGER": 0.0022,
+            "CONTEMPT": 0.0018,
+            "GRATITUDE": 0.0011
+        },
+        "keywords": [
+            {
+                "keyword": "novas amizades ideia seria",
+                "score": 0.7024
+            },
+            {
+                "keyword": "fazer novas amizades ideia",
+                "score": 0.7012
+            },
+            {
+                "keyword": "criar amizade pessoas novas",
+                "score": 0.6804
+            },
+            {
+                "keyword": "queiram fazer novas amizades",
+                "score": 0.6644
+            },
+            {
+                "keyword": "amizade pessoas novas pensei",
+                "score": 0.6627
+            },
+            {
+                "keyword": "novas amizades ideia",
+                "score": 0.6574
+            },
+            {
+                "keyword": "conversas gostava conhecer outras",
+                "score": 0.6548
+            },
+            {
+                "keyword": "gostava conhecer outras",
+                "score": 0.6493
+            },
+            {
+                "keyword": "amizades ideia seria",
+                "score": 0.6467
+            },
+            {
+                "keyword": "fazer novas amizades",
+                "score": 0.6428
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": 5,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
@@ -313223,9 +313520,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 0.047321527237677165,
+        "topic_keywords": [
+            "portugal",
+            "gustavo",
+            "campeonato",
+            "liga",
+            "sporting clube",
+            "joão",
+            "equipa",
+            "bola",
+            "serrano",
+            "futebol"
+        ]
     },
     {
         "platform_id": "at://did:plc:csdyjzhcjsh2me4vtsyjflhr/app.bsky.feed.post/3mpyy4nokss2y",
@@ -313297,9 +313605,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 5,
+        "topic_probability": 0.17705137022415157,
+        "topic_keywords": [
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
+        ]
     },
     {
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpse7pcbst23",
@@ -313380,9 +313699,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": -1,
-        "topic_probability": 0.13650681248569774,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.029782717006574852,
+        "topic_keywords": [
+            "teatro municipal",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
+            "concelho",
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
+        ]
     },
     {
         "platform_id": "at://did:plc:xyuirjfywjflkyfpvzm4ifdu/app.bsky.feed.post/3mpofeey6ik2k",
@@ -313496,7 +313826,7 @@
             }
         ],
         "topic_id": -1,
-        "topic_probability": 0.10354560428816376,
+        "topic_probability": 0.10048986116601852,
         "topic_keywords": []
     },
     {
@@ -313569,19 +313899,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 5,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "atlético cp",
-            "sporting",
-            "liga",
-            "atlético",
-            "cp",
-            "voleibol",
-            "jogar",
-            "caldas sc",
-            "condicionado",
-            "típicas"
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
@@ -313654,19 +313984,19 @@
                 "label": "PER"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 5,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "atlético cp",
-            "sporting",
-            "liga",
-            "atlético",
-            "cp",
-            "voleibol",
-            "jogar",
-            "caldas sc",
-            "condicionado",
-            "típicas"
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
@@ -313739,19 +314069,19 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 5,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "atlético cp",
-            "sporting",
-            "liga",
-            "atlético",
-            "cp",
-            "voleibol",
-            "jogar",
-            "caldas sc",
-            "condicionado",
-            "típicas"
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
@@ -313825,18 +314155,18 @@
             }
         ],
         "topic_id": 0,
-        "topic_probability": 0.4864867807619917,
+        "topic_probability": 1.0,
         "topic_keywords": [
-            "feira",
-            "festival",
-            "portugal",
-            "tiago",
             "teatro municipal",
-            "beira",
-            "exposições",
+            "feira",
+            "tiago",
+            "festival",
+            "portuguesa",
             "concelho",
-            "serra",
-            "apresenta"
+            "apresenta",
+            "cultural",
+            "espetáculo",
+            "fundão"
         ]
     },
     {
@@ -313909,19 +314239,19 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": 4,
+        "topic_id": 5,
         "topic_probability": 1.0,
         "topic_keywords": [
-            "atlético cp",
-            "sporting",
-            "liga",
-            "atlético",
-            "cp",
-            "voleibol",
-            "jogar",
-            "caldas sc",
-            "condicionado",
-            "típicas"
+            "três novas",
+            "ponto",
+            "novas",
+            "rua comendador",
+            "veiga",
+            "novo hotel",
+            "têm",
+            "cinco",
+            "ponto situação",
+            "baixa"
         ]
     },
     {
