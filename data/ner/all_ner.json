@@ -113665,6 +113665,186 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnluN29ybm8tTXNHa3ZIUGlHdnZYb3NtMnhhQVFIQUxBVkVUNm5IRnNqWUROaDczanpxSFlhZzRieVNaQUQ1UUNySjUzelItb0JPTEUyT1kyb05VREw3MTktdVU1VlJzZ0c2YmYya2ZxWGM1bklmNWFHQ3JlRjBzZ0NaSlp6ZHNuUFdaZU1jY3l4OEVfTG1BbjVXQ3R1aXlDX0xONlAwZw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 02:12:00 GMT",
+        "title_clean": "Oficial: Alverca empresta Kauan Gomes ao Sporting da Covilhã - Flashscore.pt",
+        "entities": [
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Maia Lidador",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Atlético Goianiense",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "SC Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Palmeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Rhaldney",
+                "label": "PER"
+            },
+            {
+                "text": "Goztepe",
+                "label": "LOC"
+            },
+            {
+                "text": "Turquia",
+                "label": "LOC"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Fábricio Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Estoril Praia",
+                "label": "ORG"
+            },
+            {
+                "text": "Marezi",
+                "label": "PER"
+            },
+            {
+                "text": "Almeria",
+                "label": "LOC"
+            },
+            {
+                "text": "Mathis Clairicia",
+                "label": "PER"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Bursaspor",
+                "label": "ORG"
+            },
+            {
+                "text": "Sérgio Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Villareal",
+                "label": "ORG"
+            },
+            {
+                "text": "Noah Raveyre",
+                "label": "PER"
+            },
+            {
+                "text": "Pau FC",
+                "label": "ORG"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Marco",
+                "label": "PER"
+            },
+            {
+                "text": "Essimi",
+                "label": "PER"
+            },
+            {
+                "text": "Dunkerque",
+                "label": "LOC"
+            },
+            {
+                "text": "Lucca Giuntini",
+                "label": "PER"
+            },
+            {
+                "text": "Mirandela",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAJBVV95cUxPR2xjclJXSnU1M1k3XzVvMHV0dGItb0dVVnM5ck9tRk1mRHh2ZTdFZmoycjFtYmlvSFhIMS03SWdRX2UwT2pxOGVKRXB1bDFiclJzaUtVLWc1QXpqeWhfdHp2YTJaTWg4ZFZ3VGhLd2Vya1I2WmYwMDJ3LTMxNkV2bmp3Vi1NTXJDTFZTcjZsaGdGS1F5M0lXOF9UZURNMWNPb1FUZ0lDNk5vLXF5dndyZXEtTEdiaDJmTV9tbU1jZEprYVFKdmVicTlUa0dhX3hTVnZpaUZsTHdHREMwbXhSeVJZRnBmRjY1bmRhSnRpWnhfNmRUOVZGaDZYN2hIMTZYSEJ5bkFVMFR3ZTYtWUdzWUhSa3I?oc=5",
+        "source": "news",
+        "created_at": "Sun, 05 Jul 2026 08:33:22 GMT",
+        "title_clean": "Dos bálsamos vulvais aos lubrificantes vaginais: a partir da Covilhã a Labfit quer tornar-se referência internacional - MSN",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Labfit",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
