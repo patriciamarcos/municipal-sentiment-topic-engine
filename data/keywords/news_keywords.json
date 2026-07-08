@@ -115722,5 +115722,527 @@
             }
         ],
         "source_name": "Central Press"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMid0FVX3lxTFBCMlJqem1LUklOWnA2cUVCOUUzcUhzVDdTQmEzek9vN0dOOHIxb3VpYmc2elVxTTNPQXV4X3RHUGYyUk5QMXJBUlNrUXNMaVcyaHhVdjdGWUtxUS1hdWZGUXpwcFR3ZWpxQTlIUDNVWkV0OWdncHBz?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 07:55:00 GMT",
+        "title_clean": "Festival do pastel de molho na Covilhã",
+        "clean_text": "Festival do pastel de molho na Covilhã. O Jardim das Artes, na Covilhã, volta a ser palco, entre quinta-feira, 9, e sábado, 11, de mais uma edição (a quinta) do Festival do Pastel de Molho da Covilhã, um certame organizado pela Câmara e pela Confraria da Pastinaca e Pastel de Molho. O evento tem como objetivo divulgar, promover e valorizar um produto certificado e único no território, o típico pastel que é uma das iguarias mais conhecidas da Covilhã. Haverá espaços de venda com produtores certificados, bem como animação para miúdos e graúdos. Com horário entre as 19:30 e as 00:00, o festival terá todos os dias música ambiente e animação infantil gratuita e que inclui pinturas faciais, modelagem de balões de água e um insuflável. A abertura do certame é na quinta-feira, 9, dia em que contará com a apresentação da Marcha Infantil do ATL do Rodrigo, agendada para as 21 horas. No dia seguinte, à mesma hora, atuam as Adufeiras do Paul e no dia 11 será a vez de Maria Branco subir ao palco. O Pastel de Molho da Covilhã é um produto gastronómico feito à base de massa folhada, recheado com carne, que é servido com molho de açafrão (ou chá) e que está associado aos hábitos alimentares da classe operária das fábricas que marcam a história do concelho.",
+        "keywords": [
+            {
+                "keyword": "edição quinta festival",
+                "score": 0.7196
+            },
+            {
+                "keyword": "11 edição quinta festival",
+                "score": 0.7171
+            },
+            {
+                "keyword": "quinta festival",
+                "score": 0.7097
+            },
+            {
+                "keyword": "edição quinta festival pastel",
+                "score": 0.7081
+            },
+            {
+                "keyword": "feira contará apresentação",
+                "score": 0.687
+            },
+            {
+                "keyword": "quinta festival pastel",
+                "score": 0.6857
+            },
+            {
+                "keyword": "quinta festival pastel molho",
+                "score": 0.6792
+            },
+            {
+                "keyword": "festival pastel molho",
+                "score": 0.6754
+            },
+            {
+                "keyword": "feira contará apresentação marcha",
+                "score": 0.675
+            },
+            {
+                "keyword": "quinta feira contará apresentação",
+                "score": 0.6625
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxNYjViLXl4dDBuVDFMald2MFMySWc1TjdZZEFFMkJiTWpxeDBoTzJUVzROVGFDTjNIbU9wRC1zMzJnbUFqVWtNN3pDXzVETUdieWx2NHlGNllMYXRQWWk3eXlLbDkxOTRKckozTTRxREd6T0d0RGdYWVowQllLR0hYR0piWFljakE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 12:28:00 GMT",
+        "title_clean": "USCB quer transportes gratuitos para os reformados",
+        "clean_text": "USCB quer transportes gratuitos para os reformados. A União de Sindicatos de Castelo Branco (USCB/CGTP-IN), a Inter-Reformados, a Associação de Reformados da Covilhã e a União de Reformados do Tortosendo, enviaram uma proposta à Câmara da Covilhã, que visa tornar gratuitos os transportes públicos no concelho para os reformados. Uma decisão que veio no seguimento de reuniões e contactos havidos com a autarquia covilhanense. As entidades apontam para a criação de passe social único, concelhio e inter-concelhio, no valor máximo de 30 euros mensais para todos os utentes de transportes públicos, e que em data a acordar seja implementada a gratuitidade nos transportes públicos do concelho da Covilhã para os reformados detentores do Cartão Social Municipal e para os reformados com 65 anos ou mais. A eventual introdução do transporte a pedido \"não pode implicar a eliminação e ou redução dos horários dos transportes públicos já existentes\", salientam. Com esta proposta, \"estamos a procurar consensualizar uma solução que garanta os objetivos que sempre reivindicamos e que a anterior Câmara, presidida por Vítor Pereira, já tinha assumido, e que vá ao encontro dos compromissos públicos do senhor presidente Hélio Fazendeiro\", afirmam em comunicado. Onde dizem aguardamos o agendamento de uma reunião para se encontrar uma solução \"a breve trecho, sendo que, para nós, tudo tem de ser discutido em tempo útil de forma que as medidas acordadas sejam implementadas com a entrada em vigor do Orçamento e Plano de Actividades da Câmara para 2027.\"",
+        "keywords": [
+            {
+                "keyword": "união reformados tortosendo enviaram",
+                "score": 0.6571
+            },
+            {
+                "keyword": "gratuitos reformados união",
+                "score": 0.6428
+            },
+            {
+                "keyword": "vá encontro compromissos públicos",
+                "score": 0.6235
+            },
+            {
+                "keyword": "públicos concelho reformados",
+                "score": 0.6208
+            },
+            {
+                "keyword": "públicos existentes salientam proposta",
+                "score": 0.6081
+            },
+            {
+                "keyword": "união reformados tortosendo",
+                "score": 0.608
+            },
+            {
+                "keyword": "reformados tortosendo enviaram proposta",
+                "score": 0.6061
+            },
+            {
+                "keyword": "transportes gratuitos reformados união",
+                "score": 0.6044
+            },
+            {
+                "keyword": "públicos concelho reformados decisão",
+                "score": 0.5826
+            },
+            {
+                "keyword": "plano actividades câmara 2027",
+                "score": 0.5734
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sS29ieHh0c2NRN1RWcXhKSGVWNGYwZk9ZakFQLVFSalRPTFl2aDhHejhwSXVzeDh2NXpYZE5uTjlJQTdtcVo2YmJyVlROSkNXbkotM0c4d0tLZnlvQjBnSHI3WmY?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 08:19:00 GMT",
+        "title_clean": "Coletivo Obsoleto no TMC",
+        "clean_text": "Coletivo Obsoleto no TMC. O coletivo Obsoleto apresenta-se no próximo sábado, 11, pelas 21:30, no palco do Teatro Municipal da Covilhã (TMC), no âmbito do VERTIGO - Territórios Sonoros Expandidos, ciclo dedicado à experimentação e à escuta contemporânea. O grupo apresenta o álbum \"fábric\", no formato de um espetáculo multidisciplinar intitulado \"Trabalhar Rápido é Trabalhar Pior\". Em 2022, o Coletivo Obsoleto realizou uma residência artística no New Hand Lab (antiga fábrica de tecidos António Estrela), na Covilhã. As memórias, os materiais, os sons e os gestos aí recolhidos deram origem a três objetos artísticos: o álbum \"fábric\", o filme \"trabalhar rápido é trabalhar pior\", e um espetáculo que conjuga ambos e será agora apresentado no TMC. Obsoleto é um coletivo artístico baseado no Porto, no estúdio iodo. Criam juntos desde 2016, apresentando trabalhos em diferentes formas e disciplinas artísticas como o teatro, o cinema e a música. Em 2025 estrearam o espetáculo \"Era da Surdez\" no Teatro Helena Sá e Costa (Porto), apresentaram a performance \"b-a-bás\" no Serralves em Festa e no Ciclo de Música Exploratória Portuguesa e fizeram vários concertos de música improvisada. O espetáculo, de 60 minutos, custa cinco euros para público em geral, havendo os já habituais descontos para maiores de 60 anos, menores de 30, estudantes e profissionais das artes.",
+        "keywords": [
+            {
+                "keyword": "tmc obsoleto coletivo artístico",
+                "score": 0.6331
+            },
+            {
+                "keyword": "coletivo obsoleto apresenta",
+                "score": 0.6132
+            },
+            {
+                "keyword": "obsoleto apresenta próximo sábado",
+                "score": 0.6115
+            },
+            {
+                "keyword": "obsoleto coletivo artístico baseado",
+                "score": 0.5846
+            },
+            {
+                "keyword": "contemporânea grupo apresenta",
+                "score": 0.5667
+            },
+            {
+                "keyword": "escuta contemporânea grupo apresenta",
+                "score": 0.554
+            },
+            {
+                "keyword": "era surdez teatro",
+                "score": 0.5449
+            },
+            {
+                "keyword": "música improvisada espetáculo",
+                "score": 0.5377
+            },
+            {
+                "keyword": "obsoleto apresenta próximo",
+                "score": 0.5304
+            },
+            {
+                "keyword": "obsoleto realizou residência artística",
+                "score": 0.5283
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUFPeFFQeDhJMjQtT1ZOR2VDZlJSeUc3NjQ2MkxxTHc3SmJNVk5kRkRzMDZGTWxNaF9RMDdqT3RCZXI4dmMyTWdxV0R0YW1iSEszUDFGZ3hKQVZtS3hjSkhza29LUDU4ZGtMejF0WGEwcXNyZ091Vlc0SU5USGpheGNLdU5FdVIxdjZBQXlIM3dsRmxldnpz?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 08:52:43 GMT",
+        "title_clean": "Gustavo Galil renova com o Sporting da Covilhã",
+        "clean_text": "Gustavo Galil renova com o Sporting da Covilhã. Gustavo Galil, guarda-redes de 28 anos, natural do Brasil, vai continuar a defender a baliza do Sporting da Covilhã para a próxima época, tendo renovado contrato com o clube serrano. O jogador, com dupla nacionalidade italiana, segue para o segundo ano consecutivo a representar as cores do SC Covilhã, sendo que na época passada realizou 31 jogos ao serviço dos covilhanenses. Recorde-se que em Portugal já jogou pelo Varzim, CD Sobrado, Leça FC, Tirsense, Fafe e U. Santarém.",
+        "keywords": [
+            {
+                "keyword": "defender baliza sporting",
+                "score": 0.6007
+            },
+            {
+                "keyword": "continuar defender baliza sporting",
+                "score": 0.5993
+            },
+            {
+                "keyword": "sobrado leça fc tirsense",
+                "score": 0.5795
+            },
+            {
+                "keyword": "fc tirsense fafe santarém",
+                "score": 0.5721
+            },
+            {
+                "keyword": "portugal jogou",
+                "score": 0.5557
+            },
+            {
+                "keyword": "natural brasil continuar defender",
+                "score": 0.5495
+            },
+            {
+                "keyword": "leça fc tirsense",
+                "score": 0.5462
+            },
+            {
+                "keyword": "leça fc tirsense fafe",
+                "score": 0.5462
+            },
+            {
+                "keyword": "serrano jogador dupla nacionalidade",
+                "score": 0.5403
+            },
+            {
+                "keyword": "jogador dupla nacionalidade italiana",
+                "score": 0.5299
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0NJQ1Z0emR4OUJMUEhLNU1WNm9GUkpFLUJhaWg2WF9Pb2RiZ09CaEJjX3FNM1dHTTNqdUVQRHRudWtYWjN2dzh3Q2ZscHJ0VWNfakNtak1wRG05eVBCZWtYZVE2Ql8yaGM3YVh6cHpDbVpiaUtmZlNfX1Q3aVRXX2xpNnk3ZzZlWERJUlF0T0RiRy1raU9SenRFMjIyRFV0ODlqa3VGQ3RJWEIxdEtqZmM1aGh6anlEMlljMFlDVml6TE9pV1U4?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 08:03:22 GMT",
+        "title_clean": "AM Covilhã aprova por unanimidade alargamento da isenção de IMI Jovem para cinco anos",
+        "clean_text": "AM Covilhã aprova por unanimidade alargamento da isenção de IMI Jovem para cinco anos. A Assembleia Municipal da Covilhã aprovou, por unanimidade, a proposta da autarquia de alargamento da isenção de IMI para jovens até aos 35 anos que adquiram habitação própria e permanente no concelho, estendendo o benefício de três para cinco anos. Apesar do voto favorável de todas as bancadas, o debate ficou marcado por um consenso quanto ao facto de a medida representar um incentivo importante, mas insuficiente para resolver os problemas estruturais da habitação e da fixação de jovens no concelho. A deputada independente Magna Lourenço lembrou que a legislação nacional já prevê uma isenção de três anos e sublinhou que \"o que esta proposta acrescenta na prática não são cinco anos de isenção, são dois anos adicionais e só para jovens\". Acrescentou ainda que \"estes dois anos extra beneficiam sobretudo jovens com rendimentos médios ou altos\", concluindo que \"esta medida é positiva, mas é importante que fique claro que a Câmara está a dar dois anos e não os cinco\". Pela bancada do PCP, Mónica Ramôa considerou que a iniciativa é bem-vinda, embora insuficiente. \"Temos a verdadeira noção de que isto não resolve o problema da fixação dos jovens no interior. Não é a isenção de IMI que resolve este problema de fundo\", afirmou, acrescentando que \"mais valem estas medidas do que nenhumas\". Também o CDS-PP anunciou o voto favorável. João Bernardo defendeu, contudo, que a medida deveria ser mais abrangente, alertando que jovens que já tenham adquirido uma habitação e pretendam comprar outra para fixar residência no concelho ficam excluídos. \"Esta isenção devia ser mais abrangente e mais alargada para todos os jovens que se queiram fixar\", defendeu. No mesmo sentido, Paulo Rosa, do MIPP, classificou a proposta como \"uma boa ideia\", mas advertiu que \"fica curta, face à dimensão do problema\". Para o deputado, \"é um alívio fiscal? Sim. Mas resolve o problema? Claramente não\", sustentando que a Covilhã \"precisa de uma estratégia séria de habitação e fixação de jovens\", uma vez que a medida \"ajuda, mas não altera estruturalmente nada\". A bancada do PSD também manifestou apoio à proposta. Antes da votação, Mafalda Nunes pediu esclarecimentos sobre as condições de aplicação da isenção, nomeadamente sobre os critérios de acesso, o momento de verificação dos requisitos e os casos em que a habitação seja adquirida por um casal em que apenas um dos elementos tenha menos de 35 anos. Ainda assim, garantiu que \"a bancada do PSD está sempre ao lado dos jovens e por isso votaremos favoravelmente esta medida\". Em defesa da proposta, o PS considerou que o município está a utilizar todos os instrumentos disponíveis para apoiar a fixação de população jovem. João Cristóvão afirmou que \"ao alargar de três para cinco anos a isenção de IMI para jovens até aos 35 anos que adquiram habitação própria e permanente na Covilhã, a Câmara Municipal demonstra que quer utilizar todos os instrumentos que estão ao seu alcance para apoiar quem escolhe viver, trabalhar e constituir família no nosso concelho\". Reconheceu, porém, que \"nenhuma medida, por si só, resolve o problema da habitação\", considerando tratar-se de \"apenas um passo de uma estratégia ampla de apoio à habitação e juventude\". Também o Grupo Municipal do Chega votou favoravelmente a proposta. Amadeu Alberto considerou que \"qualquer redução de carga fiscal sobre as famílias é positiva\", mas salientou que \"esta medida, sendo meritória, não resolve por si só a crise da habitação\", defendendo o aumento da oferta habitacional, a reabilitação de património devoluto e a criação de emprego qualificado para fixar população no concelho. Na resposta aos deputados, o presidente da Câmara Municipal da Covilhã, Hélio Fazendeiro, classificou a iniciativa como \"uma medida positiva que vai além daquilo que já existe, que vai no bom caminho\". O autarca afirmou que o principal objetivo é transmitir \"um sinal político claro\" de que \"a Covilhã é o destino dos jovens\" e \"o espaço de realização dos sonhos dos jovens\". Segundo Hélio Fazendeiro, o município procurou aproveitar ao máximo as competências de que dispõe em matéria fiscal. \"Aquilo que nós fizemos foi pegar numa lei do Estado e maximizar aquilo que eram as vantagens e os benefícios para o nosso território, para os jovens\", afirmou. O presidente revelou ainda que a autarquia está em contacto com a Autoridade Tributária para simplificar a aplicação da medida, explicando que a intenção é garantir que os jovens até aos 35 anos que fixem residência fiscal na Covilhã beneficiem de cinco anos de isenção de IMI, \"independentemente do valor patrimonial da casa\", evitando procedimentos burocráticos.",
+        "keywords": [
+            {
+                "keyword": "unanimidade proposta autarquia alargamento",
+                "score": 0.6089
+            },
+            {
+                "keyword": "proposta autarquia alargamento isenção",
+                "score": 0.5884
+            },
+            {
+                "keyword": "apoiar fixação população jovem",
+                "score": 0.5312
+            },
+            {
+                "keyword": "autarquia alargamento isenção imi",
+                "score": 0.5184
+            },
+            {
+                "keyword": "séria habitação fixação jovens",
+                "score": 0.5157
+            },
+            {
+                "keyword": "garantir jovens até 35",
+                "score": 0.5156
+            },
+            {
+                "keyword": "unanimidade proposta",
+                "score": 0.5104
+            },
+            {
+                "keyword": "alargada todos jovens",
+                "score": 0.5075
+            },
+            {
+                "keyword": "devia abrangente alargada todos",
+                "score": 0.4933
+            },
+            {
+                "keyword": "requisitos casos habitação seja",
+                "score": 0.4926
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMFo0NzMwU3hCQVpNM016OTdjSy1xNEh0dHNEM0hrclhoM2M3U1gteWkxQW93bnZWNE9MVUR3bDJNS05Sa2UtbHd4ZVZIOGJMbTlLYWY3ekNZai1ZRzFpeXN1Yk5qeEkwT05EWHROY2lGR2htZXFUYmRId183bGtnSzN5Z2psdzQ4QVN1TG1INWlJa3M2UnRkOVdTakJHT0JSbmhHWHJxR2R1cnpwa1hULXc3N1czTnhVMlN6TXdJQy1TUQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 10:10:40 GMT",
+        "title_clean": "Festival do Pastel de Molho da Covilhã entre 9 e 11 de julho no Jardim das Artes",
+        "clean_text": "Festival do Pastel de Molho da Covilhã entre 9 e 11 de julho no Jardim das Artes. A 5ª edição do Festival do Pastel de Molho está de regresso à Covilhã, entre os dias 9 e 11 de julho, no Jardim das Artes. Este evento, dedicado ao produto gastronómico típico da cidade e do concelho, vai contar com a venda de produtos certificados, bem como animação para miúdos e graúdos. O festival pode ser visitado entre as 19:30 e as 00:00, sendo que todos os dias vai ter música ambiente e animação infantil gratuita, que inclui pinturas faciais, modelagem de balões de água e um insuflável. O certame começa dia 9 de julho, quinta-feira, com a apresentação da Marcha Infantil do ATL do Rodrigo, pelas 21:00. No dia 10, à mesma hora, atuam as Adufeiras do Paul e no último dia, Maria Branco sobe ao palco. Recorde-se que o Pastel de Molho da Covilhã é um produto gastronómico feito à base de massa folhada, recheado com carne, que é servido com molho de açafrão (ou chá) e que está associado aos hábitos alimentares da classe operária das fábricas que marcam a história do concelho. Esta iniciativa resulta de uma organização do Município da Covilhã e da Confraria da Pastinaca e do Pastel de Molho.",
+        "keywords": [
+            {
+                "keyword": "5ª edição festival",
+                "score": 0.7058
+            },
+            {
+                "keyword": "festival pode visitado",
+                "score": 0.6918
+            },
+            {
+                "keyword": "graúdos festival pode",
+                "score": 0.664
+            },
+            {
+                "keyword": "festival pode",
+                "score": 0.6587
+            },
+            {
+                "keyword": "graúdos festival",
+                "score": 0.6567
+            },
+            {
+                "keyword": "graúdos festival pode visitado",
+                "score": 0.654
+            },
+            {
+                "keyword": "artes 5ª edição festival",
+                "score": 0.646
+            },
+            {
+                "keyword": "5ª edição festival pastel",
+                "score": 0.6213
+            },
+            {
+                "keyword": "festival pode visitado 19",
+                "score": 0.6212
+            },
+            {
+                "keyword": "edição festival",
+                "score": 0.619
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihAJBVV95cUxObV9haHU3dVRrNDV1VTNTUnNTQUZEbHBETGdrcGlSdkNqME02WFVxUjJ1SFl3S1BPdTE1cDN0ejJpaUQ3cVloUXdKUlBSZzFrTzJod01rR0ZaQ1ctWGpCbFdhMEJVSDYwenVFOFZuS1kxeFM0WmNQMGoyNnB6RVg5SG9haFI4WlBqYU81NTZWYV9aQ0xQSmwyRG1OT1NhXzkzZV9jNTFWZHVpcmFZSWFhdmhTN2pxdmFIbm1DVldnQjM5TklQX1ZHcDNfQ2Q1dTBLb0l3NTdPeFBoOHV1UERWc0hvUmtCNFVhb3JmS1l6TWVSVmJQc3AtdUVLYU13TzNGaXROag?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 10:57:06 GMT",
+        "title_clean": "USCB/CGTP-IN, Inter-Reformados e as Associações de Reformados da Covilhã e do Tortosendo enviam proposta à CMC sobre os transportes",
+        "clean_text": "USCB/CGTP-IN, Inter-Reformados e as Associações de Reformados da Covilhã e do Tortosendo enviam proposta à CMC sobre os transportes. A USCB/CGTP-IN, a Inter-Reformados, a Associação de Reformados da Covilhã e a União de Reformados do Tortosendo informam que irão enviar uma proposta para a Câmara Municipal da Covilhã sobre a gratuitidade dos transportes públicos no concelho, para os reformados. A proposta tem por base os seguintes pontos: a criação de passe social único, concelhio e inter-concelhio, no valor máximo de 30 euros mensais para todos os utentes de transportes públicos, a gratuitidade nos transportes públicos do concelho para os reformados detentores do Cartão Social Municipal e para os reformados com 65 anos ou mais e a eventual introdução do transporte a pedido, não pode implicar a eliminação e/ou redução dos horários dos transportes públicos já existentes. Em nota, afirmam que com a proposta apresentada estão a procurar consensualizar uma solução que garanta os objetivos que sempre reivindicaram e que a anterior Câmara já tinha assumido. \"Aguardamos o agendamento de uma reunião para se encontrar uma solução a breve trecho, sendo que, para nós, tudo tem de ser discutido em tempo útil de forma que as medidas acordadas sejam implementadas com a entrada em vigor do Orçamento e Plano de Atividades da Câmara Municipal da Covilhã para 2027\", pode ler-se em nota de imprensa. Foto: Arquivo RCC",
+        "keywords": [
+            {
+                "keyword": "enviam proposta cmc transportes",
+                "score": 0.7218
+            },
+            {
+                "keyword": "públicos concelho reformados proposta",
+                "score": 0.6829
+            },
+            {
+                "keyword": "proposta cmc transportes",
+                "score": 0.6789
+            },
+            {
+                "keyword": "transportes públicos concelho reformados",
+                "score": 0.6717
+            },
+            {
+                "keyword": "existentes afirmam proposta apresentada",
+                "score": 0.6677
+            },
+            {
+                "keyword": "concelho reformados proposta",
+                "score": 0.6605
+            },
+            {
+                "keyword": "reformados proposta base seguintes",
+                "score": 0.6577
+            },
+            {
+                "keyword": "proposta cmc transportes uscb",
+                "score": 0.6564
+            },
+            {
+                "keyword": "afirmam proposta apresentada",
+                "score": 0.6471
+            },
+            {
+                "keyword": "65 eventual introdução transporte",
+                "score": 0.6466
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjZzWXluaVBXZC1LOUk4VU5OcUlENk4zdl9KS0REemtINVFneXVoSERsWmNKa3NkQWtBajJvaHNOeFpSN1pLa3hKMVFxaVJ1Q2JiejNVdnRzY2w2Z1FfQ0UwbTdGWTg1X0tQR0ljU3FHYXhMS1VVak9weldUa0NzQWwySGJOemFJbFB4cXlVemhBYWt2Z0lkQkJYMGVqY2RrVHFqVXJOUFllbWhEMUoxdTRB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 13:23:13 GMT",
+        "title_clean": "Lula Pena atua no terraço do Teatro Municipal da Covilhã a 9 de julho",
+        "clean_text": "Lula Pena atua no terraço do Teatro Municipal da Covilhã a 9 de julho. A cantora, guitarrista e compositora Lula Pena sobe ao palco do terraço do Teatro Municipal da Covilhã na próxima quinta-feira, 9 de julho, às 21h30, para um concerto integrado no ciclo MIRADOR. Reconhecida como uma das vozes mais singulares da música portuguesa, Lula Pena apresenta ao público temas do seu mais recente álbum, Archivo Pittoresco, editado este ano, num espetáculo que promete revisitar o universo artístico da cantora, marcado pela fusão de diferentes tradições musicais e pela interpretação em várias línguas. O concerto integra o novo eixo de programação do TMC dedicado a atuações ao ar livre no terraço do teatro, um espaço que alia música e paisagem num ambiente informal. Os bilhetes custam cinco euros, com preço reduzido de 3,5 euros para maiores de 60 anos, menores de 30, estudantes e profissionais das artes. As portas abrem às 20h30. foto: Buddhy_hires",
+        "keywords": [
+            {
+                "keyword": "cantora guitarrista compositora lula",
+                "score": 0.6668
+            },
+            {
+                "keyword": "música portuguesa lula",
+                "score": 0.6236
+            },
+            {
+                "keyword": "singulares música portuguesa lula",
+                "score": 0.6014
+            },
+            {
+                "keyword": "música portuguesa lula pena",
+                "score": 0.5897
+            },
+            {
+                "keyword": "guitarrista compositora lula",
+                "score": 0.5832
+            },
+            {
+                "keyword": "artístico cantora",
+                "score": 0.5668
+            },
+            {
+                "keyword": "feira 21h30 concerto",
+                "score": 0.5499
+            },
+            {
+                "keyword": "cantora guitarrista compositora",
+                "score": 0.5476
+            },
+            {
+                "keyword": "artístico cantora marcado",
+                "score": 0.5407
+            },
+            {
+                "keyword": "música portuguesa",
+                "score": 0.5379
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxNdXp6b0VXOGVxdFhrLVJpbktaTHR6VzZkZGVsSEQwNEhGVHpkQUczZU5aQ0J1WEhNaVZ4ZHl5cURIYk54R3g4TFlPcGRWVlJOU2swQmJWUmp2MExnOGVKRFVqOUdHNDU4dWh6bjVJZE9UWW8zLTdYVE9WczBMVXVJbkt2cUdUYjBrNXVVYXFZcWppZGZESU95S2s5NjJndEVqRHZISlNRTVJ4WWJXVHYzaHFiRTgwR29vd3NYa1RUZnRSeU5Ia2J6c0J5bw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 10:49:24 GMT",
+        "title_clean": "COVILHÃ: Festival do Pastel de Molho regressa ao Jardim das Artes de 9 a 11 de julho",
+        "clean_text": "COVILHÃ: Festival do Pastel de Molho regressa ao Jardim das Artes de 9 a 11 de julho. Nos dias 9, 10 e 11 de julho, o Pastel de Molho da Covilhã promete fazer as delícias de todos quantos passarem pelo Jardim das Artes, que volta a ser palco do festival dedicado a este produto gastronómico típico da cidade e do concelho. Numa organização conjunta do Município da Covilhã e da Confraria da Pastinaca e do Pastel de Molho, o evento visa divulgar, promover e valorizar um produto certificado e único deste território. Neste 5.º Festival do Pastel de Molho da Covilhã haverá espaços de venda com produtores certificados, bem como animação para miúdos e graúdos. Com horário entre as 19h30 e as 00h00, o festival terá todos os dias música ambiente e animação infantil gratuita e que inclui pinturas faciais, modelagem de balões de água e um insuflável. A abertura do certame é no dia 9 de julho, quinta-feira, dia em que contará com a apresentação da Marcha Infantil do ATL do Rodrigo, agendada para as 21h. No dia seguinte, à mesma hora, atuam as Adufeiras do Paul e, no dia 11, será a vez de Maria Branco subir ao palco. O Pastel de Molho da Covilhã é um produto gastronómico feito à base de massa folhada, recheado com carne, que é servido com molho de açafrão (ou chá) e que está associado aos hábitos alimentares da classe operária das fábricas que marcam a história do concelho.",
+        "keywords": [
+            {
+                "keyword": "festival dedicado",
+                "score": 0.6982
+            },
+            {
+                "keyword": "19h30 00h00 festival",
+                "score": 0.676
+            },
+            {
+                "keyword": "horário 19h30 00h00 festival",
+                "score": 0.6699
+            },
+            {
+                "keyword": "volta palco festival dedicado",
+                "score": 0.6648
+            },
+            {
+                "keyword": "palco festival dedicado",
+                "score": 0.6568
+            },
+            {
+                "keyword": "festival pastel molho regressa",
+                "score": 0.6342
+            },
+            {
+                "keyword": "00h00 festival",
+                "score": 0.6336
+            },
+            {
+                "keyword": "molho evento visa divulgar",
+                "score": 0.6274
+            },
+            {
+                "keyword": "território festival",
+                "score": 0.623
+            },
+            {
+                "keyword": "festival pastel molho",
+                "score": 0.6172
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0haMUhTUVpPSldkend2ZzhSdVJndm04dkthOWU2RWFRczJJV3FReWtNV2pVXzhkVnRaQ09nYk9JYmRzUXFuNE9SbVhHSHQ2a3BFTFROdm96UzdXY2tqeDN3bE1keEFDbHBPT1dmeUJXOThHaWgzWXhWTXF6ZlN3dFBkVE9qc0ZBWC05TWZ3TGF2R2lrYlpoQk5Dc2MxRS1XZk9BZHYwMVZSR2dNMEFWeDE3ckE0SVNwQnBLdTFXLU1SVUZwMEE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 07 Jul 2026 12:39:47 GMT",
+        "title_clean": "Tortosendo recebeu centenas de espetadores no Concerto de Verão da Banda da Covilhã",
+        "clean_text": "Tortosendo recebeu centenas de espetadores no Concerto de Verão da Banda da Covilhã. Centenas de espetadores reuniram-se para uma noite dedicada a grandes clássicos do rock, num Concerto de Verão, promovido pela Banda da Covilhã, no Tortosendo. O Parque de S.Miguel recebeu a 11ª edição do tradicional Concerto de Verão, que contou com a direção do Maestro Carlos Almeida, num reportório enérgico, que percorreu alguns dos temais mais emblemáticos deste género musical. O espetáculo \"Lendas do Rock\" voltou \"a demonstrar a importância de levar a programação cultural a diferentes freguesias do concelho e das sinergias entre as associações e instituições locais, aproximando a Banda da Covilhã a novos públicos e possibilitando momentos culturais acessíveis a toda a comunidade.\" \"O concerto terminou sob um forte aplauso do público, encerrando mais uma edição do Concerto de Verão, uma das iniciativas que integra a programação anual da Banda da Covilhã\", pode ler-se em nota de imprensa. Recorde-se que a noite contou ainda com a participação especial da Marcha do Tortosendo.",
+        "keywords": [
+            {
+                "keyword": "tradicional concerto verão contou",
+                "score": 0.6346
+            },
+            {
+                "keyword": "edição tradicional concerto verão",
+                "score": 0.6327
+            },
+            {
+                "keyword": "clássicos rock concerto verão",
+                "score": 0.6259
+            },
+            {
+                "keyword": "grandes clássicos rock concerto",
+                "score": 0.6156
+            },
+            {
+                "keyword": "tradicional concerto verão",
+                "score": 0.6151
+            },
+            {
+                "keyword": "11ª edição tradicional concerto",
+                "score": 0.613
+            },
+            {
+                "keyword": "centenas espetadores concerto verão",
+                "score": 0.6129
+            },
+            {
+                "keyword": "recebeu centenas espetadores concerto",
+                "score": 0.61
+            },
+            {
+                "keyword": "clássicos rock concerto",
+                "score": 0.6035
+            },
+            {
+                "keyword": "edição tradicional concerto",
+                "score": 0.5973
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQmJVQ0lRdm5yQmxCNmZOQWZfQ0dxOW50M1VxNnplT0FGZFFoMGFmOTBpMWlaUm9yY0ZtcEcyNWFEVlF4NGk4WVg4OXFUMVpuZXdvaVZqTVBia2lCbDJFeW13TEVXNEJBZFk4ZQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 01 Jul 2026 11:14:55 GMT",
+        "title_clean": "Squad Builder :: SC Covilhã :: 2026/27",
+        "clean_text": "Squad Builder :: SC Covilhã :: 2026/27",
+        "keywords": [
+            {
+                "keyword": "squad builder sc",
+                "score": 0.7652
+            },
+            {
+                "keyword": "squad builder",
+                "score": 0.7082
+            },
+            {
+                "keyword": "builder sc",
+                "score": 0.4838
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]

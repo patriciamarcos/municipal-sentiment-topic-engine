@@ -3409,5 +3409,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:wnfga3px3bkjle6dxofamnc4/app.bsky.feed.post/3mq4il4qvzs2v",
+        "source": "bluesky",
+        "created_at": "2026-07-08T06:29:45.374Z",
+        "title_clean": "",
+        "clean_text": "Heute vor 529 Jahren, am 8. Juli 1497, verliess der portugiesische Seefahrer Vasco da Gama den Hafen Restelo bei Lissabon mit vier Schiffen, um den Seeweg nach Indien zu finden. de.wikipedia.org/wiki/Vasco_d...",
+        "keywords": [
+            {
+                "keyword": "der portugiesische seefahrer vasco",
+                "score": 0.666
+            },
+            {
+                "keyword": "portugiesische seefahrer vasco",
+                "score": 0.6322
+            },
+            {
+                "keyword": "der portugiesische seefahrer",
+                "score": 0.6097
+            },
+            {
+                "keyword": "verliess der portugiesische seefahrer",
+                "score": 0.6019
+            },
+            {
+                "keyword": "portugiesische seefahrer",
+                "score": 0.5691
+            },
+            {
+                "keyword": "portugiesische seefahrer vasco gama",
+                "score": 0.5582
+            },
+            {
+                "keyword": "1497 verliess der portugiesische",
+                "score": 0.5488
+            },
+            {
+                "keyword": "juli 1497 verliess der",
+                "score": 0.4726
+            }
+        ],
+        "source_name": null
     }
 ]
