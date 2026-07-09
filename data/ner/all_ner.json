@@ -113845,6 +113845,974 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMif0FVX3lxTE9RYjhITlFFb3AwbzIza19xck1wcmEzcm02eUFrMHNIRlhzclBQRnpiT3ZkVlNiZjRBSk4zT1lqcGVTUFBGOFZVWmp1UWU5OTRWclpHM2hxUmRUa0NtUTRXOUNuNk90NFI0clVkUHFVVThja19IeHBxbEJzcE42QVU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 20:50:56 GMT",
+        "title_clean": "Artista da Covilhã transforma lixo em arte - Conta-Lá",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedro Leitão",
+                "label": "PER"
+            },
+            {
+                "text": "Vale de Senhora da Póvoa",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Lobo",
+                "label": "LOC"
+            },
+            {
+                "text": "Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Santarém",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQzNCbHNRTW5LZG9yLTI4WHoteWZJZ1FnamZkdV9DZ2poM1Q3MDhHYy1YU0lSSFlPWF9CZFgwcGpaUGF5bG9OaDZUdF9YNEh1RWdUaHV0QmhOVUlLZ0pjN01DMHRDZTVwODJsMkJHejYyNl84Q284?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 11:35:08 GMT",
+        "title_clean": "A Covilhã é casa de estudantes deslocados",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Alentejo",
+                "label": "LOC"
+            },
+            {
+                "text": "Algarve",
+                "label": "LOC"
+            },
+            {
+                "text": "Artur Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Beatriz Vieira",
+                "label": "PER"
+            },
+            {
+                "text": "Portalegre",
+                "label": "LOC"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Augusto Rocha",
+                "label": "PER"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Mariana Bruno",
+                "label": "PER"
+            },
+            {
+                "text": "Alcanena",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3hJWmxuZFB0enB5UWMxdjlNZkVhN0RmYmUzcjgxYko1d2p6cmhRT0U2T3A3SUp5ckFNVi1RdXRVWG9QUWNDQTdaMGJJaGc5SnZiOFlCOU0tMGlmbWZBR1FoaWRtQjBRdE1jaWhycFdUUzlWQXJYTGJJejNSTGQtV0ZUNDVoMUNyWVE3dElQZVJWM1FjSFFnaUxfcmVINGtteHNkNU52cGs0UFhMSTJnV0NrQnhteUE1SE9FTjg4Y0dDcEJSc0g4aXdn?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 17:32:06 GMT",
+        "title_clean": "Covilhã: Centro Histórico voltou a pulsar com ASTA e Festival \"Portas do Sol\" - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Pelourinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Rui Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Miradouro das Portas do Sol",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo Dr. Valério de Morais",
+                "label": "LOC"
+            },
+            {
+                "text": "Direção Geral das Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE5ySUt5OE13Nldpbm1mcDNLNExMNkpkT29lal90SS1TX1NoejRoaTl0NDFiSWNLQmZRRWprWVV6d29Xam9fd1dnRmFHRHcyVTltWGRoS1MydmRVWWFKTWluN0t2VjNBODVRM2Iw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:19:43 GMT",
+        "title_clean": "FESTIVAL DO PASTEL DE MOLHO DA COVILHÃ ENTRE 09 E 11 DE JULHO NO JARDIM DAS ARTES",
+        "entities": [
+            {
+                "text": "JARDIM DAS ARTES",
+                "label": "LOC"
+            },
+            {
+                "text": "Pastel de Molho",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Confraria da Pastinaca",
+                "label": "ORG"
+            },
+            {
+                "text": "ATL do Rodrigo",
+                "label": "ORG"
+            },
+            {
+                "text": "Adufeiras do Paul",
+                "label": "LOC"
+            },
+            {
+                "text": "Maria Branco",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXpaRkZoWDNKNm5DdnNPOEpkNlB6T1lycXJIWTBoZWJSUGdhaE1EZHFnWVhKV0NNYllDc19HZnRRZFpHOWZYcTQtMnozT3hDLXAxZkNPc1JzUTRXZXdnSXdweFd2R2xDNnltT19MU3FzSzF2X1ZKY0sxczJBdHFmVkxiU2NoZGZsRlBKNjhwY2trNERFbGdYUERpWjdsRDQ2ellVRm0tRGl5YTlJUWtwU05DWk1raGJfbFl4bVFuUjk5YW1QWndqLdIBwwFBVV95cUxPbjYxaTRBODdsV012TlRvRDF4aTJKOGpCSTVGWHdJMjdCamVJTkNrNEdWdEZQai1HRUhDVWgxOXNzd0VVbElEX0ZDTkJwWXJPdWxiVnM0eXdWdFB3ZkxkSVQwSHZnTzRjTGRUWVRTN1FnS0lEVVNYbk9OYzJmNHNQRGxYTTN4LWZacy1jSlFVZTF3YWpielV1SURhT05QV1R3RzlaUlRkN3lMcjFtXzRwYzkzVk5OUWMzMVlKZW5RUGd2RnM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 12:17:49 GMT",
+        "title_clean": "Alverca cede Kauan Gomes por empréstimo ao Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Liga 3",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Atlético Goianiense",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Palmeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Rhaldney",
+                "label": "PER"
+            },
+            {
+                "text": "Turquia",
+                "label": "LOC"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Alavés",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Fábricio Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Estoril",
+                "label": "LOC"
+            },
+            {
+                "text": "Marezi",
+                "label": "PER"
+            },
+            {
+                "text": "Almeria",
+                "label": "LOC"
+            },
+            {
+                "text": "Mathis Clairicia",
+                "label": "PER"
+            },
+            {
+                "text": "Bochum",
+                "label": "LOC"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Bursaspor",
+                "label": "ORG"
+            },
+            {
+                "text": "Sérgio Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Villareal",
+                "label": "ORG"
+            },
+            {
+                "text": "Noah Raveyre",
+                "label": "PER"
+            },
+            {
+                "text": "Pau FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Marco Essimi",
+                "label": "PER"
+            },
+            {
+                "text": "Dunkerque",
+                "label": "LOC"
+            },
+            {
+                "text": "Mirandela",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZmpoMUhOd2ZGUUw1X1FxT0NxeWRnZER6dU5Rcmx1bmhrOTlvcXEyTTItSTZ6cU9KbHI5YzE2TjdiaEhIS2xxSWpDTFdsMEREdjJYbXdoZHVtbEdIbzN2bzRjR0JUbXdtSEE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:06:00 GMT",
+        "title_clean": "Portas do Sol “foi um sucesso”",
+        "entities": [
+            {
+                "text": "Centro Histórico da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pelourinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Rui Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Miradouro das Portas do Sol",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo Dr. Valério de Morais",
+                "label": "LOC"
+            },
+            {
+                "text": "Direção Geral das Artes",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxOUl9mbmpONThfN0YzaGl3RjdCSXZnOEY3VnN4TXl6WENRYW83bWFlZ2t4a244bV9lRS15eWd3Vmx1R21CYzYtN3ROZXhMU2R2bnR1MXpJLTRXclZtYjJ1ZUdzTE11dVRlclgwR3J0WmduNEhnR0hCWnR0OVhSS0lqdi1CR3hUektHcWNETHBpNm16VDRKMlE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 12:06:40 GMT",
+        "title_clean": "OFICIAL: Alverca empresta Kauan Gomes ao Sp. Covilhã - TVI",
+        "entities": [
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Daniel Borges",
+                "label": "PER"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "ORG"
+            },
+            {
+                "text": "Maia Lidador",
+                "label": "ORG"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Rhaldeny",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Fabrício Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Mathis Clairicia",
+                "label": "PER"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Essimi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxOclJRdEVoZjVWX0NDaTVyRDdTc0UwaU4wSE15Wk5heWxDZU5naE51dGhYdHNEbXpGZllvczJibFFDdEVrSXRqRHdSaVBuSzFocE4xeHJpcklmaDE4azZvSDZRRFNyeUp3YzIydnNOeEI5NmxzbHMyWkkyWW82MENiUWpRNHdCLVhBcF9sRXVheU9kQ3FSd3FHTnR2THc3NDk4V3YtWGE2RzdCYm9wTzJDM042eHQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:21:40 GMT",
+        "title_clean": "Festival do Pastel de Molho regressa ao Jardim das Artes da Covilhã entre 9 e 11 de julho - Gazeta Rural",
+        "entities": [
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Gazeta Rural",
+                "label": "ORG"
+            },
+            {
+                "text": "Pastel de Molho",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Confraria da Pastinaca",
+                "label": "ORG"
+            },
+            {
+                "text": "ATL do Rodrigo",
+                "label": "ORG"
+            },
+            {
+                "text": "Maria Branco",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXZEN241WnNqMnFvRFl0VDhlOV96YUlCcldsMVo3Yzh5Z29UUHVySGh0SjNDYk05NjMtVHA0RzV1Z0gyWnFjd1VLUjdtM2lJNjRCUVJmbEpudXpRQjJQdEg4dzJhLW9NTTFRaDBZaGlyYl9taklndUdFX1doRm1vV2JqTTQzY2VsdHB2S1RnRnNDSi05d3pyc3padVk2akFtNndJSkVuRQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:23:17 GMT",
+        "title_clean": "Edu Silva renova com o Sporting da Covilhã por mais uma época",
+        "entities": [
+            {
+                "text": "Edu Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Penafiel",
+                "label": "LOC"
+            },
+            {
+                "text": "Rio Mau FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Gondomar",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Tondela",
+                "label": "ORG"
+            },
+            {
+                "text": "Feirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Mirandela",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Espinho",
+                "label": "ORG"
+            },
+            {
+                "text": "Anadia FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Fontinhas",
+                "label": "ORG"
+            },
+            {
+                "text": "Moncarapachense",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3V0OTBDREtEOTNvT3pPcTd0WUNrS3E3OWRPZldxMENRbTdJclBQWkI1T3ptVHFDdS1yWW5lWmowWUZjWGpUOTFXRnpFQ1hnQl90YWl2Ujg3M2hKdW5QVk5UYkdvTTlnMDQ4eHcyQ1ViQ1ZYYU81T0QtU004VzNhTEN0U01xNm1zV21yM2Q2alBZSFNLcmxnSXBHUXk3NWFzU2s4Tnp3VnA4SzR4MVNQUHJmQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:45:33 GMT",
+        "title_clean": "Pipo Marques reforça o plantel do Sporting da Covilhã na próxima época",
+        "entities": [
+            {
+                "text": "Pipo Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Matosinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Bragança",
+                "label": "LOC"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Rio Ave",
+                "label": "ORG"
+            },
+            {
+                "text": "Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "Portosantense",
+                "label": "ORG"
+            },
+            {
+                "text": "Bragança",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlRoY2VZY3IzVUhvUWhvOGM2aFZFbjQ1UDVlVTVXakVkRUw2Zkl4LU9kT0xoUGdmTk1xTFk2Z3IzOW1YcnFvRFh4VV81cEFScjdVWG5aTjZqNEs4ZEwtY01HLUhaX1pHMWtlLXF2M1dNVHYyaW54V3RzaGlyUXZWUTZzeDBPSWpBdEh5ZlVjN0k4QVVsZkdkeGhOUW9talVNY2RMZmZtMkM0Uy1mMThYYk1fd0s3ZUVaeHMwekF1V0g?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:05:26 GMT",
+        "title_clean": "Grupo Humanitário Dadores de Sangue da Covilhã promove recolha de sangue amanhã",
+        "entities": [
+            {
+                "text": "Grupo Humanitário Dadores de Sangue da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWtIWXRFMzFkLW9LUmd1T0tGSFVFS1BEckxyVW5uc2laa2RfVkRIeVhhV2UzNmxybi05dFAtRy1kV3JZSExWVmxKSW90VjB2MjJZWDFTV3VoWDJTWlJHTzNWX2EtSWFMZENLaGpxWUNnbENIRFl2MXdXeUV3a09OY1kyZUlGTms?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:30:00 GMT",
+        "title_clean": "Teatro das Beiras estreia \"Auto de Exortação da Paz\"",
+        "entities": [
+            {
+                "text": "Teatro das Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUDJ5bnBhamdmdkNfLVJLcTZ4UXJYd2ZZU2txaEtfVUpheExUbDZmal9Ja2hxUDdEQzZ4eXZvQlJCV2tjWHB3Tzl6NlRINjhyRVRodFJjTHhRb3AxV012RDVxMEhVb1lwckVPMnRDbURscV9DajNZczgxV0lLZEd4ZFIyNUk5Y29wdmlSZzd5S1dlRmVZb05jOFdhX2Vmb1k5Zk5raGxFTUFOMF9IMWJaREhrMGJoSTdXZGd6bzA1NHc5eTNNZDh4QWxUam1NZERzNnFqQk5QTG1vNlnSAdsBQVVfeXFMUFAyeW5wYWpnZnZDXy1SS3E2eFFyWHdmWVNrcWhLX1VKYXhMVGw2ZmpfSWtocVA3REM2eHl2b0JSQldrY1hwd085ejZUSDY4ckVUaHRSY0x4UW9wMVdNdkQ1cTBIVW9ZcHJFTzJ0Q21EbHFfQ2ozWXM4MVdJS2RHeGRSMjVJOWNvcHZpUmc3eUtXZUZlWW9OYzhXYV9lZm9ZOWZOa2hsRU1BTjBfSDFiWkRIazBiaEk3V2Rnem8wNTR3OXkzTWQ4eEFsVGptTWREczZxakJOUExtbzZZ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 19:46:49 GMT",
+        "title_clean": "Daniel Ramos: «Considero o Sp. Covilhã uma das melhores equipas da 2.ª Liga» - Record",
+        "entities": [
+            {
+                "text": "Daniel Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélder Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Marítimo",
+                "label": "ORG"
+            },
+            {
+                "text": "Edgar Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Vasconcelos",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3l0ZXp5NUk2RGE5WWs2dkRjT2IxazlUWUdxZ0xsdkx6cUNsR3NoN2g1QjUyWDEwcFc4NGRVbmVuRDRYb3FxUzNQcEVDNGQ5WkhkZmdkWUNmcFNEdjV3ak4zQjdFRUFqY0dtbWFxbjBaNXhTWDRmQWppc21jbnFWQ25zSGFfSUVPVzFUbDd6bWd2dXQxbzJuTmhHM3FUNXZsWFY2OXVIXzZkSmt3bmJpSHpxaGtUVVlrZnZkSVJXMlFzVlZ6QVo1aGRwSzRtZTJk?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 11:13:04 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting Clube da Covilhã assegura quatro reforços para a nova época",
+        "entities": [
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "João Pacheco",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Libório",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "SC da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWR2STRacTF5WHhibGs1d1FCNmZCdUZTTy1acEZydXJleXl0OFlVSldmUXNRRGFRbEp3dXVIaGZjYlBQOFZNbTMtQXVhNEZGaWlMamdvYktMVy1KdkwxS003QmpSMXJER0RsYUlDSnkxQkhBMjlobW5ZR25Cbk50dEthM3A1Zjg5ekFyQjlPbjN6NnNsTTFRYmdfWHNnRzh1WXpqT2hHLXVnSkxPNjlMQWk4dVI3R0YycmhndWRTQklVdw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 02:42:13 GMT",
+        "title_clean": "Museu de Arte Sacra da Covilhã abre portas a novas exposições de arte e tradição religiosa - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Museu de Arte Sacra da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "José Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Almeida",
+                "label": "PER"
+            },
+            {
+                "text": "Notícias de",
+                "label": "ORG"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlYwQV9Qd2ZfX0FHdzNqQVZ5djBtT3VERTNLQTdLbnBGUllycFN6QVJOYVFjWTRHREZsd0phcTJvcmxjeC03Nk9MNTV4TE5yZG5yX3YwOUZITUpsQ085bG0waE9kd09JREY3Nkk5MlBWS0RaQ3pDVlVNS0FwdjNZQmd6blZ6WWdyM0V4aVgtV0dtR2UyX3dSUTA4Q003eVlZSTJuZUl6aGNBWEhoMmNhVjAtOVJteWtnUTZ6SA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 15:06:42 GMT",
+        "title_clean": "COVILHÃ: Museu de Arte Sacra inaugura duas novas exposições a 10 de julho",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu de Arte Sacra da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "José Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Almeida",
+                "label": "PER"
+            },
+            {
+                "text": "Biserica Ortodoxă Română",
+                "label": "ORG"
+            },
+            {
+                "text": "Igreja Ortodoxa Romena",
+                "label": "ORG"
+            },
+            {
+                "text": "Patriarca Daniel em",
+                "label": "PER"
+            },
+            {
+                "text": "Igreja Ortodoxa Russa",
+                "label": "ORG"
+            },
+            {
+                "text": "Igreja Romena",
+                "label": "ORG"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "História da Arte",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior de Belas Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Besançon",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0RQUHlFdWdoR2dkcXZZMk9FNEFNYkNNQlYtWHEzRl9kdHZMeS00X0x2UmdDVEtQQVhGSE5IeWpNaXJmem84V0k5M3dHTnN1NnlpcTg5ZXNPUGpmLTlabzNsdnI4eEdyNWZmVGxCYkpQcWpGNmVkUTdRWEs1dF9hVTdTZU1fclBUbkpPZ0tCR0czTlR2bGM2am9VckNVYUtBandzd25hMmM4dVNxcjJhWmFvMmtISHh6T29XU3pSb2dJRGNpV0lMa3pqUFJaY2hxclFRRTFDME9HekhiRmJSS3h3ZEE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:44:12 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã garante continuidade de Tomás Pimenta, Gustavo Galil e Edu Silva",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Tomás Pimenta",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Edu Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDlGQ0YzeS1vMmtZMG9Ja1lPckpLR3ExT0ItcUxtaHdnbVNjZTllSXN6MmRyM1NoY1NxU21vVl9SMWxjeGU3NktyVDZGRUNYSnc0MFNrRzRQdURmX2ktTXMtNVBBU1Y1RnlUeUEwSDNsUjF0a0tnemtCU1FkSUZOYm55ZlMzancwMXM0anl4U1M0dmxRWXRud3dXc0p5UXZvS2FsWmhFUVpkLWNaMEdHMnFhRXA5R3luWWZNbmozXzVIOFZpZWE0?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:46:36 GMT",
+        "title_clean": "Mercado of Sport's: Sporting da Covilhã garante continuidade de Tomás Pimenta, Gustavo Galil e Edu Silva",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Tomás Pimenta",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Edu Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUkxZkxhNkU0Ql91SnVIM05OMWJtd2R0UlJFOW0ya1N0TVVYbW9zcVpoUElYa3dULWVkcTBVeno3SDhSbHE2TUtGMDVWZWUwUG4xN3hnRVREUmJZUURjUVJNLWVUaEFtMVBxU0FsazhNZzJnMVo4TzZZSk9NazV2aGdRYjgtZHo4UFZ0b041T2JqWmhy?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 12:52:14 GMT",
+        "title_clean": "SCC: Kauan Gomes chega por empréstimo do Alverca",
+        "entities": [
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca do Ribatejo",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Lidador",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação de Futebol do Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "Cruzeiro",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético Goianense",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0NUUmxDSXJMUVBVQUhqajluTkNxUmx5UmJrQmNOTG1xeEJidTJkTkd5SWRQcnVHcVVjVDVkUE9DUFN4Ml9sWTVXWFZlQ3BBMFRwWTB2eHdlT2ptTlV1cmpCMk1oT0lnMlBmY2FrWXYteXZvSVRiQk5JMEFvSVRUb1ZkMHpDQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 15:45:06 GMT",
+        "title_clean": "OFICIAL: Alverca Empresta Kauan Gomes Ao Sp. Covilhã - revista.tempo.co.mz",
+        "entities": [
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Maia Lidador",
+                "label": "ORG"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Rhaldeny",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Fabrício Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Mathis Clairicia",
+                "label": "PER"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Essimi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -116313,6 +117281,827 @@
             {
                 "text": "Indien",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpjyucqe2m2n",
+        "source": "bluesky",
+        "created_at": "2026-06-30T22:00:37+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Pedro Jorge",
+                "label": "PER"
+            },
+            {
+                "text": "Marisa Pires",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3mpjytxxwei23",
+        "source": "bluesky",
+        "created_at": "2026-06-30T22:00:25+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Pedro Jorge",
+                "label": "PER"
+            },
+            {
+                "text": "Marisa Pires",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnwdszmevi2p",
+        "source": "bluesky",
+        "created_at": "2026-06-10T08:58:19.974Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mnuz6cim2s2o",
+        "source": "bluesky",
+        "created_at": "2026-06-09T20:15:07.647Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Polícia Judiciária da Guarda",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnuls5eig22k",
+        "source": "bluesky",
+        "created_at": "2026-06-09T16:15:40.762Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnu5gkzcgn2x",
+        "source": "bluesky",
+        "created_at": "2026-06-09T11:58:40.074Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mnd7tifkwx2r",
+        "source": "bluesky",
+        "created_at": "2026-06-02T18:26:23.848230Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Lousado",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mmbive3evs23",
+        "source": "bluesky",
+        "created_at": "2026-05-20T08:38:00.796Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mm7vdzl2l22v",
+        "source": "bluesky",
+        "created_at": "2026-05-19T17:15:38.516Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mm7fodwlaj2u",
+        "source": "bluesky",
+        "created_at": "2026-05-19T12:35:04.597Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Polícia Judiciária da Guarda",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gbdq5nlcqtgf464blewncly4/app.bsky.feed.post/3mm55ef3l7d2d",
+        "source": "bluesky",
+        "created_at": "2026-05-18T15:00:59Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Lucas Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "FC Felgueiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Liga Portugal 2",
+                "label": "ORG"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Japão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g7yfim62h",
+        "source": "bluesky",
+        "created_at": "2026-04-22T21:16:33.6206035+00:00",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g6fb3jz2y",
+        "source": "bluesky",
+        "created_at": "2026-04-22T21:15:39.9007860+00:00",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:my2sbivzj3x2ybo2kfzdhxmp/app.bsky.feed.post/3mjmywplhus2i",
+        "source": "bluesky",
+        "created_at": "2026-04-16T18:08:48.520Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mjheb3lglm26",
+        "source": "bluesky",
+        "created_at": "2026-04-14T12:15:27+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Mercadona",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mifishjpah2u",
+        "source": "bluesky",
+        "created_at": "2026-04-01T01:06:16.037Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Vítima",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ezecnr3gkp2bkxwphsonbvc6/app.bsky.feed.post/3mibnkevy7k2k",
+        "source": "bluesky",
+        "created_at": "2026-03-30T12:20:34.766Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Ethiopia",
+                "label": "LOC"
+            },
+            {
+                "text": "Prester John",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mi6zjxgkr22k",
+        "source": "bluesky",
+        "created_at": "2026-03-29T11:17:06.317Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2oqbhwsbpnaznj4zopvebvne/app.bsky.feed.post/3mhs746h3ra22",
+        "source": "bluesky",
+        "created_at": "2026-03-24T08:52:09.713494+00:00",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mhrqelnvla2x",
+        "source": "bluesky",
+        "created_at": "2026-03-24T04:28:25.767Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ufw5v3n73rlt7e6aaknytv6u/app.bsky.feed.post/3mhgjwpyhdm2z",
+        "source": "bluesky",
+        "created_at": "2026-03-19T17:34:00.843Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mhekuff5542p",
+        "source": "bluesky",
+        "created_at": "2026-03-18T22:45:15+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Mercadona",
+                "label": "ORG"
+            },
+            {
+                "text": "Margem Sul",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:mxxlsu336u23css7ooyojuyt/app.bsky.feed.post/3mh75u3khmk2i",
+        "source": "bluesky",
+        "created_at": "2026-03-16T19:09:09.523Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Santa Apolónia",
+                "label": "LOC"
+            },
+            {
+                "text": "Meleças",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mgv6bomor62n",
+        "source": "bluesky",
+        "created_at": "2026-03-12T19:50:07.981Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:u4n47crrdz3pbhu47plhkh7r/app.bsky.feed.post/3mfu4nmrttc2q",
+        "source": "bluesky",
+        "created_at": "2026-02-27T16:23:10.218Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfsm3oc2z",
+        "source": "bluesky",
+        "created_at": "2026-02-23T20:44:48.624Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Vila Velha de Ródão",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfrmykk2z",
+        "source": "bluesky",
+        "created_at": "2026-02-23T20:44:47.075Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Jornal Reconquista",
+                "label": "ORG"
+            },
+            {
+                "text": "Gabriel Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "Oscar Ascensão da Move Beiras",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mfhna7vage26",
+        "source": "bluesky",
+        "created_at": "2026-02-22T17:15:16+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Porto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:23w52iqqcuqagkq75nponvvd/app.bsky.feed.post/3meeyb4dywfc2",
+        "source": "bluesky",
+        "created_at": "2026-02-08T22:29:23.000Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Templo Mayor",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhmdm7z56l2ouh5w45sbshji/app.bsky.feed.post/3mebcqhlbc227",
+        "source": "bluesky",
+        "created_at": "2026-02-07T11:26:21.209Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:kaw4dwcvhf6s66zt7qqx6daq/app.bsky.feed.post/3mdphb7jwvk25",
+        "source": "bluesky",
+        "created_at": "2026-01-31T08:59:22.885Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:655kmv4jfmsovnrjxpdx53y4/app.bsky.feed.post/3mdcu62nnck25",
+        "source": "bluesky",
+        "created_at": "2026-01-26T08:45:39.146Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "PORTUGAL",
+                "label": "LOC"
+            },
+            {
+                "text": "FITUR",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mczrtwupqp2c",
+        "source": "bluesky",
+        "created_at": "2026-01-22T18:10:14.261Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Comissão de Gestão",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mcmrv35j5t2i",
+        "source": "bluesky",
+        "created_at": "2026-01-17T14:06:14.674603Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Torre da Serra da Estrela",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:7h3hrqbvfr4kkwy2ntxect6g/app.bsky.feed.post/3mcanmlgp3c2h",
+        "source": "bluesky",
+        "created_at": "2026-01-12T18:17:59.209Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mc4yzw5obr23",
+        "source": "bluesky",
+        "created_at": "2026-01-11T07:31:38.365Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mbpjt44tjw2w",
+        "source": "bluesky",
+        "created_at": "2026-01-05T22:54:45.586147Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Cantar das Janeiras",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:jfgtrrsrzmdatednj3yzj2u5/app.bsky.feed.post/3mbbnzafqwk2u",
+        "source": "bluesky",
+        "created_at": "2025-12-31T10:32:31.963Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Asterion",
+                "label": "ORG"
+            },
+            {
+                "text": "Altice",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "The Tech Capital",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabudbecxs2i",
+        "source": "bluesky",
+        "created_at": "2025-12-18T19:00:19.329Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Carne",
+                "label": "PER"
+            },
+            {
+                "text": "Lisbon",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabti2nn4z2s",
+        "source": "bluesky",
+        "created_at": "2025-12-18T18:45:05.274Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Carneyro Santos Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Lisbon",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3maaqbkknqf2z",
+        "source": "bluesky",
+        "created_at": "2025-12-18T08:15:05.423Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Lagrifa",
+                "label": "PER"
+            },
+            {
+                "text": "Carney",
+                "label": "PER"
+            },
+            {
+                "text": "Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Lisbon",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:bgznzxixeslq3dixy4cg5ule/app.bsky.feed.post/3m6w7zgcprd2z",
+        "source": "bluesky",
+        "created_at": "2025-12-01T10:32:25.115791Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Asterion",
+                "label": "ORG"
+            },
+            {
+                "text": "Altice",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m6ourp2h7c2i",
+        "source": "bluesky",
+        "created_at": "2025-11-28T12:22:36.794Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m5ldvik2ko2p",
+        "source": "bluesky",
+        "created_at": "2025-11-14T09:17:18.419385Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Linha da Beira Baixa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m5dya6ntxs2v",
+        "source": "bluesky",
+        "created_at": "2025-11-11T10:59:55.395Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:xxcz7qy4yqjdrvg4wkpdyrrb/app.bsky.feed.post/3m52ov6n5y222",
+        "source": "bluesky",
+        "created_at": "2025-11-07T18:18:44.950Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m4y2juwkfq26",
+        "source": "bluesky",
+        "created_at": "2025-11-06T17:09:09.980950Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Jomafil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m4xg6ojddk2o",
+        "source": "bluesky",
+        "created_at": "2025-11-06T11:05:00.702Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Palestine",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:5krpxaflie7kzxyvtwdns4wy/app.bsky.feed.post/3m3rv43incc2p",
+        "source": "bluesky",
+        "created_at": "2025-10-22T12:50:49.718Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:xu5lchy5t2ipscewwt37ay2n/app.bsky.feed.post/3m3cdho4kak2q",
+        "source": "bluesky",
+        "created_at": "2025-10-16T08:25:14.915Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Petroprix",
+                "label": "ORG"
+            },
+            {
+                "text": "Santo Tirso",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m3a2xgyhnk2q",
+        "source": "bluesky",
+        "created_at": "2025-10-15T10:47:41.157Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:j4uvsnhzt425lvsi5cbwsu2d/app.bsky.feed.post/3m36a3k4feg2e",
+        "source": "bluesky",
+        "created_at": "2025-10-14T17:14:07Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m2zmxy7m4k2m",
+        "source": "bluesky",
+        "created_at": "2025-10-12T21:21:28.402Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Penamacor",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ozf55fcugazdqj77nhhstfnu/app.bsky.feed.post/3m2uxkn65lv2q",
+        "source": "bluesky",
+        "created_at": "2025-10-11T05:47:30Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Manteigas",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2ulamom2y2z",
+        "source": "bluesky",
+        "created_at": "2025-10-10T21:07:12.098Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rodrigo Ascensão",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m2twqupdxq2p",
+        "source": "bluesky",
+        "created_at": "2025-10-10T15:00:26+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Pedro Jorge",
+                "label": "PER"
+            },
+            {
+                "text": "Marisa",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio",
+                "label": "PER"
+            },
+            {
+                "text": "Dylan",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3m2twqoak472s",
+        "source": "bluesky",
+        "created_at": "2025-10-10T15:00:20+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Pedro Jorge",
+                "label": "PER"
+            },
+            {
+                "text": "Marisa",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio",
+                "label": "PER"
+            },
+            {
+                "text": "Dylan",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2phsgmshp2q",
+        "source": "bluesky",
+        "created_at": "2025-10-08T20:22:16.066Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2mubiixdj2u",
+        "source": "bluesky",
+        "created_at": "2025-10-07T19:27:27.024Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Celeste Miranda",
+                "label": "PER"
+            },
+            {
+                "text": "Paula Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m25kwa4qso2z",
+        "source": "bluesky",
+        "created_at": "2025-10-01T17:30:06+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Carina Leal",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ghdtmkgv6g7t2l6urbalhopv/app.bsky.feed.post/3lzxyqhifbm2e",
+        "source": "bluesky",
+        "created_at": "2025-09-29T12:21:28Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Diogo Lopes",
+                "label": "PER"
+            },
+            {
+                "text": "Grandes Escolhas",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:roweyd2xk6bs2mwhfk6vjzmb/app.bsky.feed.post/3lznmsfzdnk2c",
+        "source": "bluesky",
+        "created_at": "2025-09-25T09:21:13.062Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Cova da Beira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3lxca2tca6s2u",
+        "source": "bluesky",
+        "created_at": "2025-08-26T09:43:36.399Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Parlamento",
+                "label": "ORG"
             }
         ]
     },

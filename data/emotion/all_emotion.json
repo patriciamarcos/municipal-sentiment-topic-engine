@@ -82328,5 +82328,2603 @@
         },
         "model_name": "tabularisai/multilingual-emotion-classification",
         "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RYjhITlFFb3AwbzIza19xck1wcmEzcm02eUFrMHNIRlhzclBQRnpiT3ZkVlNiZjRBSk4zT1lqcGVTUFBGOFZVWmp1UWU5OTRWclpHM2hxUmRUa0NtUTRXOUNuNk90NFI0clVkUHFVVThja19IeHBxbEJzcE42QVU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 20:50:56 GMT",
+        "title": "Artista da Covilhã transforma lixo em arte - Conta-Lá",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9754,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9754,
+            "JOY": 0.008,
+            "LOVE": 0.0072,
+            "FRUSTRATION": 0.0064,
+            "SURPRISE": 0.0054,
+            "CONTEMPT": 0.0031,
+            "SADNESS": 0.0027,
+            "ANGER": 0.0026,
+            "DISGUST": 0.0019,
+            "FEAR": 0.0012,
+            "GRATITUDE": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQzNCbHNRTW5LZG9yLTI4WHoteWZJZ1FnamZkdV9DZ2poM1Q3MDhHYy1YU0lSSFlPWF9CZFgwcGpaUGF5bG9OaDZUdF9YNEh1RWdUaHV0QmhOVUlLZ0pjN01DMHRDZTVwODJsMkJHejYyNl84Q284?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 11:35:08 GMT",
+        "title": "A Covilhã é casa de estudantes deslocados - Universidade da Beira Interior",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9386,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9386,
+            "SURPRISE": 0.0604,
+            "LOVE": 0.0288,
+            "JOY": 0.0082,
+            "FEAR": 0.0052,
+            "SADNESS": 0.0029,
+            "ANGER": 0.0017,
+            "GRATITUDE": 0.0015,
+            "FRUSTRATION": 0.0014,
+            "DISGUST": 0.0012,
+            "CONTEMPT": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3hJWmxuZFB0enB5UWMxdjlNZkVhN0RmYmUzcjgxYko1d2p6cmhRT0U2T3A3SUp5ckFNVi1RdXRVWG9QUWNDQTdaMGJJaGc5SnZiOFlCOU0tMGlmbWZBR1FoaWRtQjBRdE1jaWhycFdUUzlWQXJYTGJJejNSTGQtV0ZUNDVoMUNyWVE3dElQZVJWM1FjSFFnaUxfcmVINGtteHNkNU52cGs0UFhMSTJnV0NrQnhteUE1SE9FTjg4Y0dDcEJSc0g4aXdn?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 17:32:06 GMT",
+        "title": "Covilhã: Centro Histórico voltou a pulsar com ASTA e Festival \"Portas do Sol\" - Diario Digital Castelo Branco",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.982,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.982,
+            "FRUSTRATION": 0.0287,
+            "GRATITUDE": 0.0239,
+            "JOY": 0.0235,
+            "ANGER": 0.0188,
+            "CONTEMPT": 0.005,
+            "SADNESS": 0.0035,
+            "LOVE": 0.0033,
+            "SURPRISE": 0.0019,
+            "DISGUST": 0.0019,
+            "FEAR": 0.0007
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ySUt5OE13Nldpbm1mcDNLNExMNkpkT29lal90SS1TX1NoejRoaTl0NDFiSWNLQmZRRWprWVV6d29Xam9fd1dnRmFHRHcyVTltWGRoS1MydmRVWWFKTWluN0t2VjNBODVRM2Iw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:19:43 GMT",
+        "title": "FESTIVAL DO PASTEL DE MOLHO DA COVILHÃ ENTRE 09 E 11 DE JULHO NO JARDIM DAS ARTES - Município da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9938,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9938,
+            "JOY": 0.0117,
+            "FRUSTRATION": 0.0085,
+            "DISGUST": 0.0084,
+            "ANGER": 0.0063,
+            "CONTEMPT": 0.0055,
+            "SADNESS": 0.0036,
+            "LOVE": 0.0023,
+            "SURPRISE": 0.002,
+            "FEAR": 0.0019,
+            "GRATITUDE": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xZ3hFQ2FPOFJnZ3Y2WGFvSmgzZGgxa2hUVVRxTFZteGFiSE5QTzR3bG93TVhtTUQzY08tWElXWGpKZW9BYlNRbWFZYVBhWjd1eFl5RU5kbnB1dWJzOTRHaEtWQTB5S01uOFVVdVZKYTBHNmEwVGo5TUNxVFA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 23:06:44 GMT",
+        "title": "Covilhã, tempo para desfrutar da Natureza - Conta-Lá",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8603,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8603,
+            "LOVE": 0.0342,
+            "ANGER": 0.0246,
+            "JOY": 0.0119,
+            "SADNESS": 0.0079,
+            "SURPRISE": 0.0079,
+            "CONTEMPT": 0.0075,
+            "FRUSTRATION": 0.0056,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.002,
+            "DISGUST": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXpaRkZoWDNKNm5DdnNPOEpkNlB6T1lycXJIWTBoZWJSUGdhaE1EZHFnWVhKV0NNYllDc19HZnRRZFpHOWZYcTQtMnozT3hDLXAxZkNPc1JzUTRXZXdnSXdweFd2R2xDNnltT19MU3FzSzF2X1ZKY0sxczJBdHFmVkxiU2NoZGZsRlBKNjhwY2trNERFbGdYUERpWjdsRDQ2ellVRm0tRGl5YTlJUWtwU05DWk1raGJfbFl4bVFuUjk5YW1QWndqLdIBwwFBVV95cUxPbjYxaTRBODdsV012TlRvRDF4aTJKOGpCSTVGWHdJMjdCamVJTkNrNEdWdEZQai1HRUhDVWgxOXNzd0VVbElEX0ZDTkJwWXJPdWxiVnM0eXdWdFB3ZkxkSVQwSHZnTzRjTGRUWVRTN1FnS0lEVVNYbk9OYzJmNHNQRGxYTTN4LWZacy1jSlFVZTF3YWpielV1SURhT05QV1R3RzlaUlRkN3lMcjFtXzRwYzkzVk5OUWMzMVlKZW5RUGd2RnM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 12:17:49 GMT",
+        "title": "Alverca cede Kauan Gomes por empréstimo ao Sp. Covilhã - Record",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9437,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9437,
+            "JOY": 0.055,
+            "SURPRISE": 0.0432,
+            "CONTEMPT": 0.0204,
+            "SADNESS": 0.019,
+            "LOVE": 0.0047,
+            "ANGER": 0.0042,
+            "FRUSTRATION": 0.003,
+            "DISGUST": 0.0025,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZmpoMUhOd2ZGUUw1X1FxT0NxeWRnZER6dU5Rcmx1bmhrOTlvcXEyTTItSTZ6cU9KbHI5YzE2TjdiaEhIS2xxSWpDTFdsMEREdjJYbXdoZHVtbEdIbzN2bzRjR0JUbXdtSEE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:06:00 GMT",
+        "title": "Portas do Sol “foi um sucesso” - Noticias da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.991,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.991,
+            "JOY": 0.0201,
+            "GRATITUDE": 0.0163,
+            "FRUSTRATION": 0.01,
+            "CONTEMPT": 0.0097,
+            "ANGER": 0.0076,
+            "SADNESS": 0.0047,
+            "LOVE": 0.0027,
+            "SURPRISE": 0.0026,
+            "DISGUST": 0.0023,
+            "FEAR": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUl9mbmpONThfN0YzaGl3RjdCSXZnOEY3VnN4TXl6WENRYW83bWFlZ2t4a244bV9lRS15eWd3Vmx1R21CYzYtN3ROZXhMU2R2bnR1MXpJLTRXclZtYjJ1ZUdzTE11dVRlclgwR3J0WmduNEhnR0hCWnR0OVhSS0lqdi1CR3hUektHcWNETHBpNm16VDRKMlE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 12:06:40 GMT",
+        "title": "OFICIAL: Alverca empresta Kauan Gomes ao Sp. Covilhã - TVI",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9719,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9719,
+            "CONTEMPT": 0.0265,
+            "SURPRISE": 0.0078,
+            "JOY": 0.0056,
+            "SADNESS": 0.0042,
+            "FRUSTRATION": 0.0029,
+            "ANGER": 0.0026,
+            "LOVE": 0.0017,
+            "DISGUST": 0.0014,
+            "FEAR": 0.0013,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclJRdEVoZjVWX0NDaTVyRDdTc0UwaU4wSE15Wk5heWxDZU5naE51dGhYdHNEbXpGZllvczJibFFDdEVrSXRqRHdSaVBuSzFocE4xeHJpcklmaDE4azZvSDZRRFNyeUp3YzIydnNOeEI5NmxzbHMyWkkyWW82MENiUWpRNHdCLVhBcF9sRXVheU9kQ3FSd3FHTnR2THc3NDk4V3YtWGE2RzdCYm9wTzJDM042eHQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:21:40 GMT",
+        "title": "Festival do Pastel de Molho regressa ao Jardim das Artes da Covilhã entre 9 e 11 de julho - Gazeta Rural",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "CONTEMPT": 0.009,
+            "ANGER": 0.0076,
+            "FRUSTRATION": 0.006,
+            "DISGUST": 0.0054,
+            "SADNESS": 0.0044,
+            "JOY": 0.0044,
+            "SURPRISE": 0.0027,
+            "LOVE": 0.0022,
+            "FEAR": 0.0019,
+            "GRATITUDE": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXZEN241WnNqMnFvRFl0VDhlOV96YUlCcldsMVo3Yzh5Z29UUHVySGh0SjNDYk05NjMtVHA0RzV1Z0gyWnFjd1VLUjdtM2lJNjRCUVJmbEpudXpRQjJQdEg4dzJhLW9NTTFRaDBZaGlyYl9taklndUdFX1doRm1vV2JqTTQzY2VsdHB2S1RnRnNDSi05d3pyc3padVk2akFtNndJSkVuRQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:23:17 GMT",
+        "title": "Edu Silva renova com o Sporting da Covilhã por mais uma época - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "SADNESS": 0.0104,
+            "CONTEMPT": 0.0077,
+            "JOY": 0.0051,
+            "SURPRISE": 0.0047,
+            "FRUSTRATION": 0.0045,
+            "LOVE": 0.0042,
+            "ANGER": 0.0024,
+            "DISGUST": 0.0018,
+            "FEAR": 0.0017,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3V0OTBDREtEOTNvT3pPcTd0WUNrS3E3OWRPZldxMENRbTdJclBQWkI1T3ptVHFDdS1yWW5lWmowWUZjWGpUOTFXRnpFQ1hnQl90YWl2Ujg3M2hKdW5QVk5UYkdvTTlnMDQ4eHcyQ1ViQ1ZYYU81T0QtU004VzNhTEN0U01xNm1zV21yM2Q2alBZSFNLcmxnSXBHUXk3NWFzU2s4Tnp3VnA4SzR4MVNQUHJmQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:45:33 GMT",
+        "title": "Pipo Marques reforça o plantel do Sporting da Covilhã na próxima época - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9799,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9799,
+            "CONTEMPT": 0.0136,
+            "SURPRISE": 0.01,
+            "JOY": 0.0055,
+            "LOVE": 0.0032,
+            "FRUSTRATION": 0.0031,
+            "SADNESS": 0.0024,
+            "DISGUST": 0.0023,
+            "FEAR": 0.0021,
+            "ANGER": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlRoY2VZY3IzVUhvUWhvOGM2aFZFbjQ1UDVlVTVXakVkRUw2Zkl4LU9kT0xoUGdmTk1xTFk2Z3IzOW1YcnFvRFh4VV81cEFScjdVWG5aTjZqNEs4ZEwtY01HLUhaX1pHMWtlLXF2M1dNVHYyaW54V3RzaGlyUXZWUTZzeDBPSWpBdEh5ZlVjN0k4QVVsZkdkeGhOUW9talVNY2RMZmZtMkM0Uy1mMThYYk1fd0s3ZUVaeHMwekF1V0g?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:05:26 GMT",
+        "title": "Grupo Humanitário Dadores de Sangue da Covilhã promove recolha de sangue amanhã - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.993,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.993,
+            "FRUSTRATION": 0.0079,
+            "CONTEMPT": 0.0043,
+            "ANGER": 0.0042,
+            "SADNESS": 0.0034,
+            "JOY": 0.0034,
+            "DISGUST": 0.0033,
+            "GRATITUDE": 0.0026,
+            "LOVE": 0.0021,
+            "FEAR": 0.002,
+            "SURPRISE": 0.0019
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWtIWXRFMzFkLW9LUmd1T0tGSFVFS1BEckxyVW5uc2laa2RfVkRIeVhhV2UzNmxybi05dFAtRy1kV3JZSExWVmxKSW90VjB2MjJZWDFTV3VoWDJTWlJHTzNWX2EtSWFMZENLaGpxWUNnbENIRFl2MXdXeUV3a09OY1kyZUlGTms?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:30:00 GMT",
+        "title": "Teatro das Beiras estreia \"Auto de Exortação da Paz\" - Noticias da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9902,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9902,
+            "CONTEMPT": 0.0267,
+            "JOY": 0.0067,
+            "DISGUST": 0.0042,
+            "LOVE": 0.0041,
+            "FRUSTRATION": 0.0034,
+            "ANGER": 0.0031,
+            "SADNESS": 0.0027,
+            "SURPRISE": 0.0027,
+            "GRATITUDE": 0.0014,
+            "FEAR": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUDJ5bnBhamdmdkNfLVJLcTZ4UXJYd2ZZU2txaEtfVUpheExUbDZmal9Ja2hxUDdEQzZ4eXZvQlJCV2tjWHB3Tzl6NlRINjhyRVRodFJjTHhRb3AxV012RDVxMEhVb1lwckVPMnRDbURscV9DajNZczgxV0lLZEd4ZFIyNUk5Y29wdmlSZzd5S1dlRmVZb05jOFdhX2Vmb1k5Zk5raGxFTUFOMF9IMWJaREhrMGJoSTdXZGd6bzA1NHc5eTNNZDh4QWxUam1NZERzNnFqQk5QTG1vNlnSAdsBQVVfeXFMUFAyeW5wYWpnZnZDXy1SS3E2eFFyWHdmWVNrcWhLX1VKYXhMVGw2ZmpfSWtocVA3REM2eHl2b0JSQldrY1hwd085ejZUSDY4ckVUaHRSY0x4UW9wMVdNdkQ1cTBIVW9ZcHJFTzJ0Q21EbHFfQ2ozWXM4MVdJS2RHeGRSMjVJOWNvcHZpUmc3eUtXZUZlWW9OYzhXYV9lZm9ZOWZOa2hsRU1BTjBfSDFiWkRIazBiaEk3V2Rnem8wNTR3OXkzTWQ4eEFsVGptTWREczZxakJOUExtbzZZ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 19:46:49 GMT",
+        "title": "Daniel Ramos: «Considero o Sp. Covilhã uma das melhores equipas da 2.ª Liga» - Record",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9399,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9399,
+            "LOVE": 0.0403,
+            "CONTEMPT": 0.0119,
+            "JOY": 0.0042,
+            "FEAR": 0.0029,
+            "SADNESS": 0.0028,
+            "ANGER": 0.0021,
+            "FRUSTRATION": 0.0019,
+            "GRATITUDE": 0.0018,
+            "SURPRISE": 0.0014,
+            "DISGUST": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3l0ZXp5NUk2RGE5WWs2dkRjT2IxazlUWUdxZ0xsdkx6cUNsR3NoN2g1QjUyWDEwcFc4NGRVbmVuRDRYb3FxUzNQcEVDNGQ5WkhkZmdkWUNmcFNEdjV3ak4zQjdFRUFqY0dtbWFxbjBaNXhTWDRmQWppc21jbnFWQ25zSGFfSUVPVzFUbDd6bWd2dXQxbzJuTmhHM3FUNXZsWFY2OXVIXzZkSmt3bmJpSHpxaGtUVVlrZnZkSVJXMlFzVlZ6QVo1aGRwSzRtZTJk?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 11:13:04 GMT",
+        "title": "Mercado of Sport’s: Sporting Clube da Covilhã assegura quatro reforços para a nova época - SAPO",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9893,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9893,
+            "SADNESS": 0.0043,
+            "FRUSTRATION": 0.0041,
+            "CONTEMPT": 0.0039,
+            "SURPRISE": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0029,
+            "JOY": 0.0027,
+            "ANGER": 0.0025,
+            "DISGUST": 0.0018,
+            "GRATITUDE": 0.0015
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWR2STRacTF5WHhibGs1d1FCNmZCdUZTTy1acEZydXJleXl0OFlVSldmUXNRRGFRbEp3dXVIaGZjYlBQOFZNbTMtQXVhNEZGaWlMamdvYktMVy1KdkwxS003QmpSMXJER0RsYUlDSnkxQkhBMjlobW5ZR25Cbk50dEthM3A1Zjg5ekFyQjlPbjN6NnNsTTFRYmdfWHNnRzh1WXpqT2hHLXVnSkxPNjlMQWk4dVI3R0YycmhndWRTQklVdw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 02:42:13 GMT",
+        "title": "Museu de Arte Sacra da Covilhã abre portas a novas exposições de arte e tradição religiosa - Notícias de Coimbra",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9748,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9748,
+            "ANGER": 0.0151,
+            "LOVE": 0.0143,
+            "CONTEMPT": 0.005,
+            "JOY": 0.0037,
+            "FRUSTRATION": 0.0036,
+            "SURPRISE": 0.0025,
+            "SADNESS": 0.0022,
+            "GRATITUDE": 0.0013,
+            "DISGUST": 0.0013,
+            "FEAR": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlYwQV9Qd2ZfX0FHdzNqQVZ5djBtT3VERTNLQTdLbnBGUllycFN6QVJOYVFjWTRHREZsd0phcTJvcmxjeC03Nk9MNTV4TE5yZG5yX3YwOUZITUpsQ085bG0waE9kd09JREY3Nkk5MlBWS0RaQ3pDVlVNS0FwdjNZQmd6blZ6WWdyM0V4aVgtV0dtR2UyX3dSUTA4Q003eVlZSTJuZUl6aGNBWEhoMmNhVjAtOVJteWtnUTZ6SA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 15:06:42 GMT",
+        "title": "COVILHÃ: Museu de Arte Sacra inaugura duas novas exposições a 10 de julho - SAPO",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.99,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.99,
+            "CONTEMPT": 0.0308,
+            "JOY": 0.0064,
+            "FRUSTRATION": 0.0056,
+            "SURPRISE": 0.0052,
+            "SADNESS": 0.005,
+            "DISGUST": 0.0033,
+            "ANGER": 0.0029,
+            "LOVE": 0.0027,
+            "GRATITUDE": 0.0013,
+            "FEAR": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0RQUHlFdWdoR2dkcXZZMk9FNEFNYkNNQlYtWHEzRl9kdHZMeS00X0x2UmdDVEtQQVhGSE5IeWpNaXJmem84V0k5M3dHTnN1NnlpcTg5ZXNPUGpmLTlabzNsdnI4eEdyNWZmVGxCYkpQcWpGNmVkUTdRWEs1dF9hVTdTZU1fclBUbkpPZ0tCR0czTlR2bGM2am9VckNVYUtBandzd25hMmM4dVNxcjJhWmFvMmtISHh6T29XU3pSb2dJRGNpV0lMa3pqUFJaY2hxclFRRTFDME9HekhiRmJSS3h3ZEE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:44:12 GMT",
+        "title": "Mercado of Sport’s: Sporting da Covilhã garante continuidade de Tomás Pimenta, Gustavo Galil e Edu Silva - SAPO",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.99,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.99,
+            "SADNESS": 0.0107,
+            "LOVE": 0.0105,
+            "CONTEMPT": 0.0102,
+            "FRUSTRATION": 0.0035,
+            "ANGER": 0.003,
+            "SURPRISE": 0.0023,
+            "JOY": 0.0022,
+            "GRATITUDE": 0.0019,
+            "FEAR": 0.0015,
+            "DISGUST": 0.0014
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDlGQ0YzeS1vMmtZMG9Ja1lPckpLR3ExT0ItcUxtaHdnbVNjZTllSXN6MmRyM1NoY1NxU21vVl9SMWxjeGU3NktyVDZGRUNYSnc0MFNrRzRQdURmX2ktTXMtNVBBU1Y1RnlUeUEwSDNsUjF0a0tnemtCU1FkSUZOYm55ZlMzancwMXM0anl4U1M0dmxRWXRud3dXc0p5UXZvS2FsWmhFUVpkLWNaMEdHMnFhRXA5R3luWWZNbmozXzVIOFZpZWE0?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:46:36 GMT",
+        "title": "Mercado of Sport's: Sporting da Covilhã garante continuidade de Tomás Pimenta, Gustavo Galil e Edu Silva - MaisBeiras Informação",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9896,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9896,
+            "LOVE": 0.0109,
+            "SADNESS": 0.0105,
+            "CONTEMPT": 0.0097,
+            "FRUSTRATION": 0.0033,
+            "ANGER": 0.0028,
+            "SURPRISE": 0.0023,
+            "JOY": 0.0023,
+            "GRATITUDE": 0.0019,
+            "FEAR": 0.0015,
+            "DISGUST": 0.0015
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUkxZkxhNkU0Ql91SnVIM05OMWJtd2R0UlJFOW0ya1N0TVVYbW9zcVpoUElYa3dULWVkcTBVeno3SDhSbHE2TUtGMDVWZWUwUG4xN3hnRVREUmJZUURjUVJNLWVUaEFtMVBxU0FsazhNZzJnMVo4TzZZSk9NazV2aGdRYjgtZHo4UFZ0b041T2JqWmhy?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 12:52:14 GMT",
+        "title": "SCC: Kauan Gomes chega por empréstimo do Alverca - Rádio Clube da Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0184,
+            "JOY": 0.0049,
+            "SURPRISE": 0.0049,
+            "SADNESS": 0.0039,
+            "DISGUST": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0031,
+            "ANGER": 0.0021,
+            "FEAR": 0.0019,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0NUUmxDSXJMUVBVQUhqajluTkNxUmx5UmJrQmNOTG1xeEJidTJkTkd5SWRQcnVHcVVjVDVkUE9DUFN4Ml9sWTVXWFZlQ3BBMFRwWTB2eHdlT2ptTlV1cmpCMk1oT0lnMlBmY2FrWXYteXZvSVRiQk5JMEFvSVRUb1ZkMHpDQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 15:45:06 GMT",
+        "title": "OFICIAL: Alverca Empresta Kauan Gomes Ao Sp. Covilhã - revista.tempo.co.mz",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9779,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9779,
+            "CONTEMPT": 0.0199,
+            "SURPRISE": 0.0064,
+            "JOY": 0.0052,
+            "SADNESS": 0.004,
+            "FRUSTRATION": 0.0028,
+            "ANGER": 0.0024,
+            "DISGUST": 0.0017,
+            "LOVE": 0.0016,
+            "FEAR": 0.0013,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpjyucqe2m2n",
+        "source": "bluesky",
+        "created_at": "2026-06-30T22:00:37+00:00",
+        "title": "",
+        "dominant_emotion": "SURPRISE",
+        "confidence": 0.9406,
+        "active_emotions": [
+            "SURPRISE",
+            "JOY",
+            "LOVE"
+        ],
+        "emotion_scores": {
+            "SURPRISE": 0.9406,
+            "JOY": 0.2328,
+            "LOVE": 0.1815,
+            "GRATITUDE": 0.1192,
+            "NEUTRAL": 0.0352,
+            "SADNESS": 0.0084,
+            "CONTEMPT": 0.0076,
+            "FEAR": 0.0061,
+            "ANGER": 0.0044,
+            "DISGUST": 0.003,
+            "FRUSTRATION": 0.0016
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3mpjytxxwei23",
+        "source": "bluesky",
+        "created_at": "2026-06-30T22:00:25+00:00",
+        "title": "",
+        "dominant_emotion": "SURPRISE",
+        "confidence": 0.9406,
+        "active_emotions": [
+            "SURPRISE",
+            "JOY",
+            "LOVE"
+        ],
+        "emotion_scores": {
+            "SURPRISE": 0.9406,
+            "JOY": 0.2328,
+            "LOVE": 0.1815,
+            "GRATITUDE": 0.1192,
+            "NEUTRAL": 0.0352,
+            "SADNESS": 0.0084,
+            "CONTEMPT": 0.0076,
+            "FEAR": 0.0061,
+            "ANGER": 0.0044,
+            "DISGUST": 0.003,
+            "FRUSTRATION": 0.0016
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnwdszmevi2p",
+        "source": "bluesky",
+        "created_at": "2026-06-10T08:58:19.974Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9798,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9798,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0082,
+            "DISGUST": 0.0081,
+            "FRUSTRATION": 0.0075,
+            "ANGER": 0.0056,
+            "FEAR": 0.0045,
+            "JOY": 0.0028,
+            "LOVE": 0.0027,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mnuz6cim2s2o",
+        "source": "bluesky",
+        "created_at": "2026-06-09T20:15:07.647Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9806,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9806,
+            "FEAR": 0.0227,
+            "SADNESS": 0.004,
+            "FRUSTRATION": 0.0039,
+            "CONTEMPT": 0.0037,
+            "DISGUST": 0.0029,
+            "SURPRISE": 0.0019,
+            "JOY": 0.0017,
+            "ANGER": 0.0016,
+            "LOVE": 0.0015,
+            "GRATITUDE": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnuls5eig22k",
+        "source": "bluesky",
+        "created_at": "2026-06-09T16:15:40.762Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9798,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9798,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0082,
+            "DISGUST": 0.0081,
+            "FRUSTRATION": 0.0075,
+            "ANGER": 0.0056,
+            "FEAR": 0.0045,
+            "JOY": 0.0028,
+            "LOVE": 0.0027,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnu5gkzcgn2x",
+        "source": "bluesky",
+        "created_at": "2026-06-09T11:58:40.074Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9798,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9798,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0082,
+            "DISGUST": 0.0081,
+            "FRUSTRATION": 0.0075,
+            "ANGER": 0.0056,
+            "FEAR": 0.0045,
+            "JOY": 0.0028,
+            "LOVE": 0.0027,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mnd7tifkwx2r",
+        "source": "bluesky",
+        "created_at": "2026-06-02T18:26:23.848230Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.4264,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.4264,
+            "SADNESS": 0.1072,
+            "DISGUST": 0.0969,
+            "FEAR": 0.0661,
+            "SURPRISE": 0.0583,
+            "ANGER": 0.0468,
+            "CONTEMPT": 0.0442,
+            "JOY": 0.0436,
+            "GRATITUDE": 0.031,
+            "LOVE": 0.0153,
+            "FRUSTRATION": 0.0137
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mmbive3evs23",
+        "source": "bluesky",
+        "created_at": "2026-05-20T08:38:00.796Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9679,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9679,
+            "FEAR": 0.0206,
+            "DISGUST": 0.0144,
+            "SURPRISE": 0.0129,
+            "SADNESS": 0.0113,
+            "CONTEMPT": 0.0107,
+            "ANGER": 0.0041,
+            "FRUSTRATION": 0.0037,
+            "LOVE": 0.0018,
+            "JOY": 0.0011,
+            "GRATITUDE": 0.0003
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mm7vdzl2l22v",
+        "source": "bluesky",
+        "created_at": "2026-05-19T17:15:38.516Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9707,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9707,
+            "SURPRISE": 0.0203,
+            "SADNESS": 0.0123,
+            "FEAR": 0.0103,
+            "CONTEMPT": 0.0091,
+            "DISGUST": 0.0047,
+            "FRUSTRATION": 0.0033,
+            "ANGER": 0.0027,
+            "JOY": 0.0026,
+            "LOVE": 0.0018,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mm7fodwlaj2u",
+        "source": "bluesky",
+        "created_at": "2026-05-19T12:35:04.597Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9684,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9684,
+            "FRUSTRATION": 0.0427,
+            "ANGER": 0.0146,
+            "SURPRISE": 0.011,
+            "SADNESS": 0.0082,
+            "CONTEMPT": 0.0068,
+            "FEAR": 0.0065,
+            "DISGUST": 0.0035,
+            "JOY": 0.0016,
+            "LOVE": 0.0014,
+            "GRATITUDE": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:gbdq5nlcqtgf464blewncly4/app.bsky.feed.post/3mm55ef3l7d2d",
+        "source": "bluesky",
+        "created_at": "2026-05-18T15:00:59Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9704,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9704,
+            "JOY": 0.0551,
+            "CONTEMPT": 0.0108,
+            "SURPRISE": 0.005,
+            "SADNESS": 0.0043,
+            "LOVE": 0.0037,
+            "FEAR": 0.0023,
+            "DISGUST": 0.002,
+            "FRUSTRATION": 0.0018,
+            "ANGER": 0.0015,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g7yfim62h",
+        "source": "bluesky",
+        "created_at": "2026-04-22T21:16:33.6206035+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.961,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.961,
+            "SURPRISE": 0.0597,
+            "ANGER": 0.055,
+            "FRUSTRATION": 0.0152,
+            "CONTEMPT": 0.0107,
+            "JOY": 0.0102,
+            "DISGUST": 0.01,
+            "SADNESS": 0.0063,
+            "FEAR": 0.0047,
+            "LOVE": 0.0028,
+            "GRATITUDE": 0.0018
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g6fb3jz2y",
+        "source": "bluesky",
+        "created_at": "2026-04-22T21:15:39.9007860+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.961,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.961,
+            "SURPRISE": 0.0597,
+            "ANGER": 0.055,
+            "FRUSTRATION": 0.0152,
+            "CONTEMPT": 0.0107,
+            "JOY": 0.0102,
+            "DISGUST": 0.01,
+            "SADNESS": 0.0063,
+            "FEAR": 0.0047,
+            "LOVE": 0.0028,
+            "GRATITUDE": 0.0018
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:my2sbivzj3x2ybo2kfzdhxmp/app.bsky.feed.post/3mjmywplhus2i",
+        "source": "bluesky",
+        "created_at": "2026-04-16T18:08:48.520Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.6017,
+        "active_emotions": [
+            "NEUTRAL",
+            "FRUSTRATION",
+            "SADNESS"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.6017,
+            "FRUSTRATION": 0.2165,
+            "SADNESS": 0.1553,
+            "CONTEMPT": 0.093,
+            "ANGER": 0.0835,
+            "DISGUST": 0.0755,
+            "FEAR": 0.0725,
+            "SURPRISE": 0.0144,
+            "LOVE": 0.0072,
+            "JOY": 0.006,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mjheb3lglm26",
+        "source": "bluesky",
+        "created_at": "2026-04-14T12:15:27+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9919,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9919,
+            "FRUSTRATION": 0.0048,
+            "SADNESS": 0.0044,
+            "SURPRISE": 0.0038,
+            "JOY": 0.0037,
+            "CONTEMPT": 0.0037,
+            "ANGER": 0.0029,
+            "FEAR": 0.0027,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "LOVE": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mifishjpah2u",
+        "source": "bluesky",
+        "created_at": "2026-04-01T01:06:16.037Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9793,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9793,
+            "SADNESS": 0.0088,
+            "JOY": 0.0085,
+            "CONTEMPT": 0.0078,
+            "SURPRISE": 0.0038,
+            "DISGUST": 0.0037,
+            "FRUSTRATION": 0.0036,
+            "LOVE": 0.003,
+            "FEAR": 0.0023,
+            "ANGER": 0.0019,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:ezecnr3gkp2bkxwphsonbvc6/app.bsky.feed.post/3mibnkevy7k2k",
+        "source": "bluesky",
+        "created_at": "2026-03-30T12:20:34.766Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9559,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9559,
+            "SURPRISE": 0.1229,
+            "FEAR": 0.0126,
+            "JOY": 0.0104,
+            "SADNESS": 0.0057,
+            "GRATITUDE": 0.0051,
+            "FRUSTRATION": 0.0031,
+            "LOVE": 0.0031,
+            "DISGUST": 0.0018,
+            "CONTEMPT": 0.0014,
+            "ANGER": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mi6zjxgkr22k",
+        "source": "bluesky",
+        "created_at": "2026-03-29T11:17:06.317Z",
+        "title": "",
+        "dominant_emotion": "DISGUST",
+        "confidence": 0.9219,
+        "active_emotions": [
+            "DISGUST",
+            "FEAR",
+            "SURPRISE"
+        ],
+        "emotion_scores": {
+            "DISGUST": 0.9219,
+            "FEAR": 0.5422,
+            "SURPRISE": 0.2661,
+            "NEUTRAL": 0.1322,
+            "ANGER": 0.0181,
+            "SADNESS": 0.0088,
+            "CONTEMPT": 0.0051,
+            "FRUSTRATION": 0.0046,
+            "LOVE": 0.0032,
+            "JOY": 0.0015,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:2oqbhwsbpnaznj4zopvebvne/app.bsky.feed.post/3mhs746h3ra22",
+        "source": "bluesky",
+        "created_at": "2026-03-24T08:52:09.713494+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9355,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9355,
+            "SURPRISE": 0.0508,
+            "DISGUST": 0.025,
+            "FEAR": 0.0126,
+            "FRUSTRATION": 0.0113,
+            "ANGER": 0.0107,
+            "SADNESS": 0.0081,
+            "CONTEMPT": 0.0065,
+            "JOY": 0.0021,
+            "LOVE": 0.001,
+            "GRATITUDE": 0.0007
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mhrqelnvla2x",
+        "source": "bluesky",
+        "created_at": "2026-03-24T04:28:25.767Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9884,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9884,
+            "SADNESS": 0.006,
+            "FRUSTRATION": 0.005,
+            "FEAR": 0.0029,
+            "JOY": 0.0027,
+            "LOVE": 0.0027,
+            "GRATITUDE": 0.0023,
+            "CONTEMPT": 0.0023,
+            "DISGUST": 0.0019,
+            "ANGER": 0.0019,
+            "SURPRISE": 0.0017
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:ufw5v3n73rlt7e6aaknytv6u/app.bsky.feed.post/3mhgjwpyhdm2z",
+        "source": "bluesky",
+        "created_at": "2026-03-19T17:34:00.843Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9903,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9903,
+            "CONTEMPT": 0.0057,
+            "SADNESS": 0.0053,
+            "JOY": 0.0052,
+            "ANGER": 0.005,
+            "FRUSTRATION": 0.0045,
+            "DISGUST": 0.0029,
+            "FEAR": 0.0023,
+            "LOVE": 0.0021,
+            "SURPRISE": 0.0015,
+            "GRATITUDE": 0.0014
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mhekuff5542p",
+        "source": "bluesky",
+        "created_at": "2026-03-18T22:45:15+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9943,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9943,
+            "CONTEMPT": 0.0131,
+            "ANGER": 0.0073,
+            "FRUSTRATION": 0.0066,
+            "SADNESS": 0.0038,
+            "DISGUST": 0.0035,
+            "JOY": 0.0034,
+            "SURPRISE": 0.0033,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0017,
+            "LOVE": 0.0015
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:mxxlsu336u23css7ooyojuyt/app.bsky.feed.post/3mh75u3khmk2i",
+        "source": "bluesky",
+        "created_at": "2026-03-16T19:09:09.523Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9925,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9925,
+            "FRUSTRATION": 0.0254,
+            "CONTEMPT": 0.0085,
+            "SADNESS": 0.0058,
+            "ANGER": 0.0036,
+            "DISGUST": 0.0028,
+            "SURPRISE": 0.0026,
+            "FEAR": 0.002,
+            "JOY": 0.0018,
+            "GRATITUDE": 0.0013,
+            "LOVE": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mgv6bomor62n",
+        "source": "bluesky",
+        "created_at": "2026-03-12T19:50:07.981Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.6555,
+        "active_emotions": [
+            "NEUTRAL",
+            "SADNESS"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.6555,
+            "SADNESS": 0.241,
+            "FRUSTRATION": 0.0721,
+            "FEAR": 0.0364,
+            "CONTEMPT": 0.0137,
+            "ANGER": 0.011,
+            "LOVE": 0.0096,
+            "GRATITUDE": 0.0089,
+            "SURPRISE": 0.0068,
+            "JOY": 0.0039,
+            "DISGUST": 0.0036
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:u4n47crrdz3pbhu47plhkh7r/app.bsky.feed.post/3mfu4nmrttc2q",
+        "source": "bluesky",
+        "created_at": "2026-02-27T16:23:10.218Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.4102,
+        "active_emotions": [
+            "NEUTRAL",
+            "SADNESS"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.4102,
+            "SADNESS": 0.2813,
+            "FEAR": 0.1193,
+            "FRUSTRATION": 0.1023,
+            "ANGER": 0.0435,
+            "CONTEMPT": 0.0405,
+            "SURPRISE": 0.0393,
+            "LOVE": 0.0335,
+            "DISGUST": 0.0255,
+            "JOY": 0.0213,
+            "GRATITUDE": 0.011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfsm3oc2z",
+        "source": "bluesky",
+        "created_at": "2026-02-23T20:44:48.624Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9932,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9932,
+            "CONTEMPT": 0.0065,
+            "FRUSTRATION": 0.0064,
+            "SADNESS": 0.0051,
+            "SURPRISE": 0.0034,
+            "ANGER": 0.0034,
+            "DISGUST": 0.0033,
+            "FEAR": 0.0024,
+            "JOY": 0.0022,
+            "LOVE": 0.0019,
+            "GRATITUDE": 0.0018
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfrmykk2z",
+        "source": "bluesky",
+        "created_at": "2026-02-23T20:44:47.075Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9894,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9894,
+            "SURPRISE": 0.0111,
+            "CONTEMPT": 0.0075,
+            "SADNESS": 0.0074,
+            "JOY": 0.0064,
+            "FRUSTRATION": 0.0044,
+            "FEAR": 0.0042,
+            "DISGUST": 0.0032,
+            "ANGER": 0.0024,
+            "LOVE": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mfhna7vage26",
+        "source": "bluesky",
+        "created_at": "2026-02-22T17:15:16+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.896,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.896,
+            "JOY": 0.1201,
+            "SURPRISE": 0.0116,
+            "CONTEMPT": 0.0115,
+            "LOVE": 0.0079,
+            "ANGER": 0.0049,
+            "FRUSTRATION": 0.0038,
+            "SADNESS": 0.0032,
+            "FEAR": 0.0021,
+            "GRATITUDE": 0.0015,
+            "DISGUST": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:23w52iqqcuqagkq75nponvvd/app.bsky.feed.post/3meeyb4dywfc2",
+        "source": "bluesky",
+        "created_at": "2026-02-08T22:29:23.000Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9849,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9849,
+            "SADNESS": 0.0272,
+            "CONTEMPT": 0.014,
+            "FRUSTRATION": 0.0107,
+            "ANGER": 0.0103,
+            "SURPRISE": 0.0035,
+            "FEAR": 0.0034,
+            "DISGUST": 0.0031,
+            "JOY": 0.0025,
+            "LOVE": 0.0022,
+            "GRATITUDE": 0.0013
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:uhmdm7z56l2ouh5w45sbshji/app.bsky.feed.post/3mebcqhlbc227",
+        "source": "bluesky",
+        "created_at": "2026-02-07T11:26:21.209Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9744,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9744,
+            "JOY": 0.0108,
+            "SADNESS": 0.0078,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0032,
+            "FEAR": 0.003,
+            "LOVE": 0.0023,
+            "FRUSTRATION": 0.0019,
+            "ANGER": 0.0016,
+            "DISGUST": 0.0016,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:kaw4dwcvhf6s66zt7qqx6daq/app.bsky.feed.post/3mdphb7jwvk25",
+        "source": "bluesky",
+        "created_at": "2026-01-31T08:59:22.885Z",
+        "title": "",
+        "dominant_emotion": "SURPRISE",
+        "confidence": 0.5603,
+        "active_emotions": [
+            "SURPRISE",
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "SURPRISE": 0.5603,
+            "NEUTRAL": 0.4751,
+            "ANGER": 0.0619,
+            "DISGUST": 0.0505,
+            "FRUSTRATION": 0.0385,
+            "FEAR": 0.0371,
+            "CONTEMPT": 0.0296,
+            "JOY": 0.0281,
+            "SADNESS": 0.0133,
+            "LOVE": 0.0071,
+            "GRATITUDE": 0.0017
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:655kmv4jfmsovnrjxpdx53y4/app.bsky.feed.post/3mdcu62nnck25",
+        "source": "bluesky",
+        "created_at": "2026-01-26T08:45:39.146Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8642,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8642,
+            "JOY": 0.0341,
+            "LOVE": 0.0147,
+            "SURPRISE": 0.0127,
+            "ANGER": 0.0095,
+            "SADNESS": 0.0055,
+            "FRUSTRATION": 0.0053,
+            "GRATITUDE": 0.0034,
+            "FEAR": 0.0031,
+            "CONTEMPT": 0.0027,
+            "DISGUST": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mczrtwupqp2c",
+        "source": "bluesky",
+        "created_at": "2026-01-22T18:10:14.261Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9311,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9311,
+            "CONTEMPT": 0.1314,
+            "LOVE": 0.0072,
+            "ANGER": 0.0047,
+            "FRUSTRATION": 0.0047,
+            "SADNESS": 0.004,
+            "DISGUST": 0.0027,
+            "JOY": 0.0022,
+            "FEAR": 0.0018,
+            "SURPRISE": 0.0017,
+            "GRATITUDE": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mcmrv35j5t2i",
+        "source": "bluesky",
+        "created_at": "2026-01-17T14:06:14.674603Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9951,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9951,
+            "SADNESS": 0.01,
+            "FRUSTRATION": 0.0064,
+            "CONTEMPT": 0.0062,
+            "FEAR": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0032,
+            "DISGUST": 0.0029,
+            "LOVE": 0.0026,
+            "GRATITUDE": 0.0018,
+            "SURPRISE": 0.0018
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:7h3hrqbvfr4kkwy2ntxect6g/app.bsky.feed.post/3mcanmlgp3c2h",
+        "source": "bluesky",
+        "created_at": "2026-01-12T18:17:59.209Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9613,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9613,
+            "CONTEMPT": 0.0124,
+            "SADNESS": 0.0109,
+            "FRUSTRATION": 0.0089,
+            "ANGER": 0.0044,
+            "JOY": 0.0032,
+            "LOVE": 0.0023,
+            "FEAR": 0.0023,
+            "SURPRISE": 0.0019,
+            "DISGUST": 0.0014,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mc4yzw5obr23",
+        "source": "bluesky",
+        "created_at": "2026-01-11T07:31:38.365Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9929,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9929,
+            "CONTEMPT": 0.0053,
+            "JOY": 0.0053,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0038,
+            "FEAR": 0.0033,
+            "DISGUST": 0.0027,
+            "ANGER": 0.0026,
+            "SURPRISE": 0.0025,
+            "LOVE": 0.0024,
+            "GRATITUDE": 0.0021
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mbpjt44tjw2w",
+        "source": "bluesky",
+        "created_at": "2026-01-05T22:54:45.586147Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.6027,
+        "active_emotions": [
+            "NEUTRAL",
+            "SADNESS"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.6027,
+            "SADNESS": 0.3866,
+            "JOY": 0.1229,
+            "LOVE": 0.0656,
+            "CONTEMPT": 0.0352,
+            "ANGER": 0.0238,
+            "FEAR": 0.0237,
+            "FRUSTRATION": 0.0197,
+            "GRATITUDE": 0.0122,
+            "DISGUST": 0.0065,
+            "SURPRISE": 0.0059
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:jfgtrrsrzmdatednj3yzj2u5/app.bsky.feed.post/3mbbnzafqwk2u",
+        "source": "bluesky",
+        "created_at": "2025-12-31T10:32:31.963Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9895,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9895,
+            "CONTEMPT": 0.0252,
+            "ANGER": 0.007,
+            "SURPRISE": 0.0058,
+            "FEAR": 0.0036,
+            "DISGUST": 0.0036,
+            "LOVE": 0.0034,
+            "FRUSTRATION": 0.0031,
+            "SADNESS": 0.0028,
+            "JOY": 0.0028,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabudbecxs2i",
+        "source": "bluesky",
+        "created_at": "2025-12-18T19:00:19.329Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9926,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9926,
+            "CONTEMPT": 0.0087,
+            "FRUSTRATION": 0.0062,
+            "SADNESS": 0.0049,
+            "DISGUST": 0.0041,
+            "ANGER": 0.0036,
+            "SURPRISE": 0.0032,
+            "JOY": 0.0028,
+            "FEAR": 0.0024,
+            "LOVE": 0.0015,
+            "GRATITUDE": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabti2nn4z2s",
+        "source": "bluesky",
+        "created_at": "2025-12-18T18:45:05.274Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9885,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9885,
+            "CONTEMPT": 0.0202,
+            "SURPRISE": 0.0129,
+            "FRUSTRATION": 0.0109,
+            "DISGUST": 0.007,
+            "ANGER": 0.0061,
+            "SADNESS": 0.0039,
+            "JOY": 0.0037,
+            "FEAR": 0.0027,
+            "LOVE": 0.0013,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3maaqbkknqf2z",
+        "source": "bluesky",
+        "created_at": "2025-12-18T08:15:05.423Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9924,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9924,
+            "CONTEMPT": 0.0082,
+            "SADNESS": 0.0054,
+            "FRUSTRATION": 0.0051,
+            "DISGUST": 0.0042,
+            "SURPRISE": 0.004,
+            "JOY": 0.0035,
+            "ANGER": 0.0031,
+            "FEAR": 0.0022,
+            "LOVE": 0.0016,
+            "GRATITUDE": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:bgznzxixeslq3dixy4cg5ule/app.bsky.feed.post/3m6w7zgcprd2z",
+        "source": "bluesky",
+        "created_at": "2025-12-01T10:32:25.115791Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9773,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9773,
+            "CONTEMPT": 0.0318,
+            "LOVE": 0.0136,
+            "SADNESS": 0.0109,
+            "ANGER": 0.0079,
+            "SURPRISE": 0.0046,
+            "FEAR": 0.0036,
+            "JOY": 0.0032,
+            "FRUSTRATION": 0.0022,
+            "DISGUST": 0.0021,
+            "GRATITUDE": 0.0004
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m6ourp2h7c2i",
+        "source": "bluesky",
+        "created_at": "2025-11-28T12:22:36.794Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8523,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8523,
+            "SADNESS": 0.1294,
+            "FEAR": 0.0343,
+            "FRUSTRATION": 0.0288,
+            "CONTEMPT": 0.0276,
+            "ANGER": 0.0224,
+            "SURPRISE": 0.0215,
+            "JOY": 0.0133,
+            "LOVE": 0.0111,
+            "DISGUST": 0.0072,
+            "GRATITUDE": 0.0037
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m5ldvik2ko2p",
+        "source": "bluesky",
+        "created_at": "2025-11-14T09:17:18.419385Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9907,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9907,
+            "FRUSTRATION": 0.0116,
+            "SADNESS": 0.0064,
+            "ANGER": 0.0039,
+            "CONTEMPT": 0.0031,
+            "FEAR": 0.0024,
+            "JOY": 0.0023,
+            "SURPRISE": 0.0023,
+            "LOVE": 0.0019,
+            "GRATITUDE": 0.0016,
+            "DISGUST": 0.0016
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m5dya6ntxs2v",
+        "source": "bluesky",
+        "created_at": "2025-11-11T10:59:55.395Z",
+        "title": "",
+        "dominant_emotion": "JOY",
+        "confidence": 0.8782,
+        "active_emotions": [
+            "JOY"
+        ],
+        "emotion_scores": {
+            "JOY": 0.8782,
+            "GRATITUDE": 0.1001,
+            "SURPRISE": 0.0775,
+            "NEUTRAL": 0.0568,
+            "LOVE": 0.0531,
+            "FEAR": 0.0162,
+            "SADNESS": 0.0054,
+            "ANGER": 0.004,
+            "CONTEMPT": 0.0031,
+            "FRUSTRATION": 0.0029,
+            "DISGUST": 0.0014
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:xxcz7qy4yqjdrvg4wkpdyrrb/app.bsky.feed.post/3m52ov6n5y222",
+        "source": "bluesky",
+        "created_at": "2025-11-07T18:18:44.950Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9525,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9525,
+            "FEAR": 0.0991,
+            "SADNESS": 0.0304,
+            "FRUSTRATION": 0.0228,
+            "JOY": 0.0185,
+            "LOVE": 0.0128,
+            "ANGER": 0.004,
+            "CONTEMPT": 0.0037,
+            "DISGUST": 0.0023,
+            "SURPRISE": 0.0015,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m4y2juwkfq26",
+        "source": "bluesky",
+        "created_at": "2025-11-06T17:09:09.980950Z",
+        "title": "",
+        "dominant_emotion": "FEAR",
+        "confidence": 0.5051,
+        "active_emotions": [
+            "FEAR"
+        ],
+        "emotion_scores": {
+            "FEAR": 0.5051,
+            "NEUTRAL": 0.1483,
+            "DISGUST": 0.1074,
+            "FRUSTRATION": 0.095,
+            "ANGER": 0.0754,
+            "SURPRISE": 0.0585,
+            "SADNESS": 0.0349,
+            "CONTEMPT": 0.0141,
+            "LOVE": 0.0039,
+            "JOY": 0.0039,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m4xg6ojddk2o",
+        "source": "bluesky",
+        "created_at": "2025-11-06T11:05:00.702Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.3976,
+        "active_emotions": [
+            "NEUTRAL",
+            "JOY",
+            "LOVE"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.3976,
+            "JOY": 0.1902,
+            "LOVE": 0.1612,
+            "GRATITUDE": 0.1392,
+            "SADNESS": 0.0713,
+            "FEAR": 0.0304,
+            "CONTEMPT": 0.0223,
+            "SURPRISE": 0.022,
+            "ANGER": 0.0199,
+            "FRUSTRATION": 0.0134,
+            "DISGUST": 0.0053
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:5krpxaflie7kzxyvtwdns4wy/app.bsky.feed.post/3m3rv43incc2p",
+        "source": "bluesky",
+        "created_at": "2025-10-22T12:50:49.718Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.7754,
+        "active_emotions": [
+            "NEUTRAL",
+            "SADNESS"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7754,
+            "SADNESS": 0.1508,
+            "FRUSTRATION": 0.0773,
+            "FEAR": 0.0241,
+            "CONTEMPT": 0.0132,
+            "ANGER": 0.0118,
+            "LOVE": 0.0101,
+            "JOY": 0.0042,
+            "SURPRISE": 0.0037,
+            "DISGUST": 0.0026,
+            "GRATITUDE": 0.0018
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:xu5lchy5t2ipscewwt37ay2n/app.bsky.feed.post/3m3cdho4kak2q",
+        "source": "bluesky",
+        "created_at": "2025-10-16T08:25:14.915Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8955,
+        "active_emotions": [
+            "NEUTRAL",
+            "JOY"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8955,
+            "JOY": 0.1574,
+            "SURPRISE": 0.0438,
+            "CONTEMPT": 0.0158,
+            "FEAR": 0.0122,
+            "ANGER": 0.0121,
+            "SADNESS": 0.0114,
+            "LOVE": 0.0081,
+            "FRUSTRATION": 0.0074,
+            "DISGUST": 0.0057,
+            "GRATITUDE": 0.0031
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m3a2xgyhnk2q",
+        "source": "bluesky",
+        "created_at": "2025-10-15T10:47:41.157Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0117,
+            "DISGUST": 0.0115,
+            "ANGER": 0.0095,
+            "FRUSTRATION": 0.0048,
+            "SADNESS": 0.0044,
+            "FEAR": 0.0029,
+            "SURPRISE": 0.0028,
+            "LOVE": 0.0019,
+            "JOY": 0.0013,
+            "GRATITUDE": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:j4uvsnhzt425lvsi5cbwsu2d/app.bsky.feed.post/3m36a3k4feg2e",
+        "source": "bluesky",
+        "created_at": "2025-10-14T17:14:07Z",
+        "title": "",
+        "dominant_emotion": "ANGER",
+        "confidence": 0.4029,
+        "active_emotions": [
+            "ANGER",
+            "FRUSTRATION",
+            "CONTEMPT",
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "ANGER": 0.4029,
+            "FRUSTRATION": 0.3749,
+            "CONTEMPT": 0.2784,
+            "NEUTRAL": 0.1846,
+            "SADNESS": 0.0575,
+            "DISGUST": 0.0483,
+            "FEAR": 0.0048,
+            "SURPRISE": 0.0046,
+            "LOVE": 0.0027,
+            "JOY": 0.0012,
+            "GRATITUDE": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m2zmxy7m4k2m",
+        "source": "bluesky",
+        "created_at": "2025-10-12T21:21:28.402Z",
+        "title": "",
+        "dominant_emotion": "CONTEMPT",
+        "confidence": 0.6123,
+        "active_emotions": [
+            "CONTEMPT",
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "CONTEMPT": 0.6123,
+            "NEUTRAL": 0.3532,
+            "ANGER": 0.2995,
+            "SURPRISE": 0.1059,
+            "FRUSTRATION": 0.0627,
+            "DISGUST": 0.0292,
+            "SADNESS": 0.027,
+            "FEAR": 0.0055,
+            "JOY": 0.0046,
+            "LOVE": 0.004,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:ozf55fcugazdqj77nhhstfnu/app.bsky.feed.post/3m2uxkn65lv2q",
+        "source": "bluesky",
+        "created_at": "2025-10-11T05:47:30Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8374,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8374,
+            "ANGER": 0.1238,
+            "CONTEMPT": 0.0673,
+            "FRUSTRATION": 0.0628,
+            "FEAR": 0.0305,
+            "SADNESS": 0.0244,
+            "DISGUST": 0.0144,
+            "LOVE": 0.0104,
+            "SURPRISE": 0.0074,
+            "JOY": 0.0043,
+            "GRATITUDE": 0.0004
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2ulamom2y2z",
+        "source": "bluesky",
+        "created_at": "2025-10-10T21:07:12.098Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9506,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9506,
+            "SADNESS": 0.0933,
+            "CONTEMPT": 0.0299,
+            "JOY": 0.0257,
+            "SURPRISE": 0.0157,
+            "FRUSTRATION": 0.0085,
+            "LOVE": 0.0084,
+            "ANGER": 0.0078,
+            "DISGUST": 0.0037,
+            "FEAR": 0.0028,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m2twqupdxq2p",
+        "source": "bluesky",
+        "created_at": "2025-10-10T15:00:26+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.5511,
+        "active_emotions": [
+            "NEUTRAL",
+            "CONTEMPT"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.5511,
+            "CONTEMPT": 0.2253,
+            "SADNESS": 0.1044,
+            "LOVE": 0.087,
+            "ANGER": 0.0703,
+            "FRUSTRATION": 0.0673,
+            "JOY": 0.022,
+            "FEAR": 0.0135,
+            "SURPRISE": 0.0083,
+            "DISGUST": 0.0082,
+            "GRATITUDE": 0.0038
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3m2twqoak472s",
+        "source": "bluesky",
+        "created_at": "2025-10-10T15:00:20+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.5511,
+        "active_emotions": [
+            "NEUTRAL",
+            "CONTEMPT"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.5511,
+            "CONTEMPT": 0.2253,
+            "SADNESS": 0.1044,
+            "LOVE": 0.087,
+            "ANGER": 0.0703,
+            "FRUSTRATION": 0.0673,
+            "JOY": 0.022,
+            "FEAR": 0.0135,
+            "SURPRISE": 0.0083,
+            "DISGUST": 0.0082,
+            "GRATITUDE": 0.0038
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2phsgmshp2q",
+        "source": "bluesky",
+        "created_at": "2025-10-08T20:22:16.066Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.986,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.986,
+            "FRUSTRATION": 0.0093,
+            "ANGER": 0.0043,
+            "JOY": 0.0039,
+            "SADNESS": 0.0039,
+            "SURPRISE": 0.0026,
+            "DISGUST": 0.0025,
+            "CONTEMPT": 0.0021,
+            "FEAR": 0.0017,
+            "LOVE": 0.0015,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2mubiixdj2u",
+        "source": "bluesky",
+        "created_at": "2025-10-07T19:27:27.024Z",
+        "title": "",
+        "dominant_emotion": "JOY",
+        "confidence": 0.9926,
+        "active_emotions": [
+            "JOY"
+        ],
+        "emotion_scores": {
+            "JOY": 0.9926,
+            "NEUTRAL": 0.0876,
+            "SURPRISE": 0.0114,
+            "LOVE": 0.0111,
+            "GRATITUDE": 0.0106,
+            "CONTEMPT": 0.0027,
+            "DISGUST": 0.0022,
+            "ANGER": 0.002,
+            "FRUSTRATION": 0.0019,
+            "FEAR": 0.0018,
+            "SADNESS": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m25kwa4qso2z",
+        "source": "bluesky",
+        "created_at": "2025-10-01T17:30:06+00:00",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9883,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9883,
+            "SADNESS": 0.0087,
+            "JOY": 0.0054,
+            "CONTEMPT": 0.0037,
+            "SURPRISE": 0.0037,
+            "FRUSTRATION": 0.0036,
+            "FEAR": 0.0029,
+            "ANGER": 0.002,
+            "LOVE": 0.002,
+            "DISGUST": 0.0017,
+            "GRATITUDE": 0.0011
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:ghdtmkgv6g7t2l6urbalhopv/app.bsky.feed.post/3lzxyqhifbm2e",
+        "source": "bluesky",
+        "created_at": "2025-09-29T12:21:28Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8937,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8937,
+            "JOY": 0.0482,
+            "SADNESS": 0.0321,
+            "SURPRISE": 0.0098,
+            "CONTEMPT": 0.0098,
+            "LOVE": 0.008,
+            "ANGER": 0.0055,
+            "GRATITUDE": 0.0036,
+            "FRUSTRATION": 0.0023,
+            "FEAR": 0.0009,
+            "DISGUST": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:roweyd2xk6bs2mwhfk6vjzmb/app.bsky.feed.post/3lznmsfzdnk2c",
+        "source": "bluesky",
+        "created_at": "2025-09-25T09:21:13.062Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.978,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.978,
+            "DISGUST": 0.0275,
+            "CONTEMPT": 0.0054,
+            "ANGER": 0.004,
+            "FRUSTRATION": 0.0039,
+            "FEAR": 0.0031,
+            "SADNESS": 0.0021,
+            "JOY": 0.0017,
+            "SURPRISE": 0.0016,
+            "GRATITUDE": 0.0016,
+            "LOVE": 0.0014
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:3kyff7ud57n35r7sybltaoyo/app.bsky.feed.post/3lxu2cechjf2z",
+        "source": "bluesky",
+        "created_at": "2025-09-02T11:46:40.006Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9236,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9236,
+            "FEAR": 0.0329,
+            "SADNESS": 0.0227,
+            "SURPRISE": 0.012,
+            "FRUSTRATION": 0.01,
+            "CONTEMPT": 0.0058,
+            "ANGER": 0.0043,
+            "DISGUST": 0.0043,
+            "JOY": 0.0024,
+            "LOVE": 0.0017,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:3kyff7ud57n35r7sybltaoyo/app.bsky.feed.post/3lxdb2p4shx2l",
+        "source": "bluesky",
+        "created_at": "2025-08-26T19:32:22.996Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9236,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9236,
+            "FEAR": 0.0329,
+            "SADNESS": 0.0227,
+            "SURPRISE": 0.012,
+            "FRUSTRATION": 0.01,
+            "CONTEMPT": 0.0058,
+            "ANGER": 0.0043,
+            "DISGUST": 0.0043,
+            "JOY": 0.0024,
+            "LOVE": 0.0017,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3lxca2tca6s2u",
+        "source": "bluesky",
+        "created_at": "2025-08-26T09:43:36.399Z",
+        "title": "",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9822,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9822,
+            "FRUSTRATION": 0.0172,
+            "FEAR": 0.0123,
+            "SADNESS": 0.0085,
+            "SURPRISE": 0.0071,
+            "ANGER": 0.0069,
+            "CONTEMPT": 0.0056,
+            "JOY": 0.0036,
+            "DISGUST": 0.0031,
+            "LOVE": 0.0016,
+            "GRATITUDE": 0.0007
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "dominant_emotion": "NEUTRAL",
+        "confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "model_name": "tabularisai/multilingual-emotion-classification",
+        "model_version": "1.0"
     }
 ]

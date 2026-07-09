@@ -3451,5 +3451,2559 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpjyucqe2m2n",
+        "source": "bluesky",
+        "created_at": "2026-06-30T22:00:37+00:00",
+        "title_clean": "",
+        "clean_text": "Pedro Jorge surpreendido por Marisa Pires: \"Adorei\" Enquanto Pedro Jorge se encontrava no \"Secret Story - Desafio Final\", da TVI, Marisa Pires remodelou a loja…",
+        "keywords": [
+            {
+                "keyword": "marisa pires remodelou loja",
+                "score": 0.5566
+            },
+            {
+                "keyword": "pedro jorge surpreendido marisa",
+                "score": 0.5502
+            },
+            {
+                "keyword": "marisa pires remodelou",
+                "score": 0.537
+            },
+            {
+                "keyword": "marisa pires",
+                "score": 0.5304
+            },
+            {
+                "keyword": "pedro jorge encontrava secret",
+                "score": 0.5141
+            },
+            {
+                "keyword": "enquanto pedro jorge encontrava",
+                "score": 0.5112
+            },
+            {
+                "keyword": "enquanto pedro jorge",
+                "score": 0.5105
+            },
+            {
+                "keyword": "pedro jorge",
+                "score": 0.5102
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3mpjytxxwei23",
+        "source": "bluesky",
+        "created_at": "2026-06-30T22:00:25+00:00",
+        "title_clean": "",
+        "clean_text": "Pedro Jorge surpreendido por Marisa Pires: \"Adorei\" Enquanto Pedro Jorge se encontrava no \"Secret Story - Desafio Final\", da TVI, Marisa Pires remodelou a loja…",
+        "keywords": [
+            {
+                "keyword": "marisa pires remodelou loja",
+                "score": 0.5566
+            },
+            {
+                "keyword": "pedro jorge surpreendido marisa",
+                "score": 0.5502
+            },
+            {
+                "keyword": "marisa pires remodelou",
+                "score": 0.537
+            },
+            {
+                "keyword": "marisa pires",
+                "score": 0.5304
+            },
+            {
+                "keyword": "pedro jorge encontrava secret",
+                "score": 0.5141
+            },
+            {
+                "keyword": "enquanto pedro jorge encontrava",
+                "score": 0.5112
+            },
+            {
+                "keyword": "enquanto pedro jorge",
+                "score": 0.5105
+            },
+            {
+                "keyword": "pedro jorge",
+                "score": 0.5102
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnwdszmevi2p",
+        "source": "bluesky",
+        "created_at": "2026-06-10T08:58:19.974Z",
+        "title_clean": "",
+        "clean_text": "Vítima e agressor discutiram num bar por uma suposta questão sentimental.",
+        "keywords": [
+            {
+                "keyword": "vítima agressor discutiram bar",
+                "score": 0.8522
+            },
+            {
+                "keyword": "agressor discutiram bar",
+                "score": 0.7871
+            },
+            {
+                "keyword": "agressor discutiram bar suposta",
+                "score": 0.7479
+            },
+            {
+                "keyword": "vítima agressor discutiram",
+                "score": 0.7446
+            },
+            {
+                "keyword": "discutiram bar",
+                "score": 0.7036
+            },
+            {
+                "keyword": "agressor discutiram",
+                "score": 0.6716
+            },
+            {
+                "keyword": "discutiram bar suposta",
+                "score": 0.6058
+            },
+            {
+                "keyword": "discutiram bar suposta questão",
+                "score": 0.6049
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mnuz6cim2s2o",
+        "source": "bluesky",
+        "created_at": "2026-06-09T20:15:07.647Z",
+        "title_clean": "",
+        "clean_text": "De acordo com a PJ, a vítima permanece internada, encontrando-se livre de perigo, mas sob observação médica. O suspeito recebeu alta hospitalar cerca de dez horas depois, tendo sido conduzido às instalações da Polícia Judiciária da Guarda, onde foi detido.",
+        "keywords": [
+            {
+                "keyword": "pj vítima permanece internada",
+                "score": 0.7571
+            },
+            {
+                "keyword": "suspeito recebeu alta hospitalar",
+                "score": 0.755
+            },
+            {
+                "keyword": "vítima permanece internada",
+                "score": 0.7543
+            },
+            {
+                "keyword": "vítima permanece internada encontrando",
+                "score": 0.7472
+            },
+            {
+                "keyword": "suspeito recebeu",
+                "score": 0.5786
+            },
+            {
+                "keyword": "pj vítima permanece",
+                "score": 0.565
+            },
+            {
+                "keyword": "suspeito recebeu alta",
+                "score": 0.5635
+            },
+            {
+                "keyword": "vítima permanece",
+                "score": 0.5633
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnuls5eig22k",
+        "source": "bluesky",
+        "created_at": "2026-06-09T16:15:40.762Z",
+        "title_clean": "",
+        "clean_text": "Vítima e agressor discutiram num bar por uma suposta questão sentimental.",
+        "keywords": [
+            {
+                "keyword": "vítima agressor discutiram bar",
+                "score": 0.8522
+            },
+            {
+                "keyword": "agressor discutiram bar",
+                "score": 0.7871
+            },
+            {
+                "keyword": "agressor discutiram bar suposta",
+                "score": 0.7479
+            },
+            {
+                "keyword": "vítima agressor discutiram",
+                "score": 0.7446
+            },
+            {
+                "keyword": "discutiram bar",
+                "score": 0.7036
+            },
+            {
+                "keyword": "agressor discutiram",
+                "score": 0.6716
+            },
+            {
+                "keyword": "discutiram bar suposta",
+                "score": 0.6058
+            },
+            {
+                "keyword": "discutiram bar suposta questão",
+                "score": 0.6049
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnu5gkzcgn2x",
+        "source": "bluesky",
+        "created_at": "2026-06-09T11:58:40.074Z",
+        "title_clean": "",
+        "clean_text": "Vítima e agressor discutiram num bar por uma suposta questão sentimental.",
+        "keywords": [
+            {
+                "keyword": "vítima agressor discutiram bar",
+                "score": 0.8522
+            },
+            {
+                "keyword": "agressor discutiram bar",
+                "score": 0.7871
+            },
+            {
+                "keyword": "agressor discutiram bar suposta",
+                "score": 0.7479
+            },
+            {
+                "keyword": "vítima agressor discutiram",
+                "score": 0.7446
+            },
+            {
+                "keyword": "discutiram bar",
+                "score": 0.7036
+            },
+            {
+                "keyword": "agressor discutiram",
+                "score": 0.6716
+            },
+            {
+                "keyword": "discutiram bar suposta",
+                "score": 0.6058
+            },
+            {
+                "keyword": "discutiram bar suposta questão",
+                "score": 0.6049
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mnd7tifkwx2r",
+        "source": "bluesky",
+        "created_at": "2026-06-02T18:26:23.848230Z",
+        "title_clean": "",
+        "clean_text": "Lousado inaugurou memorial em homenagem aos antigos combatentes",
+        "keywords": [
+            {
+                "keyword": "lousado inaugurou memorial homenagem",
+                "score": 0.7673
+            },
+            {
+                "keyword": "memorial homenagem antigos combatentes",
+                "score": 0.7463
+            },
+            {
+                "keyword": "lousado inaugurou memorial",
+                "score": 0.7414
+            },
+            {
+                "keyword": "inaugurou memorial homenagem antigos",
+                "score": 0.6725
+            },
+            {
+                "keyword": "inaugurou memorial homenagem",
+                "score": 0.667
+            },
+            {
+                "keyword": "homenagem antigos combatentes",
+                "score": 0.6384
+            },
+            {
+                "keyword": "inaugurou memorial",
+                "score": 0.6262
+            },
+            {
+                "keyword": "memorial homenagem",
+                "score": 0.6097
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mmbive3evs23",
+        "source": "bluesky",
+        "created_at": "2026-05-20T08:38:00.796Z",
+        "title_clean": "",
+        "clean_text": "Segundo as autoridades, o suspeito terá assassinado a esposa em abril de 2003, no apartamento onde ambos residiam. on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "assassinado esposa 2003 apartamento",
+                "score": 0.7457
+            },
+            {
+                "keyword": "assassinado esposa 2003",
+                "score": 0.691
+            },
+            {
+                "keyword": "assassinado esposa",
+                "score": 0.6377
+            },
+            {
+                "keyword": "esposa 2003 apartamento ambos",
+                "score": 0.5006
+            },
+            {
+                "keyword": "esposa 2003 apartamento",
+                "score": 0.4801
+            },
+            {
+                "keyword": "esposa 2003",
+                "score": 0.4044
+            },
+            {
+                "keyword": "2003 apartamento ambos residiam",
+                "score": 0.384
+            },
+            {
+                "keyword": "2003 apartamento ambos",
+                "score": 0.3581
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mm7vdzl2l22v",
+        "source": "bluesky",
+        "created_at": "2026-05-19T17:15:38.516Z",
+        "title_clean": "",
+        "clean_text": "Segundo a investigação, suspeito e vítima conheciam-se do meio universitário e os factos terão ocorrido após uma festa académica conhecida como «Festa das Tasquinhas». on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "vítima conheciam meio universitário",
+                "score": 0.7767
+            },
+            {
+                "keyword": "suspeito vítima conheciam meio",
+                "score": 0.7235
+            },
+            {
+                "keyword": "investigação suspeito vítima conheciam",
+                "score": 0.7112
+            },
+            {
+                "keyword": "suspeito vítima conheciam",
+                "score": 0.7081
+            },
+            {
+                "keyword": "vítima conheciam meio",
+                "score": 0.6496
+            },
+            {
+                "keyword": "investigação suspeito vítima",
+                "score": 0.6455
+            },
+            {
+                "keyword": "suspeito vítima",
+                "score": 0.6302
+            },
+            {
+                "keyword": "vítima conheciam",
+                "score": 0.6254
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mm7fodwlaj2u",
+        "source": "bluesky",
+        "created_at": "2026-05-19T12:35:04.597Z",
+        "title_clean": "",
+        "clean_text": "Polícia Judiciária da Guarda leva a tribunal jovem de 23 anos. Vítima tem 22 anos.",
+        "keywords": [
+            {
+                "keyword": "guarda leva tribunal jovem",
+                "score": 0.8
+            },
+            {
+                "keyword": "leva tribunal jovem 23",
+                "score": 0.7706
+            },
+            {
+                "keyword": "tribunal jovem 23",
+                "score": 0.7364
+            },
+            {
+                "keyword": "leva tribunal jovem",
+                "score": 0.7172
+            },
+            {
+                "keyword": "tribunal jovem 23 vítima",
+                "score": 0.7082
+            },
+            {
+                "keyword": "tribunal jovem",
+                "score": 0.683
+            },
+            {
+                "keyword": "polícia judiciária guarda leva",
+                "score": 0.6508
+            },
+            {
+                "keyword": "polícia judiciária",
+                "score": 0.6492
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gbdq5nlcqtgf464blewncly4/app.bsky.feed.post/3mm55ef3l7d2d",
+        "source": "bluesky",
+        "created_at": "2026-05-18T15:00:59Z",
+        "title_clean": "",
+        "clean_text": "Lucas Duarte brilha no FC Felgueiras, alcança 10 gols na Liga Portugal 2 e atrai interesse de clubes da Espanha, Japão e futebol árabe Lucas Duarte encerra a temporada 2025/2026 como um dos brasileiros em destaque no futebol português. O atacante marcou 10 gols pelo FC Felgueiras na Liga Portugal…",
+        "keywords": [
+            {
+                "keyword": "fc felgueiras liga portugal",
+                "score": 0.7148
+            },
+            {
+                "keyword": "duarte brilha fc felgueiras",
+                "score": 0.7025
+            },
+            {
+                "keyword": "gols liga portugal atrai",
+                "score": 0.6988
+            },
+            {
+                "keyword": "felgueiras liga portugal",
+                "score": 0.6921
+            },
+            {
+                "keyword": "gols liga portugal",
+                "score": 0.6878
+            },
+            {
+                "keyword": "10 gols liga portugal",
+                "score": 0.6719
+            },
+            {
+                "keyword": "duarte brilha fc",
+                "score": 0.641
+            },
+            {
+                "keyword": "10 gols fc felgueiras",
+                "score": 0.6336
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g7yfim62h",
+        "source": "bluesky",
+        "created_at": "2026-04-22T21:16:33.6206035+00:00",
+        "title_clean": "",
+        "clean_text": "Governo reafetou 900 ME do PRR para a inovação e competitividade - Ministro",
+        "keywords": [
+            {
+                "keyword": "governo reafetou 900",
+                "score": 0.7687
+            },
+            {
+                "keyword": "governo reafetou 900 me",
+                "score": 0.7463
+            },
+            {
+                "keyword": "governo reafetou",
+                "score": 0.6402
+            },
+            {
+                "keyword": "900 me prr inovação",
+                "score": 0.6321
+            },
+            {
+                "keyword": "reafetou 900 me prr",
+                "score": 0.5405
+            },
+            {
+                "keyword": "reafetou 900",
+                "score": 0.5346
+            },
+            {
+                "keyword": "prr inovação competitividade ministro",
+                "score": 0.5107
+            },
+            {
+                "keyword": "reafetou 900 me",
+                "score": 0.4988
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g6fb3jz2y",
+        "source": "bluesky",
+        "created_at": "2026-04-22T21:15:39.9007860+00:00",
+        "title_clean": "",
+        "clean_text": "Governo reafetou 900 ME do PRR para a inovação e competitividade - Ministro",
+        "keywords": [
+            {
+                "keyword": "governo reafetou 900",
+                "score": 0.7687
+            },
+            {
+                "keyword": "governo reafetou 900 me",
+                "score": 0.7463
+            },
+            {
+                "keyword": "governo reafetou",
+                "score": 0.6402
+            },
+            {
+                "keyword": "900 me prr inovação",
+                "score": 0.6321
+            },
+            {
+                "keyword": "reafetou 900 me prr",
+                "score": 0.5405
+            },
+            {
+                "keyword": "reafetou 900",
+                "score": 0.5346
+            },
+            {
+                "keyword": "prr inovação competitividade ministro",
+                "score": 0.5107
+            },
+            {
+                "keyword": "reafetou 900 me",
+                "score": 0.4988
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:my2sbivzj3x2ybo2kfzdhxmp/app.bsky.feed.post/3mjmywplhus2i",
+        "source": "bluesky",
+        "created_at": "2026-04-16T18:08:48.520Z",
+        "title_clean": "",
+        "clean_text": "É como unha pandemia.",
+        "keywords": [
+            {
+                "keyword": "unha pandemia",
+                "score": 0.8858
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mjheb3lglm26",
+        "source": "bluesky",
+        "created_at": "2026-04-14T12:15:27+00:00",
+        "title_clean": "",
+        "clean_text": "Mercadona abre nova loja em Portugal nesta semana | Notícias de hoje A Mercadona abre nesta quinta-feira, 16 de abril, uma nova loja em território português. Desta vez, o novo…",
+        "keywords": [
+            {
+                "keyword": "abre nova loja portugal",
+                "score": 0.812
+            },
+            {
+                "keyword": "nova loja portugal semana",
+                "score": 0.7408
+            },
+            {
+                "keyword": "nova loja território português",
+                "score": 0.7322
+            },
+            {
+                "keyword": "nova loja portugal",
+                "score": 0.7294
+            },
+            {
+                "keyword": "loja território português",
+                "score": 0.6542
+            },
+            {
+                "keyword": "mercadona abre nova loja",
+                "score": 0.6357
+            },
+            {
+                "keyword": "abre nova loja",
+                "score": 0.6275
+            },
+            {
+                "keyword": "loja portugal semana",
+                "score": 0.6264
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mifishjpah2u",
+        "source": "bluesky",
+        "created_at": "2026-04-01T01:06:16.037Z",
+        "title_clean": "",
+        "clean_text": "Vítima passeava na zona quando decidiu ir dar um mergulho na pequena albufeira.",
+        "keywords": [
+            {
+                "keyword": "decidiu ir dar mergulho",
+                "score": 0.6849
+            },
+            {
+                "keyword": "vítima passeava zona decidiu",
+                "score": 0.6491
+            },
+            {
+                "keyword": "vítima passeava zona",
+                "score": 0.6407
+            },
+            {
+                "keyword": "ir dar mergulho pequena",
+                "score": 0.621
+            },
+            {
+                "keyword": "mergulho pequena albufeira",
+                "score": 0.6186
+            },
+            {
+                "keyword": "dar mergulho pequena albufeira",
+                "score": 0.6137
+            },
+            {
+                "keyword": "dar mergulho pequena",
+                "score": 0.5987
+            },
+            {
+                "keyword": "vítima passeava",
+                "score": 0.5946
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ezecnr3gkp2bkxwphsonbvc6/app.bsky.feed.post/3mibnkevy7k2k",
+        "source": "bluesky",
+        "created_at": "2026-03-30T12:20:34.766Z",
+        "title_clean": "",
+        "clean_text": "The legend attached to various places, but one of them was Ethiopia One Portuguese agent actually arrived in Ethiopia while looking for Prester John en.wikipedia.org/wiki/P%C3%AA...",
+        "keywords": [
+            {
+                "keyword": "ethiopia one portuguese agent",
+                "score": 0.7756
+            },
+            {
+                "keyword": "them was ethiopia",
+                "score": 0.7696
+            },
+            {
+                "keyword": "was ethiopia one portuguese",
+                "score": 0.7652
+            },
+            {
+                "keyword": "actually arrived in ethiopia",
+                "score": 0.7616
+            },
+            {
+                "keyword": "was ethiopia one",
+                "score": 0.7591
+            },
+            {
+                "keyword": "of them was ethiopia",
+                "score": 0.7572
+            },
+            {
+                "keyword": "them was ethiopia one",
+                "score": 0.757
+            },
+            {
+                "keyword": "was ethiopia",
+                "score": 0.7425
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mi6zjxgkr22k",
+        "source": "bluesky",
+        "created_at": "2026-03-29T11:17:06.317Z",
+        "title_clean": "",
+        "clean_text": "Em dado momento a vítima, em conivência com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolveu, tendo sido alvo de sequestro e posterior roubo de equipamentos eletrónicos que tinha em casa; salienta a PJ, no comunicado. on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "vítima conivência suspeitos apoderou",
+                "score": 0.7122
+            },
+            {
+                "keyword": "alvo sequestro posterior roubo",
+                "score": 0.7105
+            },
+            {
+                "keyword": "sequestro posterior roubo",
+                "score": 0.6922
+            },
+            {
+                "keyword": "vítima conivência suspeitos",
+                "score": 0.6836
+            },
+            {
+                "keyword": "sido alvo sequestro posterior",
+                "score": 0.6751
+            },
+            {
+                "keyword": "sequestro posterior roubo equipamentos",
+                "score": 0.6707
+            },
+            {
+                "keyword": "tendo sido alvo sequestro",
+                "score": 0.6686
+            },
+            {
+                "keyword": "momento vítima conivência suspeitos",
+                "score": 0.6598
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2oqbhwsbpnaznj4zopvebvne/app.bsky.feed.post/3mhs746h3ra22",
+        "source": "bluesky",
+        "created_at": "2026-03-24T08:52:09.713494+00:00",
+        "title_clean": "",
+        "clean_text": "arsenopirita \"...documentando o despejo de centenas de toneladas de arsenopirita decorrentes da extracção de volfrâmio em...\" ocorreu em:",
+        "keywords": [
+            {
+                "keyword": "toneladas arsenopirita decorrentes extracção",
+                "score": 0.7999
+            },
+            {
+                "keyword": "toneladas arsenopirita decorrentes",
+                "score": 0.7778
+            },
+            {
+                "keyword": "arsenopirita decorrentes extracção",
+                "score": 0.7691
+            },
+            {
+                "keyword": "centenas toneladas arsenopirita decorrentes",
+                "score": 0.7574
+            },
+            {
+                "keyword": "arsenopirita documentando despejo centenas",
+                "score": 0.7529
+            },
+            {
+                "keyword": "arsenopirita decorrentes extracção volfrâmio",
+                "score": 0.7503
+            },
+            {
+                "keyword": "toneladas arsenopirita",
+                "score": 0.7489
+            },
+            {
+                "keyword": "centenas toneladas arsenopirita",
+                "score": 0.7367
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mhrqelnvla2x",
+        "source": "bluesky",
+        "created_at": "2026-03-24T04:28:25.767Z",
+        "title_clean": "",
+        "clean_text": "Para que os serviços de saúde não tenham de parar está prevista a colocação de contentores, que possam acolher temporariamente os serviços das alas onde estejam a decorrer trabalhos.",
+        "keywords": [
+            {
+                "keyword": "acolher temporariamente serviços alas",
+                "score": 0.755
+            },
+            {
+                "keyword": "possam acolher temporariamente serviços",
+                "score": 0.7424
+            },
+            {
+                "keyword": "temporariamente serviços alas estejam",
+                "score": 0.7217
+            },
+            {
+                "keyword": "serviços alas estejam decorrer",
+                "score": 0.6986
+            },
+            {
+                "keyword": "acolher temporariamente serviços",
+                "score": 0.6956
+            },
+            {
+                "keyword": "temporariamente serviços alas",
+                "score": 0.6913
+            },
+            {
+                "keyword": "serviços alas estejam",
+                "score": 0.6702
+            },
+            {
+                "keyword": "serviços saúde",
+                "score": 0.6579
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ufw5v3n73rlt7e6aaknytv6u/app.bsky.feed.post/3mhgjwpyhdm2z",
+        "source": "bluesky",
+        "created_at": "2026-03-19T17:34:00.843Z",
+        "title_clean": "",
+        "clean_text": "Portugal: journée de manifestations pour le logement, samedi 21 mars 2026",
+        "keywords": [
+            {
+                "keyword": "portugal journée manifestations pour",
+                "score": 0.8214
+            },
+            {
+                "keyword": "portugal journée manifestations",
+                "score": 0.794
+            },
+            {
+                "keyword": "manifestations pour le logement",
+                "score": 0.6758
+            },
+            {
+                "keyword": "portugal journée",
+                "score": 0.6614
+            },
+            {
+                "keyword": "journée manifestations pour le",
+                "score": 0.6514
+            },
+            {
+                "keyword": "journée manifestations pour",
+                "score": 0.6357
+            },
+            {
+                "keyword": "logement samedi 21 mars",
+                "score": 0.6057
+            },
+            {
+                "keyword": "journée manifestations",
+                "score": 0.595
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mhekuff5542p",
+        "source": "bluesky",
+        "created_at": "2026-03-18T22:45:15+00:00",
+        "title_clean": "",
+        "clean_text": "Mercadona vai abrir um novo supermercado na Margem Sul (e já está a contratar) - NiT A Mercadona soma e segue. Após ter anunciado que vai inaugurar, já em abril, dois espaços em Viseu…",
+        "keywords": [
+            {
+                "keyword": "novo supermercado margem sul",
+                "score": 0.7859
+            },
+            {
+                "keyword": "abrir novo supermercado margem",
+                "score": 0.7675
+            },
+            {
+                "keyword": "mercadona abrir novo supermercado",
+                "score": 0.766
+            },
+            {
+                "keyword": "abrir novo supermercado",
+                "score": 0.7577
+            },
+            {
+                "keyword": "supermercado margem sul",
+                "score": 0.728
+            },
+            {
+                "keyword": "novo supermercado margem",
+                "score": 0.7241
+            },
+            {
+                "keyword": "novo supermercado",
+                "score": 0.7156
+            },
+            {
+                "keyword": "supermercado margem",
+                "score": 0.6614
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:mxxlsu336u23css7ooyojuyt/app.bsky.feed.post/3mh75u3khmk2i",
+        "source": "bluesky",
+        "created_at": "2026-03-16T19:09:09.523Z",
+        "title_clean": "",
+        "clean_text": "Só que não substituem todos os comboios, nem estão a ser feitos todos os comboios onde as linhas estão abertas... Por exemplo, o 6403 que sai de Santa Apolónia às 5h35, está a ser feito o autocarro de Meleças às Caldas, mas não está a ser feito serviço entre Lisboa...",
+        "keywords": [
+            {
+                "keyword": "não substituem todos comboios",
+                "score": 0.674
+            },
+            {
+                "keyword": "comboios nem feitos todos",
+                "score": 0.6605
+            },
+            {
+                "keyword": "nem feitos todos comboios",
+                "score": 0.653
+            },
+            {
+                "keyword": "substituem todos comboios nem",
+                "score": 0.6522
+            },
+            {
+                "keyword": "comboios linhas abertas",
+                "score": 0.6349
+            },
+            {
+                "keyword": "todos comboios nem",
+                "score": 0.6247
+            },
+            {
+                "keyword": "comboios linhas abertas exemplo",
+                "score": 0.6097
+            },
+            {
+                "keyword": "todos comboios nem feitos",
+                "score": 0.6034
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mgv6bomor62n",
+        "source": "bluesky",
+        "created_at": "2026-03-12T19:50:07.981Z",
+        "title_clean": "",
+        "clean_text": "Tratorista de 70 anos não resistiu aos múltiplos ferimentos.",
+        "keywords": [
+            {
+                "keyword": "não resistiu múltiplos ferimentos",
+                "score": 0.6875
+            },
+            {
+                "keyword": "tratorista 70 não resistiu",
+                "score": 0.6086
+            },
+            {
+                "keyword": "70 não resistiu múltiplos",
+                "score": 0.5545
+            },
+            {
+                "keyword": "resistiu múltiplos ferimentos",
+                "score": 0.5545
+            },
+            {
+                "keyword": "70 não resistiu",
+                "score": 0.548
+            },
+            {
+                "keyword": "não resistiu múltiplos",
+                "score": 0.4642
+            },
+            {
+                "keyword": "múltiplos ferimentos",
+                "score": 0.4401
+            },
+            {
+                "keyword": "não resistiu",
+                "score": 0.4094
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:u4n47crrdz3pbhu47plhkh7r/app.bsky.feed.post/3mfu4nmrttc2q",
+        "source": "bluesky",
+        "created_at": "2026-02-27T16:23:10.218Z",
+        "title_clean": "",
+        "clean_text": "guimaraesagora.pt/yes-novo-ope...",
+        "keywords": [
+            {
+                "keyword": "guimaraesagora pt yes novo",
+                "score": 0.8333
+            },
+            {
+                "keyword": "guimaraesagora pt yes",
+                "score": 0.8097
+            },
+            {
+                "keyword": "pt yes novo ope",
+                "score": 0.71
+            },
+            {
+                "keyword": "pt yes novo",
+                "score": 0.6834
+            },
+            {
+                "keyword": "yes novo ope",
+                "score": 0.6676
+            },
+            {
+                "keyword": "yes novo",
+                "score": 0.6643
+            },
+            {
+                "keyword": "guimaraesagora pt",
+                "score": 0.6602
+            },
+            {
+                "keyword": "novo ope",
+                "score": 0.5656
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfsm3oc2z",
+        "source": "bluesky",
+        "created_at": "2026-02-23T20:44:48.624Z",
+        "title_clean": "",
+        "clean_text": "... e o estabelecimento de um serviço sólido entre Vila Velha de Ródão e a Guarda. 👉 Leia na edição em papel ou aqui (para assinantes):",
+        "keywords": [
+            {
+                "keyword": "serviço sólido vila",
+                "score": 0.5869
+            },
+            {
+                "keyword": "papel aqui assinantes",
+                "score": 0.5702
+            },
+            {
+                "keyword": "estabelecimento serviço sólido vila",
+                "score": 0.5681
+            },
+            {
+                "keyword": "estabelecimento serviço",
+                "score": 0.5474
+            },
+            {
+                "keyword": "edição papel aqui assinantes",
+                "score": 0.5458
+            },
+            {
+                "keyword": "estabelecimento serviço sólido",
+                "score": 0.5451
+            },
+            {
+                "keyword": "serviço sólido",
+                "score": 0.539
+            },
+            {
+                "keyword": "leia edição papel aqui",
+                "score": 0.537
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfrmykk2z",
+        "source": "bluesky",
+        "created_at": "2026-02-23T20:44:47.075Z",
+        "title_clean": "",
+        "clean_text": "📰 Este número animador é manchete da mais recente edição do Jornal Reconquista, onde Gabriel Fonseca e Oscar Ascensão da Move Beiras falam das possibilidades de este número crescer ainda mais, melhorando a oferta, como o retomar do percurso do Comboio Académico...",
+        "keywords": [
+            {
+                "keyword": "número animador manchete recente",
+                "score": 0.6111
+            },
+            {
+                "keyword": "recente edição jornal reconquista",
+                "score": 0.5894
+            },
+            {
+                "keyword": "número animador manchete",
+                "score": 0.5828
+            },
+            {
+                "keyword": "manchete recente edição",
+                "score": 0.5738
+            },
+            {
+                "keyword": "manchete recente",
+                "score": 0.5583
+            },
+            {
+                "keyword": "falam possibilidades número crescer",
+                "score": 0.5516
+            },
+            {
+                "keyword": "manchete recente edição jornal",
+                "score": 0.5497
+            },
+            {
+                "keyword": "edição jornal reconquista",
+                "score": 0.5489
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mfhna7vage26",
+        "source": "bluesky",
+        "created_at": "2026-02-22T17:15:16+00:00",
+        "title_clean": "",
+        "clean_text": "Apoiar as vítimas de crime é fundamental para atenuar as consequências destes at… A cidade do Porto foi distinguida como Capital Nacional da Juventude 2026, superando treze candidaturas devido às suas…",
+        "keywords": [
+            {
+                "keyword": "distinguida capital nacional juventude",
+                "score": 0.6129
+            },
+            {
+                "keyword": "capital nacional juventude 2026",
+                "score": 0.5945
+            },
+            {
+                "keyword": "capital nacional juventude",
+                "score": 0.587
+            },
+            {
+                "keyword": "apoiar vítimas crime fundamental",
+                "score": 0.5656
+            },
+            {
+                "keyword": "vítimas crime fundamental atenuar",
+                "score": 0.557
+            },
+            {
+                "keyword": "apoiar vítimas crime",
+                "score": 0.5526
+            },
+            {
+                "keyword": "cidade porto distinguida capital",
+                "score": 0.5452
+            },
+            {
+                "keyword": "vítimas crime fundamental",
+                "score": 0.5338
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:23w52iqqcuqagkq75nponvvd/app.bsky.feed.post/3meeyb4dywfc2",
+        "source": "bluesky",
+        "created_at": "2026-02-08T22:29:23.000Z",
+        "title_clean": "",
+        "clean_text": "Suite 1487 (2/2) ... construction btp Templo Mayor inauguré par le sacrifice de milliers de guerriers (cf 1518). year1487 histoire politique",
+        "keywords": [
+            {
+                "keyword": "1487 construction btp templo",
+                "score": 0.6942
+            },
+            {
+                "keyword": "1518 year1487 histoire politique",
+                "score": 0.6249
+            },
+            {
+                "keyword": "construction btp templo mayor",
+                "score": 0.6014
+            },
+            {
+                "keyword": "btp templo mayor",
+                "score": 0.5966
+            },
+            {
+                "keyword": "btp templo mayor inauguré",
+                "score": 0.5965
+            },
+            {
+                "keyword": "templo mayor inauguré par",
+                "score": 0.5898
+            },
+            {
+                "keyword": "le sacrifice milliers guerriers",
+                "score": 0.5879
+            },
+            {
+                "keyword": "templo mayor inauguré",
+                "score": 0.5857
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uhmdm7z56l2ouh5w45sbshji/app.bsky.feed.post/3mebcqhlbc227",
+        "source": "bluesky",
+        "created_at": "2026-02-07T11:26:21.209Z",
+        "title_clean": "",
+        "clean_text": "Saiu o ranking das melhores universidades.",
+        "keywords": [
+            {
+                "keyword": "saiu ranking melhores universidades",
+                "score": 0.9133
+            },
+            {
+                "keyword": "ranking melhores universidades",
+                "score": 0.8237
+            },
+            {
+                "keyword": "melhores universidades",
+                "score": 0.7427
+            },
+            {
+                "keyword": "saiu ranking melhores",
+                "score": 0.5556
+            },
+            {
+                "keyword": "ranking melhores",
+                "score": 0.5146
+            },
+            {
+                "keyword": "saiu ranking",
+                "score": 0.4593
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:kaw4dwcvhf6s66zt7qqx6daq/app.bsky.feed.post/3mdphb7jwvk25",
+        "source": "bluesky",
+        "created_at": "2026-01-31T08:59:22.885Z",
+        "title_clean": "",
+        "clean_text": "A cidade com mais engenheiros per capita e um inusitado escândalo salarial 19-pacheco-torgal-19.blogspot.com/2026/01/um-i...",
+        "keywords": [
+            {
+                "keyword": "cidade engenheiros per capita",
+                "score": 0.6443
+            },
+            {
+                "keyword": "capita inusitado escândalo salarial",
+                "score": 0.6429
+            },
+            {
+                "keyword": "inusitado escândalo salarial 19",
+                "score": 0.6388
+            },
+            {
+                "keyword": "escândalo salarial 19 pacheco",
+                "score": 0.6363
+            },
+            {
+                "keyword": "engenheiros per capita inusitado",
+                "score": 0.6174
+            },
+            {
+                "keyword": "escândalo salarial 19",
+                "score": 0.6159
+            },
+            {
+                "keyword": "inusitado escândalo salarial",
+                "score": 0.6147
+            },
+            {
+                "keyword": "cidade engenheiros",
+                "score": 0.6024
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:655kmv4jfmsovnrjxpdx53y4/app.bsky.feed.post/3mdcu62nnck25",
+        "source": "bluesky",
+        "created_at": "2026-01-26T08:45:39.146Z",
+        "title_clean": "",
+        "clean_text": "REGIONES Y CIUDADES RAYANAS DE PORTUGAL SE PROMOCIONAN EN FITUR eltrapezio.eu/es/2026/01/2...",
+        "keywords": [
+            {
+                "keyword": "regiones ciudades rayanas portugal",
+                "score": 0.7419
+            },
+            {
+                "keyword": "ciudades rayanas portugal",
+                "score": 0.7351
+            },
+            {
+                "keyword": "ciudades rayanas portugal promocionan",
+                "score": 0.7137
+            },
+            {
+                "keyword": "rayanas portugal promocionan en",
+                "score": 0.7023
+            },
+            {
+                "keyword": "rayanas portugal promocionan",
+                "score": 0.6974
+            },
+            {
+                "keyword": "rayanas portugal",
+                "score": 0.684
+            },
+            {
+                "keyword": "portugal promocionan en",
+                "score": 0.6583
+            },
+            {
+                "keyword": "portugal promocionan",
+                "score": 0.6499
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mczrtwupqp2c",
+        "source": "bluesky",
+        "created_at": "2026-01-22T18:10:14.261Z",
+        "title_clean": "",
+        "clean_text": "Vai liderar Comissão de Gestão até ao final da época",
+        "keywords": [
+            {
+                "keyword": "liderar comissão gestão até",
+                "score": 0.8899
+            },
+            {
+                "keyword": "comissão gestão até final",
+                "score": 0.8465
+            },
+            {
+                "keyword": "liderar comissão gestão",
+                "score": 0.8316
+            },
+            {
+                "keyword": "comissão gestão até",
+                "score": 0.7916
+            },
+            {
+                "keyword": "liderar comissão",
+                "score": 0.7795
+            },
+            {
+                "keyword": "comissão gestão",
+                "score": 0.716
+            },
+            {
+                "keyword": "gestão até final época",
+                "score": 0.6801
+            },
+            {
+                "keyword": "gestão até final",
+                "score": 0.6384
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mcmrv35j5t2i",
+        "source": "bluesky",
+        "created_at": "2026-01-17T14:06:14.674603Z",
+        "title_clean": "",
+        "clean_text": "Reabertos acessos à Torre da Serra da Estrela",
+        "keywords": [
+            {
+                "keyword": "acessos torre serra estrela",
+                "score": 0.9206
+            },
+            {
+                "keyword": "torre serra estrela",
+                "score": 0.8269
+            },
+            {
+                "keyword": "acessos torre",
+                "score": 0.8218
+            },
+            {
+                "keyword": "reabertos acessos torre",
+                "score": 0.8041
+            },
+            {
+                "keyword": "acessos torre serra",
+                "score": 0.7953
+            },
+            {
+                "keyword": "reabertos acessos torre serra",
+                "score": 0.7867
+            },
+            {
+                "keyword": "torre serra",
+                "score": 0.6983
+            },
+            {
+                "keyword": "serra estrela",
+                "score": 0.6096
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:7h3hrqbvfr4kkwy2ntxect6g/app.bsky.feed.post/3mcanmlgp3c2h",
+        "source": "bluesky",
+        "created_at": "2026-01-12T18:17:59.209Z",
+        "title_clean": "",
+        "clean_text": "\"Após profunda reflexão...\"",
+        "keywords": [
+            {
+                "keyword": "profunda reflexão",
+                "score": 0.8476
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mc4yzw5obr23",
+        "source": "bluesky",
+        "created_at": "2026-01-11T07:31:38.365Z",
+        "title_clean": "",
+        "clean_text": "Académica pode garantir hoje presença na fase de subida da Liga 3: saiba como",
+        "keywords": [
+            {
+                "keyword": "académica pode garantir hoje",
+                "score": 0.543
+            },
+            {
+                "keyword": "pode garantir hoje presença",
+                "score": 0.5348
+            },
+            {
+                "keyword": "garantir hoje presença fase",
+                "score": 0.5337
+            },
+            {
+                "keyword": "pode garantir",
+                "score": 0.4979
+            },
+            {
+                "keyword": "garantir hoje presença",
+                "score": 0.4927
+            },
+            {
+                "keyword": "académica pode garantir",
+                "score": 0.4919
+            },
+            {
+                "keyword": "pode garantir hoje",
+                "score": 0.4848
+            },
+            {
+                "keyword": "subida liga saiba",
+                "score": 0.4633
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mbpjt44tjw2w",
+        "source": "bluesky",
+        "created_at": "2026-01-05T22:54:45.586147Z",
+        "title_clean": "",
+        "clean_text": "Cantar das Janeiras anima Penhas da Saúde no âmbito da \"Estrela do Natal\"",
+        "keywords": [
+            {
+                "keyword": "saúde estrela natal",
+                "score": 0.7387
+            },
+            {
+                "keyword": "penhas saúde estrela natal",
+                "score": 0.7246
+            },
+            {
+                "keyword": "cantar janeiras anima penhas",
+                "score": 0.595
+            },
+            {
+                "keyword": "estrela natal",
+                "score": 0.5579
+            },
+            {
+                "keyword": "cantar janeiras anima",
+                "score": 0.5573
+            },
+            {
+                "keyword": "janeiras anima penhas saúde",
+                "score": 0.5505
+            },
+            {
+                "keyword": "anima penhas saúde estrela",
+                "score": 0.5493
+            },
+            {
+                "keyword": "cantar janeiras",
+                "score": 0.5434
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:jfgtrrsrzmdatednj3yzj2u5/app.bsky.feed.post/3mbbnzafqwk2u",
+        "source": "bluesky",
+        "created_at": "2025-12-31T10:32:31.963Z",
+        "title_clean": "",
+        "clean_text": "Asterion seeks clearance for acquisition of Altice's Portugal hyperscale data centre 🔗 thetechcapital.com/asterion-see... Follow for more timely news, views, and interviews. At The Tech Capital you lead, we report. digitalinfrastructure hyperscaleinfrastructure datacenter investment news",
+        "keywords": [
+            {
+                "keyword": "acquisition of altice portugal",
+                "score": 0.5879
+            },
+            {
+                "keyword": "centre thetechcapital asterion",
+                "score": 0.4865
+            },
+            {
+                "keyword": "centre thetechcapital asterion see",
+                "score": 0.476
+            },
+            {
+                "keyword": "of altice portugal hyperscale",
+                "score": 0.465
+            },
+            {
+                "keyword": "of altice portugal",
+                "score": 0.4648
+            },
+            {
+                "keyword": "portugal hyperscale",
+                "score": 0.464
+            },
+            {
+                "keyword": "for acquisition of altice",
+                "score": 0.4568
+            },
+            {
+                "keyword": "altice portugal hyperscale",
+                "score": 0.4558
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabudbecxs2i",
+        "source": "bluesky",
+        "created_at": "2025-12-18T19:00:19.329Z",
+        "title_clean": "",
+        "clean_text": "Right now, Morais and Lagrifa perform Carneyro Santos Dias, de Freitas and more in Lisbon wch",
+        "keywords": [
+            {
+                "keyword": "morais and lagrifa perform",
+                "score": 0.7437
+            },
+            {
+                "keyword": "and lagrifa perform carneyro",
+                "score": 0.664
+            },
+            {
+                "keyword": "now morais and lagrifa",
+                "score": 0.6283
+            },
+            {
+                "keyword": "perform carneyro santos freitas",
+                "score": 0.6203
+            },
+            {
+                "keyword": "perform carneyro santos",
+                "score": 0.5948
+            },
+            {
+                "keyword": "and lagrifa perform",
+                "score": 0.5793
+            },
+            {
+                "keyword": "lagrifa perform carneyro",
+                "score": 0.5638
+            },
+            {
+                "keyword": "carneyro santos freitas and",
+                "score": 0.5631
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabti2nn4z2s",
+        "source": "bluesky",
+        "created_at": "2025-12-18T18:45:05.274Z",
+        "title_clean": "",
+        "clean_text": "In 15 minutes, Morais and Lagrifa perform Carneyro Santos Dias, de Freitas and more in Lisbon wch",
+        "keywords": [
+            {
+                "keyword": "morais and lagrifa perform",
+                "score": 0.7236
+            },
+            {
+                "keyword": "and lagrifa perform carneyro",
+                "score": 0.6477
+            },
+            {
+                "keyword": "perform carneyro santos freitas",
+                "score": 0.6246
+            },
+            {
+                "keyword": "minutes morais and lagrifa",
+                "score": 0.5955
+            },
+            {
+                "keyword": "perform carneyro santos",
+                "score": 0.5897
+            },
+            {
+                "keyword": "and lagrifa perform",
+                "score": 0.5624
+            },
+            {
+                "keyword": "lagrifa perform carneyro",
+                "score": 0.5618
+            },
+            {
+                "keyword": "carneyro santos freitas and",
+                "score": 0.5417
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3maaqbkknqf2z",
+        "source": "bluesky",
+        "created_at": "2025-12-18T08:15:05.423Z",
+        "title_clean": "",
+        "clean_text": "Today, Morais and Lagrifa perform Carneyro Santos Dias, de Freitas and more in Lisbon wch",
+        "keywords": [
+            {
+                "keyword": "morais and lagrifa perform",
+                "score": 0.7256
+            },
+            {
+                "keyword": "and lagrifa perform carneyro",
+                "score": 0.6455
+            },
+            {
+                "keyword": "perform carneyro santos freitas",
+                "score": 0.6243
+            },
+            {
+                "keyword": "perform carneyro santos",
+                "score": 0.592
+            },
+            {
+                "keyword": "today morais and lagrifa",
+                "score": 0.5852
+            },
+            {
+                "keyword": "carneyro santos freitas and",
+                "score": 0.5726
+            },
+            {
+                "keyword": "and lagrifa perform",
+                "score": 0.5541
+            },
+            {
+                "keyword": "lagrifa perform carneyro",
+                "score": 0.5516
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:bgznzxixeslq3dixy4cg5ule/app.bsky.feed.post/3m6w7zgcprd2z",
+        "source": "bluesky",
+        "created_at": "2025-12-01T10:32:25.115791Z",
+        "title_clean": "",
+        "clean_text": "Au Portugal, Asterion achète un campus de centre de données d'une capacité installée de 6,8MW à Altice pour 120M€. Ce dernier restera le locataire principal dans le cadre d'un contrat de services à long terme. Les ventes s'enchaînent pour le groupe.",
+        "keywords": [
+            {
+                "keyword": "portugal asterion achète",
+                "score": 0.5558
+            },
+            {
+                "keyword": "asterion achète un campus",
+                "score": 0.5398
+            },
+            {
+                "keyword": "portugal asterion achète un",
+                "score": 0.5271
+            },
+            {
+                "keyword": "un campus centre données",
+                "score": 0.4972
+            },
+            {
+                "keyword": "campus centre données",
+                "score": 0.4899
+            },
+            {
+                "keyword": "au portugal asterion achète",
+                "score": 0.4778
+            },
+            {
+                "keyword": "achète un campus centre",
+                "score": 0.4707
+            },
+            {
+                "keyword": "achète un campus",
+                "score": 0.4559
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m6ourp2h7c2i",
+        "source": "bluesky",
+        "created_at": "2025-11-28T12:22:36.794Z",
+        "title_clean": "",
+        "clean_text": "SlavaUkraini expresso.pt/economia/202...",
+        "keywords": [
+            {
+                "keyword": "slavaukraini expresso pt",
+                "score": 0.6652
+            },
+            {
+                "keyword": "slavaukraini expresso",
+                "score": 0.6623
+            },
+            {
+                "keyword": "slavaukraini expresso pt economia",
+                "score": 0.6451
+            },
+            {
+                "keyword": "expresso pt economia 202",
+                "score": 0.6403
+            },
+            {
+                "keyword": "pt economia 202",
+                "score": 0.6222
+            },
+            {
+                "keyword": "expresso pt economia",
+                "score": 0.5672
+            },
+            {
+                "keyword": "pt economia",
+                "score": 0.5524
+            },
+            {
+                "keyword": "economia 202",
+                "score": 0.5469
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m5ldvik2ko2p",
+        "source": "bluesky",
+        "created_at": "2025-11-14T09:17:18.419385Z",
+        "title_clean": "",
+        "clean_text": "Retomada circulação ferroviária na Linha da Beira Baixa",
+        "keywords": [
+            {
+                "keyword": "circulação ferroviária linha beira",
+                "score": 0.9466
+            },
+            {
+                "keyword": "circulação ferroviária linha",
+                "score": 0.9308
+            },
+            {
+                "keyword": "circulação ferroviária",
+                "score": 0.9138
+            },
+            {
+                "keyword": "retomada circulação ferroviária linha",
+                "score": 0.9042
+            },
+            {
+                "keyword": "ferroviária linha beira",
+                "score": 0.8903
+            },
+            {
+                "keyword": "retomada circulação ferroviária",
+                "score": 0.8812
+            },
+            {
+                "keyword": "ferroviária linha",
+                "score": 0.8592
+            },
+            {
+                "keyword": "ferroviária linha beira baixa",
+                "score": 0.8585
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m5dya6ntxs2v",
+        "source": "bluesky",
+        "created_at": "2025-11-11T10:59:55.395Z",
+        "title_clean": "",
+        "clean_text": "🇵🇹 Bom dia! SlavaUkraini FreePalestine eco.sapo.pt/2025/11/10/e...",
+        "keywords": [
+            {
+                "keyword": "slavaukraini freepalestine eco",
+                "score": 0.7555
+            },
+            {
+                "keyword": "bom slavaukraini freepalestine eco",
+                "score": 0.7351
+            },
+            {
+                "keyword": "slavaukraini freepalestine",
+                "score": 0.638
+            },
+            {
+                "keyword": "bom slavaukraini freepalestine",
+                "score": 0.5942
+            },
+            {
+                "keyword": "freepalestine eco",
+                "score": 0.5818
+            },
+            {
+                "keyword": "bom slavaukraini",
+                "score": 0.5105
+            },
+            {
+                "keyword": "pt 2025 11 10",
+                "score": 0.4291
+            },
+            {
+                "keyword": "pt 2025 11",
+                "score": 0.4121
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:xxcz7qy4yqjdrvg4wkpdyrrb/app.bsky.feed.post/3m52ov6n5y222",
+        "source": "bluesky",
+        "created_at": "2025-11-07T18:18:44.950Z",
+        "title_clean": "",
+        "clean_text": "Took first at Monday's premodern with Burn. Hoping to get this wild one built before next month's meetup",
+        "keywords": [
+            {
+                "keyword": "monday premodern with burn",
+                "score": 0.7492
+            },
+            {
+                "keyword": "premodern with burn hoping",
+                "score": 0.6809
+            },
+            {
+                "keyword": "premodern with burn",
+                "score": 0.6654
+            },
+            {
+                "keyword": "first at monday premodern",
+                "score": 0.6225
+            },
+            {
+                "keyword": "wild one built before",
+                "score": 0.5786
+            },
+            {
+                "keyword": "with burn hoping",
+                "score": 0.5699
+            },
+            {
+                "keyword": "at monday premodern with",
+                "score": 0.5685
+            },
+            {
+                "keyword": "one built before next",
+                "score": 0.5606
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m4y2juwkfq26",
+        "source": "bluesky",
+        "created_at": "2025-11-06T17:09:09.980950Z",
+        "title_clean": "",
+        "clean_text": "Incêndio atinge empresa de reciclagem têxtil Jomafil",
+        "keywords": [
+            {
+                "keyword": "incêndio atinge empresa reciclagem",
+                "score": 0.7804
+            },
+            {
+                "keyword": "empresa reciclagem têxtil jomafil",
+                "score": 0.7338
+            },
+            {
+                "keyword": "reciclagem têxtil jomafil",
+                "score": 0.7115
+            },
+            {
+                "keyword": "atinge empresa reciclagem têxtil",
+                "score": 0.6784
+            },
+            {
+                "keyword": "empresa reciclagem têxtil",
+                "score": 0.6661
+            },
+            {
+                "keyword": "reciclagem têxtil",
+                "score": 0.6567
+            },
+            {
+                "keyword": "incêndio atinge empresa",
+                "score": 0.6012
+            },
+            {
+                "keyword": "têxtil jomafil",
+                "score": 0.5485
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m4xg6ojddk2o",
+        "source": "bluesky",
+        "created_at": "2025-11-06T11:05:00.702Z",
+        "title_clean": "",
+        "clean_text": "SlavaUkraini FreePalestine",
+        "keywords": [
+            {
+                "keyword": "slavaukraini freepalestine",
+                "score": 0.8613
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:5krpxaflie7kzxyvtwdns4wy/app.bsky.feed.post/3m3rv43incc2p",
+        "source": "bluesky",
+        "created_at": "2025-10-22T12:50:49.718Z",
+        "title_clean": "",
+        "clean_text": "blog30zero7.blogspot.com/2025/10/cear...",
+        "keywords": [
+            {
+                "keyword": "blog30zero7 blogspot 2025 10",
+                "score": 0.8764
+            },
+            {
+                "keyword": "blog30zero7 blogspot 2025",
+                "score": 0.872
+            },
+            {
+                "keyword": "blog30zero7 blogspot",
+                "score": 0.8543
+            },
+            {
+                "keyword": "blogspot 2025 10",
+                "score": 0.8224
+            },
+            {
+                "keyword": "blogspot 2025 10 cear",
+                "score": 0.8147
+            },
+            {
+                "keyword": "blogspot 2025",
+                "score": 0.7975
+            },
+            {
+                "keyword": "2025 10 cear",
+                "score": 0.4424
+            },
+            {
+                "keyword": "10 cear",
+                "score": 0.2938
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:xu5lchy5t2ipscewwt37ay2n/app.bsky.feed.post/3m3cdho4kak2q",
+        "source": "bluesky",
+        "created_at": "2025-10-16T08:25:14.915Z",
+        "title_clean": "",
+        "clean_text": "Petroprix inaugura o sétimo posto low-cost em Santo Tirso santotirsoonline.com/petroprix-in...",
+        "keywords": [
+            {
+                "keyword": "santotirsoonline petroprix in",
+                "score": 0.6506
+            },
+            {
+                "keyword": "santotirsoonline petroprix",
+                "score": 0.6391
+            },
+            {
+                "keyword": "tirso santotirsoonline petroprix in",
+                "score": 0.6214
+            },
+            {
+                "keyword": "low cost santo tirso",
+                "score": 0.6155
+            },
+            {
+                "keyword": "cost santo tirso santotirsoonline",
+                "score": 0.6135
+            },
+            {
+                "keyword": "petroprix inaugura sétimo posto",
+                "score": 0.6121
+            },
+            {
+                "keyword": "posto low cost santo",
+                "score": 0.6103
+            },
+            {
+                "keyword": "petroprix inaugura",
+                "score": 0.5997
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m3a2xgyhnk2q",
+        "source": "bluesky",
+        "created_at": "2025-10-15T10:47:41.157Z",
+        "title_clean": "",
+        "clean_text": "Entre os alvos do despedimento coletivo estão trabalhadoras grávidas e de baixa, bem como trabalhadores de chefias intermédias em com alguns anos de casa, diz o JN.",
+        "keywords": [
+            {
+                "keyword": "despedimento coletivo trabalhadoras grávidas",
+                "score": 0.8349
+            },
+            {
+                "keyword": "alvos despedimento coletivo trabalhadoras",
+                "score": 0.8137
+            },
+            {
+                "keyword": "coletivo trabalhadoras grávidas baixa",
+                "score": 0.7574
+            },
+            {
+                "keyword": "despedimento coletivo trabalhadoras",
+                "score": 0.7254
+            },
+            {
+                "keyword": "trabalhadoras grávidas baixa bem",
+                "score": 0.7218
+            },
+            {
+                "keyword": "trabalhadoras grávidas baixa",
+                "score": 0.7181
+            },
+            {
+                "keyword": "coletivo trabalhadoras grávidas",
+                "score": 0.7087
+            },
+            {
+                "keyword": "grávidas baixa bem trabalhadores",
+                "score": 0.6958
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:j4uvsnhzt425lvsi5cbwsu2d/app.bsky.feed.post/3m36a3k4feg2e",
+        "source": "bluesky",
+        "created_at": "2025-10-14T17:14:07Z",
+        "title_clean": "",
+        "clean_text": "Teleperformance despede 240 trabalhadores por videochamada",
+        "keywords": [
+            {
+                "keyword": "teleperformance despede 240 trabalhadores",
+                "score": 0.8864
+            },
+            {
+                "keyword": "despede 240 trabalhadores videochamada",
+                "score": 0.8155
+            },
+            {
+                "keyword": "240 trabalhadores videochamada",
+                "score": 0.7831
+            },
+            {
+                "keyword": "trabalhadores videochamada",
+                "score": 0.7233
+            },
+            {
+                "keyword": "teleperformance despede 240",
+                "score": 0.7041
+            },
+            {
+                "keyword": "teleperformance despede",
+                "score": 0.611
+            },
+            {
+                "keyword": "despede 240 trabalhadores",
+                "score": 0.6033
+            },
+            {
+                "keyword": "240 trabalhadores",
+                "score": 0.545
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m2zmxy7m4k2m",
+        "source": "bluesky",
+        "created_at": "2025-10-12T21:21:28.402Z",
+        "title_clean": "",
+        "clean_text": "O *verifica notas* Nós, Cidadãos ganha Belmonte ao PS com o antigo presidente de Penamacor, em limitação de mandatos neste último concelho, que derrota o antigo autarca da Covilhã, também em limite de mandatos lá.",
+        "keywords": [
+            {
+                "keyword": "cidadãos ganha belmonte ps",
+                "score": 0.6154
+            },
+            {
+                "keyword": "nós cidadãos ganha",
+                "score": 0.6138
+            },
+            {
+                "keyword": "nós cidadãos ganha belmonte",
+                "score": 0.5966
+            },
+            {
+                "keyword": "cidadãos ganha",
+                "score": 0.5887
+            },
+            {
+                "keyword": "cidadãos ganha belmonte",
+                "score": 0.5774
+            },
+            {
+                "keyword": "notas nós cidadãos ganha",
+                "score": 0.5664
+            },
+            {
+                "keyword": "notas nós cidadãos",
+                "score": 0.5187
+            },
+            {
+                "keyword": "mandatos último concelho derrota",
+                "score": 0.5144
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ozf55fcugazdqj77nhhstfnu/app.bsky.feed.post/3m2uxkn65lv2q",
+        "source": "bluesky",
+        "created_at": "2025-10-11T05:47:30Z",
+        "title_clean": "",
+        "clean_text": "Benfica Candidate Manteigas: Club Must Be 'In The System' For Football Reform",
+        "keywords": [
+            {
+                "keyword": "manteigas club must be",
+                "score": 0.6609
+            },
+            {
+                "keyword": "system for football reform",
+                "score": 0.6515
+            },
+            {
+                "keyword": "manteigas club must",
+                "score": 0.6375
+            },
+            {
+                "keyword": "club must",
+                "score": 0.6308
+            },
+            {
+                "keyword": "club must be in",
+                "score": 0.6301
+            },
+            {
+                "keyword": "club must be",
+                "score": 0.6267
+            },
+            {
+                "keyword": "for football reform",
+                "score": 0.5867
+            },
+            {
+                "keyword": "football reform",
+                "score": 0.5588
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2ulamom2y2z",
+        "source": "bluesky",
+        "created_at": "2025-10-10T21:07:12.098Z",
+        "title_clean": "",
+        "clean_text": "🎶 Para fechar, a paragem na Guarda e a \"segunda parte\" da Música a Bordo do passado domingo na descida para a Covilhã! 📷 Rodrigo Ascensão",
+        "keywords": [
+            {
+                "keyword": "música bordo passado domingo",
+                "score": 0.6754
+            },
+            {
+                "keyword": "parte música bordo passado",
+                "score": 0.6706
+            },
+            {
+                "keyword": "parte música bordo",
+                "score": 0.6578
+            },
+            {
+                "keyword": "música bordo passado",
+                "score": 0.6552
+            },
+            {
+                "keyword": "música bordo",
+                "score": 0.6268
+            },
+            {
+                "keyword": "parte música",
+                "score": 0.6211
+            },
+            {
+                "keyword": "segunda parte música bordo",
+                "score": 0.5855
+            },
+            {
+                "keyword": "passado domingo descida",
+                "score": 0.5812
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m2twqupdxq2p",
+        "source": "bluesky",
+        "created_at": "2025-10-10T15:00:26+00:00",
+        "title_clean": "",
+        "clean_text": "Pedro Jorge defende Marisa e é atacado por Fábio e Dylan: \"Coitadinho, ela não reclamou…\" Apesar do incómodo que Marisa sentiu por lhe terem mexido nas partes íntimas, Fábio garante que a concorrente…",
+        "keywords": [
+            {
+                "keyword": "jorge defende marisa",
+                "score": 0.6997
+            },
+            {
+                "keyword": "defende marisa",
+                "score": 0.6675
+            },
+            {
+                "keyword": "pedro jorge defende marisa",
+                "score": 0.5425
+            },
+            {
+                "keyword": "marisa sentiu terem",
+                "score": 0.5281
+            },
+            {
+                "keyword": "marisa sentiu terem mexido",
+                "score": 0.5218
+            },
+            {
+                "keyword": "pedro jorge defende",
+                "score": 0.5013
+            },
+            {
+                "keyword": "defende marisa atacado fábio",
+                "score": 0.486
+            },
+            {
+                "keyword": "marisa sentiu",
+                "score": 0.4729
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3m2twqoak472s",
+        "source": "bluesky",
+        "created_at": "2025-10-10T15:00:20+00:00",
+        "title_clean": "",
+        "clean_text": "Pedro Jorge defende Marisa e é atacado por Fábio e Dylan: \"Coitadinho, ela não reclamou…\" Apesar do incómodo que Marisa sentiu por lhe terem mexido nas partes íntimas, Fábio garante que a concorrente…",
+        "keywords": [
+            {
+                "keyword": "jorge defende marisa",
+                "score": 0.6997
+            },
+            {
+                "keyword": "defende marisa",
+                "score": 0.6675
+            },
+            {
+                "keyword": "pedro jorge defende marisa",
+                "score": 0.5425
+            },
+            {
+                "keyword": "marisa sentiu terem",
+                "score": 0.5281
+            },
+            {
+                "keyword": "marisa sentiu terem mexido",
+                "score": 0.5218
+            },
+            {
+                "keyword": "pedro jorge defende",
+                "score": 0.5013
+            },
+            {
+                "keyword": "defende marisa atacado fábio",
+                "score": 0.486
+            },
+            {
+                "keyword": "marisa sentiu",
+                "score": 0.4729
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2phsgmshp2q",
+        "source": "bluesky",
+        "created_at": "2025-10-08T20:22:16.066Z",
+        "title_clean": "",
+        "clean_text": "📸 Partilhamos, a partir de hoje e até sexta-feira, várias fotografias do passado domingo! 🚉 Começamos pela concentração na estação da Covilhã antes do II Música a Bordo!",
+        "keywords": [
+            {
+                "keyword": "fotografias passado domingo começamos",
+                "score": 0.7367
+            },
+            {
+                "keyword": "sexta feira várias fotografias",
+                "score": 0.7159
+            },
+            {
+                "keyword": "várias fotografias passado domingo",
+                "score": 0.7111
+            },
+            {
+                "keyword": "fotografias passado domingo",
+                "score": 0.7082
+            },
+            {
+                "keyword": "várias fotografias passado",
+                "score": 0.6195
+            },
+            {
+                "keyword": "feira várias fotografias passado",
+                "score": 0.6193
+            },
+            {
+                "keyword": "passado domingo começamos concentração",
+                "score": 0.6096
+            },
+            {
+                "keyword": "fotografias passado",
+                "score": 0.6023
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2mubiixdj2u",
+        "source": "bluesky",
+        "created_at": "2025-10-07T19:27:27.024Z",
+        "title_clean": "",
+        "clean_text": "🪗 Celeste Miranda e Paula Costa são as 2 amigas que animaram uma das carruagens dos regionais da tarde entre a Covilhã e a Guarda no passado domingo! 🎶 Alegria e diversão em doses contagiantes",
+        "keywords": [
+            {
+                "keyword": "são amigas animaram carruagens",
+                "score": 0.5609
+            },
+            {
+                "keyword": "costa são amigas animaram",
+                "score": 0.5196
+            },
+            {
+                "keyword": "amigas animaram carruagens",
+                "score": 0.5127
+            },
+            {
+                "keyword": "amigas animaram carruagens regionais",
+                "score": 0.4982
+            },
+            {
+                "keyword": "são amigas animaram",
+                "score": 0.4877
+            },
+            {
+                "keyword": "amigas animaram",
+                "score": 0.4775
+            },
+            {
+                "keyword": "guarda passado domingo alegria",
+                "score": 0.4627
+            },
+            {
+                "keyword": "domingo alegria diversão doses",
+                "score": 0.4376
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m25kwa4qso2z",
+        "source": "bluesky",
+        "created_at": "2025-10-01T17:30:06+00:00",
+        "title_clean": "",
+        "clean_text": "Galeria António Lopes recebe nova exposição A artista plástica Carina Leal abre as portas da exposição \"Tenho Sentidos\", no próximo dia 4 de outubro,…",
+        "keywords": [
+            {
+                "keyword": "lopes recebe nova exposição",
+                "score": 0.732
+            },
+            {
+                "keyword": "recebe nova exposição artista",
+                "score": 0.6679
+            },
+            {
+                "keyword": "nova exposição artista",
+                "score": 0.6431
+            },
+            {
+                "keyword": "exposição artista",
+                "score": 0.5886
+            },
+            {
+                "keyword": "recebe nova exposição",
+                "score": 0.5804
+            },
+            {
+                "keyword": "nova exposição artista plástica",
+                "score": 0.5751
+            },
+            {
+                "keyword": "abre portas exposição",
+                "score": 0.5689
+            },
+            {
+                "keyword": "nova exposição",
+                "score": 0.5616
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ghdtmkgv6g7t2l6urbalhopv/app.bsky.feed.post/3lzxyqhifbm2e",
+        "source": "bluesky",
+        "created_at": "2025-09-29T12:21:28Z",
+        "title_clean": "",
+        "clean_text": "Diogo Lopes, a star winemaker In 2023, Grandes Escolhas, a leading wine magazine, named Diogo Lopes \"Enologist of the Year.\" The seeds of this recognition were planted in his childhood. While most of his friends spent their summers by the sea, Diogo stayed on his grandfather's farm in the…",
+        "keywords": [
+            {
+                "keyword": "wine magazine named diogo",
+                "score": 0.6325
+            },
+            {
+                "keyword": "named diogo",
+                "score": 0.6148
+            },
+            {
+                "keyword": "named diogo lopes enologist",
+                "score": 0.5736
+            },
+            {
+                "keyword": "diogo lopes star winemaker",
+                "score": 0.5626
+            },
+            {
+                "keyword": "named diogo lopes",
+                "score": 0.5487
+            },
+            {
+                "keyword": "magazine named diogo",
+                "score": 0.5423
+            },
+            {
+                "keyword": "diogo lopes enologist of",
+                "score": 0.5345
+            },
+            {
+                "keyword": "sea diogo",
+                "score": 0.5144
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:roweyd2xk6bs2mwhfk6vjzmb/app.bsky.feed.post/3lznmsfzdnk2c",
+        "source": "bluesky",
+        "created_at": "2025-09-25T09:21:13.062Z",
+        "title_clean": "",
+        "clean_text": "ULS da Cova da Beira apela à população para que tome medidas preventivas, nomeadamente, que eliminem ou virem ao contrário pratos de vasos, baldes ou outros recipientes que acumulem água.",
+        "keywords": [
+            {
+                "keyword": "população tome medidas preventivas",
+                "score": 0.6687
+            },
+            {
+                "keyword": "tome medidas preventivas nomeadamente",
+                "score": 0.6365
+            },
+            {
+                "keyword": "tome medidas preventivas",
+                "score": 0.629
+            },
+            {
+                "keyword": "medidas preventivas nomeadamente",
+                "score": 0.6286
+            },
+            {
+                "keyword": "medidas preventivas nomeadamente eliminem",
+                "score": 0.6194
+            },
+            {
+                "keyword": "medidas preventivas",
+                "score": 0.6145
+            },
+            {
+                "keyword": "preventivas nomeadamente eliminem virem",
+                "score": 0.5776
+            },
+            {
+                "keyword": "preventivas nomeadamente eliminem",
+                "score": 0.5649
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3lxca2tca6s2u",
+        "source": "bluesky",
+        "created_at": "2025-08-26T09:43:36.399Z",
+        "title_clean": "",
+        "clean_text": "Parlamento prepara-se para debate depois de 250 mil hectares de área ardida - on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "parlamento prepara debate depois",
+                "score": 0.7826
+            },
+            {
+                "keyword": "parlamento prepara debate",
+                "score": 0.7812
+            },
+            {
+                "keyword": "parlamento prepara",
+                "score": 0.6839
+            },
+            {
+                "keyword": "prepara debate",
+                "score": 0.6413
+            },
+            {
+                "keyword": "prepara debate depois 250",
+                "score": 0.6331
+            },
+            {
+                "keyword": "prepara debate depois",
+                "score": 0.5953
+            },
+            {
+                "keyword": "debate depois 250 mil",
+                "score": 0.5512
+            },
+            {
+                "keyword": "debate depois 250",
+                "score": 0.5327
+            }
+        ],
+        "source_name": null
     }
 ]
