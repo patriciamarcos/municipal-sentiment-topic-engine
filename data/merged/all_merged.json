@@ -323115,5 +323115,761 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMW8zOUs0WE9KTjN4WGRUeUVEbF84Yjl2am1pRjNLNmw5bXltX2lEdUVLXzV6dW5EOGYtUGVNX09MZ3dYd2NEQnI3em1JaWRzSnVwUWt1aU1SRk8yeTdsd2JTR0Y0Y00tdzh4MmxwNkVEMGppa1JVLXJHV3RnQkNjSlloY1d4OGNlMDdnTExBX1JSZmNrd2FOR2drVUQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:10:11 GMT",
+        "title": "Aviões rasgam o céu no regresso do Covilhã Airshow à cidade neve - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1282,
+        "negative": 0.1173,
+        "neutral": 0.6373,
+        "positive": 0.2455,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.6838,
+        "active_emotions": [
+            "NEUTRAL",
+            "SADNESS"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.6838,
+            "SADNESS": 0.2931,
+            "JOY": 0.0479,
+            "LOVE": 0.0173,
+            "FRUSTRATION": 0.0056,
+            "FEAR": 0.0038,
+            "SURPRISE": 0.0038,
+            "ANGER": 0.0028,
+            "CONTEMPT": 0.0024,
+            "GRATITUDE": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [
+            {
+                "keyword": "airshow cidade neve conta",
+                "score": 0.7608
+            },
+            {
+                "keyword": "airshow cidade neve",
+                "score": 0.7463
+            },
+            {
+                "keyword": "festival aéreo",
+                "score": 0.7142
+            },
+            {
+                "keyword": "neve conta lá aviões",
+                "score": 0.7072
+            },
+            {
+                "keyword": "único festival aéreo",
+                "score": 0.6999
+            },
+            {
+                "keyword": "airshow cidade",
+                "score": 0.6993
+            },
+            {
+                "keyword": "aviões rasgam céu regresso",
+                "score": 0.6941
+            },
+            {
+                "keyword": "civil único festival aéreo",
+                "score": 0.6672
+            },
+            {
+                "keyword": "lá aviões rasgam céu",
+                "score": 0.6565
+            },
+            {
+                "keyword": "airshow volta",
+                "score": 0.645
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Conta-Lá",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "AEROUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Nacional de Aviação Civil",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3RSMm1nelFjOW8xT0M4WVpraGpHYjZRbjBqRVRQelpSZmIzLU5mS1VhTUZLS2VKVkMxT3Q2RU40VGpvNExWX3dJWlhXaDNTSFpxYkZhWk5IekZCQTZYU3NZR3BGNHVMaE9FUVBPZGRNb09MLTZWTDZSQnVCY1RtQ2VoYmN5cUZPdU1VdE56RHN5cTNraG9EM1N1aE9Yemo1QjF6NmJkY0VSQXRhN0tVRDgzMURxcU0?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "Covilhã promove o desporto durante 10 dias através de atividades por todo o concelho - Conta-Lá",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.4858,
+        "negative": 0.0324,
+        "neutral": 0.4494,
+        "positive": 0.5182,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9878,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9878,
+            "FRUSTRATION": 0.023,
+            "ANGER": 0.0063,
+            "CONTEMPT": 0.0042,
+            "SADNESS": 0.0039,
+            "DISGUST": 0.0032,
+            "JOY": 0.0025,
+            "SURPRISE": 0.0023,
+            "FEAR": 0.0019,
+            "LOVE": 0.0015,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [
+            {
+                "keyword": "2026 objetivo promover desporto",
+                "score": 0.7474
+            },
+            {
+                "keyword": "objetivo promover desporto",
+                "score": 0.654
+            },
+            {
+                "keyword": "promover desporto mostrar todos",
+                "score": 0.6406
+            },
+            {
+                "keyword": "objetivo promover desporto mostrar",
+                "score": 0.6377
+            },
+            {
+                "keyword": "promover desporto",
+                "score": 0.6373
+            },
+            {
+                "keyword": "promover desporto mostrar",
+                "score": 0.6358
+            },
+            {
+                "keyword": "promove desporto 10 através",
+                "score": 0.6333
+            },
+            {
+                "keyword": "promove desporto",
+                "score": 0.6284
+            },
+            {
+                "keyword": "desporto 10 através atividades",
+                "score": 0.6231
+            },
+            {
+                "keyword": "promove desporto 10",
+                "score": 0.622
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta-Lá",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWpMQXJmcWphX3hTaUEwdWtRZTZOQWVtZmR1WGVPM3hsNFBXUDQ1RzBad0RHbDhiQXRYVi1YaGdNMWw0ZkZlN1JpODVacmpKcEtGd3JGa2RZdlYzWlVZeVlQVDZmNXluT3hvWkFhc09TQkwyUW11RllCT2VFZnJsc2ZkSEIybU5GSTBuWUxEUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 11:42:00 GMT",
+        "title": "Vila Velha de Ródão angaria bens para ajudar a Venezuela - Noticias da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1184,
+        "negative": 0.2805,
+        "neutral": 0.5574,
+        "positive": 0.1621,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9922,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9922,
+            "FRUSTRATION": 0.006,
+            "CONTEMPT": 0.0058,
+            "DISGUST": 0.005,
+            "JOY": 0.0039,
+            "GRATITUDE": 0.0038,
+            "ANGER": 0.003,
+            "SADNESS": 0.0026,
+            "LOVE": 0.0022,
+            "SURPRISE": 0.0021,
+            "FEAR": 0.0019
+        },
+        "keywords": [
+            {
+                "keyword": "ajudar venezuela câmara vila",
+                "score": 0.8117
+            },
+            {
+                "keyword": "bens ajudar venezuela",
+                "score": 0.7911
+            },
+            {
+                "keyword": "angaria bens ajudar venezuela",
+                "score": 0.7799
+            },
+            {
+                "keyword": "associou comunidade venezuelana",
+                "score": 0.7646
+            },
+            {
+                "keyword": "lançado comunidade venezuelana",
+                "score": 0.7627
+            },
+            {
+                "keyword": "venezuelana residente nosso concelho",
+                "score": 0.7587
+            },
+            {
+                "keyword": "comunidade venezuelana residente concelho",
+                "score": 0.7566
+            },
+            {
+                "keyword": "ródão associou comunidade venezuelana",
+                "score": 0.7555
+            },
+            {
+                "keyword": "bens ajudar venezuela câmara",
+                "score": 0.7548
+            },
+            {
+                "keyword": "ajudar venezuela",
+                "score": 0.7534
+            }
+        ],
+        "source_name": "Noticias da Covilhã",
+        "entities": [
+            {
+                "text": "Venezuela",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Vila Velha de Ródão",
+                "label": "ORG"
+            },
+            {
+                "text": "Casa de Artes e Cultura do Tejo",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal de Vila",
+                "label": "ORG"
+            },
+            {
+                "text": "António Carmona",
+                "label": "PER"
+            },
+            {
+                "text": "Centro de Recolha",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]

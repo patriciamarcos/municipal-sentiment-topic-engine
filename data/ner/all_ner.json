@@ -114813,6 +114813,82 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxQMW8zOUs0WE9KTjN4WGRUeUVEbF84Yjl2am1pRjNLNmw5bXltX2lEdUVLXzV6dW5EOGYtUGVNX09MZ3dYd2NEQnI3em1JaWRzSnVwUWt1aU1SRk8yeTdsd2JTR0Y0Y00tdzh4MmxwNkVEMGppa1JVLXJHV3RnQkNjSlloY1d4OGNlMDdnTExBX1JSZmNrd2FOR2drVUQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:10:11 GMT",
+        "title_clean": "Aviões rasgam o céu no regresso do Covilhã Airshow à cidade neve - Conta-Lá",
+        "entities": [
+            {
+                "text": "Conta-Lá",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "AEROUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Nacional de Aviação Civil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3RSMm1nelFjOW8xT0M4WVpraGpHYjZRbjBqRVRQelpSZmIzLU5mS1VhTUZLS2VKVkMxT3Q2RU40VGpvNExWX3dJWlhXaDNTSFpxYkZhWk5IekZCQTZYU3NZR3BGNHVMaE9FUVBPZGRNb09MLTZWTDZSQnVCY1RtQ2VoYmN5cUZPdU1VdE56RHN5cTNraG9EM1N1aE9Yemo1QjF6NmJkY0VSQXRhN0tVRDgzMURxcU0?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã promove o desporto durante 10 dias através de atividades por todo o concelho - Conta-Lá",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta-Lá",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWpMQXJmcWphX3hTaUEwdWtRZTZOQWVtZmR1WGVPM3hsNFBXUDQ1RzBad0RHbDhiQXRYVi1YaGdNMWw0ZkZlN1JpODVacmpKcEtGd3JGa2RZdlYzWlVZeVlQVDZmNXluT3hvWkFhc09TQkwyUW11RllCT2VFZnJsc2ZkSEIybU5GSTBuWUxEUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 02 Jul 2026 11:42:00 GMT",
+        "title_clean": "Vila Velha de Ródão angaria bens para ajudar a Venezuela",
+        "entities": [
+            {
+                "text": "Venezuela",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Vila Velha de Ródão",
+                "label": "ORG"
+            },
+            {
+                "text": "Casa de Artes e Cultura do Tejo",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal de Vila",
+                "label": "ORG"
+            },
+            {
+                "text": "António Carmona",
+                "label": "PER"
+            },
+            {
+                "text": "Centro de Recolha",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
