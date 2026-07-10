@@ -6005,5 +6005,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mqcbzij34t2c",
+        "source": "bluesky",
+        "created_at": "2026-07-10T13:48:29.481Z",
+        "title_clean": "",
+        "clean_text": "Académico de Viseu goleia no primeiro jogo da época",
+        "keywords": [
+            {
+                "keyword": "goleia primeiro jogo época",
+                "score": 0.735
+            },
+            {
+                "keyword": "primeiro jogo época",
+                "score": 0.7141
+            },
+            {
+                "keyword": "goleia primeiro jogo",
+                "score": 0.7034
+            },
+            {
+                "keyword": "viseu goleia primeiro jogo",
+                "score": 0.6992
+            },
+            {
+                "keyword": "primeiro jogo",
+                "score": 0.6764
+            },
+            {
+                "keyword": "jogo época",
+                "score": 0.5835
+            },
+            {
+                "keyword": "viseu goleia",
+                "score": 0.5457
+            },
+            {
+                "keyword": "viseu goleia primeiro",
+                "score": 0.5408
+            }
+        ],
+        "source_name": null
     }
 ]

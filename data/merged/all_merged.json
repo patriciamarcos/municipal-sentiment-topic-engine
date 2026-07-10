@@ -326322,5 +326322,1214 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80cV8xUm4teFJTZjF1QVFSTllyclp5aEZ1aFZwb2F0cFd4NTgyQkI4WkVGYS1uN2JmbGtFSlMxeDdoZUlseWtMcUJoTDlYQnhGcVZUdlA2VlhmR2pIS1MtRm13?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "Covilhã Innov Summit - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1345,
+        "negative": 0.0335,
+        "neutral": 0.7986,
+        "positive": 0.168,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9921,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9921,
+            "FRUSTRATION": 0.0074,
+            "SADNESS": 0.0043,
+            "ANGER": 0.0035,
+            "CONTEMPT": 0.0032,
+            "DISGUST": 0.0031,
+            "JOY": 0.003,
+            "SURPRISE": 0.0029,
+            "LOVE": 0.0021,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [
+            {
+                "keyword": "15h30 cada organizada",
+                "score": 0.598
+            },
+            {
+                "keyword": "14h 15h30 cada organizada",
+                "score": 0.5867
+            },
+            {
+                "keyword": "innov summit",
+                "score": 0.5501
+            },
+            {
+                "keyword": "centro inovação",
+                "score": 0.5474
+            },
+            {
+                "keyword": "centro inovação empreendedorismo beira",
+                "score": 0.5418
+            },
+            {
+                "keyword": "iniciativa empresarial faz parte",
+                "score": 0.5352
+            },
+            {
+                "keyword": "innov summit conta",
+                "score": 0.5261
+            },
+            {
+                "keyword": "tradição iniciativa empresarial",
+                "score": 0.5249
+            },
+            {
+                "keyword": "innov summit funciona elo",
+                "score": 0.5199
+            },
+            {
+                "keyword": "lá 09h30",
+                "score": 0.5049
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXy1KR3R3M3h3Ry10V3lFLUpYMlpqeXA5VDJYMlFtMUhaUkFwWl9DVjFHOUxvNVVDY2NKUEc3MnlvMXR0QV94a0lBQkxINmlqUU9ycV9nUFl1OWxfR2FKNHZjTy16OEV4aEhqdTI2dC1qbGRidnRZaElSZzRZcnVJLTZIYjdycDNBdkdGT2VZYjJUalJpdmtodl9kczFzN1lJZEl5aVpqQk1SUEnSAaYBQVVfeXFMTnhieHZyUjBiZTlWU2JFeGhVMXExOF9HNUIxQVNOcF9KejJiYVloOUFBNWRTTVo1RFpYZG1xNi1jby1TdG84amVtWl9fWEJwM1A2X1VuOE1KNkItV3ppMjhQRXlQVllkc1hOOVJJNzBKbE4wY3hRT3p1VmUwXzRRN3hGSDlnSHJiSERpemN4NGx0UnVqdXFKaS1rSlo3Q0NsdUt0MnNxdw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "Mohamed Konaté troca Sp. Covilhã pelo Atlético - Record",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.5225,
+        "negative": 0.0434,
+        "neutral": 0.3907,
+        "positive": 0.5659,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9816,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9816,
+            "SURPRISE": 0.0223,
+            "JOY": 0.0144,
+            "SADNESS": 0.0072,
+            "CONTEMPT": 0.0062,
+            "ANGER": 0.0025,
+            "FEAR": 0.0022,
+            "FRUSTRATION": 0.0021,
+            "DISGUST": 0.002,
+            "LOVE": 0.0017,
+            "GRATITUDE": 0.0014
+        },
+        "keywords": [
+            {
+                "keyword": "konaté passado representou vilarinho",
+                "score": 0.557
+            },
+            {
+                "keyword": "liga konaté passado representou",
+                "score": 0.5474
+            },
+            {
+                "keyword": "anunciou contratação mohamed konaté",
+                "score": 0.5328
+            },
+            {
+                "keyword": "konaté passado representou",
+                "score": 0.5097
+            },
+            {
+                "keyword": "assinante atlético",
+                "score": 0.4384
+            },
+            {
+                "keyword": "liga konaté passado",
+                "score": 0.431
+            },
+            {
+                "keyword": "representou vilarinho",
+                "score": 0.4162
+            },
+            {
+                "keyword": "passada jogador marcou",
+                "score": 0.4141
+            },
+            {
+                "keyword": "assinante atlético anunciou contratação",
+                "score": 0.4013
+            },
+            {
+                "keyword": "anunciou contratação mohamed",
+                "score": 0.3943
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Mohamed Konaté",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético - Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Vilarinho",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveira do Douro",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0J1NFJRWEhpcURSc2JiYVdPSlF4dXM5b2xqZ2VpWGYwOFdXZFh0eUhQNEV2UFhTMkZTX00tRzc0LU00QU5DNWZDcmdfQXpTZDlDbmI0VnZlRFQ3clJGOWRLaWVsTGJKc3lIbnVMMjdGYXpKQ1hsYlhOZEFPU0NYWWRSYXZaMHp3UHA2OWp0NmVtMjVPV00tNmJSd3Y2aDZBOVNYd1pKOEp0UDlwSTlKWHVRQmJneDJJZGc2cGRZZE4?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:54:00 GMT",
+        "title": "Académico de Viseu goleia Sp. Covilhã no primeiro jogo de pré-temporada - CNN Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0263,
+        "negative": 0.2041,
+        "neutral": 0.6181,
+        "positive": 0.1778,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9913,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9913,
+            "JOY": 0.0059,
+            "CONTEMPT": 0.0045,
+            "SADNESS": 0.0044,
+            "LOVE": 0.0032,
+            "FRUSTRATION": 0.0031,
+            "FEAR": 0.0023,
+            "DISGUST": 0.0023,
+            "ANGER": 0.0021,
+            "GRATITUDE": 0.0021,
+            "SURPRISE": 0.0019
+        },
+        "keywords": [
+            {
+                "keyword": "viseu recebeu goleou",
+                "score": 0.5774
+            },
+            {
+                "keyword": "temporada cnn portugal hoje",
+                "score": 0.5754
+            },
+            {
+                "keyword": "portugal hoje 16",
+                "score": 0.5608
+            },
+            {
+                "keyword": "viseu recebeu goleou sp",
+                "score": 0.5598
+            },
+            {
+                "keyword": "temporada cnn portugal",
+                "score": 0.5584
+            },
+            {
+                "keyword": "portugal hoje 16 15",
+                "score": 0.5543
+            },
+            {
+                "keyword": "viseense equipa",
+                "score": 0.5506
+            },
+            {
+                "keyword": "pré temporada cnn portugal",
+                "score": 0.549
+            },
+            {
+                "keyword": "académico viseu recebeu goleou",
+                "score": 0.5289
+            },
+            {
+                "keyword": "depois estreia campeonato marcada",
+                "score": 0.5256
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "CNN Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Soufiane Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Lorougnon Gohi",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio da Luz",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZU9iWW5nbF9UTjJnclZTQlRhb0ZxU1NLWHk5V0p1VGtGb19rTlBUXzJzc2gweHl3QmpGVU8yekM4Rk9IT196TXFpbVdXMlBGZEFFTElZOXVGMW04WkVBVTVFbEYyeGRYY0dsYVAxV3RMUklWZUQzdnFlSFRwREJCRzh3Qi1hc2VYamF2XzR5WE5WWjdraXVUYXc3M0ZyMUFzSGNuenZ6U3REZlltZVZzdmVaSFBKWTZBMnUyTXhZZFBOa3ZTOVdoVldxMV9XZ0h3d010VW05MEthWDc3N3Z5U0hCLXBJQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "Sporting da Covilhã: Dani Matos conta com o defesa-direito, Kauan Gomes, por empréstimo do Alverca - Diario Digital Castelo Branco",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1025,
+        "negative": 0.2429,
+        "neutral": 0.6166,
+        "positive": 0.1404,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9484,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9484,
+            "SURPRISE": 0.1193,
+            "JOY": 0.019,
+            "SADNESS": 0.0143,
+            "CONTEMPT": 0.012,
+            "LOVE": 0.0054,
+            "ANGER": 0.0038,
+            "DISGUST": 0.0027,
+            "FEAR": 0.0025,
+            "FRUSTRATION": 0.0022,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [
+            {
+                "keyword": "proveniente atlético goianiense brasil",
+                "score": 0.6522
+            },
+            {
+                "keyword": "liga defesa brasileiro",
+                "score": 0.6487
+            },
+            {
+                "keyword": "atlético goianiense brasil",
+                "score": 0.6477
+            },
+            {
+                "keyword": "brasil rhaldney goztepe",
+                "score": 0.6326
+            },
+            {
+                "keyword": "palmeiras brasil rhaldney goztepe",
+                "score": 0.622
+            },
+            {
+                "keyword": "mirandela campeonato portugal",
+                "score": 0.6154
+            },
+            {
+                "keyword": "defesa brasileiro",
+                "score": 0.6148
+            },
+            {
+                "keyword": "liga defesa brasileiro 21",
+                "score": 0.6131
+            },
+            {
+                "keyword": "edição liga portuguesa 11",
+                "score": 0.6014
+            },
+            {
+                "keyword": "última edição liga portuguesa",
+                "score": 0.596
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Lidador",
+                "label": "PER"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Atlético Goianiense",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting de Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Palmeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Rhaldney",
+                "label": "PER"
+            },
+            {
+                "text": "Turquia",
+                "label": "LOC"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Fábricio Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Estoril Praia",
+                "label": "ORG"
+            },
+            {
+                "text": "Marezi",
+                "label": "PER"
+            },
+            {
+                "text": "Almeria",
+                "label": "LOC"
+            },
+            {
+                "text": "Mathis Clairicia",
+                "label": "PER"
+            },
+            {
+                "text": "Bochum",
+                "label": "ORG"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Bursa",
+                "label": "PER"
+            },
+            {
+                "text": "Sérgio Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Villareal",
+                "label": "ORG"
+            },
+            {
+                "text": "Pau FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Marco Essimi",
+                "label": "PER"
+            },
+            {
+                "text": "Dunkerque",
+                "label": "ORG"
+            },
+            {
+                "text": "Lucca Giuntini",
+                "label": "PER"
+            },
+            {
+                "text": "Mirandela",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNmxfSmRHRkthc1hxbE41aWFzT25lbWNtbHM2V3BveF9uVHJrcFQyUnlhc0dCa0FtaHg4dU02MmF2TjAtMENhYU9LUklueGt1THRLSUxsRldsUkkwcnlqakRBSklZeTFxczY4OXl6amQ1UTdxRnVISF81QkFqY3UwWlFIbENyMGxHMER1Y1lCV0RkbjNaUXFWSkxaRWxudDBQZkZEdXBubUN6aE1aaFRPZEw3YmVjOFc5bGhsMzR6bFpWZUJyZjZyZVJGQWZJSVFjbTFzdzctRmVibGJGOXl3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 04:19:00 GMT",
+        "title": "Académico de Viseu goleia Sporting da Covilhã em jogo de preparação (5-0) - Flashscore.pt",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0826,
+        "negative": 0.2513,
+        "neutral": 0.5799,
+        "positive": 0.1688,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9934,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9934,
+            "SADNESS": 0.009,
+            "CONTEMPT": 0.008,
+            "JOY": 0.0045,
+            "FRUSTRATION": 0.0038,
+            "LOVE": 0.0029,
+            "DISGUST": 0.0025,
+            "SURPRISE": 0.0023,
+            "ANGER": 0.0021,
+            "FEAR": 0.0021,
+            "GRATITUDE": 0.0019
+        },
+        "keywords": [
+            {
+                "keyword": "viseu liga portugal goleou",
+                "score": 0.6944
+            },
+            {
+                "keyword": "liga portugal goleou",
+                "score": 0.6546
+            },
+            {
+                "keyword": "portugal goleou sexta",
+                "score": 0.6381
+            },
+            {
+                "keyword": "portugal goleou sexta feira",
+                "score": 0.6308
+            },
+            {
+                "keyword": "viseu goleia sporting",
+                "score": 0.6297
+            },
+            {
+                "keyword": "liga portugal goleou sexta",
+                "score": 0.6198
+            },
+            {
+                "keyword": "viseu liga portugal",
+                "score": 0.6143
+            },
+            {
+                "keyword": "académico viseu liga portugal",
+                "score": 0.6047
+            },
+            {
+                "keyword": "estreia académico viseu liga",
+                "score": 0.5902
+            },
+            {
+                "keyword": "portugal goleou",
+                "score": 0.5813
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Liga Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio do Fontelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio da Luz",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mqcbzij34t2c",
+        "source": "bluesky",
+        "created_at": "2026-07-10T13:48:29.481Z",
+        "title": "",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.3205,
+        "negative": 0.0441,
+        "neutral": 0.5914,
+        "positive": 0.3645,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9805,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9805,
+            "CONTEMPT": 0.0188,
+            "FRUSTRATION": 0.0184,
+            "SURPRISE": 0.0113,
+            "ANGER": 0.0085,
+            "JOY": 0.0064,
+            "SADNESS": 0.0063,
+            "FEAR": 0.0054,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0024,
+            "GRATITUDE": 0.0019
+        },
+        "keywords": [
+            {
+                "keyword": "goleia primeiro jogo época",
+                "score": 0.735
+            },
+            {
+                "keyword": "primeiro jogo época",
+                "score": 0.7141
+            },
+            {
+                "keyword": "goleia primeiro jogo",
+                "score": 0.7034
+            },
+            {
+                "keyword": "viseu goleia primeiro jogo",
+                "score": 0.6992
+            },
+            {
+                "keyword": "primeiro jogo",
+                "score": 0.6764
+            },
+            {
+                "keyword": "jogo época",
+                "score": 0.5835
+            },
+            {
+                "keyword": "viseu goleia",
+                "score": 0.5457
+            },
+            {
+                "keyword": "viseu goleia primeiro",
+                "score": 0.5408
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]

@@ -118370,5 +118370,255 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYkFVX3lxTE80cV8xUm4teFJTZjF1QVFSTllyclp5aEZ1aFZwb2F0cFd4NTgyQkI4WkVGYS1uN2JmbGtFSlMxeDdoZUlseWtMcUJoTDlYQnhGcVZUdlA2VlhmR2pIS1MtRm13?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã Innov Summit - Conta-Lá",
+        "clean_text": "Covilhã Innov Summit - Conta-Lá. Ao longo de três dias a Covilhã transforma-se no centro de inovação e empreendedorismo da Beira Interior. A Covilhã Innov Summit funciona como elo de ligação entre as ideias mais disruptivas e a tradição de iniciativa empresarial que faz parte da ADN da cidade. com transmissão em direto no Conta Lá entre as 09h30-11h e as 14h-15h30 em cada um dos dias. Organizada pelo município e pela Universidade da Beira Interior (UBI), o evento regressa pela segunda vez, até 22 de abril, ao Teatro Municipal da Covilhã, e engloba a realização de palestras, mesas redondas, debates e competições tecnológicas.",
+        "keywords": [
+            {
+                "keyword": "15h30 cada organizada",
+                "score": 0.598
+            },
+            {
+                "keyword": "14h 15h30 cada organizada",
+                "score": 0.5867
+            },
+            {
+                "keyword": "innov summit",
+                "score": 0.5501
+            },
+            {
+                "keyword": "centro inovação",
+                "score": 0.5474
+            },
+            {
+                "keyword": "centro inovação empreendedorismo beira",
+                "score": 0.5418
+            },
+            {
+                "keyword": "iniciativa empresarial faz parte",
+                "score": 0.5352
+            },
+            {
+                "keyword": "innov summit conta",
+                "score": 0.5261
+            },
+            {
+                "keyword": "tradição iniciativa empresarial",
+                "score": 0.5249
+            },
+            {
+                "keyword": "innov summit funciona elo",
+                "score": 0.5199
+            },
+            {
+                "keyword": "lá 09h30",
+                "score": 0.5049
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXy1KR3R3M3h3Ry10V3lFLUpYMlpqeXA5VDJYMlFtMUhaUkFwWl9DVjFHOUxvNVVDY2NKUEc3MnlvMXR0QV94a0lBQkxINmlqUU9ycV9nUFl1OWxfR2FKNHZjTy16OEV4aEhqdTI2dC1qbGRidnRZaElSZzRZcnVJLTZIYjdycDNBdkdGT2VZYjJUalJpdmtodl9kczFzN1lJZEl5aVpqQk1SUEnSAaYBQVVfeXFMTnhieHZyUjBiZTlWU2JFeGhVMXExOF9HNUIxQVNOcF9KejJiYVloOUFBNWRTTVo1RFpYZG1xNi1jby1TdG84amVtWl9fWEJwM1A2X1VuOE1KNkItV3ppMjhQRXlQVllkc1hOOVJJNzBKbE4wY3hRT3p1VmUwXzRRN3hGSDlnSHJiSERpemN4NGx0UnVqdXFKaS1rSlo3Q0NsdUt0MnNxdw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Mohamed Konaté troca Sp. Covilhã pelo Atlético - Record",
+        "clean_text": "Mohamed Konaté troca Sp. Covilhã pelo Atlético - Record. E usufrua de todas as vantagens de ser assinante O Atlético anunciou a contratação de Mohamed Konaté, médio costa-marfinense, de 21 anos, que esteve ao serviço do Sp. Covilhã na temporada passada. O jogador marcou dois golos em 13 jogos disputados pelos serranos, mudando-se agora para um novo desafio na Liga 3. Konaté, no passado, representou também o Vilarinho e o Oliveira do Douro.",
+        "keywords": [
+            {
+                "keyword": "konaté passado representou vilarinho",
+                "score": 0.557
+            },
+            {
+                "keyword": "liga konaté passado representou",
+                "score": 0.5474
+            },
+            {
+                "keyword": "anunciou contratação mohamed konaté",
+                "score": 0.5328
+            },
+            {
+                "keyword": "konaté passado representou",
+                "score": 0.5097
+            },
+            {
+                "keyword": "assinante atlético",
+                "score": 0.4384
+            },
+            {
+                "keyword": "liga konaté passado",
+                "score": 0.431
+            },
+            {
+                "keyword": "representou vilarinho",
+                "score": 0.4162
+            },
+            {
+                "keyword": "passada jogador marcou",
+                "score": 0.4141
+            },
+            {
+                "keyword": "assinante atlético anunciou contratação",
+                "score": 0.4013
+            },
+            {
+                "keyword": "anunciou contratação mohamed",
+                "score": 0.3943
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0J1NFJRWEhpcURSc2JiYVdPSlF4dXM5b2xqZ2VpWGYwOFdXZFh0eUhQNEV2UFhTMkZTX00tRzc0LU00QU5DNWZDcmdfQXpTZDlDbmI0VnZlRFQ3clJGOWRLaWVsTGJKc3lIbnVMMjdGYXpKQ1hsYlhOZEFPU0NYWWRSYXZaMHp3UHA2OWp0NmVtMjVPV00tNmJSd3Y2aDZBOVNYd1pKOEp0UDlwSTlKWHVRQmJneDJJZGc2cGRZZE4?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 08:54:00 GMT",
+        "title_clean": "Académico de Viseu goleia Sp. Covilhã no primeiro jogo de pré-temporada - CNN Portugal",
+        "clean_text": "Académico de Viseu goleia Sp. Covilhã no primeiro jogo de pré-temporada - CNN Portugal. Hoje às 16:15 Conjunto viseense está de volta à I Liga 37 anos depois O Académico de Viseu recebeu e goleou o Sp. Covilhã (5-0) no primeiro encontro de preparação para a nova temporada 2026/27. Nils Mortimer, Soufiane Messeguem, Álvaro Zamora, André Clóvis e Lorougnon Gohi apontaram os golos do conjunto viseense. A equipa comandada por Bruno Pinheiro segue para estágio em Cádis, onde vai ficar uma semana, entre os dias 11 e 18 de julho. O Académico de Viseu está de regresso ao topo do futebol nacional, 37 anos depois. A estreia no campeonato está marcada para o fim de semana de 8 e 9 de agosto, diante do Benfica, no Estádio da Luz, à porta fechada.",
+        "keywords": [
+            {
+                "keyword": "viseu recebeu goleou",
+                "score": 0.5774
+            },
+            {
+                "keyword": "temporada cnn portugal hoje",
+                "score": 0.5754
+            },
+            {
+                "keyword": "portugal hoje 16",
+                "score": 0.5608
+            },
+            {
+                "keyword": "viseu recebeu goleou sp",
+                "score": 0.5598
+            },
+            {
+                "keyword": "temporada cnn portugal",
+                "score": 0.5584
+            },
+            {
+                "keyword": "portugal hoje 16 15",
+                "score": 0.5543
+            },
+            {
+                "keyword": "viseense equipa",
+                "score": 0.5506
+            },
+            {
+                "keyword": "pré temporada cnn portugal",
+                "score": 0.549
+            },
+            {
+                "keyword": "académico viseu recebeu goleou",
+                "score": 0.5289
+            },
+            {
+                "keyword": "depois estreia campeonato marcada",
+                "score": 0.5256
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZU9iWW5nbF9UTjJnclZTQlRhb0ZxU1NLWHk5V0p1VGtGb19rTlBUXzJzc2gweHl3QmpGVU8yekM4Rk9IT196TXFpbVdXMlBGZEFFTElZOXVGMW04WkVBVTVFbEYyeGRYY0dsYVAxV3RMUklWZUQzdnFlSFRwREJCRzh3Qi1hc2VYamF2XzR5WE5WWjdraXVUYXc3M0ZyMUFzSGNuenZ6U3REZlltZVZzdmVaSFBKWTZBMnUyTXhZZFBOa3ZTOVdoVldxMV9XZ0h3d010VW05MEthWDc3N3Z5U0hCLXBJQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Sporting da Covilhã: Dani Matos conta com o defesa-direito, Kauan Gomes, por empréstimo do Alverca - Diario Digital Castelo Branco",
+        "clean_text": "Sporting da Covilhã: Dani Matos conta com o defesa-direito, Kauan Gomes, por empréstimo do Alverca - Diario Digital Castelo Branco. Por: Diário Digital Castelo Branco com Lusa O Alverca, da I Liga portuguesa de futebol, anunciou a cedência do defesa-direito Kauan Gomes, por empréstimo, ao Sporting da Covilhã, jogador com o qual, o ex-técnico do Benfica e Castelo Branco, Dani Matos, atual \"mister\" da equipa leolina do Estádio Santos, poderá contar na equipa para a próxima época da Liga 3. O defesa brasileiro, de 21 anos, chegou ao Alverca na temporada passada, após ter atuado na formação do Maia Lidador, dos distritais da associação de futebol do Porto em 2024/25, proveniente do Atlético Goianiense, do Brasil. Apesar de ter jogado maioritariamente pela equipa B do Alverca durante a última época, Kauan Gomes acabou por realizar quatro jogos na I Liga, ao serviço da formação principal dos ribatejanos. Kauan Gomes é mais uma saída confirmada no plantel do Alverca, que já viu sair André Gomes (Benfica), Chissumba (Sporting de Braga) Naves (Palmeiras, Brasil), Rhaldney (Goztepe, Turquia), Tomás Mendes (Alavés, Espanha), Fábricio Garcia (Estoril Praia), Marezi (Almeria, Espanha) e Mathis Clairicia (Bochum, Alemanha), cedidos por empréstimo ao Alverca na última temporada, Sandro Lima, que terminou contrato, e Lincoln, vendido ao Bursaspor, da Turquia. Em sentido oposto, a formação que será orientada por Sérgio Ferreira na temporada 2026/27 já recebeu quatro reforços: o defesa-direito Toni Tamarit, do Villareal, de Espanha, o guarda-redes Noah Raveyre, do Pau FC, da Ligue 2 de França, o extremo camaronês Marco Essimi, proveniente do Dunkerque, também do segundo escalão gaulês, e o médio italo-brasileiro Lucca Giuntini, do Mirandela, do Campeonato de Portugal. O Alverca terminou a última edição da I Liga portuguesa no 11.º lugar, na temporada que assinalou o regresso dos ribatejanos ao principal escalão do futebol português, 21 anos depois.",
+        "keywords": [
+            {
+                "keyword": "proveniente atlético goianiense brasil",
+                "score": 0.6522
+            },
+            {
+                "keyword": "liga defesa brasileiro",
+                "score": 0.6487
+            },
+            {
+                "keyword": "atlético goianiense brasil",
+                "score": 0.6477
+            },
+            {
+                "keyword": "brasil rhaldney goztepe",
+                "score": 0.6326
+            },
+            {
+                "keyword": "palmeiras brasil rhaldney goztepe",
+                "score": 0.622
+            },
+            {
+                "keyword": "mirandela campeonato portugal",
+                "score": 0.6154
+            },
+            {
+                "keyword": "defesa brasileiro",
+                "score": 0.6148
+            },
+            {
+                "keyword": "liga defesa brasileiro 21",
+                "score": 0.6131
+            },
+            {
+                "keyword": "edição liga portuguesa 11",
+                "score": 0.6014
+            },
+            {
+                "keyword": "última edição liga portuguesa",
+                "score": 0.596
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNmxfSmRHRkthc1hxbE41aWFzT25lbWNtbHM2V3BveF9uVHJrcFQyUnlhc0dCa0FtaHg4dU02MmF2TjAtMENhYU9LUklueGt1THRLSUxsRldsUkkwcnlqakRBSklZeTFxczY4OXl6amQ1UTdxRnVISF81QkFqY3UwWlFIbENyMGxHMER1Y1lCV0RkbjNaUXFWSkxaRWxudDBQZkZEdXBubUN6aE1aaFRPZEw3YmVjOFc5bGhsMzR6bFpWZUJyZjZyZVJGQWZJSVFjbTFzdzctRmVibGJGOXl3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 04:19:00 GMT",
+        "title_clean": "Académico de Viseu goleia Sporting da Covilhã em jogo de preparação (5-0) - Flashscore.pt",
+        "clean_text": "Académico de Viseu goleia Sporting da Covilhã em jogo de preparação (5-0) - Flashscore.pt. O Académico de Viseu, da Liga Portugal, goleou esta sexta-feira o Sporting da Covilhã, da Liga 3, por 5-0, em jogo de preparação disputado no Estádio do Fontelo, naquele que foi o primeiro apronto da equipa na pré-época. Os golos da formação viseense foram apontados por Nils Mortimer, Messeguem, Álvaro Zamora, André Clóvis e Gohi. O Académico de Viseu, orientado por Bruno Pinheiro, está de regresso ao principal escalão do futebol português, 37 anos depois da última participação na então I Divisão Nacional. O plantel viseense segue agora para Cádis, em Espanha, onde vai cumprir uma semana de estágio, entre os dias 11 e 18 de julho, tendo previstos alguns jogos de preparação frente a adversários ainda por definir. A estreia do Académico de Viseu na Liga está agendada para o fim de semana de 08 e 09 de agosto, no Estádio da Luz, frente ao Benfica.",
+        "keywords": [
+            {
+                "keyword": "viseu liga portugal goleou",
+                "score": 0.6944
+            },
+            {
+                "keyword": "liga portugal goleou",
+                "score": 0.6546
+            },
+            {
+                "keyword": "portugal goleou sexta",
+                "score": 0.6381
+            },
+            {
+                "keyword": "portugal goleou sexta feira",
+                "score": 0.6308
+            },
+            {
+                "keyword": "viseu goleia sporting",
+                "score": 0.6297
+            },
+            {
+                "keyword": "liga portugal goleou sexta",
+                "score": 0.6198
+            },
+            {
+                "keyword": "viseu liga portugal",
+                "score": 0.6143
+            },
+            {
+                "keyword": "académico viseu liga portugal",
+                "score": 0.6047
+            },
+            {
+                "keyword": "estreia académico viseu liga",
+                "score": 0.5902
+            },
+            {
+                "keyword": "portugal goleou",
+                "score": 0.5813
+            }
+        ],
+        "source_name": null
     }
 ]
