@@ -114889,6 +114889,750 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWdUYVdQVWZEd2VCU0s3a3M1b041VURITVVNU3l1b1FobHF5aWhuc0diX3BoZ2Z1UEhoWVQwWnVfUnE3amd5V3pNMHNVQU4zZ1pkeDVXX2lOR1VzM25WUU5JaTAwMjVvQ2ozUW5rU3B4WHFlS0JXMC0wTUNxdnBoYkRZemNFaVlXek9YNw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 07:44:02 GMT",
+        "title_clean": "O plano de Hélio Fazendeiro para a Covilhã do Futuro - Conta-Lá",
+        "entities": [
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã do Futuro",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Catarina Duarte Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "João John",
+                "label": "PER"
+            },
+            {
+                "text": "Partido Socialista",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Cidade Neve",
+                "label": "LOC"
+            },
+            {
+                "text": "Autarca",
+                "label": "LOC"
+            },
+            {
+                "text": "Autárquicas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemZJWmJiTVROR3ducDdjZXB6Vm5KSTQyRFhqbFB4LVJQTjlJVnRVRzBRZXp0VFhwdjNwTGlWUmdNUWpRX0czLXBlMFo5UEw1R2tSYVpBUTdYdUFxRVFndlJKeFNoRENQalZEbDU2X2ktLUcwTnFBU21lV3pqUGd6YjNfYnJBOUpneTliRldSbWZHZ3ZiWXdBMDhKVWhQVnVvZDVVMWJvVi1jbExjWTVlSXM5NjZxU0hha2o4MWVQakFmUDFjUHdmLWM1WWNQZk9PLVRQUNIBzwFBVV95cUxPT084N2VoVjJSV0dXcHl4b2JGQzRQeFdqX2Y0SGRXd1E3QTBWcE1WZ2lNSDRPbTlneDdGejQ4TVE4SVhodV9ud0toZzd0aE9JVkw0d2FKcHRjdmctTDU3VlI1U0tvYWZfM3FJamtOVHluT0xxQ3ltSFlCZlRwckhkbG9hMHk5MWZJZzJXaEEwWFBxN2YxeEtLeURJa0ZOcElORHZxWWVxZHB2bGZCVlotTThabEhZblZid21sX0dUblZ5V1NleXF0YmdMMXJ0X1U?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 19:58:21 GMT",
+        "title_clean": "Jailson Gomes prolonga estadia na Covilhã por mais uma temporada - Record",
+        "entities": [
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Louletano",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxNQjMtOXBjanR5b0R2UkFvUU42NEdOZ2oybTFzYjhyWkpFZEhZSkhKMERsZGczeE5PcjdOaDYtRUNFT05kN1pVLWdXb3AyWjVSZGF5SFNyT2k1SHdIR0xHeFE2RWJFWjA3cHNGbU5za0xvR2lPeDRRMXEyZWJXMFRMcEZ6RDVFRjVFbnpSTTlvZXUyek1RMUgtOUNhbTNrZ3U4M1htNHRoaGZfLW16alloNlg5S0o3aVhYWUgydWV6NWNFdlo3?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 10:36:46 GMT",
+        "title_clean": "Alunos de Medicina da Covilhã representam Portugal em competição europeia de simulação clínica - Conta-Lá",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Laboratório de Competências",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculdade de Ciências da Saúde",
+                "label": "ORG"
+            },
+            {
+                "text": "Hospitais da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Medicina",
+                "label": "ORG"
+            },
+            {
+                "text": "SimUniversity",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ25WSG9KWkVQVnVCM3NGQ0RZdE9nYkl2NDlRY1ROSlg0UzM3bWtHQTVOUlZ5NTVxZTVnc3BueXFqbjZCZTQzODdsak1kOU83SURQbGJiUFI3V0VPZ1phMTQ4blJLU2FVZ3VQSWQxaURrZ3FZV0ZPTEF0NEtncTI5TmYtV1dSbFJSUnlnWGVhcTVfeUJtQTdTeWpBdHI1bzVsWGdGWlVTV1VrVVdLSG92UUNNb9IBrgFBVV95cUxPQk1vMFhXU0pPUjNpUS1jVXpNWi1hSVRyaFpzczc1aUY2ejZTdTNwYUtGVUVjTS0tOUtGLXZiX3liXzJRNExBeXB3UUItRlJWTFBRTkJnVGFtcnQ1SThnRlU4RjBxZ0dTeUNvdWtwMldxZF8wRUFYX3o1YnhFYXlIUzRUbXhjMk80NXZzV0VuUkR4eldCSjR3VmVfeXJPbURBTFRfR0UxSkR4eHlXbEE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 19:32:45 GMT",
+        "title_clean": "Duarte Carreira é reforço do Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Ordino",
+                "label": "ORG"
+            },
+            {
+                "text": "Andorra",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica Castelo Branco",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcGhDYV9pV1RQNm5hRzhqTTkwb3dvdlhBVlc5Nk13T2hXMUM2VzhwQVRLZ01OUy1iTl83Zk4wWXFPMmE4RGVOUFNvNFhBTnZnUDA1MU4tbEttNFdMVXBLaXVyalplX1RpclFpQg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 09:59:00 GMT",
+        "title_clean": "Dani Matos no Sp. Covilhã - reconquista.pt",
+        "entities": [
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxPeG1OZWdaUmd1MmM5b2JIRnhYTF9kb2xNTXRZS2puWWhURFBLZkJ6c0xncWxZZUN4Sld5QVJGZ3VpUTRKTFducjR1ZkNJT0MtR1VGcTA1Q0pUSzVGbjNSc2ZsYUlvYUJtOUhzQTJNTm5QRko2alVZdnJlYWMtUjRseVVoa2ZMYmpVLXVBOWxiLXVZcmZfR0ZTRnZKWkJLbGI5M19nZk1RZmxfUk1qai1iUE5iMEY2UQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 14:05:18 GMT",
+        "title_clean": "COVILHÃ: Biblioteca Municipal ultrapassa 57 mil entradas num ano",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Administração Pública",
+                "label": "ORG"
+            },
+            {
+                "text": "TRAMA",
+                "label": "ORG"
+            },
+            {
+                "text": "Xerazade",
+                "label": "PER"
+            },
+            {
+                "text": "António Ervedeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zaHdsdEZvWUdxSF9NaFhNR2xyQm54cFRHZVhGTHR6X1dSV19HTGhjc1JiN1RQQzNGU2F5blQ3WGhCWnI2WmZqNE5Mc2FVTVRwRl9JOGxyZzhPOWxYNEJiYm9La1M4T3dY?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 08:16:00 GMT",
+        "title_clean": "UBI lança nova licenciatura",
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Departamento de Engenharia Civil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxOalJpNnEzNVZJcHZFUXhvN3ZYZ2ltTnd0dHJnWGg0czdGNVVsc00yeF93X0RlSXo2cVhJMjZWSnRlc1BfZzFldERKa3lNb3I1X3E1Y05NNnFVeXhYUHdMYmFabHZZekdNYmxsV2FlTG9Lc2swTjRnSTN5YS1vT3oyWmg1VE1zUS0zX0lCbUZfQlFQR2RseV9UR0NB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 15:03:28 GMT",
+        "title_clean": "5.º Festival do Pastel de Molho de 9 a 11 de julho na Covilhã",
+        "entities": [
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Confraria da Pastinaca",
+                "label": "ORG"
+            },
+            {
+                "text": "Pastel de Molho",
+                "label": "ORG"
+            },
+            {
+                "text": "Rodrigo",
+                "label": "ORG"
+            },
+            {
+                "text": "Adufeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Maria Branco",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVlxTnl4dkkwZDFPam9KS2tsS3hvcHNZU2lvYm9yS2ZtY3g3Q0lUOFpCQS1WSHYzTGtuODEzRldDTFVaTzFLbjVEeEtnWnFlbXhCZnNxVTZoa0hVNXBoMjBObTZUVk1TX1JtcEt0ajF1TkZ6ckFfMk45dzF1LVpENUVpSGNIUmNsa3ZrMWJMeTBycGdFeFVRMHVGdTNyV2E3TG9LaE13?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 08:51:11 GMT",
+        "title_clean": "Gonçalo Cascalheira reforça o plantel do Sporting da Covilhã",
+        "entities": [
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Torreense",
+                "label": "ORG"
+            },
+            {
+                "text": "CR Instrução",
+                "label": "ORG"
+            },
+            {
+                "text": "Fabril Barreiro",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Casa Pia FC",
+                "label": "ORG"
+            },
+            {
+                "text": "1o Dezembro",
+                "label": "ORG"
+            },
+            {
+                "text": "Varzim",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAJBVV95cUxOcjJBd3FzY2lpMk5FSXM4WXlBWHJuT1RVQWxCZVdTWlF4bVpkZE1tX1pHVVItOW16c1ZZeThtRHZJMUZsQjJPU05uR0haS1VISUhKM0Z0MGxkbzBrczF6M1Z3SFVVVzZOeDZyRkFzN0c4WGRMQURNbVk1WVZReUczcDRSd3htRjN4VjRFaGtHN19FVkhvQXVBSGZERVdaYTktMVVHVnhaVjBJOGdNUEtobkV2ZHhiczNOcjlzY0dXc0FubFhMLW1VYU9YMl9KblprbDMtc3JGdC1rLTlwdjZzdGJXLVMtMmt2RnNZUjR6ajlqUXVhUnItZElackhyVE1NWFk4WjhuQ0ZyLWpB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 13:26:00 GMT",
+        "title_clean": "Biblioteca Municipal da Covilhã reforça papel cultural com quase 58 mil entradas e celebra 109 anos de leitura pública",
+        "entities": [
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Administração Pública",
+                "label": "ORG"
+            },
+            {
+                "text": "Xerazade",
+                "label": "PER"
+            },
+            {
+                "text": "António Ervedeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjJZMld3LW5zZFdncHQwOFU5dVpERWdfZ3QzX0RaWU9heVFwRTYzY0wtaWFQbTZtWW1OV1dxNnBYVFlUSEhtc2k2VEhRMXhRQTM3VFcxdlU2UnpjbzJPU3lhSzEzUWxrYjJwaDFCVDJEbmFWZ3F2bGdSUGV1Q0x6ZTd0UWRaWWpLdTZSYURlRDJJSEpGMjRLaHY3dlJrR3Y5WXpzMGtkeXhuWGVienNGb1k0VWlwd1NHclVyX0ZB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 15:33:00 GMT",
+        "title_clean": "COVILHÃ: UBI estabelece parceria com Universidad Viña del Mar (UVM) do Chile",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidad Viña del Mar",
+                "label": "ORG"
+            },
+            {
+                "text": "Chile",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Ana Paula Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Carlos Isaac",
+                "label": "PER"
+            },
+            {
+                "text": "Francisca Huber Vio",
+                "label": "PER"
+            },
+            {
+                "text": "Helena Alves",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNmZEN2FNdFExeUN3TTVkdGUtRWV1RElPM3hPQm5YUkpBaGpxMTJkdkpOLUw3U3Jzc2FFTHZYU3g3UlpZTlpWVmpxQm1hbjNjcXcwS0ZHNTdGZWdnM3Z5Y2d4YW1jbHZhMGZMWmppUVpybFZ5c0haN0VxTlQ5bXJDRzlLSzVYaUhPX05yXzNGcFlNZnF6Z3h4SnAxa09HS0k1X1F3a3RwYUtiSEFGTDFzUl9MdUk3Y2NnQmVxbFBXVEZGLTkxZ1J0enJNdUY0YXRnMllheXJOVjVhWVc0?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 12:55:21 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã reforça plantel com Gonçalo Cascalheira e Duarte Carreira",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória SC",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0ZzVjk4bDVUdFZzUWwxb3RYUE40anN4YUVpUHZqWWFMLW56MFpnWDByRUpGdTUyZFJPdk1YNVFKaC11LTJHMXVEckwya1NxeHJSdmswLUwxRVNVeGk5R2N4WFRqcE1WUTR5MHVkUmRvM01QZnpBZlZNSUtMdXBlbw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 11:36:00 GMT",
+        "title_clean": "Só a Torre prende a Volta a Portugal à região",
+        "entities": [
+            {
+                "text": "Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Castel",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Mondim de Basto",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Lourinhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Queluz",
+                "label": "LOC"
+            },
+            {
+                "text": "Sines",
+                "label": "LOC"
+            },
+            {
+                "text": "Albufeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Elvas",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueiró dos Vinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Anadia",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Maria da Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Peso da Régua",
+                "label": "LOC"
+            },
+            {
+                "text": "Estrada Nacional 222",
+                "label": "LOC"
+            },
+            {
+                "text": "Douro",
+                "label": "LOC"
+            },
+            {
+                "text": "Vieira do Minho",
+                "label": "LOC"
+            },
+            {
+                "text": "Termas do Gerês",
+                "label": "LOC"
+            },
+            {
+                "text": "Germil",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte da Barca",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Nacional da Peneda-Gerês",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Melgaço",
+                "label": "LOC"
+            },
+            {
+                "text": "Paredes",
+                "label": "LOC"
+            },
+            {
+                "text": "Senhora da Graça",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Ezequiel Mosquera",
+                "label": "PER"
+            },
+            {
+                "text": "Joaquim Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "UAE Emirates",
+                "label": "ORG"
+            },
+            {
+                "text": "João Almeida",
+                "label": "PER"
+            },
+            {
+                "text": "Tadej Pogacar",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Madison",
+                "label": "LOC"
+            },
+            {
+                "text": "Iúri Leitão",
+                "label": "PER"
+            },
+            {
+                "text": "HBO Max",
+                "label": "ORG"
+            },
+            {
+                "text": "Artem Nych",
+                "label": "ORG"
+            },
+            {
+                "text": "Anicolor",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeUlsWi1hMU10TV9hSmROMXdyZWJuc09zcW82eHkteGtVV2JFVnhHUjhhbVVXWkk2LTFzQkZfS29nVlBmZXlfRXpNSF9jWEJfTW9kTmpJODVSMnVQazVyQ3ZuNWJGT29lSG9VMk83T09RTFppb0tQRnJZZFNROWxld0VPN2JCdndBWHdHMXB5X3drVkhjQnpyb3kzV1FwSlBDZndtdGpzenpqZU5PaXk3WHpXXzJhSU0zV1ZwOVRMeXhjQTdvQjlacUlCX0R0a2pmR2RnR1A5MGI?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 16:36:52 GMT",
+        "title_clean": "COVILHÃ: Unidos do Tortosendo – Basquetebol participam no Torneio Internacional Francisco Franco",
+        "entities": [
+            {
+                "text": "Unidos do Tortosendo – Basquetebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidos do Tortosendo - Basquetebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Funchal",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ0Y3c2h6VkpvcHpRNUZqN1N4SVBlX1VLZnk3UDVvMGZvdVRZSW1jM1lvWHZ0VWNlRXdOUHNUalZDdnFYdFl1dTBqVW1zM00tNXZjTnFKWjdsV0ZrMHZxM1JMRTc4cDg3YnZjZDRCci03eUtiQk41bTUtOE5TTWJ4a1h0NTdUN3hlSzJWNEZZUzVPN3NFWkpwVlp0eHc0SVc5WEYzQVY5Z1lyT0RIYTJLMDZfaUlzcHVVMUphTw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 16:40:06 GMT",
+        "title_clean": "COVILHÃ: Unidos do Tortosendo - Basquetebol participam no Torneio Internacional Francisco Franco",
+        "entities": [
+            {
+                "text": "Unidos do Tortosendo - Basquetebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Funchal",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmJ6M1JqTGJvSUZHejhxSUNrR1ZYLXdtQUIxMVptLXVjbVdadmRTYTlKZDdOY2tGUWgxTzVwbVRpWms0bWpPanhiTlM5MXhTWk96dkt3SHVBS01udWZhZ1g2ZU5HN3pBN2VnZG1HbVF0QXRnQ3Q0UllFcE9SWVRkMkVNSDI4MG5TQ3BlenFRRzhnOW1fVllBaVhJRUpOXzNuQ3ZyVWtjWVltc05EQ010Q0tadkdORl8yaEM2cVVJdw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 12:58:08 GMT",
+        "title_clean": "Mercado of Sport's: Sporting da Covilhã reforça plantel com Gonçalo Cascalheira e Duarte Carreira",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória SC",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxNTW5MNmRxTnVBQi1WSkVZaW9lU1lpRVhrX0RvRV9kT3VKWHIxMFN0QlBHM0hTaU9Nd0VXRmY2WkoyQ1d1N3JZMjR1eGxkOTBzNElZN3ZMWVR3em0xdU9meFNyTlZlbzlPRTd5S1ZkRDZTQTh5LWhQS1RNSVZ5VklmNEFkWC0zbHdsVlc2VVRwQ2FhSFpnV2QwMVVpSXoxMnplNjhQOXNB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 13:43:52 GMT",
+        "title_clean": "SCC: Duarte Carreira reforça o plantel para a época 2026/2027",
+        "entities": [
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEVUTndNZmlvZmZOV1NxWERWczJZOFNFY1FGTWx2anFXU0dBRkZNUjM2R2xMTzliYmdGemdMNTcxeTNHWHAtMXRRZERveWhibmlWUlVaZDNxOUJmNURTT1RyVmg0TXdIb0Y4OE9KaTVlZGdRaVpPOURJc0ZtTFhhenlrWHd0ZWsxSkhJa0tFb1lQa0ZvWlFNN1k5UnpKcHNEUWdJNV9DeEtKb3c?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 08:49:35 GMT",
+        "title_clean": "Alverca empresta Kauan Gomes ao Sporting da Covilhã - Bola na Rede",
+        "entities": [
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sérgio Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Rhaldney",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Fabrício Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Marezi",
+                "label": "PER"
+            },
+            {
+                "text": "Mathis Clairicia",
+                "label": "PER"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
