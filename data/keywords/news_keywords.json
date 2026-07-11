@@ -119020,5 +119020,155 @@
             }
         ],
         "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3UyOHNmaHZzbFJzOENTLTJTQ09nN3lLOUdFaC0zSk83NXB1aVpjUDBoV0JGYVFWMWlkdFFOWU8wT3lTOUg0bWNSSE1aSWt3Zm5Nal9HaVp2NHFwTHJwQ0w2LVdfLTdqQ3BuMVpQWG94SVloSGg2cmhLUVV4UVl5anBB?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 08:55:00 GMT",
+        "title_clean": "Biblioteca com mais de 57 mil entradas num ano",
+        "clean_text": "Biblioteca com mais de 57 mil entradas num ano. A Biblioteca Municipal da Covilhã teve um total de 57.944 entradas nos últimos 365 dias. É esta a informação adiantada, em comunicado, pela Câmara da Covilhã, que diz ainda que a infraestrutura municipal fez quase 14 mil empréstimos domiciliários, teve mais de 10 mil participantes em atividades de promoção da leitura e 689 novos leitores no último ano. \"Estes são alguns dos números que ilustram a vitalidade da Biblioteca Municipal da Covilhã\", num altura em que se assinalam os 109 anos de leitura pública na Covilhã, uma história iniciada em 1917 e que \"continua a afirmar a biblioteca como um dos principais espaços de cultura, educação não formal, conhecimento e cidadania do concelho\", salienta a autarquia. Ao longo do último ano, registou-se um crescimento na procura, com mais 3.909 entradas que no ano anterior, em que a totalidade de entradas foi de 54.035. \"Os dados revelam uma instituição viva e próxima da comunidade: registaram-se 13.894 empréstimos domiciliários, 327 sessões de mediação da leitura, que envolveram 10.372 participantes, 76 oficinas criativas, frequentadas por 2.915 pessoas, além de 22 exposições, 16 ações de formação e dezenas de iniciativas dirigidas a públicos de todas as idades\", frisa a Câmara da Covilhã. Segundo a mesma,a biblioteca reforçou igualmente a sua missão enquanto espaço de inclusão digital e apoio à comunidade, contabilizando 4.710 utilizações de computadores e internet e mais de uma centena de atendimentos de apoio ao cidadão em matérias como serviços digitais da Administração Pública. Entre os momentos mais marcantes do último ano, a Câmara destaca a primeira edição da TRAMA - Semana de Literatura e Design, \"um projeto inovador que cruzou literatura, design e inclusão, envolvendo escolas, famílias, autores, ilustradores e a comunidade em geral.\" E também iniciativas já consolidadas, como Oficinas C3D, Leituras Nómadas, Novelo de Histórias, Trocado por Miúdos, Estar a Par ou Mãos no Debuxo. No próximo dia 23 de julho, assinala-se 109.º aniversário da Biblioteca Municipal da Covilhã, com um programa inspirado na ancestral arte de contar histórias, \"lembrando que muito antes dos livros impressos, foi a palavra narrada que preservou a memória, e o conhecimento. Uma homenagem à leitura pública e ao poder intemporal da(s) História(s).\" As iniciativas têm início às 19:00, com \"Mil e Uma Noites\", um espetáculo do UMCOLETIVO que, através do teatro radiofónico, dá voz à obra de mulheres covilhanenses do século XX, inspirando-se na figura de Xerazade para evocar a força das histórias e da criação literária no feminino. Pelas 21:00, terá lugar \"Histórias, Jogos e Objetos Mágicos de Xerazade\", uma proposta especialmente dirigida às famílias com crianças. Inspirada no universo das Mil e Uma Noites, a atividade convida os participantes a embarcar numa viagem de histórias, magia e personagens inesquecíveis, assinalando os 109 anos da Biblioteca com uma noite de imaginação e descoberta. As comemorações incluem ainda a exposição \"Os Meus Escritores\", de António Ervedeiro, composta por um conjunto de telas em aguarela que homenageiam alguns dos mais ilustres escritores da literatura portuguesa, estabelecendo um diálogo entre a criação artística e o património literário nacional e sessão \"Livros Sentidos\": contos e descobertas para bebes. \"Celebrar 109 anos de leitura pública na Covilhã é celebrar uma instituição que soube evoluir sem perder a sua missão essencial: garantir o acesso democrático ao conhecimento, promover o pensamento crítico e criar oportunidades de encontro entre pessoas, livros e ideias\", salienta a autarquia covilhanense.",
+        "keywords": [
+            {
+                "keyword": "mil entradas biblioteca municipal",
+                "score": 0.8108
+            },
+            {
+                "keyword": "mil entradas biblioteca",
+                "score": 0.7215
+            },
+            {
+                "keyword": "109 aniversário biblioteca municipal",
+                "score": 0.7207
+            },
+            {
+                "keyword": "entradas biblioteca municipal",
+                "score": 0.6892
+            },
+            {
+                "keyword": "aniversário biblioteca municipal",
+                "score": 0.6813
+            },
+            {
+                "keyword": "57 mil entradas biblioteca",
+                "score": 0.6803
+            },
+            {
+                "keyword": "ilustram vitalidade biblioteca municipal",
+                "score": 0.6772
+            },
+            {
+                "keyword": "biblioteca municipal",
+                "score": 0.6746
+            },
+            {
+                "keyword": "vitalidade biblioteca municipal",
+                "score": 0.6669
+            },
+            {
+                "keyword": "biblioteca 57 mil",
+                "score": 0.6339
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmVIOWdjWHhRY24xRUh5Ui1jdTJITXhLNWY4NlI2NFNOTXhRRG1CNjB0WFBXb0gweE12TDNkU3h5aG1JTmZXR09vTWZQc18tLThVNzFnVlBSODMtczBRR2JJUVJ5MXVsemhVNk9lT2Ryd21EN3J1UEYycVIwbnpuamo4WkUxaVcxRXM3NHA3OXJqMWhUenRGYXR4cGIzSEx3Y2tGNnEzSQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:08:00 GMT",
+        "title_clean": "Concentração motard dos Lobos da Neve “aquece o inverno na Beira Interior” - Conta-Lá",
+        "clean_text": "Concentração motard dos Lobos da Neve \"aquece o inverno na Beira Interior\" - Conta-Lá. Os Lobos da Neve - Moto Clube da Covilhã realizam mais uma concentração na Serra da Estrela. O evento é um marco incontornável no calendário motard nacional e junta o convívio à vertente solidária. 28 fev. 2026, 08:00 O encerramento decorre no domingo, às 10 e 30, com a Bênção dos Capacetes A alcateia volta a reunir-se na Covilhã. A 32.ª edição da Concentração Invernal Motard \"Lobos da Neve\", promovida pelo Moto Clube da Covilhã, começou a 26 de fevereiro e termina este domingo, 1 de março, com a zona de lazer da Ponte Pedrinha e do Parque de Campismo do Tortosendo a receberem os milhares de motociclistas neste encontro invernal, que abre o calendário nacional de Concentrações Motard sob a égide da Federação de Motociclismo de Portugal. O certamente deste ano arranca com várias novidades, como os quatro dias em vez dos habituais três, que têm entre os objetivos o alargamento da participação da comunidade estudantil da Covilhã. Com inscrições limitadas a mil participantes, a organização estima, ainda assim, uma forte afluência de público à zona envolvente ao Rio Zêzere durante os quatro dias do evento, que mantém também uma vertente solidária, revertendo parte das inscrições para a Associação Portuguesa de Pais e Amigos do Cidadão Deficiente Mental (APPACDM) da Covilhã. Para além disso, são os utentes da própria instituição que estão encarregues de fazer as lembranças e o que for obtido com a venda das mesmas reverterá também para a associação. Também a Escola Secundária Campos Melo vai estar envolvida na concentração, uma vez que o desenho do símbolo e de uma t-shirt foram elaborados por alunos de uma turma de artes. A componente solidária nestes eventos é muito importante, reforça o presidente do Moto Clube da Covilhã Lobos da Neve, Rui Santos, \"uma vez que podemos ajudar instituições do concelho e contar com a colaboração de várias entidades, empresas e particulares que nos ajudam para que nada falte ao longo dos quatro dias\". Por isso, as expectativas para este ano não podiam ser melhores: \"Temos bom tempo, um espaço incrível e bem preparado para receber todos os que fazem questão de nos visitar anualmente, bem como quem vem pela primeira vez\", refere Rui Santos. O acesso ao parque é reservado aos inscritos, enquanto a área envolvente conta com tenda de convívio, mega tenda de concertos, feira motard e várias tasquinhas de alimentação. Tudo com a promessa, atira o presidente, de \"aquecer o inverno na Beira Interior\". Sorteio de uma vespa No sábado à tarde realiza-se o habitual Bike Show, onde as motos personalizadas serão avaliadas pelo público, com entrega de prémios durante os espetáculos. Já ao início da noite, o tradicional \"Passeio das Estrelas\" percorrerá as ruas da cidade da Covilhã com tochas, em homenagem aos motociclistas que já partiram, culminando num fogo de artifício sobre a Ponte Pedrinha. A animação musical não falta ao longo do fim de semana. No sábado, depois de Virgílio Faleiro regressar com banda, o destaque vai para o concerto do cabeça de cartaz, Toy, com DJs a prolongarem a festa pela noite dentro. O programa inclui acampamento motard, feira temática, mega fogueira, freestyle Extreme FMX com Marco Carvalho e Paulo Martinho, passeio noturno, jogos tradicionais, bike show, espetáculos de animação e a tradicional bênção dos motociclistas. Entre as novidades desta edição destaca-se ainda o sorteio de uma vespa. Rui Santos refere ainda que estão disponíveis bilhetes diários para visitantes e reforça o apelo à moderação e à condução defensiva, \"porque a concentração só termina quando o último motociclista chega a casa em segurança\". O encerramento acontece no domingo, às 10 e 30, com a Bênção dos Capacetes, em memória do Padre José Fernando, seguida da entrega de lembranças aos motoclubes presentes e do final oficial da concentração. Tags relacionadas: Covilhã Concentração de motas Concertos Motas Música Serra da Estrela",
+        "keywords": [
+            {
+                "keyword": "começou 26 termina domingo",
+                "score": 0.6436
+            },
+            {
+                "keyword": "encontro invernal abre calendário",
+                "score": 0.6423
+            },
+            {
+                "keyword": "acontece domingo 10 30",
+                "score": 0.627
+            },
+            {
+                "keyword": "evento marco incontornável calendário",
+                "score": 0.6188
+            },
+            {
+                "keyword": "neve rui santos vez",
+                "score": 0.6114
+            },
+            {
+                "keyword": "calendário nacional concentrações motard",
+                "score": 0.606
+            },
+            {
+                "keyword": "encontro invernal abre",
+                "score": 0.5979
+            },
+            {
+                "keyword": "evento marco",
+                "score": 0.5886
+            },
+            {
+                "keyword": "sábado depois virgílio faleiro",
+                "score": 0.5865
+            },
+            {
+                "keyword": "26 termina domingo zona",
+                "score": 0.5724
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUZWNnZrV09oZVRIQ3VkTVhMZjJtRThnMzhDWktxSUtuZVY1dkNvOEwtenVZd1o2dGk5V0ZjdGxZdEJXWmFxd1Y0M3pWRS04clNrMF9nNmFsS0RxRFZtT0ZGSmswTGVmMjlwSTNmZUNMLW8tY3FRcHJISnB1cXZsOWJySW9WdmxuNUhEZlRwLUVfRFhyaHhEdVZiTzVnY3hLbVM3MzMyVGVqb3B2MmUxSA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 14:05:18 GMT",
+        "title_clean": "COVILHÃ: Biblioteca Municipal ultrapassa 57 mil entradas num ano",
+        "clean_text": "COVILHÃ: Biblioteca Municipal ultrapassa 57 mil entradas num ano. Um total de 57.944 entradas, quase 14 mil empréstimos domiciliários, mais de 10 mil participantes em atividades de promoção da leitura e 689 novos leitores. Estes são alguns dos números que ilustram a vitalidade da Biblioteca Municipal da Covilhã nos últimos 365 dias e que assinalam os 109 anos de leitura pública na Covilhã, uma história iniciada em 1917 e que continua a afirmar a biblioteca como um dos principais espaços de cultura, educação não formal, conhecimento e cidadania do concelho. Ao longo do último ano, este espaço consolidou o seu papel como equipamento cultural de referência, tendo registado um crescimento na procura, com 57.944 entradas, ou seja, mais 3.909 entradas do que as 54.035 do ano transato. Os dados revelam uma instituição viva e próxima da comunidade: registaram-se 13.894 empréstimos domiciliários, 327 sessões de mediação da leitura, que envolveram 10.372 participantes, 76 oficinas criativas, frequentadas por 2.915 pessoas, além de 22 exposições, 16 ações de formação e dezenas de iniciativas dirigidas a públicos de todas as idades. A biblioteca reforçou igualmente a sua missão enquanto espaço de inclusão digital e apoio à comunidade, contabilizando 4.710 utilizações de computadores e internet e mais de uma centena de atendimentos de apoio ao cidadão em matérias como serviços digitais da Administração Pública. Entre os momentos mais marcantes do último ano destacou-se a primeira edição da TRAMA - Semana de Literatura e Design, um projeto inovador que cruzou literatura, design e inclusão, envolvendo escolas, famílias, autores, ilustradores e a comunidade em geral. Ao lado de iniciativas já consolidadas, como Oficinas C3D, Leituras Nómadas, Novelo de Histórias, Trocado por Miúdos, Estar a Par ou Mãos no Debuxo, a TRAMA confirmou a capacidade da Biblioteca para inovar e chegar a novos públicos. Além disso, no próximo dia 23 de julho, assinala-se 109.º aniversário da Biblioteca Municipal da Covilhã, com um programa inspirado na ancestral arte de contar histórias, lembrando que muito antes dos livros impressos, foi a palavra narrada que preservou a memória, e o conhecimento. Uma homenagem à leitura pública e ao poder intemporal da(s) História(s). As iniciativas têm início às 19h, com \"Mil e Uma Noites\", um espetáculo do UMCOLETIVO que, através do teatro radiofónico, dá voz à obra de mulheres covilhanenses do século XX, inspirando-se na figura de Xerazade para evocar a força das histórias e da criação literária no feminino. Pelas 21h, terá lugar \"Histórias, Jogos e Objetos Mágicos de Xerazade\", uma proposta especialmente dirigida às famílias com crianças. Inspirada no universo das Mil e Uma Noites, a atividade convida os participantes a embarcar numa viagem de histórias, magia e personagens inesquecíveis, assinalando os 109 anos da Biblioteca com uma noite de imaginação e descoberta. As comemorações incluem ainda a exposição \"Os Meus Escritores\", de António Ervedeiro, composta por um conjunto de telas em aguarela que homenageiam alguns dos mais ilustres escritores da literatura portuguesa, estabelecendo um diálogo entre a criação artística e o património literário nacional e sessão \"Livros Sentidos\": contos e descobertas para bebes. Celebrar 109 anos de leitura pública na Covilhã é celebrar uma instituição que soube evoluir sem perder a sua missão essencial: garantir o acesso democrático ao conhecimento, promover o pensamento crítico e criar oportunidades de encontro entre pessoas, livros e ideias. Mais do que uma biblioteca, a Biblioteca Municipal da Covilhã continua a afirmar se como um espaço de cultura, inovação, inclusão e participação cívica, demonstrando que, 109 anos depois, a leitura pública permanece um dos pilares fundamentais do desenvolvimento da comunidade.",
+        "keywords": [
+            {
+                "keyword": "públicos todas idades biblioteca",
+                "score": 0.7567
+            },
+            {
+                "keyword": "idades biblioteca reforçou",
+                "score": 0.747
+            },
+            {
+                "keyword": "biblioteca municipal ultrapassa 57",
+                "score": 0.7423
+            },
+            {
+                "keyword": "109 aniversário biblioteca municipal",
+                "score": 0.7396
+            },
+            {
+                "keyword": "idades biblioteca",
+                "score": 0.737
+            },
+            {
+                "keyword": "todas idades biblioteca reforçou",
+                "score": 0.7228
+            },
+            {
+                "keyword": "biblioteca municipal ultrapassa",
+                "score": 0.7227
+            },
+            {
+                "keyword": "todas idades biblioteca",
+                "score": 0.7212
+            },
+            {
+                "keyword": "ilustram vitalidade biblioteca municipal",
+                "score": 0.7112
+            },
+            {
+                "keyword": "aniversário biblioteca municipal",
+                "score": 0.7087
+            }
+        ],
+        "source_name": "SAPO"
     }
 ]

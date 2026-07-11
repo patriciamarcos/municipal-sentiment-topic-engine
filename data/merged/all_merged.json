@@ -328940,5 +328940,808 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3UyOHNmaHZzbFJzOENTLTJTQ09nN3lLOUdFaC0zSk83NXB1aVpjUDBoV0JGYVFWMWlkdFFOWU8wT3lTOUg0bWNSSE1aSWt3Zm5Nal9HaVp2NHFwTHJwQ0w2LVdfLTdqQ3BuMVpQWG94SVloSGg2cmhLUVV4UVl5anBB?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 08:55:00 GMT",
+        "title": "Biblioteca com mais de 57 mil entradas num ano - Noticias da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1276,
+        "negative": 0.2271,
+        "neutral": 0.4183,
+        "positive": 0.3546,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9913,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9913,
+            "FRUSTRATION": 0.0072,
+            "JOY": 0.0058,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0054,
+            "SURPRISE": 0.0049,
+            "ANGER": 0.0047,
+            "DISGUST": 0.0029,
+            "LOVE": 0.0022,
+            "GRATITUDE": 0.0016,
+            "FEAR": 0.0013
+        },
+        "keywords": [
+            {
+                "keyword": "mil entradas biblioteca municipal",
+                "score": 0.8108
+            },
+            {
+                "keyword": "mil entradas biblioteca",
+                "score": 0.7215
+            },
+            {
+                "keyword": "109 aniversário biblioteca municipal",
+                "score": 0.7207
+            },
+            {
+                "keyword": "entradas biblioteca municipal",
+                "score": 0.6892
+            },
+            {
+                "keyword": "aniversário biblioteca municipal",
+                "score": 0.6813
+            },
+            {
+                "keyword": "57 mil entradas biblioteca",
+                "score": 0.6803
+            },
+            {
+                "keyword": "ilustram vitalidade biblioteca municipal",
+                "score": 0.6772
+            },
+            {
+                "keyword": "biblioteca municipal",
+                "score": 0.6746
+            },
+            {
+                "keyword": "vitalidade biblioteca municipal",
+                "score": 0.6669
+            },
+            {
+                "keyword": "biblioteca 57 mil",
+                "score": 0.6339
+            }
+        ],
+        "source_name": "Noticias da Covilhã",
+        "entities": [
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Administração Pública",
+                "label": "ORG"
+            },
+            {
+                "text": "Xerazade",
+                "label": "PER"
+            },
+            {
+                "text": "António Ervedeiro",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmVIOWdjWHhRY24xRUh5Ui1jdTJITXhLNWY4NlI2NFNOTXhRRG1CNjB0WFBXb0gweE12TDNkU3h5aG1JTmZXR09vTWZQc18tLThVNzFnVlBSODMtczBRR2JJUVJ5MXVsemhVNk9lT2Ryd21EN3J1UEYycVIwbnpuamo4WkUxaVcxRXM3NHA3OXJqMWhUenRGYXR4cGIzSEx3Y2tGNnEzSQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:08:00 GMT",
+        "title": "Concentração motard dos Lobos da Neve “aquece o inverno na Beira Interior” - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0615,
+        "negative": 0.2811,
+        "neutral": 0.4993,
+        "positive": 0.2196,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9925,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9925,
+            "JOY": 0.0105,
+            "SADNESS": 0.0047,
+            "FRUSTRATION": 0.0043,
+            "ANGER": 0.0043,
+            "GRATITUDE": 0.0043,
+            "CONTEMPT": 0.0038,
+            "DISGUST": 0.0036,
+            "LOVE": 0.0026,
+            "SURPRISE": 0.002,
+            "FEAR": 0.0019
+        },
+        "keywords": [
+            {
+                "keyword": "começou 26 termina domingo",
+                "score": 0.6436
+            },
+            {
+                "keyword": "encontro invernal abre calendário",
+                "score": 0.6423
+            },
+            {
+                "keyword": "acontece domingo 10 30",
+                "score": 0.627
+            },
+            {
+                "keyword": "evento marco incontornável calendário",
+                "score": 0.6188
+            },
+            {
+                "keyword": "neve rui santos vez",
+                "score": 0.6114
+            },
+            {
+                "keyword": "calendário nacional concentrações motard",
+                "score": 0.606
+            },
+            {
+                "keyword": "encontro invernal abre",
+                "score": 0.5979
+            },
+            {
+                "keyword": "evento marco",
+                "score": 0.5886
+            },
+            {
+                "keyword": "sábado depois virgílio faleiro",
+                "score": 0.5865
+            },
+            {
+                "keyword": "26 termina domingo zona",
+                "score": 0.5724
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte Pedrinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque de Campismo do Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Federação de Motociclismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Rio Zêzere",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Portuguesa de Pais e Amigos do Cidadão Deficiente Mental",
+                "label": "ORG"
+            },
+            {
+                "text": "APPACDM",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Secundária Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Moto Clube da Covilhã Lobos da Neve",
+                "label": "ORG"
+            },
+            {
+                "text": "Rui Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Martinho",
+                "label": "PER"
+            },
+            {
+                "text": "Padre José Fernando",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUZWNnZrV09oZVRIQ3VkTVhMZjJtRThnMzhDWktxSUtuZVY1dkNvOEwtenVZd1o2dGk5V0ZjdGxZdEJXWmFxd1Y0M3pWRS04clNrMF9nNmFsS0RxRFZtT0ZGSmswTGVmMjlwSTNmZUNMLW8tY3FRcHJISnB1cXZsOWJySW9WdmxuNUhEZlRwLUVfRFhyaHhEdVZiTzVnY3hLbVM3MzMyVGVqb3B2MmUxSA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 14:05:18 GMT",
+        "title": "COVILHÃ: Biblioteca Municipal ultrapassa 57 mil entradas num ano - SAPO",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.1965,
+        "negative": 0.2083,
+        "neutral": 0.3869,
+        "positive": 0.4048,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9914,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9914,
+            "FRUSTRATION": 0.0079,
+            "SURPRISE": 0.0069,
+            "CONTEMPT": 0.0062,
+            "JOY": 0.006,
+            "SADNESS": 0.0051,
+            "ANGER": 0.0038,
+            "DISGUST": 0.0028,
+            "LOVE": 0.0024,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0013
+        },
+        "keywords": [
+            {
+                "keyword": "públicos todas idades biblioteca",
+                "score": 0.7567
+            },
+            {
+                "keyword": "idades biblioteca reforçou",
+                "score": 0.747
+            },
+            {
+                "keyword": "biblioteca municipal ultrapassa 57",
+                "score": 0.7423
+            },
+            {
+                "keyword": "109 aniversário biblioteca municipal",
+                "score": 0.7396
+            },
+            {
+                "keyword": "idades biblioteca",
+                "score": 0.737
+            },
+            {
+                "keyword": "todas idades biblioteca reforçou",
+                "score": 0.7228
+            },
+            {
+                "keyword": "biblioteca municipal ultrapassa",
+                "score": 0.7227
+            },
+            {
+                "keyword": "todas idades biblioteca",
+                "score": 0.7212
+            },
+            {
+                "keyword": "ilustram vitalidade biblioteca municipal",
+                "score": 0.7112
+            },
+            {
+                "keyword": "aniversário biblioteca municipal",
+                "score": 0.7087
+            }
+        ],
+        "source_name": "SAPO",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Administração Pública",
+                "label": "ORG"
+            },
+            {
+                "text": "TRAMA",
+                "label": "ORG"
+            },
+            {
+                "text": "Xerazade",
+                "label": "PER"
+            },
+            {
+                "text": "António Ervedeiro",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]
