@@ -115949,6 +115949,386 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVNUUkpzMTNJYU16akRXd3RxaWxhMC1lS0Z5WkNraUF0R2NBSEZqRHM4VjhVWlg3MllCbkpYSGxFY1k5dUEzZXFlYnBGVFJBU1oyWjY5RWlfcXBpZ1gyamU4TnU4ejNUOXFvVmJ4WlBZY2gwMUZCZTM5UTF2SjV5ZU1vQ3h1ekJUam1oc2d3SEtFYU40TTkwTllWdmQ4VTFtVmZXaV8ySXgwMnQ0Q0NKdnBvajM3X1NBbjJFaVB4akI2WDB2S09aQlVIRF9saDh00gGuAUFVX3lxTE9CTW8wWFdTSk9SM2lRLWNVek1aLWFJVHJoWnNzNzVpRjZ6NlN1M3BhS0ZVRWNNLS05S0YtdmJfeWJfMlE0TEF5cHdRQi1GUlZMUFFOQmdUYW1ydDVJOGdGVThGMHFnR1N5Q291a3AyV3FkXzBFQVhfejVieEVheUhTNFRteGMyTzQ1dnNXRW5SRHh6V0JKNHdWZV95ck9tREFMVF9HRTFKRHh4eVdsQQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 16:11:13 GMT",
+        "title_clean": "Duarte Carreira é reforço do Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Ordino",
+                "label": "ORG"
+            },
+            {
+                "text": "Andorra",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica Castelo Branco",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1k0c3dkUkczR2g1WmRkdjlVRC1mb2pXQnFRSHMtdHBIYk1sbDQ2Qi1lTl9Fckg2NHhSSFlQekI5WkZOekg0ZDdPQmNJbDRMLXFVUVFxcE5WanFaYm1EbHcxQnQtNU04M1c5czFQOWFQb3RBZXJ6eDJhamV4SGlzNmtrVkxFbkQxV3pmaHNLQ1VPWjNId3picmx6cER3UEcxNjFEM1laYXJYV2plYWFGOWozWHlJc0todzhMVl91Y3E1SERsM0thTGtlNTXSAccBQVVfeXFMTmptYmZ5UzFYNWllU1BGMWFIWXA0UlVsYzN6UEg4dWs1T01IX2dONGpQTHcxdHVwdTI2eGxJN1NHUk5HNWE0MWRNVkJDTTFkTVczUjRCNGRRelo4cVZDUWtHdHlqMTZBS3lMV0NZR2NNVzhvbV9mTzhtbjdfYjVRRF80b2RuZlVCTjRjU1RvM0FxSnNfMDNHMHlVQ1dveXpzQ1I2QnR4Y2RkX0RqM0J6YlhqMDFTdS13aERzY3dhTlFWQWRQR3pqbw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Académico Viseu goleia no primeiro ensaio da pré-época - Record",
+        "entities": [
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Académico Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio do Fontelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Sul de Espanha",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGJ4dnJSMGJlOVZTYkV4aFUxcTE4X0c1QjFBU05wX0p6MmJhWWg5QUE1ZFNNWjVEWlhkbXE2LWNvLVN0bzhqZW1aX19YQnAzUDZfVW44TUo2Qi1XemkyOFBFeVBWWWRzWE45Ukk3MEpsTjBjeFFPenVWZTBfNFE3eEZIOWdIcmJIRGl6Y3g0bHRSdWp1cUppLWtKWjdDQ2x1S3Qyc3F30gGmAUFVX3lxTE54Ynh2clIwYmU5VlNiRXhoVTFxMThfRzVCMUFTTnBfSnoyYmFZaDlBQTVkU01aNURaWGRtcTYtY28tU3RvOGplbVpfX1hCcDNQNl9VbjhNSjZCLVd6aTI4UEV5UFZZZHNYTjlSSTcwSmxOMGN4UU96dVZlMF80UTd4Rkg5Z0hyYkhEaXpjeDRsdFJ1anVxSmkta0paN0NDbHVLdDJzcXc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 13:41:31 GMT",
+        "title_clean": "Mohamed Konaté troca Sp. Covilhã pelo Atlético - Record",
+        "entities": [
+            {
+                "text": "Mohamed Konaté",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético - Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Vilarinho",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveira",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMib0FVX3lxTE9USTJFV3VEcllfQ0Z3WmJiN1Bhak9WVWNGVld4bTJwR282NnhZYkFiSGRqc1VscV9tLVdfSG0yMHJrMDc4bFZYSm5xS1M1NFBra1VOYWhRUFF1dGstY2NTRExKSEFUazk4NDZGbGc1VQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 08:46:00 GMT",
+        "title_clean": "Festival da Melancia no Ladoeiro",
+        "entities": [
+            {
+                "text": "União Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculdade do Ladoeiro",
+                "label": "ORG"
+            },
+            {
+                "text": "Bardo da Gardunha",
+                "label": "ORG"
+            },
+            {
+                "text": "Mike Sebastian",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo",
+                "label": "PER"
+            },
+            {
+                "text": "Marco",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo de Cantares de Pedrógão de São Pedro",
+                "label": "ORG"
+            },
+            {
+                "text": "DJ Sheikh",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara de Idanha-a-Nova",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxOcW41NVRtRndFMVpUUGxRZ3BlaTI4b3Q3VUw5VTE3eERWZ0ZvZ3hkMmZ2OWUyeUo1bjIzZ2xaa3BqeG9kd2FRN1NiYk9BRHZ4UF8tT0xwbnRsVzg2MThCWWhNd1pzblFqdUphd1VzcDFJUVZ5Z2VqYkVBS1QtRHdMWkpDZHM2RUI5Q2N0X1gweTJRbmhsaUM3d2NraFBlSkJjcDg2Ylc2VU5rME42RFpqUFVVZE0?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 13:30:00 GMT",
+        "title_clean": "Académico de Viseu goleia Sporting da Covilhã por 5-0 em jogo de preparação - Diário de Viseu",
+        "entities": [
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio da Luz",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnhaeHJaX25UT0tkSzdZa3FLVFdKQ1hFd2MzSDdMNDFYd2pLVmtMWlhXTkhOQTV2S3V5VmpBT3d0TUE1bkhpeG9MZGFQRTlaQ1Vna1YteWp2Tzg1VWw2aThTWnhDRWNFcWE4dnd3eFJ4YktzVVlONmpsNlJRWTJnMDBVRm9zeVdRTml4V2VVak54Y3FrWEJXb0pjZUFiaUFWVHFLSkNVeDhFZmJoaFF0TUdIam1rdjJLeEh0RnVQTk0?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 13:52:34 GMT",
+        "title_clean": "COVILHÃ: Festival do Pastel de Molho regressa ao Jardim das Artes até sábado",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Confraria da Pastinaca",
+                "label": "ORG"
+            },
+            {
+                "text": "Pastel de Molho",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Atividades de Tempos Livre",
+                "label": "ORG"
+            },
+            {
+                "text": "Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Adufeiras do Paul",
+                "label": "LOC"
+            },
+            {
+                "text": "Maria Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2VFMXdHLVRLb3NEZFpQWUdqUDg2azVTeERfLU81b3BIUUstX0t3YU1Vc1BCRXdaVTIteXBLUF9nUjMyUzJwY0hfVm9YcDJDUHRhUVpoYVpjMEd5cUtRSXU3Um51dFpDaWVvTzZQM29McDhZYkF4cEVkOE01RnJuNDVGaEhjbTNmQlA4MGlIbVdOakhFaHo5Z1ZEd0t2Y3NIY2VFNXQxelhtSjF6UWNHeTdR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 14:40:40 GMT",
+        "title_clean": "FUTEBOL: ACADÉMICO DE VISEU GOLEIA SPORTING DA COVILHÃ NO PRIMEIRO TESTE DA PRÉ-ÉPOCA - Estação Diária, Viseu",
+        "entities": [
+            {
+                "text": "SPORTING DA COVILHÃ",
+                "label": "ORG"
+            },
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio do Fontelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Messe",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Estação Diária",
+                "label": "ORG"
+            },
+            {
+                "text": "ED Jornal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXkxSFRRMF90ODV2bldHekRmZ05LMDZacU1XRU5NOU5leVVDQTlrQ0NkUDF4ellORlRYVjVpSXp4RHdOcEpJSnNELVd3cVVDM3o2SjRMbmgtQkJGMHJwRXNxWjItVkV0THpUVXo5Rm1ZQXBUdHpITmg2dUJpd2ZLc0VVZVhlMlh0bVE4LTVtam1WNG9IQmZmSXlkcjVITFhHeGZyc3FqSFZ4b1p2bjRlQ2ZsQ3FoYVFXUUhsNkVjaVBqZm1yMWtXOXBVOWRKTDFWb1E?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 12:59:09 GMT",
+        "title_clean": "Futebol: Académico de Viseu goleia Sporting da Covilhã no primeiro teste da pré-época",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio do Fontelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Estação Diária",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
