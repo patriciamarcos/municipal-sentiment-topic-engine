@@ -314953,9 +314953,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.44177703031067683,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPR2xjclJXSnU1M1k3XzVvMHV0dGItb0dVVnM5ck9tRk1mRHh2ZTdFZmoycjFtYmlvSFhIMS03SWdRX2UwT2pxOGVKRXB1bDFiclJzaUtVLWc1QXpqeWhfdHp2YTJaTWg4ZFZ3VGhLd2Vya1I2WmYwMDJ3LTMxNkV2bmp3Vi1NTXJDTFZTcjZsaGdGS1F5M0lXOF9UZURNMWNPb1FUZ0lDNk5vLXF5dndyZXEtTEdiaDJmTV9tbU1jZEprYVFKdmVicTlUa0dhX3hTVnZpaUZsTHdHREMwbXhSeVJZRnBmRjY1bmRhSnRpWnhfNmRUOVZGaDZYN2hIMTZYSEJ5bkFVMFR3ZTYtWUdzWUhSa3I?oc=5",
@@ -315040,9 +315051,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8630563851047673,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
@@ -315623,9 +315645,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.7844710533424002,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQzNCbHNRTW5LZG9yLTI4WHoteWZJZ1FnamZkdV9DZ2poM1Q3MDhHYy1YU0lSSFlPWF9CZFgwcGpaUGF5bG9OaDZUdF9YNEh1RWdUaHV0QmhOVUlLZ0pjN01DMHRDZTVwODJsMkJHejYyNl84Q284?oc=5",
@@ -315757,9 +315790,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.774971396141993,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3hJWmxuZFB0enB5UWMxdjlNZkVhN0RmYmUzcjgxYko1d2p6cmhRT0U2T3A3SUp5ckFNVi1RdXRVWG9QUWNDQTdaMGJJaGc5SnZiOFlCOU0tMGlmbWZBR1FoaWRtQjBRdE1jaWhycFdUUzlWQXJYTGJJejNSTGQtV0ZUNDVoMUNyWVE3dElQZVJWM1FjSFFnaUxfcmVINGtteHNkNU52cGs0UFhMSTJnV0NrQnhteUE1SE9FTjg4Y0dDcEJSc0g4aXdn?oc=5",
@@ -315867,9 +315911,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ySUt5OE13Nldpbm1mcDNLNExMNkpkT29lal90SS1TX1NoejRoaTl0NDFiSWNLQmZRRWprWVV6d29Xam9fd1dnRmFHRHcyVTltWGRoS1MydmRVWWFKTWluN0t2VjNBODVRM2Iw?oc=5",
@@ -315973,9 +316028,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xZ3hFQ2FPOFJnZ3Y2WGFvSmgzZGgxa2hUVVRxTFZteGFiSE5QTzR3bG93TVhtTUQzY08tWElXWGpKZW9BYlNRbWFZYVBhWjd1eFl5RU5kbnB1dWJzOTRHaEtWQTB5S01uOFVVdVZKYTBHNmEwVGo5TUNxVFA?oc=5",
@@ -316235,9 +316301,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.4423408676390021,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZmpoMUhOd2ZGUUw1X1FxT0NxeWRnZER6dU5Rcmx1bmhrOTlvcXEyTTItSTZ6cU9KbHI5YzE2TjdiaEhIS2xxSWpDTFdsMEREdjJYbXdoZHVtbEdIbzN2bzRjR0JUbXdtSEE?oc=5",
@@ -316337,9 +316414,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUl9mbmpONThfN0YzaGl3RjdCSXZnOEY3VnN4TXl6WENRYW83bWFlZ2t4a244bV9lRS15eWd3Vmx1R21CYzYtN3ROZXhMU2R2bnR1MXpJLTRXclZtYjJ1ZUdzTE11dVRlclgwR3J0WmduNEhnR0hCWnR0OVhSS0lqdi1CR3hUektHcWNETHBpNm16VDRKMlE?oc=5",
@@ -316483,9 +316571,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.4585876298148046,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclJRdEVoZjVWX0NDaTVyRDdTc0UwaU4wSE15Wk5heWxDZU5naE51dGhYdHNEbXpGZllvczJibFFDdEVrSXRqRHdSaVBuSzFocE4xeHJpcklmaDE4azZvSDZRRFNyeUp3YzIydnNOeEI5NmxzbHMyWkkyWW82MENiUWpRNHdCLVhBcF9sRXVheU9kQ3FSd3FHTnR2THc3NDk4V3YtWGE2RzdCYm9wTzJDM042eHQ?oc=5",
@@ -316589,9 +316688,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXZEN241WnNqMnFvRFl0VDhlOV96YUlCcldsMVo3Yzh5Z29UUHVySGh0SjNDYk05NjMtVHA0RzV1Z0gyWnFjd1VLUjdtM2lJNjRCUVJmbEpudXpRQjJQdEg4dzJhLW9NTTFRaDBZaGlyYl9taklndUdFX1doRm1vV2JqTTQzY2VsdHB2S1RnRnNDSi05d3pyc3padVk2akFtNndJSkVuRQ?oc=5",
@@ -316719,9 +316829,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3V0OTBDREtEOTNvT3pPcTd0WUNrS3E3OWRPZldxMENRbTdJclBQWkI1T3ptVHFDdS1yWW5lWmowWUZjWGpUOTFXRnpFQ1hnQl90YWl2Ujg3M2hKdW5QVk5UYkdvTTlnMDQ4eHcyQ1ViQ1ZYYU81T0QtU004VzNhTEN0U01xNm1zV21yM2Q2alBZSFNLcmxnSXBHUXk3NWFzU2s4Tnp3VnA4SzR4MVNQUHJmQQ?oc=5",
@@ -316837,9 +316958,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlRoY2VZY3IzVUhvUWhvOGM2aFZFbjQ1UDVlVTVXakVkRUw2Zkl4LU9kT0xoUGdmTk1xTFk2Z3IzOW1YcnFvRFh4VV81cEFScjdVWG5aTjZqNEs4ZEwtY01HLUhaX1pHMWtlLXF2M1dNVHYyaW54V3RzaGlyUXZWUTZzeDBPSWpBdEh5ZlVjN0k4QVVsZkdkeGhOUW9talVNY2RMZmZtMkM0Uy1mMThYYk1fd0s3ZUVaeHMwekF1V0g?oc=5",
@@ -316919,9 +317051,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.633377125168231,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWtIWXRFMzFkLW9LUmd1T0tGSFVFS1BEckxyVW5uc2laa2RfVkRIeVhhV2UzNmxybi05dFAtRy1kV3JZSExWVmxKSW90VjB2MjJZWDFTV3VoWDJTWlJHTzNWX2EtSWFMZENLaGpxWUNnbENIRFl2MXdXeUV3a09OY1kyZUlGTms?oc=5",
@@ -317021,9 +317164,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUDJ5bnBhamdmdkNfLVJLcTZ4UXJYd2ZZU2txaEtfVUpheExUbDZmal9Ja2hxUDdEQzZ4eXZvQlJCV2tjWHB3Tzl6NlRINjhyRVRodFJjTHhRb3AxV012RDVxMEhVb1lwckVPMnRDbURscV9DajNZczgxV0lLZEd4ZFIyNUk5Y29wdmlSZzd5S1dlRmVZb05jOFdhX2Vmb1k5Zk5raGxFTUFOMF9IMWJaREhrMGJoSTdXZGd6bzA1NHc5eTNNZDh4QWxUam1NZERzNnFqQk5QTG1vNlnSAdsBQVVfeXFMUFAyeW5wYWpnZnZDXy1SS3E2eFFyWHdmWVNrcWhLX1VKYXhMVGw2ZmpfSWtocVA3REM2eHl2b0JSQldrY1hwd085ejZUSDY4ckVUaHRSY0x4UW9wMVdNdkQ1cTBIVW9ZcHJFTzJ0Q21EbHFfQ2ozWXM4MVdJS2RHeGRSMjVJOWNvcHZpUmc3eUtXZUZlWW9OYzhXYV9lZm9ZOWZOa2hsRU1BTjBfSDFiWkRIazBiaEk3V2Rnem8wNTR3OXkzTWQ4eEFsVGptTWREczZxakJOUExtbzZZ?oc=5",
@@ -317127,9 +317281,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.6936065417804922,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3l0ZXp5NUk2RGE5WWs2dkRjT2IxazlUWUdxZ0xsdkx6cUNsR3NoN2g1QjUyWDEwcFc4NGRVbmVuRDRYb3FxUzNQcEVDNGQ5WkhkZmdkWUNmcFNEdjV3ak4zQjdFRUFqY0dtbWFxbjBaNXhTWDRmQWppc21jbnFWQ25zSGFfSUVPVzFUbDd6bWd2dXQxbzJuTmhHM3FUNXZsWFY2OXVIXzZkSmt3bmJpSHpxaGtUVVlrZnZkSVJXMlFzVlZ6QVo1aGRwSzRtZTJk?oc=5",
@@ -317233,9 +317398,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWR2STRacTF5WHhibGs1d1FCNmZCdUZTTy1acEZydXJleXl0OFlVSldmUXNRRGFRbEp3dXVIaGZjYlBQOFZNbTMtQXVhNEZGaWlMamdvYktMVy1KdkwxS003QmpSMXJER0RsYUlDSnkxQkhBMjlobW5ZR25Cbk50dEthM3A1Zjg5ekFyQjlPbjN6NnNsTTFRYmdfWHNnRzh1WXpqT2hHLXVnSkxPNjlMQWk4dVI3R0YycmhndWRTQklVdw?oc=5",
@@ -317331,9 +317507,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlYwQV9Qd2ZfX0FHdzNqQVZ5djBtT3VERTNLQTdLbnBGUllycFN6QVJOYVFjWTRHREZsd0phcTJvcmxjeC03Nk9MNTV4TE5yZG5yX3YwOUZITUpsQ085bG0waE9kd09JREY3Nkk5MlBWS0RaQ3pDVlVNS0FwdjNZQmd6blZ6WWdyM0V4aVgtV0dtR2UyX3dSUTA4Q003eVlZSTJuZUl6aGNBWEhoMmNhVjAtOVJteWtnUTZ6SA?oc=5",
@@ -317461,9 +317648,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0RQUHlFdWdoR2dkcXZZMk9FNEFNYkNNQlYtWHEzRl9kdHZMeS00X0x2UmdDVEtQQVhGSE5IeWpNaXJmem84V0k5M3dHTnN1NnlpcTg5ZXNPUGpmLTlabzNsdnI4eEdyNWZmVGxCYkpQcWpGNmVkUTdRWEs1dF9hVTdTZU1fclBUbkpPZ0tCR0czTlR2bGM2am9VckNVYUtBandzd25hMmM4dVNxcjJhWmFvMmtISHh6T29XU3pSb2dJRGNpV0lMa3pqUFJaY2hxclFRRTFDME9HekhiRmJSS3h3ZEE?oc=5",
@@ -317559,9 +317757,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDlGQ0YzeS1vMmtZMG9Ja1lPckpLR3ExT0ItcUxtaHdnbVNjZTllSXN6MmRyM1NoY1NxU21vVl9SMWxjeGU3NktyVDZGRUNYSnc0MFNrRzRQdURmX2ktTXMtNVBBU1Y1RnlUeUEwSDNsUjF0a0tnemtCU1FkSUZOYm55ZlMzancwMXM0anl4U1M0dmxRWXRud3dXc0p5UXZvS2FsWmhFUVpkLWNaMEdHMnFhRXA5R3luWWZNbmozXzVIOFZpZWE0?oc=5",
@@ -317657,9 +317866,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUkxZkxhNkU0Ql91SnVIM05OMWJtd2R0UlJFOW0ya1N0TVVYbW9zcVpoUElYa3dULWVkcTBVeno3SDhSbHE2TUtGMDVWZWUwUG4xN3hnRVREUmJZUURjUVJNLWVUaEFtMVBxU0FsazhNZzJnMVo4TzZZSk9NazV2aGdRYjgtZHo4UFZ0b041T2JqWmhy?oc=5",
@@ -317775,9 +317995,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.4393205706218365,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0NUUmxDSXJMUVBVQUhqajluTkNxUmx5UmJrQmNOTG1xeEJidTJkTkd5SWRQcnVHcVVjVDVkUE9DUFN4Ml9sWTVXWFZlQ3BBMFRwWTB2eHdlT2ptTlV1cmpCMk1oT0lnMlBmY2FrWXYteXZvSVRiQk5JMEFvSVRUb1ZkMHpDQQ?oc=5",
@@ -317913,9 +318144,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.4625963737215245,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpjyucqe2m2n",
@@ -317993,9 +318235,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8197359327304381,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3mpjytxxwei23",
@@ -318073,9 +318326,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8130455997976654,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnwdszmevi2p",
@@ -318142,9 +318406,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mnuz6cim2s2o",
@@ -318216,9 +318491,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnuls5eig22k",
@@ -318285,9 +318571,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnu5gkzcgn2x",
@@ -318354,9 +318651,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mnd7tifkwx2r",
@@ -318428,9 +318736,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8197626568771924,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mmbive3evs23",
@@ -318497,9 +318816,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mm7vdzl2l22v",
@@ -318566,9 +318896,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mm7fodwlaj2u",
@@ -318640,9 +318981,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:gbdq5nlcqtgf464blewncly4/app.bsky.feed.post/3mm55ef3l7d2d",
@@ -318730,9 +319082,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.3216213614441113,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g7yfim62h",
@@ -318799,9 +319162,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g6fb3jz2y",
@@ -318868,9 +319242,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:my2sbivzj3x2ybo2kfzdhxmp/app.bsky.feed.post/3mjmywplhus2i",
@@ -318911,9 +319296,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.6251895332916526,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mjheb3lglm26",
@@ -318985,9 +319381,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.4499262335949545,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mifishjpah2u",
@@ -319059,9 +319466,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:ezecnr3gkp2bkxwphsonbvc6/app.bsky.feed.post/3mibnkevy7k2k",
@@ -319137,9 +319555,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.4365877501905603,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mi6zjxgkr22k",
@@ -319208,9 +319637,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:2oqbhwsbpnaznj4zopvebvne/app.bsky.feed.post/3mhs746h3ra22",
@@ -319277,9 +319717,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mhrqelnvla2x",
@@ -319346,9 +319797,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:ufw5v3n73rlt7e6aaknytv6u/app.bsky.feed.post/3mhgjwpyhdm2z",
@@ -319420,9 +319882,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.4247923368050844,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mhekuff5542p",
@@ -319502,9 +319975,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.5627147741666692,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:mxxlsu336u23css7ooyojuyt/app.bsky.feed.post/3mh75u3khmk2i",
@@ -319588,9 +320072,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mgv6bomor62n",
@@ -319658,9 +320153,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:u4n47crrdz3pbhu47plhkh7r/app.bsky.feed.post/3mfu4nmrttc2q",
@@ -319728,9 +320234,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfsm3oc2z",
@@ -319806,9 +320323,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8174420561232811,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfrmykk2z",
@@ -319888,9 +320416,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8489761375282658,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mfhna7vage26",
@@ -319962,9 +320501,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 2,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "recebeu",
+            "guarda",
+            "sido",
+            "apoiar",
+            "nacional",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "platform_id": "at://did:plc:23w52iqqcuqagkq75nponvvd/app.bsky.feed.post/3meeyb4dywfc2",
@@ -320036,9 +320586,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8334839629306094,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:uhmdm7z56l2ouh5w45sbshji/app.bsky.feed.post/3mebcqhlbc227",
@@ -320097,9 +320658,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.7066552257205551,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:kaw4dwcvhf6s66zt7qqx6daq/app.bsky.feed.post/3mdphb7jwvk25",
@@ -320167,9 +320739,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:655kmv4jfmsovnrjxpdx53y4/app.bsky.feed.post/3mdcu62nnck25",
@@ -320245,9 +320828,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.43116063746276245,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mczrtwupqp2c",
@@ -320319,9 +320913,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mcmrv35j5t2i",
@@ -320393,9 +320998,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:7h3hrqbvfr4kkwy2ntxect6g/app.bsky.feed.post/3mcanmlgp3c2h",
@@ -320434,9 +321050,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8913310210043013,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mc4yzw5obr23",
@@ -320503,9 +321130,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mbpjt44tjw2w",
@@ -320578,9 +321216,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:jfgtrrsrzmdatednj3yzj2u5/app.bsky.feed.post/3mbbnzafqwk2u",
@@ -320664,9 +321313,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.3829551101708991,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabudbecxs2i",
@@ -320746,9 +321406,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabti2nn4z2s",
@@ -320828,9 +321499,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3maaqbkknqf2z",
@@ -320918,9 +321600,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:bgznzxixeslq3dixy4cg5ule/app.bsky.feed.post/3m6w7zgcprd2z",
@@ -321000,9 +321693,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.3864377651973588,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m6ourp2h7c2i",
@@ -321069,9 +321773,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.41457490024103477,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m5ldvik2ko2p",
@@ -321143,9 +321858,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m5dya6ntxs2v",
@@ -321212,9 +321938,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.4151924757722252,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:xxcz7qy4yqjdrvg4wkpdyrrb/app.bsky.feed.post/3m52ov6n5y222",
@@ -321281,9 +322018,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m4y2juwkfq26",
@@ -321355,9 +322103,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m4xg6ojddk2o",
@@ -321403,9 +322162,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.3941091413949673,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:5krpxaflie7kzxyvtwdns4wy/app.bsky.feed.post/3m3rv43incc2p",
@@ -321552,9 +322322,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m3a2xgyhnk2q",
@@ -321621,9 +322402,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:j4uvsnhzt425lvsi5cbwsu2d/app.bsky.feed.post/3m36a3k4feg2e",
@@ -321693,9 +322485,20 @@
         ],
         "source_name": null,
         "entities": [],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m2zmxy7m4k2m",
@@ -321773,9 +322576,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8090103948277007,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:ozf55fcugazdqj77nhhstfnu/app.bsky.feed.post/3m2uxkn65lv2q",
@@ -321851,9 +322665,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2ulamom2y2z",
@@ -321933,9 +322758,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m2twqupdxq2p",
@@ -322020,9 +322856,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3m2twqoak472s",
@@ -322107,9 +322954,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2phsgmshp2q",
@@ -322181,9 +323039,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2mubiixdj2u",
@@ -322267,9 +323136,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m25kwa4qso2z",
@@ -322345,9 +323225,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8211209363748406,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:ghdtmkgv6g7t2l6urbalhopv/app.bsky.feed.post/3lzxyqhifbm2e",
@@ -322423,9 +323314,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.8190858215028227,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:roweyd2xk6bs2mwhfk6vjzmb/app.bsky.feed.post/3lznmsfzdnk2c",
@@ -322497,9 +323399,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 0.6738861752155346,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "at://did:plc:3kyff7ud57n35r7sybltaoyo/app.bsky.feed.post/3lxu2cechjf2z",
@@ -322643,9 +323556,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
@@ -323207,9 +324131,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3RSMm1nelFjOW8xT0M4WVpraGpHYjZRbjBqRVRQelpSZmIzLU5mS1VhTUZLS2VKVkMxT3Q2RU40VGpvNExWX3dJWlhXaDNTSFpxYkZhWk5IekZCQTZYU3NZR3BGNHVMaE9FUVBPZGRNb09MLTZWTDZSQnVCY1RtQ2VoYmN5cUZPdU1VdE56RHN5cTNraG9EM1N1aE9Yemo1QjF6NmJkY0VSQXRhN0tVRDgzMURxcU0?oc=5",
@@ -323293,9 +324228,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.5214386443706768,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWpMQXJmcWphX3hTaUEwdWtRZTZOQWVtZmR1WGVPM3hsNFBXUDQ1RzBad0RHbDhiQXRYVi1YaGdNMWw0ZkZlN1JpODVacmpKcEtGd3JGa2RZdlYzWlVZeVlQVDZmNXluT3hvWkFhc09TQkwyUW11RllCT2VFZnJsc2ZkSEIybU5GSTBuWUxEUQ?oc=5",
@@ -323399,9 +324345,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.7161013295682883,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
@@ -323986,9 +324943,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.7227936569462965,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemZJWmJiTVROR3ducDdjZXB6Vm5KSTQyRFhqbFB4LVJQTjlJVnRVRzBRZXp0VFhwdjNwTGlWUmdNUWpRX0czLXBlMFo5UEw1R2tSYVpBUTdYdUFxRVFndlJKeFNoRENQalZEbDU2X2ktLUcwTnFBU21lV3pqUGd6YjNfYnJBOUpneTliRldSbWZHZ3ZiWXdBMDhKVWhQVnVvZDVVMWJvVi1jbExjWTVlSXM5NjZxU0hha2o4MWVQakFmUDFjUHdmLWM1WWNQZk9PLVRQUNIBzwFBVV95cUxPT084N2VoVjJSV0dXcHl4b2JGQzRQeFdqX2Y0SGRXd1E3QTBWcE1WZ2lNSDRPbTlneDdGejQ4TVE4SVhodV9ud0toZzd0aE9JVkw0d2FKcHRjdmctTDU3VlI1U0tvYWZfM3FJamtOVHluT0xxQ3ltSFlCZlRwckhkbG9hMHk5MWZJZzJXaEEwWFBxN2YxeEtLeURJa0ZOcElORHZxWWVxZHB2bGZCVlotTThabEhZblZid21sX0dUblZ5V1NleXF0YmdMMXJ0X1U?oc=5",
@@ -324085,9 +325053,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.8283726236980233,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQjMtOXBjanR5b0R2UkFvUU42NEdOZ2oybTFzYjhyWkpFZEhZSkhKMERsZGczeE5PcjdOaDYtRUNFT05kN1pVLWdXb3AyWjVSZGF5SFNyT2k1SHdIR0xHeFE2RWJFWjA3cHNGbU5za0xvR2lPeDRRMXEyZWJXMFRMcEZ6RDVFRjVFbnpSTTlvZXUyek1RMUgtOUNhbTNrZ3U4M1htNHRoaGZfLW16alloNlg5S0o3aVhYWUgydWV6NWNFdlo3?oc=5",
@@ -324207,9 +325186,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.26232020963785807,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ25WSG9KWkVQVnVCM3NGQ0RZdE9nYkl2NDlRY1ROSlg0UzM3bWtHQTVOUlZ5NTVxZTVnc3BueXFqbjZCZTQzODdsak1kOU83SURQbGJiUFI3V0VPZ1phMTQ4blJLU2FVZ3VQSWQxaURrZ3FZV0ZPTEF0NEtncTI5TmYtV1dSbFJSUnlnWGVhcTVfeUJtQTdTeWpBdHI1bzVsWGdGWlVTV1VrVVdLSG92UUNNb9IBrgFBVV95cUxPQk1vMFhXU0pPUjNpUS1jVXpNWi1hSVRyaFpzczc1aUY2ejZTdTNwYUtGVUVjTS0tOUtGLXZiX3liXzJRNExBeXB3UUItRlJWTFBRTkJnVGFtcnQ1SThnRlU4RjBxZ0dTeUNvdWtwMldxZF8wRUFYX3o1YnhFYXlIUzRUbXhjMk80NXZzV0VuUkR4eldCSjR3VmVfeXJPbURBTFRfR0UxSkR4eHlXbEE?oc=5",
@@ -324325,9 +325315,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcGhDYV9pV1RQNm5hRzhqTTkwb3dvdlhBVlc5Nk13T2hXMUM2VzhwQVRLZ01OUy1iTl83Zk4wWXFPMmE4RGVOUFNvNFhBTnZnUDA1MU4tbEttNFdMVXBLaXVyalplX1RpclFpQg?oc=5",
@@ -324388,9 +325389,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeG1OZWdaUmd1MmM5b2JIRnhYTF9kb2xNTXRZS2puWWhURFBLZkJ6c0xncWxZZUN4Sld5QVJGZ3VpUTRKTFducjR1ZkNJT0MtR1VGcTA1Q0pUSzVGbjNSc2ZsYUlvYUJtOUhzQTJNTm5QRko2alVZdnJlYWMtUjRseVVoa2ZMYmpVLXVBOWxiLXVZcmZfR0ZTRnZKWkJLbGI5M19nZk1RZmxfUk1qai1iUE5iMEY2UQ?oc=5",
@@ -324490,9 +325502,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.4056198108263009,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zaHdsdEZvWUdxSF9NaFhNR2xyQm54cFRHZVhGTHR6X1dSV19HTGhjc1JiN1RQQzNGU2F5blQ3WGhCWnI2WmZqNE5Mc2FVTVRwRl9JOGxyZzhPOWxYNEJiYm9La1M4T3dY?oc=5",
@@ -324576,9 +325599,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 3,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "português",
+            "feira",
+            "portugal",
+            "concelho",
+            "cada",
+            "novo",
+            "são",
+            "presença",
+            "beira",
+            "ubi"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalJpNnEzNVZJcHZFUXhvN3ZYZ2ltTnd0dHJnWGg0czdGNVVsc00yeF93X0RlSXo2cVhJMjZWSnRlc1BfZzFldERKa3lNb3I1X3E1Y05NNnFVeXhYUHdMYmFabHZZekdNYmxsV2FlTG9Lc2swTjRnSTN5YS1vT3oyWmg1VE1zUS0zX0lCbUZfQlFQR2RseV9UR0NB?oc=5",
@@ -324682,9 +325716,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVlxTnl4dkkwZDFPam9KS2tsS3hvcHNZU2lvYm9yS2ZtY3g3Q0lUOFpCQS1WSHYzTGtuODEzRldDTFVaTzFLbjVEeEtnWnFlbXhCZnNxVTZoa0hVNXBoMjBObTZUVk1TX1JtcEt0ajF1TkZ6ckFfMk45dzF1LVpENUVpSGNIUmNsa3ZrMWJMeTBycGdFeFVRMHVGdTNyV2E3TG9LaE13?oc=5",
@@ -324796,9 +325841,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.7926022003647205,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcjJBd3FzY2lpMk5FSXM4WXlBWHJuT1RVQWxCZVdTWlF4bVpkZE1tX1pHVVItOW16c1ZZeThtRHZJMUZsQjJPU05uR0haS1VISUhKM0Z0MGxkbzBrczF6M1Z3SFVVVzZOeDZyRkFzN0c4WGRMQURNbVk1WVZReUczcDRSd3htRjN4VjRFaGtHN19FVkhvQXVBSGZERVdaYTktMVVHVnhaVjBJOGdNUEtobkV2ZHhiczNOcjlzY0dXc0FubFhMLW1VYU9YMl9KblprbDMtc3JGdC1rLTlwdjZzdGJXLVMtMmt2RnNZUjR6ajlqUXVhUnItZElackhyVE1NWFk4WjhuQ0ZyLWpB?oc=5",
@@ -324898,9 +325954,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.4247392862935492,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjJZMld3LW5zZFdncHQwOFU5dVpERWdfZ3QzX0RaWU9heVFwRTYzY0wtaWFQbTZtWW1OV1dxNnBYVFlUSEhtc2k2VEhRMXhRQTM3VFcxdlU2UnpjbzJPU3lhSzEzUWxrYjJwaDFCVDJEbmFWZ3F2bGdSUGV1Q0x6ZTd0UWRaWWpLdTZSYURlRDJJSEpGMjRLaHY3dlJrR3Y5WXpzMGtkeXhuWGVienNGb1k0VWlwd1NHclVyX0ZB?oc=5",
@@ -325008,9 +326075,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.4148577965448406,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNmZEN2FNdFExeUN3TTVkdGUtRWV1RElPM3hPQm5YUkpBaGpxMTJkdkpOLUw3U3Jzc2FFTHZYU3g3UlpZTlpWVmpxQm1hbjNjcXcwS0ZHNTdGZWdnM3Z5Y2d4YW1jbHZhMGZMWmppUVpybFZ5c0haN0VxTlQ5bXJDRzlLSzVYaUhPX05yXzNGcFlNZnF6Z3h4SnAxa09HS0k1X1F3a3RwYUtiSEFGTDFzUl9MdUk3Y2NnQmVxbFBXVEZGLTkxZ1J0enJNdUY0YXRnMllheXJOVjVhWVc0?oc=5",
@@ -325106,9 +326184,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.813726518478319,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0ZzVjk4bDVUdFZzUWwxb3RYUE40anN4YUVpUHZqWWFMLW56MFpnWDByRUpGdTUyZFJPdk1YNVFKaC11LTJHMXVEckwya1NxeHJSdmswLUwxRVNVeGk5R2N4WFRqcE1WUTR5MHVkUmRvM01QZnpBZlZNSUtMdXBlbw?oc=5",
@@ -325340,9 +326429,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.7306367561404125,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeUlsWi1hMU10TV9hSmROMXdyZWJuc09zcW82eHkteGtVV2JFVnhHUjhhbVVXWkk2LTFzQkZfS29nVlBmZXlfRXpNSF9jWEJfTW9kTmpJODVSMnVQazVyQ3ZuNWJGT29lSG9VMk83T09RTFppb0tQRnJZZFNROWxld0VPN2JCdndBWHdHMXB5X3drVkhjQnpyb3kzV1FwSlBDZndtdGpzenpqZU5PaXk3WHpXXzJhSU0zV1ZwOVRMeXhjQTdvQjlacUlCX0R0a2pmR2RnR1A5MGI?oc=5",
@@ -325434,9 +326534,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.5150046187220764,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ0Y3c2h6VkpvcHpRNUZqN1N4SVBlX1VLZnk3UDVvMGZvdVRZSW1jM1lvWHZ0VWNlRXdOUHNUalZDdnFYdFl1dTBqVW1zM00tNXZjTnFKWjdsV0ZrMHZxM1JMRTc4cDg3YnZjZDRCci03eUtiQk41bTUtOE5TTWJ4a1h0NTdUN3hlSzJWNEZZUzVPN3NFWkpwVlp0eHc0SVc5WEYzQVY5Z1lyT0RIYTJLMDZfaUlzcHVVMUphTw?oc=5",
@@ -325524,9 +326635,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.7006491123760058,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmJ6M1JqTGJvSUZHejhxSUNrR1ZYLXdtQUIxMVptLXVjbVdadmRTYTlKZDdOY2tGUWgxTzVwbVRpWms0bWpPanhiTlM5MXhTWk96dkt3SHVBS01udWZhZ1g2ZU5HN3pBN2VnZG1HbVF0QXRnQ3Q0UllFcE9SWVRkMkVNSDI4MG5TQ3BlenFRRzhnOW1fVllBaVhJRUpOXzNuQ3ZyVWtjWVltc05EQ010Q0tadkdORl8yaEM2cVVJdw?oc=5",
@@ -325622,9 +326744,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.8218451409610735,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTW5MNmRxTnVBQi1WSkVZaW9lU1lpRVhrX0RvRV9kT3VKWHIxMFN0QlBHM0hTaU9Nd0VXRmY2WkoyQ1d1N3JZMjR1eGxkOTBzNElZN3ZMWVR3em0xdU9meFNyTlZlbzlPRTd5S1ZkRDZTQTh5LWhQS1RNSVZ5VklmNEFkWC0zbHdsVlc2VVRwQ2FhSFpnV2QwMVVpSXoxMnplNjhQOXNB?oc=5",
@@ -325716,9 +326849,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEVUTndNZmlvZmZOV1NxWERWczJZOFNFY1FGTWx2anFXU0dBRkZNUjM2R2xMTzliYmdGemdMNTcxeTNHWHAtMXRRZERveWhibmlWUlVaZDNxOUJmNURTT1RyVmg0TXdIb0Y4OE9KaTVlZGdRaVpPOURJc0ZtTFhhenlrWHd0ZWsxSkhJa0tFb1lQa0ZvWlFNN1k5UnpKcHNEUWdJNV9DeEtKb3c?oc=5",
@@ -325850,9 +326994,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.44089844740479195,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
@@ -326405,9 +327560,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.812665221706955,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXy1KR3R3M3h3Ry10V3lFLUpYMlpqeXA5VDJYMlFtMUhaUkFwWl9DVjFHOUxvNVVDY2NKUEc3MnlvMXR0QV94a0lBQkxINmlqUU9ycV9nUFl1OWxfR2FKNHZjTy16OEV4aEhqdTI2dC1qbGRidnRZaElSZzRZcnVJLTZIYjdycDNBdkdGT2VZYjJUalJpdmtodl9kczFzN1lJZEl5aVpqQk1SUEnSAaYBQVVfeXFMTnhieHZyUjBiZTlWU2JFeGhVMXExOF9HNUIxQVNOcF9KejJiYVloOUFBNWRTTVo1RFpYZG1xNi1jby1TdG84amVtWl9fWEJwM1A2X1VuOE1KNkItV3ppMjhQRXlQVllkc1hOOVJJNzBKbE4wY3hRT3p1VmUwXzRRN3hGSDlnSHJiSERpemN4NGx0UnVqdXFKaS1rSlo3Q0NsdUt0MnNxdw?oc=5",
@@ -326503,9 +327669,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0J1NFJRWEhpcURSc2JiYVdPSlF4dXM5b2xqZ2VpWGYwOFdXZFh0eUhQNEV2UFhTMkZTX00tRzc0LU00QU5DNWZDcmdfQXpTZDlDbmI0VnZlRFQ3clJGOWRLaWVsTGJKc3lIbnVMMjdGYXpKQ1hsYlhOZEFPU0NYWWRSYXZaMHp3UHA2OWp0NmVtMjVPV00tNmJSd3Y2aDZBOVNYd1pKOEp0UDlwSTlKWHVRQmJneDJJZGc2cGRZZE4?oc=5",
@@ -326625,9 +327802,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.2827831399824881,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZU9iWW5nbF9UTjJnclZTQlRhb0ZxU1NLWHk5V0p1VGtGb19rTlBUXzJzc2gweHl3QmpGVU8yekM4Rk9IT196TXFpbVdXMlBGZEFFTElZOXVGMW04WkVBVTVFbEYyeGRYY0dsYVAxV3RMUklWZUQzdnFlSFRwREJCRzh3Qi1hc2VYamF2XzR5WE5WWjdraXVUYXc3M0ZyMUFzSGNuenZ6U3REZlltZVZzdmVaSFBKWTZBMnUyTXhZZFBOa3ZTOVdoVldxMV9XZ0h3d010VW05MEthWDc3N3Z5U0hCLXBJQQ?oc=5",
@@ -326855,9 +328043,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.47690294551357143,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNmxfSmRHRkthc1hxbE41aWFzT25lbWNtbHM2V3BveF9uVHJrcFQyUnlhc0dCa0FtaHg4dU02MmF2TjAtMENhYU9LUklueGt1THRLSUxsRldsUkkwcnlqakRBSklZeTFxczY4OXl6amQ1UTdxRnVISF81QkFqY3UwWlFIbENyMGxHMER1Y1lCV0RkbjNaUXFWSkxaRWxudDBQZkZEdXBubUN6aE1aaFRPZEw3YmVjOFc5bGhsMzR6bFpWZUJyZjZyZVJGQWZJSVFjbTFzdzctRmVibGJGOXl3?oc=5",
@@ -326985,9 +328184,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.2876391875061866,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mqcbzij34t2c",
@@ -327059,9 +328269,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.2601198078727017,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
@@ -327646,9 +328867,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1k0c3dkUkczR2g1WmRkdjlVRC1mb2pXQnFRSHMtdHBIYk1sbDQ2Qi1lTl9Fckg2NHhSSFlQekI5WkZOekg0ZDdPQmNJbDRMLXFVUVFxcE5WanFaYm1EbHcxQnQtNU04M1c5czFQOWFQb3RBZXJ6eDJhamV4SGlzNmtrVkxFbkQxV3pmaHNLQ1VPWjNId3picmx6cER3UEcxNjFEM1laYXJYV2plYWFGOWozWHlJc0todzhMVl91Y3E1SERsM0thTGtlNTXSAccBQVVfeXFMTmptYmZ5UzFYNWllU1BGMWFIWXA0UlVsYzN6UEg4dWs1T01IX2dONGpQTHcxdHVwdTI2eGxJN1NHUk5HNWE0MWRNVkJDTTFkTVczUjRCNGRRelo4cVZDUWtHdHlqMTZBS3lMV0NZR2NNVzhvbV9mTzhtbjdfYjVRRF80b2RuZlVCTjRjU1RvM0FxSnNfMDNHMHlVQ1dveXpzQ1I2QnR4Y2RkX0RqM0J6YlhqMDFTdS13aERzY3dhTlFWQWRQR3pqbw?oc=5",
@@ -327768,9 +329000,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.28210586429455814,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGJ4dnJSMGJlOVZTYkV4aFUxcTE4X0c1QjFBU05wX0p6MmJhWWg5QUE1ZFNNWjVEWlhkbXE2LWNvLVN0bzhqZW1aX19YQnAzUDZfVW44TUo2Qi1XemkyOFBFeVBWWWRzWE45Ukk3MEpsTjBjeFFPenVWZTBfNFE3eEZIOWdIcmJIRGl6Y3g0bHRSdWp1cUppLWtKWjdDQ2x1S3Qyc3F30gGmAUFVX3lxTE54Ynh2clIwYmU5VlNiRXhoVTFxMThfRzVCMUFTTnBfSnoyYmFZaDlBQTVkU01aNURaWGRtcTYtY28tU3RvOGplbVpfX1hCcDNQNl9VbjhNSjZCLVd6aTI4UEV5UFZZZHNYTjlSSTcwSmxOMGN4UU96dVZlMF80UTd4Rkg5Z0hyYkhEaXpjeDRsdFJ1anVxSmkta0paN0NDbHVLdDJzcXc?oc=5",
@@ -327870,9 +329113,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9USTJFV3VEcllfQ0Z3WmJiN1Bhak9WVWNGVld4bTJwR282NnhZYkFiSGRqc1VscV9tLVdfSG0yMHJrMDc4bFZYSm5xS1M1NFBra1VOYWhRUFF1dGstY2NTRExKSEFUazk4NDZGbGc1VQ?oc=5",
@@ -327984,9 +329238,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcW41NVRtRndFMVpUUGxRZ3BlaTI4b3Q3VUw5VTE3eERWZ0ZvZ3hkMmZ2OWUyeUo1bjIzZ2xaa3BqeG9kd2FRN1NiYk9BRHZ4UF8tT0xwbnRsVzg2MThCWWhNd1pzblFqdUphd1VzcDFJUVZ5Z2VqYkVBS1QtRHdMWkpDZHM2RUI5Q2N0X1gweTJRbmhsaUM3d2NraFBlSkJjcDg2Ylc2VU5rME42RFpqUFVVZE0?oc=5",
@@ -328106,9 +329371,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.2839238888160492,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnhaeHJaX25UT0tkSzdZa3FLVFdKQ1hFd2MzSDdMNDFYd2pLVmtMWlhXTkhOQTV2S3V5VmpBT3d0TUE1bkhpeG9MZGFQRTlaQ1Vna1YteWp2Tzg1VWw2aThTWnhDRWNFcWE4dnd3eFJ4YktzVVlONmpsNlJRWTJnMDBVRm9zeVdRTml4V2VVak54Y3FrWEJXb0pjZUFiaUFWVHFLSkNVeDhFZmJoaFF0TUdIam1rdjJLeEh0RnVQTk0?oc=5",
@@ -328220,9 +329496,20 @@
                 "label": "LOC"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 1.0,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2VFMXdHLVRLb3NEZFpQWUdqUDg2azVTeERfLU81b3BIUUstX0t3YU1Vc1BCRXdaVTIteXBLUF9nUjMyUzJwY0hfVm9YcDJDUHRhUVpoYVpjMEd5cUtRSXU3Um51dFpDaWVvTzZQM29McDhZYkF4cEVkOE01RnJuNDVGaEhjbTNmQlA4MGlIbVdOakhFaHo5Z1ZEd0t2Y3NIY2VFNXQxelhtSjF6UWNHeTdR?oc=5",
@@ -328346,9 +329633,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.3174294360067893,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXkxSFRRMF90ODV2bldHekRmZ05LMDZacU1XRU5NOU5leVVDQTlrQ0NkUDF4ellORlRYVjVpSXp4RHdOcEpJSnNELVd3cVVDM3o2SjRMbmgtQkJGMHJwRXNxWjItVkV0THpUVXo5Rm1ZQXBUdHpITmg2dUJpd2ZLc0VVZVhlMlh0bVE4LTVtam1WNG9IQmZmSXlkcjVITFhHeGZyc3FqSFZ4b1p2bjRlQ2ZsQ3FoYVFXUUhsNkVjaVBqZm1yMWtXOXBVOWRKTDFWb1E?oc=5",
@@ -328468,9 +329766,20 @@
                 "label": "ORG"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 0,
+        "topic_probability": 0.28699830848278174,
+        "topic_keywords": [
+            "portugal",
+            "português",
+            "beira",
+            "são",
+            "cada",
+            "concelho",
+            "covilhanense",
+            "feira",
+            "longo",
+            "associação"
+        ]
     },
     {
         "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
@@ -329035,9 +330344,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.40671009050986323,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmVIOWdjWHhRY24xRUh5Ui1jdTJITXhLNWY4NlI2NFNOTXhRRG1CNjB0WFBXb0gweE12TDNkU3h5aG1JTmZXR09vTWZQc18tLThVNzFnVlBSODMtczBRR2JJUVJ5MXVsemhVNk9lT2Ryd21EN3J1UEYycVIwbnpuamo4WkUxaVcxRXM3NHA3OXJqMWhUenRGYXR4cGIzSEx3Y2tGNnEzSQ?oc=5",
@@ -329169,9 +330489,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.7576580386631705,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUZWNnZrV09oZVRIQ3VkTVhMZjJtRThnMzhDWktxSUtuZVY1dkNvOEwtenVZd1o2dGk5V0ZjdGxZdEJXWmFxd1Y0M3pWRS04clNrMF9nNmFsS0RxRFZtT0ZGSmswTGVmMjlwSTNmZUNMLW8tY3FRcHJISnB1cXZsOWJySW9WdmxuNUhEZlRwLUVfRFhyaHhEdVZiTzVnY3hLbVM3MzMyVGVqb3B2MmUxSA?oc=5",
@@ -329271,9 +330602,20 @@
                 "label": "PER"
             }
         ],
-        "topic_id": null,
-        "topic_probability": null,
-        "topic_keywords": []
+        "topic_id": 1,
+        "topic_probability": 0.41263909798732074,
+        "topic_keywords": [
+            "covilhanense",
+            "feira",
+            "concelho",
+            "universidade beira",
+            "universidade beira interior",
+            "longo",
+            "presença",
+            "informação",
+            "conta",
+            "áreas"
+        ]
     },
     {
         "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
