@@ -119170,5 +119170,305 @@
             }
         ],
         "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHNfVzlaTlc4aE9oRXhxRlF3MTR5Rk9za1d5bzJBS09FczlMaEhsb2wtS0VWV3JBQXBSVXpUR3JSZ1hXZzdYeXZOalA3RHRTYVhwTGtQV1VKMVNRcThJRWVRSmk2QXp0MFlaV18zcjlIV3ZwWkxWRjVrWXB1N1p5RThhZDRRVFRSaEF2b2xkdkdkTnVO?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "O homem que há 65 anos abre todas as fechaduras na Covilhã - Conta-Lá",
+        "clean_text": "O homem que há 65 anos abre todas as fechaduras na Covilhã - Conta-Lá. É a chave-mestra da Covilhã. As fechaduras não têm segredos para Carlos Geraldes e, se há uma porta para abrir, ele resolve. Aprendeu na antiga loja de ferragens Casa Leão numa máquina mecânica, que ainda usa, com a ajuda de uma lima, um serrote e um torno. Pode demorar mais ou menos tempo, mas garante que ninguém fica na rua. 14 mai. 2026, 08:00 O \"Homem das Sete Chaves\", \"Inspetor Chaves\", \"Senhor Chaveiro\" ou \"Inspetor Ferrugem\", como alguns o conhecem, de 81 anos, não tem mãos a medir. Desde que Carlos Geraldes se reformo,u as solicitações aumentaram e o telefone toca várias vezes ao dia. Escolhe a mala dependendo se é para abrir uma porta de casa, de um carro ou um cofre e sai para ajudar mais alguém traído pelo esquecimento ou pelo azar. A tarefa exige responsabilidade e confiança, diz. Se não conhece a pessoa, procura averiguar se é o legítimo proprietário ou inquilino. Carlos Geraldes é uma figura emblemática da cidade e o seu contacto é facultado por bombeiros, autoridades e lojas da especialidade e quem se encontra aflito e procura uma solução para entrar em casa. Há 65 anos que ajuda, sem danificar as portas, quem a distração deixou trancado fora de casa ou do carro. Tags relacionadas: Castelo Branco Covilhã Tradição Carlos Geraldes Chaveiro profissões",
+        "keywords": [
+            {
+                "keyword": "carlos geraldes há porta",
+                "score": 0.6551
+            },
+            {
+                "keyword": "há porta abrir ele",
+                "score": 0.6324
+            },
+            {
+                "keyword": "geraldes há porta abrir",
+                "score": 0.632
+            },
+            {
+                "keyword": "portas quem distração deixou",
+                "score": 0.6288
+            },
+            {
+                "keyword": "mala dependendo abrir porta",
+                "score": 0.6138
+            },
+            {
+                "keyword": "homem há 65 abre",
+                "score": 0.6017
+            },
+            {
+                "keyword": "homem sete chaves inspetor",
+                "score": 0.5965
+            },
+            {
+                "keyword": "fechaduras não",
+                "score": 0.5927
+            },
+            {
+                "keyword": "há porta",
+                "score": 0.591
+            },
+            {
+                "keyword": "todas fechaduras",
+                "score": 0.583
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzRqd0ZfZ0hoMkxucXU0dTdhN0tzdlpKdno0TUpGWFB4OU1yZktydTQwcVNjVTNfaGUzQjcxYkJxQlZSSUhRMFI1M000UWhpYkRzYnNxV1hmcURMenJfN1VqdEhRdThZQ0FZTlNUTThpcmNlNmxhNmF5ZXphSFoyMkxfdXRjeng1bUV5bmI3VFdKVU9O?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 10:00:00 GMT",
+        "title_clean": "Covilhã – Exposição comemorativa dedicada ao pintor Eduardo Malta - Jornal A Guarda",
+        "clean_text": "Covilhã - Exposição comemorativa dedicada ao pintor Eduardo Malta - Jornal A Guarda",
+        "keywords": [
+            {
+                "keyword": "dedicada pintor eduardo malta",
+                "score": 0.8273
+            },
+            {
+                "keyword": "exposição comemorativa dedicada pintor",
+                "score": 0.8263
+            },
+            {
+                "keyword": "comemorativa dedicada pintor eduardo",
+                "score": 0.802
+            },
+            {
+                "keyword": "comemorativa dedicada pintor",
+                "score": 0.7848
+            },
+            {
+                "keyword": "pintor eduardo malta",
+                "score": 0.7833
+            },
+            {
+                "keyword": "dedicada pintor eduardo",
+                "score": 0.7376
+            },
+            {
+                "keyword": "exposição comemorativa dedicada",
+                "score": 0.7186
+            },
+            {
+                "keyword": "exposição comemorativa",
+                "score": 0.6876
+            },
+            {
+                "keyword": "dedicada pintor",
+                "score": 0.6808
+            },
+            {
+                "keyword": "pintor eduardo",
+                "score": 0.6651
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxPQk1vMFhXU0pPUjNpUS1jVXpNWi1hSVRyaFpzczc1aUY2ejZTdTNwYUtGVUVjTS0tOUtGLXZiX3liXzJRNExBeXB3UUItRlJWTFBRTkJnVGFtcnQ1SThnRlU4RjBxZ0dTeUNvdWtwMldxZF8wRUFYX3o1YnhFYXlIUzRUbXhjMk80NXZzV0VuUkR4eldCSjR3VmVfeXJPbURBTFRfR0UxSkR4eHlXbEHSAa4BQVVfeXFMT0JNbzBYV1NKT1IzaVEtY1V6TVotYUlUcmhac3M3NWlGNno2U3UzcGFLRlVFY00tLTlLRi12Yl95Yl8yUTRMQXlwd1FCLUZSVkxQUU5CZ1RhbXJ0NUk4Z0ZVOEYwcWdHU3lDb3VrcDJXcWRfMEVBWF96NWJ4RWF5SFM0VG14YzJPNDV2c1dFblJEeHpXQko0d1ZlX3lyT21EQUxUX0dFMUpEeHh5V2xB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 16:09:32 GMT",
+        "title_clean": "Duarte Carreira é reforço do Sp. Covilhã - Record",
+        "clean_text": "Duarte Carreira é reforço do Sp. Covilhã - Record. Duarte Carreira é reforço do Sp. Covilhã Duarte Carreia assina com o Sp. Covilhã até 2027 • Foto: Sp. Covilhã/Facebook O Sp. Covilhã anunciou esta quinta-feira a contratação de Duarte Carreira, avançado de 21 anos, para a época 2026/27. Um dia depois de ter chegado a acordo com o Alverca para o empréstimo do defesa Kauan Gomes e de garantir a contratação do médio Gonçalo Cascalheira, o clube da Liga 3 anunciou um reforço para o ataque, desta feita vindo de Guimarães. Duarte Carreira deixa os minhotos depois de somar oito jogos ao serviço da equipa B na última temporada e chega à Covilhã com uma curta experiência no estrangeiro - disputou quatro jogos com a camisola do Ordino, de Andorra, em 2024/25 -, antes de reforçar os juniores do Benfica Castelo Branco, clube no qual apontou um golo em oito jogos pela equipa principal. PUB Por Camila Soeiro",
+        "keywords": [
+            {
+                "keyword": "duarte carreia assina sp",
+                "score": 0.6353
+            },
+            {
+                "keyword": "contratação duarte",
+                "score": 0.6184
+            },
+            {
+                "keyword": "duarte carreia assina",
+                "score": 0.6119
+            },
+            {
+                "keyword": "record duarte",
+                "score": 0.5192
+            },
+            {
+                "keyword": "quinta feira contratação duarte",
+                "score": 0.5172
+            },
+            {
+                "keyword": "duarte carreia",
+                "score": 0.4963
+            },
+            {
+                "keyword": "carreia assina sp",
+                "score": 0.486
+            },
+            {
+                "keyword": "feira contratação duarte",
+                "score": 0.4695
+            },
+            {
+                "keyword": "anunciou quinta feira contratação",
+                "score": 0.4413
+            },
+            {
+                "keyword": "duarte carreira reforço sp",
+                "score": 0.4406
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXhOSmxNaVg4a3N0dWZMX3BDb2ZNTzNZTHpXZmJzYW5BR0NPbUxGelc1LWpyNjJ1TTZKMU9RSWpwLTVUcFZXTVVnTUg3azNtdGRaTWJ1MHFfRnctTWRRQ3FHVTZheERiZFNRaVFnSVA5VDF2czl0cHNvTkFnbFk4bFVWbWRScEdxZnBvaW9jMkFKaGYweFgtX1FxSQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã vai ser o centro da inovação nacional durante três dias - Conta-Lá",
+        "clean_text": "Covilhã vai ser o centro da inovação nacional durante três dias - Conta-Lá. Cidade acolhe de 20 a 22 de abril o Covilhã Innov Summit, no Teatro Municipal, com a realização de palestras, mesas redondas, debates e competições tecnológicas, com participantes de todos os quadrantes, e em que se dará a conhecer alguns exemplos do tecido económico local, assim como novas ideias e criações. 17 abr. 2026, 08:00 Covilhã vai receber cimeira de inovação durante três dias | Facebook Município Covilhã É já na segunda-feira, 20 de abril, que arranca o evento que ao longo de três dias vai transformar a Covilhã no centro de inovação e empreendedorismo da Beira Interior e que vai funcionar como elo de ligação entre as ideias mais disruptivas e a tradição de iniciativa empresarial que faz parte da ADN da cidade. E com transmissão em direto no Conta Lá entre as 09h30-11h e as 14h-15h30 em cada um dos dias. Organizada pelo município e pela Universidade da Beira Interior (UBI), a Covilhã Innov Summit regressa pela segunda vez, até 22 de abril, no Teatro Municipal da Covilhã, e engloba a realização de palestras, mesas redondas, debates e competições tecnológicas, com a presença de oradores como o ex-governador do Banco de Portugal e ex-ministro das Finanças, Mário Centeno; do ex-ministro do Ambiente e da Ação Climática, Duarte Cordeiro; ou do presidente da Startup Portugal, Alexandre Teixeira dos Santos. Pode consultar a lista completa AQUI. \"Vão ser três dias inspiradores, com oradores e conferencistas de excelência e uma oportunidade privilegiada para conhecer novas pessoas, aprender, ensinar e fortalecer um ecossistema que está cada vez mais dinâmico e pujante e que se afirma como o destino ideal para investir e desenvolver novos projetos\", afirmou o presidente da Câmara, Hélio Fazendeiro, em nota de imprensa. \"A Covilhã tem na sua matriz histórica o dinamismo e a capacidade empreendedora das suas gentes. Foi assim que se afirmou e reinventou ao longo dos 840 anos de história e o que estamos a fazer é reforçar e dar continuidade a esse legado. Levamos a sério o desafio de manter a Covilhã como polo agregador de empreendedorismo e inovação em setores de atividade económica que nos distinguem e diferenciam\", elabora. Futuro do território Empreender e inovar, ecossistemas de inovação, a banca tradicional e novos modelos de financiamento do empreendedorismo, financiar o futuro, o papel dos 'policy makers' nas startups, o cluster da saúde e biotecnologia na Covilhã, que futuro para a IA, serão alguns dos temas em destaque, assim como as tecnologias emergentes, a energia verde para a economia digital, a reindustrialização do futuro ou a Covilhã no centro da economia de dados. \"Temos sabido inovar nos setores mais tradicionais\", acrescenta o autarca, com \"capacidade de empreender e de percorrer novos caminhos, como é o caso da saúde, das tecnologias de dados e de informação. São esses novos caminhos que queremos impulsionar e continuar a trilhar, lado a lado com a UBI, com os nossos empresários, com os investidores e com os jovens empreendedores, que certamente vão encontrar na Covilhã Innov Summit um fórum de partilha de conhecimento, saber e experiência, essenciais para o sucesso\", garante. Já a reitora da UBI defende que esta segunda edição Covilhã Innov Summit vem reforçar \"o compromisso da UBI com a inovação, o empreendedorismo e o futuro do território, além de reafirmar a vontade de unir forças para transformar ideias em impacto real\". Para Ana Paula Duarte, é importante que a instituição continue \"a consolidar a sua posição como um agente ativo na promoção do conhecimento e na criação de oportunidades que valorizem a região e o país\". É nesse contexto que \"a presença na Covilhã Innov Summit demonstra a determinação da UBI em promover a ligação estratégica às empresas e à sociedade civil, potenciando um ecossistema onde o talento, a investigação e a criatividade se convertem em soluções concretas para os desafios atuais\", avança a reitora. A acompanhar, na antena, no site, e nas redes sociais do Conta Lá. Tags relacionadas: Covilhã Câmara Municipal da Covilhã Economia Empresas Inovação Negócios empreendedorismo",
+        "keywords": [
+            {
+                "keyword": "receber cimeira inovação três",
+                "score": 0.6974
+            },
+            {
+                "keyword": "cimeira inovação três",
+                "score": 0.6911
+            },
+            {
+                "keyword": "receber cimeira inovação",
+                "score": 0.674
+            },
+            {
+                "keyword": "centro inovação nacional três",
+                "score": 0.6691
+            },
+            {
+                "keyword": "cimeira inovação",
+                "score": 0.6658
+            },
+            {
+                "keyword": "centro inovação nacional",
+                "score": 0.6503
+            },
+            {
+                "keyword": "inovação nacional três conta",
+                "score": 0.6196
+            },
+            {
+                "keyword": "inovação nacional",
+                "score": 0.5902
+            },
+            {
+                "keyword": "inovação empreendedorismo futuro território",
+                "score": 0.5576
+            },
+            {
+                "keyword": "inovação setores atividade",
+                "score": 0.5567
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjJLTUJBZWtIN3NBVFNMRVFvN0ZxWnJfVUl2aUszamtMcDV6ekdZLVpkNTFaUXdBTzkxT09STFAwckw0MmNNTXNaMG1GbVFoQW4tVmpWdVJsLTdDTHR6UDVOYkIxZGtHMHluZlE0Z0lwMjR1Q3g1MEFhM3RIRW9iTzQ2TjJGdnZRQmYwenRNRHh3clhuRGNDMy03TkMtcWFJUTVBTU1ZWDVkODliZkd2TlllY083b3ctekNPVG4yQ015Zw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 15:15:58 GMT",
+        "title_clean": "Académico de Viseu goleia Sp. Covilhã no primeiro jogo de pré-temporada - TVI",
+        "clean_text": "Académico de Viseu goleia Sp. Covilhã no primeiro jogo de pré-temporada - TVI. Benfica punido com um jogo à porta fechada: clube não pode recorrer O Académico de Viseu recebeu e goleou o Sp. Covilhã (5-0) no primeiro encontro de preparação para a nova temporada 2026/27. Nils Mortimer, Soufiane Messeguem, Álvaro Zamora, André Clóvis e Lorougnon Gohi apontaram os golos do conjunto viseense. A equipa comandada por Bruno Pinheiro segue para estágio em Cádis, onde vai ficar uma semana, entre os dias 11 e 18 de julho. O Académico de Viseu está de regresso ao topo do futebol nacional, 37 anos depois. A estreia no campeonato está marcada para o fim de semana de 8 e 9 de agosto, diante do Benfica, no Estádio da Luz, à porta fechada.",
+        "keywords": [
+            {
+                "keyword": "pré temporada tvi benfica",
+                "score": 0.6056
+            },
+            {
+                "keyword": "temporada tvi benfica punido",
+                "score": 0.5876
+            },
+            {
+                "keyword": "temporada tvi benfica",
+                "score": 0.5722
+            },
+            {
+                "keyword": "viseu recebeu goleou",
+                "score": 0.5599
+            },
+            {
+                "keyword": "viseense equipa",
+                "score": 0.5452
+            },
+            {
+                "keyword": "viseu recebeu goleou sp",
+                "score": 0.5338
+            },
+            {
+                "keyword": "golos conjunto viseense equipa",
+                "score": 0.5337
+            },
+            {
+                "keyword": "viseense equipa comandada",
+                "score": 0.5261
+            },
+            {
+                "keyword": "conjunto viseense equipa",
+                "score": 0.5129
+            },
+            {
+                "keyword": "académico viseu recebeu goleou",
+                "score": 0.5048
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkxReGRXYTgwam9DWlVacFVyOEZ6UDB0U0QzcGVCZks2ckt1UnQ4T211VE9VVVEybUlLNzVXOW5pdUhDM1lhTHROWDZuMzNTQ2U3Q2pDRFFHQWpvY1VHbmxDSGNjMDJ5S1BoYkJabU4xSHp0bmN4WTN0M0tDZW16T3ljZ2ZUMHdLeFdjNno0WFRCUzVUeFBTQ3VUd3dzQm9GYU5pQTAzVmJMSXNVbWwxaNIBsAFBVV95cUxPNkxReGRXYTgwam9DWlVacFVyOEZ6UDB0U0QzcGVCZks2ckt1UnQ4T211VE9VVVEybUlLNzVXOW5pdUhDM1lhTHROWDZuMzNTQ2U3Q2pDRFFHQWpvY1VHbmxDSGNjMDJ5S1BoYkJabU4xSHp0bmN4WTN0M0tDZW16T3ljZ2ZUMHdLeFdjNno0WFRCUzVUeFBTQ3VUd3dzQm9GYU5pQTAzVmJMSXNVbWwxaA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 19:15:20 GMT",
+        "title_clean": "Castores vencem Sp. Covilhã em Seia - Record",
+        "clean_text": "Castores vencem Sp. Covilhã em Seia - Record. Castores vencem Sp. Covilhã em Seia Castores vencem Sp. Covilhã em Seia • Foto: p. ferreira O P. Ferreira venceu este sábado o Sp. Covilhã por 2-0, com golos no primeiro tempo, em jogo particular inserido no estágio da formação da I Liga, em Seia. Diogo Jota inaugurou o marcador aos 23 minutos, após jogada individual, e Christian, aos 35, de livre direto, anotou o segundo, ambos de grande qualidade técnica, fixando o resultado final. PUB A vitória pacense coroou a melhor primeira parte da equipa, face a um adversário que só conseguiu equilibrar no segundo tempo, beneficiando mesmo de algumas oportunidades para marcar, embora tenha sido o pacense Manuel José a ficar mais perto do golo, ao acertar na trave, aos 62 minutos, o pontapé da marca de grande penalidade. O técnico Jorge Simão aproveitou o segundo particular da pré-época (o primeiro valeu uma goleada por 5-0 diante de uma seleção concelhia de Paços de Ferreira) para fazer novas experiências no 'onze', insistindo no 4-3-3. Marco foi o guarda-redes, numa defesa composta por João Góis, Fábio Cardoso, Marco Baixinho e Hélder Lopes, com o costa-marfinense Evrad, à experiência, a ser o elemento mais defensivo de um meio campo formado ainda por Christian e Andrezinho, enquanto Diogo Jota e Roniel, nas faixas laterais, apoiaram Cícero no ataque. PUB O técnico pacense utilizou ainda os guarda-redes Marafona e Rafael Defendi, os defesas Calvin (júnior) e Miguel Vieira, os médios Manuel José, Romeu, Vasco Rocha, Rodrigo António e os avançados Edson Farias e Tiago (júnior). Ricardo, Bruno Santos, Paulo Henrique, Minhoca e Bruno Moreira, lesionados, ficaram de fora deste particular, numa lista de ausentes extensiva a Hurtado e Barnes, autorizados a apresentarem-se mais tarde. O Paços de Ferreira termina o estágio em Seia no dia 22, disputando nesse dia o terceiro particular em Viseu, diante do Académico local. PUB",
+        "keywords": [
+            {
+                "keyword": "goleada diante seleção",
+                "score": 0.6109
+            },
+            {
+                "keyword": "golos primeiro tempo jogo",
+                "score": 0.5972
+            },
+            {
+                "keyword": "golos primeiro tempo",
+                "score": 0.5882
+            },
+            {
+                "keyword": "valeu goleada diante seleção",
+                "score": 0.583
+            },
+            {
+                "keyword": "goleada diante seleção concelhia",
+                "score": 0.58
+            },
+            {
+                "keyword": "golos primeiro",
+                "score": 0.5707
+            },
+            {
+                "keyword": "diante seleção concelhia",
+                "score": 0.5523
+            },
+            {
+                "keyword": "ferreira venceu sábado sp",
+                "score": 0.5303
+            },
+            {
+                "keyword": "record castores vencem sp",
+                "score": 0.5207
+            },
+            {
+                "keyword": "diante seleção concelhia paços",
+                "score": 0.5174
+            }
+        ],
+        "source_name": null
     }
 ]

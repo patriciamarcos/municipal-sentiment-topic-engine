@@ -331085,5 +331085,1278 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHNfVzlaTlc4aE9oRXhxRlF3MTR5Rk9za1d5bzJBS09FczlMaEhsb2wtS0VWV3JBQXBSVXpUR3JSZ1hXZzdYeXZOalA3RHRTYVhwTGtQV1VKMVNRcThJRWVRSmk2QXp0MFlaV18zcjlIV3ZwWkxWRjVrWXB1N1p5RThhZDRRVFRSaEF2b2xkdkdkTnVO?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "O homem que há 65 anos abre todas as fechaduras na Covilhã - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.121,
+        "negative": 0.3468,
+        "neutral": 0.4274,
+        "positive": 0.2258,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9511,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9511,
+            "ANGER": 0.0153,
+            "FRUSTRATION": 0.01,
+            "CONTEMPT": 0.0097,
+            "LOVE": 0.0093,
+            "GRATITUDE": 0.0046,
+            "SURPRISE": 0.0036,
+            "FEAR": 0.0027,
+            "SADNESS": 0.001,
+            "JOY": 0.0009,
+            "DISGUST": 0.0007
+        },
+        "keywords": [
+            {
+                "keyword": "carlos geraldes há porta",
+                "score": 0.6551
+            },
+            {
+                "keyword": "há porta abrir ele",
+                "score": 0.6324
+            },
+            {
+                "keyword": "geraldes há porta abrir",
+                "score": 0.632
+            },
+            {
+                "keyword": "portas quem distração deixou",
+                "score": 0.6288
+            },
+            {
+                "keyword": "mala dependendo abrir porta",
+                "score": 0.6138
+            },
+            {
+                "keyword": "homem há 65 abre",
+                "score": 0.6017
+            },
+            {
+                "keyword": "homem sete chaves inspetor",
+                "score": 0.5965
+            },
+            {
+                "keyword": "fechaduras não",
+                "score": 0.5927
+            },
+            {
+                "keyword": "há porta",
+                "score": 0.591
+            },
+            {
+                "keyword": "todas fechaduras",
+                "score": 0.583
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Casa Leão",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Chaveiro",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzRqd0ZfZ0hoMkxucXU0dTdhN0tzdlpKdno0TUpGWFB4OU1yZktydTQwcVNjVTNfaGUzQjcxYkJxQlZSSUhRMFI1M000UWhpYkRzYnNxV1hmcURMenJfN1VqdEhRdThZQ0FZTlNUTThpcmNlNmxhNmF5ZXphSFoyMkxfdXRjeng1bUV5bmI3VFdKVU9O?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 10:00:00 GMT",
+        "title": "Covilhã – Exposição comemorativa dedicada ao pintor Eduardo Malta - Jornal A Guarda",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.4461,
+        "negative": 0.0164,
+        "neutral": 0.521,
+        "positive": 0.4626,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7834,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7834,
+            "JOY": 0.1251,
+            "SURPRISE": 0.1098,
+            "SADNESS": 0.0248,
+            "CONTEMPT": 0.0111,
+            "LOVE": 0.0103,
+            "FEAR": 0.0096,
+            "ANGER": 0.0051,
+            "DISGUST": 0.0046,
+            "GRATITUDE": 0.0034,
+            "FRUSTRATION": 0.0029
+        },
+        "keywords": [
+            {
+                "keyword": "dedicada pintor eduardo malta",
+                "score": 0.8273
+            },
+            {
+                "keyword": "exposição comemorativa dedicada pintor",
+                "score": 0.8263
+            },
+            {
+                "keyword": "comemorativa dedicada pintor eduardo",
+                "score": 0.802
+            },
+            {
+                "keyword": "comemorativa dedicada pintor",
+                "score": 0.7848
+            },
+            {
+                "keyword": "pintor eduardo malta",
+                "score": 0.7833
+            },
+            {
+                "keyword": "dedicada pintor eduardo",
+                "score": 0.7376
+            },
+            {
+                "keyword": "exposição comemorativa dedicada",
+                "score": 0.7186
+            },
+            {
+                "keyword": "exposição comemorativa",
+                "score": 0.6876
+            },
+            {
+                "keyword": "dedicada pintor",
+                "score": 0.6808
+            },
+            {
+                "keyword": "pintor eduardo",
+                "score": 0.6651
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Eduardo Malta",
+                "label": "PER"
+            },
+            {
+                "text": "A Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Jornal",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQk1vMFhXU0pPUjNpUS1jVXpNWi1hSVRyaFpzczc1aUY2ejZTdTNwYUtGVUVjTS0tOUtGLXZiX3liXzJRNExBeXB3UUItRlJWTFBRTkJnVGFtcnQ1SThnRlU4RjBxZ0dTeUNvdWtwMldxZF8wRUFYX3o1YnhFYXlIUzRUbXhjMk80NXZzV0VuUkR4eldCSjR3VmVfeXJPbURBTFRfR0UxSkR4eHlXbEHSAa4BQVVfeXFMT0JNbzBYV1NKT1IzaVEtY1V6TVotYUlUcmhac3M3NWlGNno2U3UzcGFLRlVFY00tLTlLRi12Yl95Yl8yUTRMQXlwd1FCLUZSVkxQUU5CZ1RhbXJ0NUk4Z0ZVOEYwcWdHU3lDb3VrcDJXcWRfMEVBWF96NWJ4RWF5SFM0VG14YzJPNDV2c1dFblJEeHpXQko0d1ZlX3lyT21EQUxUX0dFMUpEeHh5V2xB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 16:09:32 GMT",
+        "title": "Duarte Carreira é reforço do Sp. Covilhã - Record",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0769,
+        "negative": 0.2701,
+        "neutral": 0.5368,
+        "positive": 0.1932,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9713,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9713,
+            "CONTEMPT": 0.024,
+            "SURPRISE": 0.0237,
+            "JOY": 0.0173,
+            "ANGER": 0.0111,
+            "SADNESS": 0.01,
+            "FRUSTRATION": 0.0063,
+            "LOVE": 0.0049,
+            "FEAR": 0.003,
+            "DISGUST": 0.0028,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [
+            {
+                "keyword": "duarte carreia assina sp",
+                "score": 0.6353
+            },
+            {
+                "keyword": "contratação duarte",
+                "score": 0.6184
+            },
+            {
+                "keyword": "duarte carreia assina",
+                "score": 0.6119
+            },
+            {
+                "keyword": "record duarte",
+                "score": 0.5192
+            },
+            {
+                "keyword": "quinta feira contratação duarte",
+                "score": 0.5172
+            },
+            {
+                "keyword": "duarte carreia",
+                "score": 0.4963
+            },
+            {
+                "keyword": "carreia assina sp",
+                "score": 0.486
+            },
+            {
+                "keyword": "feira contratação duarte",
+                "score": 0.4695
+            },
+            {
+                "keyword": "anunciou quinta feira contratação",
+                "score": 0.4413
+            },
+            {
+                "keyword": "duarte carreira reforço sp",
+                "score": 0.4406
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Duarte Carreia",
+                "label": "PER"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Ordino",
+                "label": "ORG"
+            },
+            {
+                "text": "Andorra",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Camila Soeiro",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXhOSmxNaVg4a3N0dWZMX3BDb2ZNTzNZTHpXZmJzYW5BR0NPbUxGelc1LWpyNjJ1TTZKMU9RSWpwLTVUcFZXTVVnTUg3azNtdGRaTWJ1MHFfRnctTWRRQ3FHVTZheERiZFNRaVFnSVA5VDF2czl0cHNvTkFnbFk4bFVWbWRScEdxZnBvaW9jMkFKaGYweFgtX1FxSQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "Covilhã vai ser o centro da inovação nacional durante três dias - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0639,
+        "negative": 0.2249,
+        "neutral": 0.4863,
+        "positive": 0.2888,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9908,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9908,
+            "JOY": 0.0065,
+            "FRUSTRATION": 0.006,
+            "ANGER": 0.0052,
+            "CONTEMPT": 0.0038,
+            "SURPRISE": 0.0036,
+            "FEAR": 0.0029,
+            "LOVE": 0.0028,
+            "DISGUST": 0.0024,
+            "SADNESS": 0.0024,
+            "GRATITUDE": 0.0018
+        },
+        "keywords": [
+            {
+                "keyword": "receber cimeira inovação três",
+                "score": 0.6974
+            },
+            {
+                "keyword": "cimeira inovação três",
+                "score": 0.6911
+            },
+            {
+                "keyword": "receber cimeira inovação",
+                "score": 0.674
+            },
+            {
+                "keyword": "centro inovação nacional três",
+                "score": 0.6691
+            },
+            {
+                "keyword": "cimeira inovação",
+                "score": 0.6658
+            },
+            {
+                "keyword": "centro inovação nacional",
+                "score": 0.6503
+            },
+            {
+                "keyword": "inovação nacional três conta",
+                "score": 0.6196
+            },
+            {
+                "keyword": "inovação nacional",
+                "score": 0.5902
+            },
+            {
+                "keyword": "inovação empreendedorismo futuro território",
+                "score": 0.5576
+            },
+            {
+                "keyword": "inovação setores atividade",
+                "score": 0.5567
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Cidade",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Banco de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Startup Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Alexandre Teixeira dos Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Paula Duarte",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjJLTUJBZWtIN3NBVFNMRVFvN0ZxWnJfVUl2aUszamtMcDV6ekdZLVpkNTFaUXdBTzkxT09STFAwckw0MmNNTXNaMG1GbVFoQW4tVmpWdVJsLTdDTHR6UDVOYkIxZGtHMHluZlE0Z0lwMjR1Q3g1MEFhM3RIRW9iTzQ2TjJGdnZRQmYwenRNRHh3clhuRGNDMy03TkMtcWFJUTVBTU1ZWDVkODliZkd2TlllY083b3ctekNPVG4yQ015Zw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 15:15:58 GMT",
+        "title": "Académico de Viseu goleia Sp. Covilhã no primeiro jogo de pré-temporada - TVI",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0759,
+        "negative": 0.26,
+        "neutral": 0.5559,
+        "positive": 0.1841,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9927,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9927,
+            "SADNESS": 0.0057,
+            "CONTEMPT": 0.0054,
+            "JOY": 0.0053,
+            "FRUSTRATION": 0.004,
+            "ANGER": 0.0039,
+            "LOVE": 0.0029,
+            "FEAR": 0.0026,
+            "DISGUST": 0.002,
+            "GRATITUDE": 0.0017,
+            "SURPRISE": 0.0016
+        },
+        "keywords": [
+            {
+                "keyword": "pré temporada tvi benfica",
+                "score": 0.6056
+            },
+            {
+                "keyword": "temporada tvi benfica punido",
+                "score": 0.5876
+            },
+            {
+                "keyword": "temporada tvi benfica",
+                "score": 0.5722
+            },
+            {
+                "keyword": "viseu recebeu goleou",
+                "score": 0.5599
+            },
+            {
+                "keyword": "viseense equipa",
+                "score": 0.5452
+            },
+            {
+                "keyword": "viseu recebeu goleou sp",
+                "score": 0.5338
+            },
+            {
+                "keyword": "golos conjunto viseense equipa",
+                "score": 0.5337
+            },
+            {
+                "keyword": "viseense equipa comandada",
+                "score": 0.5261
+            },
+            {
+                "keyword": "conjunto viseense equipa",
+                "score": 0.5129
+            },
+            {
+                "keyword": "académico viseu recebeu goleou",
+                "score": 0.5048
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Soufiane Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Lorougnon Gohi",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio da Luz",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkxReGRXYTgwam9DWlVacFVyOEZ6UDB0U0QzcGVCZks2ckt1UnQ4T211VE9VVVEybUlLNzVXOW5pdUhDM1lhTHROWDZuMzNTQ2U3Q2pDRFFHQWpvY1VHbmxDSGNjMDJ5S1BoYkJabU4xSHp0bmN4WTN0M0tDZW16T3ljZ2ZUMHdLeFdjNno0WFRCUzVUeFBTQ3VUd3dzQm9GYU5pQTAzVmJMSXNVbWwxaNIBsAFBVV95cUxPNkxReGRXYTgwam9DWlVacFVyOEZ6UDB0U0QzcGVCZks2ckt1UnQ4T211VE9VVVEybUlLNzVXOW5pdUhDM1lhTHROWDZuMzNTQ2U3Q2pDRFFHQWpvY1VHbmxDSGNjMDJ5S1BoYkJabU4xSHp0bmN4WTN0M0tDZW16T3ljZ2ZUMHdLeFdjNno0WFRCUzVUeFBTQ3VUd3dzQm9GYU5pQTAzVmJMSXNVbWwxaA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 19:15:20 GMT",
+        "title": "Castores vencem Sp. Covilhã em Seia - Record",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -0.3212,
+        "negative": 0.4588,
+        "neutral": 0.4036,
+        "positive": 0.1376,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9914,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9914,
+            "CONTEMPT": 0.0222,
+            "JOY": 0.0118,
+            "SADNESS": 0.0054,
+            "FRUSTRATION": 0.0047,
+            "GRATITUDE": 0.0047,
+            "ANGER": 0.0034,
+            "LOVE": 0.0026,
+            "SURPRISE": 0.0024,
+            "DISGUST": 0.0023,
+            "FEAR": 0.0012
+        },
+        "keywords": [
+            {
+                "keyword": "goleada diante seleção",
+                "score": 0.6109
+            },
+            {
+                "keyword": "golos primeiro tempo jogo",
+                "score": 0.5972
+            },
+            {
+                "keyword": "golos primeiro tempo",
+                "score": 0.5882
+            },
+            {
+                "keyword": "valeu goleada diante seleção",
+                "score": 0.583
+            },
+            {
+                "keyword": "goleada diante seleção concelhia",
+                "score": 0.58
+            },
+            {
+                "keyword": "golos primeiro",
+                "score": 0.5707
+            },
+            {
+                "keyword": "diante seleção concelhia",
+                "score": 0.5523
+            },
+            {
+                "keyword": "ferreira venceu sábado sp",
+                "score": 0.5303
+            },
+            {
+                "keyword": "record castores vencem sp",
+                "score": 0.5207
+            },
+            {
+                "keyword": "diante seleção concelhia paços",
+                "score": 0.5174
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record Castores",
+                "label": "ORG"
+            },
+            {
+                "text": "P. Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Diogo Jota",
+                "label": "PER"
+            },
+            {
+                "text": "Christian",
+                "label": "PER"
+            },
+            {
+                "text": "Manuel José",
+                "label": "PER"
+            },
+            {
+                "text": "Jorge Simão",
+                "label": "PER"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "LOC"
+            },
+            {
+                "text": "João Góis",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Cardoso",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Baixinho",
+                "label": "PER"
+            },
+            {
+                "text": "Hélder Lopes",
+                "label": "PER"
+            },
+            {
+                "text": "Evrad",
+                "label": "PER"
+            },
+            {
+                "text": "Andrezinho",
+                "label": "PER"
+            },
+            {
+                "text": "Roniel",
+                "label": "PER"
+            },
+            {
+                "text": "Cícero",
+                "label": "PER"
+            },
+            {
+                "text": "Marafona",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Defendi",
+                "label": "PER"
+            },
+            {
+                "text": "Calvin",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Vi",
+                "label": "PER"
+            },
+            {
+                "text": "Romeu",
+                "label": "PER"
+            },
+            {
+                "text": "Vasco Rocha",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo António",
+                "label": "PER"
+            },
+            {
+                "text": "Edson Farias",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Henrique",
+                "label": "PER"
+            },
+            {
+                "text": "Minhoca",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Moreira",
+                "label": "PER"
+            },
+            {
+                "text": "Hurtado",
+                "label": "PER"
+            },
+            {
+                "text": "Barnes",
+                "label": "PER"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2RmWVJQV0tHWXhqbkZBREpRT21laEJMb2hxbzJ5T081amk5Z1QyRVB4aGJOUkRkQU5NRE9DQ2FMQjJrQ2lRc19OUDd6ajJ0NGZUdUdKSjVzUUNhWWdmUGQzZ1FoeVFTaXNGZ1hLTTZIZ0hQSDRXME1UM2NsVnlPeHc2b01oVDdKM1lLR3FIR0xSd25zbEE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 21:40:25 GMT",
+        "title": "Dani Matos é o novo treinador do Sp. Covilhã - SAPO",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0403,
+        "negative": 0.2492,
+        "neutral": 0.5419,
+        "positive": 0.2089,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0765,
+            "SADNESS": 0.0064,
+            "FRUSTRATION": 0.0052,
+            "ANGER": 0.0043,
+            "JOY": 0.0036,
+            "LOVE": 0.0031,
+            "DISGUST": 0.0025,
+            "SURPRISE": 0.0025,
+            "GRATITUDE": 0.0021,
+            "FEAR": 0.0015
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]

@@ -116453,6 +116453,354 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHNfVzlaTlc4aE9oRXhxRlF3MTR5Rk9za1d5bzJBS09FczlMaEhsb2wtS0VWV3JBQXBSVXpUR3JSZ1hXZzdYeXZOalA3RHRTYVhwTGtQV1VKMVNRcThJRWVRSmk2QXp0MFlaV18zcjlIV3ZwWkxWRjVrWXB1N1p5RThhZDRRVFRSaEF2b2xkdkdkTnVO?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "O homem que há 65 anos abre todas as fechaduras na Covilhã - Conta-Lá",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Casa Leão",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Chaveiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzRqd0ZfZ0hoMkxucXU0dTdhN0tzdlpKdno0TUpGWFB4OU1yZktydTQwcVNjVTNfaGUzQjcxYkJxQlZSSUhRMFI1M000UWhpYkRzYnNxV1hmcURMenJfN1VqdEhRdThZQ0FZTlNUTThpcmNlNmxhNmF5ZXphSFoyMkxfdXRjeng1bUV5bmI3VFdKVU9O?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 10:00:00 GMT",
+        "title_clean": "Covilhã – Exposição comemorativa dedicada ao pintor Eduardo Malta - Jornal A Guarda",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Eduardo Malta",
+                "label": "PER"
+            },
+            {
+                "text": "A Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Jornal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxPQk1vMFhXU0pPUjNpUS1jVXpNWi1hSVRyaFpzczc1aUY2ejZTdTNwYUtGVUVjTS0tOUtGLXZiX3liXzJRNExBeXB3UUItRlJWTFBRTkJnVGFtcnQ1SThnRlU4RjBxZ0dTeUNvdWtwMldxZF8wRUFYX3o1YnhFYXlIUzRUbXhjMk80NXZzV0VuUkR4eldCSjR3VmVfeXJPbURBTFRfR0UxSkR4eHlXbEHSAa4BQVVfeXFMT0JNbzBYV1NKT1IzaVEtY1V6TVotYUlUcmhac3M3NWlGNno2U3UzcGFLRlVFY00tLTlLRi12Yl95Yl8yUTRMQXlwd1FCLUZSVkxQUU5CZ1RhbXJ0NUk4Z0ZVOEYwcWdHU3lDb3VrcDJXcWRfMEVBWF96NWJ4RWF5SFM0VG14YzJPNDV2c1dFblJEeHpXQko0d1ZlX3lyT21EQUxUX0dFMUpEeHh5V2xB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 16:09:32 GMT",
+        "title_clean": "Duarte Carreira é reforço do Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Duarte Carreia",
+                "label": "PER"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Ordino",
+                "label": "ORG"
+            },
+            {
+                "text": "Andorra",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Camila Soeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXhOSmxNaVg4a3N0dWZMX3BDb2ZNTzNZTHpXZmJzYW5BR0NPbUxGelc1LWpyNjJ1TTZKMU9RSWpwLTVUcFZXTVVnTUg3azNtdGRaTWJ1MHFfRnctTWRRQ3FHVTZheERiZFNRaVFnSVA5VDF2czl0cHNvTkFnbFk4bFVWbWRScEdxZnBvaW9jMkFKaGYweFgtX1FxSQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã vai ser o centro da inovação nacional durante três dias - Conta-Lá",
+        "entities": [
+            {
+                "text": "Cidade",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Banco de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Startup Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Alexandre Teixeira dos Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Paula Duarte",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjJLTUJBZWtIN3NBVFNMRVFvN0ZxWnJfVUl2aUszamtMcDV6ekdZLVpkNTFaUXdBTzkxT09STFAwckw0MmNNTXNaMG1GbVFoQW4tVmpWdVJsLTdDTHR6UDVOYkIxZGtHMHluZlE0Z0lwMjR1Q3g1MEFhM3RIRW9iTzQ2TjJGdnZRQmYwenRNRHh3clhuRGNDMy03TkMtcWFJUTVBTU1ZWDVkODliZkd2TlllY083b3ctekNPVG4yQ015Zw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 15:15:58 GMT",
+        "title_clean": "Académico de Viseu goleia Sp. Covilhã no primeiro jogo de pré-temporada - TVI",
+        "entities": [
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Soufiane Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Lorougnon Gohi",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio da Luz",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkxReGRXYTgwam9DWlVacFVyOEZ6UDB0U0QzcGVCZks2ckt1UnQ4T211VE9VVVEybUlLNzVXOW5pdUhDM1lhTHROWDZuMzNTQ2U3Q2pDRFFHQWpvY1VHbmxDSGNjMDJ5S1BoYkJabU4xSHp0bmN4WTN0M0tDZW16T3ljZ2ZUMHdLeFdjNno0WFRCUzVUeFBTQ3VUd3dzQm9GYU5pQTAzVmJMSXNVbWwxaNIBsAFBVV95cUxPNkxReGRXYTgwam9DWlVacFVyOEZ6UDB0U0QzcGVCZks2ckt1UnQ4T211VE9VVVEybUlLNzVXOW5pdUhDM1lhTHROWDZuMzNTQ2U3Q2pDRFFHQWpvY1VHbmxDSGNjMDJ5S1BoYkJabU4xSHp0bmN4WTN0M0tDZW16T3ljZ2ZUMHdLeFdjNno0WFRCUzVUeFBTQ3VUd3dzQm9GYU5pQTAzVmJMSXNVbWwxaA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 19:15:20 GMT",
+        "title_clean": "Castores vencem Sp. Covilhã em Seia - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record Castores",
+                "label": "ORG"
+            },
+            {
+                "text": "P. Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Diogo Jota",
+                "label": "PER"
+            },
+            {
+                "text": "Christian",
+                "label": "PER"
+            },
+            {
+                "text": "Manuel José",
+                "label": "PER"
+            },
+            {
+                "text": "Jorge Simão",
+                "label": "PER"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "LOC"
+            },
+            {
+                "text": "João Góis",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Cardoso",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Baixinho",
+                "label": "PER"
+            },
+            {
+                "text": "Hélder Lopes",
+                "label": "PER"
+            },
+            {
+                "text": "Evrad",
+                "label": "PER"
+            },
+            {
+                "text": "Andrezinho",
+                "label": "PER"
+            },
+            {
+                "text": "Roniel",
+                "label": "PER"
+            },
+            {
+                "text": "Cícero",
+                "label": "PER"
+            },
+            {
+                "text": "Marafona",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Defendi",
+                "label": "PER"
+            },
+            {
+                "text": "Calvin",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Vi",
+                "label": "PER"
+            },
+            {
+                "text": "Romeu",
+                "label": "PER"
+            },
+            {
+                "text": "Vasco Rocha",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo António",
+                "label": "PER"
+            },
+            {
+                "text": "Edson Farias",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Henrique",
+                "label": "PER"
+            },
+            {
+                "text": "Minhoca",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Moreira",
+                "label": "PER"
+            },
+            {
+                "text": "Hurtado",
+                "label": "PER"
+            },
+            {
+                "text": "Barnes",
+                "label": "PER"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
