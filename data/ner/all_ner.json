@@ -116801,6 +116801,238 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNek9KMWJZaWRxdEEzUWpNVVpEQll0VUljSEYyb0Qtb2ppdkd2bWpHQTVRLWtYVnkxVjVneEdoMmFWTnVrMkpQUU1JbVJfVjJjbGVQTTE2MEREWUw4cHZfMHJrdkY5VHpoUUV6NTdNVnBFVGZGS05jeGFnaGg1YlZqNU5qUHQ2MEN5a3Nzc0JkQ2VoZlZDWXNJckZyNFR2bzRuUnk5WnBPbWstajJ0bjNmdjJLX1FOMzI4?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã Innov Summit encerra segunda edição com personalidades da política e economia - Conta-Lá",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVdqU3RnQXVBRlh0SFpQbFJUQmlQRW82SW15WVlOZlRVWWNXYk1IQ0pnTWYyU05VRnJIcG1CdVpEdV9jTjdyMmtEN3ZHaTZDaVNnQVdpNFhTbG14eXQxVnZtTmQ0VGlJenVtV09JMDQ2eUY0alFLdm9Vamt1al92UFNseEkwTGpvNTEzQXE2VXFKdU9EeUFpY3I3eHhVS2N6ZjBQTFFkaVZWeWM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 09:48:00 GMT",
+        "title_clean": "Apicultores da Covilhã aguardam apoios para voltar a investir após incêndio - Conta-Lá",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGR6QXRSbElPRVR2dE9sT3dmTW5KYzJFVXJCVFJ0TWRsUjlPVGR2M3hqZGRWNEx5SWNtVlgyc3lmUC1yNzNLVzExYk50TW9MRFVENXFPVFkxVld4OEIwNE1hOFkxakxWNHpVN3ZELUJmMzBNTFRuR001eDZlSl9ZSGpCaDNFVnhXb3JmWVNzV2Z4NTBFNnc?oc=5",
+        "source": "news",
+        "created_at": "Sat, 11 Jul 2026 14:46:53 GMT",
+        "title_clean": "Covilhã traquina garante um ponto em Penafiel (1-1) - Flashscore.com",
+        "entities": [
+            {
+                "text": "Penafiel",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio",
+                "label": "LOC"
+            },
+            {
+                "text": "Fábio Fortes",
+                "label": "PER"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Traquina",
+                "label": "PER"
+            },
+            {
+                "text": "Caio Secco",
+                "label": "PER"
+            },
+            {
+                "text": "Aponza",
+                "label": "PER"
+            },
+            {
+                "text": "Nacional",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxPMklqYnd5N3phUUg3WVVCdkVnZzBMMVlvME9EVVgySnVWaU9rNlczM3pHNVFaUl90eGVSNXhibTZCb2dtdUxSS1c2cjdlQTUyWEpaTm1oTVBDU09iY09ON3FCanNvRjRFbWd0SnViSnc3ODlrLXBTRHR0SVBVM2ZfdGxPQVdUZXR6TlF5OVdnN0xaUHpnZEl4VU9kWjJhVk5tS3l4UHE0VGN0eW1C?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:12:00 GMT",
+        "title_clean": "Oficial: Alverca empresta Kauan Gomes ao Sporting da Covilhã - Resultados",
+        "entities": [
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Atlético Goianiense",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "SC Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Palmeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Rhaldney",
+                "label": "PER"
+            },
+            {
+                "text": "Goztepe",
+                "label": "LOC"
+            },
+            {
+                "text": "Turquia",
+                "label": "LOC"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Fábricio Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Estoril Praia",
+                "label": "ORG"
+            },
+            {
+                "text": "Marezi",
+                "label": "PER"
+            },
+            {
+                "text": "Almeria",
+                "label": "LOC"
+            },
+            {
+                "text": "Mathis Clairicia",
+                "label": "PER"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Bursaspor",
+                "label": "ORG"
+            },
+            {
+                "text": "Sérgio Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Villareal",
+                "label": "ORG"
+            },
+            {
+                "text": "Pau FC",
+                "label": "ORG"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Marco Essimi",
+                "label": "PER"
+            },
+            {
+                "text": "Lucca Giuntini",
+                "label": "PER"
+            },
+            {
+                "text": "Mirandela",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
