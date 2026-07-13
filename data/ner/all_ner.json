@@ -117173,6 +117173,74 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxONUt1Z29BX3B3c3Jwdm5jS3lGRUhzMDRPbjFzd0I4ZFdwMG1remY1YWoxa1FaQXJRMFVUWnNXaVRtRVotSDh2QjhFT21URVFGUkExOEZhRU1hOEZITU9Ba0s2Xy1SeUNqSmxNYVdtV0Z1QVlzZmhBM2RsR0V4Z1ZtVWVzc0s4VE1CQzZhWFN3NUFkUTlxampSZkh1M0ZZMTBKSUR4a0U0bXJON3ZCYmt4VlE3MWNUYmNaZEllSVpaak9iVHAta2VSTDY4azY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 12:59:09 GMT",
+        "title_clean": "Futebol: Académico de Viseu goleia Sporting da Covilhã no primeiro teste da pré-época",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio do Fontelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Bruno Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Nils Mortimer",
+                "label": "PER"
+            },
+            {
+                "text": "Messeguem",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Zamora",
+                "label": "PER"
+            },
+            {
+                "text": "André Clóvis",
+                "label": "PER"
+            },
+            {
+                "text": "Cádis",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Estação Diária",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiaEFVX3lxTE80WEJWXzVGVzVyTG9RMjBFUmNjRXhmaGNWWWNkQlhhUGVNbW03NG1XUzdqZ3U3blA4YThLUWZEQjVxWHY2WE9kVVdRa2dUMXJaZE1DYTYxUFhnU1dFc3B0cTF3Yk5kYnVp?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 22:04:15 GMT",
+        "title_clean": "SC Covilhã (Fut.7 Jun.G S7) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -120474,6 +120542,22 @@
             {
                 "text": "Académico de Viseu",
                 "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mqjwrvkvds2c",
+        "source": "bluesky",
+        "created_at": "2026-07-13T14:48:41.672Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
             }
         ]
     },

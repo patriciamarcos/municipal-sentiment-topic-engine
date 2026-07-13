@@ -119870,5 +119870,105 @@
             }
         ],
         "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxONUt1Z29BX3B3c3Jwdm5jS3lGRUhzMDRPbjFzd0I4ZFdwMG1remY1YWoxa1FaQXJRMFVUWnNXaVRtRVotSDh2QjhFT21URVFGUkExOEZhRU1hOEZITU9Ba0s2Xy1SeUNqSmxNYVdtV0Z1QVlzZmhBM2RsR0V4Z1ZtVWVzc0s4VE1CQzZhWFN3NUFkUTlxampSZkh1M0ZZMTBKSUR4a0U0bXJON3ZCYmt4VlE3MWNUYmNaZEllSVpaak9iVHAta2VSTDY4azY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 12:59:09 GMT",
+        "title_clean": "Futebol: Académico de Viseu goleia Sporting da Covilhã no primeiro teste da pré-época",
+        "clean_text": "Futebol: Académico de Viseu goleia Sporting da Covilhã no primeiro teste da pré-época. O Académico de Viseu venceu esta manhã o Sporting da Covilhã, equipa da Liga 3, por 5-0, no Estádio do Fontelo, naquele que foi o primeiro jogo de preparação da equipa para a nova temporada na I Liga. Os golos da formação orientada por Bruno Pinheiro foram apontados por Nils Mortimer, Messeguem, Álvaro Zamora, André Clóvis e Gohi. A equipa segue agora para Cádis, em Espanha, onde realizará um estágio de pré-temporada entre 11 e 18 de julho. Esta e outras notícias para ouvir na Estação Diária - 96.8 FM ou em",
+        "keywords": [
+            {
+                "keyword": "viseu venceu manhã sporting",
+                "score": 0.6801
+            },
+            {
+                "keyword": "venceu manhã sporting",
+                "score": 0.6163
+            },
+            {
+                "keyword": "viseu goleia sporting",
+                "score": 0.5741
+            },
+            {
+                "keyword": "académico viseu venceu manhã",
+                "score": 0.5365
+            },
+            {
+                "keyword": "viseu venceu manhã",
+                "score": 0.5293
+            },
+            {
+                "keyword": "equipa liga estádio fontelo",
+                "score": 0.5241
+            },
+            {
+                "keyword": "liga estádio",
+                "score": 0.5078
+            },
+            {
+                "keyword": "equipa liga estádio",
+                "score": 0.5001
+            },
+            {
+                "keyword": "venceu manhã",
+                "score": 0.4956
+            },
+            {
+                "keyword": "equipa liga",
+                "score": 0.4899
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiaEFVX3lxTE80WEJWXzVGVzVyTG9RMjBFUmNjRXhmaGNWWWNkQlhhUGVNbW03NG1XUzdqZ3U3blA4YThLUWZEQjVxWHY2WE9kVVdRa2dUMXJaZE1DYTYxUFhnU1dFc3B0cTF3Yk5kYnVp?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 22:04:15 GMT",
+        "title_clean": "SC Covilhã (Fut.7 Jun.G S7) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "clean_text": "SC Covilhã (Fut.7 Jun.G S7) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "keywords": [
+            {
+                "keyword": "portugal jogos classificações plantel",
+                "score": 0.8119
+            },
+            {
+                "keyword": "s7 portugal jogos classificações",
+                "score": 0.8037
+            },
+            {
+                "keyword": "portugal jogos classificações",
+                "score": 0.7987
+            },
+            {
+                "keyword": "jun s7 portugal jogos",
+                "score": 0.7851
+            },
+            {
+                "keyword": "s7 portugal jogos",
+                "score": 0.7373
+            },
+            {
+                "keyword": "portugal jogos",
+                "score": 0.6967
+            },
+            {
+                "keyword": "fut jun s7 portugal",
+                "score": 0.6667
+            },
+            {
+                "keyword": "jun s7 portugal",
+                "score": 0.6466
+            },
+            {
+                "keyword": "s7 portugal",
+                "score": 0.5865
+            },
+            {
+                "keyword": "jogos classificações plantel estatísticas",
+                "score": 0.5843
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]

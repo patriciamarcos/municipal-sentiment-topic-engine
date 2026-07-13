@@ -6047,5 +6047,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mqjwrvkvds2c",
+        "source": "bluesky",
+        "created_at": "2026-07-13T14:48:41.672Z",
+        "title_clean": "",
+        "clean_text": "Neste período, a PSP deteve quatro homens por conduzirem veículos sem habilitação legal. Três das detenções ocorreram em Castelo Branco, envolvendo indivíduos com 19, 21 e 25 anos, enquanto a quarta ocorreu na Covilhã, onde foi detido um homem de 39 anos. 📌 on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "psp deteve quatro homens",
+                "score": 0.6375
+            },
+            {
+                "keyword": "detenções ocorreram castelo branco",
+                "score": 0.6211
+            },
+            {
+                "keyword": "detenções ocorreram",
+                "score": 0.6094
+            },
+            {
+                "keyword": "legal três detenções ocorreram",
+                "score": 0.5979
+            },
+            {
+                "keyword": "três detenções ocorreram",
+                "score": 0.5897
+            },
+            {
+                "keyword": "detido homem 39 on",
+                "score": 0.5858
+            },
+            {
+                "keyword": "legal três detenções",
+                "score": 0.584
+            },
+            {
+                "keyword": "habilitação legal três detenções",
+                "score": 0.5773
+            }
+        ],
+        "source_name": null
     }
 ]
