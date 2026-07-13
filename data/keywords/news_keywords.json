@@ -119670,5 +119670,205 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHkxcXptMG1kZ2Rza2VKT3hHbXNmcjJyRXo1dlRvXzU3b3FfUnNQS2Nfc25KT0hSanR1c21NZVJEOEp4ZFZKanZPcldjbXlMd3NDc3JmWklHMXJkMXZwS1lCOHUxTjh0ZUZuc29zSnJUV2R1MGVyRjcydkRtcm5PU3dTamFEaDFjcnJwZE5JREFScEFFTVVNczFwT2NHOHB3NVk0?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 09:57:06 GMT",
+        "title_clean": "Covilhã: Município promove “Banhos Seguros” na Piscina Praia",
+        "clean_text": "Covilhã: Município promove \"Banhos Seguros\" na Piscina Praia. O Município da Covilhã está a promover a iniciativa \"Banhos Seguros\", dinamizando ações de sensibilização, demonstração e prática de técnicas básicas de Primeiros Socorros, SBV, Prevenção, Salvamento Aquático, Riscos e Perigos do Verão nas Piscinas e Praias Fluviais. A iniciativa acontece diariamente, pelas 11:00, na Piscina Praia da Covilhã, com a duração de 20 a 30 minutos. Irá estar a decorrer até dia 17 de julho e conta com a participação de ATL's (crianças), que naquele horário estejam a frequentar o espaço. Recordar que a atividade é realizada pelos nadadores salvadores e técnicos municipais de desporto, com a colaboração dos Bombeiros Voluntários da Covilhã. Foto: Município da Covilhã",
+        "keywords": [
+            {
+                "keyword": "promover iniciativa banhos seguros",
+                "score": 0.6318
+            },
+            {
+                "keyword": "seguros dinamizando ações sensibilização",
+                "score": 0.6173
+            },
+            {
+                "keyword": "socorros sbv prevenção",
+                "score": 0.6132
+            },
+            {
+                "keyword": "socorros sbv prevenção salvamento",
+                "score": 0.608
+            },
+            {
+                "keyword": "iniciativa banhos seguros dinamizando",
+                "score": 0.6007
+            },
+            {
+                "keyword": "iniciativa acontece diariamente 11",
+                "score": 0.5767
+            },
+            {
+                "keyword": "fluviais iniciativa acontece",
+                "score": 0.57
+            },
+            {
+                "keyword": "fluviais iniciativa",
+                "score": 0.5687
+            },
+            {
+                "keyword": "fluviais iniciativa acontece diariamente",
+                "score": 0.5587
+            },
+            {
+                "keyword": "promover iniciativa",
+                "score": 0.5537
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVNZdU1WOTVYNnZPRDlWd0tGRjBSNjQ0NDBlSzV2ZXRTUUJCVUJzQU1HaW1uZHJwLVpYYzk4bzd2dkZXQ05tV0dEbGQwbjN3WGxDMWdJV2Fockl5cmdOZDhhVXdZNklqUTNYT3EyUS1FdXkzX3FYWGlnMGFaRHB5ejl3?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 03:48:32 GMT",
+        "title_clean": "Pensar Portugal – Os desafios da Beira Interior - Conta-Lá",
+        "clean_text": "Pensar Portugal - Os desafios da Beira Interior - Conta-Lá. Sinopse Com um legado industrial no setor dos lanifícios, a Covilhã é hoje um município capaz de captar investimento de empresas ligadas à inovação. Atrair e reter talento é o desígnio do desenvolvimento da região. Os desafios são abordados pelo Conta Lá, com a ajuda de Hélio Fazendeiro, presidente da Câmara Municipal da Covilhã, Carlos Condesso, presidente da CIM Região Beiras e Serra da Estrela e autarca de Figueira de Castelo Rodrigo, Luís Veiga, administrador executivo do Grupo Natura IMB Hotels, e Mário Raposo, ex-Reitor da Universidade da Beira Interior. Veja também",
+        "keywords": [
+            {
+                "keyword": "desígnio desenvolvimento região desafios",
+                "score": 0.6528
+            },
+            {
+                "keyword": "desígnio desenvolvimento região",
+                "score": 0.6507
+            },
+            {
+                "keyword": "talento desígnio desenvolvimento região",
+                "score": 0.637
+            },
+            {
+                "keyword": "ligadas inovação atrair reter",
+                "score": 0.6344
+            },
+            {
+                "keyword": "desenvolvimento região desafios são",
+                "score": 0.6307
+            },
+            {
+                "keyword": "ligadas inovação atrair",
+                "score": 0.6076
+            },
+            {
+                "keyword": "desenvolvimento região desafios",
+                "score": 0.6064
+            },
+            {
+                "keyword": "ligadas inovação",
+                "score": 0.5919
+            },
+            {
+                "keyword": "região desafios são",
+                "score": 0.5904
+            },
+            {
+                "keyword": "inovação atrair reter",
+                "score": 0.5814
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWVJaEtfcnVFcTlDdmZhRU5Wb1NOVVJOOW5TbUdOSTlvUTdfaEIyM3Y0Rnp2ZmF3aktNMHhUZVVHSElOSHJSVHdwNGY5djQ5blpnQU4yYTRBZXJFd21ndHFjVGlkYlMxSUdQUXBFNDI3WXZlRjRFUTczcWhwV0llLVhudDdfTW9KY2FnYkVSa25nTTRyLWt5M3pCeUdXNzBkX0tUNlJxcHE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "“O interior é mais competitivo para a criação de negócios do que o litoral” - Conta-Lá",
+        "clean_text": "\"O interior é mais competitivo para a criação de negócios do que o litoral\" - Conta-Lá. No primeiro dia da Covilhã Innov Summit, o economista e antigo ministro Duarte Cordeiro frisou, num debate transmitido pelo Conta Lá, que quem quiser investir e criar uma empresa encontra inúmeras vantagens no interior, nomeadamente o custo de vida. 20 abr. 2026, 17:00 Primeiro debate da Covilhã Innov Summit transmitido pelo Conta Lá A Covilhã Innov Summit pretende ser um espaço de partilha de conhecimento e inovação e no primeiro debate emitido pelo Conta Lá, esta segunda-feira, Dina Pereira, gestora da UBImedical, sublinhou que o evento é um encontro de ideias e de experiências entre empreendedores, investidores e empresários. \"Pretendemos divulgar o que se está a fazer em termos de inovação, de empreendedorismo e de criatividade na região. Queremos trazer pessoas que tenham interesse na inovação, no empreendedorismo, na biotecnologia, na saúde, no financiamento, no investimento, na sustentabilidade e na economia circular. E também queremos captar estudantes do secundário e do ensino superior para perceberem que a região tem muito para dar em termos de criatividade, investigação e oportunidades\", disse. A responsável explicou que a UBImedical é uma incubadora de empresas, com 49 startups incubadas e 11 laboratórios, de onde têm surgido projetos que se traduzem em negócios. Dina Pereira deixou ainda um conselho para os empreendedores ouvirem o mercado e a indústria. \"Vamos concretizar aproximações ao mercado e potenciar interessados em falar mais sobre aquele projeto empreendedor\", sublinhou. Para João Marques, vereador da Câmara municipal da Covilhã, com os pelouros da economia, empreendedorismo, inovação e tecnologia, estes três dias são de partilha e servem para mostrar ao país e aos investidores que \"a Covilhã é o motor de desenvolvimento económico e social da Beira Interior.\" Referiu ainda que no ecossistema tecnológico, industrial e turístico, a cidade tem, nos últimos anos, um crescimento muito forte dentro destas áreas. \"A autarquia tem desenvolvido infraestruturas e assume sempre um papel parceiro em tudo o que são investimentos, ideias e damos condições a todas as entidades e projetos que precisem\", destacou A Covilhã, para além da indústria, retém talento e criatividade com a Universidade da Beira Interior, assim como nos cursos focados nas engenharias, na inovação e na inteligência artificial. Segundo João Marques, esse desenvolvimento científico \"tem que ser transformado em inovação produtiva, e com isso conseguimos criar novas empresas, valor e postos de trabalho e é essa a nossa linha de desenvolvimento económico queremos continuar a incentivar\". Já o economista Duarte Cordeiro, ex-ministro do Ambiente e da Ação Climática, que abordou o tema \"Empreendedorismo ESG\", afirmou que este é um tipo de empreendedorismo que Portugal precisa e que quer obviamente ter em quantidade e qualidade. Mas que, para isso, é necessário existir uma \"noção clara das necessidades, daquilo que são os desafios que o país vai ter para o futuro\". \"A inovação é necessária em muitas dimensões é e também naquilo que nós precisamos de fazer do ponto de vista ambiental, do ponto de vista da descarbonização. A eficiência também é muito importante, na forma como aumentamos a circularidade, melhoramos processos para precisar de menos recursos. Pode ser fundamental na parte tecnológica para encontrar novas soluções. O empreendedorismo tem que responder a desafios concretos para poder ganhar relevância, dimensão e importância\", frisou Duarte Cordeiro lembrou que alguns destes territórios do interior, onde existem universidades com grande capacidade como a UBI são mais competitivos para a criação de negócios do que o litoral e os grandes centros urbanos porque o custo de vida é mais baixo. \"Hoje as empresas ainda não perceberam isso, porque há o efeito de atratividade de uma ilusão que é fundamental estar na zona de centros urbanos. No entanto, quem quer lançar determinadas empresas e tem consciência de que os custos são significativos na fase inicial encontra muito mais vantagens no interior\". Segundo o economista, esta é uma realidade que \"vai mudar com o tempo. Falta criar vantagens efetivas fiscais e sociais\". Tags relacionadas: Covilhã Economia Investimento Teatro Municipal da Covilhã",
+        "keywords": [
+            {
+                "keyword": "vantagens interior economista",
+                "score": 0.6279
+            },
+            {
+                "keyword": "inovação primeiro debate emitido",
+                "score": 0.6263
+            },
+            {
+                "keyword": "interior economista realidade",
+                "score": 0.5919
+            },
+            {
+                "keyword": "quem quiser investir criar",
+                "score": 0.5844
+            },
+            {
+                "keyword": "falar projeto empreendedor sublinhou",
+                "score": 0.5818
+            },
+            {
+                "keyword": "investimentos ideias damos condições",
+                "score": 0.5787
+            },
+            {
+                "keyword": "frisou debate",
+                "score": 0.5775
+            },
+            {
+                "keyword": "innov summit economista antigo",
+                "score": 0.5554
+            },
+            {
+                "keyword": "empresas consciência custos são",
+                "score": 0.5463
+            },
+            {
+                "keyword": "economista duarte",
+                "score": 0.5389
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxQeExyWDBZN2s2dzc3N3p3SkFQNVk5ZnR1STc0WGxyc0MzYVZRQnZwakNDejJyTk9fZGxwUTdyUVhjZEV1cXlTTXRMQ3VNR0ZpcnZiZ2FfTmtuWlktZkdwaUhmQ3dkeWZYbWFwWWt0QTFfYkZiVGJzUmpFRWE5YUVUcTRSX2wxVTQtRE50aUJtUmJhMXRna2ZkbEFELXBudUgwR1JNUXdSdU8yOTAxWVdlWXNkUkt1Zw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 10:44:08 GMT",
+        "title_clean": "UFCC lança programa “Escola para Todos” com atribuição de Voucher Escolar",
+        "clean_text": "UFCC lança programa \"Escola para Todos\" com atribuição de Voucher Escolar. A União das Freguesias de Covilhã e Canhoso lançou o programa \"Escola para Todos\", uma medida de apoio às famílias na preparação do próximo ano letivo, através da atribuição de um Voucher Escolar. Com candidaturas abertas durante o mês de julho, este apoio poderá comparticipar até 100 por cento do valor dos materiais abrangidos (cadernos/fichas de atividades), assumindo-se como uma resposta concreta junto das famílias que mais necessitam. O programa destina-se a crianças residentes na União das Freguesias de Covilhã e Canhoso, matriculadas no 1.º ciclo do Ensino Básico, em estabelecimentos de ensino da área da UFCC, cujas famílias sejam abrangidas pelo Abono de Família da Segurança Social. Segundo nota enviada à RCC, \"com esta medida, a UFCC pretende contribuir para uma escola mais acessível, mais justa e mais próxima das necessidades reais das famílias, reduzindo encargos no início do ano letivo e promovendo melhores condições para o percurso escolar das crianças.\" As candidaturas devem ser formalizadas através do formulário próprio, disponível no site da União das Freguesias de Covilhã e Canhoso, onde poderá também ser consultado o respetivo regulamento. Depois de preenchido, o formulário deverá ser remetido, juntamente com os documentos solicitados, para o e-mail: . Recorde-se que as candidaturas poderão também ser entregues presencialmente nos edifícios da UFCC, na Covilhã e no Canhoso.",
+        "keywords": [
+            {
+                "keyword": "pretende contribuir escola acessível",
+                "score": 0.7633
+            },
+            {
+                "keyword": "lança programa escola todos",
+                "score": 0.7613
+            },
+            {
+                "keyword": "lançou programa escola todos",
+                "score": 0.7564
+            },
+            {
+                "keyword": "pretende contribuir escola",
+                "score": 0.7511
+            },
+            {
+                "keyword": "escola todos medida apoio",
+                "score": 0.7467
+            },
+            {
+                "keyword": "ufcc pretende contribuir escola",
+                "score": 0.7443
+            },
+            {
+                "keyword": "programa escola todos medida",
+                "score": 0.7441
+            },
+            {
+                "keyword": "lançou programa escola",
+                "score": 0.7418
+            },
+            {
+                "keyword": "programa escola todos atribuição",
+                "score": 0.7394
+            },
+            {
+                "keyword": "contribuir escola acessível",
+                "score": 0.7328
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
     }
 ]

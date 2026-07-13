@@ -333339,5 +333339,894 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHkxcXptMG1kZ2Rza2VKT3hHbXNmcjJyRXo1dlRvXzU3b3FfUnNQS2Nfc25KT0hSanR1c21NZVJEOEp4ZFZKanZPcldjbXlMd3NDc3JmWklHMXJkMXZwS1lCOHUxTjh0ZUZuc29zSnJUV2R1MGVyRjcydkRtcm5PU3dTamFEaDFjcnJwZE5JREFScEFFTVVNczFwT2NHOHB3NVk0?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 09:57:06 GMT",
+        "title": "Covilhã: Município promove “Banhos Seguros” na Piscina Praia - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0967,
+        "negative": 0.0977,
+        "neutral": 0.7078,
+        "positive": 0.1944,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9913,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9913,
+            "FRUSTRATION": 0.0076,
+            "DISGUST": 0.0043,
+            "CONTEMPT": 0.0043,
+            "JOY": 0.0043,
+            "ANGER": 0.0033,
+            "FEAR": 0.0028,
+            "SADNESS": 0.0025,
+            "SURPRISE": 0.0024,
+            "GRATITUDE": 0.0016,
+            "LOVE": 0.0015
+        },
+        "keywords": [
+            {
+                "keyword": "promover iniciativa banhos seguros",
+                "score": 0.6318
+            },
+            {
+                "keyword": "seguros dinamizando ações sensibilização",
+                "score": 0.6173
+            },
+            {
+                "keyword": "socorros sbv prevenção",
+                "score": 0.6132
+            },
+            {
+                "keyword": "socorros sbv prevenção salvamento",
+                "score": 0.608
+            },
+            {
+                "keyword": "iniciativa banhos seguros dinamizando",
+                "score": 0.6007
+            },
+            {
+                "keyword": "iniciativa acontece diariamente 11",
+                "score": 0.5767
+            },
+            {
+                "keyword": "fluviais iniciativa acontece",
+                "score": 0.57
+            },
+            {
+                "keyword": "fluviais iniciativa",
+                "score": 0.5687
+            },
+            {
+                "keyword": "fluviais iniciativa acontece diariamente",
+                "score": 0.5587
+            },
+            {
+                "keyword": "promover iniciativa",
+                "score": 0.5537
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Piscina Praia Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Bombeiros Voluntários da Covilhã",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVNZdU1WOTVYNnZPRDlWd0tGRjBSNjQ0NDBlSzV2ZXRTUUJCVUJzQU1HaW1uZHJwLVpYYzk4bzd2dkZXQ05tV0dEbGQwbjN3WGxDMWdJV2Fockl5cmdOZDhhVXdZNklqUTNYT3EyUS1FdXkzX3FYWGlnMGFaRHB5ejl3?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 03:48:32 GMT",
+        "title": "Pensar Portugal – Os desafios da Beira Interior - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.076,
+        "negative": 0.1122,
+        "neutral": 0.6995,
+        "positive": 0.1883,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9829,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9829,
+            "CONTEMPT": 0.0545,
+            "SURPRISE": 0.0167,
+            "ANGER": 0.0136,
+            "JOY": 0.007,
+            "LOVE": 0.0066,
+            "GRATITUDE": 0.0057,
+            "SADNESS": 0.005,
+            "DISGUST": 0.0023,
+            "FRUSTRATION": 0.0022,
+            "FEAR": 0.001
+        },
+        "keywords": [
+            {
+                "keyword": "desígnio desenvolvimento região desafios",
+                "score": 0.6528
+            },
+            {
+                "keyword": "desígnio desenvolvimento região",
+                "score": 0.6507
+            },
+            {
+                "keyword": "talento desígnio desenvolvimento região",
+                "score": 0.637
+            },
+            {
+                "keyword": "ligadas inovação atrair reter",
+                "score": 0.6344
+            },
+            {
+                "keyword": "desenvolvimento região desafios são",
+                "score": 0.6307
+            },
+            {
+                "keyword": "ligadas inovação atrair",
+                "score": 0.6076
+            },
+            {
+                "keyword": "desenvolvimento região desafios",
+                "score": 0.6064
+            },
+            {
+                "keyword": "ligadas inovação",
+                "score": 0.5919
+            },
+            {
+                "keyword": "região desafios são",
+                "score": 0.5904
+            },
+            {
+                "keyword": "inovação atrair reter",
+                "score": 0.5814
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta Lá",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Carlos Condesso",
+                "label": "PER"
+            },
+            {
+                "text": "CIM Região",
+                "label": "ORG"
+            },
+            {
+                "text": "Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueira de Castelo Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Luís Veiga",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo Natura IMB Hotels",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWVJaEtfcnVFcTlDdmZhRU5Wb1NOVVJOOW5TbUdOSTlvUTdfaEIyM3Y0Rnp2ZmF3aktNMHhUZVVHSElOSHJSVHdwNGY5djQ5blpnQU4yYTRBZXJFd21ndHFjVGlkYlMxSUdQUXBFNDI3WXZlRjRFUTczcWhwV0llLVhudDdfTW9KY2FnYkVSa25nTTRyLWt5M3pCeUdXNzBkX0tUNlJxcHE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "“O interior é mais competitivo para a criação de negócios do que o litoral” - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1212,
+        "negative": 0.3192,
+        "neutral": 0.4828,
+        "positive": 0.198,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9897,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9897,
+            "JOY": 0.0068,
+            "ANGER": 0.0052,
+            "SURPRISE": 0.0051,
+            "FRUSTRATION": 0.0048,
+            "CONTEMPT": 0.0036,
+            "DISGUST": 0.0026,
+            "GRATITUDE": 0.0024,
+            "LOVE": 0.0024,
+            "FEAR": 0.0022,
+            "SADNESS": 0.0021
+        },
+        "keywords": [
+            {
+                "keyword": "vantagens interior economista",
+                "score": 0.6279
+            },
+            {
+                "keyword": "inovação primeiro debate emitido",
+                "score": 0.6263
+            },
+            {
+                "keyword": "interior economista realidade",
+                "score": 0.5919
+            },
+            {
+                "keyword": "quem quiser investir criar",
+                "score": 0.5844
+            },
+            {
+                "keyword": "falar projeto empreendedor sublinhou",
+                "score": 0.5818
+            },
+            {
+                "keyword": "investimentos ideias damos condições",
+                "score": 0.5787
+            },
+            {
+                "keyword": "frisou debate",
+                "score": 0.5775
+            },
+            {
+                "keyword": "innov summit economista antigo",
+                "score": 0.5554
+            },
+            {
+                "keyword": "empresas consciência custos são",
+                "score": 0.5463
+            },
+            {
+                "keyword": "economista duarte",
+                "score": 0.5389
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Duarte Cordeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Conta Lá",
+                "label": "ORG"
+            },
+            {
+                "text": "Dina Pereira",
+                "label": "PER"
+            },
+            {
+                "text": "UBImedical",
+                "label": "ORG"
+            },
+            {
+                "text": "João Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeExyWDBZN2s2dzc3N3p3SkFQNVk5ZnR1STc0WGxyc0MzYVZRQnZwakNDejJyTk9fZGxwUTdyUVhjZEV1cXlTTXRMQ3VNR0ZpcnZiZ2FfTmtuWlktZkdwaUhmQ3dkeWZYbWFwWWt0QTFfYkZiVGJzUmpFRWE5YUVUcTRSX2wxVTQtRE50aUJtUmJhMXRna2ZkbEFELXBudUgwR1JNUXdSdU8yOTAxWVdlWXNkUkt1Zw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 10:44:08 GMT",
+        "title": "UFCC lança programa “Escola para Todos” com atribuição de Voucher Escolar - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0919,
+        "negative": 0.3086,
+        "neutral": 0.4747,
+        "positive": 0.2167,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9845,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9845,
+            "LOVE": 0.0081,
+            "CONTEMPT": 0.005,
+            "ANGER": 0.004,
+            "JOY": 0.0032,
+            "SADNESS": 0.0027,
+            "FRUSTRATION": 0.0024,
+            "GRATITUDE": 0.0023,
+            "SURPRISE": 0.0022,
+            "DISGUST": 0.0021,
+            "FEAR": 0.0019
+        },
+        "keywords": [
+            {
+                "keyword": "pretende contribuir escola acessível",
+                "score": 0.7633
+            },
+            {
+                "keyword": "lança programa escola todos",
+                "score": 0.7613
+            },
+            {
+                "keyword": "lançou programa escola todos",
+                "score": 0.7564
+            },
+            {
+                "keyword": "pretende contribuir escola",
+                "score": 0.7511
+            },
+            {
+                "keyword": "escola todos medida apoio",
+                "score": 0.7467
+            },
+            {
+                "keyword": "ufcc pretende contribuir escola",
+                "score": 0.7443
+            },
+            {
+                "keyword": "programa escola todos medida",
+                "score": 0.7441
+            },
+            {
+                "keyword": "lançou programa escola",
+                "score": 0.7418
+            },
+            {
+                "keyword": "programa escola todos atribuição",
+                "score": 0.7394
+            },
+            {
+                "keyword": "contribuir escola acessível",
+                "score": 0.7328
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "União das Freguesias de Covilhã e Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Segurança Social",
+                "label": "ORG"
+            },
+            {
+                "text": "União das Freguesias de Covilhã e Canhoso",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]

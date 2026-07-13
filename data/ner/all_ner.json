@@ -117033,6 +117033,146 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHkxcXptMG1kZ2Rza2VKT3hHbXNmcjJyRXo1dlRvXzU3b3FfUnNQS2Nfc25KT0hSanR1c21NZVJEOEp4ZFZKanZPcldjbXlMd3NDc3JmWklHMXJkMXZwS1lCOHUxTjh0ZUZuc29zSnJUV2R1MGVyRjcydkRtcm5PU3dTamFEaDFjcnJwZE5JREFScEFFTVVNczFwT2NHOHB3NVk0?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 09:57:06 GMT",
+        "title_clean": "Covilhã: Município promove “Banhos Seguros” na Piscina Praia",
+        "entities": [
+            {
+                "text": "Piscina Praia Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Bombeiros Voluntários da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVNZdU1WOTVYNnZPRDlWd0tGRjBSNjQ0NDBlSzV2ZXRTUUJCVUJzQU1HaW1uZHJwLVpYYzk4bzd2dkZXQ05tV0dEbGQwbjN3WGxDMWdJV2Fockl5cmdOZDhhVXdZNklqUTNYT3EyUS1FdXkzX3FYWGlnMGFaRHB5ejl3?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 03:48:32 GMT",
+        "title_clean": "Pensar Portugal – Os desafios da Beira Interior - Conta-Lá",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta Lá",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Carlos Condesso",
+                "label": "PER"
+            },
+            {
+                "text": "CIM Região",
+                "label": "ORG"
+            },
+            {
+                "text": "Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueira de Castelo Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Luís Veiga",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo Natura IMB Hotels",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWVJaEtfcnVFcTlDdmZhRU5Wb1NOVVJOOW5TbUdOSTlvUTdfaEIyM3Y0Rnp2ZmF3aktNMHhUZVVHSElOSHJSVHdwNGY5djQ5blpnQU4yYTRBZXJFd21ndHFjVGlkYlMxSUdQUXBFNDI3WXZlRjRFUTczcWhwV0llLVhudDdfTW9KY2FnYkVSa25nTTRyLWt5M3pCeUdXNzBkX0tUNlJxcHE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "“O interior é mais competitivo para a criação de negócios do que o litoral” - Conta-Lá",
+        "entities": [
+            {
+                "text": "Duarte Cordeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Conta Lá",
+                "label": "ORG"
+            },
+            {
+                "text": "Dina Pereira",
+                "label": "PER"
+            },
+            {
+                "text": "UBImedical",
+                "label": "ORG"
+            },
+            {
+                "text": "João Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxQeExyWDBZN2s2dzc3N3p3SkFQNVk5ZnR1STc0WGxyc0MzYVZRQnZwakNDejJyTk9fZGxwUTdyUVhjZEV1cXlTTXRMQ3VNR0ZpcnZiZ2FfTmtuWlktZkdwaUhmQ3dkeWZYbWFwWWt0QTFfYkZiVGJzUmpFRWE5YUVUcTRSX2wxVTQtRE50aUJtUmJhMXRna2ZkbEFELXBudUgwR1JNUXdSdU8yOTAxWVdlWXNkUkt1Zw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 10:44:08 GMT",
+        "title_clean": "UFCC lança programa “Escola para Todos” com atribuição de Voucher Escolar",
+        "entities": [
+            {
+                "text": "União das Freguesias de Covilhã e Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Segurança Social",
+                "label": "ORG"
+            },
+            {
+                "text": "União das Freguesias de Covilhã e Canhoso",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
