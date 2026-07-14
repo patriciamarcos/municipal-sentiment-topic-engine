@@ -334983,5 +334983,1436 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV09SMGVzaGJibEtMTHM2dWtTWkxyWG9GZXRzaTlPWnZtVnU4b2o0UlB2SVhJaWhBVGtJUkRBbUVjMTNXODh4amNteGhoaDBoMlYtRDc3WURoMHZVVF9yeTFXQkJtc1RiSlpFWEdLci0tU1pFTHJ0TDYwQnFRUFdsaFBPSWQ2MWUzUEV1cDg2UzRNZWpmbGs5LWZ3U3F4aXhjM0ctNDR4bEYySGFVWXc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title": "Como a Inteligência Artificial já está a ter impacto nas urgências da Covilhã - Conta-Lá",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1008,
+        "negative": 0.2814,
+        "neutral": 0.538,
+        "positive": 0.1806,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9869,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9869,
+            "FEAR": 0.0174,
+            "FRUSTRATION": 0.0074,
+            "SURPRISE": 0.0056,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.004,
+            "JOY": 0.0036,
+            "SADNESS": 0.0034,
+            "DISGUST": 0.0031,
+            "LOVE": 0.0025,
+            "GRATITUDE": 0.0014
+        },
+        "keywords": [
+            {
+                "keyword": "inteligência artificial oportunidade houver",
+                "score": 0.6256
+            },
+            {
+                "keyword": "urgência temos sistema inteligência",
+                "score": 0.6162
+            },
+            {
+                "keyword": "innov summit inovação inteligência",
+                "score": 0.6151
+            },
+            {
+                "keyword": "espaço reflexão inovação inteligência",
+                "score": 0.6134
+            },
+            {
+                "keyword": "substitui trabalho investigador porque",
+                "score": 0.5949
+            },
+            {
+                "keyword": "investigador porque",
+                "score": 0.5853
+            },
+            {
+                "keyword": "inteligência artificial especialistas defenderam",
+                "score": 0.5823
+            },
+            {
+                "keyword": "servirem futuro ferramenta",
+                "score": 0.5759
+            },
+            {
+                "keyword": "promoveu espaço reflexão inovação",
+                "score": 0.5685
+            },
+            {
+                "keyword": "participava painel inteligência",
+                "score": 0.5662
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta Lá",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidade de Saúde Local",
+                "label": "ORG"
+            },
+            {
+                "text": "Alfredo Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Clara Cristóvão",
+                "label": "PER"
+            },
+            {
+                "text": "Neurosov",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Catarina Duarte Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "Hospital Privado das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "António Sáàgua",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Cova da Beira Saúde",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONFYtOE80eGx2MF9Sa3dqWU9oSDE3NHZZUnNZUlQtRl9PYTlBZ1RUZ25CV2dBMG9UWjUtYlk3djFXUFFnU19JSmxaaDRJZkl5SmlHakFqM3N3bXN1aWJHLXdQSlBiSHJnZWJVRUpUTnpmbDhTdFFLYmJDSmpNOFJKZkRHRTYxZGV1bTVYdGcxdGlpcE4xTS00R1JmWHYwUGRVTjhpNUxONllhc3FNTWtWZDdSN0ZDUERJdU5yZ2s4Y2hIQzJIQXdkUDhiX0NwTjU0?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 12:42:19 GMT",
+        "title": "Covilhã dedica 9.ª edição do Verão no Centro Histórico a protagonistas femininas - Central Press",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0862,
+        "negative": 0.3025,
+        "neutral": 0.4812,
+        "positive": 0.2163,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9922,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9922,
+            "FRUSTRATION": 0.0064,
+            "JOY": 0.006,
+            "SADNESS": 0.0052,
+            "CONTEMPT": 0.0032,
+            "DISGUST": 0.0031,
+            "ANGER": 0.0028,
+            "SURPRISE": 0.0022,
+            "LOVE": 0.002,
+            "FEAR": 0.0019,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [
+            {
+                "keyword": "edição evento verão centro",
+                "score": 0.7195
+            },
+            {
+                "keyword": "apresentou edição evento verão",
+                "score": 0.7034
+            },
+            {
+                "keyword": "evento verão centro",
+                "score": 0.7008
+            },
+            {
+                "keyword": "evento verão centro histórico",
+                "score": 0.6775
+            },
+            {
+                "keyword": "edição evento verão",
+                "score": 0.6758
+            },
+            {
+                "keyword": "verão centro histórico decorrerá",
+                "score": 0.6467
+            },
+            {
+                "keyword": "verão centro histórico protagonistas",
+                "score": 0.6412
+            },
+            {
+                "keyword": "concertos musicais agendados iniciativa",
+                "score": 0.6376
+            },
+            {
+                "keyword": "evento verão",
+                "score": 0.6364
+            },
+            {
+                "keyword": "verão centro histórico",
+                "score": 0.6221
+            }
+        ],
+        "source_name": "Central Press",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Educação e Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "S. Francisco de Assis",
+                "label": "LOC"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXg4WlNEdGRtbURpM2QyUU5yR1M5dnVsVmxmR1QxVkwtUFAyMlBGeHBIWVFEaHlqRXJWSGhPX2psWWdzOVJSU0VXMjYtMTBDWGl5VzdMdUJPTExhZnNPbHhienFJVFZlY09SVVB5cFNPajhjMmxCWmtTWlE4YmVjbUVhOVg2LVI1WjZxQnpfRDlRN1RrQ0RudGItMEdNS2pjOUFOdTc0cGxwUVhLTHVIcWZDVzJvbFNkbFZiSXJXZ0k4QzdWRDBjSXFPbUo?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 08:11:32 GMT",
+        "title": "CMC aprova trabalhos complementares nas obras dos Centros de Saúde da Covilhã e Teixoso - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1188,
+        "negative": 0.3198,
+        "neutral": 0.4791,
+        "positive": 0.2011,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9744,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9744,
+            "FRUSTRATION": 0.0168,
+            "CONTEMPT": 0.0152,
+            "ANGER": 0.0094,
+            "SADNESS": 0.0092,
+            "DISGUST": 0.0039,
+            "FEAR": 0.0033,
+            "SURPRISE": 0.0024,
+            "JOY": 0.002,
+            "LOVE": 0.0018,
+            "GRATITUDE": 0.0012
+        },
+        "keywords": [
+            {
+                "keyword": "obras intervenção centro saúde",
+                "score": 0.69
+            },
+            {
+                "keyword": "aprovados quanto centro saúde",
+                "score": 0.6779
+            },
+            {
+                "keyword": "afirma centro saúde teixoso",
+                "score": 0.6614
+            },
+            {
+                "keyword": "autoridades saúde acabaram necessárias",
+                "score": 0.6396
+            },
+            {
+                "keyword": "previsto autoridades saúde acabaram",
+                "score": 0.6352
+            },
+            {
+                "keyword": "valorizar centro saúde estava",
+                "score": 0.6306
+            },
+            {
+                "keyword": "houve conjunto intervenções",
+                "score": 0.6283
+            },
+            {
+                "keyword": "complementares obras intervenção centro",
+                "score": 0.626
+            },
+            {
+                "keyword": "inicial previsto autoridades saúde",
+                "score": 0.6218
+            },
+            {
+                "keyword": "aprovados nestas obras encontram",
+                "score": 0.6163
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Saúde do Teixoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro de Saúde da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Saúde do Teixoso",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Simões",
+                "label": "PER"
+            },
+            {
+                "text": "Partido Social Democrata",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "+ Covilhã",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnBFY1pOR3djelliZE1hbzlEejBUazNLVFJkZ05FUEhVMXdCTDV5VHBFRTFOdHg4anpQNzgwdlhlMHJNSmNfSnM1UEgyNXRJSi1MdmpSS21MWDZ5MmxKVXVmbV9PeExHYlVOajJMWUg3TVRMLU1kS1Z2b1RBVHhyU1ZDQklGRG5vV2MxdzNSaDNpYzRXV0tod3dkcjE1OWEwcjViaG9zQQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 13:10:06 GMT",
+        "title": "Teatro das Beiras estreia \"Auto de Exortação da Paz\" na Covilhã - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1693,
+        "negative": 0.3572,
+        "neutral": 0.4549,
+        "positive": 0.1879,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9937,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9937,
+            "CONTEMPT": 0.0122,
+            "DISGUST": 0.0077,
+            "FRUSTRATION": 0.0075,
+            "SADNESS": 0.0052,
+            "ANGER": 0.0044,
+            "SURPRISE": 0.0036,
+            "FEAR": 0.0026,
+            "JOY": 0.0023,
+            "LOVE": 0.0016,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [
+            {
+                "keyword": "teatro beiras estreia auto",
+                "score": 0.6373
+            },
+            {
+                "keyword": "teatro beiras estreia próximo",
+                "score": 0.6283
+            },
+            {
+                "keyword": "teatro beiras estreia",
+                "score": 0.608
+            },
+            {
+                "keyword": "palco teatro beiras",
+                "score": 0.6056
+            },
+            {
+                "keyword": "palco teatro beiras ar",
+                "score": 0.6039
+            },
+            {
+                "keyword": "teatro beiras ar",
+                "score": 0.5915
+            },
+            {
+                "keyword": "teatro beiras",
+                "score": 0.5859
+            },
+            {
+                "keyword": "sobe palco teatro beiras",
+                "score": 0.5837
+            },
+            {
+                "keyword": "palco estarão",
+                "score": 0.5631
+            },
+            {
+                "keyword": "joão lóio palco estarão",
+                "score": 0.5537
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Teatro das Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Ar Livre",
+                "label": "LOC"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "PER"
+            },
+            {
+                "text": "José Saramago",
+                "label": "PER"
+            },
+            {
+                "text": "Leonor W. Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Wellenkamp",
+                "label": "PER"
+            },
+            {
+                "text": "João Lóio",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Sílvia Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Sónia Botelho",
+                "label": "PER"
+            },
+            {
+                "text": "Ticketline",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaElaMV9nb3ZvQ0J6MFhRR2RQUC1EMmx4N2VIYmRGNEl0eHI3ZHZ6bG11Slc4c0hKNUV5QTVNR0piU1JBcGNpRXFOLUFsX2hOVkh3ODd3ZkZERGdHZ1FONnd5U3RaWERoUFdHTkNTY0l6MldscTJDWUhnZjRYTUhUR0F3?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 11:51:00 GMT",
+        "title": "PSZAER: “Defesa do território exige participação” - Noticias da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1122,
+        "negative": 0.1978,
+        "neutral": 0.4922,
+        "positive": 0.31,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9866,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9866,
+            "ANGER": 0.011,
+            "FRUSTRATION": 0.0072,
+            "DISGUST": 0.0034,
+            "SADNESS": 0.0033,
+            "FEAR": 0.0033,
+            "JOY": 0.0032,
+            "CONTEMPT": 0.0026,
+            "LOVE": 0.0019,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0011
+        },
+        "keywords": [
+            {
+                "keyword": "território exige participação",
+                "score": 0.6448
+            },
+            {
+                "keyword": "território exige participação ativa",
+                "score": 0.6404
+            },
+            {
+                "keyword": "território exige participação cidadãos",
+                "score": 0.6199
+            },
+            {
+                "keyword": "pública programa setorial zonas",
+                "score": 0.616
+            },
+            {
+                "keyword": "exige participação cidadãos beira",
+                "score": 0.5867
+            },
+            {
+                "keyword": "consulta pública programa setorial",
+                "score": 0.5822
+            },
+            {
+                "keyword": "respeite territórios",
+                "score": 0.5756
+            },
+            {
+                "keyword": "apela participação consulta pública",
+                "score": 0.5675
+            },
+            {
+                "keyword": "publicamente preocupação pszaer participação",
+                "score": 0.56
+            },
+            {
+                "keyword": "exige participação ativa frisa",
+                "score": 0.5598
+            }
+        ],
+        "source_name": "Noticias da Covilhã",
+        "entities": [
+            {
+                "text": "PSZAER",
+                "label": "ORG"
+            },
+            {
+                "text": "PSAZER",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Baixa",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVJyanZDSDMxb1luSm0tQ2JpRHdHcmd1dW1ZLTljR0loa25QUGljM0tTTlEzYnloOVhPLTl2eVpKb0JOLTRkOVlKYV9wTnR1c2loNjZKTU9RM2x5SUtJSHh6UDdIZ2plaFQ5LUlPTi1Uc19hbVowaEg5QURGQXFRVWpJMXFmMFpodlFwTEUyU2VXZTMxSTFkTnlKY0VKSU1LYlEwYm52N2lnSGVoVXZ6ME03c1pYZGNBelIxRnJLY2RYOHFGR0pJcFo5M3VkbVpLSmNoLUNqUHl0M0gzSGFF?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 09:25:04 GMT",
+        "title": "Dados avançados sobre a Biblioteca Municipal reforçam necessidade de alargar horário, defende JP Covilhã - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1165,
+        "negative": 0.1497,
+        "neutral": 0.5842,
+        "positive": 0.2662,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9898,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9898,
+            "SADNESS": 0.0065,
+            "ANGER": 0.005,
+            "FRUSTRATION": 0.0046,
+            "JOY": 0.0043,
+            "SURPRISE": 0.0032,
+            "LOVE": 0.003,
+            "CONTEMPT": 0.0023,
+            "FEAR": 0.0021,
+            "DISGUST": 0.0017,
+            "GRATITUDE": 0.0013
+        },
+        "keywords": [
+            {
+                "keyword": "divulgados biblioteca municipal reforçam",
+                "score": 0.7798
+            },
+            {
+                "keyword": "demonstram crescente utilização biblioteca",
+                "score": 0.7625
+            },
+            {
+                "keyword": "divulgados biblioteca municipal",
+                "score": 0.7624
+            },
+            {
+                "keyword": "recentemente divulgados biblioteca municipal",
+                "score": 0.7549
+            },
+            {
+                "keyword": "crescente utilização biblioteca sobretudo",
+                "score": 0.7535
+            },
+            {
+                "keyword": "biblioteca municipal reforçam necessidade",
+                "score": 0.7529
+            },
+            {
+                "keyword": "crescente utilização biblioteca",
+                "score": 0.7425
+            },
+            {
+                "keyword": "avançados biblioteca municipal reforçam",
+                "score": 0.7376
+            },
+            {
+                "keyword": "avançados biblioteca municipal",
+                "score": 0.7218
+            },
+            {
+                "keyword": "dados avançados biblioteca municipal",
+                "score": 0.7176
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "PER"
+            },
+            {
+                "text": "Juventude Popular",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Municipal do CDS",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mqlttxi4on23",
+        "source": "bluesky",
+        "created_at": "2026-07-14T10:01:28+01:00",
+        "title": "",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.5794,
+        "negative": 0.0198,
+        "neutral": 0.3811,
+        "positive": 0.5991,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9927,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9927,
+            "FRUSTRATION": 0.0148,
+            "CONTEMPT": 0.0109,
+            "ANGER": 0.0067,
+            "DISGUST": 0.0066,
+            "SADNESS": 0.005,
+            "SURPRISE": 0.0037,
+            "FEAR": 0.0026,
+            "JOY": 0.0025,
+            "LOVE": 0.0013,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [
+            {
+                "keyword": "10th meeting of the",
+                "score": 0.5884
+            },
+            {
+                "keyword": "analytic philosophy enfa 10",
+                "score": 0.5863
+            },
+            {
+                "keyword": "the 10th meeting",
+                "score": 0.5804
+            },
+            {
+                "keyword": "for analytic philosophy enfa",
+                "score": 0.5797
+            },
+            {
+                "keyword": "the 10th meeting of",
+                "score": 0.5777
+            },
+            {
+                "keyword": "10th meeting of",
+                "score": 0.572
+            },
+            {
+                "keyword": "philosophy enfa 10 looking",
+                "score": 0.5716
+            },
+            {
+                "keyword": "in the 10th meeting",
+                "score": 0.564
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Portuguese Society for Analytic Philosophy",
+                "label": "ORG"
+            },
+            {
+                "text": "ENFA 10",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculty of Arts and",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "at://did:plc:zxclnyklmf3ehq57qwe56v5m/app.bsky.feed.post/3mqls25clp7po",
+        "source": "bluesky",
+        "created_at": "2026-07-14T08:29:08.000Z",
+        "title": "",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.5307,
+        "negative": 0.0222,
+        "neutral": 0.4248,
+        "positive": 0.553,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9934,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9934,
+            "FRUSTRATION": 0.0132,
+            "CONTEMPT": 0.0098,
+            "ANGER": 0.0056,
+            "DISGUST": 0.0054,
+            "SADNESS": 0.0048,
+            "SURPRISE": 0.0041,
+            "FEAR": 0.0027,
+            "JOY": 0.0027,
+            "LOVE": 0.0013,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [
+            {
+                "keyword": "analytic philosophy enfa 10",
+                "score": 0.6084
+            },
+            {
+                "keyword": "for analytic philosophy enfa",
+                "score": 0.6024
+            },
+            {
+                "keyword": "philosophy enfa 10 looking",
+                "score": 0.5833
+            },
+            {
+                "keyword": "10th meeting of the",
+                "score": 0.5762
+            },
+            {
+                "keyword": "the 10th meeting of",
+                "score": 0.5676
+            },
+            {
+                "keyword": "the 10th meeting",
+                "score": 0.5662
+            },
+            {
+                "keyword": "philosophy enfa 10",
+                "score": 0.5638
+            },
+            {
+                "keyword": "10th meeting of",
+                "score": 0.5574
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Portuguese Society for Analytic Philosophy",
+                "label": "ORG"
+            },
+            {
+                "text": "ENFA 10",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculty of Arts and Letters",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "at://did:plc:urwgvfhgfklueff75a7p65ta/app.bsky.feed.post/3mqls32db2ll2",
+        "source": "bluesky",
+        "created_at": "2026-07-14T08:29:08.000Z",
+        "title": "",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.6276,
+        "negative": 0.0209,
+        "neutral": 0.3306,
+        "positive": 0.6485,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9936,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9936,
+            "FRUSTRATION": 0.006,
+            "CONTEMPT": 0.0057,
+            "SADNESS": 0.0048,
+            "DISGUST": 0.0047,
+            "SURPRISE": 0.0038,
+            "JOY": 0.0037,
+            "ANGER": 0.003,
+            "FEAR": 0.0026,
+            "LOVE": 0.0016,
+            "GRATITUDE": 0.0012
+        },
+        "keywords": [
+            {
+                "keyword": "portugal the conference",
+                "score": 0.5766
+            },
+            {
+                "keyword": "10th meeting of the",
+                "score": 0.5717
+            },
+            {
+                "keyword": "portugal the conference brings",
+                "score": 0.5628
+            },
+            {
+                "keyword": "the 10th meeting",
+                "score": 0.5618
+            },
+            {
+                "keyword": "the 10th meeting of",
+                "score": 0.5577
+            },
+            {
+                "keyword": "10th meeting of",
+                "score": 0.5514
+            },
+            {
+                "keyword": "in the 10th meeting",
+                "score": 0.5462
+            },
+            {
+                "keyword": "10th meeting",
+                "score": 0.5427
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Faculty of Arts and Letters",
+                "label": "LOC"
+            },
+            {
+                "text": "University of Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]

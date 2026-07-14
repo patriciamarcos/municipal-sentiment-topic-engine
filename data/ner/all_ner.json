@@ -117241,6 +117241,298 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxNV09SMGVzaGJibEtMTHM2dWtTWkxyWG9GZXRzaTlPWnZtVnU4b2o0UlB2SVhJaWhBVGtJUkRBbUVjMTNXODh4amNteGhoaDBoMlYtRDc3WURoMHZVVF9yeTFXQkJtc1RiSlpFWEdLci0tU1pFTHJ0TDYwQnFRUFdsaFBPSWQ2MWUzUEV1cDg2UzRNZWpmbGs5LWZ3U3F4aXhjM0ctNDR4bEYySGFVWXc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "title_clean": "Como a Inteligência Artificial já está a ter impacto nas urgências da Covilhã - Conta-Lá",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Conta Lá",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidade de Saúde Local",
+                "label": "ORG"
+            },
+            {
+                "text": "Alfredo Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Clara Cristóvão",
+                "label": "PER"
+            },
+            {
+                "text": "Neurosov",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Catarina Duarte Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "Hospital Privado das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "António Sáàgua",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Cova da Beira Saúde",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxONFYtOE80eGx2MF9Sa3dqWU9oSDE3NHZZUnNZUlQtRl9PYTlBZ1RUZ25CV2dBMG9UWjUtYlk3djFXUFFnU19JSmxaaDRJZkl5SmlHakFqM3N3bXN1aWJHLXdQSlBiSHJnZWJVRUpUTnpmbDhTdFFLYmJDSmpNOFJKZkRHRTYxZGV1bTVYdGcxdGlpcE4xTS00R1JmWHYwUGRVTjhpNUxONllhc3FNTWtWZDdSN0ZDUERJdU5yZ2s4Y2hIQzJIQXdkUDhiX0NwTjU0?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 12:42:19 GMT",
+        "title_clean": "Covilhã dedica 9.ª edição do Verão no Centro Histórico a protagonistas femininas",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Educação e Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "S. Francisco de Assis",
+                "label": "LOC"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXg4WlNEdGRtbURpM2QyUU5yR1M5dnVsVmxmR1QxVkwtUFAyMlBGeHBIWVFEaHlqRXJWSGhPX2psWWdzOVJSU0VXMjYtMTBDWGl5VzdMdUJPTExhZnNPbHhienFJVFZlY09SVVB5cFNPajhjMmxCWmtTWlE4YmVjbUVhOVg2LVI1WjZxQnpfRDlRN1RrQ0RudGItMEdNS2pjOUFOdTc0cGxwUVhLTHVIcWZDVzJvbFNkbFZiSXJXZ0k4QzdWRDBjSXFPbUo?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 08:11:32 GMT",
+        "title_clean": "CMC aprova trabalhos complementares nas obras dos Centros de Saúde da Covilhã e Teixoso",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Saúde do Teixoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro de Saúde da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Saúde do Teixoso",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Simões",
+                "label": "PER"
+            },
+            {
+                "text": "Partido Social Democrata",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "+ Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnBFY1pOR3djelliZE1hbzlEejBUazNLVFJkZ05FUEhVMXdCTDV5VHBFRTFOdHg4anpQNzgwdlhlMHJNSmNfSnM1UEgyNXRJSi1MdmpSS21MWDZ5MmxKVXVmbV9PeExHYlVOajJMWUg3TVRMLU1kS1Z2b1RBVHhyU1ZDQklGRG5vV2MxdzNSaDNpYzRXV0tod3dkcjE1OWEwcjViaG9zQQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 13:10:06 GMT",
+        "title_clean": "Teatro das Beiras estreia \"Auto de Exortação da Paz\" na Covilhã",
+        "entities": [
+            {
+                "text": "Teatro das Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Ar Livre",
+                "label": "LOC"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "PER"
+            },
+            {
+                "text": "José Saramago",
+                "label": "PER"
+            },
+            {
+                "text": "Leonor W. Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Wellenkamp",
+                "label": "PER"
+            },
+            {
+                "text": "João Lóio",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Sílvia Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Sónia Botelho",
+                "label": "PER"
+            },
+            {
+                "text": "Ticketline",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxQaElaMV9nb3ZvQ0J6MFhRR2RQUC1EMmx4N2VIYmRGNEl0eHI3ZHZ6bG11Slc4c0hKNUV5QTVNR0piU1JBcGNpRXFOLUFsX2hOVkh3ODd3ZkZERGdHZ1FONnd5U3RaWERoUFdHTkNTY0l6MldscTJDWUhnZjRYTUhUR0F3?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 11:51:00 GMT",
+        "title_clean": "PSZAER: “Defesa do território exige participação”",
+        "entities": [
+            {
+                "text": "PSZAER",
+                "label": "ORG"
+            },
+            {
+                "text": "PSAZER",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Baixa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVJyanZDSDMxb1luSm0tQ2JpRHdHcmd1dW1ZLTljR0loa25QUGljM0tTTlEzYnloOVhPLTl2eVpKb0JOLTRkOVlKYV9wTnR1c2loNjZKTU9RM2x5SUtJSHh6UDdIZ2plaFQ5LUlPTi1Uc19hbVowaEg5QURGQXFRVWpJMXFmMFpodlFwTEUyU2VXZTMxSTFkTnlKY0VKSU1LYlEwYm52N2lnSGVoVXZ6ME03c1pYZGNBelIxRnJLY2RYOHFGR0pJcFo5M3VkbVpLSmNoLUNqUHl0M0gzSGFF?oc=5",
+        "source": "news",
+        "created_at": "Mon, 13 Jul 2026 09:25:04 GMT",
+        "title_clean": "Dados avançados sobre a Biblioteca Municipal reforçam necessidade de alargar horário, defende JP Covilhã",
+        "entities": [
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "PER"
+            },
+            {
+                "text": "Juventude Popular",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Municipal do CDS",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -120557,6 +120849,70 @@
             },
             {
                 "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mqlttxi4on23",
+        "source": "bluesky",
+        "created_at": "2026-07-14T10:01:28+01:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Portuguese Society for Analytic Philosophy",
+                "label": "ORG"
+            },
+            {
+                "text": "ENFA 10",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculty of Arts and",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zxclnyklmf3ehq57qwe56v5m/app.bsky.feed.post/3mqls25clp7po",
+        "source": "bluesky",
+        "created_at": "2026-07-14T08:29:08.000Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Portuguese Society for Analytic Philosophy",
+                "label": "ORG"
+            },
+            {
+                "text": "ENFA 10",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculty of Arts and Letters",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:urwgvfhgfklueff75a7p65ta/app.bsky.feed.post/3mqls32db2ll2",
+        "source": "bluesky",
+        "created_at": "2026-07-14T08:29:08.000Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Faculty of Arts and Letters",
+                "label": "LOC"
+            },
+            {
+                "text": "University of Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
                 "label": "LOC"
             }
         ]

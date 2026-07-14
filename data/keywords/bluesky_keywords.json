@@ -6089,5 +6089,131 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mqlttxi4on23",
+        "source": "bluesky",
+        "created_at": "2026-07-14T10:01:28+01:00",
+        "title_clean": "",
+        "clean_text": "10th Meeting of the Portuguese Society for Analytic Philosophy (ENFA 10) Looking forward to participating in the 10th Meeting of the Portuguese Society for Analytic Philosophy (ENFA 10) this week, taking place 15-17 July at the Faculty of Arts and... dfaria.eu",
+        "keywords": [
+            {
+                "keyword": "10th meeting of the",
+                "score": 0.5884
+            },
+            {
+                "keyword": "analytic philosophy enfa 10",
+                "score": 0.5863
+            },
+            {
+                "keyword": "the 10th meeting",
+                "score": 0.5804
+            },
+            {
+                "keyword": "for analytic philosophy enfa",
+                "score": 0.5797
+            },
+            {
+                "keyword": "the 10th meeting of",
+                "score": 0.5777
+            },
+            {
+                "keyword": "10th meeting of",
+                "score": 0.572
+            },
+            {
+                "keyword": "philosophy enfa 10 looking",
+                "score": 0.5716
+            },
+            {
+                "keyword": "in the 10th meeting",
+                "score": 0.564
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zxclnyklmf3ehq57qwe56v5m/app.bsky.feed.post/3mqls25clp7po",
+        "source": "bluesky",
+        "created_at": "2026-07-14T08:29:08.000Z",
+        "title_clean": "",
+        "clean_text": "10th Meeting of the Portuguese Society for Analytic Philosophy (ENFA 10) Looking forward to participating in the 10th Meeting of the Portuguese Society for Analytic Philosophy (ENFA 10) this week, taking place 15-17 July at the Faculty of Arts and Letters,...",
+        "keywords": [
+            {
+                "keyword": "analytic philosophy enfa 10",
+                "score": 0.6084
+            },
+            {
+                "keyword": "for analytic philosophy enfa",
+                "score": 0.6024
+            },
+            {
+                "keyword": "philosophy enfa 10 looking",
+                "score": 0.5833
+            },
+            {
+                "keyword": "10th meeting of the",
+                "score": 0.5762
+            },
+            {
+                "keyword": "the 10th meeting of",
+                "score": 0.5676
+            },
+            {
+                "keyword": "the 10th meeting",
+                "score": 0.5662
+            },
+            {
+                "keyword": "philosophy enfa 10",
+                "score": 0.5638
+            },
+            {
+                "keyword": "10th meeting of",
+                "score": 0.5574
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:urwgvfhgfklueff75a7p65ta/app.bsky.feed.post/3mqls32db2ll2",
+        "source": "bluesky",
+        "created_at": "2026-07-14T08:29:08.000Z",
+        "title_clean": "",
+        "clean_text": "Looking forward to participating in the 10th Meeting of the Portuguese Society for Analytic Philosophy (ENFA 10) this week, taking place 15-17 July at the Faculty of Arts and Letters, University of Beira Interior (UBI), in Covilhã, Portugal. The conference brings together researchers working […]",
+        "keywords": [
+            {
+                "keyword": "portugal the conference",
+                "score": 0.5766
+            },
+            {
+                "keyword": "10th meeting of the",
+                "score": 0.5717
+            },
+            {
+                "keyword": "portugal the conference brings",
+                "score": 0.5628
+            },
+            {
+                "keyword": "the 10th meeting",
+                "score": 0.5618
+            },
+            {
+                "keyword": "the 10th meeting of",
+                "score": 0.5577
+            },
+            {
+                "keyword": "10th meeting of",
+                "score": 0.5514
+            },
+            {
+                "keyword": "in the 10th meeting",
+                "score": 0.5462
+            },
+            {
+                "keyword": "10th meeting",
+                "score": 0.5427
+            }
+        ],
+        "source_name": null
     }
 ]
