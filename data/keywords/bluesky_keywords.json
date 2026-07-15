@@ -6215,5 +6215,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:46h3c6cvdqtffftzvtlsgmgd/app.bsky.feed.post/3mqo7rc3sy22c",
+        "source": "bluesky",
+        "created_at": "2026-07-15T07:40:03.929Z",
+        "title_clean": "",
+        "clean_text": "Nasceu no Rio de Janeiro, cantou com João Gilberto e Tom Jobim, foi apagada da história da Bossa Nova. \"A Noite de Alaíde\", a cinebiografia de Alaíde Costa, estreia a 16 de Julho em cinemas de Lisboa, Setúbal, Santarém, Gaia, Guimarães e Covilhã. PUB comunidadeculturaearte.com/a-noite-de-a...",
+        "keywords": [
+            {
+                "keyword": "cinebiografia alaíde costa estreia",
+                "score": 0.6479
+            },
+            {
+                "keyword": "cantou joão gilberto",
+                "score": 0.6005
+            },
+            {
+                "keyword": "joão gilberto",
+                "score": 0.5751
+            },
+            {
+                "keyword": "rio cantou joão gilberto",
+                "score": 0.5399
+            },
+            {
+                "keyword": "joão gilberto tom jobim",
+                "score": 0.5392
+            },
+            {
+                "keyword": "noite alaíde cinebiografia alaíde",
+                "score": 0.5111
+            },
+            {
+                "keyword": "cinebiografia alaíde costa",
+                "score": 0.4942
+            },
+            {
+                "keyword": "cinebiografia alaíde",
+                "score": 0.4892
+            }
+        ],
+        "source_name": null
     }
 ]

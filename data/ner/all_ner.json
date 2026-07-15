@@ -117533,6 +117533,782 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkE2OFA1d04yUXo3N01pdW5SSUFhZVI4Q1lSaXVBN3ZTZFpEY3hZR01yWXpMZzlxY1Nlb3N0WnN4LWd5cWg0MXFWengyN3pibkhtWnctYk9nblZFMUlJMm1wS0xHR3ZHWUtGc0JRZGhaOHViZDdmLVhqNGJBeHI4Y0xhdmNqNEZoU3FabktORV9GdDRvVWgzbmtzczZBMUxmbDdid3l5Ti1SMVhIR0trd3g0LW9MckQwZ1VDbjBEaDVhMzNRUkVUSWJqV3PSAccBQVVfeXFMTnNkU1pfN1psR1dXZ3puOVluRXpwZ08wLW83YlR3RC01ZWloMTVhV0ZkZmRsQUJJUS1vNklDVkIteTVIdWlJbzlhMmJmZVB2V3BHUlFNdlFDYVZkRVUwMGp2UnlVWU5vNVE4ejVSdGY1OTdOSjBtbkc1RFUwaHMxNmtUTy1NZXhiMWZoOVhmQVhjbUxiWlN1dDY4VjZoM2hRTkZUUWZfTWNSM3ZuOHRJM0F1eUNNSWk5Wk93WjRPZ05ocFR3T2phUQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 16:58:30 GMT",
+        "title_clean": "Sp. Covilhã contrata Emerson Gomes para fortalecer a defesa - Record",
+        "entities": [
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Record Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Elvas",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Lusitânia",
+                "label": "ORG"
+            },
+            {
+                "text": "Oriental Dragons",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcains",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "Costa do Marfim",
+                "label": "ORG"
+            },
+            {
+                "text": "Felgueiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Rafa Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Libório",
+                "label": "PER"
+            },
+            {
+                "text": "Cleiton Mendonça",
+                "label": "PER"
+            },
+            {
+                "text": "Duarte Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "GD Portel",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkFZZmM5RC10X216eTBhWXdQc3d6MUpYSFNxOTRKTHp1cU45c0hBUWhLT0gzTXF0UV9lSTM2NXpMYk9IZ3lIQ21GUUtrSzdCUmJxbGdWRkpTUDRvTFRvWmlEOHpsRUp5SE9aanoxZXYxVGw2N1dPcmh4ekI3ZGhDck1FRXRUVTNvRmxB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 09 Jul 2026 05:06:29 GMT",
+        "title_clean": "Covilhã Innov Summit 2026 | Emissão (Direto 20 de abril) - Conta-Lá",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kMEdDV1JodlZqQjVjMktickRKczBSd1Zra19GUWtKZV9ZRmVNU2FNQU5tWFV6d25HcjRzNU1aR3I5WlJrcTM3NXRpYUhtdFlJaHZIYjFTNEtJNkROeFNFZ29iaUdab2s?oc=5",
+        "source": "news",
+        "created_at": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã Innov Summit 2026 - Conta-Lá",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro 2030",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Rota da Lã",
+                "label": "LOC"
+            },
+            {
+                "text": "Hyperion",
+                "label": "ORG"
+            },
+            {
+                "text": "Abrantes",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdjhGQ1UzVS10NGpFOVF0SjI4ZnFjMkNQaURnNnF4UFYwU2J5UUJsNmo3WjJ1a3dtaklzcmphQ20xcXpWVG5mYUg4X3RyZmdwbE9CejR3UjlGZ1ZGWjRSVjBZRThucng2d0ZRLUlSaFlIWnBqWHlab2ZEQUV6NVlsSEc2OXZJeFVIdmJTMUphenJieV9ZanFNR3B0TG9HdmRja3ZxczZ4ME0yZnE5eWR6TG55QlFVTC1vOU5rNVJfLWM2Sko5cVVpN1NzV2g5WXppT3NnUDRSZmkyY1E?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 08:53:36 GMT",
+        "title_clean": "Verão no Centro Histórico regressa à Covilhã com protagonismo feminino e novos percursos pela cidade",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Freguesias",
+                "label": "LOC"
+            },
+            {
+                "text": "Divisão de Cultura",
+                "label": "ORG"
+            },
+            {
+                "text": "Patrícia Pin",
+                "label": "PER"
+            },
+            {
+                "text": "Paços do Concelho",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Palacete do Jardim",
+                "label": "LOC"
+            },
+            {
+                "text": "João Rocha",
+                "label": "PER"
+            },
+            {
+                "text": "Minta & The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Francisca Cortesão",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo de Educação",
+                "label": "ORG"
+            },
+            {
+                "text": "Felipa Bidarra",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGFZVGFicEFOSGdkV0tkQUEzcXkwS0Nmck9hY3YyMW1XUUsyVlJibnZuMVVXSXFLX2tKcWlUR0xxMTZzY2VvVWZPcTFhNGdkQXd2U0Fua0dPX21HdE90M0hQZ0R0eXVILWNjU2ZtMmthTThUbFBJaEc0WS1KRzlrcVB4RUNvYXprTktRRjExRnJZbmVZaFF3bHFlWWtreGhRNlI4emxLb1VtSjdkLVNyN1V2ajRUOUFMbER3bTIzakllSV9HY2NoakhLSk01QQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 11:23:34 GMT",
+        "title_clean": "Concurso Internacional de Jovens Talentos promovido pela Banda da Covilhã com forte adesão",
+        "entities": [
+            {
+                "text": "Banda da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTE1FV0plczNReDFSR0JuVUpLdnBHTS1xQm5uSmFXSndPaW9yWEZReHJlZzV5OWlNdUR2QnBPSkRqNkZycHg3RHMwaURXNUhFeFRJenlQMG1yOEplZDkzek9lcG1pUzVGUGhJS3VUVXJxcm00R05mOEpRQ2ZB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 10:09:00 GMT",
+        "title_clean": "Experiência sonora de Luís Antero no TMC",
+        "entities": [
+            {
+                "text": "Luís Antero",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Arquivo Sonoro",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro Histórico de",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1U1dExqOENEVWN6OEFZNTlnR2NkOG5tb2tGckxiS2Jpb2VDLTFzaW9ldmZ1Z2NHRVIxdTB5TktFSEhGS2lZcTBIZENjWkJGNEpvQUIzTUM2V1VjaEVNeFlrYTFSTGEzVk5zal96azFaNnZWM0JKUjNHMWJiMzV1QnU5WVROUE16MlQ3eWxoLWlRV1FGeWJkVC1RMGo?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 10:06:38 GMT",
+        "title_clean": "Sporting da Covilhã reforça defesa com Mohamed Aidara",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Felgueiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Académico de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Abidjan",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXhKYk9jRE44QmR0ZDFsRmYySXZjNFNyZlNSVnlEQ0FZVE01T1FVbUxQMVJ5Wl9wUVhQb3NUa0FyakFlV0RoSmlncHpJeklMZ190U3JvZkc3aVhtWHZ3bGRGSFdiY1c1UENtMTIySUtMaU51OWQ0WUdPLWtwV25CYWpsV1A0TGNYeHVSc0Z4d0pxRzlGV2xfcUUycWFMUnJZanUyUnM4U2pxdGRHWGMw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 14:01:55 GMT",
+        "title_clean": "Verão no Centro Histórico regressa à Covilhã com edição dedicada às mulheres - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "São Francisco de Assis",
+                "label": "LOC"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Francisca Cortesão",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pernadas",
+                "label": "PER"
+            },
+            {
+                "text": "Cassete Pirata",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo Educação e Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlZhR2xrUDN0SUJjbFFPVi1ka1RKWGxoUkRMc2I3TGwzcXc1T0Y2VWZvU1Atd2Fydjh3NmZrWW03YlhYdjYySUlGX1BZVmtDOXBJVGFhOW94UnNfSjlMM2FfZkV0RG8tUXYtMGZOQmkybHNoYTgtdE8teGFzNnB3aElUNlMyc28?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 08:02:00 GMT",
+        "title_clean": "Um “Verão no Centro Histórico” no feminino em agosto",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "GER Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Minta&The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Afonso Cabral",
+                "label": "PER"
+            },
+            {
+                "text": "Joana Barra Vaz",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "Tim Bernardes",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Isabel Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pernadas",
+                "label": "PER"
+            },
+            {
+                "text": "Pirata",
+                "label": "PER"
+            },
+            {
+                "text": "Joana Espadinha",
+                "label": "PER"
+            },
+            {
+                "text": "Minta & The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo Educação e Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Palacete do Jardim",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia de São Francisco de Assis",
+                "label": "LOC"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFdJZnlLdWd1Wk94NnE3eVpFUnFMQUxabUlqRjdMLW9fRWlxZjM0Q05XUUVvcm5CT1QtZzNrMWhaNGhjUHpJZ3dOR3JYc2hTVjdFVUYxMjFqN3pxT2JJcXVMR3BOcDlGWE9HUXptS1Q4ejVBemNNQXM2M053TmR3blBnZFhfWElDMzdpX2xrTHFTOWg2TXdQV3o1TWxTeFdUaVZoaEswVU5qellUVnowbUV2Y216SkM1dDJIZkhJeFdYUTlvYXRoNFpzWjQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 09:14:06 GMT",
+        "title_clean": "COVILHÃ: “Verão no Centro Histórico” regressa em agosto numa edição totalmente feminina",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Minta & The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Vereadora",
+                "label": "PER"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "GER Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico Freguesias",
+                "label": "LOC"
+            },
+            {
+                "text": "S. Francisco de Assis",
+                "label": "LOC"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Francisca Cortesão",
+                "label": "PER"
+            },
+            {
+                "text": "Mariana Ricardo",
+                "label": "PER"
+            },
+            {
+                "text": "Shelley Short",
+                "label": "PER"
+            },
+            {
+                "text": "The Weather Station",
+                "label": "ORG"
+            },
+            {
+                "text": "Canadá",
+                "label": "LOC"
+            },
+            {
+                "text": "São Francisco",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Japão",
+                "label": "LOC"
+            },
+            {
+                "text": "Afonso Cabral",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "Tim Bernardes",
+                "label": "PER"
+            },
+            {
+                "text": "David Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pernadas",
+                "label": "PER"
+            },
+            {
+                "text": "Lena D'Água",
+                "label": "LOC"
+            },
+            {
+                "text": "ITA CORTEZÃO",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortesão Monteiro",
+                "label": "PER"
+            },
+            {
+                "text": "Bons Sons",
+                "label": "LOC"
+            },
+            {
+                "text": "Vodafone Paredes de Coura",
+                "label": "LOC"
+            },
+            {
+                "text": "Évora",
+                "label": "LOC"
+            },
+            {
+                "text": "SIC Esperança",
+                "label": "ORG"
+            },
+            {
+                "text": "Benjamim",
+                "label": "PER"
+            },
+            {
+                "text": "Cassete Pirata",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo Educação e Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzVWb1hSN3dWMVA3MU5nWTI2ejlQbVpGdDQ0VUQ0SDJHNUJGbHhsRko0b3NSODNBNW0tbkdLMVZBbmRKT3Z0UTc0ek9HLXpoQWctR3ZqUnc3WDljRTZKT3ZDOFdaMG5na3ZuMHJoN01RWVpSa2hQaWkzU21WSUl3NnFJQ3BQLWpFeEVr?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 09:00:00 GMT",
+        "title_clean": "Artistas e pastores criam projeto de palavra e música",
+        "entities": [
+            {
+                "text": "Nave de Santo António",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Matilde Real",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Azenha do Mar",
+                "label": "LOC"
+            },
+            {
+                "text": "Cova da Moura",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTTUtS1huYmZzTEExbzRIUktwRnJmZHgyRWhkOWwzeWFlVmgyU29OZmZWWHQ2emRRakRzNHU1S1lLbUM4b0luelpDdGxiUEw1WjNBeGZMMGZwdms1b0ZCM0tFY01qZG5VVnJZNEZzcXZFbElzOG5qd2U4aEN6SnoyTEJNN2NLSDZJSXJET3ZJQ3ZxWm5CSUxIUzU4SmU4UWR3WGFPazVZdjhDUURNczgtUl9SNmFRM1MzYkNKMDBBTlRXX3ZCT09hTllZM0NYd1lNdmozVGZB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 08:17:17 GMT",
+        "title_clean": "Eduardo Cavaco propõe igrejas abertas no centro histórico e critica falta de climatização no CAI",
+        "entities": [
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "CDS/IL",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Ativ'idades",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico da",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja de Santa Maria",
+                "label": "LOC"
+            },
+            {
+                "text": "António Lopes",
+                "label": "PER"
+            },
+            {
+                "text": "Igreja da Misericórdia",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja de São Francisco",
+                "label": "LOC"
+            },
+            {
+                "text": "Padre Luís Pardal",
+                "label": "PER"
+            },
+            {
+                "text": "Igreja de São Martinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Coligação + Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Shopping Center",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -120913,6 +121689,54 @@
             },
             {
                 "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:46h3c6cvdqtffftzvtlsgmgd/app.bsky.feed.post/3mqo7rc3sy22c",
+        "source": "bluesky",
+        "created_at": "2026-07-15T07:40:03.929Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Rio de Janeiro",
+                "label": "LOC"
+            },
+            {
+                "text": "João Gilberto",
+                "label": "PER"
+            },
+            {
+                "text": "Tom Jobim",
+                "label": "PER"
+            },
+            {
+                "text": "Bossa Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Alaíde Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Setúbal",
+                "label": "LOC"
+            },
+            {
+                "text": "Santarém",
+                "label": "LOC"
+            },
+            {
+                "text": "Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
                 "label": "LOC"
             }
         ]
