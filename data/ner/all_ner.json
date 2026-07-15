@@ -118309,6 +118309,106 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxQMG45Vmh3QW16aDJIMl92aU4tN2ZFS2txUktOWXF1WW00QWhQYjRSNWlsdmtwMHZnd3J3ZXNjakZWRWMtS0E1SElhdU5BZkMzUTFOdm5QYjBtTFNpQ1pHS2VhTmc0MGF2N2xiMnh4XzZRb1h6TzU5dGo4dXZlYnJZYTRvRUEzeXFBazFzbA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:17:00 GMT",
+        "title_clean": "Dia Nacional da Panela no Forno celebrado na Covilhã - Conta-Lá",
+        "entities": [
+            {
+                "text": "Conta-Lá",
+                "label": "LOC"
+            },
+            {
+                "text": "Mercado Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXVsTjFJTFUtZTdQMHhmTDllVGRmc09PTFNVNXdicTB1SDNFSkxfRFNaR1BhUWJMSlB4c0tRN3lGN3g3Z2pEeDY2WUxVWkNER3FjYzZSTHdUQXNaSm1ocmIxa3hTUnlmZXZkTjZ6VnA3Ulg4NEFvaUNWbVdySnpURTA2ZGx2STRvb0JRV18zclRzRHR0U0ZuS1NuQm1aTUlQcl9DWlhGcURKQV8x?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:25:39 GMT",
+        "title_clean": "Vídeo - LIGA PORTUGAL SABSEG 2021/22 - Resumo: Liga II Estrela Amadora 0-1 SC Covilhã - Sport TV",
+        "entities": [
+            {
+                "text": "Estrela Amadora",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sport TV",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnhzS0NKSEVGX1hObUxiMGZjSzhFaWlwT0htN2dxV2V3UjhvaGVmbjVYR3podXhGRDZFRXEyMjJZZU1mbDRoY1B4eVEzTGJmSnZNc01IT2dHYUJiOEdfalRzWFNiMHpUVk1GcWRmVmI3VzF3Q0Z2ZFZ5VUw0SkdfSXViT0lIMERFZVJ4VGJYRzFLRUNhTjc0Y0hqMUdRNm8z?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 15:07:27 GMT",
+        "title_clean": "COVILHÃ: Museu de Arte Sacra inaugura duas novas exposições a 10 de julho",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu de Arte Sacra da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "José Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Almeida",
+                "label": "PER"
+            },
+            {
+                "text": "Biserica Ortodoxă Română",
+                "label": "ORG"
+            },
+            {
+                "text": "Igreja Ortodoxa Romena",
+                "label": "ORG"
+            },
+            {
+                "text": "Patriarca Daniel em",
+                "label": "PER"
+            },
+            {
+                "text": "Igreja Ortodoxa Russa",
+                "label": "ORG"
+            },
+            {
+                "text": "Igreja Romena",
+                "label": "ORG"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "História da Arte",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior de Belas Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Besançon",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

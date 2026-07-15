@@ -120870,5 +120870,155 @@
             }
         ],
         "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxQMG45Vmh3QW16aDJIMl92aU4tN2ZFS2txUktOWXF1WW00QWhQYjRSNWlsdmtwMHZnd3J3ZXNjakZWRWMtS0E1SElhdU5BZkMzUTFOdm5QYjBtTFNpQ1pHS2VhTmc0MGF2N2xiMnh4XzZRb1h6TzU5dGo4dXZlYnJZYTRvRUEzeXFBazFzbA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 10:17:00 GMT",
+        "title_clean": "Dia Nacional da Panela no Forno celebrado na Covilhã - Conta-Lá",
+        "clean_text": "Dia Nacional da Panela no Forno celebrado na Covilhã - Conta-Lá. Realizou-se a segunda edição do Dia Nacional da Panela no Forno, no Mercado Municipal da Covilhã. Foi anunciada também a realização do primeiro Festival da Panela no Forno, no mês de fevereiro. 08 fev. 2026, 08:00 A Confraria Gastronómica da Cherovia e Panela no Forno da Covilhã realizou a segunda edição do Dia Nacional da Panela no Forno, no Mercado Municipal da Covilhã, em parceria com três restaurantes regionais. Anunciou também a realização do primeiro Festival da Panela no Forno, em parceria com o Município da Covilhã, no mês de fevereiro. Tags relacionadas: Covilhã Gastronomia Panela no Forno",
+        "keywords": [
+            {
+                "keyword": "realização primeiro festival panela",
+                "score": 0.6206
+            },
+            {
+                "keyword": "segunda edição nacional panela",
+                "score": 0.6064
+            },
+            {
+                "keyword": "anunciada realização primeiro festival",
+                "score": 0.6049
+            },
+            {
+                "keyword": "realizou segunda edição nacional",
+                "score": 0.6016
+            },
+            {
+                "keyword": "anunciou realização primeiro festival",
+                "score": 0.598
+            },
+            {
+                "keyword": "primeiro festival panela",
+                "score": 0.597
+            },
+            {
+                "keyword": "segunda edição nacional",
+                "score": 0.5835
+            },
+            {
+                "keyword": "festival panela forno mês",
+                "score": 0.5753
+            },
+            {
+                "keyword": "realização primeiro festival",
+                "score": 0.5696
+            },
+            {
+                "keyword": "festival panela",
+                "score": 0.5582
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXVsTjFJTFUtZTdQMHhmTDllVGRmc09PTFNVNXdicTB1SDNFSkxfRFNaR1BhUWJMSlB4c0tRN3lGN3g3Z2pEeDY2WUxVWkNER3FjYzZSTHdUQXNaSm1ocmIxa3hTUnlmZXZkTjZ6VnA3Ulg4NEFvaUNWbVdySnpURTA2ZGx2STRvb0JRV18zclRzRHR0U0ZuS1NuQm1aTUlQcl9DWlhGcURKQV8x?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 13:25:39 GMT",
+        "title_clean": "Vídeo - LIGA PORTUGAL SABSEG 2021/22 - Resumo: Liga II Estrela Amadora 0-1 SC Covilhã - Sport TV",
+        "clean_text": "Vídeo - LIGA PORTUGAL SABSEG 2021/22 - Resumo: Liga II Estrela Amadora 0-1 SC Covilhã - Sport TV. LIGA PORTUGAL SABSEG 2021/22 - Resumo: Liga II Estrela Amadora 0-1 SC Covilhã LIGA PORTUGAL SABSEG 2021/22 - Resumo: Liga II Estrela Amadora 0-1 SC Covilhã Resumo: Liga II Estrela Amadora 0-1 SC Covilhã LIGA PORTUGAL SABSEG 2021/22 há 4 anos Estrela Amadora-SC Covilhã: Fim da partida!",
+        "keywords": [
+            {
+                "keyword": "liga portugal sabseg 2021",
+                "score": 0.7516
+            },
+            {
+                "keyword": "portugal sabseg 2021 22",
+                "score": 0.7137
+            },
+            {
+                "keyword": "portugal sabseg 2021",
+                "score": 0.6784
+            },
+            {
+                "keyword": "2021 22 resumo liga",
+                "score": 0.6694
+            },
+            {
+                "keyword": "sport tv liga portugal",
+                "score": 0.6076
+            },
+            {
+                "keyword": "sabseg 2021 22 resumo",
+                "score": 0.5771
+            },
+            {
+                "keyword": "sabseg 2021 22 há",
+                "score": 0.5667
+            },
+            {
+                "keyword": "2021 22 resumo",
+                "score": 0.5579
+            },
+            {
+                "keyword": "sabseg 2021 22",
+                "score": 0.552
+            },
+            {
+                "keyword": "liga portugal sabseg",
+                "score": 0.5403
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnhzS0NKSEVGX1hObUxiMGZjSzhFaWlwT0htN2dxV2V3UjhvaGVmbjVYR3podXhGRDZFRXEyMjJZZU1mbDRoY1B4eVEzTGJmSnZNc01IT2dHYUJiOEdfalRzWFNiMHpUVk1GcWRmVmI3VzF3Q0Z2ZFZ5VUw0SkdfSXViT0lIMERFZVJ4VGJYRzFLRUNhTjc0Y0hqMUdRNm8z?oc=5",
+        "source": "news",
+        "created_at": "Wed, 08 Jul 2026 15:07:27 GMT",
+        "title_clean": "COVILHÃ: Museu de Arte Sacra inaugura duas novas exposições a 10 de julho",
+        "clean_text": "COVILHÃ: Museu de Arte Sacra inaugura duas novas exposições a 10 de julho. No próximo dia 10 de julho, o Museu de Arte Sacra da Covilhã inaugura duas novas exposições, que ficarão patentes ao público até ao dia 30 de agosto. A inauguração decorre no dia 10 de julho, às 21:30 e as duas exposições podem ser apreciadas de terça-feira a domingo, das 10:00 às 18:00, com entrada livre. De referir que, a sala de exposições temporárias recebe a coletiva \"A Arte do Momento e das Memórias\", da autoria do escultor José Antunes e do pintor Miguel Almeida. Apesar das suas diferenças em termos de material e conceção, os dois artistas confrontam-se na transformação do momento e das memórias em obras de arte únicas que transportam o observador para realidades multissensoriais, misturando a realidade com o imaginário e desafiando o observador a explorar novas perspetivas através da ilusão e da inovação visual. Por outro lado, a sala da Caridade transforma-se novamente em espaço expositivo para acolher a coleção de Miguel Almeida de Arte Sacra Biserica Ortodoxă Română. Continuando a sua estratégia de museologia inclusiva, o Museu de Arte Sacra apresenta uma exposição de Arte Sacra da Igreja Ortodoxa Romena, relacionada com o mistério da Páscoa, que pretende igualmente apelar ao ecumenismo e ao diálogo inter-religioso. A Igreja Ortodoxa Romena sob o pontificado do Patriarca Daniel em Bucareste é a segunda maior comunidade ortodoxa do mundo, contando com cerca de 17 milhões de fiéis, superada apenas pela Igreja Ortodoxa Russa. Para a Igreja Romena, à semelhança de todas as igrejas cristãs, a Páscoa constitui a sua maior celebração, representando a vitória da vida sobre a morte, a remissão dos pecados e a promessa da vida eterna. Desta forma, os fiéis executam uma interessante forma de arte que tem como material base o ovo e mais raramente apenas a casca de ovo. As peças são cedidas pela colecionador Miguel Almeida. Sobre os autores: José Antunes iniciou a profissão de serralheiro muito novo e, mais recentemente, dedicou-se a criar peças decorativas transformando as suas memórias em Arte. Produz peças únicas a partir de materiais reciclados tais como porcas, parafusos, correntes de mota, rolamentos ou peças de motores de carro. Os seus trabalhos têm sido apresentados em várias exposições a nível nacional, tendo já obtido diversas distinções. Miguel Almeida nasceu em França, onde cursou História da Arte, na vertente de Artes Plásticas. Com um gosto e aptidão especial pela Arte, continuou a sua formação na Escola Superior de Belas Artes em Besançon, desenvolvendo a partir de então um gosto especial pela pintura a óleo. Já, enquanto autodidata, dedica parte do seu tempo à escultura em madeira, e trabalhos em cerâmica e telha mourisca.",
+        "keywords": [
+            {
+                "keyword": "duas novas exposições ficarão",
+                "score": 0.7061
+            },
+            {
+                "keyword": "inaugura duas novas exposições",
+                "score": 0.7007
+            },
+            {
+                "keyword": "exposições ficarão",
+                "score": 0.6845
+            },
+            {
+                "keyword": "novas exposições ficarão",
+                "score": 0.6731
+            },
+            {
+                "keyword": "exposições podem apreciadas terça",
+                "score": 0.649
+            },
+            {
+                "keyword": "duas novas exposições",
+                "score": 0.6476
+            },
+            {
+                "keyword": "novas exposições 10 próximo",
+                "score": 0.6388
+            },
+            {
+                "keyword": "museu arte sacra apresenta",
+                "score": 0.6337
+            },
+            {
+                "keyword": "próximo 10 museu arte",
+                "score": 0.6285
+            },
+            {
+                "keyword": "sacra apresenta exposição arte",
+                "score": 0.6272
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
     }
 ]
