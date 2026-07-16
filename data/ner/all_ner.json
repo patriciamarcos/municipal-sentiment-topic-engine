@@ -122362,6 +122362,26 @@
         ]
     },
     {
+        "record_id": "bluesky_at://did:plc:rmv6gel4gxae4c4n36dfknkl/app.bsky.feed.post/3mqrufdhreo2i",
+        "source": "bluesky",
+        "created_at": "2026-07-16T18:27:10Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "UD Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "UDSantarém",
+                "label": "ORG"
+            },
+            {
+                "text": "PrimeraFa",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "youtube_cr9cyh_W8jk",
         "source": "youtube",
         "created_at": "2026-04-25T23:13:37Z",
