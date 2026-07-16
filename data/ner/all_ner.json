@@ -118409,6 +118409,526 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxObm9yRWRRWUxhZUpiRThYNDljSUs2Z0FFZ19NUlRaR2UxaFRxa0RwUVVTZElXR2g4eXo0UW9pUkhOUzB6TS04MmZGaFNkd1hiNlZPaWI1dkpfRHdiNXBBVXdLM2dqWTlyZTVZV2dxa2d4LTh2Z2xnYURDODN5TFhNd1Jqd2RtX0lvNXAtV3N0T28zRW10?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "title_clean": "OFICIAL: Alverca empresta Kauan Gomes ao Sp. Covilhã - CNN Portugal",
+        "entities": [
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "CNN Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Maia Lidador",
+                "label": "ORG"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Rhaldeny",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Marezi",
+                "label": "PER"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Noah Raveyre",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Essimi",
+                "label": "PER"
+            },
+            {
+                "text": "Lucca Giuntini",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE12M3NoUzBKc1VEVmdDRWZfQ2JaQ01HRDlqai1LeUJYNDUteFRVclZ4cEx1YVdLbkxMWGxZT2NvWVo1Q0hQOHJYYnVVODRZTHhiUlQtcl9FTlBSYjZiVmJhdEtIVWZHdHdHSjJXRGZDSkp2Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 08:29:00 GMT",
+        "title_clean": "“Memória de Peixe” no terraço do TMC",
+        "entities": [
+            {
+                "text": "Memória",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Miguel Nicolau",
+                "label": "PER"
+            },
+            {
+                "text": "Lovers & Lollypops",
+                "label": "ORG"
+            },
+            {
+                "text": "Sociedade Portuguesa de Autores",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Melo Alves",
+                "label": "PER"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "João Vaz Silva",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzNZVUQ0TDZNZmg1aEdHM2JpQTFrRWRkcVFWTzVhV3JCU3BZSlFCb3NpcHl3V1ZtTlVDT1ZBY04wdzY5RnVHam5GWTdmT2ZOaERza1JPUmlYbHNrMjZOU3Q3cjFoNDdsel80NWZTeXdVemFGMEdnRzMyZGpsZDdCV2pFbkNFdThCb1JqaHZoRUJ1MHQ2M3hFVWVpN09UbUhaY2tCNEpmR3gwTjZUaTh3ek1keklnc043?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:39:31 GMT",
+        "title_clean": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFl6N0h1U1NKRndFR3dPN3BONVdqTzdkdm5rclVZMmN5ajdNTWFLZy1STW1CYVg4S01aSVZrbmh0SU9NVHpRQnVGM3lkNlNYWnJCcVRTbG1oVFVBdGRSNXZtM1cydTN5WnE5a1k3VVZCbU1RQy1EaVBMR1BmQ09Xc2duYmNTc0Y2aUJ2NVlqdHd5ZlhwUm9YLWZJdzZPQ0pXU3NRUzJxRVBkSWFLOFdaNWwyRQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 10:16:50 GMT",
+        "title_clean": "Sporting da Covilhã contrata Emerson Gomes e renova com Ângelo Barbosa",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Ângelo Barbosa",
+                "label": "PER"
+            },
+            {
+                "text": "O Elvas",
+                "label": "ORG"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Guiné-Bissau",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0tPZTR2ZTk2MWRyVnRTblk5cnFrZHpYd0x2Rmg2OXFwcU1qb0prZm04cXNTZTVGdG9WdWdXX0I2THdBWURqY1ZsODkxaFlyb1VDVVJDbnpEMmxhUWM3eHlma3JJb1JtSVZ2VUtvZ1liTURXSDZJa0s3dFpqTkRkdlp1X3VaN29xQnZ1Y3pEOWdHWUtIMEV5bU9PbV8?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 16:02:27 GMT",
+        "title_clean": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0lnS2dXS1A4VkFUQU1RNVBQTUdBNUR5ZnlIQmN3bUdKMW5GNmlWcFBrTGdyei05T2dRX2M1dE1lelRKLXd2RnVOOHBPTnBPOFFLVlhiLUdoNWVid2VKdzRER2JXZ3dlOENUdVNQS1ZOODV1cGUxaFFqaXdzYU9haTNObmNwaGswMmFz0gGLAUFVX3lxTE1vSWdLZ1dLUDhWQVRBTVE1UFBNR0E1RHlmeUhCY3dtR0oxbkY2aVZwUGtMZ3J6LTlPZ1FfYzV0TWV6VEotd3ZGdU44cE9OcE84UUtWWGItR2g1ZWJ3ZUp3NERHYldnd2U4Q1R1U1BLVk44NXVwZTFoUWppd3NhT2FpM05uY3BoazAyYXM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 18:17:33 GMT",
+        "title_clean": "Olivier Bonamici, de bicicleta, “À Conquista da Torre” - Renascença",
+        "entities": [
+            {
+                "text": "Olivier Bonamici",
+                "label": "PER"
+            },
+            {
+                "text": "Remco Evenepoel",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal Continental",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJzRmhvUjZjRjlqQnpORWh4V2FHQy04UklSQjloRXVZMll1MDlTX1kwZnkwV21DZmx0V1V5NG9kdjBLX1BiQjVMdkVvRHRaOUlpcUVjZnNwWFJjVXhlOWdGa09NQko0bU8yX09TMU9peFhmM2dLeFluQlFTTF9PTndpendoYzZ1TEU2ems1SlQyajdET1BjbGpwTEE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:12:05 GMT",
+        "title_clean": "Mercado of Sport’s: Aidara e Emerson Gomes reforçam Sporting da Covilhã",
+        "entities": [
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "FC Felgueiras",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGMyRzlqRTdpV0l3akxsdjJGNVBVQXVuZDZuWS1qSFp4SWxkdjZvUExpa3JuQ1dYY0ctSXVJM3pPdERTcEwwci10allkLUFYMk5GdklodXh5UU9CUElJaWw0WlhuUVRQdGJGQVoycHloNGZzczJka2t4NUp0MDhQVktVZ2gtVnRqc1BoMThmWWpPTDhpOElMeXc0UDYwekJ1UlZNbw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:06:22 GMT",
+        "title_clean": "COVILHÃ: Feira de São Tiago começa já esta quinta-feira",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo do Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Filarmónica Recreati",
+                "label": "ORG"
+            },
+            {
+                "text": "Carvalhense",
+                "label": "LOC"
+            },
+            {
+                "text": "Balcão Único",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUFlOWFsNG0xdnhMeVRBamRUVTUxQ2VBaklYMEYwSFViY0ZaOWtJZ0VXUURkaUZ2QXNKa1dGN2xHbzhlQzNzS2VjdmFVdE5PYk8tXzFFTVl6WlpWa2RVOTJQenhFUjFVdnl6SzZ0LTJOWHAyT0ZHdVVCbmFQZTB0V1p1cl90WDhvZG5tQWh2V1dEaEVmWXE1Qk5kZE5aalM0b0dUU3NHQ1Y5OGZnU1lxdDlvck9vMHBxa1kwaWUtN2NPeWZvbGZr?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:59:17 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã renova com Jailson Gomes e Ângelo Barbosa",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmpsU3JhcGZFVFhycS1MTnF4dEVfMTBsLXV4MExITE1vdkVvbzFiMEM0QS1iWFJUaGNoYlczcG1ucFFnZTkyeXV5YTFnNlJob3FKRnVKUThybUNNRXZXTTlndk9zNWJpNEFlSWRvZnVPU1pxQmZkVC1qYjhkYVdnWHdfV20?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:23:00 GMT",
+        "title_clean": "Quim Barreiros no arranque da Feira de São Tiago",
+        "entities": [
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Balcão Único",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHlLVU1WS2hhMmhpRTMzMVRaeTJmSk1rU1N3U01Mai1WWmkzcWlNMkFMcHA4bVZ2SzFic1lTa1FLbFYxTlc4dGdmNWdhVjdjQzVYZC10X1FsYTd5X2JjU1BDT0xzak5lNlZvSk5ZYm9vNFh5MUVvRGxBb0MyTUN4bEVoR05vQkU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:48:00 GMT",
+        "title_clean": "Música, dança e novo circo na zona antiga do Fundão",
+        "entities": [
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Tílias",
+                "label": "LOC"
+            },
+            {
+                "text": "Moagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Dança/Vo'Arte",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça do Município",
+                "label": "LOC"
+            },
+            {
+                "text": "Estela Alexandre Orquestra",
+                "label": "PER"
+            },
+            {
+                "text": "Thaís de Melo",
+                "label": "PER"
+            },
+            {
+                "text": "APPACDM",
+                "label": "ORG"
+            },
+            {
+                "text": "Academia Sénior",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça Velha",
+                "label": "LOC"
+            },
+            {
+                "text": "Fernando Nogueira",
+                "label": "PER"
+            },
+            {
+                "text": "Verónica Calheiros",
+                "label": "PER"
+            },
+            {
+                "text": "Graça Ocho",
+                "label": "PER"
+            },
+            {
+                "text": "Rítmico",
+                "label": "LOC"
+            },
+            {
+                "text": "Nuno Torres",
+                "label": "PER"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

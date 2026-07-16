@@ -121020,5 +121020,555 @@
             }
         ],
         "source_name": "MaisBeiras Informação"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxObm9yRWRRWUxhZUpiRThYNDljSUs2Z0FFZ19NUlRaR2UxaFRxa0RwUVVTZElXR2g4eXo0UW9pUkhOUzB6TS04MmZGaFNkd1hiNlZPaWI1dkpfRHdiNXBBVXdLM2dqWTlyZTVZV2dxa2d4LTh2Z2xnYURDODN5TFhNd1Jqd2RtX0lvNXAtV3N0T28zRW10?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "title_clean": "OFICIAL: Alverca empresta Kauan Gomes ao Sp. Covilhã - CNN Portugal",
+        "clean_text": "OFICIAL: Alverca empresta Kauan Gomes ao Sp. Covilhã - CNN Portugal. 8 jul, 13:05 Defesa-direito brasileiro fez quatro jogos pela equipa principal dos ribatejanos O Alverca anunciou a renovação de contrato de Kauan Gomes por mais uma temporada e do lateral-direito por empréstimo para o Sp. Covilhã, da Liga 3. O jogador brasileiro de 21 anos chegou ao emblema ribatejano na época passada, para integrar a equipa B, vindo do Maia Lidador. Participou em quatro jogos pelo conjunto principal do emblema recém-regressado ao principal escalão. Kauan Gomes é a 11.ª saída confirmada do Alverca, depois de André Gomes, Chissumba, Naves, Rhaldeny, Tomás Mendes, Fabrício Garcia, Marezi, Mathis Clairicia, Sandro Lima e Lincoln. No sentido contrário, chegaram ao clube Toni Tamarit, Noah Raveyre, Marco Essimi e Lucca Giuntini.",
+        "keywords": [
+            {
+                "keyword": "liga jogador brasileiro",
+                "score": 0.6858
+            },
+            {
+                "keyword": "jogador brasileiro",
+                "score": 0.6785
+            },
+            {
+                "keyword": "direito brasileiro fez",
+                "score": 0.6465
+            },
+            {
+                "keyword": "brasileiro fez",
+                "score": 0.643
+            },
+            {
+                "keyword": "liga jogador brasileiro 21",
+                "score": 0.6411
+            },
+            {
+                "keyword": "direito brasileiro",
+                "score": 0.6333
+            },
+            {
+                "keyword": "jogador brasileiro 21",
+                "score": 0.6192
+            },
+            {
+                "keyword": "brasileiro 21",
+                "score": 0.5994
+            },
+            {
+                "keyword": "brasileiro fez quatro jogos",
+                "score": 0.5982
+            },
+            {
+                "keyword": "direito brasileiro fez quatro",
+                "score": 0.5941
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE12M3NoUzBKc1VEVmdDRWZfQ2JaQ01HRDlqai1LeUJYNDUteFRVclZ4cEx1YVdLbkxMWGxZT2NvWVo1Q0hQOHJYYnVVODRZTHhiUlQtcl9FTlBSYjZiVmJhdEtIVWZHdHdHSjJXRGZDSkp2Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 08:29:00 GMT",
+        "title_clean": "“Memória de Peixe” no terraço do TMC",
+        "clean_text": "\"Memória de Peixe\" no terraço do TMC. É o último concerto da iniciativa Mirador, promovida pelo Teatro Municipal da Covilhã (TMC) no seu terraço. Amanhã, quinta-feira, 16, às 21:30, atuam os \"Memória de Peixe\", seguidos do dj set de Sound of Silva. Trata-se de um projeto musical criado por Miguel Nicolau em 2011. O álbum de estreia foi lançado em 2012, pela Lovers & Lollypops, tendo sido considerado um dos melhores álbuns portugueses do ano e nomeado para melhor álbum pela Sociedade Portuguesa de Autores. Com uma nova formação constituída por Miguel Nicolau (guitarra), Pedro Melo Alves (bateria e eletrónica) e Filipe Louro (baixo), os Memória de Peixe regressaram em março de 2025 com o álbum \"III\", o mais recente capítulo da sua discografia. Partindo da premissa original que funde rock, jazz e espaço para o improviso, este trio apura a sua sensibilidade pop nos 11 temas do álbum e aposta numa forte dimensão visual e conceptual, num encontro entre sons orgânicos e eletrónicos, e imagens e narrativas que convivem em forma de canção. Após o concerto, segue-se o dj set de Sound of Silva. João Vaz Silva já assumiu vários nomes como DJ ao longo dos anos. O mais recente coincide com o nome do programa semanal que realiza na Futura - Rádio de Autor: SOUND OF SILVA.",
+        "keywords": [
+            {
+                "keyword": "tmc último concerto iniciativa",
+                "score": 0.6933
+            },
+            {
+                "keyword": "último concerto iniciativa mirador",
+                "score": 0.6861
+            },
+            {
+                "keyword": "terraço tmc último concerto",
+                "score": 0.6633
+            },
+            {
+                "keyword": "tmc último concerto",
+                "score": 0.6612
+            },
+            {
+                "keyword": "último concerto iniciativa",
+                "score": 0.6541
+            },
+            {
+                "keyword": "concerto iniciativa mirador promovida",
+                "score": 0.624
+            },
+            {
+                "keyword": "concerto iniciativa mirador",
+                "score": 0.6071
+            },
+            {
+                "keyword": "último concerto",
+                "score": 0.5932
+            },
+            {
+                "keyword": "melhor álbum sociedade portuguesa",
+                "score": 0.5882
+            },
+            {
+                "keyword": "álbuns portugueses nomeado",
+                "score": 0.5809
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzNZVUQ0TDZNZmg1aEdHM2JpQTFrRWRkcVFWTzVhV3JCU3BZSlFCb3NpcHl3V1ZtTlVDT1ZBY04wdzY5RnVHam5GWTdmT2ZOaERza1JPUmlYbHNrMjZOU3Q3cjFoNDdsel80NWZTeXdVemFGMEdnRzMyZGpsZDdCV2pFbkNFdThCb1JqaHZoRUJ1MHQ2M3hFVWVpN09UbUhaY2tCNEpmR3gwTjZUaTh3ek1keklnc043?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:39:31 GMT",
+        "title_clean": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão",
+        "clean_text": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão. A Covilhã recebe, no dia 18 de julho, o Campeonato Nacional de Hipertensão, uma iniciativa de sensibilização para a prevenção e controlo da hipertensão arterial, aberta a toda a população e não apenas a pessoas diagnosticadas com a doença. O programa tem início às 18h, na sala do Complexo Desportivo da Covilhã, com um workshop dedicado à alimentação saudável, à correta medição da pressão arterial e à preparação para situações de emergência. Pelas 19h, o Complexo Desportivo acolhe um jogo de futebol simbólico, que colocará frente a frente equipas compostas por pessoas com hipertensão, acompanhadas por tutores. A iniciativa contará ainda com a participação do Presidente da Câmara Municipal da Covilhã, Hélio Fazendeiro, como treinador convidado, e do cantor covilhanense João Gil, que assumirá o papel de árbitro. No final do evento será realizado um sorteio de prémios aberto a todos os participantes.",
+        "keywords": [
+            {
+                "keyword": "nacional hipertensão iniciativa sensibilização",
+                "score": 0.6628
+            },
+            {
+                "keyword": "campeonato nacional hipertensão iniciativa",
+                "score": 0.6327
+            },
+            {
+                "keyword": "nacional hipertensão iniciativa",
+                "score": 0.6299
+            },
+            {
+                "keyword": "18 campeonato nacional hipertensão",
+                "score": 0.6261
+            },
+            {
+                "keyword": "nacional hipertensão",
+                "score": 0.6242
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização prevenção",
+                "score": 0.6216
+            },
+            {
+                "keyword": "compostas pessoas hipertensão",
+                "score": 0.6118
+            },
+            {
+                "keyword": "campeonato nacional hipertensão",
+                "score": 0.6076
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização",
+                "score": 0.6059
+            },
+            {
+                "keyword": "recebe campeonato nacional hipertensão",
+                "score": 0.6057
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFl6N0h1U1NKRndFR3dPN3BONVdqTzdkdm5rclVZMmN5ajdNTWFLZy1STW1CYVg4S01aSVZrbmh0SU9NVHpRQnVGM3lkNlNYWnJCcVRTbG1oVFVBdGRSNXZtM1cydTN5WnE5a1k3VVZCbU1RQy1EaVBMR1BmQ09Xc2duYmNTc0Y2aUJ2NVlqdHd5ZlhwUm9YLWZJdzZPQ0pXU3NRUzJxRVBkSWFLOFdaNWwyRQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 10:16:50 GMT",
+        "title_clean": "Sporting da Covilhã contrata Emerson Gomes e renova com Ângelo Barbosa",
+        "clean_text": "Sporting da Covilhã contrata Emerson Gomes e renova com Ângelo Barbosa. O Sporting da Covilhã continua a preparar a nova temporada na Liga 3 e garantiu a contratação do defesa-central Emerson Gomes, de 27 anos, que chega proveniente de O Elvas para reforçar o eixo defensivo da equipa orientada por Dani Matos. Internacional pela Guiné-Bissau nos escalões jovens, Emerson Gomes chega à Covilhã depois de duas épocas ao serviço de O Elvas, onde realizou 33. Também nos seus canais oficias o Sporting da Covilhã anunciou a renovação de contrato com o médio Ângelo Barbosa de 26 anos. Recordar que o sorteio da Liga 3 está marcado para amanhã, dia 16, às 17:00.",
+        "keywords": [
+            {
+                "keyword": "oficias sporting",
+                "score": 0.5026
+            },
+            {
+                "keyword": "canais oficias sporting",
+                "score": 0.4865
+            },
+            {
+                "keyword": "ângelo barbosa sporting",
+                "score": 0.4576
+            },
+            {
+                "keyword": "temporada liga garantiu contratação",
+                "score": 0.4424
+            },
+            {
+                "keyword": "defensivo equipa",
+                "score": 0.4363
+            },
+            {
+                "keyword": "defensivo equipa orientada",
+                "score": 0.4335
+            },
+            {
+                "keyword": "liga garantiu contratação defesa",
+                "score": 0.4319
+            },
+            {
+                "keyword": "eixo defensivo equipa",
+                "score": 0.4295
+            },
+            {
+                "keyword": "preparar nova temporada liga",
+                "score": 0.4202
+            },
+            {
+                "keyword": "barbosa sporting",
+                "score": 0.415
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0tPZTR2ZTk2MWRyVnRTblk5cnFrZHpYd0x2Rmg2OXFwcU1qb0prZm04cXNTZTVGdG9WdWdXX0I2THdBWURqY1ZsODkxaFlyb1VDVVJDbnpEMmxhUWM3eHlma3JJb1JtSVZ2VUtvZ1liTURXSDZJa0s3dFpqTkRkdlp1X3VaN29xQnZ1Y3pEOWdHWUtIMEV5bU9PbV8?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 16:02:27 GMT",
+        "title_clean": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão",
+        "clean_text": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão. A Covilhã recebe, no dia 18 de julho, o Campeonato Nacional de Hipertensão, uma iniciativa de sensibilização para a prevenção e controlo da hipertensão arterial, aberta a toda a população e não apenas a pessoas diagnosticadas com a doença. O programa tem início às 18h, na sala do Complexo Desportivo da Covilhã, com um workshop dedicado à alimentação saudável, à correta medição da pressão arterial e à preparação para situações de emergência. Pelas 19h, o Complexo Desportivo acolhe um jogo de futebol simbólico, que colocará frente a frente equipas compostas por pessoas com hipertensão, acompanhadas por tutores. A iniciativa contará ainda com a participação do Presidente da Câmara Municipal da Covilhã, Hélio Fazendeiro, como treinador convidado, e do cantor covilhanense João Gil, que assumirá o papel de árbitro. No final do evento será realizado um sorteio de prémios aberto a todos os participantes.",
+        "keywords": [
+            {
+                "keyword": "nacional hipertensão iniciativa sensibilização",
+                "score": 0.6628
+            },
+            {
+                "keyword": "campeonato nacional hipertensão iniciativa",
+                "score": 0.6327
+            },
+            {
+                "keyword": "nacional hipertensão iniciativa",
+                "score": 0.6299
+            },
+            {
+                "keyword": "18 campeonato nacional hipertensão",
+                "score": 0.6261
+            },
+            {
+                "keyword": "nacional hipertensão",
+                "score": 0.6242
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização prevenção",
+                "score": 0.6216
+            },
+            {
+                "keyword": "compostas pessoas hipertensão",
+                "score": 0.6118
+            },
+            {
+                "keyword": "campeonato nacional hipertensão",
+                "score": 0.6076
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização",
+                "score": 0.6059
+            },
+            {
+                "keyword": "recebe campeonato nacional hipertensão",
+                "score": 0.6057
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0lnS2dXS1A4VkFUQU1RNVBQTUdBNUR5ZnlIQmN3bUdKMW5GNmlWcFBrTGdyei05T2dRX2M1dE1lelRKLXd2RnVOOHBPTnBPOFFLVlhiLUdoNWVid2VKdzRER2JXZ3dlOENUdVNQS1ZOODV1cGUxaFFqaXdzYU9haTNObmNwaGswMmFz0gGLAUFVX3lxTE1vSWdLZ1dLUDhWQVRBTVE1UFBNR0E1RHlmeUhCY3dtR0oxbkY2aVZwUGtMZ3J6LTlPZ1FfYzV0TWV6VEotd3ZGdU44cE9OcE84UUtWWGItR2g1ZWJ3ZUp3NERHYldnd2U4Q1R1U1BLVk44NXVwZTFoUWppd3NhT2FpM05uY3BoazAyYXM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 18:17:33 GMT",
+        "title_clean": "Olivier Bonamici, de bicicleta, “À Conquista da Torre” - Renascença",
+        "clean_text": "Olivier Bonamici, de bicicleta, \"À Conquista da Torre\" - Renascença. O jornalista Olivier Bonamici prometeu, num programa em direto, que se o ciclista Remco Evenepoel não vencesse o Tour de France ele subiria de bicicleta ao ponto mais alto de Portugal Continental. A previsão de Olivier não se concretizou, mas a aposta ficou. Dia 19 de setembro será o dia para concretizar este momento histórico na vida do Olivier e de todos os que se quiserem juntar a ele. O desafio começa na Covilhã e ganha estrada na Serra da Estrela. São 25 quilómetros até ao topo. Pelo meio há espaço para ultrapassagens, sprints, mas, sobretudo, muito convívio com a boa disposição que já caracteriza o comentador da Renascença. Se também quiser participar, pode inscrever-se AQUI. O percurso tem tanto de exigente como de bonito. Não deixe que a dificuldade o demova, esta é uma subida sem cronómetro, onde cada participante pedala ao seu ritmo, sem classificações e aberta a todos. Superado o desafio, no fim, não vai faltar oportunidade para \"um encontro de ciclistas, famílias, clubes e amantes da bicicleta, com ambiente de celebração, partilha e festa na cidade e na montanha.\" Junte-se ao Olivier Bonamici e parta \"À Conquista da Torre\" no 1993 - Festival de Cicloturismo da Serra da Estrela. À Conquista da Torre: Sábado, 19 Set às 08:30 Complexo Desportivo da Covilhã Inscrição 10€ - Informações:À Conquista da Torre: Sábado, 19 Set às 08:30Complexo Desportivo da CovilhãInscrição 10€ - Quero inscrever-me",
+        "keywords": [
+            {
+                "keyword": "vencesse tour france ele",
+                "score": 0.7027
+            },
+            {
+                "keyword": "tour france ele subiria",
+                "score": 0.6926
+            },
+            {
+                "keyword": "não vencesse tour france",
+                "score": 0.6719
+            },
+            {
+                "keyword": "tour france ele",
+                "score": 0.6584
+            },
+            {
+                "keyword": "bicicleta ponto alto portugal",
+                "score": 0.6569
+            },
+            {
+                "keyword": "france ele subiria bicicleta",
+                "score": 0.6566
+            },
+            {
+                "keyword": "vencesse tour france",
+                "score": 0.6468
+            },
+            {
+                "keyword": "olivier bonamici bicicleta conquista",
+                "score": 0.631
+            },
+            {
+                "keyword": "tour france",
+                "score": 0.6192
+            },
+            {
+                "keyword": "bonamici bicicleta conquista",
+                "score": 0.6162
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJzRmhvUjZjRjlqQnpORWh4V2FHQy04UklSQjloRXVZMll1MDlTX1kwZnkwV21DZmx0V1V5NG9kdjBLX1BiQjVMdkVvRHRaOUlpcUVjZnNwWFJjVXhlOWdGa09NQko0bU8yX09TMU9peFhmM2dLeFluQlFTTF9PTndpendoYzZ1TEU2ems1SlQyajdET1BjbGpwTEE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:12:05 GMT",
+        "title_clean": "Mercado of Sport’s: Aidara e Emerson Gomes reforçam Sporting da Covilhã",
+        "clean_text": "Mercado of Sport's: Aidara e Emerson Gomes reforçam Sporting da Covilhã. O Sporting Clube da Covilhã continua a reforçar o plantel para a temporada 2026/27 e anunciou as contratações de Mohamed Aidara e Emerson Gomes. O primeiro a ser apresentado foi Mohamed Aidara, que chega ao emblema serrano proveniente do FC Felgueiras, reforçando as opções da equipa para a nova época. O clube oficializou também a chegada de Emerson Gomes, mais um reforço que passa a integrar o plantel orientado para a temporada 2026/27. Com estas duas contratações, o Sporting da Covilhã prossegue a construção do grupo de trabalho, reforçando as suas opções tendo em vista os desafios da nova época desportiva.",
+        "keywords": [
+            {
+                "keyword": "sport aidara emerson gomes",
+                "score": 0.5738
+            },
+            {
+                "keyword": "of sport aidara emerson",
+                "score": 0.5516
+            },
+            {
+                "keyword": "sport aidara emerson",
+                "score": 0.5508
+            },
+            {
+                "keyword": "proveniente fc felgueiras reforçando",
+                "score": 0.5402
+            },
+            {
+                "keyword": "emerson gomes reforçam sporting",
+                "score": 0.5233
+            },
+            {
+                "keyword": "fc felgueiras reforçando",
+                "score": 0.5134
+            },
+            {
+                "keyword": "nova época desportiva",
+                "score": 0.512
+            },
+            {
+                "keyword": "reforçam sporting",
+                "score": 0.5066
+            },
+            {
+                "keyword": "proveniente fc felgueiras",
+                "score": 0.5006
+            },
+            {
+                "keyword": "mercado of sport aidara",
+                "score": 0.4978
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGMyRzlqRTdpV0l3akxsdjJGNVBVQXVuZDZuWS1qSFp4SWxkdjZvUExpa3JuQ1dYY0ctSXVJM3pPdERTcEwwci10allkLUFYMk5GdklodXh5UU9CUElJaWw0WlhuUVRQdGJGQVoycHloNGZzczJka2t4NUp0MDhQVktVZ2gtVnRqc1BoMThmWWpPTDhpOElMeXc0UDYwekJ1UlZNbw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:06:22 GMT",
+        "title_clean": "COVILHÃ: Feira de São Tiago começa já esta quinta-feira",
+        "clean_text": "COVILHÃ: Feira de São Tiago começa já esta quinta-feira. A Feira de São Tiago arranca já nesta quinta-feira, dia 16 de julho, na Covilhã, com mais de 200 expositores e as atuações de Sara Correia, Diogo Piçarra, Bárbara Bandeira, Vizinhos, Plutónio, Pedro Abrunhosa, Quim Barreiros, João Gil, Inês Vasconcellos e Rita Guerra, que atuam no palco principal. A decorrer até ao dia 26 de julho, o evento garante onze dias de muita diversão e música, aliadas à promoção territorial e à dinamização empresarial da região, com a presença de instituições, espaços de restauração, empresas e negócios, bem como carrosséis e divertimentos. Esta edição volta a ser organizada pelo Município da Covilhã, em parceria com a Associação Empresarial da Covilhã, Belmonte e Penamacor (AECBP), contado com o apoio de várias outras entidades, designadamente do Turismo do Portugal, no âmbito de uma candidatura apresentada ao programa \"Portugal Events\". Trata-se do reconhecimento da importância que a Feira de São Tiago ao nível da oferta cultural, da divulgação das associações e na dinamização das empresas. Entre as novidades, está a venda on-line de bilhetes, através do site dedicado ( que permite agilizar a venda antecipada de bilhetes e evitar filas nos dias dos concertos, sendo também uma mais-valia ao nível da segurança, dado que o sistema permite acompanhar em tempo real o do número de pessoas que estão no recinto. A aposta na sustentabilidade também vai ser reforçada, com a introdução de copos reutilizáveis no evento para reduzir a presença do plástico neste certame. Cada copo reciclável tem o valor de 1 euro, estando à venda em dois stands específicos e nos espaços de restauração, havendo a possibilidade de o trocar por outro. A tudo isto junta-se ainda uma reorganização do espaço que vai permitir o aumento da zona de restauração e a localização do stand institucional numa área mais central, proporcionando ainda melhores condições aos expositores e ao Além disso, o certame conta ainda com o Palco Secundário e com o Palco Tradições, que vão receber bandas e artistas da região, bem como ranchos, bombos e grupos de cantares locais. Com 615 anos de existência e 613 edições realizadas (não ocorreu nos anos da pandemia de covid-19), a Feira de São Tiago é um marco nesta época do ano, contando sempre com um cartaz musical eclético, que procura chegar aos mais variados públicos e às diferentes gerações e que, neste ano, também junta em palco artistas nacionais com grupos regionais. O certame abre no dia 16 de julho, com as atuações no palco principal marcadas sempre para as 22:30, à exceção dos dias em que há mais do quem concerto. Assim, no primeiro dia atua Quim Barreiros. Diogo Piçarra sobe ao palco no dia 17 de julho. No dia 18, sobe ao palco o reconhecido artista covilhanense João Gil, seguindo-se, a igualmente renomada Sara Correia. A encerrar o fim de semana, no dia 19, atua Plutónio. O palco principal volta a ter atuações no dia 23 de julho, com os Vizinhos. No dia 24 de julho, a cabeça de cartaz é Bárbara Bandeira. No dia 25, é a vez de Pedro Abrunhosa subir ao palco do São Tiago. A fechar o certame, no dia 26, vão estar as atuações de Inês Vasconcellos e de Rita Guerra, esta última acompanhada pela Filarmónica Recreativa Carvalhense. Haverá ainda muita animação de rua, atuações diárias no palco secundário e, claro está, as tradicionais farturas. Nos dias de espetáculos no palco principal, os bilhetes variam entre os 3 e os seis euros. O bilhete geral custa 28 euros, permitindo uma poupança de 10 euros em relação à totalidade do valor dos espetáculos. As crianças até aos 10 anos (inclusive) não pagam. Além da venda on-line, mantém-se a venda diária em bilheteira e venda antecipada no Balcão Único e na Piscina Praia. No próprio dia também pode comprar nas bilheteiras junto à entrada do recinto. público em geral.",
+        "keywords": [
+            {
+                "keyword": "tiago arranca quinta feira",
+                "score": 0.5389
+            },
+            {
+                "keyword": "tiago começa quinta feira",
+                "score": 0.5331
+            },
+            {
+                "keyword": "apresentada programa portugal events",
+                "score": 0.5086
+            },
+            {
+                "keyword": "concerto assim primeiro atua",
+                "score": 0.5017
+            },
+            {
+                "keyword": "feira são tiago começa",
+                "score": 0.4995
+            },
+            {
+                "keyword": "diárias palco",
+                "score": 0.4935
+            },
+            {
+                "keyword": "palco tradições vão receber",
+                "score": 0.474
+            },
+            {
+                "keyword": "palco principal decorrer até",
+                "score": 0.4718
+            },
+            {
+                "keyword": "diogo piçarra sobe palco",
+                "score": 0.4713
+            },
+            {
+                "keyword": "tradicionais farturas espetáculos",
+                "score": 0.452
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUFlOWFsNG0xdnhMeVRBamRUVTUxQ2VBaklYMEYwSFViY0ZaOWtJZ0VXUURkaUZ2QXNKa1dGN2xHbzhlQzNzS2VjdmFVdE5PYk8tXzFFTVl6WlpWa2RVOTJQenhFUjFVdnl6SzZ0LTJOWHAyT0ZHdVVCbmFQZTB0V1p1cl90WDhvZG5tQWh2V1dEaEVmWXE1Qk5kZE5aalM0b0dUU3NHQ1Y5OGZnU1lxdDlvck9vMHBxa1kwaWUtN2NPeWZvbGZr?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:59:17 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã renova com Jailson Gomes e Ângelo Barbosa",
+        "clean_text": "Mercado of Sport's: Sporting da Covilhã renova com Jailson Gomes e Ângelo Barbosa. O Sporting Clube da Covilhã assegurou a continuidade de mais dois jogadores para a temporada 2026/2027, ao anunciar as renovações de Jailson Gomes e Ângelo Barbosa. Jailson Gomes, avançado de 25 anos, vai continuar a representar os serranos, prolongando a ligação ao clube para mais uma época. Também Ângelo Barbosa, médio de 26 anos, renovou contrato com o emblema covilhanense e continuará a integrar o plantel na temporada 2026/2027. Com estas renovações, o Sporting Clube da Covilhã mantém a aposta na continuidade do grupo, garantindo a permanência de dois jogadores para a nova época desportiva.",
+        "keywords": [
+            {
+                "keyword": "2026 2027 renovações sporting",
+                "score": 0.6692
+            },
+            {
+                "keyword": "2027 renovações sporting",
+                "score": 0.6508
+            },
+            {
+                "keyword": "continuidade dois jogadores temporada",
+                "score": 0.6316
+            },
+            {
+                "keyword": "renovações sporting",
+                "score": 0.6123
+            },
+            {
+                "keyword": "jogadores nova época desportiva",
+                "score": 0.5973
+            },
+            {
+                "keyword": "nova época desportiva",
+                "score": 0.5949
+            },
+            {
+                "keyword": "dois jogadores temporada 2026",
+                "score": 0.5927
+            },
+            {
+                "keyword": "jogadores temporada 2026 2027",
+                "score": 0.5787
+            },
+            {
+                "keyword": "época desportiva",
+                "score": 0.5715
+            },
+            {
+                "keyword": "jogadores nova época",
+                "score": 0.5609
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmpsU3JhcGZFVFhycS1MTnF4dEVfMTBsLXV4MExITE1vdkVvbzFiMEM0QS1iWFJUaGNoYlczcG1ucFFnZTkyeXV5YTFnNlJob3FKRnVKUThybUNNRXZXTTlndk9zNWJpNEFlSWRvZnVPU1pxQmZkVC1qYjhkYVdnWHdfV20?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:23:00 GMT",
+        "title_clean": "Quim Barreiros no arranque da Feira de São Tiago",
+        "clean_text": "Quim Barreiros no arranque da Feira de São Tiago. É com o artista popular Quim Barreiros (entrada custa quatro euros), no palco principal, às 22:30, que arranca amanhã mais uma edição (a 613ª) da Feira de São Tiago (com 615 anos de existência, mas que não decorreu em dois anos de pandemia). O certame, organizado pela Câmara da Covilhã, em parceria com a Associação Empresarial da Covilhã, Belmonte e Penamacor (AECBP), contará, este ano, segundo a autarquia, com mais de 200 expositores e atuações de nomes como Sara Correia, Diogo Piçarra, Bárbara Bandeira, Vizinhos, Plutónio, Pedro Abrunhosa, Quim Barreiros, João Gil, Inês Vasconcellos e Rita Guerra. A decorrer até ao dia 26 de julho, o evento garante, segundo a Câmara, onze dias de \"muita diversão e música, aliadas à promoção territorial e à dinamização empresarial da região, com a presença de instituições, espaços de restauração, empresas e negócios, bem como carrosséis e divertimentos.\" O evento conta com o apoio do Turismo de Portugal, no âmbito de uma candidatura apresentada ao programa \"Portugal Events\", o que segundo a edilidade é o \"reconhecimento da importância que a Feira de São Tiago ao nível da oferta cultural, da divulgação das associações e na dinamização das empresas.\" Nestes primeiros quatro dias, destaque para os concertos do palco principal, por onde passarão, na sexta-feira, 17, Diogo Piçarra (cinco euros), no sábado, 18, o artista covilhanense João Gil com a fadista Sara Correia (seis euros), e no domingo, Plutónio (cinco euros). Nos restantes dias da semana, até dia 23, em que atuam os Vizinhos (quatro euros), a entrada no recinto é gratuita. Existe um bilhete geral para ver todos os espetáculos do palco principal, que custa 28 euros, e que segundo a Câmara permite uma poupança de dez euros em relação à totalidade do valor dos espetáculos. Uma das novidades, este ano, é a venda on-line de bilhetes, através do site dedicado ( que permite agilizar a venda antecipada de bilhetes e evitar filas nos dias dos concertos, \"sendo também uma mais-valia ao nível da segurança, dado que o sistema permite acompanhar em tempo real o do número de pessoas que estão no recinto\", garante a autarquia. As crianças até aos dez anos não pagam e mantém-se a venda diária em bilheteira e venda antecipada no Balcão Único e na Piscina Praia. No próprio dia também pode comprar nas bilheteiras junto à entrada do recinto. A organização assegura também um reforço de aposta na sustentabilidade com a introdução de copos reutilizáveis no evento para reduzir a presença do plástico neste certame. Cada copo reciclável tem o valor de 1 euro, estando à venda em dois stands específicos e nos espaços de restauração, havendo a possibilidade de o trocar por outro. \"A tudo isto junta-se ainda uma reorganização do espaço que vai permitir o aumento da zona de restauração e a localização do stand institucional numa área mais central, proporcionando ainda melhores condições aos expositores e ao público em geral\", garante a Câmara. O certame conta ainda com mais dois palcos: o secundário, e o tradições, que vão receber bandas e artistas da região, bem como ranchos, bombos e grupos de cantares locais. \"A Feira de São Tiago é um marco nesta época do ano, contando sempre com um cartaz musical eclético, que procura chegar aos mais variados públicos e às diferentes gerações e que, neste ano, também junta em palco artistas nacionais com grupos regionais\" salienta a Câmara da Covilhã.",
+        "keywords": [
+            {
+                "keyword": "feira 17 diogo piçarra",
+                "score": 0.6176
+            },
+            {
+                "keyword": "apresentada programa portugal events",
+                "score": 0.5838
+            },
+            {
+                "keyword": "câmara certame conta",
+                "score": 0.571
+            },
+            {
+                "keyword": "feira são tiago artista",
+                "score": 0.5677
+            },
+            {
+                "keyword": "feira são tiago marco",
+                "score": 0.5673
+            },
+            {
+                "keyword": "contará autarquia",
+                "score": 0.5506
+            },
+            {
+                "keyword": "tiago marco época",
+                "score": 0.5503
+            },
+            {
+                "keyword": "pedro abrunhosa quim",
+                "score": 0.5454
+            },
+            {
+                "keyword": "joão gil fadista sara",
+                "score": 0.5454
+            },
+            {
+                "keyword": "palco principal passarão",
+                "score": 0.536
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHlLVU1WS2hhMmhpRTMzMVRaeTJmSk1rU1N3U01Mai1WWmkzcWlNMkFMcHA4bVZ2SzFic1lTa1FLbFYxTlc4dGdmNWdhVjdjQzVYZC10X1FsYTd5X2JjU1BDT0xzak5lNlZvSk5ZYm9vNFh5MUVvRGxBb0MyTUN4bEVoR05vQkU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:48:00 GMT",
+        "title_clean": "Música, dança e novo circo na zona antiga do Fundão",
+        "clean_text": "Música, dança e novo circo na zona antiga do Fundão. A zona antiga do Fundão é palco, entre amanhã, quinta-feira, 16, e domingo, 19, de um conjunto de espetáculos multidisciplinares, no âmbito da rubrica \"A Moagem fora de portas\", que pretende levar à rua as artes de forma \"próxima, inclusiva e acolhedora.\" Em diversos locais e ambientes, será possível cruzar-se com a música, o movimento da dança e a magia do circo, culminando, no domingo, com um dia inteiramente dedicado às famílias, onde a criatividade e uma sopa partilhada à mesa do Jardim das Tílias \"relembram a importância de momentos comunitários.\" O espaço urbano irá transformar-se para estes espetáculos, que terão entrada livre. Na quinta, às 21:30, exibido no auditório da Moagem o documentário \"Entrelaçar Memórias\", pela companhia de Dança/Vo'Arte. Na sexta, à mesma hora, na Praça do Município há jazz com Estela Alexandre Orquestra. No sábado, às 18h30, o espetáculo de dança Scivolare, de Thaís de Melo, estará na Praça do Município. Mais tarde, às 21:30, mais dança, com \"Clareira, Uma Natureza Humana\", um projeto artístico comunitário levado a cabo pela companhia de Dança/Vo'Arte com a APPACDM e Academia Sénior. Uma hora mais tarde, na Praça Velha, há novo circo com \"Rastros\", de Fernando Nogueira. No domingo, às 9 e 30, decorre uma oficina de desenho com Verónica Calheiros, no Jardim das Tílias Pouco depois, no mesmo local, teatro, com \"Sopa de Jerimu\", de Graça Ochoa e ainda neste local, às 11:30, \"Corpo Rítmico\", uma oficina de dança com Thaís de Melo. Segue-se, ao meio dia e meio, um almoço partilhado. De 17 a 19 de julho terá ainda lugar a instalação \"A Memória e o Lugar\", de Nuno Torres, na Praça do Município.",
+        "keywords": [
+            {
+                "keyword": "antiga fundão palco amanhã",
+                "score": 0.6977
+            },
+            {
+                "keyword": "dança novo circo zona",
+                "score": 0.6607
+            },
+            {
+                "keyword": "fundão palco amanhã quinta",
+                "score": 0.6525
+            },
+            {
+                "keyword": "circo culminando domingo inteiramente",
+                "score": 0.6498
+            },
+            {
+                "keyword": "espetáculos multidisciplinares rubrica moagem",
+                "score": 0.6309
+            },
+            {
+                "keyword": "18h30 espetáculo dança scivolare",
+                "score": 0.6302
+            },
+            {
+                "keyword": "domingo 19 conjunto espetáculos",
+                "score": 0.6295
+            },
+            {
+                "keyword": "zona antiga fundão palco",
+                "score": 0.6279
+            },
+            {
+                "keyword": "sábado 18h30 espetáculo dança",
+                "score": 0.6271
+            },
+            {
+                "keyword": "circo zona antiga",
+                "score": 0.6194
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
     }
 ]

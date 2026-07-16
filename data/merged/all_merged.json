@@ -339893,5 +339893,1764 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObm9yRWRRWUxhZUpiRThYNDljSUs2Z0FFZ19NUlRaR2UxaFRxa0RwUVVTZElXR2g4eXo0UW9pUkhOUzB6TS04MmZGaFNkd1hiNlZPaWI1dkpfRHdiNXBBVXdLM2dqWTlyZTVZV2dxa2d4LTh2Z2xnYURDODN5TFhNd1Jqd2RtX0lvNXAtV3N0T28zRW10?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "title": "OFICIAL: Alverca empresta Kauan Gomes ao Sp. Covilhã - CNN Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0084,
+        "negative": 0.1645,
+        "neutral": 0.6626,
+        "positive": 0.1729,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9679,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9679,
+            "CONTEMPT": 0.0218,
+            "SURPRISE": 0.01,
+            "JOY": 0.0065,
+            "SADNESS": 0.0037,
+            "FRUSTRATION": 0.0028,
+            "ANGER": 0.0025,
+            "LOVE": 0.0018,
+            "DISGUST": 0.0014,
+            "FEAR": 0.0014,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [
+            {
+                "keyword": "liga jogador brasileiro",
+                "score": 0.6858
+            },
+            {
+                "keyword": "jogador brasileiro",
+                "score": 0.6785
+            },
+            {
+                "keyword": "direito brasileiro fez",
+                "score": 0.6465
+            },
+            {
+                "keyword": "brasileiro fez",
+                "score": 0.643
+            },
+            {
+                "keyword": "liga jogador brasileiro 21",
+                "score": 0.6411
+            },
+            {
+                "keyword": "direito brasileiro",
+                "score": 0.6333
+            },
+            {
+                "keyword": "jogador brasileiro 21",
+                "score": 0.6192
+            },
+            {
+                "keyword": "brasileiro 21",
+                "score": 0.5994
+            },
+            {
+                "keyword": "brasileiro fez quatro jogos",
+                "score": 0.5982
+            },
+            {
+                "keyword": "direito brasileiro fez quatro",
+                "score": 0.5941
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "CNN Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Maia Lidador",
+                "label": "ORG"
+            },
+            {
+                "text": "André Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Chissumba",
+                "label": "PER"
+            },
+            {
+                "text": "Naves",
+                "label": "PER"
+            },
+            {
+                "text": "Rhaldeny",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Marezi",
+                "label": "PER"
+            },
+            {
+                "text": "Sandro Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Lincoln",
+                "label": "PER"
+            },
+            {
+                "text": "Toni Tamarit",
+                "label": "PER"
+            },
+            {
+                "text": "Noah Raveyre",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Essimi",
+                "label": "PER"
+            },
+            {
+                "text": "Lucca Giuntini",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMickFVX3lxTE12M3NoUzBKc1VEVmdDRWZfQ2JaQ01HRDlqai1LeUJYNDUteFRVclZ4cEx1YVdLbkxMWGxZT2NvWVo1Q0hQOHJYYnVVODRZTHhiUlQtcl9FTlBSYjZiVmJhdEtIVWZHdHdHSjJXRGZDSkp2Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 08:29:00 GMT",
+        "title": "“Memória de Peixe” no terraço do TMC - Noticias da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1069,
+        "negative": 0.2963,
+        "neutral": 0.5142,
+        "positive": 0.1895,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9927,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9927,
+            "CONTEMPT": 0.0151,
+            "SADNESS": 0.0085,
+            "FRUSTRATION": 0.0077,
+            "JOY": 0.0068,
+            "ANGER": 0.0035,
+            "LOVE": 0.0026,
+            "DISGUST": 0.002,
+            "SURPRISE": 0.0016,
+            "GRATITUDE": 0.0014,
+            "FEAR": 0.0008
+        },
+        "keywords": [
+            {
+                "keyword": "tmc último concerto iniciativa",
+                "score": 0.6933
+            },
+            {
+                "keyword": "último concerto iniciativa mirador",
+                "score": 0.6861
+            },
+            {
+                "keyword": "terraço tmc último concerto",
+                "score": 0.6633
+            },
+            {
+                "keyword": "tmc último concerto",
+                "score": 0.6612
+            },
+            {
+                "keyword": "último concerto iniciativa",
+                "score": 0.6541
+            },
+            {
+                "keyword": "concerto iniciativa mirador promovida",
+                "score": 0.624
+            },
+            {
+                "keyword": "concerto iniciativa mirador",
+                "score": 0.6071
+            },
+            {
+                "keyword": "último concerto",
+                "score": 0.5932
+            },
+            {
+                "keyword": "melhor álbum sociedade portuguesa",
+                "score": 0.5882
+            },
+            {
+                "keyword": "álbuns portugueses nomeado",
+                "score": 0.5809
+            }
+        ],
+        "source_name": "Noticias da Covilhã",
+        "entities": [
+            {
+                "text": "Memória",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Miguel Nicolau",
+                "label": "PER"
+            },
+            {
+                "text": "Lovers & Lollypops",
+                "label": "ORG"
+            },
+            {
+                "text": "Sociedade Portuguesa de Autores",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Melo Alves",
+                "label": "PER"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "João Vaz Silva",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzNZVUQ0TDZNZmg1aEdHM2JpQTFrRWRkcVFWTzVhV3JCU3BZSlFCb3NpcHl3V1ZtTlVDT1ZBY04wdzY5RnVHam5GWTdmT2ZOaERza1JPUmlYbHNrMjZOU3Q3cjFoNDdsel80NWZTeXdVemFGMEdnRzMyZGpsZDdCV2pFbkNFdThCb1JqaHZoRUJ1MHQ2M3hFVWVpN09UbUhaY2tCNEpmR3gwTjZUaTh3ek1keklnc043?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:39:31 GMT",
+        "title": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão - SAPO",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0594,
+        "negative": 0.2197,
+        "neutral": 0.6199,
+        "positive": 0.1603,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9948,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9948,
+            "CONTEMPT": 0.0122,
+            "JOY": 0.0074,
+            "DISGUST": 0.0044,
+            "SADNESS": 0.0042,
+            "GRATITUDE": 0.0033,
+            "ANGER": 0.0032,
+            "SURPRISE": 0.0032,
+            "FRUSTRATION": 0.0027,
+            "LOVE": 0.0026,
+            "FEAR": 0.0025
+        },
+        "keywords": [
+            {
+                "keyword": "nacional hipertensão iniciativa sensibilização",
+                "score": 0.6628
+            },
+            {
+                "keyword": "campeonato nacional hipertensão iniciativa",
+                "score": 0.6327
+            },
+            {
+                "keyword": "nacional hipertensão iniciativa",
+                "score": 0.6299
+            },
+            {
+                "keyword": "18 campeonato nacional hipertensão",
+                "score": 0.6261
+            },
+            {
+                "keyword": "nacional hipertensão",
+                "score": 0.6242
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização prevenção",
+                "score": 0.6216
+            },
+            {
+                "keyword": "compostas pessoas hipertensão",
+                "score": 0.6118
+            },
+            {
+                "keyword": "campeonato nacional hipertensão",
+                "score": 0.6076
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização",
+                "score": 0.6059
+            },
+            {
+                "keyword": "recebe campeonato nacional hipertensão",
+                "score": 0.6057
+            }
+        ],
+        "source_name": "SAPO",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFl6N0h1U1NKRndFR3dPN3BONVdqTzdkdm5rclVZMmN5ajdNTWFLZy1STW1CYVg4S01aSVZrbmh0SU9NVHpRQnVGM3lkNlNYWnJCcVRTbG1oVFVBdGRSNXZtM1cydTN5WnE5a1k3VVZCbU1RQy1EaVBMR1BmQ09Xc2duYmNTc0Y2aUJ2NVlqdHd5ZlhwUm9YLWZJdzZPQ0pXU3NRUzJxRVBkSWFLOFdaNWwyRQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 10:16:50 GMT",
+        "title": "Sporting da Covilhã contrata Emerson Gomes e renova com Ângelo Barbosa - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1188,
+        "negative": 0.0898,
+        "neutral": 0.7016,
+        "positive": 0.2086,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9931,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9931,
+            "CONTEMPT": 0.012,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0054,
+            "LOVE": 0.0044,
+            "JOY": 0.0043,
+            "ANGER": 0.0041,
+            "SURPRISE": 0.0024,
+            "DISGUST": 0.0023,
+            "FEAR": 0.0014,
+            "GRATITUDE": 0.0012
+        },
+        "keywords": [
+            {
+                "keyword": "oficias sporting",
+                "score": 0.5026
+            },
+            {
+                "keyword": "canais oficias sporting",
+                "score": 0.4865
+            },
+            {
+                "keyword": "ângelo barbosa sporting",
+                "score": 0.4576
+            },
+            {
+                "keyword": "temporada liga garantiu contratação",
+                "score": 0.4424
+            },
+            {
+                "keyword": "defensivo equipa",
+                "score": 0.4363
+            },
+            {
+                "keyword": "defensivo equipa orientada",
+                "score": 0.4335
+            },
+            {
+                "keyword": "liga garantiu contratação defesa",
+                "score": 0.4319
+            },
+            {
+                "keyword": "eixo defensivo equipa",
+                "score": 0.4295
+            },
+            {
+                "keyword": "preparar nova temporada liga",
+                "score": 0.4202
+            },
+            {
+                "keyword": "barbosa sporting",
+                "score": 0.415
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Ângelo Barbosa",
+                "label": "PER"
+            },
+            {
+                "text": "O Elvas",
+                "label": "ORG"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Guiné-Bissau",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0tPZTR2ZTk2MWRyVnRTblk5cnFrZHpYd0x2Rmg2OXFwcU1qb0prZm04cXNTZTVGdG9WdWdXX0I2THdBWURqY1ZsODkxaFlyb1VDVVJDbnpEMmxhUWM3eHlma3JJb1JtSVZ2VUtvZ1liTURXSDZJa0s3dFpqTkRkdlp1X3VaN29xQnZ1Y3pEOWdHWUtIMEV5bU9PbV8?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 16:02:27 GMT",
+        "title": "COVILHÃ: Complexo Desportivo recebe Campeonato Nacional de Hipertensão - MaisBeiras Informação",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0569,
+        "negative": 0.2081,
+        "neutral": 0.6407,
+        "positive": 0.1512,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9946,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9946,
+            "CONTEMPT": 0.0116,
+            "JOY": 0.0069,
+            "DISGUST": 0.0042,
+            "SADNESS": 0.004,
+            "SURPRISE": 0.0033,
+            "ANGER": 0.0032,
+            "GRATITUDE": 0.0031,
+            "FRUSTRATION": 0.0028,
+            "FEAR": 0.0025,
+            "LOVE": 0.0025
+        },
+        "keywords": [
+            {
+                "keyword": "nacional hipertensão iniciativa sensibilização",
+                "score": 0.6628
+            },
+            {
+                "keyword": "campeonato nacional hipertensão iniciativa",
+                "score": 0.6327
+            },
+            {
+                "keyword": "nacional hipertensão iniciativa",
+                "score": 0.6299
+            },
+            {
+                "keyword": "18 campeonato nacional hipertensão",
+                "score": 0.6261
+            },
+            {
+                "keyword": "nacional hipertensão",
+                "score": 0.6242
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização prevenção",
+                "score": 0.6216
+            },
+            {
+                "keyword": "compostas pessoas hipertensão",
+                "score": 0.6118
+            },
+            {
+                "keyword": "campeonato nacional hipertensão",
+                "score": 0.6076
+            },
+            {
+                "keyword": "hipertensão iniciativa sensibilização",
+                "score": 0.6059
+            },
+            {
+                "keyword": "recebe campeonato nacional hipertensão",
+                "score": 0.6057
+            }
+        ],
+        "source_name": "MaisBeiras Informação",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0lnS2dXS1A4VkFUQU1RNVBQTUdBNUR5ZnlIQmN3bUdKMW5GNmlWcFBrTGdyei05T2dRX2M1dE1lelRKLXd2RnVOOHBPTnBPOFFLVlhiLUdoNWVid2VKdzRER2JXZ3dlOENUdVNQS1ZOODV1cGUxaFFqaXdzYU9haTNObmNwaGswMmFz0gGLAUFVX3lxTE1vSWdLZ1dLUDhWQVRBTVE1UFBNR0E1RHlmeUhCY3dtR0oxbkY2aVZwUGtMZ3J6LTlPZ1FfYzV0TWV6VEotd3ZGdU44cE9OcE84UUtWWGItR2g1ZWJ3ZUp3NERHYldnd2U4Q1R1U1BLVk44NXVwZTFoUWppd3NhT2FpM05uY3BoazAyYXM?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 18:17:33 GMT",
+        "title": "Olivier Bonamici, de bicicleta, “À Conquista da Torre” - Renascença",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0677,
+        "negative": 0.3257,
+        "neutral": 0.4163,
+        "positive": 0.258,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9918,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9918,
+            "JOY": 0.0084,
+            "FRUSTRATION": 0.0056,
+            "SADNESS": 0.004,
+            "CONTEMPT": 0.0033,
+            "ANGER": 0.0031,
+            "SURPRISE": 0.0026,
+            "LOVE": 0.0025,
+            "DISGUST": 0.0022,
+            "FEAR": 0.0021,
+            "GRATITUDE": 0.0015
+        },
+        "keywords": [
+            {
+                "keyword": "vencesse tour france ele",
+                "score": 0.7027
+            },
+            {
+                "keyword": "tour france ele subiria",
+                "score": 0.6926
+            },
+            {
+                "keyword": "não vencesse tour france",
+                "score": 0.6719
+            },
+            {
+                "keyword": "tour france ele",
+                "score": 0.6584
+            },
+            {
+                "keyword": "bicicleta ponto alto portugal",
+                "score": 0.6569
+            },
+            {
+                "keyword": "france ele subiria bicicleta",
+                "score": 0.6566
+            },
+            {
+                "keyword": "vencesse tour france",
+                "score": 0.6468
+            },
+            {
+                "keyword": "olivier bonamici bicicleta conquista",
+                "score": 0.631
+            },
+            {
+                "keyword": "tour france",
+                "score": 0.6192
+            },
+            {
+                "keyword": "bonamici bicicleta conquista",
+                "score": 0.6162
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Olivier Bonamici",
+                "label": "PER"
+            },
+            {
+                "text": "Remco Evenepoel",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal Continental",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJzRmhvUjZjRjlqQnpORWh4V2FHQy04UklSQjloRXVZMll1MDlTX1kwZnkwV21DZmx0V1V5NG9kdjBLX1BiQjVMdkVvRHRaOUlpcUVjZnNwWFJjVXhlOWdGa09NQko0bU8yX09TMU9peFhmM2dLeFluQlFTTF9PTndpendoYzZ1TEU2ems1SlQyajdET1BjbGpwTEE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:12:05 GMT",
+        "title": "Mercado of Sport’s: Aidara e Emerson Gomes reforçam Sporting da Covilhã - MaisBeiras Informação",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0759,
+        "negative": 0.1535,
+        "neutral": 0.6171,
+        "positive": 0.2294,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9811,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9811,
+            "JOY": 0.0045,
+            "SURPRISE": 0.0038,
+            "LOVE": 0.0035,
+            "CONTEMPT": 0.0032,
+            "FEAR": 0.0027,
+            "ANGER": 0.0023,
+            "SADNESS": 0.0023,
+            "FRUSTRATION": 0.0021,
+            "DISGUST": 0.0016,
+            "GRATITUDE": 0.0014
+        },
+        "keywords": [
+            {
+                "keyword": "sport aidara emerson gomes",
+                "score": 0.5738
+            },
+            {
+                "keyword": "of sport aidara emerson",
+                "score": 0.5516
+            },
+            {
+                "keyword": "sport aidara emerson",
+                "score": 0.5508
+            },
+            {
+                "keyword": "proveniente fc felgueiras reforçando",
+                "score": 0.5402
+            },
+            {
+                "keyword": "emerson gomes reforçam sporting",
+                "score": 0.5233
+            },
+            {
+                "keyword": "fc felgueiras reforçando",
+                "score": 0.5134
+            },
+            {
+                "keyword": "nova época desportiva",
+                "score": 0.512
+            },
+            {
+                "keyword": "reforçam sporting",
+                "score": 0.5066
+            },
+            {
+                "keyword": "proveniente fc felgueiras",
+                "score": 0.5006
+            },
+            {
+                "keyword": "mercado of sport aidara",
+                "score": 0.4978
+            }
+        ],
+        "source_name": "MaisBeiras Informação",
+        "entities": [
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "FC Felgueiras",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGMyRzlqRTdpV0l3akxsdjJGNVBVQXVuZDZuWS1qSFp4SWxkdjZvUExpa3JuQ1dYY0ctSXVJM3pPdERTcEwwci10allkLUFYMk5GdklodXh5UU9CUElJaWw0WlhuUVRQdGJGQVoycHloNGZzczJka2t4NUp0MDhQVktVZ2gtVnRqc1BoMThmWWpPTDhpOElMeXc0UDYwekJ1UlZNbw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:06:22 GMT",
+        "title": "COVILHÃ: Feira de São Tiago começa já esta quinta-feira - SAPO",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1736,
+        "negative": 0.344,
+        "neutral": 0.4856,
+        "positive": 0.1704,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9934,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9934,
+            "CONTEMPT": 0.006,
+            "FRUSTRATION": 0.0059,
+            "JOY": 0.0048,
+            "ANGER": 0.0043,
+            "DISGUST": 0.0037,
+            "SADNESS": 0.0035,
+            "SURPRISE": 0.003,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0019,
+            "FEAR": 0.0019
+        },
+        "keywords": [
+            {
+                "keyword": "tiago arranca quinta feira",
+                "score": 0.5389
+            },
+            {
+                "keyword": "tiago começa quinta feira",
+                "score": 0.5331
+            },
+            {
+                "keyword": "apresentada programa portugal events",
+                "score": 0.5086
+            },
+            {
+                "keyword": "concerto assim primeiro atua",
+                "score": 0.5017
+            },
+            {
+                "keyword": "feira são tiago começa",
+                "score": 0.4995
+            },
+            {
+                "keyword": "diárias palco",
+                "score": 0.4935
+            },
+            {
+                "keyword": "palco tradições vão receber",
+                "score": 0.474
+            },
+            {
+                "keyword": "palco principal decorrer até",
+                "score": 0.4718
+            },
+            {
+                "keyword": "diogo piçarra sobe palco",
+                "score": 0.4713
+            },
+            {
+                "keyword": "tradicionais farturas espetáculos",
+                "score": 0.452
+            }
+        ],
+        "source_name": "SAPO",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo do Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Filarmónica Recreati",
+                "label": "ORG"
+            },
+            {
+                "text": "Carvalhense",
+                "label": "LOC"
+            },
+            {
+                "text": "Balcão Único",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUFlOWFsNG0xdnhMeVRBamRUVTUxQ2VBaklYMEYwSFViY0ZaOWtJZ0VXUURkaUZ2QXNKa1dGN2xHbzhlQzNzS2VjdmFVdE5PYk8tXzFFTVl6WlpWa2RVOTJQenhFUjFVdnl6SzZ0LTJOWHAyT0ZHdVVCbmFQZTB0V1p1cl90WDhvZG5tQWh2V1dEaEVmWXE1Qk5kZE5aalM0b0dUU3NHQ1Y5OGZnU1lxdDlvck9vMHBxa1kwaWUtN2NPeWZvbGZr?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:59:17 GMT",
+        "title": "Mercado of Sport’s: Sporting da Covilhã renova com Jailson Gomes e Ângelo Barbosa - SAPO",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1598,
+        "negative": 0.1069,
+        "neutral": 0.6264,
+        "positive": 0.2667,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9844,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9844,
+            "LOVE": 0.0111,
+            "SADNESS": 0.0086,
+            "CONTEMPT": 0.0037,
+            "JOY": 0.0036,
+            "SURPRISE": 0.0033,
+            "ANGER": 0.0029,
+            "FRUSTRATION": 0.0023,
+            "FEAR": 0.0016,
+            "GRATITUDE": 0.0015,
+            "DISGUST": 0.001
+        },
+        "keywords": [
+            {
+                "keyword": "2026 2027 renovações sporting",
+                "score": 0.6692
+            },
+            {
+                "keyword": "2027 renovações sporting",
+                "score": 0.6508
+            },
+            {
+                "keyword": "continuidade dois jogadores temporada",
+                "score": 0.6316
+            },
+            {
+                "keyword": "renovações sporting",
+                "score": 0.6123
+            },
+            {
+                "keyword": "jogadores nova época desportiva",
+                "score": 0.5973
+            },
+            {
+                "keyword": "nova época desportiva",
+                "score": 0.5949
+            },
+            {
+                "keyword": "dois jogadores temporada 2026",
+                "score": 0.5927
+            },
+            {
+                "keyword": "jogadores temporada 2026 2027",
+                "score": 0.5787
+            },
+            {
+                "keyword": "época desportiva",
+                "score": 0.5715
+            },
+            {
+                "keyword": "jogadores nova época",
+                "score": 0.5609
+            }
+        ],
+        "source_name": "SAPO",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmpsU3JhcGZFVFhycS1MTnF4dEVfMTBsLXV4MExITE1vdkVvbzFiMEM0QS1iWFJUaGNoYlczcG1ucFFnZTkyeXV5YTFnNlJob3FKRnVKUThybUNNRXZXTTlndk9zNWJpNEFlSWRvZnVPU1pxQmZkVC1qYjhkYVdnWHdfV20?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:23:00 GMT",
+        "title": "Quim Barreiros no arranque da Feira de São Tiago - Noticias da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0662,
+        "negative": 0.2401,
+        "neutral": 0.4535,
+        "positive": 0.3064,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9931,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9931,
+            "CONTEMPT": 0.0078,
+            "FRUSTRATION": 0.0069,
+            "JOY": 0.0049,
+            "SADNESS": 0.0046,
+            "ANGER": 0.0044,
+            "SURPRISE": 0.0034,
+            "DISGUST": 0.0033,
+            "FEAR": 0.0019,
+            "LOVE": 0.0019,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [
+            {
+                "keyword": "feira 17 diogo piçarra",
+                "score": 0.6176
+            },
+            {
+                "keyword": "apresentada programa portugal events",
+                "score": 0.5838
+            },
+            {
+                "keyword": "câmara certame conta",
+                "score": 0.571
+            },
+            {
+                "keyword": "feira são tiago artista",
+                "score": 0.5677
+            },
+            {
+                "keyword": "feira são tiago marco",
+                "score": 0.5673
+            },
+            {
+                "keyword": "contará autarquia",
+                "score": 0.5506
+            },
+            {
+                "keyword": "tiago marco época",
+                "score": 0.5503
+            },
+            {
+                "keyword": "pedro abrunhosa quim",
+                "score": 0.5454
+            },
+            {
+                "keyword": "joão gil fadista sara",
+                "score": 0.5454
+            },
+            {
+                "keyword": "palco principal passarão",
+                "score": 0.536
+            }
+        ],
+        "source_name": "Noticias da Covilhã",
+        "entities": [
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Balcão Único",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHlLVU1WS2hhMmhpRTMzMVRaeTJmSk1rU1N3U01Mai1WWmkzcWlNMkFMcHA4bVZ2SzFic1lTa1FLbFYxTlc4dGdmNWdhVjdjQzVYZC10X1FsYTd5X2JjU1BDT0xzak5lNlZvSk5ZYm9vNFh5MUVvRGxBb0MyTUN4bEVoR05vQkU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 09:48:00 GMT",
+        "title": "Música, dança e novo circo na zona antiga do Fundão - Noticias da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0572,
+        "negative": 0.1625,
+        "neutral": 0.6178,
+        "positive": 0.2197,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "FRUSTRATION": 0.0066,
+            "SADNESS": 0.0064,
+            "CONTEMPT": 0.0059,
+            "JOY": 0.0049,
+            "DISGUST": 0.0042,
+            "ANGER": 0.0038,
+            "LOVE": 0.0025,
+            "SURPRISE": 0.0017,
+            "FEAR": 0.0017,
+            "GRATITUDE": 0.0014
+        },
+        "keywords": [
+            {
+                "keyword": "antiga fundão palco amanhã",
+                "score": 0.6977
+            },
+            {
+                "keyword": "dança novo circo zona",
+                "score": 0.6607
+            },
+            {
+                "keyword": "fundão palco amanhã quinta",
+                "score": 0.6525
+            },
+            {
+                "keyword": "circo culminando domingo inteiramente",
+                "score": 0.6498
+            },
+            {
+                "keyword": "espetáculos multidisciplinares rubrica moagem",
+                "score": 0.6309
+            },
+            {
+                "keyword": "18h30 espetáculo dança scivolare",
+                "score": 0.6302
+            },
+            {
+                "keyword": "domingo 19 conjunto espetáculos",
+                "score": 0.6295
+            },
+            {
+                "keyword": "zona antiga fundão palco",
+                "score": 0.6279
+            },
+            {
+                "keyword": "sábado 18h30 espetáculo dança",
+                "score": 0.6271
+            },
+            {
+                "keyword": "circo zona antiga",
+                "score": 0.6194
+            }
+        ],
+        "source_name": "Noticias da Covilhã",
+        "entities": [
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Tílias",
+                "label": "LOC"
+            },
+            {
+                "text": "Moagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Dança/Vo'Arte",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça do Município",
+                "label": "LOC"
+            },
+            {
+                "text": "Estela Alexandre Orquestra",
+                "label": "PER"
+            },
+            {
+                "text": "Thaís de Melo",
+                "label": "PER"
+            },
+            {
+                "text": "APPACDM",
+                "label": "ORG"
+            },
+            {
+                "text": "Academia Sénior",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça Velha",
+                "label": "LOC"
+            },
+            {
+                "text": "Fernando Nogueira",
+                "label": "PER"
+            },
+            {
+                "text": "Verónica Calheiros",
+                "label": "PER"
+            },
+            {
+                "text": "Graça Ocho",
+                "label": "PER"
+            },
+            {
+                "text": "Rítmico",
+                "label": "LOC"
+            },
+            {
+                "text": "Nuno Torres",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]
