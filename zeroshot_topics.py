@@ -94,11 +94,8 @@ def build_document_text(record):
 # ─────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────
-
 def main():
-    print("=" * 60)
-    print("ZERO-SHOT TOPIC CLASSIFICATION — MODO TREINO")
-    print("=" * 60)
+    print("ZERO-SHOT TOPIC CLASSIFICATION")
 
     # Carregar todos os documentos
     records = []
@@ -109,25 +106,37 @@ def main():
 
     print(f"\nTotal de registos: {len(records)}")
 
-    # Filtrar documentos com texto válido
+    # Carregar resultados já existentes
+    existing_results = load_json(OUTPUT_RESULTS)
+    processed_ids = {r["record_id"] for r in existing_results}
+    print(f"Documentos já classificados: {len(processed_ids)}")
+
+    # Filtrar apenas documentos novos com texto válido
     valid_records = []
     valid_texts = []
 
     for record in records:
+        record_id = record.get("record_id", "")
+        if record_id in processed_ids:
+            continue
         text = build_document_text(record)
         if len(text) < 10:
             continue
         valid_records.append(record)
         valid_texts.append(text)
 
-    print(f"Documentos válidos: {len(valid_records)}")
+    print(f"Documentos novos a classificar: {len(valid_records)}")
+
+    if not valid_records:
+        print("\nNenhum documento novo para classificar.")
+        return
 
     # Carregar modelo Zero-Shot
     print(f"\nA carregar modelo: {MODELO_ZEROSHOT}")
     classifier = pipeline(
         "zero-shot-classification",
         model=MODELO_ZEROSHOT,
-        device=0  # CPU; muda para 0 se tiveres GPU
+        device=0
     )
 
     print(f"\nTópicos definidos ({len(TOPICOS)}):")
@@ -137,7 +146,7 @@ def main():
     print(f"\nLimiar de confiança: {THRESHOLD}")
     print("\nA classificar documentos...\n")
 
-    results = []
+    new_results = []
 
     for record, text in tqdm(zip(valid_records, valid_texts), total=len(valid_records)):
         try:
@@ -151,7 +160,6 @@ def main():
             best_score = output["scores"][0]
             topic_id = TOPICOS.index(best_topic)
 
-            # Todos os scores ordenados (para debug)
             all_scores = {
                 label: round(score, 4)
                 for label, score in zip(output["labels"], output["scores"])
@@ -183,26 +191,26 @@ def main():
                 "all_scores": {},
             }
 
-        results.append(result)
+        new_results.append(result)
 
-    # Guardar resultados
-    save_json(results, OUTPUT_RESULTS)
+    # Juntar resultados existentes com os novos
+    final_results = existing_results + new_results
+    save_json(final_results, OUTPUT_RESULTS)
     print(f"\nResultados guardados em: {OUTPUT_RESULTS}")
 
     # Estatísticas finais
-    print("\n" + "=" * 60)
+    print("\n")
     print("DISTRIBUIÇÃO POR TÓPICO")
-    print("=" * 60)
 
     from collections import Counter
-    topic_counter = Counter(r["topic_label"] for r in results)
-    low_confidence_count = sum(1 for r in results if r["low_confidence"])
+    topic_counter = Counter(r["topic_label"] for r in final_results)
+    low_confidence_count = sum(1 for r in new_results if r["low_confidence"])
 
     for topic, count in topic_counter.most_common():
         print(f"  {topic}: {count} docs")
 
-    print(f"\nDocumentos com baixa confiança (< {THRESHOLD}): {low_confidence_count}")
-    print(f"Total classificados: {len(results)}")
+    print(f"\nDocumentos novos com baixa confiança (< {THRESHOLD}): {low_confidence_count}")
+    print(f"Total no ficheiro: {len(final_results)}")
 
 
 if __name__ == "__main__":
