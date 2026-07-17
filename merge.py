@@ -115,8 +115,10 @@ def build_topics_index(records):
 
         platform_id = extract_platform_id(record_id, source)
 
-        key = f"{source}_{platform_id}"
+        if source == "youtube" and platform_id and not platform_id.startswith("http"):
+            platform_id = f"https://www.youtube.com/watch?v={platform_id}"
 
+        key = f"{source}_{platform_id}"
         index[key] = record
 
     return index
