@@ -70,25 +70,30 @@ def save_json(data, path):
 
 
 def build_document_text(record):
-    """
-    Constrói o texto de entrada para o classificador.
-    Para notícias: título + keywords
-    Para redes sociais: apenas keywords
-    """
     source = record.get("source", "")
     title = str(record.get("title_clean", "")).strip()
     keywords = record.get("keywords", [])
 
     keyword_text = ", ".join(
-        kw.get("keyword", "") 
+        kw.get("keyword", "")
         for kw in keywords[:TOP_N_KEYWORDS]
         if kw.get("keyword", "").strip()
     )
 
     if source == "news":
-        return f"{title}. {keyword_text}".strip()
+        # Usar título + keywords, ou só título se não houver keywords
+        if keyword_text:
+            return f"{title}. {keyword_text}".strip()
+        else:
+            return title.strip()
     else:
-        return keyword_text.strip()
+        # Para redes sociais usar keywords, ou título se não houver keywords
+        if keyword_text:
+            return keyword_text.strip()
+        elif title:
+            return title.strip()
+        else:
+            return ""
 
 
 # ─────────────────────────────────────────────
