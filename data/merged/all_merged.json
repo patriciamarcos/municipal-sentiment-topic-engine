@@ -342203,5 +342203,1896 @@
         "topic_id": null,
         "topic_probability": null,
         "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHZOa2FJaU1hSVdGdzVybmtJclljYXJUbEZncUx4VEx3T1lhSFRtOWpZaTRMdjg2XzY5UE5oVUJWR1huVkVJTl85dl8tZFNGSFFXNEtLRU9uakd5TUdRQkJmeE0tR3hpYU9yTEpGeXN4dWRfS29FOXFhMHRjbjctU2lpbXo1dUpTQU9kbk9od29zN1dFOHkydzNtbTZMaUNLM0hqNldHem1hQXJqXzRpX055QQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 00:13:08 GMT",
+        "title": "Chefe dos Bombeiros da Covilhã distinguido com Voto de Louvor após missão internacional - Bombeiros Portugueses",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.044,
+        "negative": 0.277,
+        "neutral": 0.402,
+        "positive": 0.321,
+        "comments_polarity": null,
+        "dominant_emotion": "GRATITUDE",
+        "emotion_confidence": 0.7669,
+        "active_emotions": [
+            "GRATITUDE",
+            "LOVE"
+        ],
+        "emotion_scores": {
+            "GRATITUDE": 0.7669,
+            "LOVE": 0.5744,
+            "JOY": 0.1089,
+            "NEUTRAL": 0.0026,
+            "SURPRISE": 0.0023,
+            "CONTEMPT": 0.001,
+            "SADNESS": 0.0009,
+            "ANGER": 0.0008,
+            "FRUSTRATION": 0.0004,
+            "DISGUST": 0.0003,
+            "FEAR": 0.0002
+        },
+        "keywords": [
+            {
+                "keyword": "bombeiros portugueses direção comandante",
+                "score": 0.7446
+            },
+            {
+                "keyword": "missão internacional bombeiros portugueses",
+                "score": 0.7279
+            },
+            {
+                "keyword": "internacional bombeiros portugueses direção",
+                "score": 0.6834
+            },
+            {
+                "keyword": "representa bombeiros portugueses nosso",
+                "score": 0.681
+            },
+            {
+                "keyword": "louvor missão internacional bombeiros",
+                "score": 0.6749
+            },
+            {
+                "keyword": "internacional bombeiros portugueses",
+                "score": 0.6656
+            },
+            {
+                "keyword": "bombeiros portugueses direção",
+                "score": 0.6636
+            },
+            {
+                "keyword": "representa bombeiros portugueses",
+                "score": 0.6636
+            },
+            {
+                "keyword": "portugueses direção comandante regime",
+                "score": 0.659
+            },
+            {
+                "keyword": "bombeiros portugueses nosso",
+                "score": 0.6552
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Associação Humanitária dos Bombeiros Voluntários da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Venezuela",
+                "label": "LOC"
+            },
+            {
+                "text": "Governo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombeiros Portugueses",
+                "label": "ORG"
+            },
+            {
+                "text": "Chefe Armando Proença Maria",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemozNm9xY2dQR25kaW1zVmdTUUEwSXVHb2d2bno4bGM2VmhPdU9lcUxWRG9DN3NXQ0Jfc3EwMndkLXdHWU5WcTN2bmFzRVc1MFR2V29kb3FhQmRZLUFtdU5fbWY2TWIzdW5JSjlHRDktaUtseXQ5OGNmWG9xZWxYcmhfdlM4U2tGYmJLcXdQZXZyci1kdVh4RUJPZ0E2ajVFUmFXSXBhb01JTzh4TDZ0Vkc0eEFndFI2MEtEelFfWV91NnFic1BXaXhB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 09:45:59 GMT",
+        "title": "Covilhã: Plano Municipal de Emergência e Proteção Civil disponível para consulta pública - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0614,
+        "negative": 0.2536,
+        "neutral": 0.5542,
+        "positive": 0.1922,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9909,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9909,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0048,
+            "SADNESS": 0.0034,
+            "CONTEMPT": 0.0033,
+            "FEAR": 0.0032,
+            "JOY": 0.0032,
+            "DISGUST": 0.0026,
+            "SURPRISE": 0.0023,
+            "LOVE": 0.0021,
+            "GRATITUDE": 0.0018
+        },
+        "keywords": [
+            {
+                "keyword": "aprovação assembleia municipal",
+                "score": 0.7191
+            },
+            {
+                "keyword": "aprovação assembleia municipal pronúncia",
+                "score": 0.7141
+            },
+            {
+                "keyword": "aprovação executivo municipal assembleia",
+                "score": 0.7083
+            },
+            {
+                "keyword": "municipal aprovação assembleia municipal",
+                "score": 0.7034
+            },
+            {
+                "keyword": "feita aprovação executivo municipal",
+                "score": 0.6994
+            },
+            {
+                "keyword": "emergência proteção civil pmepc",
+                "score": 0.6848
+            },
+            {
+                "keyword": "previsto plano municipal vigor",
+                "score": 0.6837
+            },
+            {
+                "keyword": "teremos aprovação executivo municipal",
+                "score": 0.6731
+            },
+            {
+                "keyword": "emergência proteção civil planos",
+                "score": 0.6678
+            },
+            {
+                "keyword": "alertas relação plano municipal",
+                "score": 0.6664
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Executivo Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Autoridade Nacional de Emergência",
+                "label": "ORG"
+            },
+            {
+                "text": "Proteção Civil",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Simões",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1pmcFBnc2RjVk5iV2U3dXBRTWU2TkVpeGJsUGpEeWRsdEN0dUNGTDhKcmVOUlBxR0xIVTQ1LTdwckxVc3F6Q3NEVTROWDVhajVXMTByMkY1UkxpZ0VDSTRyWDlwM1Rvc2YtZk5OUVQ4ZXljeHctSHpaM0hPRmtHRGZ1RkdKVlpHTXF6ZzBhM1FYanFwdHRmdmxZQTBkRzNEaGMxMDZvdC1MNFdjRGEwVUROREZYSURqRHZMOVIwSHg5UdIBvAFBVV95cUxPQUhaNnlDb2ttbnNiM1IwY21WNEM2WE5VRGhyblJaaVZ3SUl6ZTh4MjJ4X3piMENHTk1UWWswbFlhV0FNSWgzWmMzMzFsVV9Ubm9ESGctZUZqczFoTnd6a2N6dG1kT3AyUEpJTEF3NU5RYXltMzhSOUlFVG1uXzF3eGtuUDFBWTNHSW01M1BfNkx6MHY4b3NMaDllNzFFeHdfWnoxamptSklSdTQyelVHbF9PbVh1UWMyQ3ozSg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 15:55:15 GMT",
+        "title": "Dani Matos confirmado como treinador do Sp. Covilhã - Record",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1408,
+        "negative": 0.2891,
+        "neutral": 0.5627,
+        "positive": 0.1483,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "CONTEMPT": 0.0688,
+            "SURPRISE": 0.0143,
+            "SADNESS": 0.0056,
+            "ANGER": 0.0043,
+            "JOY": 0.0037,
+            "DISGUST": 0.0027,
+            "LOVE": 0.0021,
+            "FRUSTRATION": 0.0021,
+            "GRATITUDE": 0.0014,
+            "FEAR": 0.0014
+        },
+        "keywords": [
+            {
+                "keyword": "matos confirmado treinador sp",
+                "score": 0.6248
+            },
+            {
+                "keyword": "matos confirmado treinador",
+                "score": 0.5928
+            },
+            {
+                "keyword": "luciano victor treinador",
+                "score": 0.5536
+            },
+            {
+                "keyword": "confirmado treinador sp",
+                "score": 0.5535
+            },
+            {
+                "keyword": "luciano victor treinador guarda",
+                "score": 0.5468
+            },
+            {
+                "keyword": "conhecer oficialmente nova equipa",
+                "score": 0.54
+            },
+            {
+                "keyword": "dani matos confirmado treinador",
+                "score": 0.5368
+            },
+            {
+                "keyword": "confirmado treinador",
+                "score": 0.5333
+            },
+            {
+                "keyword": "beira nova equipa",
+                "score": 0.5231
+            },
+            {
+                "keyword": "serrano recorde novo treinador",
+                "score": 0.5208
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Gestão",
+                "label": "ORG"
+            },
+            {
+                "text": "Paulo da Cunha Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Rádio Cova da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0J0eVgzd1FBQzk0cUFfM051UUhEUjQtc09fcU5kVElQQ1ZJeWMzQjRxVDMteTFhZTBXWHdSTXN1ZFhKa21xM2dzeHJrWEMxZDZfMTZFU2lDUzd2cXV6Mm02eVRFaTRoVVVySFg1b1V5Zk9CTWFPT2E1WEVoczJDbFRNeWN6c1dGX1NZS3BUMGtwZS16bVc5NW53S19IejFjT3IxTHJn?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 17:29:25 GMT",
+        "title": "Sporting da Covilhã já conhece calendário para a época 26/27 - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0445,
+        "negative": 0.025,
+        "neutral": 0.9054,
+        "positive": 0.0696,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9951,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9951,
+            "CONTEMPT": 0.0059,
+            "SADNESS": 0.0057,
+            "FRUSTRATION": 0.0052,
+            "SURPRISE": 0.0047,
+            "JOY": 0.0042,
+            "DISGUST": 0.004,
+            "ANGER": 0.0034,
+            "FEAR": 0.0024,
+            "LOVE": 0.0023,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [
+            {
+                "keyword": "primeira jornada liga sporting",
+                "score": 0.5859
+            },
+            {
+                "keyword": "jornada liga sporting",
+                "score": 0.5846
+            },
+            {
+                "keyword": "primeira jornada liga",
+                "score": 0.5176
+            },
+            {
+                "keyword": "27 primeira jornada liga",
+                "score": 0.5172
+            },
+            {
+                "keyword": "liga sporting",
+                "score": 0.5089
+            },
+            {
+                "keyword": "sc mafra gd vitória",
+                "score": 0.5048
+            },
+            {
+                "keyword": "mafra gd vitória sernache",
+                "score": 0.4821
+            },
+            {
+                "keyword": "primeira ronda",
+                "score": 0.4731
+            },
+            {
+                "keyword": "vitória sernache",
+                "score": 0.4644
+            },
+            {
+                "keyword": "terão lugar encontros ud",
+                "score": 0.4493
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Cidade do Futebol",
+                "label": "LOC"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano Lusitano de Évora",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "GD Vitória de Sernache",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0dpOFNyMnp0OHZJMXRjM0tIUXV3MXEtRDJZcV90b2V6WFBfYU1kVHZVUE9sR1ZleWg2Ul9rcldIVXkybWtTVXRBVHlxMkJWbllMZTU3czA1Y3NhU1F5OUZuTzN6WkU4VjRmZ3pmNk1GZkpJaUpLLWE5bWw0bTJBSHhRVUstZXV2bnNoa0prQXBlWmFIam5ITFBpZ2pLZlBXRjQydzJhUmV4Um1tS3BkWVQyRQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 13:20:48 GMT",
+        "title": "Sporting da Covilhã oficializa equipa técnica para a temporada 2026/27 - Rádio Clube da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1154,
+        "negative": 0.1066,
+        "neutral": 0.6713,
+        "positive": 0.2221,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9911,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9911,
+            "CONTEMPT": 0.0074,
+            "JOY": 0.0058,
+            "SADNESS": 0.0051,
+            "DISGUST": 0.0036,
+            "LOVE": 0.0035,
+            "FRUSTRATION": 0.0027,
+            "SURPRISE": 0.0024,
+            "ANGER": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0015
+        },
+        "keywords": [
+            {
+                "keyword": "constituição equipa técnica temporada",
+                "score": 0.6386
+            },
+            {
+                "keyword": "oficializa equipa técnica temporada",
+                "score": 0.6177
+            },
+            {
+                "keyword": "equipa técnica temporada",
+                "score": 0.6002
+            },
+            {
+                "keyword": "equipa técnica temporada 2026",
+                "score": 0.5984
+            },
+            {
+                "keyword": "preparação nova época sporting",
+                "score": 0.5851
+            },
+            {
+                "keyword": "oficializa equipa",
+                "score": 0.5565
+            },
+            {
+                "keyword": "nova época sporting",
+                "score": 0.5505
+            },
+            {
+                "keyword": "quinta feira constituição equipa",
+                "score": 0.5477
+            },
+            {
+                "keyword": "serra nova campanha equipa",
+                "score": 0.5362
+            },
+            {
+                "keyword": "época sporting",
+                "score": 0.5335
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlNQeFRpdzNfQ1FDZndpY3VEWTROSG5DRFdzSy1oTDFWRGR6VVJrNjJWTmRlMXhVdFlsYi00VVVfamY0WHdFd2tUTzdHbWs1V1VWN3ZQSHNVWmlnaWhZa2wybzdqcjB6MXZUU19Eb0IzZDZkYWZVMGYwZnAwS1MyYkZMUDN3cWtxZUVRRDI2TS1oS3dVMklQcjNYaw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 11:34:19 GMT",
+        "title": "Teatro das Beiras estreia “Auto de Exortação da Paz” na Covilhã - Jornal o Interior",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1623,
+        "negative": 0.3166,
+        "neutral": 0.529,
+        "positive": 0.1543,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0329,
+            "FRUSTRATION": 0.0071,
+            "DISGUST": 0.0057,
+            "ANGER": 0.0045,
+            "SURPRISE": 0.0035,
+            "SADNESS": 0.003,
+            "LOVE": 0.0029,
+            "JOY": 0.0026,
+            "FEAR": 0.0015,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [
+            {
+                "keyword": "peça teatro beiras estreia",
+                "score": 0.7102
+            },
+            {
+                "keyword": "nova peça teatro beiras",
+                "score": 0.6946
+            },
+            {
+                "keyword": "peça teatro beiras",
+                "score": 0.6764
+            },
+            {
+                "keyword": "nova peça teatro",
+                "score": 0.6736
+            },
+            {
+                "keyword": "teatro beiras estreia auto",
+                "score": 0.6617
+            },
+            {
+                "keyword": "peça teatro",
+                "score": 0.6387
+            },
+            {
+                "keyword": "teatro beiras estreia",
+                "score": 0.6277
+            },
+            {
+                "keyword": "espetáculo estar cena",
+                "score": 0.6005
+            },
+            {
+                "keyword": "produção espetáculo estar cena",
+                "score": 0.5971
+            },
+            {
+                "keyword": "teatro contradições interiores quatro",
+                "score": 0.5913
+            }
+        ],
+        "source_name": "Jornal o Interior",
+        "entities": [
+            {
+                "text": "Teatro das Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "PER"
+            },
+            {
+                "text": "José Saramago",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Sílvia Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Sónia Botelho",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUs4LWJUNEJoMy1qUGZVNF9mMkRwR1B6R3FMVnpCeDhoMUllU0JHU2xaS0hCWGk5WWZ3QmhDOEZLaHI4TnEzMTRNeGlwV253dXhoVGEtMlprQll0T0IxZUt3ZVIyVF8zOHU5Q1o2RUx3cThWWjhidnQ0SlJUMHQycGZXVjdpbWNLQWhCSUVDLU4wY2t5?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 09:21:00 GMT",
+        "title": "Zonas de aceleração de renováveis \"chumbadas\" pelas autarquias - Noticias da Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1375,
+        "negative": 0.32,
+        "neutral": 0.4975,
+        "positive": 0.1825,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9918,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9918,
+            "ANGER": 0.0102,
+            "LOVE": 0.0072,
+            "SADNESS": 0.0062,
+            "CONTEMPT": 0.0057,
+            "FRUSTRATION": 0.0044,
+            "JOY": 0.0037,
+            "FEAR": 0.0034,
+            "DISGUST": 0.0026,
+            "SURPRISE": 0.0015,
+            "GRATITUDE": 0.0014
+        },
+        "keywords": [
+            {
+                "keyword": "contra proposta sectorial zonas",
+                "score": 0.6785
+            },
+            {
+                "keyword": "região contra proposta sectorial",
+                "score": 0.6746
+            },
+            {
+                "keyword": "região contra proposta",
+                "score": 0.6475
+            },
+            {
+                "keyword": "contra proposta sectorial",
+                "score": 0.6247
+            },
+            {
+                "keyword": "câmaras região contra proposta",
+                "score": 0.614
+            },
+            {
+                "keyword": "estratégicas exclusão áreas interferem",
+                "score": 0.584
+            },
+            {
+                "keyword": "maioria câmaras região contra",
+                "score": 0.5455
+            },
+            {
+                "keyword": "zonas aceleração renováveis chumbadas",
+                "score": 0.5247
+            },
+            {
+                "keyword": "território salvaguardando projetos estratégicos",
+                "score": 0.5098
+            },
+            {
+                "keyword": "projetos estratégicos concelho evitando",
+                "score": 0.5015
+            }
+        ],
+        "source_name": "Noticias da Covilhã",
+        "entities": [
+            {
+                "text": "Zonas de Aceleração de Energias Renováveis",
+                "label": "ORG"
+            },
+            {
+                "text": "PSZAER",
+                "label": "ORG"
+            },
+            {
+                "text": "Sertã",
+                "label": "LOC"
+            },
+            {
+                "text": "Oleiros",
+                "label": "LOC"
+            },
+            {
+                "text": "Idanha-a-Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Estru",
+                "label": "ORG"
+            },
+            {
+                "text": "Regadio Gardunha Sul",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Industrial do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjVGLVFKaUhybnZqNUZYdlJhZF9ZbmJnRjZxXzNjMEEydm1KS2ZoMVNLLTNaVzF3akJ2M2FJRzZUZ2Q3N0Q0bFRrT2FMeTZhczB6SDBuN2J4UDgyNUtHbjg0QjloSHE4bF9TZnpKdDhZU1JISF8zRl9IaGlfazZhc3BTTVVpbjVZMzB6UDFGZWVvdUVjQklqLTREQ1RMR3RpbGNlTkItYkZKdw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 16:22:10 GMT",
+        "title": "União de Santarém estreia-se na na Liga 3 frente ao Covilhã - Rede Regional",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1592,
+        "negative": 0.3038,
+        "neutral": 0.5517,
+        "positive": 0.1445,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.995,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.995,
+            "CONTEMPT": 0.0074,
+            "SADNESS": 0.0066,
+            "FRUSTRATION": 0.0049,
+            "ANGER": 0.0041,
+            "DISGUST": 0.004,
+            "JOY": 0.0038,
+            "SURPRISE": 0.0032,
+            "LOVE": 0.0024,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [
+            {
+                "keyword": "união santarém jogará série",
+                "score": 0.6137
+            },
+            {
+                "keyword": "união santarém jogará",
+                "score": 0.5701
+            },
+            {
+                "keyword": "santarém estreia liga frente",
+                "score": 0.567
+            },
+            {
+                "keyword": "união santarém estreia liga",
+                "score": 0.5445
+            },
+            {
+                "keyword": "santarém jogará série",
+                "score": 0.5327
+            },
+            {
+                "keyword": "2027 competir vez liga",
+                "score": 0.5324
+            },
+            {
+                "keyword": "jogará série juntamente atlético",
+                "score": 0.4845
+            },
+            {
+                "keyword": "nosso canal whatsapp fique",
+                "score": 0.4812
+            },
+            {
+                "keyword": "séries dez equipas arranca",
+                "score": 0.4534
+            },
+            {
+                "keyword": "união santarém estreia",
+                "score": 0.444
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Sporting da Covil",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Portuguesa de Futebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Cidade do Futebol",
+                "label": "LOC"
+            },
+            {
+                "text": "Frechaut",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Marco",
+                "label": "ORG"
+            },
+            {
+                "text": "Fafe Leça",
+                "label": "ORG"
+            },
+            {
+                "text": "P. Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "São João Ver",
+                "label": "ORG"
+            },
+            {
+                "text": "Paredes",
+                "label": "ORG"
+            },
+            {
+                "text": "Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "Varzim",
+                "label": "ORG"
+            },
+            {
+                "text": "Vianense",
+                "label": "ORG"
+            },
+            {
+                "text": "V. Guimarães B",
+                "label": "ORG"
+            },
+            {
+                "text": "Campo Chã das Padeiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Académica de Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Sernache Lusitano Évora",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlhuOV9HOGlCckN1dlAtVEVJZnhxSGhIWmhPZHNKbHltS3JRNXZRRU8zUHpkNG0yV2hTNXlkLURCNjQwaTNrTklxQWg2MG5XSDVvalZBZkdpdDJMTUtSR3dGWGlVaEs5bnBIMXYtREZ4N2piVjF1dk9EdlBRbUNfLXc4dF9kMXc1eFJha3R5bWQ5R0YzTGtSRFQwb1Q4MGhIMzZta3V6QXFUd2p2ZHNNRkZYMFZGM1kyNVE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:11:59 GMT",
+        "title": "Mercado of Sport’s: Aidara e Emerson Gomes reforçam Sporting da Covilhã - SAPO",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1408,
+        "negative": 0.1516,
+        "neutral": 0.5559,
+        "positive": 0.2924,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9794,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9794,
+            "JOY": 0.005,
+            "LOVE": 0.004,
+            "SURPRISE": 0.0033,
+            "CONTEMPT": 0.0031,
+            "FEAR": 0.003,
+            "SADNESS": 0.0022,
+            "ANGER": 0.002,
+            "FRUSTRATION": 0.002,
+            "DISGUST": 0.0014,
+            "GRATITUDE": 0.0014
+        },
+        "keywords": [
+            {
+                "keyword": "sport aidara emerson gomes",
+                "score": 0.5738
+            },
+            {
+                "keyword": "of sport aidara emerson",
+                "score": 0.5516
+            },
+            {
+                "keyword": "sport aidara emerson",
+                "score": 0.5508
+            },
+            {
+                "keyword": "proveniente fc felgueiras reforçando",
+                "score": 0.5402
+            },
+            {
+                "keyword": "emerson gomes reforçam sporting",
+                "score": 0.5233
+            },
+            {
+                "keyword": "fc felgueiras reforçando",
+                "score": 0.5134
+            },
+            {
+                "keyword": "nova época desportiva",
+                "score": 0.512
+            },
+            {
+                "keyword": "reforçam sporting",
+                "score": 0.5066
+            },
+            {
+                "keyword": "proveniente fc felgueiras",
+                "score": 0.5006
+            },
+            {
+                "keyword": "mercado of sport aidara",
+                "score": 0.4978
+            }
+        ],
+        "source_name": "SAPO",
+        "entities": [
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "FC Felgueiras",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmhuZGdTRFYxOVUzczBUQXo4cm5HNzJuWFVmTTJXRDB2eWJLdjdTdDh6RnFJRjFNeHB2QWJONE9KYTZqdG9qd0xGOHZhY2pCOUh3dW1ZWUNWVlZXVFIybmlRc0FSd0ppN0N6bmFEODFyWU5aUmpoV1FRNlpONU9nX2M2RlZaOFZBMFFsMjdsUTRsWnVwV0JvX3RZMGtSTWs?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 16:46:26 GMT",
+        "title": "Dani Matos confirmado como treinador do Sp. Covilhã - SAPO",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.148,
+        "negative": 0.3567,
+        "neutral": 0.4345,
+        "positive": 0.2088,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9863,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9863,
+            "CONTEMPT": 0.0258,
+            "ANGER": 0.0119,
+            "SURPRISE": 0.0085,
+            "JOY": 0.0085,
+            "FRUSTRATION": 0.0061,
+            "LOVE": 0.0031,
+            "SADNESS": 0.0019,
+            "GRATITUDE": 0.0016,
+            "DISGUST": 0.0011,
+            "FEAR": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV1Vzb244M214cWNfODQ2ejgtc3FvVTJiWm4xd244SzdrN2R6TkpCWTNqYXJyVWR5Q0FXeXkxZElBMi1NS0RDZjNaUGZIalU4bHp4c2NpOXV6SWF6VkpwZm9uWXIxc1lvZjFuamwyMFZCTldfVDJMMGlXTmJBWkJ3RFg4cjhoSGVDekg1MXBZaUN2NkU1U1ZGak5XN0ZaNGlVRzZxcFBlTExucHo0cGM4OWRIZ3FPRkdnMTBOYU5JNmN6M1Mx?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 12:50:00 GMT",
+        "title": "Aumento dos custos de produção asfixia comerciantes e produtores no mercado da Covilhã - Now Canal",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -0.5031,
+        "negative": 0.5857,
+        "neutral": 0.3317,
+        "positive": 0.0826,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9825,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9825,
+            "ANGER": 0.0091,
+            "SADNESS": 0.0062,
+            "FEAR": 0.0061,
+            "FRUSTRATION": 0.0052,
+            "DISGUST": 0.0035,
+            "CONTEMPT": 0.0029,
+            "SURPRISE": 0.0029,
+            "LOVE": 0.0016,
+            "JOY": 0.0016,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [
+            {
+                "keyword": "relatam acréscimo custos produção",
+                "score": 0.6575
+            },
+            {
+                "keyword": "custos produção asfixia comerciantes",
+                "score": 0.6404
+            },
+            {
+                "keyword": "locais relatam acréscimo custos",
+                "score": 0.628
+            },
+            {
+                "keyword": "asfixia comerciantes produtores mercado",
+                "score": 0.6245
+            },
+            {
+                "keyword": "acréscimo custos produção impulsionado",
+                "score": 0.6216
+            },
+            {
+                "keyword": "consumidores comerciantes enfrentam",
+                "score": 0.6177
+            },
+            {
+                "keyword": "custos produção impulsionado encarecimento",
+                "score": 0.6158
+            },
+            {
+                "keyword": "enfrentam aumento custo",
+                "score": 0.6064
+            },
+            {
+                "keyword": "relatam acréscimo custos",
+                "score": 0.5953
+            },
+            {
+                "keyword": "subida preço bens alimentares",
+                "score": 0.5879
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Alexandre Salgueiro",
+                "label": "PER"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YWjg1ZkhQLTh4VXBZN1pzbjZFUU0xN18xT1ZPSk15MzNmMzBhd1Z6NW5Ocnp4bmlVSUZZTmhIZTVZWUp2a0dlOVV5VEpoMFcycERTZ3NRRVFnSmZJYnI2amRoeUxTV2FNaHpoSzl5Vi1QQQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 17:15:28 GMT",
+        "title": "UD Santarém estreia-se na Liga 3 com deslocação à Covilhã - Mais Ribatejo",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0974,
+        "negative": 0.2012,
+        "neutral": 0.6949,
+        "positive": 0.1038,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9909,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9909,
+            "FRUSTRATION": 0.007,
+            "CONTEMPT": 0.0052,
+            "ANGER": 0.0051,
+            "SURPRISE": 0.0043,
+            "SADNESS": 0.0041,
+            "JOY": 0.0031,
+            "FEAR": 0.0027,
+            "LOVE": 0.0025,
+            "DISGUST": 0.0017,
+            "GRATITUDE": 0.0011
+        },
+        "keywords": [
+            {
+                "keyword": "calendário primeira fase liga",
+                "score": 0.7558
+            },
+            {
+                "keyword": "desportiva santarém conhece calendário",
+                "score": 0.6988
+            },
+            {
+                "keyword": "liga placard época 2026",
+                "score": 0.6357
+            },
+            {
+                "keyword": "época 2026 27 competição",
+                "score": 0.6157
+            },
+            {
+                "keyword": "santarém arranca seguinte sporting",
+                "score": 0.611
+            },
+            {
+                "keyword": "liga placard 2026 27",
+                "score": 0.6092
+            },
+            {
+                "keyword": "santarém estreia liga",
+                "score": 0.6061
+            },
+            {
+                "keyword": "placard 2026 27 equipa",
+                "score": 0.6024
+            },
+            {
+                "keyword": "temporada começa campeonato deslocação",
+                "score": 0.5975
+            },
+            {
+                "keyword": "divulgou calendário primeira fase",
+                "score": 0.5947
+            }
+        ],
+        "source_name": null,
+        "entities": [
+            {
+                "text": "UD Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Ribatejo",
+                "label": "LOC"
+            },
+            {
+                "text": "União Desportiva de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Portuguesa de Futebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Campo Chã das Padeiras",
+                "label": "LOC"
+            },
+            {
+                "text": "CF \"Os Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano DC",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano GC",
+                "label": "ORG"
+            },
+            {
+                "text": "GD Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Mafra",
+                "label": "ORG"
+            }
+        ],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mqs6sxyh7h2m",
+        "source": "bluesky",
+        "created_at": "2026-07-16T21:33:45.302Z",
+        "title": "",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0951,
+        "negative": 0.2181,
+        "neutral": 0.6588,
+        "positive": 0.123,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8309,
+        "active_emotions": [
+            "NEUTRAL",
+            "CONTEMPT",
+            "FRUSTRATION"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8309,
+            "CONTEMPT": 0.2686,
+            "FRUSTRATION": 0.2199,
+            "ANGER": 0.0584,
+            "SADNESS": 0.0124,
+            "JOY": 0.0119,
+            "DISGUST": 0.0097,
+            "SURPRISE": 0.0086,
+            "FEAR": 0.0067,
+            "LOVE": 0.0045,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [
+            {
+                "keyword": "não tira pé acelerador",
+                "score": 0.6685
+            },
+            {
+                "keyword": "académico viseu não tira",
+                "score": 0.5957
+            },
+            {
+                "keyword": "viseu não tira pé",
+                "score": 0.5854
+            },
+            {
+                "keyword": "viseu não tira",
+                "score": 0.5485
+            },
+            {
+                "keyword": "acelerador volta golear",
+                "score": 0.5442
+            },
+            {
+                "keyword": "tira pé acelerador",
+                "score": 0.5409
+            },
+            {
+                "keyword": "tira pé acelerador volta",
+                "score": 0.5373
+            },
+            {
+                "keyword": "pé acelerador volta golear",
+                "score": 0.5353
+            }
+        ],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cr9cyh_W8jk",
+        "source": "youtube",
+        "created_at": "2026-04-25T23:13:37Z",
+        "title": "Liga 3 Placard | Resumo | Caldas SC 1 - 1 SC Covilhã | Jornada 9, Fase de Manutenção",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0165,
+        "negative": 0.1403,
+        "neutral": 0.736,
+        "positive": 0.1237,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9891,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9891,
+            "CONTEMPT": 0.0367,
+            "ANGER": 0.0096,
+            "SADNESS": 0.0063,
+            "FRUSTRATION": 0.0053,
+            "SURPRISE": 0.0036,
+            "DISGUST": 0.0033,
+            "JOY": 0.0031,
+            "LOVE": 0.0024,
+            "FEAR": 0.0011,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=OMgmtJZYTA0",
+        "source": "youtube",
+        "created_at": "2022-10-23T07:00:15Z",
+        "title": "Covilhã, cidade neve - Song about the city of Covilhã [PT-PT]",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.3483,
+        "negative": 0.1757,
+        "neutral": 0.3003,
+        "positive": 0.524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9736,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9736,
+            "FRUSTRATION": 0.0762,
+            "GRATITUDE": 0.0476,
+            "SADNESS": 0.0129,
+            "LOVE": 0.007,
+            "JOY": 0.0065,
+            "ANGER": 0.0045,
+            "CONTEMPT": 0.0018,
+            "SURPRISE": 0.0013,
+            "DISGUST": 0.0005,
+            "FEAR": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=cE-QzvCxteQ",
+        "source": "youtube",
+        "created_at": "2026-04-06T10:28:56Z",
+        "title": "Moradia T3 com vista deslumbrante em Cantar-Galo, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.1732,
+        "negative": 0.1792,
+        "neutral": 0.4685,
+        "positive": 0.3524,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9865,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9865,
+            "JOY": 0.0123,
+            "LOVE": 0.0044,
+            "CONTEMPT": 0.0042,
+            "ANGER": 0.0039,
+            "SURPRISE": 0.0038,
+            "SADNESS": 0.0036,
+            "DISGUST": 0.0026,
+            "FRUSTRATION": 0.002,
+            "FEAR": 0.0018,
+            "GRATITUDE": 0.0009
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bRQASxdrFow",
+        "source": "youtube",
+        "created_at": "2026-04-17T12:01:20Z",
+        "title": "Destino Portugal - Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1427,
+        "negative": 0.3488,
+        "neutral": 0.445,
+        "positive": 0.2061,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9916,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9916,
+            "FRUSTRATION": 0.0063,
+            "SURPRISE": 0.006,
+            "SADNESS": 0.0047,
+            "JOY": 0.0035,
+            "CONTEMPT": 0.0029,
+            "ANGER": 0.0025,
+            "GRATITUDE": 0.0023,
+            "LOVE": 0.0022,
+            "FEAR": 0.0021,
+            "DISGUST": 0.002
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=599B-6VFiSs",
+        "source": "youtube",
+        "created_at": "2024-03-05T15:56:19Z",
+        "title": "Penhas da Saúde, Covilhã, Portugal.",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0076,
+        "negative": 0.0507,
+        "neutral": 0.9063,
+        "positive": 0.043,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9726,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9726,
+            "SADNESS": 0.0632,
+            "LOVE": 0.0145,
+            "CONTEMPT": 0.0106,
+            "FRUSTRATION": 0.0063,
+            "FEAR": 0.0057,
+            "ANGER": 0.0053,
+            "JOY": 0.0039,
+            "DISGUST": 0.0033,
+            "SURPRISE": 0.0032,
+            "GRATITUDE": 0.0017
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=2fx8aWqzgDQ",
+        "source": "youtube",
+        "created_at": "2025-02-26T15:09:16Z",
+        "title": "Covilhã na Serra da Estrela",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0943,
+        "negative": 0.1623,
+        "neutral": 0.7698,
+        "positive": 0.068,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9933,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9933,
+            "CONTEMPT": 0.0121,
+            "SADNESS": 0.0092,
+            "FRUSTRATION": 0.0058,
+            "ANGER": 0.0051,
+            "JOY": 0.0046,
+            "DISGUST": 0.0032,
+            "LOVE": 0.0029,
+            "FEAR": 0.0028,
+            "SURPRISE": 0.002,
+            "GRATITUDE": 0.001
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=KrJ1RDwvVNs",
+        "source": "youtube",
+        "created_at": "2025-01-23T10:33:36Z",
+        "title": "Relato à Dragão em Covilhã #futebol #fcportoallaround #fcporto",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1153,
+        "negative": 0.1571,
+        "neutral": 0.8011,
+        "positive": 0.0418,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9788,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9788,
+            "CONTEMPT": 0.0186,
+            "SADNESS": 0.0154,
+            "FRUSTRATION": 0.0077,
+            "FEAR": 0.0063,
+            "SURPRISE": 0.0053,
+            "DISGUST": 0.0044,
+            "LOVE": 0.0043,
+            "ANGER": 0.0038,
+            "JOY": 0.0035,
+            "GRATITUDE": 0.0007
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=5x5nJ4G4Ug4",
+        "source": "youtube",
+        "created_at": "2025-11-10T15:08:16Z",
+        "title": "VENDIDO | MORADIA T6 | Barroca Grande  - Covilhã | Oportunidade Única|  Vistas Fantásticas",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0061,
+        "negative": 0.2719,
+        "neutral": 0.4623,
+        "positive": 0.2658,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9906,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9906,
+            "JOY": 0.0084,
+            "SURPRISE": 0.0043,
+            "CONTEMPT": 0.0037,
+            "SADNESS": 0.0035,
+            "ANGER": 0.0033,
+            "LOVE": 0.0033,
+            "FRUSTRATION": 0.0032,
+            "DISGUST": 0.0027,
+            "FEAR": 0.002,
+            "GRATITUDE": 0.0016
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=hM_47lCBEE4",
+        "source": "youtube",
+        "created_at": "2021-03-13T21:30:24Z",
+        "title": "3 meses morando no interior de Portugal | Morar na Covilhã. Ep. 17",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.1913,
+        "negative": 0.3228,
+        "neutral": 0.5457,
+        "positive": 0.1315,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.8493,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.8493,
+            "SURPRISE": 0.0527,
+            "LOVE": 0.0511,
+            "JOY": 0.016,
+            "ANGER": 0.0159,
+            "GRATITUDE": 0.0037,
+            "FRUSTRATION": 0.0037,
+            "FEAR": 0.0027,
+            "SADNESS": 0.0023,
+            "CONTEMPT": 0.001,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=neCT3tpT5No",
+        "source": "youtube",
+        "created_at": "2026-04-11T17:00:55Z",
+        "title": "TASCA NA COVILHÃ 10€ #portugal #covilhã #comida",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0741,
+        "negative": 0.1096,
+        "neutral": 0.8549,
+        "positive": 0.0355,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9888,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9888,
+            "CONTEMPT": 0.0125,
+            "SADNESS": 0.0078,
+            "FRUSTRATION": 0.0072,
+            "ANGER": 0.0062,
+            "DISGUST": 0.0053,
+            "JOY": 0.0032,
+            "FEAR": 0.0032,
+            "LOVE": 0.002,
+            "SURPRISE": 0.0019,
+            "GRATITUDE": 0.0006
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh7D-_QYkCU",
+        "source": "youtube",
+        "created_at": "2026-04-21T11:46:18Z",
+        "title": "HIGHLIGHTS · Aqui à BEYRA com Victória Aguiar | Museu dos Lanifícios, Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": -0.0678,
+        "negative": 0.2451,
+        "neutral": 0.5775,
+        "positive": 0.1773,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9905,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9905,
+            "CONTEMPT": 0.0325,
+            "ANGER": 0.0102,
+            "JOY": 0.0092,
+            "SADNESS": 0.0061,
+            "SURPRISE": 0.0048,
+            "FRUSTRATION": 0.0044,
+            "LOVE": 0.0039,
+            "DISGUST": 0.0027,
+            "GRATITUDE": 0.002,
+            "FEAR": 0.0012
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=bh2XuaDJKIU",
+        "source": "youtube",
+        "created_at": "2021-04-04T21:05:00Z",
+        "title": "Ep #03 Wool Festival Arte Urbana | CONHECENDO A COVILHÃ - Interior Portugal | Catarinas em Portugal",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0901,
+        "negative": 0.2405,
+        "neutral": 0.4289,
+        "positive": 0.3306,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.9625,
+        "active_emotions": [
+            "NEUTRAL"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.9625,
+            "LOVE": 0.0691,
+            "JOY": 0.067,
+            "ANGER": 0.0079,
+            "CONTEMPT": 0.0058,
+            "SADNESS": 0.0039,
+            "FRUSTRATION": 0.0035,
+            "SURPRISE": 0.0031,
+            "GRATITUDE": 0.0015,
+            "FEAR": 0.0012,
+            "DISGUST": 0.0005
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
+    },
+    {
+        "platform_id": "https://www.youtube.com/watch?v=ZblyXu1zvBY",
+        "source": "youtube",
+        "created_at": "2023-01-18T19:07:10Z",
+        "title": "Música Rural na Covilhã",
+        "sentiment": "NEUTRAL",
+        "sentiment_score": 0.0525,
+        "negative": 0.0431,
+        "neutral": 0.8613,
+        "positive": 0.0956,
+        "comments_polarity": null,
+        "dominant_emotion": "NEUTRAL",
+        "emotion_confidence": 0.7496,
+        "active_emotions": [
+            "NEUTRAL",
+            "ANGER"
+        ],
+        "emotion_scores": {
+            "NEUTRAL": 0.7496,
+            "ANGER": 0.5319,
+            "CONTEMPT": 0.0924,
+            "FRUSTRATION": 0.0318,
+            "SADNESS": 0.0291,
+            "SURPRISE": 0.0096,
+            "DISGUST": 0.0074,
+            "LOVE": 0.0056,
+            "JOY": 0.003,
+            "FEAR": 0.0023,
+            "GRATITUDE": 0.0008
+        },
+        "keywords": [],
+        "source_name": null,
+        "entities": [],
+        "topic_id": null,
+        "topic_probability": null,
+        "topic_keywords": []
     }
 ]

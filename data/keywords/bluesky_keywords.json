@@ -6299,5 +6299,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mqs6sxyh7h2m",
+        "source": "bluesky",
+        "created_at": "2026-07-16T21:33:45.302Z",
+        "title_clean": "",
+        "clean_text": "Académico de Viseu não tira o pé do acelerador e volta a golear",
+        "keywords": [
+            {
+                "keyword": "não tira pé acelerador",
+                "score": 0.6685
+            },
+            {
+                "keyword": "académico viseu não tira",
+                "score": 0.5957
+            },
+            {
+                "keyword": "viseu não tira pé",
+                "score": 0.5854
+            },
+            {
+                "keyword": "viseu não tira",
+                "score": 0.5485
+            },
+            {
+                "keyword": "acelerador volta golear",
+                "score": 0.5442
+            },
+            {
+                "keyword": "tira pé acelerador",
+                "score": 0.5409
+            },
+            {
+                "keyword": "tira pé acelerador volta",
+                "score": 0.5373
+            },
+            {
+                "keyword": "pé acelerador volta golear",
+                "score": 0.5353
+            }
+        ],
+        "source_name": null
     }
 ]

@@ -118929,6 +118929,550 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHZOa2FJaU1hSVdGdzVybmtJclljYXJUbEZncUx4VEx3T1lhSFRtOWpZaTRMdjg2XzY5UE5oVUJWR1huVkVJTl85dl8tZFNGSFFXNEtLRU9uakd5TUdRQkJmeE0tR3hpYU9yTEpGeXN4dWRfS29FOXFhMHRjbjctU2lpbXo1dUpTQU9kbk9od29zN1dFOHkydzNtbTZMaUNLM0hqNldHem1hQXJqXzRpX055QQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 00:13:08 GMT",
+        "title_clean": "Chefe dos Bombeiros da Covilhã distinguido com Voto de Louvor após missão internacional - Bombeiros Portugueses",
+        "entities": [
+            {
+                "text": "Associação Humanitária dos Bombeiros Voluntários da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Venezuela",
+                "label": "LOC"
+            },
+            {
+                "text": "Governo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombeiros Portugueses",
+                "label": "ORG"
+            },
+            {
+                "text": "Chefe Armando Proença Maria",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxOemozNm9xY2dQR25kaW1zVmdTUUEwSXVHb2d2bno4bGM2VmhPdU9lcUxWRG9DN3NXQ0Jfc3EwMndkLXdHWU5WcTN2bmFzRVc1MFR2V29kb3FhQmRZLUFtdU5fbWY2TWIzdW5JSjlHRDktaUtseXQ5OGNmWG9xZWxYcmhfdlM4U2tGYmJLcXdQZXZyci1kdVh4RUJPZ0E2ajVFUmFXSXBhb01JTzh4TDZ0Vkc0eEFndFI2MEtEelFfWV91NnFic1BXaXhB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 09:45:59 GMT",
+        "title_clean": "Covilhã: Plano Municipal de Emergência e Proteção Civil disponível para consulta pública",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Executivo Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Autoridade Nacional de Emergência",
+                "label": "ORG"
+            },
+            {
+                "text": "Proteção Civil",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Simões",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1pmcFBnc2RjVk5iV2U3dXBRTWU2TkVpeGJsUGpEeWRsdEN0dUNGTDhKcmVOUlBxR0xIVTQ1LTdwckxVc3F6Q3NEVTROWDVhajVXMTByMkY1UkxpZ0VDSTRyWDlwM1Rvc2YtZk5OUVQ4ZXljeHctSHpaM0hPRmtHRGZ1RkdKVlpHTXF6ZzBhM1FYanFwdHRmdmxZQTBkRzNEaGMxMDZvdC1MNFdjRGEwVUROREZYSURqRHZMOVIwSHg5UdIBvAFBVV95cUxPQUhaNnlDb2ttbnNiM1IwY21WNEM2WE5VRGhyblJaaVZ3SUl6ZTh4MjJ4X3piMENHTk1UWWswbFlhV0FNSWgzWmMzMzFsVV9Ubm9ESGctZUZqczFoTnd6a2N6dG1kT3AyUEpJTEF3NU5RYXltMzhSOUlFVG1uXzF3eGtuUDFBWTNHSW01M1BfNkx6MHY4b3NMaDllNzFFeHdfWnoxamptSklSdTQyelVHbF9PbVh1UWMyQ3ozSg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 15:55:15 GMT",
+        "title_clean": "Dani Matos confirmado como treinador do Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Gestão",
+                "label": "ORG"
+            },
+            {
+                "text": "Paulo da Cunha Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Rádio Cova da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0J0eVgzd1FBQzk0cUFfM051UUhEUjQtc09fcU5kVElQQ1ZJeWMzQjRxVDMteTFhZTBXWHdSTXN1ZFhKa21xM2dzeHJrWEMxZDZfMTZFU2lDUzd2cXV6Mm02eVRFaTRoVVVySFg1b1V5Zk9CTWFPT2E1WEVoczJDbFRNeWN6c1dGX1NZS3BUMGtwZS16bVc5NW53S19IejFjT3IxTHJn?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 17:29:25 GMT",
+        "title_clean": "Sporting da Covilhã já conhece calendário para a época 26/27",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Cidade do Futebol",
+                "label": "LOC"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano Lusitano de Évora",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "GD Vitória de Sernache",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0dpOFNyMnp0OHZJMXRjM0tIUXV3MXEtRDJZcV90b2V6WFBfYU1kVHZVUE9sR1ZleWg2Ul9rcldIVXkybWtTVXRBVHlxMkJWbllMZTU3czA1Y3NhU1F5OUZuTzN6WkU4VjRmZ3pmNk1GZkpJaUpLLWE5bWw0bTJBSHhRVUstZXV2bnNoa0prQXBlWmFIam5ITFBpZ2pLZlBXRjQydzJhUmV4Um1tS3BkWVQyRQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 13:20:48 GMT",
+        "title_clean": "Sporting da Covilhã oficializa equipa técnica para a temporada 2026/27",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlNQeFRpdzNfQ1FDZndpY3VEWTROSG5DRFdzSy1oTDFWRGR6VVJrNjJWTmRlMXhVdFlsYi00VVVfamY0WHdFd2tUTzdHbWs1V1VWN3ZQSHNVWmlnaWhZa2wybzdqcjB6MXZUU19Eb0IzZDZkYWZVMGYwZnAwS1MyYkZMUDN3cWtxZUVRRDI2TS1oS3dVMklQcjNYaw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 11:34:19 GMT",
+        "title_clean": "Teatro das Beiras estreia “Auto de Exortação da Paz” na Covilhã",
+        "entities": [
+            {
+                "text": "Teatro das Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "PER"
+            },
+            {
+                "text": "José Saramago",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Sílvia Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Sónia Botelho",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUs4LWJUNEJoMy1qUGZVNF9mMkRwR1B6R3FMVnpCeDhoMUllU0JHU2xaS0hCWGk5WWZ3QmhDOEZLaHI4TnEzMTRNeGlwV253dXhoVGEtMlprQll0T0IxZUt3ZVIyVF8zOHU5Q1o2RUx3cThWWjhidnQ0SlJUMHQycGZXVjdpbWNLQWhCSUVDLU4wY2t5?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 09:21:00 GMT",
+        "title_clean": "Zonas de aceleração de renováveis \"chumbadas\" pelas autarquias",
+        "entities": [
+            {
+                "text": "Zonas de Aceleração de Energias Renováveis",
+                "label": "ORG"
+            },
+            {
+                "text": "PSZAER",
+                "label": "ORG"
+            },
+            {
+                "text": "Sertã",
+                "label": "LOC"
+            },
+            {
+                "text": "Oleiros",
+                "label": "LOC"
+            },
+            {
+                "text": "Idanha-a-Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Estru",
+                "label": "ORG"
+            },
+            {
+                "text": "Regadio Gardunha Sul",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Industrial do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjVGLVFKaUhybnZqNUZYdlJhZF9ZbmJnRjZxXzNjMEEydm1KS2ZoMVNLLTNaVzF3akJ2M2FJRzZUZ2Q3N0Q0bFRrT2FMeTZhczB6SDBuN2J4UDgyNUtHbjg0QjloSHE4bF9TZnpKdDhZU1JISF8zRl9IaGlfazZhc3BTTVVpbjVZMzB6UDFGZWVvdUVjQklqLTREQ1RMR3RpbGNlTkItYkZKdw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 16:22:10 GMT",
+        "title_clean": "União de Santarém estreia-se na na Liga 3 frente ao Covilhã - Rede Regional",
+        "entities": [
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Sporting da Covil",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Portuguesa de Futebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Cidade do Futebol",
+                "label": "LOC"
+            },
+            {
+                "text": "Frechaut",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Marco",
+                "label": "ORG"
+            },
+            {
+                "text": "Fafe Leça",
+                "label": "ORG"
+            },
+            {
+                "text": "P. Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "São João Ver",
+                "label": "ORG"
+            },
+            {
+                "text": "Paredes",
+                "label": "ORG"
+            },
+            {
+                "text": "Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "Varzim",
+                "label": "ORG"
+            },
+            {
+                "text": "Vianense",
+                "label": "ORG"
+            },
+            {
+                "text": "V. Guimarães B",
+                "label": "ORG"
+            },
+            {
+                "text": "Campo Chã das Padeiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Académica de Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Sernache Lusitano Évora",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlhuOV9HOGlCckN1dlAtVEVJZnhxSGhIWmhPZHNKbHltS3JRNXZRRU8zUHpkNG0yV2hTNXlkLURCNjQwaTNrTklxQWg2MG5XSDVvalZBZkdpdDJMTUtSR3dGWGlVaEs5bnBIMXYtREZ4N2piVjF1dk9EdlBRbUNfLXc4dF9kMXc1eFJha3R5bWQ5R0YzTGtSRFQwb1Q4MGhIMzZta3V6QXFUd2p2ZHNNRkZYMFZGM1kyNVE?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 15:11:59 GMT",
+        "title_clean": "Mercado of Sport’s: Aidara e Emerson Gomes reforçam Sporting da Covilhã",
+        "entities": [
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "FC Felgueiras",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxPV1Vzb244M214cWNfODQ2ejgtc3FvVTJiWm4xd244SzdrN2R6TkpCWTNqYXJyVWR5Q0FXeXkxZElBMi1NS0RDZjNaUGZIalU4bHp4c2NpOXV6SWF6VkpwZm9uWXIxc1lvZjFuamwyMFZCTldfVDJMMGlXTmJBWkJ3RFg4cjhoSGVDekg1MXBZaUN2NkU1U1ZGak5XN0ZaNGlVRzZxcFBlTExucHo0cGM4OWRIZ3FPRkdnMTBOYU5JNmN6M1Mx?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 12:50:00 GMT",
+        "title_clean": "Aumento dos custos de produção asfixia comerciantes e produtores no mercado da Covilhã - Now Canal",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Alexandre Salgueiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE1YWjg1ZkhQLTh4VXBZN1pzbjZFUU0xN18xT1ZPSk15MzNmMzBhd1Z6NW5Ocnp4bmlVSUZZTmhIZTVZWUp2a0dlOVV5VEpoMFcycERTZ3NRRVFnSmZJYnI2amRoeUxTV2FNaHpoSzl5Vi1QQQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 17:15:28 GMT",
+        "title_clean": "UD Santarém estreia-se na Liga 3 com deslocação à Covilhã - Mais Ribatejo",
+        "entities": [
+            {
+                "text": "UD Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Ribatejo",
+                "label": "LOC"
+            },
+            {
+                "text": "União Desportiva de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Portuguesa de Futebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Campo Chã das Padeiras",
+                "label": "LOC"
+            },
+            {
+                "text": "CF \"Os Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano DC",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano GC",
+                "label": "ORG"
+            },
+            {
+                "text": "GD Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Mafra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -122380,6 +122924,13 @@
                 "label": "ORG"
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mqs6sxyh7h2m",
+        "source": "bluesky",
+        "created_at": "2026-07-16T21:33:45.302Z",
+        "title_clean": "",
+        "entities": []
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",
