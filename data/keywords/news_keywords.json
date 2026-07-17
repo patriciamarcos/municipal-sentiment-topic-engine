@@ -122170,5 +122170,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2xsN1JlbVFxQ2ZKaUhETm5WcmtQeHh3cUM4dmVCay1OY1ZUZGQyUjZqSmt2YmN0TEhtbGVCeDY5ZDc1NC1rZEpmamplVVFKZUVGQ29BdDZzQmFhd3daU3lQdGEzNDFqYUQ5cE5wRk1ETlp6YW1qSGZQX3F6OEV0Qm1iQzhWeDRyZnBDYk9fM2pXMmRxb2VHT2JmY3NSb0Y5VE05OA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 13:56:55 GMT",
+        "title_clean": "COVILHÃ: Festival do Pastel de Molho regressa ao Jardim das Artes até sábado",
+        "clean_text": "COVILHÃ: Festival do Pastel de Molho regressa ao Jardim das Artes até sábado. Organizado pelo Município da Covilhã, em parceria com a Confraria da Pastinaca e do Pastel de Molho, o evento \"visa divulgar, promover e valorizar um produto certificado e único deste território\". Esta iguaria local é \"confecionada com massa folhada, recheada com carne, que tem a particularidade de ser servida com molho (ou chá) de açafrão\". O Município tem vindo a preservar este produto gastronómico que \"está associado aos hábitos alimentares da classe operária, das fábricas que marcam a história do concelho, que ao longo da semana substituíam a sopa\" pelo pastel. No Festival do Pastel de Molho da Covilhã, que este ano realiza a sua quinta edição, além da venda desta iguaria por produtores certificados, haverá animação para todas as idades. A abertura do certame, na quinta-feira, coincidiu com a apresentação da Marcha Infantil do ATL (Centro de Atividades de Tempos Livres) do Rodrigo, agendada para as 21h. Esta sexta-feira, à mesma hora, atuam as Adufeiras do Paul e, no sábado, Maria Branco. Fonte: Lusa",
+        "keywords": [
+            {
+                "keyword": "local confecionada",
+                "score": 0.6741
+            },
+            {
+                "keyword": "território iguaria local confecionada",
+                "score": 0.6712
+            },
+            {
+                "keyword": "iguaria local confecionada",
+                "score": 0.6581
+            },
+            {
+                "keyword": "local confecionada massa",
+                "score": 0.6558
+            },
+            {
+                "keyword": "molho evento visa divulgar",
+                "score": 0.6436
+            },
+            {
+                "keyword": "visa divulgar promover",
+                "score": 0.6334
+            },
+            {
+                "keyword": "parceria confraria pastinaca pastel",
+                "score": 0.6297
+            },
+            {
+                "keyword": "iguaria local confecionada massa",
+                "score": 0.6261
+            },
+            {
+                "keyword": "local confecionada massa folhada",
+                "score": 0.6201
+            },
+            {
+                "keyword": "evento visa divulgar promover",
+                "score": 0.6076
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
     }
 ]

@@ -103468,5 +103468,65 @@
             "Obras e infraestruturas": 0.038,
             "Turismo e património histórico": 0.0362
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2xsN1JlbVFxQ2ZKaUhETm5WcmtQeHh3cUM4dmVCay1OY1ZUZGQyUjZqSmt2YmN0TEhtbGVCeDY5ZDc1NC1rZEpmamplVVFKZUVGQ29BdDZzQmFhd3daU3lQdGEzNDFqYUQ5cE5wRk1ETlp6YW1qSGZQX3F6OEV0Qm1iQzhWeDRyZnBDYk9fM2pXMmRxb2VHT2JmY3NSb0Y5VE05OA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 13:56:55 GMT",
+        "title_clean": "COVILHÃ: Festival do Pastel de Molho regressa ao Jardim das Artes até sábado",
+        "topic_id": 0,
+        "topic_label": "Feira e Festival",
+        "topic_probability": 0.8732,
+        "low_confidence": false,
+        "all_scores": {
+            "Feira e Festival": 0.8732,
+            "Cultura, arte e espetáculos": 0.0901,
+            "Turismo e património histórico": 0.006,
+            "Obras e infraestruturas": 0.0058,
+            "Habitação": 0.0032,
+            "Ação social e voluntariado": 0.003,
+            "Mercado": 0.0027,
+            "Comércio e lojas": 0.0026,
+            "Universidade e vida académica": 0.0022,
+            "Transportes": 0.002,
+            "Saúde e hospital": 0.0015,
+            "Crimes e polícia": 0.0015,
+            "Incêndios e bombeiros": 0.0014,
+            "Desporto e competições": 0.0012,
+            "Eleições e política autárquica": 0.0011,
+            "Tecnologia": 0.0011,
+            "Falecimentos": 0.0007,
+            "Natal e festividades": 0.0006
+        }
+    },
+    {
+        "record_id": "bluesky_at://did:plc:54ljb2yvhmkpy6snfvfvu2m2/app.bsky.feed.post/3mqtztbmjls2o",
+        "source": "bluesky",
+        "created_at": "2026-07-17T15:09:46.506Z",
+        "title_clean": "",
+        "topic_id": 10,
+        "topic_label": "Comércio e lojas",
+        "topic_probability": 0.2206,
+        "low_confidence": true,
+        "all_scores": {
+            "Comércio e lojas": 0.2206,
+            "Turismo e património histórico": 0.1324,
+            "Universidade e vida académica": 0.0974,
+            "Cultura, arte e espetáculos": 0.0836,
+            "Obras e infraestruturas": 0.0754,
+            "Ação social e voluntariado": 0.0633,
+            "Feira e Festival": 0.0588,
+            "Saúde e hospital": 0.0419,
+            "Habitação": 0.0394,
+            "Crimes e polícia": 0.0304,
+            "Transportes": 0.0278,
+            "Eleições e política autárquica": 0.0246,
+            "Natal e festividades": 0.0244,
+            "Tecnologia": 0.0202,
+            "Mercado": 0.0199,
+            "Desporto e competições": 0.0153,
+            "Falecimentos": 0.0132,
+            "Incêndios e bombeiros": 0.0114
+        }
     }
 ]

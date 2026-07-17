@@ -119665,6 +119665,50 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2xsN1JlbVFxQ2ZKaUhETm5WcmtQeHh3cUM4dmVCay1OY1ZUZGQyUjZqSmt2YmN0TEhtbGVCeDY5ZDc1NC1rZEpmamplVVFKZUVGQ29BdDZzQmFhd3daU3lQdGEzNDFqYUQ5cE5wRk1ETlp6YW1qSGZQX3F6OEV0Qm1iQzhWeDRyZnBDYk9fM2pXMmRxb2VHT2JmY3NSb0Y5VE05OA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 10 Jul 2026 13:56:55 GMT",
+        "title_clean": "COVILHÃ: Festival do Pastel de Molho regressa ao Jardim das Artes até sábado",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Confraria da Pastinaca",
+                "label": "ORG"
+            },
+            {
+                "text": "Pastel de Molho",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Atividades de Tempos Livre",
+                "label": "ORG"
+            },
+            {
+                "text": "Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Adufeiras do Paul",
+                "label": "LOC"
+            },
+            {
+                "text": "Maria Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -123123,6 +123167,26 @@
         "created_at": "2026-07-16T21:33:45.302Z",
         "title_clean": "",
         "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:54ljb2yvhmkpy6snfvfvu2m2/app.bsky.feed.post/3mqtztbmjls2o",
+        "source": "bluesky",
+        "created_at": "2026-07-17T15:09:46.506Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Ana Paula Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Península Ibérica",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",

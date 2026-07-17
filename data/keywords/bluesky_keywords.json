@@ -6341,5 +6341,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:54ljb2yvhmkpy6snfvfvu2m2/app.bsky.feed.post/3mqtztbmjls2o",
+        "source": "bluesky",
+        "created_at": "2026-07-17T15:09:46.506Z",
+        "title_clean": "",
+        "clean_text": "Ana Paula Duarte, Reitora da UBI, esteve presente na sessão de abertura da 613º Edição da Feira de São Tiago, uma das feiras mais antigas da Península Ibérica. Visite o stand da UBI, em frente ao palco principal, até 26 de julho. (Fotografia Município da Covilhã)",
+        "keywords": [
+            {
+                "keyword": "ibérica visite stand ubi",
+                "score": 0.5228
+            },
+            {
+                "keyword": "ibérica visite stand",
+                "score": 0.5135
+            },
+            {
+                "keyword": "ibérica visite",
+                "score": 0.4886
+            },
+            {
+                "keyword": "ana paula duarte",
+                "score": 0.4749
+            },
+            {
+                "keyword": "visite stand ubi frente",
+                "score": 0.4697
+            },
+            {
+                "keyword": "visite stand ubi",
+                "score": 0.4573
+            },
+            {
+                "keyword": "ana paula",
+                "score": 0.4505
+            },
+            {
+                "keyword": "ana paula duarte reitora",
+                "score": 0.4374
+            }
+        ],
+        "source_name": null
     }
 ]
