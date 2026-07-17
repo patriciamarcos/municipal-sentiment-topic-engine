@@ -38,6 +38,10 @@ PIPELINE_STEPS = [
         "script": BASE_DIR / "analysis/ner_extraction.py",
     },
     {
+        "name": "Classificação de tópicos (Zero-Shot)", 
+        "script": BASE_DIR / "zeroshot_topics.py",     
+    },
+    {
         "name": "Cruzamento multimodal (merge)",
         "script": BASE_DIR / "merge.py",
     },
