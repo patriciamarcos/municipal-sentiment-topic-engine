@@ -287,7 +287,15 @@ def insert_topic(cursor, text_document_id, merged):
     if topic_id is None:
         return
 
+    # Novo formato Zero-Shot usa topic_label em vez de topic_keywords
+    topic_label = merged.get("topic_label", "")
     topic_keywords = merged.get("topic_keywords", [])
+
+    # Usar topic_label se não houver topic_keywords
+    if topic_label and not topic_keywords:
+        topic_keywords_str = topic_label
+    else:
+        topic_keywords_str = ", ".join(topic_keywords) if topic_keywords else None
 
     cursor.execute("""
         DELETE FROM [dbo].[TopicAssignment]
@@ -307,8 +315,8 @@ def insert_topic(cursor, text_document_id, merged):
         text_document_id,
         topic_id,
         merged.get("topic_probability"),
-        ", ".join(topic_keywords) if topic_keywords else None,
-        "1.0",
+        topic_keywords_str,
+        "2.0",
     )
 
 

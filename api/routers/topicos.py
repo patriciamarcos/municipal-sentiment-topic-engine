@@ -26,6 +26,7 @@ def get_topicos():
         {
             "topico_id": r[0],
             "total_documentos": r[1],
+            "topic_label": r[2] if r[2] else "",
             "keywords": r[2].split(", ") if r[2] else [],
         }
         for r in rows

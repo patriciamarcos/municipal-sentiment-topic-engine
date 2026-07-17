@@ -13,7 +13,7 @@ KEYWORDS_FILES = [
     BASE_DIR / "data/keywords/youtube_keywords.json",
 ]
 NER_FILE    = BASE_DIR / "data/ner/all_ner.json"
-TOPICS_FILE = BASE_DIR / "data/topics/all_topics.json"
+TOPICS_FILE = BASE_DIR / "data/topics/all_topics_zeroshot.json"
 OUTPUT_FILE = BASE_DIR / "data/merged/all_merged.json"
 
 
@@ -230,6 +230,7 @@ def main():
             "topic_id":          topics_record.get("topic_id"),
             "topic_probability": topics_record.get("topic_probability"),
             "topic_keywords":    topics_record.get("topic_keywords", []),
+            "topic_label":       topics_record.get("topic_label", ""),
         }
 
         merged = {
@@ -265,7 +266,7 @@ def main():
         print(f"Sentimento:  {item['sentiment']} (score: {item['sentiment_score']})")
         print(f"Emoção:      {item['dominant_emotion']}")
         print(f"Emoções ativas: {', '.join(item['active_emotions']) if item['active_emotions'] else 'nenhuma'}")
-        print(f"Tópico:      {item['topic_id']} — {', '.join(item['topic_keywords'][:3]) if item['topic_keywords'] else 'sem tópico'}")
+        print(f"Tópico:      {item['topic_id']} — {item.get('topic_label', 'sem tópico')}")        
         print(f"Keywords:    {', '.join(kw['keyword'] for kw in item['keywords'][:3]) if item['keywords'] else 'sem keywords'}")
         print(f"Entidades:   {', '.join(e['text'] for e in item['entities'][:3]) if item['entities'] else 'sem entidades'}")
 
