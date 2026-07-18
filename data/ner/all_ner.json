@@ -120333,6 +120333,198 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdmE3Yzd1VFROckdGLXd2aTVRa3FUMUJHS3pwWHRqU1A5TkprdnRvaHZkS21WSU9xdGNTdHFQRnduM3A4NnY3WkZFaVFxZ0VudUdHcElUcHoxOWFBY2p3RkJoRFU2RHhBRWtFajJxZ2RPRGliNTJ1M3g1SWZ3RzZMTWR1aVh6cXd2WGExWW91ZlpuZy16bGE4aXNYU1lxM3lOOVQtbFZ5Y3l5eHpCcmh2MzFCUkpxdzRQcTdDY1RoQUVhVEItRTFFZHhZV2dPZkJGdW5zSWVzZnNFV0x6dnpncEJEb1FZRlpfeEpqTNIBvAFBVV95cUxPQUhaNnlDb2ttbnNiM1IwY21WNEM2WE5VRGhyblJaaVZ3SUl6ZTh4MjJ4X3piMENHTk1UWWswbFlhV0FNSWgzWmMzMzFsVV9Ubm9ESGctZUZqczFoTnd6a2N6dG1kT3AyUEpJTEF3NU5RYXltMzhSOUlFVG1uXzF3eGtuUDFBWTNHSW01M1BfNkx6MHY4b3NMaDllNzFFeHdfWnoxamptSklSdTQyelVHbF9PbVh1UWMyQ3ozSg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 15:51:14 GMT",
+        "title_clean": "Dani Matos confirmado como treinador do Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Gestão",
+                "label": "ORG"
+            },
+            {
+                "text": "Paulo da Cunha Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Rádio Cova da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxOdld2SXVMM1ZSUWs0eGg0dFdyZ3ROSnZRVlM2U3l0emFoeE84WTlFaDZnSWtMTWczaHY4aTNwcnNJeGdDUzAzQjlqZWhnTW9Ic1FadWZQZ3o3eFZMM0NJWkxNa0YxQ1FBVHlaZjRFWFZ1ZzJRVXJIZFRVMU9XTEFFSkJReGhOOVJyazBkdlRWMVpPM0lvWmdlTmdn?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:32:39 GMT",
+        "title_clean": "Oliveirense joga em casa no arranque da Liga 3",
+        "entities": [
+            {
+                "text": "Caldas SC Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém CD Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Vit. Sernache Lusitano GC",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses U. Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveirense Vit. Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Vit. Sernache SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP Lusitano GC",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Maffra",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano GC U. Santa",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC Vit. Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveirense CD Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém Caldas SC",
+                "label": "ORG"
+            },
+            {
+                "text": "Vit. Sernache Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano GC Vit. Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC CD Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Vit. Sernache Louletano",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP Caldas SC",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Mafra Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã Lusitano GC",
+                "label": "ORG"
+            },
+            {
+                "text": "Vit. Sernache Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP U. Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Mafra Louletano",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã Caldas SC",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveirense Belenenses",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -123808,6 +124000,78 @@
             },
             {
                 "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mqwqjtk2wt2n",
+        "source": "bluesky",
+        "created_at": "2026-07-18T18:01:25+01:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "ENFA 10",
+                "label": "ORG"
+            },
+            {
+                "text": "Analytic",
+                "label": "ORG"
+            },
+            {
+                "text": "University of",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zxclnyklmf3ehq57qwe56v5m/app.bsky.feed.post/3mqwpxewvxs7c",
+        "source": "bluesky",
+        "created_at": "2026-07-18T16:51:05.000Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "ENFA 10",
+                "label": "ORG"
+            },
+            {
+                "text": "Portuguese Society",
+                "label": "ORG"
+            },
+            {
+                "text": "Analytic Philosophy",
+                "label": "ORG"
+            },
+            {
+                "text": "University of Beira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:urwgvfhgfklueff75a7p65ta/app.bsky.feed.post/3mqwpy5a6pi62",
+        "source": "bluesky",
+        "created_at": "2026-07-18T16:51:05.000Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "ENFA 10",
+                "label": "ORG"
+            },
+            {
+                "text": "University of",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
                 "label": "LOC"
             }
         ]
