@@ -122220,5 +122220,901 @@
             }
         ],
         "source_name": "MaisBeiras Informação"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxQSG5SZmhBMWxZWkJOX1lCT3FMYU5XNU12OHRUWHdFcXR0ZmVuYlYtckwtb09nYTMxSWNtSFJxREhlTnpGRl8wc01YX2ZHRThMOFd1S3Y5Zm9Qd3Ytc0UxUHZsYkh6QnVnNzZMb3ZSdEpERUVRRzI4V1FNaUU3OTRaOWhJUENKTDJmQ1JGVlBlV2EzUlNZQURlcnFGONIBjAFBVV95cUxNYTB3eDlMOFhmQjU3ZjNwV0hxbDhySHhwbnd3N1AtYmpIZ2lRa0Z4TkxQcTJ5LXNUbHk1eTNkdGNVeVZUbnlnNmxZNjlySUN6akZKX0VUb25TZk54SzBvalFiQWZUbVo1Vy1PVnZOaGREeHpObDVCcXZqSWU5VjJCWVMyalVNN0k1NnpwSQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:45:00 GMT",
+        "title_clean": "Três detidos por sequestro, extorsão e roubo na Covilhã - Jornal de Notícias",
+        "clean_text": "Três detidos por sequestro, extorsão e roubo na Covilhã - Jornal de Notícias",
+        "keywords": [
+            {
+                "keyword": "três detidos sequestro extorsão",
+                "score": 0.8844
+            },
+            {
+                "keyword": "três detidos sequestro",
+                "score": 0.8621
+            },
+            {
+                "keyword": "três detidos",
+                "score": 0.7684
+            },
+            {
+                "keyword": "detidos sequestro extorsão roubo",
+                "score": 0.7637
+            },
+            {
+                "keyword": "detidos sequestro extorsão",
+                "score": 0.7349
+            },
+            {
+                "keyword": "detidos sequestro",
+                "score": 0.724
+            },
+            {
+                "keyword": "sequestro extorsão roubo",
+                "score": 0.6611
+            },
+            {
+                "keyword": "sequestro extorsão",
+                "score": 0.5891
+            },
+            {
+                "keyword": "extorsão roubo",
+                "score": 0.5709
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTE9QcjV6dEFqZmp1OVZsMUpsNGxfdlY0aTJfTk5yWHpaQUVqN2F4bnZOU1pEbndkalRuUFVDS2xMdDZtVzBNWnNmWkNLZk1ucDA1RWpuZ0xwbWNGWkJ0RWhUd1VfekNyb1Q1R1hrWU5aMHZCb08tQmllR3Z3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 08:30:00 GMT",
+        "title_clean": "Preço das casas está a subir no Interior",
+        "clean_text": "Preço das casas está a subir no Interior. Comprar casa na Beira Interior, no último ano, tornou-se mais caro. Pelo menos é isso que diz um estudo realizado pela imobiliária ERA, que analisou dados entre janeiro de 2024 e maio de 2026, comparando preços, e constatou que houve uma subida generalizada dos preços nos distritos da Guarda e Castelo Branco, mas também em toda a faixa mais Interior do País, já que onde se registou maior aumento foi, além destes dois distritos, noutros como Bragança, Beja, Viseu e Vila Real. \"A principal tendência é a valorização do Interior do País\" constata a imobiliária. No distrito da Guarda, o valor das casas aumentou no último ano cerca de 21,4%, e em Castelo Branco, cerca de 17,9%. Já Lisboa foi o único distrito que registou uma quebra nos preços entre 2025 e 2026 (-3,6%). Em números gerais, o preço das casas vendidas pela rede ERA aumentou mais 22,7% nos últimos três anos. \"A principal tendência de 2026 está a acontecer fora dos grandes centros urbanos: os distritos do interior registaram as maiores valorizações do país\" salienta a imobiliária. Beja apresentou a maior subida face a 2025 (+25,2%), seguida de Bragança (+24,5%), Guarda (+21,4%), Viseu (+18,1%), Castelo Branco (+17,9%) e Vila Real (+18,1%). \"A evolução sugere que a pressão da procura se está a estender progressivamente para mercados que, até há poucos anos, apresentavam níveis de preço significativamente inferiores aos dos grandes centros urbanos\" salienta a ERA, que garante que os dados comprovam que a valorização no Interior já era expressiva na transição de 2024 para 2025, mas acelerou de 2025 para 2026. Lisboa, apesar de ter sido o único distrito que registou uma quebra nos preços entre 2025 e 2026, mantém-se a região onde o preço médio das casas é mais elevado (365 281 euros). Depois de Lisboa, o preço médio é mais elevado na Madeira (316 792 euros) e Beja (304 079 euros). No conjunto da rede ERA, o preço médio das habitações transacionadas aumentou 22,7% nos últimos três anos.",
+        "keywords": [
+            {
+                "keyword": "preço casas subir interior",
+                "score": 0.7337
+            },
+            {
+                "keyword": "preço médio casas elevado",
+                "score": 0.7193
+            },
+            {
+                "keyword": "preço casas subir",
+                "score": 0.7191
+            },
+            {
+                "keyword": "região preço médio casas",
+                "score": 0.7181
+            },
+            {
+                "keyword": "valor casas aumentou",
+                "score": 0.7134
+            },
+            {
+                "keyword": "valor casas aumentou último",
+                "score": 0.7081
+            },
+            {
+                "keyword": "gerais preço casas",
+                "score": 0.7066
+            },
+            {
+                "keyword": "casas subir interior comprar",
+                "score": 0.6925
+            },
+            {
+                "keyword": "preço médio habitações transacionadas",
+                "score": 0.6913
+            },
+            {
+                "keyword": "guarda valor casas aumentou",
+                "score": 0.6901
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFFURmtnR0t6RE1BeXQxcE4wWWxVZkFqd2dSMTJEYzdxRVVZRWFwbFlxYzdyY3h4ay1HRGQwVEtSdVV3emMweXUwcG9vRWZ2MTVwQUFoODAyVmZlYVo5TUJVbG9pTzhLaW5tLVp3VUFpSExJa2d2cGxIQXoybWlwMjhkSGdZaDd3bnpqN1hn?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 13:45:57 GMT",
+        "title_clean": "PJ detém suspeito de sequestro, extorsão e roubo na Covilhã - Jornal A Guarda",
+        "clean_text": "PJ detém suspeito de sequestro, extorsão e roubo na Covilhã - Jornal A Guarda",
+        "keywords": [
+            {
+                "keyword": "pj detém suspeito sequestro",
+                "score": 0.8758
+            },
+            {
+                "keyword": "pj detém suspeito",
+                "score": 0.7877
+            },
+            {
+                "keyword": "detém suspeito sequestro",
+                "score": 0.7679
+            },
+            {
+                "keyword": "detém suspeito sequestro extorsão",
+                "score": 0.7678
+            },
+            {
+                "keyword": "suspeito sequestro extorsão roubo",
+                "score": 0.7436
+            },
+            {
+                "keyword": "suspeito sequestro extorsão",
+                "score": 0.732
+            },
+            {
+                "keyword": "suspeito sequestro",
+                "score": 0.7298
+            },
+            {
+                "keyword": "detém suspeito",
+                "score": 0.6634
+            },
+            {
+                "keyword": "sequestro extorsão roubo",
+                "score": 0.6502
+            },
+            {
+                "keyword": "sequestro extorsão",
+                "score": 0.5871
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzJydGx1czR5SGJLVUgxbzVzNTh3LXBIUzBMd1UtZTJQbWI2aDRFWTRnY2N6c2ozS0NZdmpfeGUwNm01ZUFtaWtlQkRrbTBvWUlUOTB3czRwRW5SX2hIbmVVckQ5ZmtrS3VLRVJkSmM4cWh5Q1dHakM5em9ZRU03bzFDUWFtbVM1M0tyeVQtRERkeDJjYXRydmg0TEIySG44cHF3M2JEYlEySmktckEyN05sZjFOdGpGOW93cTgxcXV0Nlk?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 08:36:32 GMT",
+        "title_clean": "Bombeiros Voluntários da Covilhã distinguem Chefe Armando Maria com Voto de Louvor",
+        "clean_text": "Bombeiros Voluntários da Covilhã distinguem Chefe Armando Maria com Voto de Louvor. A Direção e o Comandante em Regime de Suplência da Associação Humanitária dos Bombeiros Voluntários da Covilhã aprovaram um Voto de Louvor e Agradecimento ao Chefe Armando Maria, futuro comandante da corporação, em reconhecimento pelo seu desempenho na missão internacional de busca, salvamento e resgate realizada na República Bolivariana da Venezuela. Armando Maria integrou o contingente português enviado pelo Governo de Portugal para participar numa operação humanitária de elevada exigência, onde demonstrou elevado sentido de missão, profissionalismo e dedicação ao serviço. Em nota pública, a Associação destaca que a participação do Chefe Armando Maria constitui motivo de profundo orgulho para a corporação e para toda a comunidade covilhanense. O seu desempenho, marcado pela competência técnica, coragem, espírito de equipa e permanente disponibilidade para servir, contribuiu para dignificar não apenas as instituições que representa, mas também os Bombeiros Portugueses e Portugal. A Direção salienta ainda que, ao contribuir para o sucesso da missão humanitária, o Chefe Armando Maria deu um exemplo dos valores que caracterizam a missão dos bombeiros, nomeadamente a solidariedade, o altruísmo, a abnegação e o compromisso com a proteção da vida humana. No final da homenagem, a Direção e o Comandante em Regime de Suplência enaltecem o percurso de excelência do bombeiro, expressando o seu profundo agradecimento pelo trabalho desenvolvido e formulando votos para que continue a honrar, com o mesmo espírito de missão e dedicação, o nome das instituições que representa e dos Bombeiros Portugueses. A distinção termina com uma mensagem de reconhecimento: \"Bem-haja, Chefe Armando Proença Maria.\"",
+        "keywords": [
+            {
+                "keyword": "contingente português enviado governo",
+                "score": 0.7121
+            },
+            {
+                "keyword": "humanitária chefe armando",
+                "score": 0.6864
+            },
+            {
+                "keyword": "bombeiros portugueses portugal direção",
+                "score": 0.6862
+            },
+            {
+                "keyword": "enviado governo portugal participar",
+                "score": 0.6757
+            },
+            {
+                "keyword": "representa bombeiros portugueses",
+                "score": 0.6757
+            },
+            {
+                "keyword": "humanitária chefe armando maria",
+                "score": 0.6748
+            },
+            {
+                "keyword": "humanitária chefe",
+                "score": 0.6711
+            },
+            {
+                "keyword": "portugal participar operação humanitária",
+                "score": 0.6669
+            },
+            {
+                "keyword": "bombeiros portugueses",
+                "score": 0.6602
+            },
+            {
+                "keyword": "bombeiros portugueses distinção",
+                "score": 0.658
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZWHpRdnNaZzkwczBBR1lfaTMxVkpuMkljeTlVdlNaMFJTbmp3VHZOWDBqX2ZDcU10dTF1dnF5c0lUYkJRT3BsalZzSTJyUkZxU24zRWg5NFdJYmU2VmkzLUhDcWR2QnN3M2R3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 10:21:00 GMT",
+        "title_clean": "PNSE vai voltar a ter diretor",
+        "clean_text": "PNSE vai voltar a ter diretor. Os parques naturais de maior dimensão em Portugal, entre os quais o da Serra da Estrela, vão voltar a ter direção própria, um modelo que foi abandonado há alguns anos, mas que está de regresso, com a reformulação da própria estrutura do Instituto da Conservação, Natureza e Floresta (ICNF). O anúncio foi feito na quarta-feira, 15, pela ministra do Ambiente e Energia, Maria da Graça Carvalho, que participou, em Manteigas, nas comemorações dos 50 anos do Parque Natural da Serra da Estrela (PNSE). \"Os parques com dimensão, e este é o maior, precisam de ter um diretor de parque, pessoas que conheçam. Porque é muito mais fácil ser quem cá está, que conhece, a dar as autorizações e ver qual a melhor forma de compatibilizar as atividades económicas e sociais com a proteção da natureza aqui na Serra da Estrela\", disse a governante à RTP. \"É importante que as populações sintam que ser parque natural não é só a proibição A, B e C, mas também o benefício A, B e C\", afirma o presidente da Câmara de Manteigas, que apelou ao investimento público na Serra da Estrela. Antes, à RTP, Flávio Massano alertara para \"dificuldades notórias\" nos últimos anos. \"Acredito que nunca houve tanto conhecimento e tanta vontade de projetar e de valorizar esta nossa área protegida, mas também sentimos que há cada vez menos apoios e cada vez mais dificuldades\" em \"facilitar a vida\" a quem vive e investe neste território\", considera o autarca serrano. Que defende que o Estado deve dar uma \"justa contrapartida\" desse investimento, defendendo que a ação não tem correspondido às expectativas locais. Flávio Massano lamenta que se fala mais vezes do Parque Natural da Serra da Estrela \"por maus motivos do que bons\", dando como exemplo os incêndios, e considera que o País não aposta nas áreas protegidas. \"Muitas das vezes aquilo que as populações sentem é que é um parque natural no papel. Para proibições, dificuldades, constrangimentos, o parque existe; para desenvolvimento, investimento, apoio, ele fica na gaveta\", critica. Os 50 anos do PNSE coincidem com o fim da consulta pública para criação de Zonas Especiais de Conservação (ZEC), um projeto-piloto que vai ser levado a cabo em diversas áreas protegidas, entre as quais a Serra da Estrela. Durante a tarde de quarta-feira, em Manteigas, foram inauguradas as obras de requalificação do edifício-sede do PNSE, bem à entrada da vila, e foi feita a apresentação da Reserva da Bioesfera UNESCO, reconhecimento que a Serra da Estrela recebeu recentemente.",
+        "keywords": [
+            {
+                "keyword": "voltar diretor parques naturais",
+                "score": 0.6757
+            },
+            {
+                "keyword": "parque existe desenvolvimento",
+                "score": 0.6656
+            },
+            {
+                "keyword": "parques naturais maior dimensão",
+                "score": 0.6572
+            },
+            {
+                "keyword": "parque natural não só",
+                "score": 0.6557
+            },
+            {
+                "keyword": "diretor parques naturais maior",
+                "score": 0.6444
+            },
+            {
+                "keyword": "pnse voltar diretor parques",
+                "score": 0.6372
+            },
+            {
+                "keyword": "constrangimentos parque existe desenvolvimento",
+                "score": 0.6359
+            },
+            {
+                "keyword": "vezes parque natural serra",
+                "score": 0.6272
+            },
+            {
+                "keyword": "50 parque natural",
+                "score": 0.6254
+            },
+            {
+                "keyword": "50 parque natural serra",
+                "score": 0.6092
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxNRk8zak5WSFp3STFaRy1EWlpCNWJkR3l0eVJuZlZCYlJ0VUFQRTRMQ0FRa3pmNUdfZWVkY1ltUTZJS21HTlhwYmdMa0pYN29wSzVPSXkta0NhRlV4Sy1xd1JGcHo3MDN4N3EydjdDYmtOVEk4bzFtVDB0NEpsYUZNekVzYkowN3BVekNQbE81MTFPVjczRHQ1elFaMzNfLUt0TFQ0MmI0NGlIV3dISko1LQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:18:48 GMT",
+        "title_clean": "Detido terceiro suspeito de sequestro, extorsão e roubo na Covilhã - Notícias ao Minuto",
+        "clean_text": "Detido terceiro suspeito de sequestro, extorsão e roubo na Covilhã - Notícias ao Minuto. Foi detido um terceiro suspeito de um crime de sequestro de uma mulher, extorsão e roubo, esta sexta-feira, dia 17 de julho, na Covilhã. Recorde-se que a vítima [uma mulher] tinha fornecido quatro contas bancárias aos suspeitos, a fim de dissiparem o dinheiro proveniente da prática de crimes de tráfico de estupefacientes e burlas informáticas, ou seja, para branquearem esses montantes. A mulher, que num primeiro momento se encontrava conivente com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolve, tendo sido alvo de sequestro e posterior roubo de equipamentos eletrónicos que tinha em casa. Em março duas pessoas já tinham sido detidas na Covilhã e agora, um terceiro suspeito, de 33 anos, foi localizado na Marinha Grande, informa a Polícia Judiciária (PJ) em comunicado. Foram ainda apreendidos importantes elementos de prova, tais como uma arma ilícita, pistola semiautomática, presumivelmente usada no cometimento dos crimes. O detido irá ser presente, amanhã, no Tribunal do Fundão, a fim de ser submetido a primeiro interrogatório judicial visando a aplicação de medidas de coação.",
+        "keywords": [
+            {
+                "keyword": "terceiro suspeito crime sequestro",
+                "score": 0.7865
+            },
+            {
+                "keyword": "terceiro suspeito sequestro extorsão",
+                "score": 0.7571
+            },
+            {
+                "keyword": "terceiro suspeito sequestro",
+                "score": 0.7549
+            },
+            {
+                "keyword": "detido terceiro suspeito",
+                "score": 0.7448
+            },
+            {
+                "keyword": "detido terceiro suspeito crime",
+                "score": 0.7432
+            },
+            {
+                "keyword": "detido terceiro suspeito sequestro",
+                "score": 0.7386
+            },
+            {
+                "keyword": "suspeitos fim dissiparem dinheiro",
+                "score": 0.7252
+            },
+            {
+                "keyword": "terceiro suspeito crime",
+                "score": 0.7166
+            },
+            {
+                "keyword": "conivente suspeitos apoderou",
+                "score": 0.7128
+            },
+            {
+                "keyword": "suspeito crime sequestro mulher",
+                "score": 0.7055
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxNelN3U0pyZE5ZcUNDYWI0R3hqbFIyUDhiUkJZdFgwVUNCZzJtTEVqM0FPbTJWX29lUEZ4SktCUDNsTXFQR0VCejVPNkxKMExmQTN6QjZRVUM2bm1BUF9YNWFCV3cya3FRWmhMWmJhWmRMTEhEaXhFQUhVTlgzdTFRalRPMUwyMFRETnl4WFo5UTJsbkI0NTE3UWNUUUVtWDRYQXh5Nm9PeHVsc2pvanhN?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 10:04:39 GMT",
+        "title_clean": "PJ detém terceiro suspeito de sequestro, roubo e extorsão na Covilhã",
+        "clean_text": "PJ detém terceiro suspeito de sequestro, roubo e extorsão na Covilhã. A Polícia Judiciária (PJ) deteve esta quinta-feira, na zona da Marinha Grande, um homem de 33 anos suspeito de envolvimento num caso de sequestro, roubo e extorsão que teve como vítima uma mulher residente na Covilhã. Em comunicado, a PJ explica que a investigação foi conduzida pelo Departamento de Investigação Criminal da Guarda, na sequência da recolha de informação que indicava que a vítima teria sido alvo daqueles crimes. Segundo a Polícia Judiciária, a mulher forneceu inicialmente aos suspeitos quatro contas bancárias para que estas fossem utilizadas na dissipação de dinheiro proveniente de crimes de tráfico de estupefacientes e de burlas informáticas, permitindo o branqueamento desses montantes. No entanto, de acordo com a investigação, a vítima, que numa fase inicial atuava em conivência com os suspeitos, acabou por se apropriar de uma elevada quantia em dinheiro que não devolveu, circunstância que terá estado na origem dos factos investigados. No decorrer da operação realizada esta quinta-feira, os inspetores localizaram e detiveram um terceiro suspeito, tendo ainda apreendido diversos elementos de prova, entre os quais uma pistola semiautomática ilegal, presumivelmente utilizada na prática dos crimes. O detido será presente esta sexta-feira ao Tribunal do Fundão para primeiro interrogatório judicial e aplicação das respetivas medidas de coação. O inquérito é dirigido pelo Departamento de Investigação e Ação Penal (DIAP) de Castelo Branco. Recordar que em março deste ano, e após várias ações de vigilância por parte da PJ, foi possível identificar dois dos supostos autores da prática deste crime, tendo sido detidos.",
+        "keywords": [
+            {
+                "keyword": "pj detém terceiro suspeito",
+                "score": 0.6272
+            },
+            {
+                "keyword": "polícia judiciária pj",
+                "score": 0.6104
+            },
+            {
+                "keyword": "criminal guarda sequência",
+                "score": 0.6057
+            },
+            {
+                "keyword": "criminal guarda sequência recolha",
+                "score": 0.6055
+            },
+            {
+                "keyword": "detém terceiro suspeito sequestro",
+                "score": 0.6037
+            },
+            {
+                "keyword": "suspeito envolvimento caso sequestro",
+                "score": 0.5984
+            },
+            {
+                "keyword": "suspeito sequestro",
+                "score": 0.5856
+            },
+            {
+                "keyword": "localizaram detiveram terceiro suspeito",
+                "score": 0.571
+            },
+            {
+                "keyword": "suspeito sequestro roubo",
+                "score": 0.5639
+            },
+            {
+                "keyword": "daqueles crimes polícia judiciária",
+                "score": 0.5631
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0JmZ3Y2X3ZNMmNfUDQydXhSSlUwcUpvS0FqY3R6WFN4ZDUxY3J4Mjk5NXM2SldQTS02dnJyVGwxNzhCejcxdDd3eHNVSVc4S3RpTnVEcWsxcUp2TWhFNzA0MDRQTDFJLURpSXRuaVBrV1BhbFZycmstQjdLSU1uak55bXVYWHRLeXpjVW53M0lxcmdZZmc2MlJoc2lETGNsMC1aSmM4Mk9VdmVrM1FyVmNmY0dvVDZUSW5oSnRtdWRGckZqa2llU0RpWDFUd0NXRmc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:30:32 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã oficializa equipa técnica liderada por Dani Matos",
+        "clean_text": "Mercado of Sport's: Sporting da Covilhã oficializa equipa técnica liderada por Dani Matos. O Sporting Clube da Covilhã apresentou oficialmente a equipa técnica que irá orientar os \"Leões da Serra\" na época 2026/27. O antigo treinador do Benfica e Castelo Branco, Dani Matos, assume o comando técnico da formação serrana, contando com João Caridade como treinador-adjunto. A equipa técnica integra ainda Luciano Victor, responsável pelo treino de guarda-redes, e os adjuntos Fábio Santos, Bruno Rafael e Paulo Gomes, este último de regresso ao clube. Com a nova equipa técnica definida, o Sporting da Covilhã prossegue a preparação da nova temporada, apostando numa estrutura que alia experiência e conhecimento para enfrentar os desafios de 2026/27.",
+        "keywords": [
+            {
+                "keyword": "luciano victor responsável treino",
+                "score": 0.5317
+            },
+            {
+                "keyword": "oficializa equipa",
+                "score": 0.5288
+            },
+            {
+                "keyword": "oficializa equipa técnica liderada",
+                "score": 0.5214
+            },
+            {
+                "keyword": "equipa técnica definida sporting",
+                "score": 0.5109
+            },
+            {
+                "keyword": "equipa técnica integra luciano",
+                "score": 0.5091
+            },
+            {
+                "keyword": "equipa técnica liderada dani",
+                "score": 0.493
+            },
+            {
+                "keyword": "treinador adjunto equipa",
+                "score": 0.4928
+            },
+            {
+                "keyword": "oficialmente equipa",
+                "score": 0.491
+            },
+            {
+                "keyword": "adjunto equipa",
+                "score": 0.4861
+            },
+            {
+                "keyword": "mercado of sport sporting",
+                "score": 0.4796
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXFEY0dGaHlNbUFIdC0wZDlMblFjZWUtYTJoVVJBdnh0UTlmd3RVQTFfN3ZOVjNfR0FJU1I0c0U5QTQzMFJ6TWgxT3o3ZGxmTWwzT2VVNTZrNURnaF9tbWtQUkwycjB4LXlUejhESlgyV3QtTU5FQjRSUTdxVjBqOUloZ2RQMmJWWmRic2ltdnZYZ2F1UmhBLWpFWDdBWE4zbldLd3VfQU1wVkFZX01hRG15RmR6VlhNelh4dzctZU9ILXEtbFVN?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 13:46:57 GMT",
+        "title_clean": "Everesting Solidário: João Nascimento vai fazer a subida Covilhã/Torre 7 vezes num dia",
+        "clean_text": "Everesting Solidário: João Nascimento vai fazer a subida Covilhã/Torre 7 vezes num dia. João Nascimento prepara-se para enfrentar um dos maiores desafios do ciclismo de resistência ao realizar um Everesting Solidário na Serra da Estrela, uma prova que consiste em acumular 8.848 metros de desnível positivo, o equivalente à altitude do Monte Evereste, numa única atividade. A iniciativa integra o projeto RAIZ e pretende ir muito além da vertente desportiva. O principal objetivo é angariar fundos para a Fundação ALO, contribuindo para o trabalho desenvolvido pela instituição junto de crianças e das suas famílias, ao mesmo tempo que sensibiliza a comunidade para esta causa solidária. Depois de ter ligado o Porto a Lisboa de bicicleta em apenas 14 horas, João Nascimento volta a desafiar os seus limites físicos e mentais, desta vez numa missão que alia a superação pessoal ao impacto social. \"Este desafio vai muito além da componente desportiva. Cada subida representa uma oportunidade para sensibilizar mais pessoas e apoiar o trabalho extraordinário que a Fundação ALO desenvolve. O verdadeiro objetivo não é apenas chegar ao topo, mas fazer com que esta iniciativa tenha um impacto real na vida de muitas crianças e das suas famílias\", afirma João Nascimento. O projeto RAIZ defende o desporto como uma ferramenta de transformação social, promovendo desafios que procuram inspirar pessoas, mobilizar parceiros e gerar impacto positivo nas comunidades. A iniciativa assenta na ideia de que cada conquista individual pode traduzir-se em benefícios para quem mais precisa. A chegada à Torre, ponto mais alto de Portugal Continental, terá um significado especial, contando com a presença de crianças e educadores da Fundação ALO. O momento pretende simbolizar os valores de união, superação e solidariedade que estão na base deste desafio. O RAIZ é um projeto que promove desafios de superação com impacto social, utilizando o desporto como ferramenta para inspirar pessoas, mobilizar comunidades e apoiar causas solidárias. Cada iniciativa procura deixar um legado positivo, demonstrando que o esforço individual pode gerar benefícios coletivos.",
+        "keywords": [
+            {
+                "keyword": "equivalente altitude monte",
+                "score": 0.608
+            },
+            {
+                "keyword": "altitude monte evereste única",
+                "score": 0.5827
+            },
+            {
+                "keyword": "quem precisa chegada torre",
+                "score": 0.578
+            },
+            {
+                "keyword": "precisa chegada torre ponto",
+                "score": 0.5719
+            },
+            {
+                "keyword": "positivo equivalente altitude monte",
+                "score": 0.5533
+            },
+            {
+                "keyword": "desafios superação",
+                "score": 0.5517
+            },
+            {
+                "keyword": "desafios ciclismo resistência realizar",
+                "score": 0.5483
+            },
+            {
+                "keyword": "resistência realizar everesting solidário",
+                "score": 0.5408
+            },
+            {
+                "keyword": "principal objetivo angariar",
+                "score": 0.539
+            },
+            {
+                "keyword": "prepara enfrentar maiores desafios",
+                "score": 0.5349
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXQzdktEVUdheFZjdDU1UC1rY1RXZGJHeXJfYVJHeHZaSnBoaThSSEV1MFNLd1hUel9Lb3NFcFZCb2ZxMHN5MFBMSm9mMERLX0Q1NzFrQVZqMDhNY3dzVUNWTTFfNDFkRnhOTXZJZ01FMURyUEl2bm03T0NxVjYtYWVJT0ZyYlNKMVhuMDl1TjNTNDQzaWZ4ODYwU2hfLVlTd20yUFF3M3c?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:27:03 GMT",
+        "title_clean": "União de Santarém estreia-se na Covilhã e recebe Oliveirense na 2.ª jornada - Correio do Ribatejo",
+        "clean_text": "União de Santarém estreia-se na Covilhã e recebe Oliveirense na 2.ª jornada - Correio do Ribatejo. A União Desportiva de Santarém inicia uma nova época futebolística na Liga 3 diante do Sporting da Covilhã, no dia 9 de agosto. O sorteio da época 2026/2027, realizado pela Federação Portuguesa de Futebol, decorreu esta quinta-feira, 16 de julho, na cidade do futebol. O calendário ditou o início da competição fora de casa para a equipa escalabitana, com uma deslocação à Serra da Estrela. A formação orientada por Gonçalo Carvalho vai estrear-se no Campo Chã das Padeiras no dia 16 de agosto, frente à UD Oliveirense, num jogo a contar para a segunda jornada da prova. A União Desportiva de Santarém integra a Série B da competição, juntamente com Atlético CP, CF \"Os Belenenses\", CD Mafra, Caldas SC, Louletano DC, Lusitano GC, Sporting da Covilhã, UD Oliveirense e GD Vitória de Sernache. Antes do arranque oficial do campeonato, o clube vai apresentar a equipa sénior no dia 31 de julho, às 19h00, no Campo Chã das Padeiras, frente à Académica de Coimbra.",
+        "keywords": [
+            {
+                "keyword": "união desportiva santarém inicia",
+                "score": 0.5957
+            },
+            {
+                "keyword": "calendário ditou início competição",
+                "score": 0.5631
+            },
+            {
+                "keyword": "desportiva santarém inicia nova",
+                "score": 0.5538
+            },
+            {
+                "keyword": "2027 realizado federação portuguesa",
+                "score": 0.5352
+            },
+            {
+                "keyword": "santarém inicia nova época",
+                "score": 0.5287
+            },
+            {
+                "keyword": "calendário ditou início",
+                "score": 0.5232
+            },
+            {
+                "keyword": "santarém estreia",
+                "score": 0.4946
+            },
+            {
+                "keyword": "desportiva santarém integra série",
+                "score": 0.4853
+            },
+            {
+                "keyword": "ribatejo união desportiva santarém",
+                "score": 0.4836
+            },
+            {
+                "keyword": "19h00 campo chã padeiras",
+                "score": 0.4745
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zQjQtVHVmUFdTUnItX1hDX2Fvc3hqM0lWUHFjUmk4Y3YwRlpqMVBaeVAxUkRVSFJEeFVFRUFuMDVoVVRTSlJ6Q0hQSkdpU2VEeW92eUxMNlh2N01kNDVSV1pONzVhUzg?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 10:21:00 GMT",
+        "title_clean": "Arquivo de reservas naturais",
+        "clean_text": "Arquivo de reservas naturais. Pular para o conteúdo Procurar Covilhã Região Belmonte Manteigas Fundão Educação Saúde Inovação Desporto Cultura Opinião Editorial Mundo Viver Covilhã Região Belmonte Manteigas Fundão Educação Saúde Inovação Desporto Cultura Opinião Editorial Mundo Viver LER SEMANÁRIO Procurar LER SEMANÁRIO Covilhã Região Belmonte Manteigas Fundão Educação Saúde Inovação Desporto Cultura Opinião Editorial Mundo Viver Covilhã Região Belmonte Manteigas Fundão Educação Saúde Inovação Desporto Cultura Opinião Editorial Mundo Viver A ver , Actualidade , Agenda , Centrais , Covilhã , Destaque , Região , Turismo , Viver PNSE vai voltar a ter diretor 17.07.2026 12:21 Joao Miguel Alves Covilhã Região Belmonte Manteigas Fundão Educação Saúde Inovação Desporto Cultura Opinião Editorial Mundo Viver Covilhã Região Belmonte Manteigas Fundão Educação Saúde Inovação Desporto Cultura Opinião Editorial Mundo Viver EDIÇÕES IMPRESSAS Ver Edições PONTOS DE DISTRIBUIÇÃO Mapa Facebook Instagram Copyright © 2026 Notícias da Covilhã",
+        "keywords": [
+            {
+                "keyword": "desporto cultura opinião editorial",
+                "score": 0.4916
+            },
+            {
+                "keyword": "saúde inovação desporto cultura",
+                "score": 0.451
+            },
+            {
+                "keyword": "inovação desporto cultura opinião",
+                "score": 0.4505
+            },
+            {
+                "keyword": "educação saúde inovação desporto",
+                "score": 0.445
+            },
+            {
+                "keyword": "saúde inovação desporto",
+                "score": 0.4416
+            },
+            {
+                "keyword": "desporto cultura",
+                "score": 0.4386
+            },
+            {
+                "keyword": "inovação desporto cultura",
+                "score": 0.4379
+            },
+            {
+                "keyword": "inovação desporto",
+                "score": 0.4281
+            },
+            {
+                "keyword": "editorial mundo viver edições",
+                "score": 0.4215
+            },
+            {
+                "keyword": "desporto cultura opinião",
+                "score": 0.4194
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVB2ZXJULXFxbnRSNkRfVmYwYmU5bGpoS1hyOE9lV0NQVzJDU0VsOEJtc19MMmVneWZpVW9TWV9SUWFCM085NWh4YUJXVDRGLXRNazNnYUE3QVEzM0xjOV9jam54LUVpR0F2QUpjTU56LXVkVFRDUHhLWEtZRmdIT2NSRVB2RzNtS0VLdDdMVGJ5NG5BRzNhY0JQekNaZHJRaVZVTnB4UWk2UDJucUhmQUtzYkUzX2c?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:33:00 GMT",
+        "title_clean": "PJ detém terceiro autor de sequestro, extorsão e roubo, na Covilhã",
+        "clean_text": "PJ detém terceiro autor de sequestro, extorsão e roubo, na Covilhã. A PJ, através do Departamento de Investigação Criminal da Guarda, após ações de recolha de informação criminal que apontavam que uma mulher, residente na Covilhã, teria sido alvo de um sequestro, seguido de roubo e extorsão, iniciou uma investigação, na qual foi esta 6ªfeira, 17 de julho, na zona da Marinha Grande, um terceiro autor da prática destes crimes. Tudo ocorreu porque a vítima forneceu quatro contas bancárias aos suspeitos, a fim de dissiparem o dinheiro proveniente da prática de crimes de tráfico de estupefacientes e burlas informáticas, ou seja, para \"branquearem\" tais montantes, explica a Polícia Judiciária. A dada altura, a mulher, que num primeiro momento se encontrava conivente com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolveu. Nesta 6ªfeira, foi possível localizar e deter mais um dos suspeitos e apreender importantes elementos de prova, tais como uma arma ilícita, pistola semiautomática, presumivelmente usada no cometimento dos crimes, frisa a PJ. O detido, com 33 anos, irá ser presente, amanhã, no Tribunal do Fundão, a fim de ser submetido a primeiro interrogatório judicial visando a aplicação de medidas de coação. O inquérito é titulado pelo DIAP de Castelo Branco.",
+        "keywords": [
+            {
+                "keyword": "informação criminal apontavam mulher",
+                "score": 0.6833
+            },
+            {
+                "keyword": "conivente suspeitos apoderou",
+                "score": 0.6765
+            },
+            {
+                "keyword": "sido alvo sequestro seguido",
+                "score": 0.6752
+            },
+            {
+                "keyword": "encontrava conivente suspeitos apoderou",
+                "score": 0.6703
+            },
+            {
+                "keyword": "sido alvo sequestro",
+                "score": 0.6633
+            },
+            {
+                "keyword": "teria sido alvo sequestro",
+                "score": 0.6574
+            },
+            {
+                "keyword": "suspeitos apoderou",
+                "score": 0.6544
+            },
+            {
+                "keyword": "detém terceiro autor sequestro",
+                "score": 0.6533
+            },
+            {
+                "keyword": "conivente suspeitos",
+                "score": 0.6507
+            },
+            {
+                "keyword": "criminal apontavam mulher",
+                "score": 0.642
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXYxeWZPUFNZTS1xaDNoejNkSkhGX0FBUll0NmFmU2libXZtMjJaQUpVTlVkMGU2cW1HVnZUMHp3dW9uNVh0aUZTYjlfNVJKVlBxU1FHREpub2tvUGppRHNsSlhvOVpETFh4Z2ROR3dzS000MThNNVJVMGRBSEQ5ZGhsLUNBMDNEV0NWSVhiZno2ZURZdEpZY2JyZEhfdEhmSl9hVGZ5YVo1Zm9CTG1tcUx3NnFvQVJKc19z?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:26:15 GMT",
+        "title_clean": "Portugal dá as boas-vindas à nova loja Action na Covilhã - The Portugal News",
+        "clean_text": "Portugal dá as boas-vindas à nova loja Action na Covilhã - The Portugal News. A Action , uma cadeia de lojas de descontos, prosseguiu a sua rápida expansão em todo o país com a abertura da sua 29.ª loja na região centro de Portugal. in · 17 jul 2026, 17:03 · 0 Comentários A cadeia holandesa inaugurou oficialmente a sua mais recente loja no Fundão na quinta-feira, 17 de julho, marcando a chegada da segunda loja Action ao distrito de Castelo Branco. Situada na Rua Cidade da Covilhã, esta nova filial criou 14 postos de trabalho, ocupa uma área de 864 metros quadrados e está aberta diariamente das 9h00 às 21h00. Produtos internacionais As prateleiras estão repletas de cerca de 6 000 produtos distribuídos por 14 categorias diferentes, onde os clientes podem encontrar artigos para o lar, produtos essenciais de cozinha, brinquedos, material escolar, artigos de decoração, ferramentas de jardinagem e muito mais. Segundo a Action, a loja apresenta cerca de 150 produtos todas as semanas, mantendo o preço médio dos artigos da sua gama abaixo dos 2 €. Para além de artigos para o lar, os clientes também podem encontrar uma seleção de alimentos e bebidas, incluindo snacks, bolachas, doces, refrigerantes e sumos, com marcas conhecidas e produtos internacionais menos comuns em Portugal. Conceito de retalho Sofia Mendonça, Diretora-Geral da Action em Portugal, afirmou que a empresa estava satisfeita por abrir no Fundão pouco mais de dois anos após o lançamento no mercado português. Afirmou ainda que a retalhista tinha recebido uma recepção calorosa por parte dos clientes e que estava encantada por levar o seu conceito de retalho de baixo custo a mais comunidades, acrescentando que o crescimento contínuo da empresa reflete tanto o seu modelo de negócio como o empenho dos seus colaboradores. A 29 de fevereiro de 2024, a Action entrou no mercado português com a abertura da sua primeira loja em Vila Nova de Gaia e, desde então, tem-se expandido de forma constante por todo o país, à medida que a procura pelos seus produtos domésticos e de uso diário a preços baixos continua a crescer. Fundada na Holanda, a Action opera atualmente mais de 3 300 lojas em 15 países europeus e recebe mais de 22 milhões de clientes todas as semanas.",
+        "keywords": [
+            {
+                "keyword": "vindas nova loja action",
+                "score": 0.6777
+            },
+            {
+                "keyword": "chegada segunda loja action",
+                "score": 0.6725
+            },
+            {
+                "keyword": "loja região centro portugal",
+                "score": 0.6637
+            },
+            {
+                "keyword": "nova loja action",
+                "score": 0.6573
+            },
+            {
+                "keyword": "segunda loja action distrito",
+                "score": 0.6565
+            },
+            {
+                "keyword": "action portugal empresa",
+                "score": 0.6512
+            },
+            {
+                "keyword": "action entrou mercado português",
+                "score": 0.6465
+            },
+            {
+                "keyword": "action loja apresenta",
+                "score": 0.638
+            },
+            {
+                "keyword": "segunda loja action",
+                "score": 0.6307
+            },
+            {
+                "keyword": "português abertura primeira loja",
+                "score": 0.6255
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHZDYjJMTmQzQjIzbjhmSl9nNnZZb2dRbjN0T1VsdWd4Tk80M2ZYZEJZYjZ0bDZtSVNqUU83dmJFcWVFSU40amJVVkJ1RXlKb2ZYb0xBWkdIcTlaRGVESTdqQjhLQ3ZqdmNVMkt4NFdrakI4QnVSRzA3eDczU3pWcFpMQjFBei1IajBJNkF6a0lwWkVudW4xYzFhaHl3Vkgta3pqTmYwNzU1dVhFcV9xX3V3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:33:00 GMT",
+        "title_clean": "PJ detém terceiro autor de sequestro, extorsão e roubo, na Covilhã",
+        "clean_text": "PJ detém terceiro autor de sequestro, extorsão e roubo, na Covilhã. A PJ, através do Departamento de Investigação Criminal da Guarda, após ações de recolha de informação criminal que apontavam que uma mulher, residente na Covilhã, teria sido alvo de um sequestro, seguido de roubo e extorsão, iniciou uma investigação, na qual foi esta 6ªfeira, 17 de julho, na zona da Marinha Grande, um terceiro autor da prática destes crimes. Tudo ocorreu porque a vítima forneceu quatro contas bancárias aos suspeitos, a fim de dissiparem o dinheiro proveniente da prática de crimes de tráfico de estupefacientes e burlas informáticas, ou seja, para \"branquearem\" tais montantes, explica a Polícia Judiciária. A dada altura, a mulher, que num primeiro momento se encontrava conivente com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolveu. Nesta 6ªfeira, foi possível localizar e deter mais um dos suspeitos e apreender importantes elementos de prova, tais como uma arma ilícita, pistola semiautomática, presumivelmente usada no cometimento dos crimes, frisa a PJ. O detido, com 33 anos, irá ser presente, amanhã, no Tribunal do Fundão, a fim de ser submetido a primeiro interrogatório judicial visando a aplicação de medidas de coação. O inquérito é titulado pelo DIAP de Castelo Branco.",
+        "keywords": [
+            {
+                "keyword": "informação criminal apontavam mulher",
+                "score": 0.6833
+            },
+            {
+                "keyword": "conivente suspeitos apoderou",
+                "score": 0.6765
+            },
+            {
+                "keyword": "sido alvo sequestro seguido",
+                "score": 0.6752
+            },
+            {
+                "keyword": "encontrava conivente suspeitos apoderou",
+                "score": 0.6703
+            },
+            {
+                "keyword": "sido alvo sequestro",
+                "score": 0.6633
+            },
+            {
+                "keyword": "teria sido alvo sequestro",
+                "score": 0.6574
+            },
+            {
+                "keyword": "suspeitos apoderou",
+                "score": 0.6544
+            },
+            {
+                "keyword": "detém terceiro autor sequestro",
+                "score": 0.6533
+            },
+            {
+                "keyword": "conivente suspeitos",
+                "score": 0.6507
+            },
+            {
+                "keyword": "criminal apontavam mulher",
+                "score": 0.642
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KYWxpeDlqRU1faklZS21EeU9yanhxUy1uNW5ONk1xc0JFQTZxVE5pUjVmcDlXWC1qNkU3QTNyUTc3c1c4VkJVcXNQTE1tWDFhOUl6NnBsRHRCbzBN?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 15:09:26 GMT",
+        "title_clean": "Sporting da Covilhã - Mais Ribatejo",
+        "clean_text": "Sporting da Covilhã - Mais Ribatejo. O armazenamento ou acesso técnico é estritamente necessário para o fim legítimo de permitir a utilização de um determinado serviço expressamente solicitado pelo assinante ou utilizador, ou para o fim exclusivo de efetuar a transmissão de uma comunicação numa rede de comunicações eletrónicas. O armazenamento ou acesso técnico é estritamente necessário para o fim legítimo de permitir a utilização de um determinado serviço expressamente solicitado pelo assinante ou utilizador, ou para o fim exclusivo de efetuar a transmissão de uma comunicação numa rede de comunicações eletrónicas. O armazenamento ou acesso técnico é necessário para o propósito legítimo de armazenamento de preferências não solicitadas pelo assinante ou utilizador. O armazenamento ou acesso técnico é necessário para o propósito legítimo de armazenamento de preferências não solicitadas pelo assinante ou utilizador. Estatísticas Estatísticas",
+        "keywords": [
+            {
+                "keyword": "comunicações eletrónicas armazenamento acesso",
+                "score": 0.722
+            },
+            {
+                "keyword": "armazenamento acesso técnico necessário",
+                "score": 0.7019
+            },
+            {
+                "keyword": "rede comunicações eletrónicas armazenamento",
+                "score": 0.6962
+            },
+            {
+                "keyword": "necessário propósito legítimo armazenamento",
+                "score": 0.6891
+            },
+            {
+                "keyword": "comunicações eletrónicas armazenamento",
+                "score": 0.6833
+            },
+            {
+                "keyword": "propósito legítimo armazenamento",
+                "score": 0.6813
+            },
+            {
+                "keyword": "eletrónicas armazenamento acesso técnico",
+                "score": 0.6784
+            },
+            {
+                "keyword": "armazenamento acesso técnico",
+                "score": 0.6762
+            },
+            {
+                "keyword": "eletrónicas armazenamento acesso",
+                "score": 0.661
+            },
+            {
+                "keyword": "armazenamento acesso técnico estritamente",
+                "score": 0.6607
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWZXU3JLeDh2MWItSzJhMUw4T2d2MlduVjA2WDdKRjdZeWR2WWRxS3JwZ1NkWnBsUHRJWXhrRkdzTGt6ZEg0anRQMDIxRGhUdEt6c0ZNeUItNFJYdTBVa1RZcm5XNWM3S1BRQ3haTktOQkRWLUZLNlZKdksyTUdVWTlTbDlGREdXalNOOFZ1REdqMWR4dnNaR0VURWM5Qmh6Z2ZHd2hGbi1Xc3M?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:15:00 GMT",
+        "title_clean": "Portugal recebe nova loja Action na Covilhã - The Portugal News",
+        "clean_text": "Portugal recebe nova loja Action na Covilhã - The Portugal News. Action , uma varejista de descontos, continuou sua rápida expansão em Portugal com a abertura de sua 29ª loja na região central do país. in · 17 Goue 2026, 17:03 · 0 Comentários A rede holandesa abriu oficialmente seu último outlet no Fundão na quinta-feira, 17 de julho, quando o distrito de Castelo Branco recebe sua segunda loja Action. Localizada na Rua Cidade da Covilhã, esta nova filial criou 14 empregos, cobrindo 864 metros quadrados e está aberta diariamente das 9h às 21h. Produtos internacionais As prateleiras são abastecidas com cerca de 6.000 produtos em 14 categorias diferentes, onde os clientes podem procurar utensílios domésticos, itens essenciais de cozinha, brinquedos, material escolar, itens decorativos, ferramentas de jardinagem e muito mais. De acordo com a Action, a loja apresenta cerca de 150 produtos toda semana, com o preço médio dos itens de sua linha permanecendo abaixo de €2. Além de utensílios domésticos, os compradores também podem encontrar uma seleção de alimentos e bebidas, incluindo lanches, biscoitos, confeitaria, refrigerantes e sucos, com marcas conhecidas e produtos internacionais que são menos comuns em Portugal. conceito de varejo Sofia Mendonça, gerente geral da Action em Portugal, disse que a empresa teve o prazer de abrir no Fundão pouco mais de dois anos após o lançamento no mercado português. Ela também afirmou que o varejista recebeu uma recepção calorosa dos clientes e ficou encantada em levar seu conceito de varejo de baixo custo a mais comunidades, acrescentando que o crescimento contínuo da empresa reflete tanto seu modelo de negócios quanto o compromisso de seus funcionários. Em 29 de fevereiro de 2024, a Action entrou no mercado português com a abertura de sua primeira loja em Vila Nova de Gaia e, desde então, tem se expandido constantemente em todo o país, à medida que a demanda por seus produtos domésticos e de uso diário de baixo preço continuou a crescer. Fundada na Holanda, a Action agora opera mais de 3.300 lojas em 15 países europeus e recebe mais de 22 milhões de clientes todas as semanas.",
+        "keywords": [
+            {
+                "keyword": "portugal recebe nova loja",
+                "score": 0.7413
+            },
+            {
+                "keyword": "portugal abertura 29ª loja",
+                "score": 0.7065
+            },
+            {
+                "keyword": "action entrou mercado português",
+                "score": 0.6814
+            },
+            {
+                "keyword": "expansão portugal abertura 29ª",
+                "score": 0.6528
+            },
+            {
+                "keyword": "lançamento mercado português ela",
+                "score": 0.6447
+            },
+            {
+                "keyword": "expansão portugal abertura",
+                "score": 0.6395
+            },
+            {
+                "keyword": "lançamento mercado português",
+                "score": 0.6395
+            },
+            {
+                "keyword": "entrou mercado português abertura",
+                "score": 0.6327
+            },
+            {
+                "keyword": "mercado português abertura",
+                "score": 0.6274
+            },
+            {
+                "keyword": "entrou mercado português",
+                "score": 0.6205
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGdINFFoTmpLZEZNdEhwb1N3OXp2UXdsUHljb2h4RC1xRTJlcjRGYWt0SllKRWV6eFNOWlJ1U3dVZHpqeDU1ZVhfX2hrb0E1bE9MYnBKRHhhVk0zZDd1OTNBQmlaVDhLVEpLUE9mY29uUU5VOUt3ZHREbGNzdXl5Z3ZwelZ2dm13ZGZFdmlkeGM0Vnp5Zm1rZ2FNaTJzbzdiTGtzakx6aVJXZjVfQWc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:44:57 GMT",
+        "title_clean": "COVILHÃ: PJ detém terceiro autor de sequestro, extorsão e roubo",
+        "clean_text": "COVILHÃ: PJ detém terceiro autor de sequestro, extorsão e roubo. A Polícia Judiciária, através do Departamento de Investigação Criminal da Guarda, após ações de recolha de informação criminal que apontavam que uma mulher, residente na cidade da Covilhã, teria sido alvo de um sequestro, seguido de roubo e extorsão, iniciou uma investigação, na qual foi detido, hoje, na zona da Marinha Grande, um terceiro autor da prática destes crimes. Tudo ocorreu porque a vítima forneceu quatro contas bancárias aos suspeitos, a fim de dissiparem o dinheiro proveniente da prática de crimes de tráfico de estupefacientes e burlas informáticas, ou seja, para \"branquearem\" tais montantes. A dada altura, a mulher, que num primeiro momento se encontrava conivente com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolveu. No dia de hoje, foi possível localizar e deter mais um dos suspeitos e apreender importantes elementos de prova, tais como uma arma ilícita, pistola semiautomática, presumivelmente usada no cometimento dos crimes. O detido, com 33 anos, irá ser presente, amanhã, no Tribunal do Fundão, a fim de ser submetido a primeiro interrogatório judicial visando a aplicação de medidas de coação. O inquérito é titulado pelo DIAP de Castelo Branco.",
+        "keywords": [
+            {
+                "keyword": "detém terceiro autor sequestro",
+                "score": 0.7063
+            },
+            {
+                "keyword": "conivente suspeitos apoderou",
+                "score": 0.6778
+            },
+            {
+                "keyword": "terceiro autor sequestro",
+                "score": 0.6701
+            },
+            {
+                "keyword": "informação criminal apontavam mulher",
+                "score": 0.6681
+            },
+            {
+                "keyword": "conivente suspeitos",
+                "score": 0.657
+            },
+            {
+                "keyword": "sido alvo sequestro seguido",
+                "score": 0.6526
+            },
+            {
+                "keyword": "encontrava conivente suspeitos apoderou",
+                "score": 0.6505
+            },
+            {
+                "keyword": "sido alvo sequestro",
+                "score": 0.6498
+            },
+            {
+                "keyword": "criminal apontavam mulher",
+                "score": 0.646
+            },
+            {
+                "keyword": "suspeitos apoderou",
+                "score": 0.6441
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVcxMWhYamY2ZXJqTWthY2lnMVNGSXBIQTM2S0dtUXNoSHd3YWlwZXE3REUxYlFYcENfc1hfQWN3Y21pYVRuUW5MRnVSeGV4M2RDSV8ydzR5VGZKYVFiWXhVWVJyVW9XRzRwdjRpcEVTdEFWQ1loMlVyNWY1NEhJeEl2d2FxSmU3SWVNZ0RxQlo3bkN2U0gzdi1yTGtKUDZMdklrZzRrei0wUFB5akdjeTZ3QTdyRFQ4UjExVVFTejl5MHp6dmJzNUUtbXpEcHVZb1hOc1Q3aGhwaHpYTWMwSThB?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:59:00 GMT",
+        "title_clean": "PJ detém elemento de grupo criminoso que fingia ter ligação ao PCC e que sequestrou mulher na Covilhã - Now Canal",
+        "clean_text": "PJ detém elemento de grupo criminoso que fingia ter ligação ao PCC e que sequestrou mulher na Covilhã - Now Canal. Adicione como fonte preferencial no Google O homem, de 33 anos, foi detido na Marinha Grande O grupo dedicava-se, sobretudo, a tráfico de droga e a burlas informáticas, mas no início deste a ano a atividade criminosa escalou para sequestro, extorsão e roubo. Os suspeitos alegavam uma inexistente ligação ao grupo criminoso brasileiro Primeiro Comando da Capital - ou PCC - para intimidar as vítimas. Os dois primeiros membros do gangue já haviam sido detidos a 27 de março. Esta sexta-feira, quase quatro meses depois, a PJ conseguiu localizar e deter o terceiro elemento na Marinha Grande. Tinha na sua posse uma pistola automática que terá usado durante os crimes de que é suspeito. A investigação começou depois da denúncia de uma mulher na Covilhã que, num primeiro momento, foi conivente com os suspeitos ao fornecer-lhes o acesso a quatro contas bancárias para que pudessem dissipar e branquear o dinheiro proveniente do tráfico e das burlas informáticas. A determinada altura, a mulher apoderou-se de uma elevada quantia que não devolveu e tornou-se vítima: foi sequestrada pelo grupo que lhe roubou todos os equipamentos eletrónicos que tinha em casa. O suspeito vai ser este sábado presente a juiz no Tribunal do Fundão, onde já tinham sido ouvidos os dois primeiros detidos a 28 de Março. Nesse dia, voltaram a usar a falsa ligação ao PCC para ameaçar as próprias autoridades, mas acabaram por sair com medidas de coação não privativas da liberdade.",
+        "keywords": [
+            {
+                "keyword": "ligação grupo criminoso brasileiro",
+                "score": 0.675
+            },
+            {
+                "keyword": "grupo criminoso brasileiro",
+                "score": 0.6592
+            },
+            {
+                "keyword": "grupo criminoso brasileiro primeiro",
+                "score": 0.6458
+            },
+            {
+                "keyword": "criminoso brasileiro",
+                "score": 0.6444
+            },
+            {
+                "keyword": "criminoso brasileiro primeiro comando",
+                "score": 0.6325
+            },
+            {
+                "keyword": "criminoso brasileiro primeiro",
+                "score": 0.6229
+            },
+            {
+                "keyword": "grupo criminoso fingia ligação",
+                "score": 0.5975
+            },
+            {
+                "keyword": "detém elemento grupo criminoso",
+                "score": 0.5854
+            },
+            {
+                "keyword": "elemento grupo criminoso fingia",
+                "score": 0.5811
+            },
+            {
+                "keyword": "detido marinha grande grupo",
+                "score": 0.5716
+            }
+        ],
+        "source_name": null
     }
 ]

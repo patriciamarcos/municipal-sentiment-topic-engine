@@ -119709,6 +119709,630 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxQSG5SZmhBMWxZWkJOX1lCT3FMYU5XNU12OHRUWHdFcXR0ZmVuYlYtckwtb09nYTMxSWNtSFJxREhlTnpGRl8wc01YX2ZHRThMOFd1S3Y5Zm9Qd3Ytc0UxUHZsYkh6QnVnNzZMb3ZSdEpERUVRRzI4V1FNaUU3OTRaOWhJUENKTDJmQ1JGVlBlV2EzUlNZQURlcnFGONIBjAFBVV95cUxNYTB3eDlMOFhmQjU3ZjNwV0hxbDhySHhwbnd3N1AtYmpIZ2lRa0Z4TkxQcTJ5LXNUbHk1eTNkdGNVeVZUbnlnNmxZNjlySUN6akZKX0VUb25TZk54SzBvalFiQWZUbVo1Vy1PVnZOaGREeHpObDVCcXZqSWU5VjJCWVMyalVNN0k1NnpwSQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:45:00 GMT",
+        "title_clean": "Três detidos por sequestro, extorsão e roubo na Covilhã - Jornal de Notícias",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTE9QcjV6dEFqZmp1OVZsMUpsNGxfdlY0aTJfTk5yWHpaQUVqN2F4bnZOU1pEbndkalRuUFVDS2xMdDZtVzBNWnNmWkNLZk1ucDA1RWpuZ0xwbWNGWkJ0RWhUd1VfekNyb1Q1R1hrWU5aMHZCb08tQmllR3Z3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 08:30:00 GMT",
+        "title_clean": "Preço das casas está a subir no Interior",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Bragança",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Real",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Madeira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFFURmtnR0t6RE1BeXQxcE4wWWxVZkFqd2dSMTJEYzdxRVVZRWFwbFlxYzdyY3h4ay1HRGQwVEtSdVV3emMweXUwcG9vRWZ2MTVwQUFoODAyVmZlYVo5TUJVbG9pTzhLaW5tLVp3VUFpSExJa2d2cGxIQXoybWlwMjhkSGdZaDd3bnpqN1hn?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 13:45:57 GMT",
+        "title_clean": "PJ detém suspeito de sequestro, extorsão e roubo na Covilhã - Jornal A Guarda",
+        "entities": [
+            {
+                "text": "A Guarda",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzJydGx1czR5SGJLVUgxbzVzNTh3LXBIUzBMd1UtZTJQbWI2aDRFWTRnY2N6c2ozS0NZdmpfeGUwNm01ZUFtaWtlQkRrbTBvWUlUOTB3czRwRW5SX2hIbmVVckQ5ZmtrS3VLRVJkSmM4cWh5Q1dHakM5em9ZRU03bzFDUWFtbVM1M0tyeVQtRERkeDJjYXRydmg0TEIySG44cHF3M2JEYlEySmktckEyN05sZjFOdGpGOW93cTgxcXV0Nlk?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 08:36:32 GMT",
+        "title_clean": "Bombeiros Voluntários da Covilhã distinguem Chefe Armando Maria com Voto de Louvor",
+        "entities": [
+            {
+                "text": "Direção",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Humanitária dos Bombeiros Voluntários da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "República Bolivariana da Venezuela",
+                "label": "LOC"
+            },
+            {
+                "text": "Armando Maria",
+                "label": "PER"
+            },
+            {
+                "text": "Governo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombeiros Portugueses",
+                "label": "ORG"
+            },
+            {
+                "text": "Armando Proença Maria",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZWHpRdnNaZzkwczBBR1lfaTMxVkpuMkljeTlVdlNaMFJTbmp3VHZOWDBqX2ZDcU10dTF1dnF5c0lUYkJRT3BsalZzSTJyUkZxU24zRWg5NFdJYmU2VmkzLUhDcWR2QnN3M2R3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 10:21:00 GMT",
+        "title_clean": "PNSE vai voltar a ter diretor",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto da Conservação, Natureza e Floresta",
+                "label": "ORG"
+            },
+            {
+                "text": "Maria da Graça Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Parque Natural da Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Manteigas",
+                "label": "ORG"
+            },
+            {
+                "text": "Flávio Massano",
+                "label": "PER"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxNRk8zak5WSFp3STFaRy1EWlpCNWJkR3l0eVJuZlZCYlJ0VUFQRTRMQ0FRa3pmNUdfZWVkY1ltUTZJS21HTlhwYmdMa0pYN29wSzVPSXkta0NhRlV4Sy1xd1JGcHo3MDN4N3EydjdDYmtOVEk4bzFtVDB0NEpsYUZNekVzYkowN3BVekNQbE81MTFPVjczRHQ1elFaMzNfLUt0TFQ0MmI0NGlIV3dISko1LQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:18:48 GMT",
+        "title_clean": "Detido terceiro suspeito de sequestro, extorsão e roubo na Covilhã - Notícias ao Minuto",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxNelN3U0pyZE5ZcUNDYWI0R3hqbFIyUDhiUkJZdFgwVUNCZzJtTEVqM0FPbTJWX29lUEZ4SktCUDNsTXFQR0VCejVPNkxKMExmQTN6QjZRVUM2bm1BUF9YNWFCV3cya3FRWmhMWmJhWmRMTEhEaXhFQUhVTlgzdTFRalRPMUwyMFRETnl4WFo5UTJsbkI0NTE3UWNUUUVtWDRYQXh5Nm9PeHVsc2pvanhN?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 10:04:39 GMT",
+        "title_clean": "PJ detém terceiro suspeito de sequestro, roubo e extorsão na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Departamento de Investigação Criminal",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Departamento de Investigação e Ação Penal",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0JmZ3Y2X3ZNMmNfUDQydXhSSlUwcUpvS0FqY3R6WFN4ZDUxY3J4Mjk5NXM2SldQTS02dnJyVGwxNzhCejcxdDd3eHNVSVc4S3RpTnVEcWsxcUp2TWhFNzA0MDRQTDFJLURpSXRuaVBrV1BhbFZycmstQjdLSU1uak55bXVYWHRLeXpjVW53M0lxcmdZZmc2MlJoc2lETGNsMC1aSmM4Mk9VdmVrM1FyVmNmY0dvVDZUSW5oSnRtdWRGckZqa2llU0RpWDFUd0NXRmc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:30:32 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã oficializa equipa técnica liderada por Dani Matos",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXFEY0dGaHlNbUFIdC0wZDlMblFjZWUtYTJoVVJBdnh0UTlmd3RVQTFfN3ZOVjNfR0FJU1I0c0U5QTQzMFJ6TWgxT3o3ZGxmTWwzT2VVNTZrNURnaF9tbWtQUkwycjB4LXlUejhESlgyV3QtTU5FQjRSUTdxVjBqOUloZ2RQMmJWWmRic2ltdnZYZ2F1UmhBLWpFWDdBWE4zbldLd3VfQU1wVkFZX01hRG15RmR6VlhNelh4dzctZU9ILXEtbFVN?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 13:46:57 GMT",
+        "title_clean": "Everesting Solidário: João Nascimento vai fazer a subida Covilhã/Torre 7 vezes num dia",
+        "entities": [
+            {
+                "text": "João Nascimento",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Monte Evereste",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundação ALO",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal Continental",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXQzdktEVUdheFZjdDU1UC1rY1RXZGJHeXJfYVJHeHZaSnBoaThSSEV1MFNLd1hUel9Lb3NFcFZCb2ZxMHN5MFBMSm9mMERLX0Q1NzFrQVZqMDhNY3dzVUNWTTFfNDFkRnhOTXZJZ01FMURyUEl2bm03T0NxVjYtYWVJT0ZyYlNKMVhuMDl1TjNTNDQzaWZ4ODYwU2hfLVlTd20yUFF3M3c?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:27:03 GMT",
+        "title_clean": "União de Santarém estreia-se na Covilhã e recebe Oliveirense na 2.ª jornada - Correio do Ribatejo",
+        "entities": [
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Correio do Ribatejo",
+                "label": "ORG"
+            },
+            {
+                "text": "União Desportiva de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Liga 3",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Portuguesa de Futebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Gonçalo Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Campo Chã das Padeiras",
+                "label": "LOC"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "CF \"Os Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano DC",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano GC",
+                "label": "ORG"
+            },
+            {
+                "text": "GD Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Académica de Coimbra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zQjQtVHVmUFdTUnItX1hDX2Fvc3hqM0lWUHFjUmk4Y3YwRlpqMVBaeVAxUkRVSFJEeFVFRUFuMDVoVVRTSlJ6Q0hQSkdpU2VEeW92eUxMNlh2N01kNDVSV1pONzVhUzg?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 10:21:00 GMT",
+        "title_clean": "Arquivo de reservas naturais",
+        "entities": [
+            {
+                "text": "Região Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Joao Miguel Alves",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVB2ZXJULXFxbnRSNkRfVmYwYmU5bGpoS1hyOE9lV0NQVzJDU0VsOEJtc19MMmVneWZpVW9TWV9SUWFCM085NWh4YUJXVDRGLXRNazNnYUE3QVEzM0xjOV9jam54LUVpR0F2QUpjTU56LXVkVFRDUHhLWEtZRmdIT2NSRVB2RzNtS0VLdDdMVGJ5NG5BRzNhY0JQekNaZHJRaVZVTnB4UWk2UDJucUhmQUtzYkUzX2c?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:33:00 GMT",
+        "title_clean": "PJ detém terceiro autor de sequestro, extorsão e roubo, na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Departamento de Investigação Criminal da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXYxeWZPUFNZTS1xaDNoejNkSkhGX0FBUll0NmFmU2libXZtMjJaQUpVTlVkMGU2cW1HVnZUMHp3dW9uNVh0aUZTYjlfNVJKVlBxU1FHREpub2tvUGppRHNsSlhvOVpETFh4Z2ROR3dzS000MThNNVJVMGRBSEQ5ZGhsLUNBMDNEV0NWSVhiZno2ZURZdEpZY2JyZEhfdEhmSl9hVGZ5YVo1Zm9CTG1tcUx3NnFvQVJKc19z?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:26:15 GMT",
+        "title_clean": "Portugal dá as boas-vindas à nova loja Action na Covilhã - The Portugal News",
+        "entities": [
+            {
+                "text": "The Portugal News Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Cidade da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Mendonça",
+                "label": "PER"
+            },
+            {
+                "text": "Diretor",
+                "label": "ORG"
+            },
+            {
+                "text": "Vila Nova de Gaia",
+                "label": "LOC"
+            },
+            {
+                "text": "Holanda",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHZDYjJMTmQzQjIzbjhmSl9nNnZZb2dRbjN0T1VsdWd4Tk80M2ZYZEJZYjZ0bDZtSVNqUU83dmJFcWVFSU40amJVVkJ1RXlKb2ZYb0xBWkdIcTlaRGVESTdqQjhLQ3ZqdmNVMkt4NFdrakI4QnVSRzA3eDczU3pWcFpMQjFBei1IajBJNkF6a0lwWkVudW4xYzFhaHl3Vkgta3pqTmYwNzU1dVhFcV9xX3V3?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:33:00 GMT",
+        "title_clean": "PJ detém terceiro autor de sequestro, extorsão e roubo, na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Departamento de Investigação Criminal da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KYWxpeDlqRU1faklZS21EeU9yanhxUy1uNW5ONk1xc0JFQTZxVE5pUjVmcDlXWC1qNkU3QTNyUTc3c1c4VkJVcXNQTE1tWDFhOUl6NnBsRHRCbzBN?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 15:09:26 GMT",
+        "title_clean": "Sporting da Covilhã - Mais Ribatejo",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Ribatejo",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWZXU3JLeDh2MWItSzJhMUw4T2d2MlduVjA2WDdKRjdZeWR2WWRxS3JwZ1NkWnBsUHRJWXhrRkdzTGt6ZEg0anRQMDIxRGhUdEt6c0ZNeUItNFJYdTBVa1RZcm5XNWM3S1BRQ3haTktOQkRWLUZLNlZKdksyTUdVWTlTbDlGREdXalNOOFZ1REdqMWR4dnNaR0VURWM5Qmh6Z2ZHd2hGbi1Xc3M?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:15:00 GMT",
+        "title_clean": "Portugal recebe nova loja Action na Covilhã - The Portugal News",
+        "entities": [
+            {
+                "text": "The Portugal News Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "The Portugal News. Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Cidade da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Mendonça",
+                "label": "PER"
+            },
+            {
+                "text": "Vila Nova de Gaia",
+                "label": "LOC"
+            },
+            {
+                "text": "Holanda",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGdINFFoTmpLZEZNdEhwb1N3OXp2UXdsUHljb2h4RC1xRTJlcjRGYWt0SllKRWV6eFNOWlJ1U3dVZHpqeDU1ZVhfX2hrb0E1bE9MYnBKRHhhVk0zZDd1OTNBQmlaVDhLVEpLUE9mY29uUU5VOUt3ZHREbGNzdXl5Z3ZwelZ2dm13ZGZFdmlkeGM0Vnp5Zm1rZ2FNaTJzbzdiTGtzakx6aVJXZjVfQWc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:44:57 GMT",
+        "title_clean": "COVILHÃ: PJ detém terceiro autor de sequestro, extorsão e roubo",
+        "entities": [
+            {
+                "text": "COVILH",
+                "label": "LOC"
+            },
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Departamento de Investigação Criminal da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVcxMWhYamY2ZXJqTWthY2lnMVNGSXBIQTM2S0dtUXNoSHd3YWlwZXE3REUxYlFYcENfc1hfQWN3Y21pYVRuUW5MRnVSeGV4M2RDSV8ydzR5VGZKYVFiWXhVWVJyVW9XRzRwdjRpcEVTdEFWQ1loMlVyNWY1NEhJeEl2d2FxSmU3SWVNZ0RxQlo3bkN2U0gzdi1yTGtKUDZMdklrZzRrei0wUFB5akdjeTZ3QTdyRFQ4UjExVVFTejl5MHp6dmJzNUUtbXpEcHVZb1hOc1Q3aGhwaHpYTWMwSThB?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 17:59:00 GMT",
+        "title_clean": "PJ detém elemento de grupo criminoso que fingia ter ligação ao PCC e que sequestrou mulher na Covilhã - Now Canal",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Now Canal",
+                "label": "LOC"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Primeiro Comando da Capital",
+                "label": "ORG"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
