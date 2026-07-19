@@ -6509,5 +6509,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:6aqpawx7s7npelfruizmyi2q/app.bsky.feed.post/3mqzgl6afk22y",
+        "source": "bluesky",
+        "created_at": "2026-07-19T18:41:11.872Z",
+        "title_clean": "",
+        "clean_text": "curitibaeparanaemfotosantigas.blogspot.com/2026/07/covi...",
+        "keywords": [
+            {
+                "keyword": "curitibaeparanaemfotosantigas blogspot 2026 07",
+                "score": 0.9164
+            },
+            {
+                "keyword": "curitibaeparanaemfotosantigas blogspot 2026",
+                "score": 0.9135
+            },
+            {
+                "keyword": "curitibaeparanaemfotosantigas blogspot",
+                "score": 0.8757
+            },
+            {
+                "keyword": "blogspot 2026 07 covi",
+                "score": 0.7723
+            },
+            {
+                "keyword": "blogspot 2026 07",
+                "score": 0.7348
+            },
+            {
+                "keyword": "blogspot 2026",
+                "score": 0.7114
+            },
+            {
+                "keyword": "2026 07 covi",
+                "score": 0.5093
+            },
+            {
+                "keyword": "07 covi",
+                "score": 0.4627
+            }
+        ],
+        "source_name": null
     }
 ]

@@ -120685,6 +120685,50 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUVNcVAtczk0OUFNMU42UkNWTGdxTTBFS3hBSDdlYU45WFIyaDgtSElydG9fcVVUVXVEd0U3cmtQTDNGN1Rldk9BMkhwakdRdzJzdzZQeTlMazhBSjY2VHA4dVhIMlUtVGRyeWE3VlNQYzRfekhGVUF2OW0wSElQNVJ6ZmstSDl3NnFZNnY1Z3U3WlBnNVZBNUR2UElTazdQeFl3T3p4ZHJuQXpwV0Y2cmRGUzJtNkJsQW5SRVdfVUlLd9IBvAFBVV95cUxNdUp6YnpPb3BLTnlSREFpVjl2b2tiM3FzRVN2b1JzejBKOUpyQkllbUpObW1nLU9BN1NrMFFBQVVKSVVMR1BGd2ZEVGQybm05R2NZQ1FKZVhSY3M4RUNZREZGczlKTXZ2Q25yNzhmRHJYVkxwRXRXckg0RnYza3lYSWluMlVGZXpjZ0hmVmlDZGI2UHdkU2tnLXRMeVNPS2JNRk54UTRCWjh5WllNaGp5VE5aWDBwdno0MTZkNQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:18:34 GMT",
+        "title_clean": "Polícia Judiciária detém terceiro suspeito de sequestro, extorsão e roubo na Covilhã - Correio da Manhã",
+        "entities": [
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Correio da Manhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Departamento de Investigação Criminal da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "DIC da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Departamento de Investigação e Ação Penal",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -124235,6 +124279,13 @@
                 "label": "LOC"
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:6aqpawx7s7npelfruizmyi2q/app.bsky.feed.post/3mqzgl6afk22y",
+        "source": "bluesky",
+        "created_at": "2026-07-19T18:41:11.872Z",
+        "title_clean": "",
+        "entities": []
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",

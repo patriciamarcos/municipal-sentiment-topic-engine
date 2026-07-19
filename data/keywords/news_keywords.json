@@ -123316,5 +123316,55 @@
             }
         ],
         "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUVNcVAtczk0OUFNMU42UkNWTGdxTTBFS3hBSDdlYU45WFIyaDgtSElydG9fcVVUVXVEd0U3cmtQTDNGN1Rldk9BMkhwakdRdzJzdzZQeTlMazhBSjY2VHA4dVhIMlUtVGRyeWE3VlNQYzRfekhGVUF2OW0wSElQNVJ6ZmstSDl3NnFZNnY1Z3U3WlBnNVZBNUR2UElTazdQeFl3T3p4ZHJuQXpwV0Y2cmRGUzJtNkJsQW5SRVdfVUlLd9IBvAFBVV95cUxNdUp6YnpPb3BLTnlSREFpVjl2b2tiM3FzRVN2b1JzejBKOUpyQkllbUpObW1nLU9BN1NrMFFBQVVKSVVMR1BGd2ZEVGQybm05R2NZQ1FKZVhSY3M4RUNZREZGczlKTXZ2Q25yNzhmRHJYVkxwRXRXckg0RnYza3lYSWluMlVGZXpjZ0hmVmlDZGI2UHdkU2tnLXRMeVNPS2JNRk54UTRCWjh5WllNaGp5VE5aWDBwdno0MTZkNQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:18:34 GMT",
+        "title_clean": "Polícia Judiciária detém terceiro suspeito de sequestro, extorsão e roubo na Covilhã - Correio da Manhã",
+        "clean_text": "Polícia Judiciária detém terceiro suspeito de sequestro, extorsão e roubo na Covilhã - Correio da Manhã. Dois cúmplices tinham sido detidos a 27 de março, no concelho da Covilhã, distrito de Castelo Branco. A Polícia Judiciária (PJ) deteve esta sexta-feira, na zona da Marinha Grande, um terceiro suspeito da prática dos crimes de sequestro, extorsão e roubo, ocorridos na cidade da Covilhã, e de que terá sido alvo uma mulher. \"Após ações de recolha de informação criminal que apontavam que uma mulher, residente na cidade da Covilhã, teria sido alvo de um sequestro, seguido de roubo e extorsão, o Departamento de Investigação Criminal da Guarda iniciou uma investigação na qual foi detido, hoje, na zona da Marinha Grande, um terceiro autor da prática destes crimes\", adianta a PJ em comunicado enviado à agência Lusa. Além de localizar e deter \"mais um dos suspeitos\", os inspetores do DIC da Guarda também apreenderam \"importantes elementos de prova, tais como uma arma ilícita, pistola semiautomática, presumivelmente usada no cometimento dos crimes\". Os dois cúmplices tinham sido detidos a 27 de março, no concelho da Covilhã, distrito de Castelo Branco. Na altura, a PJ, em articulação com o Departamento de Investigação e Ação Penal (DIAP) de Castelo Branco, deu cumprimento a um mandado de detenção e procedeu a uma segunda detenção em flagrante delito. Segundo a Judiciária, o caso resultou de a vítima ter fornecido quatro contas bancárias aos suspeitos, \"a fim de dissiparem o dinheiro proveniente da prática de crimes de tráfico de estupefacientes e burlas informáticas, ou seja, para \"branquearem\" tais montantes\". \"A dada altura, a mulher, que, num primeiro momento, se encontrava conivente com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolveu\", é referido. O detido, com 33 anos, irá ser presente, no sábado, no Tribunal do Fundão, para primeiro interrogatório judicial e eventual aplicação de medidas de coação. O inquérito é titulado pelo Departamento de Investigação e Ação Penal (DIAP) de Castelo Branco.",
+        "keywords": [
+            {
+                "keyword": "detém terceiro suspeito sequestro",
+                "score": 0.7492
+            },
+            {
+                "keyword": "suspeito prática crimes sequestro",
+                "score": 0.7414
+            },
+            {
+                "keyword": "terceiro suspeito sequestro",
+                "score": 0.7251
+            },
+            {
+                "keyword": "detenção flagrante delito",
+                "score": 0.7129
+            },
+            {
+                "keyword": "mandado detenção procedeu",
+                "score": 0.7127
+            },
+            {
+                "keyword": "detenção procedeu",
+                "score": 0.7097
+            },
+            {
+                "keyword": "detenção flagrante delito judiciária",
+                "score": 0.6974
+            },
+            {
+                "keyword": "referido detido",
+                "score": 0.6932
+            },
+            {
+                "keyword": "detenção flagrante",
+                "score": 0.6911
+            },
+            {
+                "keyword": "segunda detenção flagrante delito",
+                "score": 0.6885
+            }
+        ],
+        "source_name": null
     }
 ]

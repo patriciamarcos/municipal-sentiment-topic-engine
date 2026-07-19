@@ -104278,5 +104278,65 @@
             "Incêndios e bombeiros": 0.0032,
             "Eleições e política autárquica": 0.0023
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUVNcVAtczk0OUFNMU42UkNWTGdxTTBFS3hBSDdlYU45WFIyaDgtSElydG9fcVVUVXVEd0U3cmtQTDNGN1Rldk9BMkhwakdRdzJzdzZQeTlMazhBSjY2VHA4dVhIMlUtVGRyeWE3VlNQYzRfekhGVUF2OW0wSElQNVJ6ZmstSDl3NnFZNnY1Z3U3WlBnNVZBNUR2UElTazdQeFl3T3p4ZHJuQXpwV0Y2cmRGUzJtNkJsQW5SRVdfVUlLd9IBvAFBVV95cUxNdUp6YnpPb3BLTnlSREFpVjl2b2tiM3FzRVN2b1JzejBKOUpyQkllbUpObW1nLU9BN1NrMFFBQVVKSVVMR1BGd2ZEVGQybm05R2NZQ1FKZVhSY3M4RUNZREZGczlKTXZ2Q25yNzhmRHJYVkxwRXRXckg0RnYza3lYSWluMlVGZXpjZ0hmVmlDZGI2UHdkU2tnLXRMeVNPS2JNRk54UTRCWjh5WllNaGp5VE5aWDBwdno0MTZkNQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 11:18:34 GMT",
+        "title_clean": "Polícia Judiciária detém terceiro suspeito de sequestro, extorsão e roubo na Covilhã - Correio da Manhã",
+        "topic_id": 11,
+        "topic_label": "Crimes e polícia",
+        "topic_probability": 0.9472,
+        "low_confidence": false,
+        "all_scores": {
+            "Crimes e polícia": 0.9472,
+            "Natal e festividades": 0.0045,
+            "Feira e Festival": 0.0041,
+            "Saúde e hospital": 0.0041,
+            "Obras e infraestruturas": 0.004,
+            "Universidade e vida académica": 0.0039,
+            "Mercado": 0.0037,
+            "Turismo e património histórico": 0.0035,
+            "Cultura, arte e espetáculos": 0.0033,
+            "Ação social e voluntariado": 0.0032,
+            "Incêndios e bombeiros": 0.0028,
+            "Comércio e lojas": 0.0027,
+            "Tecnologia": 0.0026,
+            "Desporto e competições": 0.0024,
+            "Falecimentos": 0.0024,
+            "Habitação": 0.0022,
+            "Eleições e política autárquica": 0.0018,
+            "Transportes": 0.0016
+        }
+    },
+    {
+        "record_id": "bluesky_at://did:plc:6aqpawx7s7npelfruizmyi2q/app.bsky.feed.post/3mqzgl6afk22y",
+        "source": "bluesky",
+        "created_at": "2026-07-19T18:41:11.872Z",
+        "title_clean": "",
+        "topic_id": 2,
+        "topic_label": "Turismo e património histórico",
+        "topic_probability": 0.2034,
+        "low_confidence": true,
+        "all_scores": {
+            "Turismo e património histórico": 0.2034,
+            "Universidade e vida académica": 0.1439,
+            "Crimes e polícia": 0.1151,
+            "Comércio e lojas": 0.0886,
+            "Cultura, arte e espetáculos": 0.0797,
+            "Obras e infraestruturas": 0.076,
+            "Ação social e voluntariado": 0.0488,
+            "Saúde e hospital": 0.0438,
+            "Habitação": 0.0376,
+            "Feira e Festival": 0.0299,
+            "Tecnologia": 0.0277,
+            "Eleições e política autárquica": 0.022,
+            "Transportes": 0.0193,
+            "Natal e festividades": 0.0163,
+            "Falecimentos": 0.0146,
+            "Mercado": 0.0145,
+            "Incêndios e bombeiros": 0.0107,
+            "Desporto e competições": 0.0081
+        }
     }
 ]
