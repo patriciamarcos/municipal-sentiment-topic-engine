@@ -120525,6 +120525,166 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUhaNnlDb2ttbnNiM1IwY21WNEM2WE5VRGhyblJaaVZ3SUl6ZTh4MjJ4X3piMENHTk1UWWswbFlhV0FNSWgzWmMzMzFsVV9Ubm9ESGctZUZqczFoTnd6a2N6dG1kT3AyUEpJTEF3NU5RYXltMzhSOUlFVG1uXzF3eGtuUDFBWTNHSW01M1BfNkx6MHY4b3NMaDllNzFFeHdfWnoxamptSklSdTQyelVHbF9PbVh1UWMyQ3ozStIBvAFBVV95cUxPQUhaNnlDb2ttbnNiM1IwY21WNEM2WE5VRGhyblJaaVZ3SUl6ZTh4MjJ4X3piMENHTk1UWWswbFlhV0FNSWgzWmMzMzFsVV9Ubm9ESGctZUZqczFoTnd6a2N6dG1kT3AyUEpJTEF3NU5RYXltMzhSOUlFVG1uXzF3eGtuUDFBWTNHSW01M1BfNkx6MHY4b3NMaDllNzFFeHdfWnoxamptSklSdTQyelVHbF9PbVh1UWMyQ3ozSg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 15:49:36 GMT",
+        "title_clean": "Dani Matos confirmado como treinador do Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Gestão",
+                "label": "ORG"
+            },
+            {
+                "text": "Paulo da Cunha Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Mota",
+                "label": "PER"
+            },
+            {
+                "text": "Rádio Cova da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxQSm10RlRoMXVTcnVJTmlYUFZqM0I3OEpkMlFsSmc2VTRLREVkUnJlUUJuN21DWFNRQnhISWZQRERWN0FXdWNndXVYYUNGQzJnNk12NDlFTXhiRTZsRUo5WkVISEdrS0hiSWdOaDdoWmkwekpZc3lBT1paWUNVQy1GZA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 18 Jul 2026 10:13:00 GMT",
+        "title_clean": "Castelo Novo recebe Festival de Música Antiga",
+        "entities": [
+            {
+                "text": "Câmara do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Aldeia Histórica de Castelo Novo",
+                "label": "LOC"
+            },
+            {
+                "text": "Junta de Freguesia de Castelo Novo",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Sócio Cultural de Castelo Novo",
+                "label": "ORG"
+            },
+            {
+                "text": "Alta Ensemble",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombos do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Fonte da Bica",
+                "label": "LOC"
+            },
+            {
+                "text": "Helena Raposo",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Figueiras",
+                "label": "PER"
+            },
+            {
+                "text": "Galeria Manuela Justino",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Coral da Soalheira",
+                "label": "ORG"
+            },
+            {
+                "text": "Théotime Langlois de Swarte",
+                "label": "PER"
+            },
+            {
+                "text": "Forno Comunitário",
+                "label": "LOC"
+            },
+            {
+                "text": "Quinta do Ervedal",
+                "label": "LOC"
+            },
+            {
+                "text": "Barroco",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Baixa",
+                "label": "LOC"
+            },
+            {
+                "text": "Orquestra Barroca d'Aquém Mar",
+                "label": "ORG"
+            },
+            {
+                "text": "Vivaldi",
+                "label": "PER"
+            },
+            {
+                "text": "Mercado dos Sabores",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo do Pelourinho",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

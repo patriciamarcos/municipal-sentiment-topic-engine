@@ -104218,5 +104218,65 @@
             "Falecimentos": 0.0254,
             "Habitação": 0.0214
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUhaNnlDb2ttbnNiM1IwY21WNEM2WE5VRGhyblJaaVZ3SUl6ZTh4MjJ4X3piMENHTk1UWWswbFlhV0FNSWgzWmMzMzFsVV9Ubm9ESGctZUZqczFoTnd6a2N6dG1kT3AyUEpJTEF3NU5RYXltMzhSOUlFVG1uXzF3eGtuUDFBWTNHSW01M1BfNkx6MHY4b3NMaDllNzFFeHdfWnoxamptSklSdTQyelVHbF9PbVh1UWMyQ3ozStIBvAFBVV95cUxPQUhaNnlDb2ttbnNiM1IwY21WNEM2WE5VRGhyblJaaVZ3SUl6ZTh4MjJ4X3piMENHTk1UWWswbFlhV0FNSWgzWmMzMzFsVV9Ubm9ESGctZUZqczFoTnd6a2N6dG1kT3AyUEpJTEF3NU5RYXltMzhSOUlFVG1uXzF3eGtuUDFBWTNHSW01M1BfNkx6MHY4b3NMaDllNzFFeHdfWnoxamptSklSdTQyelVHbF9PbVh1UWMyQ3ozSg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 16 Jul 2026 15:49:36 GMT",
+        "title_clean": "Dani Matos confirmado como treinador do Sp. Covilhã - Record",
+        "topic_id": 12,
+        "topic_label": "Universidade e vida académica",
+        "topic_probability": 0.1737,
+        "low_confidence": true,
+        "all_scores": {
+            "Universidade e vida académica": 0.1737,
+            "Ação social e voluntariado": 0.116,
+            "Desporto e competições": 0.1052,
+            "Natal e festividades": 0.0751,
+            "Crimes e polícia": 0.0718,
+            "Feira e Festival": 0.0626,
+            "Turismo e património histórico": 0.0622,
+            "Saúde e hospital": 0.0509,
+            "Eleições e política autárquica": 0.0433,
+            "Incêndios e bombeiros": 0.0368,
+            "Falecimentos": 0.0357,
+            "Obras e infraestruturas": 0.0318,
+            "Cultura, arte e espetáculos": 0.031,
+            "Comércio e lojas": 0.0254,
+            "Mercado": 0.0233,
+            "Habitação": 0.022,
+            "Tecnologia": 0.0185,
+            "Transportes": 0.0145
+        }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxQSm10RlRoMXVTcnVJTmlYUFZqM0I3OEpkMlFsSmc2VTRLREVkUnJlUUJuN21DWFNRQnhISWZQRERWN0FXdWNndXVYYUNGQzJnNk12NDlFTXhiRTZsRUo5WkVISEdrS0hiSWdOaDdoWmkwekpZc3lBT1paWUNVQy1GZA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 18 Jul 2026 10:13:00 GMT",
+        "title_clean": "Castelo Novo recebe Festival de Música Antiga",
+        "topic_id": 0,
+        "topic_label": "Feira e Festival",
+        "topic_probability": 0.7077,
+        "low_confidence": false,
+        "all_scores": {
+            "Feira e Festival": 0.7077,
+            "Habitação": 0.0917,
+            "Cultura, arte e espetáculos": 0.0657,
+            "Obras e infraestruturas": 0.0339,
+            "Ação social e voluntariado": 0.0251,
+            "Turismo e património histórico": 0.0144,
+            "Universidade e vida académica": 0.0105,
+            "Comércio e lojas": 0.0067,
+            "Desporto e competições": 0.0057,
+            "Natal e festividades": 0.0056,
+            "Transportes": 0.0056,
+            "Saúde e hospital": 0.0054,
+            "Mercado": 0.0045,
+            "Falecimentos": 0.0043,
+            "Crimes e polícia": 0.0039,
+            "Tecnologia": 0.0036,
+            "Incêndios e bombeiros": 0.0032,
+            "Eleições e política autárquica": 0.0023
+        }
     }
 ]
