@@ -120729,6 +120729,258 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxPemdOMXpNY0NuSThCc2pST2JTazJxSkM3VDFhT1F3ek9JY18yS2N3SENOeVhlby14aTBkUVZXNU1NTGpFVUp1U01fLWk5cmlIZG1iT2Z3djVpU3h4LW1VU2F5UlFIb1k0SmdpRGExOTFxelN1dDE5NWVoMDdrc0NDSjdjOXpJc3pBZ1E4dVRWYjhBXzk0Ry1qS1czUEN1M1haUXlvSmlrRy1VVDlUZXJyOFNkOVZpcVp5bTREeg?oc=5",
+        "source": "news",
+        "created_at": "Sun, 19 Jul 2026 11:01:15 GMT",
+        "title_clean": "A Covilhã foi palco,da 5.ª edição do Torneio Interassociações de Ténis",
+        "entities": [
+            {
+                "text": "Associação de Ténis de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis do Alentejo",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã Country Club",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação de Ténis de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis da Madeira",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis de Leiria",
+                "label": "ORG"
+            },
+            {
+                "text": "Martim Salgueiro",
+                "label": "PER"
+            },
+            {
+                "text": "Martim Lee",
+                "label": "PER"
+            },
+            {
+                "text": "João Resende",
+                "label": "PER"
+            },
+            {
+                "text": "Luísa Gama",
+                "label": "PER"
+            },
+            {
+                "text": "Centro de Ténis de Monsanto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0duZHkxVlRURlF6SnJTeENfUi1RV2VvdV9zb241TUQtZlBQeHdvSFhFMmZoelo4b1I5RlIwSzR4NW40eEdFQUwzdkhRUXA0TjB4Q1NzNzdZYzVhUERfblFKa2VfZEJMMEZsSU9rV0ZrMFpoVFlfQ2lsS1F5YmRLa1V3ZEFIS0l6anRpdm5MNjl2aF91Y01RNk90ZkV3YnozOW9sQWgtTTVpRkZ5T3I1QlZDdlZZR0QwaFFndHIzTU4?oc=5",
+        "source": "news",
+        "created_at": "Sun, 19 Jul 2026 09:14:04 GMT",
+        "title_clean": "Teatro das Beiras leva \"Auto de Exortação da Paz\" em digressão pela Beira Interior",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Cortes do Meio",
+                "label": "LOC"
+            },
+            {
+                "text": "Monte do Índio",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "São Jorge da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "PER"
+            },
+            {
+                "text": "José Saramago",
+                "label": "PER"
+            },
+            {
+                "text": "Leonor W. Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Wellenkamp",
+                "label": "PER"
+            },
+            {
+                "text": "João Lóio",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Sílvia Morais",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxObmtxOXlNQnAtTTRiQklEUXBTWVNtb1ZYanQwNE9HRV80SFFWZTNKamFmdTdfOEtLRGxROV9ZUVdiZUFHSk56aWU2ZnNKM3dUTnVERGFFTmdITF9Qb3F3N2J2YWw3M3hVam9NV3M3NlNtZVk2dERwZllRUGpRdzZnbWIwOXB4bk9uVURKMGNuZ0ZBUE0xUDN6LVJB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 14 Jul 2026 14:21:00 GMT",
+        "title_clean": "Feira de São Tiago começa a 16 de julho",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3VuYUdnLTlkR0pWUTQ1SUplNDUzMUVpeWs2dm5LT0d3d2Rod3Ytem1LMnlfZHBvTHpBVnhEZjRBTUUtQ3gxS0JEVTlxSmw3STVvVU5jd0pzSllReEdERnA1ZWg5Wmg5S0w1aThFd0UxWU82LVBfTW5DUERZQXVLNVphTTZTdG5sVHMxQl9EYw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 15:12:40 GMT",
+        "title_clean": "À conquista da Torre com Olivier Bonamici – Todos os detalhes - TopCycling",
+        "entities": [
+            {
+                "text": "Olivier Bonamici",
+                "label": "PER"
+            },
+            {
+                "text": "Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal Continental",
+                "label": "LOC"
+            },
+            {
+                "text": "Remco Evenepoel",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Youtube",
+                "label": "ORG"
+            },
+            {
+                "text": "Instagram",
+                "label": "ORG"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
