@@ -123566,5 +123566,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE1qbTlpMDNOOTNFSmFvTVNRVTM1QkxMMzBsYndwV1pUcDBTb25HbmdJa2J2Q1l6Ykt2eDZhbFhVTmRmNU5EZnNVbTlKS2tSdDR4VFc0ZHBNTjU3QVc3UWRXMTh4cUdBQVZFeE9oaTBnNUhNMDZLdUc5YzVZaERudw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:51:16 GMT",
+        "title_clean": "Primeira fase sorteada - FPF",
+        "clean_text": "Primeira fase sorteada - FPF. A primeira jornada será a 8 e 9 de agosto Realizou-se na tarde desta quinta-feira, na Cidade do Futebol, o sorteio da primeira fase da Liga 3 Placard, que contou com a presença de Frechaut, antigo internacional e Portugal Legend. A competição arranca no segundo fim de semana de agosto, sendo composta por duas fases: 1.ª Fase, 2.ª Fase - Apuramento de Campeão e 2.ª Fase - Manutenção e Descida. Eis a constituição das duas séries e as respetivas matrizes e datas dos jogos: Série A 1. AD Marco 09 2.Vitória SC B 3. FC Paços de Ferreira 4. Leça FC 5. SC Varzim 6. AD Fafe 7. SC Vianense 8. CD Trofense 9. SC São João Ver 10. USC Paredes Série B 1. Belenenses 2. Atlético CP 3. Caldas SC 4. CD Mafra 5. Louletano DC 6. SC Covilhã 7. UD Santarém 8. UD Oliveirense 9. GD Vitória de Sernache 10. Lusitano GC Primeira jornada (8 e 9 de agosto): Série A AD Marco - Paços de Ferreira Trofense - Varzim AD Fafe - SC Vianense Leça FC - SC São João de Ver USC Paredes - Vitória SC Série B Belenenses - Caldas SC UD Oliveirense - Louletano DC SC Covilhã - UD Santarém CD Mafra - GD Vitória de Sernache Lusitano GC - Atlético CP Matriz do sorteio: 1.ª Jornada (09/08/2026): 1-3; 8-5; 6-7; 4-9; 10-2 2.ª Jornada (16/08/2026): 3-10; 5-1; 7-8; 9-6; 2-4 3.ª Jornada (23/08/2026): 3-5; 1-7; 8-9; 6-2; 10-4 4.ª Jornada (06/09/2026): 5-10; 7-3; 9-1; 2-8; 4-6 5.ª Jornada (13/09/2026): 5-7; 3-9; 1-2; 8-4; 10-6 6.ª Jornada (11/10/2026): 7-10; 9-5; 2-3; 4-1; 6-8 7.ª Jornada (25/10/2026): 7-9; 5-2; 3-4; 1-6; 10-8 8.ª Jornada (01/11/2026): 10-9; 2-7; 4-5; 6-3; 8-1 9.ª Jornada (08/11/2026): 9-2; 7-4; 5-6; 3-8; 1-10 10.ª Jornada (28/11/2026): 3-1; 5-8; 7-6; 9-4; 2-10 11.ª Jornada (06/12/2026): 10-3; 1-5; 8-7; 6-9; 4-2 12.ª Jornada (13/12/2026): 5-3; 7-1; 9-8; 2-6; 4-10 13.ª Jornada (20/12/2026): 10-5; 3-7; 1-9; 8-2; 6-4 14.ª Jornada (03/01/2027): 7-5; 9-3; 2-1; 4-8; 6-10 15.ª Jornada (10/01/2027): 10-7; 5-9; 3-2; 1-4; 8-6 16.ª Jornada (17/01/2027): 9-7; 2-5; 4-3; 6-1; 8-10 17.ª Jornada (24/01/2027): 9-10; 7-2; 5-4; 3-6; 1-8 18.ª Jornada (30/01/2027): 2-9; 4-7; 6-5; 8-3; 10-1",
+        "keywords": [
+            {
+                "keyword": "sorteio primeira fase liga",
+                "score": 0.5563
+            },
+            {
+                "keyword": "primeira fase liga placard",
+                "score": 0.5533
+            },
+            {
+                "keyword": "primeira fase liga",
+                "score": 0.5527
+            },
+            {
+                "keyword": "primeira jornada série",
+                "score": 0.5438
+            },
+            {
+                "keyword": "competição arranca fim semana",
+                "score": 0.5432
+            },
+            {
+                "keyword": "internacional portugal legend competição",
+                "score": 0.5222
+            },
+            {
+                "keyword": "jornada 16 08",
+                "score": 0.5219
+            },
+            {
+                "keyword": "primeira jornada série ad",
+                "score": 0.5128
+            },
+            {
+                "keyword": "jornada série ad marco",
+                "score": 0.5036
+            },
+            {
+                "keyword": "08 2026 10 jornada",
+                "score": 0.4979
+            }
+        ],
+        "source_name": null
     }
 ]

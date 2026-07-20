@@ -6551,5 +6551,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mr3u6srcf22n",
+        "source": "bluesky",
+        "created_at": "2026-07-20T17:50:09.049Z",
+        "title_clean": "",
+        "clean_text": "Balanço operacional inclui detenções por condução sob o efeito do álcool e sem carta de condução, além de ações de fiscalização rodoviária nas cidades de Castelo Branco e Covilhã. 📌 on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "detenções condução sob efeito",
+                "score": 0.7754
+            },
+            {
+                "keyword": "inclui detenções condução sob",
+                "score": 0.7453
+            },
+            {
+                "keyword": "operacional inclui detenções condução",
+                "score": 0.7431
+            },
+            {
+                "keyword": "inclui detenções condução",
+                "score": 0.7423
+            },
+            {
+                "keyword": "detenções condução sob",
+                "score": 0.7407
+            },
+            {
+                "keyword": "detenções condução",
+                "score": 0.7339
+            },
+            {
+                "keyword": "condução sob efeito álcool",
+                "score": 0.6443
+            },
+            {
+                "keyword": "operacional inclui detenções",
+                "score": 0.6268
+            }
+        ],
+        "source_name": null
     }
 ]

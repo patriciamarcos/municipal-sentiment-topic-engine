@@ -104458,5 +104458,65 @@
             "Eleições e política autárquica": 0.0013,
             "Natal e festividades": 0.0013
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE1qbTlpMDNOOTNFSmFvTVNRVTM1QkxMMzBsYndwV1pUcDBTb25HbmdJa2J2Q1l6Ykt2eDZhbFhVTmRmNU5EZnNVbTlKS2tSdDR4VFc0ZHBNTjU3QVc3UWRXMTh4cUdBQVZFeE9oaTBnNUhNMDZLdUc5YzVZaERudw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:51:16 GMT",
+        "title_clean": "Primeira fase sorteada - FPF",
+        "topic_id": 6,
+        "topic_label": "Desporto e competições",
+        "topic_probability": 0.8091,
+        "low_confidence": false,
+        "all_scores": {
+            "Desporto e competições": 0.8091,
+            "Habitação": 0.1353,
+            "Obras e infraestruturas": 0.0088,
+            "Universidade e vida académica": 0.0077,
+            "Crimes e polícia": 0.0072,
+            "Feira e Festival": 0.0056,
+            "Ação social e voluntariado": 0.0054,
+            "Comércio e lojas": 0.0051,
+            "Turismo e património histórico": 0.0026,
+            "Saúde e hospital": 0.0026,
+            "Incêndios e bombeiros": 0.0019,
+            "Cultura, arte e espetáculos": 0.0018,
+            "Transportes": 0.0014,
+            "Mercado": 0.0014,
+            "Eleições e política autárquica": 0.0012,
+            "Falecimentos": 0.001,
+            "Natal e festividades": 0.001,
+            "Tecnologia": 0.001
+        }
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mr3u6srcf22n",
+        "source": "bluesky",
+        "created_at": "2026-07-20T17:50:09.049Z",
+        "title_clean": "",
+        "topic_id": 17,
+        "topic_label": "Transportes",
+        "topic_probability": 0.3506,
+        "low_confidence": false,
+        "all_scores": {
+            "Transportes": 0.3506,
+            "Crimes e polícia": 0.3323,
+            "Tecnologia": 0.0906,
+            "Universidade e vida académica": 0.0298,
+            "Feira e Festival": 0.0293,
+            "Saúde e hospital": 0.0251,
+            "Natal e festividades": 0.0194,
+            "Obras e infraestruturas": 0.0185,
+            "Mercado": 0.0178,
+            "Comércio e lojas": 0.0166,
+            "Turismo e património histórico": 0.0119,
+            "Ação social e voluntariado": 0.0117,
+            "Incêndios e bombeiros": 0.0082,
+            "Cultura, arte e espetáculos": 0.0081,
+            "Habitação": 0.008,
+            "Eleições e política autárquica": 0.0077,
+            "Desporto e competições": 0.0077,
+            "Falecimentos": 0.0068
+        }
     }
 ]

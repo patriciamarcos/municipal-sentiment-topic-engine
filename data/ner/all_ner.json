@@ -120981,6 +120981,110 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE1qbTlpMDNOOTNFSmFvTVNRVTM1QkxMMzBsYndwV1pUcDBTb25HbmdJa2J2Q1l6Ykt2eDZhbFhVTmRmNU5EZnNVbTlKS2tSdDR4VFc0ZHBNTjU3QVc3UWRXMTh4cUdBQVZFeE9oaTBnNUhNMDZLdUc5YzVZaERudw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 09:51:16 GMT",
+        "title_clean": "Primeira fase sorteada - FPF",
+        "entities": [
+            {
+                "text": "Cidade do Futebol",
+                "label": "LOC"
+            },
+            {
+                "text": "Frechaut",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal Legend",
+                "label": "ORG"
+            },
+            {
+                "text": "AD Marco",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Paços de Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Leça FC",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Varzim",
+                "label": "ORG"
+            },
+            {
+                "text": "AD Fafe",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Vianense",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "SC São João Ver",
+                "label": "ORG"
+            },
+            {
+                "text": "USC Paredes",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano DC",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "GD Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano GC",
+                "label": "ORG"
+            },
+            {
+                "text": "Paços de Ferreira Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "SC São João de Ver",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória SC",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas SC UD Oliveirense",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -124538,6 +124642,18 @@
         "created_at": "2026-07-19T18:41:11.872Z",
         "title_clean": "",
         "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mr3u6srcf22n",
+        "source": "bluesky",
+        "created_at": "2026-07-20T17:50:09.049Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",
