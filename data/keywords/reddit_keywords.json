@@ -3258,5 +3258,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1v2mwc7",
+        "source": "reddit",
+        "created_at": "2026-07-21 16:10:01",
+        "title_clean": "Inquérito de mestrado",
+        "clean_text": "Ola! Sou moradora da Covilhã mas atualmente estudo em Coimbra. Procuro auxílio no âmbito da minha dissertação de mestrado em Marketing e comunicação na ESEC. Estou a realizar um questionário sobre influenciadores digitais e pressão social no consumo de moda. O preenchimento é anónimo e demora cerca de 5 minutos!! A vossa participação é muito importante! Obrigada.",
+        "keywords": [
+            {
+                "keyword": "realizar questionário influenciadores digitais",
+                "score": 0.6042
+            },
+            {
+                "keyword": "influenciadores digitais pressão social",
+                "score": 0.5826
+            },
+            {
+                "keyword": "questionário influenciadores digitais",
+                "score": 0.5821
+            },
+            {
+                "keyword": "digitais pressão social consumo",
+                "score": 0.5813
+            },
+            {
+                "keyword": "pressão social consumo moda",
+                "score": 0.5794
+            },
+            {
+                "keyword": "social consumo moda preenchimento",
+                "score": 0.5762
+            },
+            {
+                "keyword": "social consumo moda",
+                "score": 0.559
+            },
+            {
+                "keyword": "mestrado marketing comunicação esec",
+                "score": 0.5579
+            },
+            {
+                "keyword": "dissertação mestrado marketing comunicação",
+                "score": 0.557
+            },
+            {
+                "keyword": "digitais pressão social",
+                "score": 0.5566
+            }
+        ],
+        "source_name": null
     }
 ]
