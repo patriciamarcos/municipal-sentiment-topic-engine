@@ -121085,6 +121085,362 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3hiZWMtbFJEZmI5MDA2YlpEbGtZMTlFZUUzLWE0ZlV0cy00YWNGdkFNdk5aVFhXOGZTcDVHS0hvLWxkNnZlRUE5aUF6V2t2RGRVYURTNlNwQXVYRmFzZWFGNkg0UlZRakZZbm16djFKTUpWYVZxa216eUxRQzBBcHNDdGdpaVJuTjZCTzUxd3ZpVmt6dkxpdHo1akhIUUxqV2JLMTNyMjhFVDJ2UF95Xw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 09:13:54 GMT",
+        "title_clean": "Covilhã recruta jovens para recuperação de áreas ardidas",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Juntas de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV3pfdjJHMGc4THV0VW1NMVpIT1NlNkJwdkhDdmU4a2N0OEVtNzdVRk9INGlqZjkxMGRidTFKak1NZHdMYnZlUkNwX0tvUkNpZzZWUWc0bjI4dzdxVFpNbDlyWjg3b3QtQUJmRThmVWJqM0R6cF9HbjhWZ3VPaUd0LW1XWU0zYWdTRW5KNThmdnRvdXdmUDBoN1BtWjJuYlZrQWhSRUVSd256UExHWTlYVlA5dmR3Rk1BcUQxRnh4SW5LYlFFZmFBZmZ3WmY2MktxSEl4MEZnaFA5MG5selZMbEt2SldaUU5jSmx3NzVmWU95aTJMamt1VA?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 17:31:13 GMT",
+        "title_clean": "Covilhã: Agrupamento de Escolas do Teixoso é finalista do Prémio Sonae Educação entre mais de mil candidaturas - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Agrupamento de Escolas do Teixoso",
+                "label": "ORG"
+            },
+            {
+                "text": "Miguel Mota Freitas",
+                "label": "PER"
+            },
+            {
+                "text": "Sonae",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundação de Serralves",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Arnold Pears",
+                "label": "PER"
+            },
+            {
+                "text": "Departamento de Aprendizagem em Ciências da Engenharia",
+                "label": "ORG"
+            },
+            {
+                "text": "KTH Royal Institute of Technology",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Uppsala",
+                "label": "ORG"
+            },
+            {
+                "text": "Suécia",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Nacional para a Inovação Pedagógica no Ensino Superior",
+                "label": "ORG"
+            },
+            {
+                "text": "Geral",
+                "label": "ORG"
+            },
+            {
+                "text": "Aproximar",
+                "label": "ORG"
+            },
+            {
+                "text": "Cooperativa de Solidariedade Social",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Magnólia Method",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação No Bully Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Ser Milage",
+                "label": "ORG"
+            },
+            {
+                "text": "Code for All",
+                "label": "ORG"
+            },
+            {
+                "text": "ColorADD Social Associação",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Secundária Camilo Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Kaizen Education",
+                "label": "ORG"
+            },
+            {
+                "text": "Rural Move",
+                "label": "ORG"
+            },
+            {
+                "text": "Águeda",
+                "label": "ORG"
+            },
+            {
+                "text": "António Nobre",
+                "label": "LOC"
+            },
+            {
+                "text": "Augusto Cabrita",
+                "label": "LOC"
+            },
+            {
+                "text": "Aver-o-Mar",
+                "label": "LOC"
+            },
+            {
+                "text": "Clara de Resende",
+                "label": "LOC"
+            },
+            {
+                "text": "Eanes Lobato",
+                "label": "PER"
+            },
+            {
+                "text": "Pedrouços",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola Básica da Amoreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Agrupamento de Escolas de Castro",
+                "label": "ORG"
+            },
+            {
+                "text": "Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Ana Balcão Reis",
+                "label": "PER"
+            },
+            {
+                "text": "Nova SBE",
+                "label": "ORG"
+            },
+            {
+                "text": "Gil Azevedo",
+                "label": "PER"
+            },
+            {
+                "text": "Unicorn Factory Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Marta Albuquerque",
+                "label": "PER"
+            },
+            {
+                "text": "Marta Vian Santos",
+                "label": "PER"
+            },
+            {
+                "text": "The Equator Company",
+                "label": "ORG"
+            },
+            {
+                "text": "Categoria Escolas Públicas",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUlWMVA5cy1NaXpUalAtakt6b3N0Q0xmSHA1WHFlR0pubFFPTmFrMnB3N25Jc0VlbDAyaVNfMHZvbWVNMi0ydlJUNGZleXVKRkhnNXBodzAwenpLS0tqanVYRmtOV0dSZERqYlBEYWR2aWNreFRtNHpxTWR5UjhHM2pMOVh1WVNLM0lCajNPMnVHTDNUcFE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 10:06:00 GMT",
+        "title_clean": "Teatro das Beiras leva “Auto da Exortação da Paz” às freguesias",
+        "entities": [
+            {
+                "text": "Teatro das Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Cortes do Meio",
+                "label": "LOC"
+            },
+            {
+                "text": "Monte do Índio",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "São Jorge da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Leonardo da Vinci",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Sónia Botelho",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYjZfTm8wUk0tbHdsWlNKWld5eXZNT0Q0cjhLNExSdXZQb2t1RWJ4ZG9tV0VmRWxtX1NmZHdaVS1ldGxDT0hZdnhyeGp3b0puaHdCOWNVbUJTSi1PTGNHYXA2aU1qMTVuODhacXpUWThxT1RvR1o3ZzhtMEZkRjZKWFRJbFlHQVQ1RkNyV3djdlNULUh5b2kyU0lCSXVGLUtoOUtKSC16S0Z1QkZ1elBCcjVySTVyWF9QT2h0Qy14aVlTbVpRLThCRndHS3Q1aldFWHNNN3duRkVRZmIxeXM4WDRn?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 10:26:04 GMT",
+        "title_clean": "Casa Benfica da Covilhã assinala 60.º aniversário com jantar comemorativo e 6.ª edição de Fado na Ribeira",
+        "entities": [
+            {
+                "text": "Casa Benfica da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Ribeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Cervejaria Mística",
+                "label": "LOC"
+            },
+            {
+                "text": "Sport Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Ponte do Rato",
+                "label": "LOC"
+            },
+            {
+                "text": "Paulo Madeira",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Paula Gonçalves",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTAzSnpydV9JWnhlaUE0b2tpWFZtSnk5VGN4ckFDZmt0TXhQTUJscjNseGJRZ0RTLUo2QmxhN0dtYW1SQVRlaVVwSVR0WkdQd1JfZVZBamo4OEswcTdYN2Q1bWF4QW9HclozZ1dPdXYzMVJUczhJTXhkWXFCcW5SWGcwSUtFazRxVUItMnNEUXc2WlJSdEpHQ1oxQlNncFA3M2pDZVQwYVRxZVlrMUptLWNIZzVPYUVSU1FLQ2NGRTJXVDFWcHd2b0hkYw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 15:06:03 GMT",
+        "title_clean": "COVILHÃ: Município desafia jovens a contribuírem para a recuperação de áreas ardidas",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Juntas de Freguesia",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFlvTTRhcjBsRWxHb1N6UTdMcFV1MGNlcERrNmI3cjRGZElaMkFFWWFhT3lYSDBoSEVRU2F6R0JzX3ROSzNqNURCVXhnR1dRVU5QTGZob3JQNzVxdXc0Vl9qUkl3REVZaXZnZ1c5U1pfSzJzVnlYbUItbTNSa2UyUnlKbktkS1NQWkE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 08:46:02 GMT",
+        "title_clean": "Novo comandante dos BVC toma posse hoje",
+        "entities": [
+            {
+                "text": "Armando Maria",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Humanitária dos Bombeiros Voluntários da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Venezuela",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
