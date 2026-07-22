@@ -121441,6 +121441,1970 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBudEtVQWxpYzdLX2o1Vlg5TEdJTWYtWlBBQ2RyaG4wUlVOd0hWN3VMZXZ5cTB6eWFUYkJ0anVuNmNoZjF4UDJ4V21CV0I2cDI4RlgyOHlFN0VtSkxQU3RobndyNUZCRXdBMmlF?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 14:06:50 GMT",
+        "title_clean": "FEIRA DE SÃO TIAGO COMEÇA NESTA QUINTA-FEIRA",
+        "entities": [
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo do Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Recreativa Carvalhense",
+                "label": "LOC"
+            },
+            {
+                "text": "Balcão Único",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUs2MGZaeUZHckZ0dXNHbkdUWlRhdGdEelZEbnhJOTFKUTU4U1Bha05hdnJOX0cweUttNVFFUXE2MlJEMDc0NzBtb2xZdDU3TkNlWFlIY1RWajNDb3RLY2dYRXQyWTR4S2ZXOV9TSzk2cllQSHFDSVpzUW96OUFOamxuUGwtYm1rbG5MSEVCOFJRXzg?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 12:20:30 GMT",
+        "title_clean": "Sub15 Femininas iniciam estágio de aperfeiçoamento na Covilhã - Federação Portuguesa de Basquetebol",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Portuguesa de Basquetebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Seleção Nacional Sub16",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "André Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Mariana Guedes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Queiroz",
+                "label": "PER"
+            },
+            {
+                "text": "Cristiane Poloni",
+                "label": "PER"
+            },
+            {
+                "text": "Beatriz Mesquita",
+                "label": "PER"
+            },
+            {
+                "text": "João Araújo",
+                "label": "PER"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Alexandra Ié",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Cardoso",
+                "label": "PER"
+            },
+            {
+                "text": "Madeira",
+                "label": "PER"
+            },
+            {
+                "text": "Briana Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Mersey Mavericks",
+                "label": "PER"
+            },
+            {
+                "text": "Reino Unido",
+                "label": "LOC"
+            },
+            {
+                "text": "Daniela Ponte",
+                "label": "PER"
+            },
+            {
+                "text": "Le Chesnay",
+                "label": "PER"
+            },
+            {
+                "text": "Versailles",
+                "label": "ORG"
+            },
+            {
+                "text": "Diana Pais",
+                "label": "PER"
+            },
+            {
+                "text": "Bolacesto",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Alegria",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Janeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Portimonense",
+                "label": "ORG"
+            },
+            {
+                "text": "Maria Pinhal",
+                "label": "PER"
+            },
+            {
+                "text": "FC Maria Santos Sporting",
+                "label": "ORG"
+            },
+            {
+                "text": "Matilde Fernandes",
+                "label": "PER"
+            },
+            {
+                "text": "Matilde Franco",
+                "label": "PER"
+            },
+            {
+                "text": "Matilde Valério",
+                "label": "PER"
+            },
+            {
+                "text": "Nicole Figueira",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Instagram",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjZNUEVuUERqbWtTUVZ1eFhOYTYta3FQdjZkd2tKY3pOUm1BaWF1NXUxbGhHVDJRRnZwelJzMTQxR1lmdVNnZjhGTGhzVFlIeVZWakZhRm55Q0FKbl9teXZkbndObUZsUENXMkFJX3dmUWZHMzctNF9BdEZ3bDg4YUNkbDdNTFFGYWRWYXR1TmdqWkxqRWZZdHp6bGlrTllJeFJmb2lZU01nM0lYMk1sM0dFRHdjeWxBcldFbkZORXNZSnhaRU1iTUJ4QQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 11:03:00 GMT",
+        "title_clean": "Museu da Covilhã assinala quinto aniversário com visita a gravuras rupestres",
+        "entities": [
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Alto da Giesteirinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale da Piçarra",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Carla Alegria",
+                "label": "PER"
+            },
+            {
+                "text": "Susete Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Faculdade de Letras",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Coimbra",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça do Município",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb080WTg0YzVDTm9VY3ZOelp4R0tRTVBLek94RHRyUndrQUJqdXpoVTBvSjRFOEtvQ0FHODI5Y19aY1NyNks2VWhqblozZmR1Nk1vTDA5Y3lQTHdBX0s5RTRvVlg1aEtWRW9qNWRadERTVGt1YjFYMGlINUlQZmIwb3VFeXpUOFMtRngwcFhOcjhuWDZ0b2haSTNwRENZLW5hOW9LOFVzSFlnR1dFQ3JTUk9vb1owbFoxbUsxQnd1MU5LSXJNdjBia2FPMVhDM1RHdHdieGVkamphOGc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 10:09:10 GMT",
+        "title_clean": "Covilhã recebe assinatura de contratos-programa no valor de 14 milhões de euros para a Região Centro",
+        "entities": [
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Administração Central",
+                "label": "ORG"
+            },
+            {
+                "text": "Administração Local",
+                "label": "ORG"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Coordenação e Desenvolvimento Regional do Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "CCDR Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "Direção-Geral das Autarquias Locais",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Miranda do Corvo",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedrógão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Comba Dão",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila de Rei",
+                "label": "LOC"
+            },
+            {
+                "text": "Ordenamento do Território",
+                "label": "ORG"
+            },
+            {
+                "text": "José Maria Brandão de Brito",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Nascimento",
+                "label": "PER"
+            },
+            {
+                "text": "André Gaspar Nikolic",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxPNWg5WTZ3aU1EaDNqSVphazNScWJERmd0cTVfOXo5Sl9rVmdMR0IwYWdUVHU1UGZXdW9vY1h0Y3NvTzktQmcyVjE5N2dDLXZ4X0ROUHZneW5iUHJBc2VMdk9xdkNQaDdteHRadllpdklzNmUwcnJDR2ZKaHc1QS0yOWhKY3lHSWEzZWhOLVB6UDhCdkQwYUlVZml0QTMtSEstRThTSDd5T1h0WGVkbGdOXzBuLWlyYVl4OTJUU1d6VTQyeHVDTzN2SzJxMVk1dw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 08:26:21 GMT",
+        "title_clean": "Grupo Humanitário de Dadores de Sangue da Covilhã reforça apelo às dádivas durante o verão",
+        "entities": [
+            {
+                "text": "Grupo Humanitário de Dadores de Sangue da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Rádio Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Vítor Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Cova da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Sangue",
+                "label": "ORG"
+            },
+            {
+                "text": "Transplantação",
+                "label": "ORG"
+            },
+            {
+                "text": "Registo Nacional de Dadores de Medula Óssea",
+                "label": "ORG"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVlwd213RTZhX2FqN0NtOWtlclJSbFFocV9zaGxWcFhZbnBNNVg0UEhKVVl1SXJOblZLSXZ2UURUaTZyMzRPY2hsZ0FpcDQ1NkZIRlBKREd5b2hubUgzUjJ5U2FUSTE1RktIdVhNTFZkQnBVM0pMMDEyTFdfSjFXeFFhOTN1VXpoajhsd1J2ck5maE5ueEs4eThBUjBwZ1dBSGpqcVdIZWhiQlNnTm5VMDdhYzBJeTky?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 10:57:17 GMT",
+        "title_clean": "Penta Clube da Covilhã conquista 13 pódios na Liga Laser Run Portugal Tour",
+        "entities": [
+            {
+                "text": "Penta Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Federação Portuguesa de Pentatlo Moderno",
+                "label": "ORG"
+            },
+            {
+                "text": "Leandro Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Junior",
+                "label": "ORG"
+            },
+            {
+                "text": "David Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Lourenço Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "André Cardona",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Taborda",
+                "label": "PER"
+            },
+            {
+                "text": "Manuel Gravito",
+                "label": "PER"
+            },
+            {
+                "text": "Júlio Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Beatriz Franco",
+                "label": "PER"
+            },
+            {
+                "text": "Julieta Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Marina Cardona",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Carreira",
+                "label": "PER"
+            },
+            {
+                "text": "Lar de São José",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR0FCdUhnZk0xTXBnNmxSUjdrWjJDRXg2LTZWRTFHWVJSUkxHbEJMYzU1N2xzLTd2bDBJMGtEUi1KeWh3VXFhS0hIR3g4cVNqb3AwZXZGQmNIdmhNVjBVakM4TXAzTmpSRUxuYkhNNmdMQllkd3JtTkxIVXV1S3FjZ1E0VkR3NlVRSHg3Smd5N3FyTnNndlhvNGRJUGZDQndUdDFsamJjNkhleXNTTnNYeVdBTm0tYWxMNXFZQkRPel8yVEw0bWlrbkVlQUtablZ0?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 10:26:03 GMT",
+        "title_clean": "COVILHÃ: Museu promove visita noturna às gravuras rupestres para assinalar 5.º aniversário",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Alto da Giesteirinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale da Piçarra",
+                "label": "LOC"
+            },
+            {
+                "text": "Carla Alegria",
+                "label": "PER"
+            },
+            {
+                "text": "Susete Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Faculdade de Letras",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Coimbra",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça do Município",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzBBeFM2N1B5SzdkS3ppSkFpamROcnJUcldSODBubGVycW43MTRKWEFNTEllM2xoOTZqYko3bEh1Zm1MWmZrRGFGNkFVWTBGUkU4bXhlNEU0QTJJbXpWNWFVRWtVTURSeUlTVmRDaXozWTNtU3NsUUVKRjMtdlJacWdQMlQwbF9ETlJQM3hHRHFfdGU2UUNkakVNazJPMFRFNVlJM0dON3hjWUdIQndXM3dyZjFORGc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 19 Jul 2026 11:01:15 GMT",
+        "title_clean": "A Covilhã foi palco,da 5.ª edição do Torneio Interassociações de Ténis",
+        "entities": [
+            {
+                "text": "Associação de Ténis de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis do Alentejo",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã Country Club",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação de Ténis de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis da Madeira",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis de Leiria",
+                "label": "ORG"
+            },
+            {
+                "text": "Martim Salgueiro",
+                "label": "PER"
+            },
+            {
+                "text": "Martim Lee",
+                "label": "PER"
+            },
+            {
+                "text": "João Resende",
+                "label": "PER"
+            },
+            {
+                "text": "Luísa Gama",
+                "label": "PER"
+            },
+            {
+                "text": "Centro de Ténis de Monsanto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUtYaS1vVER4dnNTQ3ZxeGxqZEtuWFEtNHk1dXBWMGhUY0xuYk5tanc4RFZTdEk1RXhHX0lZSmFyejJQc3ZUUlFac2c1bFJRN1JydFhhNEo5QmVOVTlGVF93emJxVW1fUFBsRHRwZklFWm1oTXVSS2tNQUd4N3Z3ZkdOaHZzVFVFSG9wbFIweFpOZ3c?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 09:51:00 GMT",
+        "title_clean": "Bombeiros: apelos à união no primeiro dia do novo comandante - Jornal Notícias da Covilhã",
+        "entities": [
+            {
+                "text": "Jornal Notícias da",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Humanitária dos Bombeiros da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Armando Maria",
+                "label": "PER"
+            },
+            {
+                "text": "Escola Nacional de Bombeiros",
+                "label": "ORG"
+            },
+            {
+                "text": "Força Especial de Bombeiros",
+                "label": "ORG"
+            },
+            {
+                "text": "Canarinhos",
+                "label": "ORG"
+            },
+            {
+                "text": "Força Especial de Proteção Civil",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidade de Intervenção Especial de Resgate em",
+                "label": "ORG"
+            },
+            {
+                "text": "Montanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Joaquim Matias",
+                "label": "PER"
+            },
+            {
+                "text": "Armando Proença Maria",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxQT1BBb2Z2N1JrVGtYOXlfYWYxTmVRNEhjM2V5R0haMkgxS0ZJaFlDeTdiTHZJR1RCbzZpdlNWZ1FjWEpiOGJuNVFyNkRDR2dNVjlUSmJCWFl2WTh0WDF0N2kwc29Bckp1cGNVSk85S1BLWjBYR21UbE9jQnFhR2dHRVJnZzN0eWNBbnR6dWlYd3BNSkR1MmNObTF3MzNSX25LdmowdTlGXzBUWl9iN1BkQ0JBSmk1dnRXVEs1UUN4YXlsTkN6U19QZ1V1RQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 15 Jul 2026 10:01:00 GMT",
+        "title_clean": "Guarda: Bispo aprova mapa provisório de reorganização das 361 paróquias em 27 unidades pastorais - Agência ECCLESIA",
+        "entities": [
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Agência ECCLESIA",
+                "label": "ORG"
+            },
+            {
+                "text": "D. José Pereira",
+                "label": "PER"
+            },
+            {
+                "text": "São Bento",
+                "label": "LOC"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã Urbana",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã Norte",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã Sul",
+                "label": "LOC"
+            },
+            {
+                "text": "Seia Urbana",
+                "label": "LOC"
+            },
+            {
+                "text": "Diocese",
+                "label": "ORG"
+            },
+            {
+                "text": "Pró-Conselho episcop",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho de Arciprestes",
+                "label": "ORG"
+            },
+            {
+                "text": "Arciprestado de Fundão-Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Arciprestado de Sabugal-Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Arciprestado do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Arciprestado de Pinhel-Almeida-Figueira de Castelo Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Comissões Fabriqueiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Coordenação Pastoral",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho Pastoral da Unidade",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho Económico",
+                "label": "ORG"
+            },
+            {
+                "text": "Cartório",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministério",
+                "label": "ORG"
+            },
+            {
+                "text": "Comuns",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidades Pastorais",
+                "label": "ORG"
+            },
+            {
+                "text": "Império Romano",
+                "label": "LOC"
+            },
+            {
+                "text": "Espírito Santo",
+                "label": "ORG"
+            },
+            {
+                "text": "Azinhal",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Bom",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Mendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Freineda",
+                "label": "LOC"
+            },
+            {
+                "text": "Junça",
+                "label": "LOC"
+            },
+            {
+                "text": "Leomil",
+                "label": "LOC"
+            },
+            {
+                "text": "Malhada Sorda",
+                "label": "LOC"
+            },
+            {
+                "text": "Malpartida",
+                "label": "LOC"
+            },
+            {
+                "text": "Mesquitela",
+                "label": "LOC"
+            },
+            {
+                "text": "Monteperobolso",
+                "label": "LOC"
+            },
+            {
+                "text": "Nave de Haver",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto de Ovelha",
+                "label": "LOC"
+            },
+            {
+                "text": "São Pedro de Rio Seco",
+                "label": "LOC"
+            },
+            {
+                "text": "Senouras",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Coelha",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale da Mula",
+                "label": "LOC"
+            },
+            {
+                "text": "Valverde",
+                "label": "LOC"
+            },
+            {
+                "text": "Vilar Formoso",
+                "label": "LOC"
+            },
+            {
+                "text": "BELMONTE",
+                "label": "LOC"
+            },
+            {
+                "text": "Bendada",
+                "label": "LOC"
+            },
+            {
+                "text": "Colmeal da Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Maçainhas",
+                "label": "LOC"
+            },
+            {
+                "text": "CELORICO DA BEIRA",
+                "label": "LOC"
+            },
+            {
+                "text": "Açores",
+                "label": "LOC"
+            },
+            {
+                "text": "Baraça",
+                "label": "LOC"
+            },
+            {
+                "text": "Cadafaz",
+                "label": "LOC"
+            },
+            {
+                "text": "Carrapichana",
+                "label": "LOC"
+            },
+            {
+                "text": "Cortiçô da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Fornotelheiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Juncais",
+                "label": "LOC"
+            },
+            {
+                "text": "Lageosa do Mondego",
+                "label": "LOC"
+            },
+            {
+                "text": "Linhares da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Maçal do Chão",
+                "label": "LOC"
+            },
+            {
+                "text": "Minhocal",
+                "label": "LOC"
+            },
+            {
+                "text": "Prados",
+                "label": "LOC"
+            },
+            {
+                "text": "Salgueirais",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Maria",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Azares",
+                "label": "LOC"
+            },
+            {
+                "text": "Velosa",
+                "label": "LOC"
+            },
+            {
+                "text": "Vide Entre Vinhas",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Boa do Mondego",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Imaculada Conceição",
+                "label": "LOC"
+            },
+            {
+                "text": "São José",
+                "label": "LOC"
+            },
+            {
+                "text": "São Martinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila do Carvalho",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Orjais",
+                "label": "LOC"
+            },
+            {
+                "text": "Sarzedo",
+                "label": "LOC"
+            },
+            {
+                "text": "Teixoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale Formoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Verdelhos",
+                "label": "LOC"
+            },
+            {
+                "text": "COVILHÃ ZÊZERE",
+                "label": "LOC"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Dominguiso",
+                "label": "LOC"
+            },
+            {
+                "text": "Ferro",
+                "label": "LOC"
+            },
+            {
+                "text": "Peraboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Cortes",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Unhais da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "FIGUEIRA DE CASTELO RODRIGO",
+                "label": "LOC"
+            },
+            {
+                "text": "Algodres",
+                "label": "LOC"
+            },
+            {
+                "text": "Almendra",
+                "label": "LOC"
+            },
+            {
+                "text": "Almofala",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Melhor",
+                "label": "LOC"
+            },
+            {
+                "text": "Cinco Vilas",
+                "label": "LOC"
+            },
+            {
+                "text": "Escalhão",
+                "label": "LOC"
+            },
+            {
+                "text": "Escarigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Freixeda do Torrão",
+                "label": "LOC"
+            },
+            {
+                "text": "Mata de Lobos",
+                "label": "LOC"
+            },
+            {
+                "text": "Penha de Águia",
+                "label": "LOC"
+            },
+            {
+                "text": "Quintã de Pero Martins",
+                "label": "LOC"
+            },
+            {
+                "text": "Reigada",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Afonsinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Vermiosa",
+                "label": "LOC"
+            },
+            {
+                "text": "Vilar de Amargo",
+                "label": "LOC"
+            },
+            {
+                "text": "Vilar Torpim",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcaide",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcaria",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcongosta",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia de Joanes",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia Nova do Cabo",
+                "label": "LOC"
+            },
+            {
+                "text": "Capinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Donas",
+                "label": "LOC"
+            },
+            {
+                "text": "Fatela",
+                "label": "LOC"
+            },
+            {
+                "text": "Peroviseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Salgueiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Souto da Casa",
+                "label": "LOC"
+            },
+            {
+                "text": "Telhado",
+                "label": "LOC"
+            },
+            {
+                "text": "Almaceda",
+                "label": "LOC"
+            },
+            {
+                "text": "Alpedrinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Atalaia do Campo",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Novo",
+                "label": "LOC"
+            },
+            {
+                "text": "Louriçal do Campo",
+                "label": "LOC"
+            },
+            {
+                "text": "Ninho do Açor",
+                "label": "LOC"
+            },
+            {
+                "text": "Póvoa da Atalaia",
+                "label": "LOC"
+            },
+            {
+                "text": "São Vicente da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Soalheira",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Prazeres",
+                "label": "LOC"
+            },
+            {
+                "text": "Zebras",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia de São Francisco de Assis",
+                "label": "LOC"
+            },
+            {
+                "text": "Barroca",
+                "label": "LOC"
+            },
+            {
+                "text": "Bogas de Baixo",
+                "label": "LOC"
+            },
+            {
+                "text": "Bogas de Cima",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelejo",
+                "label": "LOC"
+            },
+            {
+                "text": "Janeiro de Cima",
+                "label": "LOC"
+            },
+            {
+                "text": "Lavacolhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Silvares",
+                "label": "LOC"
+            },
+            {
+                "text": "São Jorge da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "SERRA Aldeias",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueiró da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Folgosinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Freixo da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Mangualde da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Moimenta da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Nabais",
+                "label": "LOC"
+            },
+            {
+                "text": "Nespereira",
+                "label": "LOC"
+            },
+            {
+                "text": "Paços da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "São Julião",
+                "label": "LOC"
+            },
+            {
+                "text": "São Paio",
+                "label": "LOC"
+            },
+            {
+                "text": "Vinhó",
+                "label": "LOC"
+            },
+            {
+                "text": "Arcozelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Cativelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Girabolhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Lagarinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Lages",
+                "label": "LOC"
+            },
+            {
+                "text": "Ribamondego",
+                "label": "LOC"
+            },
+            {
+                "text": "Rio Torto",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Cortês da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Franca da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Nova de Tázem",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Ruiva",
+                "label": "LOC"
+            },
+            {
+                "text": "Albardo",
+                "label": "LOC"
+            },
+            {
+                "text": "Benespera",
+                "label": "LOC"
+            },
+            {
+                "text": "Carvalhal Meão",
+                "label": "LOC"
+            },
+            {
+                "text": "Casal de Cinza",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira",
+                "label": "LOC"
+            },
+            {
+                "text": "Cerdeira do Côa",
+                "label": "LOC"
+            },
+            {
+                "text": "Marmeleiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Monte Margarida",
+                "label": "LOC"
+            },
+            {
+                "text": "Panóias",
+                "label": "LOC"
+            },
+            {
+                "text": "Pousade",
+                "label": "LOC"
+            },
+            {
+                "text": "Ramela",
+                "label": "LOC"
+            },
+            {
+                "text": "Rochos",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Ana da Azinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Fernando",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Garcia",
+                "label": "LOC"
+            },
+            {
+                "text": "Alvendre",
+                "label": "LOC"
+            },
+            {
+                "text": "Arrifana",
+                "label": "LOC"
+            },
+            {
+                "text": "Avelãs da Ribeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Avelãs de Ambom",
+                "label": "LOC"
+            },
+            {
+                "text": "Codeceiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Gonçalbocas",
+                "label": "LOC"
+            },
+            {
+                "text": "Pera do Moço",
+                "label": "LOC"
+            },
+            {
+                "text": "Ribeira dos Carinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Rocamondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Franca do Deão",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia do Bispo",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia Viçosa",
+                "label": "LOC"
+            },
+            {
+                "text": "Corujeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Cavadoude",
+                "label": "LOC"
+            },
+            {
+                "text": "Meios",
+                "label": "LOC"
+            },
+            {
+                "text": "Misarela",
+                "label": "LOC"
+            },
+            {
+                "text": "Pero Soares",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto da Carne",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Videmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Cortês do Mondego",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Soeiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Famalicão da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Gonçalo",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sameiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Seixo Amarelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Amoreira",
+                "label": "LOC"
+            },
+            {
+                "text": "Valhelhas",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia de João Pires",
+                "label": "LOC"
+            },
+            {
+                "text": "Aranhas",
+                "label": "LOC"
+            },
+            {
+                "text": "Bemposta",
+                "label": "LOC"
+            },
+            {
+                "text": "Benquerença",
+                "label": "LOC"
+            },
+            {
+                "text": "Meimão",
+                "label": "LOC"
+            },
+            {
+                "text": "Meimoa",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedrógão de São Pedro",
+                "label": "LOC"
+            },
+            {
+                "text": "Salvador",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Nossa Senhora da Póvoa",
+                "label": "LOC"
+            },
+            {
+                "text": "Alverca da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Azevo",
+                "label": "LOC"
+            },
+            {
+                "text": "Bogalhal",
+                "label": "LOC"
+            },
+            {
+                "text": "Bouça Cova",
+                "label": "LOC"
+            },
+            {
+                "text": "Cerejo",
+                "label": "LOC"
+            },
+            {
+                "text": "Cidadelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Ervas Tenras",
+                "label": "LOC"
+            },
+            {
+                "text": "Ervedosa",
+                "label": "LOC"
+            },
+            {
+                "text": "Freixedas",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveias",
+                "label": "LOC"
+            },
+            {
+                "text": "Lameiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Manigoto",
+                "label": "LOC"
+            },
+            {
+                "text": "Pereiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Pínzio",
+                "label": "LOC"
+            },
+            {
+                "text": "Pomares",
+                "label": "LOC"
+            },
+            {
+                "text": "Póvoa d'El Rei",
+                "label": "LOC"
+            },
+            {
+                "text": "Safurdão",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Eufémia",
+                "label": "LOC"
+            },
+            {
+                "text": "Sorval",
+                "label": "LOC"
+            },
+            {
+                "text": "Souropires",
+                "label": "LOC"
+            },
+            {
+                "text": "Valbom",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Madeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Vascoveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Vendada",
+                "label": "LOC"
+            },
+            {
+                "text": "Águas Belas",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia de Santo António",
+                "label": "LOC"
+            },
+            {
+                "text": "Casteleiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Lomba",
+                "label": "LOC"
+            },
+            {
+                "text": "Malcata",
+                "label": "LOC"
+            },
+            {
+                "text": "Moita",
+                "label": "LOC"
+            },
+            {
+                "text": "Penalobo",
+                "label": "LOC"
+            },
+            {
+                "text": "Pousafoles do Bispo",
+                "label": "LOC"
+            },
+            {
+                "text": "Quadrazais",
+                "label": "LOC"
+            },
+            {
+                "text": "Quintas de São Bartolomeu",
+                "label": "LOC"
+            },
+            {
+                "text": "Rapoula do Côa",
+                "label": "LOC"
+            },
+            {
+                "text": "Rendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Santo Estêvão",
+                "label": "LOC"
+            },
+            {
+                "text": "Seixo do Côa",
+                "label": "LOC"
+            },
+            {
+                "text": "Sortel",
+                "label": "LOC"
+            },
+            {
+                "text": "Valongo do Côa",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila do Touro",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia da Ponte",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia da Ribeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Aldeia Velha",
+                "label": "LOC"
+            },
+            {
+                "text": "Alfaiate",
+                "label": "LOC"
+            },
+            {
+                "text": "Badamalos",
+                "label": "LOC"
+            },
+            {
+                "text": "Bismula",
+                "label": "LOC"
+            },
+            {
+                "text": "Foios",
+                "label": "LOC"
+            },
+            {
+                "text": "Forcalhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Rebolosa",
+                "label": "LOC"
+            },
+            {
+                "text": "Ruivós",
+                "label": "LOC"
+            },
+            {
+                "text": "Ruvina",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale das Éguas",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Espinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Vilar Maior",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugueiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Santiago",
+                "label": "LOC"
+            },
+            {
+                "text": "São Romão",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Cova à Coelheira",
+                "label": "LOC"
+            },
+            {
+                "text": "PLANÍCIE",
+                "label": "LOC"
+            },
+            {
+                "text": "Carragozela",
+                "label": "LOC"
+            },
+            {
+                "text": "Folhadosa",
+                "label": "LOC"
+            },
+            {
+                "text": "Paranhos da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Pinhanços",
+                "label": "LOC"
+            },
+            {
+                "text": "Sameice",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Comba",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Eulália",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Torroselo",
+                "label": "LOC"
+            },
+            {
+                "text": "Tourais",
+                "label": "LOC"
+            },
+            {
+                "text": "Travancinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Várzea de Meruge",
+                "label": "LOC"
+            },
+            {
+                "text": "Alvoco da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Loriga",
+                "label": "LOC"
+            },
+            {
+                "text": "Sandomil",
+                "label": "LOC"
+            },
+            {
+                "text": "São Gião",
+                "label": "LOC"
+            },
+            {
+                "text": "Sazes da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Valezim",
+                "label": "LOC"
+            },
+            {
+                "text": "Fiães",
+                "label": "LOC"
+            },
+            {
+                "text": "Falachos",
+                "label": "LOC"
+            },
+            {
+                "text": "Guilheiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Moreira de Rei",
+                "label": "LOC"
+            },
+            {
+                "text": "Rio de Mel",
+                "label": "LOC"
+            },
+            {
+                "text": "Sebadelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Soito Maior",
+                "label": "LOC"
+            },
+            {
+                "text": "Taman",
+                "label": "LOC"
+            },
+            {
+                "text": "Terrenho",
+                "label": "LOC"
+            },
+            {
+                "text": "Torre do terrenho",
+                "label": "LOC"
+            },
+            {
+                "text": "Valdujo",
+                "label": "LOC"
+            },
+            {
+                "text": "Granja",
+                "label": "LOC"
+            },
+            {
+                "text": "Moimentinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Póvoa do Concelho",
+                "label": "LOC"
+            },
+            {
+                "text": "Torres",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale de Mouro",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale do Seixo",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Franca das Naves",
+                "label": "LOC"
+            },
+            {
+                "text": "Vilares",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTE1oUVlmUlVDNGhBa3Vra3VIeHVHT2k5R0lVVWxPWWFYZEppTnFsREJHNWFPWG1nQjRZSUxXMUhKUUFodVFWdV9fSFFlUXhKWGc0U0t6Nk5IMnNnS1psTk5ncFdNSERjUkx6S2RNVzBROGxXR2dsVXhyVQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 10:07:28 GMT",
+        "title_clean": "Antevisão Guarda FC vs SC Covilhã :: Estatísticas e Onzes Prováveis :: Pré-Época 2026/27",
+        "entities": [
+            {
+                "text": "Guarda FC",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTFA5Ynhya1pGeGt5Q2lldkNwNmxLd3pLNXJOWFpMcVVPaVdoQVd5SkhRMlFfSk9IbDlPTkhoc002Z0JxMEZuZUNFbDZ0LWRBWUxnUnBielRmLTBHSC11RDl4NEc2ZlcxcUxCVjhfRU0xUUdCSUJyRmxTOA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 04:34:16 GMT",
+        "title_clean": "Guarda FC x SC Covilhã :: Estatísticas, Prováveis Escalações e Prognósticos :: Pré-Temporada - Calendário Europeu 2026/27 - ogol.com.br",
+        "entities": [
+            {
+                "text": "Guarda FC",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
