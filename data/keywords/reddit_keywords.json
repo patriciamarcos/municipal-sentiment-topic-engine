@@ -3308,5 +3308,19 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1v3ijdl",
+        "source": "reddit",
+        "created_at": "2026-07-22 14:56:53",
+        "title_clean": "Viver na Covilhã ou na zona de Fundão",
+        "clean_text": "Viver na Covilhã ou na zona de Fundão",
+        "keywords": [
+            {
+                "keyword": "zona fundão",
+                "score": 0.518
+            }
+        ],
+        "source_name": null
     }
 ]

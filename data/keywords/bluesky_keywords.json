@@ -6593,5 +6593,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:54ljb2yvhmkpy6snfvfvu2m2/app.bsky.feed.post/3mrakewu3qk2a",
+        "source": "bluesky",
+        "created_at": "2026-07-22T14:37:55.938Z",
+        "title_clean": "",
+        "clean_text": "𝐂𝐚𝐫𝐭𝐚̃𝐨 𝐁𝐫𝐚𝐧𝐜𝐨 𝐧𝐨 𝐄𝐮𝐫𝐨𝐩𝐞𝐮 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐚́𝐫𝐢𝐨 𝐝𝐞 𝐀𝐧𝐝𝐞𝐛𝐨𝐥 𝐫𝐞𝐜𝐨𝐧𝐡𝐞𝐜𝐢𝐝𝐨 𝐜𝐨𝐦 𝐩𝐫𝐞́𝐦𝐢𝐨 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐜𝐢𝐨𝐧𝐚𝐥 A Comissão Organizadora do Campeonato Europeu Universitário de Andebol - Covilhã 2025, na qual se incluI a UBI, foi distinguida pela EUSA com um prémio de Fair Play. Notícia completa:",
+        "keywords": [
+            {
+                "keyword": "eusa prémio fair play",
+                "score": 0.6727
+            },
+            {
+                "keyword": "organizadora campeonato europeu universitário",
+                "score": 0.6509
+            },
+            {
+                "keyword": "distinguida eusa prémio fair",
+                "score": 0.6478
+            },
+            {
+                "keyword": "campeonato europeu universitário andebol",
+                "score": 0.6447
+            },
+            {
+                "keyword": "campeonato europeu universitário",
+                "score": 0.6395
+            },
+            {
+                "keyword": "eusa prémio fair",
+                "score": 0.6369
+            },
+            {
+                "keyword": "𝐁𝐫𝐚𝐧𝐜𝐨 𝐧𝐨 𝐄𝐮𝐫𝐨𝐩𝐞𝐮 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐚",
+                "score": 0.635
+            },
+            {
+                "keyword": "comissão organizadora campeonato europeu",
+                "score": 0.632
+            }
+        ],
+        "source_name": null
     }
 ]

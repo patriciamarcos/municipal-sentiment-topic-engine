@@ -123405,6 +123405,74 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMVhScTlfUzB6dERFREJ2aVV0VGZLano3Nzk0MzRZWWYwN181RS13OFROT3pGcHYyaEF0VDA3QzhjeU1ENE94c3JVVDRrcWhvby03ZFpheDBBV2l5NWJqeFhuUnBZRi1ta3MxMDVOSDUxd2ZHV0FfNEk3T043X0NqaWtmNFl2ZE9xUkZfSzNfck9TNEQ1NU1jUW1YUFhfSDRFOWVrakFrcVJlLWRNRDFVU1hiU2E3TW1JZXFZSHpZaGlyQ1c0UTFMcm5lVkg5R2VIRUxybXZXVUluWlRldndnZ2RaMWxjQzdUeWdIamIzd2I3VWRPTGlWdw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "title_clean": "Campeonato Europeu Universitário de Andebol - Covilhã 2025 distinguido com Prémio \"Fair Play da EUSA\" em Itália - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão Organizadora",
+                "label": "ORG"
+            },
+            {
+                "text": "Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "European University Sports Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Salerno",
+                "label": "LOC"
+            },
+            {
+                "text": "João Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Académica da Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "AAUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Bernardo",
+                "label": "PER"
+            },
+            {
+                "text": "Esmeralda Gonçalinho",
+                "label": "PER"
+            },
+            {
+                "text": "European Handball Federation",
+                "label": "ORG"
+            },
+            {
+                "text": "Plano Nacional de Ética no Desporto",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -124286,6 +124354,22 @@
             },
             {
                 "text": "Coimbra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1v3ijdl",
+        "source": "reddit",
+        "created_at": "2026-07-22 14:56:53",
+        "title_clean": "Viver na Covilhã ou na zona de Fundão",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
                 "label": "LOC"
             }
         ]
@@ -126988,6 +127072,18 @@
             {
                 "text": "Castelo Branco",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:54ljb2yvhmkpy6snfvfvu2m2/app.bsky.feed.post/3mrakewu3qk2a",
+        "source": "bluesky",
+        "created_at": "2026-07-22T14:37:55.938Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Comissão Organizadora do Campeonato Europeu Universitário de Andebol",
+                "label": "ORG"
             }
         ]
     },

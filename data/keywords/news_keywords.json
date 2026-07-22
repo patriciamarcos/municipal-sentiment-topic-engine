@@ -124516,5 +124516,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMVhScTlfUzB6dERFREJ2aVV0VGZLano3Nzk0MzRZWWYwN181RS13OFROT3pGcHYyaEF0VDA3QzhjeU1ENE94c3JVVDRrcWhvby03ZFpheDBBV2l5NWJqeFhuUnBZRi1ta3MxMDVOSDUxd2ZHV0FfNEk3T043X0NqaWtmNFl2ZE9xUkZfSzNfck9TNEQ1NU1jUW1YUFhfSDRFOWVrakFrcVJlLWRNRDFVU1hiU2E3TW1JZXFZSHpZaGlyQ1c0UTFMcm5lVkg5R2VIRUxybXZXVUluWlRldndnZ2RaMWxjQzdUeWdIamIzd2I3VWRPTGlWdw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "title_clean": "Campeonato Europeu Universitário de Andebol - Covilhã 2025 distinguido com Prémio \"Fair Play da EUSA\" em Itália - Diário Digital Castelo Branco",
+        "clean_text": "Campeonato Europeu Universitário de Andebol - Covilhã 2025 distinguido com Prémio \"Fair Play da EUSA\" em Itália - Diário Digital Castelo Branco. Por: Diário Digital Castelo Branco A Comissão Organizadora do Campeonato Europeu Universitário de Andebol - Covilhã 2025 foi distinguida pela European University Sports Association (EUSA) com um prémio de Fair Play, em reconhecimento pela implementação inédita do Cartão Branco numa competição internacional universitária. A distinção foi entregue durante a EUSA Awards Ceremony 2026, realizada no passado dia 19 de julho, em Salerno, Itália, cerimónia que homenageou personalidades, instituições e organizações que se destacaram pelo seu contributo para o desenvolvimento do desporto universitário europeu e pela promoção dos seus valores. Em representação da Comissão Organizadora, estiveram presentes João Nunes, presidente da Associação Académica da Universidade da Beira Interior (AAUBI) e da Comissão Organizadora do evento, e Pedro Bernardo, secretário-geral do Campeonato Europeu Universitário de Andebol - Covilhã 2025, e, em representação do Plano Nacional de Ética no Desporto (PNED), Esmeralda Gonçalinho, que receberam este reconhecimento em nome de toda a organização. Esta distinção surge na sequência da implementação, pela primeira vez na história das competições internacionais organizadas pela EUSA e pela European Handball Federation (EHF), do Cartão Branco, uma iniciativa promovida pelo Plano Nacional de Ética no Desporto (PNED), do Instituto Português do Desporto e Juventude (IPDJ), destinada a reconhecer gestos de fair play, ética e respeito dentro e fora do campo. Durante o Campeonato Europeu Universitário de Andebol - Covilhã 2025 foram atribuídos cinco Cartões Brancos a atletas, treinadores e elementos das equipas médicas, distinguindo comportamentos exemplares de desportivismo. Paralelamente, a organização promoveu diversas ações de sensibilização para os valores éticos no desporto, entre as quais a exposição \"Move-te por Valores\", reforçando o compromisso do evento com a educação para a cidadania através do desporto. O reconhecimento agora atribuído pela EUSA reforça o impacto internacional desta iniciativa e confirma o Campeonato Europeu Universitário de Andebol - Covilhã 2025 como um marco na promoção do fair play e da ética no desporto universitário europeu. Para a Comissão Organizadora, esta distinção representa o reconhecimento de um trabalho que procurou ir além da competição, colocando os valores da integridade, do respeito, da solidariedade e da união no centro de um dos maiores eventos desportivos universitários realizados em Portugal. A distinção agora alcançada representa também um incentivo para os próximos desafios da organização. A AAUBI encontra-se já a preparar o Campeonato Europeu Universitário de Ténis de Mesa 2027, que decorrerá de 26 a 31 de julho, na Covilhã, dando continuidade ao compromisso de acolher competições internacionais de excelência e de afirmar a cidade e a Universidade da Beira Interior como uma referência no panorama do desporto universitário europeu.",
+        "keywords": [
+            {
+                "keyword": "prémio fair play eusa",
+                "score": 0.7265
+            },
+            {
+                "keyword": "eusa prémio fair play",
+                "score": 0.7164
+            },
+            {
+                "keyword": "2025 distinguido prémio fair",
+                "score": 0.6879
+            },
+            {
+                "keyword": "eusa prémio fair",
+                "score": 0.671
+            },
+            {
+                "keyword": "organizadora campeonato europeu universitário",
+                "score": 0.6529
+            },
+            {
+                "keyword": "2025 distinguido prémio",
+                "score": 0.6504
+            },
+            {
+                "keyword": "campo campeonato europeu universitário",
+                "score": 0.644
+            },
+            {
+                "keyword": "prémio fair play",
+                "score": 0.6432
+            },
+            {
+                "keyword": "comissão organizadora campeonato europeu",
+                "score": 0.6406
+            },
+            {
+                "keyword": "organizadora campeonato europeu",
+                "score": 0.6402
+            }
+        ],
+        "source_name": null
     }
 ]
