@@ -3,6 +3,21 @@ from typing import Optional
 from api.database import get_connection
 from api.auth import require_admin
 
+
+def calcular_impacto_prioridade(sentiment_score, sentiment_label, likes, respostas):
+    score = abs(sentiment_score) if sentiment_score else 0
+    engagement = (likes or 0) + (respostas or 0) * 2
+    impacto = max(5, round(score * 100 + engagement))
+
+    if sentiment_label == "NEGATIVE":
+        prioridade = "Alta"
+    elif sentiment_label == "POSITIVE":
+        prioridade = "Baixa"
+    else:
+        prioridade = "Média"
+
+    return impacto, prioridade
+
 router = APIRouter(prefix="/posts", tags=["Posts"])
 
 @router.get("/")
@@ -95,6 +110,8 @@ def get_posts(
             "emocoes_ativas":   r[12].split(", ") if r[12] else [],
             "topico_id":        r[13],
             "topico_keywords":  r[14].split(", ") if r[14] else [],
+            "impacto":          calcular_impacto_prioridade(r[10], r[9], r[4], r[5])[0],
+            "prioridade":       calcular_impacto_prioridade(r[10], r[9], r[4], r[5])[1],
         }
         for r in rows
     ]
