@@ -36,3 +36,4 @@ matplotlib==3.11.0
 tiktoken
 protobuf
 sentencepiece
+reportlab
