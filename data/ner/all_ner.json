@@ -123473,6 +123473,674 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNeW4tSUxkeUdSa2hWTFFyMzZES0tERG4xa182Z0pzLUtOSWtRc1FKN1diNW1ZbllKWDdZLUZPWjJiV19lRkd3elVxT0hIUUZnX3liQUlIMWxwWGQtZHF1Wm1pdm1kVkdVUXJmNXFDU182TktmRHpQYkd6N2c5THpBcERkelV6Ujg0X3JIQzFwZ3AxSDQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 11:00:51 GMT",
+        "title_clean": "Sp. Covilhã com novo técnico, 12 reforços e 9 renovações",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Portuguesa de Futebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Cidade do Futebol",
+                "label": "LOC"
+            },
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Mafra",
+                "label": "LOC"
+            },
+            {
+                "text": "Lusitano de Évora",
+                "label": "LOC"
+            },
+            {
+                "text": "Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Restelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas",
+                "label": "LOC"
+            },
+            {
+                "text": "Louletano",
+                "label": "LOC"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Mota",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Luciano Victor",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rafael",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Rafa Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Pipo Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Edu Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Emerson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Elvas",
+                "label": "ORG"
+            },
+            {
+                "text": "Tomás Pimenta",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Ovarense",
+                "label": "ORG"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "João Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Benfica Castelo",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Henrique",
+                "label": "PER"
+            },
+            {
+                "text": "Ronaldo Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "Torreense",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Brito",
+                "label": "PER"
+            },
+            {
+                "text": "João Pacheco",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Sena",
+                "label": "PER"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Jovane Camara",
+                "label": "PER"
+            },
+            {
+                "text": "Guard",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0Z6UTlOc09aWlBIZERIR3k1X25DSjRXOFpSNVBvVDc4V01GMXBzRno1bWNZYmxteEFCVUNnd19FLVAwQ3loMDZ6dVJGS1BwV2JpSVdScmR5WjRjOUEzQk9kby05RGhtVUI3ei1iOGF3T2l3eVgzbkFpaFBkaW81LXV0T1pYR2UteWlTWG95VW12YTB0XzBtQVJfYjlLWkxzcm5QcWI1SQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 14:31:38 GMT",
+        "title_clean": "PJ deteve terceiro suspeito de sequestro, extorsão e roubo na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Departamento de Investigação Criminal",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "O INTERIOR",
+                "label": "ORG"
+            },
+            {
+                "text": "DIC da",
+                "label": "ORG"
+            },
+            {
+                "text": "Departamento de Investigação e Ação Penal",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibEFVX3lxTE00TGhXTkJhSG1QajF0eE9oZ0owWjBnOXM0bnI0aE9ldE9mQWhmeUxMcmNfdXB5bzhPajJrREI3X1Q5V01KOTlvdDhjS2FxRlpkWHZ2T0lJNjVQY2VzVnJEb0dMbm1udFV2dloxMw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 08:39:00 GMT",
+        "title_clean": "UBI tem 1613 vagas disponíveis - Jornal Notícias da Covilhã",
+        "entities": [
+            {
+                "text": "Jornal Notícias da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Departamento de Engenharia Civil",
+                "label": "ORG"
+            },
+            {
+                "text": "Gabinete de Acesso",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTkVIcU8xRHREVG5CYmR1eHNxYWphbUdqb1hidllPS3JRYmNpdWZjVWR6MmVrd2twbEtCenVPMDJndXdOZHd5YVNjeVVzdWNLYVc0eUZCWnBzYlJRWnZmdkw1My1xTG1QZUhRazFTOGxLalNpN3Z6TTBDNU5jck5WTFMxNEgzMWR5a0xBWHNPODRHcExPaFg3M2h5TktLb0VBOEJJLUQ4VDUzbVNKR0MwTHdkWGtxU0VicHBlRE0tNnF1NWNINEpuRUpXVTNBV1RQZUNiX0JzOFI1SF93NlZvbjF4S0szZUJ2QW9vbXpyek9hT1ktS0E?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "title_clean": "Campeonato Europeu Universitário de Andebol - Covilhã 2025 distinguido com Prémio \"Fair Play da EUSA\" em Itália - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão Organizadora",
+                "label": "ORG"
+            },
+            {
+                "text": "Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "European University Sports Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Salerno",
+                "label": "LOC"
+            },
+            {
+                "text": "João Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Académica da Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "AAUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Bernardo",
+                "label": "PER"
+            },
+            {
+                "text": "Esmeralda Gonçalinho",
+                "label": "PER"
+            },
+            {
+                "text": "European Handball Federation",
+                "label": "ORG"
+            },
+            {
+                "text": "Plano Nacional de Ética no Desporto",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxPd28tWEJsOE5RQkpBT1NKdHRnNzBBSFFhZ3FsMXdFNFZKU1FkeURXUnFvemNIRnVwX29RTEFVaW9QNS1HTDRVbmVmUVV3d01oSk4zblBSbEtZUU5oVEgwTEZYcHpBVVFpQVBzV0xsUERObTllbTljdmhhV2VWQ0JxZHZCWktaNndaVlc0VWZZYnpnWXFuQWhJeE51NUkxZ1hGTDM4N2g1OVRCeUxveEg5X3ppRzZDaDlzVmhsSg?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 09:57:52 GMT",
+        "title_clean": "Sporting da Covilhã divulga calendário de pré-época com 4 jogos de preparação",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal da Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "FC Oliveira do Hospital",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal José Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Sertanense",
+                "label": "ORG"
+            },
+            {
+                "text": "Campo de Jogos Dr. Marques dos Santos",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal Vale do Romeiro",
+                "label": "LOC"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTl8xYUNpaDg1OFgxajBfV09mdkVKajJMbHd3UFpVR1cxNy1jbHRJM0wzbEtLYjZqSlRxaVF5Vk1rYzJ4OFRWOEZfMDhrVFJ6STNRdVF4d1haQ0lsSlRUaVoyYklQY3RkWFZFXzFQUHpOUzlUS1I3VlBDX3FkTkhfTHhTNWg4VlFBT2g1cDFmODhlUUVLaHE2R3ZONWFOWkRuUWQyaXYwckFvQXNta181bkNhYWFqTC1RSUFSZ0lMTEs4eEh0TXBEMWtRMFllTmZQdFkzYTlYc01oZw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 08:40:25 GMT",
+        "title_clean": "Organização do Europeu Universitário de Andebol na Covilhã distinguida com Prémio Fair Play da EUSA",
+        "entities": [
+            {
+                "text": "Organização do Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Comissão Organizadora do Campeonato Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "European University Sports Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Salerno",
+                "label": "LOC"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "João Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Académica da Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "AAUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Bernardo",
+                "label": "PER"
+            },
+            {
+                "text": "Esmeralda Gonçalinho",
+                "label": "PER"
+            },
+            {
+                "text": "European Handball Federation",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3p0ejVVeFN2eDJtSVFhRTlzeVZnVzdxY0lRZGhvekJ2Wnh1dnJfVXdYV3djRG9oRXFKS2RCMGk0dTdDSS1OWm5pZnRfNWRodXpHSzUzVG9qMTF3ci01UE9vT3VMRnNXY1dSVXVGRjVJbnpVSDlSbk5uWklwMHVxOURsWjVkV2tuNnY2UERlT044ZkJWUHJVb04wOFRQV3F4UjhWM2I0b1VjVzQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 19:30:57 GMT",
+        "title_clean": "Estado apoia projetos de municípios da Região Centro com mais de 4,4 milhões - ECO",
+        "entities": [
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Miranda do Corvo",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedrógão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Comba Dão",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila de Rei",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Natural da Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado da Administração Local",
+                "label": "ORG"
+            },
+            {
+                "text": "Ordenamento do Território",
+                "label": "ORG"
+            },
+            {
+                "text": "Silvério Regalado",
+                "label": "PER"
+            },
+            {
+                "text": "Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "José Maria Brandão de Brito",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh0X25iTEdiSGlNenBkdl9xM3NGblZEV0VERjJ3VW4wN2pwMkh5UzE5NFhUdGdyZy1tNnNDQ0lidmQzdEExT2M3aHBWYlpvdllsYnBreHBhLUNPRUNlUVRSeU5lRFNqODRxWmJFRlRYa21aWWFSNk14LTUxVm56STNSdTIzWDVTOU5pV2hCT2xVUUF1bDVnX1NuMk9WZF9fOElKcGNFM0FxVVNUcnhSZ0dmUG5oZE5BbG9EbXk2VjA4WmFFN0FkZlFGZFJFRFk?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 12:45:06 GMT",
+        "title_clean": "EUSA atribui prémio de fair play à organização do Europeu de Andebol da Covilhã",
+        "entities": [
+            {
+                "text": "Europeu de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "European University Sports Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão Organizadora do Campeonato Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã 2025",
+                "label": "ORG"
+            },
+            {
+                "text": "Salerno",
+                "label": "LOC"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "European Handball Federation",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Académica",
+                "label": "ORG"
+            },
+            {
+                "text": "AAUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Académica do Desporto Universitário",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "João Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Bernardo",
+                "label": "PER"
+            },
+            {
+                "text": "Esmeralda",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalinho",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpBYU5yeUwxa3M4aVRlNFlUMUtCQmo5QVNscWh1TWVkOFNTOTBjUVJGQVJJWkhTTFBRTU4tX1pvbEZBR2Rxa0RFX1hHSkZhME1Ia2NRdFVTVUhFcklHd01KOFFCTEdPUzNZYjJXbHZGS3BtUTdQMUlpV2YwaTc3VWNHaUhVWV9yU0MxZ2JTWS1TaTJadFdKNXdPdE9ESU5FR2tJQXBZeDZfNXd0UUZHZ1AwcmY4Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 10:00:50 GMT",
+        "title_clean": "Organização do Europeu Universitário de Andebol recebeu Prémio “Fair Play” da EUSA",
+        "entities": [
+            {
+                "text": "Organização do Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "European University Sports Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Salerno",
+                "label": "LOC"
+            },
+            {
+                "text": "João Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Académica da Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "AAUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Bernardo",
+                "label": "PER"
+            },
+            {
+                "text": "Esmeralda Gonçalinho",
+                "label": "PER"
+            },
+            {
+                "text": "European Handball Federation",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

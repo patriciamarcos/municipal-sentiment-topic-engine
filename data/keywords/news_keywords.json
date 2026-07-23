@@ -124566,5 +124566,455 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNeW4tSUxkeUdSa2hWTFFyMzZES0tERG4xa182Z0pzLUtOSWtRc1FKN1diNW1ZbllKWDdZLUZPWjJiV19lRkd3elVxT0hIUUZnX3liQUlIMWxwWGQtZHF1Wm1pdm1kVkdVUXJmNXFDU182TktmRHpQYkd6N2c5THpBcERkelV6Ujg0X3JIQzFwZ3AxSDQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 11:00:51 GMT",
+        "title_clean": "Sp. Covilhã com novo técnico, 12 reforços e 9 renovações",
+        "clean_text": "Sp. Covilhã com novo técnico, 12 reforços e 9 renovações. O Sporting da Covilhã vai receber o União de Santarém na primeira jornada da Liga 3, que começa no fim de semana de 8 e 9 de agosto. O sorteio do campeonato realizou-se na quinta-feira, na sede da Federação Portuguesa de Futebol, na Cidade do Futebol. A prova é disputada por 20 clubes, divididos por duas séries de dez cada. Os serranos, que estão neste escalão pela terceira época consecutiva integram a Série B onde vão encontrar o recém-promovido Vitória de Sernache, campeão em título do Campeonato de Portugal. O dérbi do distrito de Castelo Branco está agendado para a segunda jornada, a 16 de agosto, com os covilhanenses a deslocarem-se a Cernache do Bonjardim (Sertã). Segue-se o Atlético no Santos Pinto e as deslocações a Mafra e ao terreno do Lusitano de Évora. Na sexta jornada, o Covilhã recebe a Oliveirense, recém-despromovida da IIª Liga, e viaja depois até ao Restelo para defrontar o Belenenses. Caldas (casa) e Louletano (fora) completam a primeira volta da Liga 3, agendada para 8 de novembro. A primeira fase do campeonato do terceiro escalão do futebol nacional terminará a 31 de janeiro de 2027. Os quatro primeiros classificados de cada série jogam depois a fase de subida e de apuramento de campeão, enquanto as restantes equipas vão lutar pela manutenção/descida. Ao comando técnico dos \"leões da Serra\" está Dani Matos. O substituto de Rui Mota vem do Benfica de Castelo Branco e representou o clube serrano durante seis épocas e meia. Completam a nova equipa técnica os adjuntos João Caridade, Luciano Victor (treinador de guarda-redes), Fábio Santos, Bruno Rafael e Paulo Gomes. Quanto ao plantel, o técnico conta, para já, com os guarda-redes Gustavo Galil (renovou) e Rafa Pires (ex-Elétrico); os defesas Kauan Gomes (ex-Alverca), Pipo Marques (ex-Bragança), Edu Silva (renovou), Emerson Gomes (ex-Elvas, Tomás Pimenta (renovou), Diogo Silva (ex-Ovarense) e Mohamed Aidara (ex-Felgueiras); os médios Fábio Cruz (renovou), João Cruz (ex-Benfica Castelo Branco), Luís Henrique (renovou), Ângelo Barbosa (renovou), Ronaldo Coelho (ex-Elvas) e Gonçalo Cascalheira (ex-Torreense); e os avançados Pedro Brito (renovou), Rui Peixoto (renovou), João Pacheco (ex-Tirsense), Miguel Sena (ex-Gouveia), Jailson Gomes (renovou) e Jovane Camara (ex-Guarda FC).",
+        "keywords": [
+            {
+                "keyword": "fase campeonato terceiro escalão",
+                "score": 0.5998
+            },
+            {
+                "keyword": "semana sorteio campeonato realizou",
+                "score": 0.5995
+            },
+            {
+                "keyword": "agendada primeira fase campeonato",
+                "score": 0.5962
+            },
+            {
+                "keyword": "campeonato realizou quinta feira",
+                "score": 0.5927
+            },
+            {
+                "keyword": "primeira fase campeonato terceiro",
+                "score": 0.5913
+            },
+            {
+                "keyword": "fim semana sorteio campeonato",
+                "score": 0.5875
+            },
+            {
+                "keyword": "liga começa fim semana",
+                "score": 0.5821
+            },
+            {
+                "keyword": "campeão enquanto restantes equipas",
+                "score": 0.571
+            },
+            {
+                "keyword": "campeonato terceiro",
+                "score": 0.5678
+            },
+            {
+                "keyword": "título campeonato portugal",
+                "score": 0.5593
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0Z6UTlOc09aWlBIZERIR3k1X25DSjRXOFpSNVBvVDc4V01GMXBzRno1bWNZYmxteEFCVUNnd19FLVAwQ3loMDZ6dVJGS1BwV2JpSVdScmR5WjRjOUEzQk9kby05RGhtVUI3ei1iOGF3T2l3eVgzbkFpaFBkaW81LXV0T1pYR2UteWlTWG95VW12YTB0XzBtQVJfYjlLWkxzcm5QcWI1SQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 14:31:38 GMT",
+        "title_clean": "PJ deteve terceiro suspeito de sequestro, extorsão e roubo na Covilhã",
+        "clean_text": "PJ deteve terceiro suspeito de sequestro, extorsão e roubo na Covilhã. A Polícia Judiciária (PJ) deteve na sexta-feira, na zona da Marinha Grande, um terceiro suspeito da prática dos crimes de sequestro, extorsão e roubo, ocorridos na Covilhã, e de que terá sido alvo uma mulher. «Após ações de recolha de informação criminal que apontavam que uma mulher, residente na cidade da Covilhã, teria sido alvo de um sequestro, seguido de roubo e extorsão, o Departamento de Investigação Criminal da Guarda iniciou uma investigação na qual foi detido, hoje, na zona da Marinha Grande, um terceiro autor da prática destes crimes», adiantou a PJ em comunicado enviado a O INTERIOR. Além de localizar e deter «mais um dos suspeitos», os inspetores do DIC da Guarda também apreenderam «importantes elementos de prova, tais como uma arma ilícita, pistola semiautomática, presumivelmente usada no cometimento dos crimes». Os dois cúmplices tinham sido detidos a 27 de março, no concelho da Covilhã. Na altura, a PJ, em articulação com o Departamento de Investigação e Ação Penal (DIAP) de Castelo Branco, deu cumprimento a um mandado de detenção e procedeu a uma segunda detenção em flagrante delito. Segundo a Judiciária, o caso resultou da vítima ter fornecido quatro contas bancárias aos suspeitos, «a fim de dissiparem o dinheiro proveniente da prática de crimes de tráfico de estupefacientes e burlas informáticas, ou seja, para \"branquearem\" tais montantes». Só que, «a dada altura, a mulher, que, num primeiro momento, se encontrava conivente com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolveu», acrescentou a Judiciária. O detido, com 33 anos, irá ser presente, no sábado, no Tribunal do Fundão, para primeiro interrogatório judicial e eventual aplicação de medidas de coação. O inquérito é titulado pelo Departamento de Investigação e Ação Penal (DIAP) de Castelo Branco.",
+        "keywords": [
+            {
+                "keyword": "terceiro suspeito sequestro",
+                "score": 0.6651
+            },
+            {
+                "keyword": "terceiro suspeito prática crimes",
+                "score": 0.646
+            },
+            {
+                "keyword": "suspeito prática crimes sequestro",
+                "score": 0.6447
+            },
+            {
+                "keyword": "terceiro suspeito sequestro extorsão",
+                "score": 0.6407
+            },
+            {
+                "keyword": "grande terceiro suspeito prática",
+                "score": 0.6191
+            },
+            {
+                "keyword": "marinha grande terceiro suspeito",
+                "score": 0.618
+            },
+            {
+                "keyword": "mandado detenção procedeu",
+                "score": 0.6047
+            },
+            {
+                "keyword": "destes crimes pj enviado",
+                "score": 0.602
+            },
+            {
+                "keyword": "polícia judiciária pj",
+                "score": 0.6001
+            },
+            {
+                "keyword": "pj deteve terceiro suspeito",
+                "score": 0.5991
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibEFVX3lxTE00TGhXTkJhSG1QajF0eE9oZ0owWjBnOXM0bnI0aE9ldE9mQWhmeUxMcmNfdXB5bzhPajJrREI3X1Q5V01KOTlvdDhjS2FxRlpkWHZ2T0lJNjVQY2VzVnJEb0dMbm1udFV2dloxMw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 08:39:00 GMT",
+        "title_clean": "UBI tem 1613 vagas disponíveis - Jornal Notícias da Covilhã",
+        "clean_text": "UBI tem 1613 vagas disponíveis - Jornal Notícias da Covilhã. A UBI tem disponíveis, este ano, 1613 vagas distribuídas por 37 cursos de 1.º Ciclo e/ou Mestrado Integrado no Concurso Nacional de Acesso ao Ensino Superior (CNAES), que começou na segunda-feira, 20. Estas vagas distribuem-se pelos diversos cursos das cinco faculdades da UBI e permitem frequentar cursos \"com elevada qualidade, onde são incorporadas as mais recentes matérias científicas, ensinadas de acordo com as mais recentes inovações pedagógicas. Os diplomados pela UBI são preparados para encontrar saídas profissionais aliciantes, em áreas de futuro\", garante a universidade, em comunicado. Este ano, a UBI estreia a licenciatura em Cidades e Comunidades Sustentáveis Inteligentes, que tem disponíveis 30 vagas, reforçando a oferta formativa do Departamento de Engenharia Civil. \"O novo curso foi criado para responder a desafios atuais como mobilidade, energia, água e resíduos, reabilitação urbana, resiliência climática e planeamento sustentável\", salienta a UBI. A 1.ª Fase do Concurso Nacional de Acesso prolonga-se até 6 de agosto. Para os candidatos ao contingente para emigrantes e/ou candidatos com pedido de substituição de provas de ingresso por exames estrangeiros, o prazo termina a 27 de julho. A divulgação dos resultados está, nesta altura, agendada para 23 de agosto, e a matrícula e inscrição nas instituições de ensino superior dos candidatos colocados será entre 24 e 27 de agosto. O CNAES terá, depois, mais duas fases: a 2.ª fase, entre 24 de agosto e 2 de setembro, e a 3.ª fase, entre 22 e 24 de setembro. Na página da UBI estarão disponíveis todas as informações necessárias sobre todos os cursos: Provas de Ingresso, número de vagas e notas dos últimos colocados das 1.ª e 2.ª fases de 2025/2026. Está também em funcionamento o Gabinete de Acesso ao Ensino Superior, disponível para prestar apoio através do telefone 275 242 014 ou do e-mail .",
+        "keywords": [
+            {
+                "keyword": "vagas distribuídas 37 cursos",
+                "score": 0.7286
+            },
+            {
+                "keyword": "vagas distribuem diversos cursos",
+                "score": 0.7081
+            },
+            {
+                "keyword": "ubi permitem frequentar cursos",
+                "score": 0.7045
+            },
+            {
+                "keyword": "distribuídas 37 cursos",
+                "score": 0.703
+            },
+            {
+                "keyword": "diversos cursos cinco faculdades",
+                "score": 0.6763
+            },
+            {
+                "keyword": "distribuem diversos cursos",
+                "score": 0.6762
+            },
+            {
+                "keyword": "pedagógicas diplomados ubi são",
+                "score": 0.6643
+            },
+            {
+                "keyword": "diversos cursos",
+                "score": 0.6546
+            },
+            {
+                "keyword": "37 cursos ciclo mestrado",
+                "score": 0.6523
+            },
+            {
+                "keyword": "distribuem diversos cursos cinco",
+                "score": 0.6516
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTkVIcU8xRHREVG5CYmR1eHNxYWphbUdqb1hidllPS3JRYmNpdWZjVWR6MmVrd2twbEtCenVPMDJndXdOZHd5YVNjeVVzdWNLYVc0eUZCWnBzYlJRWnZmdkw1My1xTG1QZUhRazFTOGxLalNpN3Z6TTBDNU5jck5WTFMxNEgzMWR5a0xBWHNPODRHcExPaFg3M2h5TktLb0VBOEJJLUQ4VDUzbVNKR0MwTHdkWGtxU0VicHBlRE0tNnF1NWNINEpuRUpXVTNBV1RQZUNiX0JzOFI1SF93NlZvbjF4S0szZUJ2QW9vbXpyek9hT1ktS0E?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "title_clean": "Campeonato Europeu Universitário de Andebol - Covilhã 2025 distinguido com Prémio \"Fair Play da EUSA\" em Itália - Diário Digital Castelo Branco",
+        "clean_text": "Campeonato Europeu Universitário de Andebol - Covilhã 2025 distinguido com Prémio \"Fair Play da EUSA\" em Itália - Diário Digital Castelo Branco. Por: Diário Digital Castelo Branco A Comissão Organizadora do Campeonato Europeu Universitário de Andebol - Covilhã 2025 foi distinguida pela European University Sports Association (EUSA) com um prémio de Fair Play, em reconhecimento pela implementação inédita do Cartão Branco numa competição internacional universitária. A distinção foi entregue durante a EUSA Awards Ceremony 2026, realizada no passado dia 19 de julho, em Salerno, Itália, cerimónia que homenageou personalidades, instituições e organizações que se destacaram pelo seu contributo para o desenvolvimento do desporto universitário europeu e pela promoção dos seus valores. Em representação da Comissão Organizadora, estiveram presentes João Nunes, presidente da Associação Académica da Universidade da Beira Interior (AAUBI) e da Comissão Organizadora do evento, e Pedro Bernardo, secretário-geral do Campeonato Europeu Universitário de Andebol - Covilhã 2025, e, em representação do Plano Nacional de Ética no Desporto (PNED), Esmeralda Gonçalinho, que receberam este reconhecimento em nome de toda a organização. Esta distinção surge na sequência da implementação, pela primeira vez na história das competições internacionais organizadas pela EUSA e pela European Handball Federation (EHF), do Cartão Branco, uma iniciativa promovida pelo Plano Nacional de Ética no Desporto (PNED), do Instituto Português do Desporto e Juventude (IPDJ), destinada a reconhecer gestos de fair play, ética e respeito dentro e fora do campo. Durante o Campeonato Europeu Universitário de Andebol - Covilhã 2025 foram atribuídos cinco Cartões Brancos a atletas, treinadores e elementos das equipas médicas, distinguindo comportamentos exemplares de desportivismo. Paralelamente, a organização promoveu diversas ações de sensibilização para os valores éticos no desporto, entre as quais a exposição \"Move-te por Valores\", reforçando o compromisso do evento com a educação para a cidadania através do desporto. O reconhecimento agora atribuído pela EUSA reforça o impacto internacional desta iniciativa e confirma o Campeonato Europeu Universitário de Andebol - Covilhã 2025 como um marco na promoção do fair play e da ética no desporto universitário europeu. Para a Comissão Organizadora, esta distinção representa o reconhecimento de um trabalho que procurou ir além da competição, colocando os valores da integridade, do respeito, da solidariedade e da união no centro de um dos maiores eventos desportivos universitários realizados em Portugal. A distinção agora alcançada representa também um incentivo para os próximos desafios da organização. A AAUBI encontra-se já a preparar o Campeonato Europeu Universitário de Ténis de Mesa 2027, que decorrerá de 26 a 31 de julho, na Covilhã, dando continuidade ao compromisso de acolher competições internacionais de excelência e de afirmar a cidade e a Universidade da Beira Interior como uma referência no panorama do desporto universitário europeu.",
+        "keywords": [
+            {
+                "keyword": "prémio fair play eusa",
+                "score": 0.7265
+            },
+            {
+                "keyword": "eusa prémio fair play",
+                "score": 0.7164
+            },
+            {
+                "keyword": "2025 distinguido prémio fair",
+                "score": 0.6879
+            },
+            {
+                "keyword": "eusa prémio fair",
+                "score": 0.671
+            },
+            {
+                "keyword": "organizadora campeonato europeu universitário",
+                "score": 0.6529
+            },
+            {
+                "keyword": "2025 distinguido prémio",
+                "score": 0.6504
+            },
+            {
+                "keyword": "campo campeonato europeu universitário",
+                "score": 0.644
+            },
+            {
+                "keyword": "prémio fair play",
+                "score": 0.6432
+            },
+            {
+                "keyword": "comissão organizadora campeonato europeu",
+                "score": 0.6406
+            },
+            {
+                "keyword": "organizadora campeonato europeu",
+                "score": 0.6402
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxPd28tWEJsOE5RQkpBT1NKdHRnNzBBSFFhZ3FsMXdFNFZKU1FkeURXUnFvemNIRnVwX29RTEFVaW9QNS1HTDRVbmVmUVV3d01oSk4zblBSbEtZUU5oVEgwTEZYcHpBVVFpQVBzV0xsUERObTllbTljdmhhV2VWQ0JxZHZCWktaNndaVlc0VWZZYnpnWXFuQWhJeE51NUkxZ1hGTDM4N2g1OVRCeUxveEg5X3ppRzZDaDlzVmhsSg?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 09:57:52 GMT",
+        "title_clean": "Sporting da Covilhã divulga calendário de pré-época com 4 jogos de preparação",
+        "clean_text": "Sporting da Covilhã divulga calendário de pré-época com 4 jogos de preparação. O Sporting da Covilhã divulgou, nas suas redes sociais, o calendário de jogos de preparação para a época 2026/27, até 1 de agosto. O primeiro desses testes dos leões da Serra está marcado para esta terça-feira, 22 de julho, frente ao Guarda FC, às 10:30, no Estádio Municipal da Guarda. Segue-se, a 25 de julho, um encontro com o FC Oliveira do Hospital, às 10:00, no Estádio Municipal José Santos Pinto. A preparação prossegue a 28 de julho, com uma deslocação ao terreno do Sertanense, onde a partida tem início às 18:00, no Campo de Jogos Dr. Marques dos Santos. O último jogo de pré-época está agendado para 1 de agosto, diante do Benfica de Castelo Branco, às 10:30, no Estádio Municipal Vale do Romeiro. Recordar que o Sporting da Covilhã se estreia oficialmente na Liga 3 no fim de semana de 8 e 9 de agosto, recebendo a União de Santarém na primeira jornada da Série B.",
+        "keywords": [
+            {
+                "keyword": "calendário pré época jogos",
+                "score": 0.7392
+            },
+            {
+                "keyword": "calendário jogos preparação",
+                "score": 0.6795
+            },
+            {
+                "keyword": "calendário jogos preparação época",
+                "score": 0.6768
+            },
+            {
+                "keyword": "época jogos preparação sporting",
+                "score": 0.6367
+            },
+            {
+                "keyword": "época jogos preparação",
+                "score": 0.6334
+            },
+            {
+                "keyword": "pré época jogos preparação",
+                "score": 0.6284
+            },
+            {
+                "keyword": "calendário pré época",
+                "score": 0.6182
+            },
+            {
+                "keyword": "calendário jogos",
+                "score": 0.6177
+            },
+            {
+                "keyword": "calendário pré",
+                "score": 0.616
+            },
+            {
+                "keyword": "divulga calendário pré época",
+                "score": 0.5991
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTl8xYUNpaDg1OFgxajBfV09mdkVKajJMbHd3UFpVR1cxNy1jbHRJM0wzbEtLYjZqSlRxaVF5Vk1rYzJ4OFRWOEZfMDhrVFJ6STNRdVF4d1haQ0lsSlRUaVoyYklQY3RkWFZFXzFQUHpOUzlUS1I3VlBDX3FkTkhfTHhTNWg4VlFBT2g1cDFmODhlUUVLaHE2R3ZONWFOWkRuUWQyaXYwckFvQXNta181bkNhYWFqTC1RSUFSZ0lMTEs4eEh0TXBEMWtRMFllTmZQdFkzYTlYc01oZw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 08:40:25 GMT",
+        "title_clean": "Organização do Europeu Universitário de Andebol na Covilhã distinguida com Prémio Fair Play da EUSA",
+        "clean_text": "Organização do Europeu Universitário de Andebol na Covilhã distinguida com Prémio Fair Play da EUSA. A Comissão Organizadora do Campeonato Europeu Universitário de Andebol - Covilhã 2025 foi distinguida pela European University Sports Association (EUSA) com um Prémio Fair Play, em reconhecimento pela implementação inédita do Cartão Branco numa competição internacional universitária. A distinção foi entregue na EUSA Awards Ceremony 2026, realizada no passado dia 19 de julho, em Salerno, Itália, cerimónia que distinguiu personalidades e organizações pelo contributo para o desenvolvimento do desporto universitário europeu e pela promoção dos seus valores. Em representação da organização estiveram João Nunes, presidente da Associação Académica da Universidade da Beira Interior (AAUBI) e da Comissão Organizadora, e Pedro Bernardo, secretário-geral do Campeonato Europeu Universitário de Andebol - Covilhã 2025. Em representação do Plano Nacional de Ética no Desporto (PNED) marcou presença Esmeralda Gonçalinho, que recebeu igualmente a distinção. O prémio resulta da introdução, pela primeira vez na história das competições internacionais organizadas pela EUSA e pela European Handball Federation (EHF), do Cartão Branco, iniciativa promovida pelo PNED, do Instituto Português do Desporto e Juventude (IPDJ), destinada a reconhecer gestos de fair play, ética e respeito dentro e fora do campo. Durante o Campeonato Europeu Universitário de Andebol, realizado na Covilhã em 2025, foram atribuídos cinco Cartões Brancos a atletas, treinadores e elementos das equipas médicas, distinguindo comportamentos exemplares de desportivismo. A organização promoveu ainda várias ações de sensibilização para os valores éticos no desporto, entre as quais a exposição \"Move-te por Valores\". Segundo a Comissão Organizadora, o reconhecimento da EUSA reforça o impacto internacional da iniciativa e confirma o Campeonato Europeu Universitário de Andebol - Covilhã 2025 como uma referência na promoção do fair play e da ética no desporto universitário europeu. A organização considera ainda que esta distinção representa um incentivo para os próximos desafios, estando a AAUBI já a preparar a organização do Campeonato Europeu Universitário de Ténis de Mesa 2027, que decorrerá entre 26 e 31 de julho, na Covilhã.",
+        "keywords": [
+            {
+                "keyword": "prémio fair play eusa",
+                "score": 0.7346
+            },
+            {
+                "keyword": "eusa prémio fair play",
+                "score": 0.7133
+            },
+            {
+                "keyword": "organização europeu universitário andebol",
+                "score": 0.6939
+            },
+            {
+                "keyword": "comissão organizadora campeonato europeu",
+                "score": 0.6923
+            },
+            {
+                "keyword": "organizadora campeonato europeu universitário",
+                "score": 0.6711
+            },
+            {
+                "keyword": "organizadora campeonato europeu",
+                "score": 0.6672
+            },
+            {
+                "keyword": "organização campeonato europeu universitário",
+                "score": 0.6667
+            },
+            {
+                "keyword": "iniciativa confirma campeonato europeu",
+                "score": 0.6606
+            },
+            {
+                "keyword": "organização campeonato europeu",
+                "score": 0.6599
+            },
+            {
+                "keyword": "preparar organização campeonato europeu",
+                "score": 0.6511
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3p0ejVVeFN2eDJtSVFhRTlzeVZnVzdxY0lRZGhvekJ2Wnh1dnJfVXdYV3djRG9oRXFKS2RCMGk0dTdDSS1OWm5pZnRfNWRodXpHSzUzVG9qMTF3ci01UE9vT3VMRnNXY1dSVXVGRjVJbnpVSDlSbk5uWklwMHVxOURsWjVkV2tuNnY2UERlT044ZkJWUHJVb04wOFRQV3F4UjhWM2I0b1VjVzQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 19:30:57 GMT",
+        "title_clean": "Estado apoia projetos de municípios da Região Centro com mais de 4,4 milhões - ECO",
+        "clean_text": "Estado apoia projetos de municípios da Região Centro com mais de 4,4 milhões - ECO. Escolha o ECO como fonte preferida no Google Escolher › Os municípios da Covilhã, Castanheira de Pera, Celorico da Beira, Gouveia, Manteigas, Miranda do Corvo, Pedrógão Grande, Santa Comba Dão, Seia e Vila de Rei vão investir cerca de 14 milhões de euros na qualificação da rede viária, melhoria das condições de segurança, reabilitação de edifícios públicos e criação de infraestruturas de apoio à atividade económica. Considerados \"estruturantes\" para a região Centro, os projetos serão apoiados em mais de 4,4 milhões de euros pelo Estado. Cinco dos 10 contratos-programa de cooperação técnica e financeira, que foram assinados esta quarta-feira, na Covilhã, dizem respeito a municípios que integram o Parque Natural da Serra da Estrela: Covilhã, Celorico da Beira, Gouveia, Manteigas e Seia. \"São cerca de 2,5 milhões de euros de apoio direto a cinco concelhos para transformar projetos em obras e melhorar as condições de vida das pessoas nestes territórios, à semelhança do que aconteceu com a Guarda em 2025\", detalhou o secretário de Estado da Administração Local e Ordenamento do Território, Silvério Regalado, durante a cerimónia de assinatura dos contratos-programa. Quando investimos no Interior, não estamos a compensar territórios, estamos a mobilizar o seu potencial e a reforçar o desenvolvimento de todo o país. Silvério Regalado Secretário de Estado da Administração Local e Ordenamento do Território Silvério Regalado destacou, por isso, o impacto destes investimentos na coesão territorial, e no desenvolvimento económico e social destes concelhos. \"Quando investimos no Interior, não estamos a compensar territórios, estamos a mobilizar o seu potencial e a reforçar o desenvolvimento de todo o país.\" Apoiados pelo Estado, estes projetos representam também um primeiro passo na concretização dos objetivos do \"Programa de Revitalização do Parque Natural da Serra da Estrela\", notou o governante. Cada um dos cinco concelhos receberá, assim, um apoio de meio milhão de euros no âmbito de \"uma estratégia orientada para a recuperação, a resiliência, o desenvolvimento económico e social, e a valorização sustentável daquele território\", segundo explicam, num comunicado conjunto, os ministérios das Finanças, e da Economia e da Coesão Territorial. Durante a cerimónia na Covilhã, o secretário de Estado Adjunto e do Orçamento, José Maria Brandão de Brito, considerou, por sua vez, que \"Portugal só será verdadeiramente mais competitivo se for também mais coeso\". Comprometeu-se, por isso, a manter como \"prioridades da ação governativa a valorização dos territórios de baixa densidade, o reforço da atratividade do Interior e a melhoria das condições de vida das populações\".",
+        "keywords": [
+            {
+                "keyword": "valorização sustentável daquele território",
+                "score": 0.6462
+            },
+            {
+                "keyword": "económica considerados estruturantes região",
+                "score": 0.6241
+            },
+            {
+                "keyword": "país apoiados estado projetos",
+                "score": 0.6201
+            },
+            {
+                "keyword": "região centro projetos apoiados",
+                "score": 0.6193
+            },
+            {
+                "keyword": "infraestruturas apoio atividade económica",
+                "score": 0.6095
+            },
+            {
+                "keyword": "região centro milhões eco",
+                "score": 0.598
+            },
+            {
+                "keyword": "desenvolvimento todo país silvério",
+                "score": 0.5975
+            },
+            {
+                "keyword": "públicos criação infraestruturas",
+                "score": 0.5811
+            },
+            {
+                "keyword": "centro projetos apoiados milhões",
+                "score": 0.5733
+            },
+            {
+                "keyword": "desenvolvimento todo país apoiados",
+                "score": 0.5687
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh0X25iTEdiSGlNenBkdl9xM3NGblZEV0VERjJ3VW4wN2pwMkh5UzE5NFhUdGdyZy1tNnNDQ0lidmQzdEExT2M3aHBWYlpvdllsYnBreHBhLUNPRUNlUVRSeU5lRFNqODRxWmJFRlRYa21aWWFSNk14LTUxVm56STNSdTIzWDVTOU5pV2hCT2xVUUF1bDVnX1NuMk9WZF9fOElKcGNFM0FxVVNUcnhSZ0dmUG5oZE5BbG9EbXk2VjA4WmFFN0FkZlFGZFJFRFk?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 12:45:06 GMT",
+        "title_clean": "EUSA atribui prémio de fair play à organização do Europeu de Andebol da Covilhã",
+        "clean_text": "EUSA atribui prémio de fair play à organização do Europeu de Andebol da Covilhã A European University Sports Association (EUSA) distinguiu a Comissão Organizadora do Campeonato Europeu Universitário de Andebol - Covilhã 2025 com um prémio de Fair Play. A distinção foi entregue no passado dia 19 de julho, em Salerno, Itália, durante a cerimónia anual da EUSA, de acordo com nota de imprensa enviada à Central Press. O galardão reconhece a implementação do Cartão Branco, uma iniciativa focada na ética e no desportivismo que foi utilizada pela primeira vez na história das competições internacionais organizadas pela EUSA e pela European Handball Federation (EHF). A comissão premiada é composta pela Universidade da Beira Interior (UBI), pela sua Associação Académica (AAUBI), pela Federação Académica do Desporto Universitário (FADU) e pelo Município da Covilhã. O Cartão Branco é um instrumento do Plano Nacional de Ética no Desporto (PNED), do Instituto Português do Desporto e Juventude (IPDJ), vocacionado para premiar gestos de respeito dentro e fora de campo. Durante o torneio realizado na Covilhã, em julho de 2025, foram atribuídos cinco Cartões Brancos a atletas, treinadores e elementos de equipas médicas em reconhecimento de comportamentos exemplares. Complementarmente à inovação regulamentar, a organização promoveu a exposição \"Move-te por Valores\", dedicada à educação para a cidadania no contexto desportivo. Na cerimónia de entrega do prémio, a organização fez-se representar por João Nunes (Presidente da AAUBI), Pedro Bernardo (Secretário-geral do torneio) e Esmeralda Gonçalinho (em representação do PNED). Para os responsáveis pela iniciativa, este reconhecimento internacional valida a estratégia de colocar valores como a integridade e a solidariedade no centro da competição. O sucesso do projeto serve de base para a preparação do Campeonato Europeu Universitário de Ténis de Mesa 2027, que voltará a decorrer na Covilhã e na UBI.",
+        "keywords": [
+            {
+                "keyword": "fair play organização europeu",
+                "score": 0.7887
+            },
+            {
+                "keyword": "prémio fair play organização",
+                "score": 0.712
+            },
+            {
+                "keyword": "atribui prémio fair play",
+                "score": 0.6994
+            },
+            {
+                "keyword": "prémio fair play",
+                "score": 0.685
+            },
+            {
+                "keyword": "2025 prémio fair play",
+                "score": 0.684
+            },
+            {
+                "keyword": "prémio fair play distinção",
+                "score": 0.6784
+            },
+            {
+                "keyword": "comissão organizadora campeonato europeu",
+                "score": 0.677
+            },
+            {
+                "keyword": "organizadora campeonato europeu",
+                "score": 0.6588
+            },
+            {
+                "keyword": "european university sports association",
+                "score": 0.6579
+            },
+            {
+                "keyword": "play organização europeu andebol",
+                "score": 0.6576
+            }
+        ],
+        "source_name": "Central Press"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpBYU5yeUwxa3M4aVRlNFlUMUtCQmo5QVNscWh1TWVkOFNTOTBjUVJGQVJJWkhTTFBRTU4tX1pvbEZBR2Rxa0RFX1hHSkZhME1Ia2NRdFVTVUhFcklHd01KOFFCTEdPUzNZYjJXbHZGS3BtUTdQMUlpV2YwaTc3VWNHaUhVWV9yU0MxZ2JTWS1TaTJadFdKNXdPdE9ESU5FR2tJQXBZeDZfNXd0UUZHZ1AwcmY4Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 10:00:50 GMT",
+        "title_clean": "Organização do Europeu Universitário de Andebol recebeu Prémio “Fair Play” da EUSA",
+        "clean_text": "Organização do Europeu Universitário de Andebol recebeu Prémio \"Fair Play\" da EUSA. A comissão organizadora do Campeonato Europeu Universitário de Andebol - Covilhã 2025 foi distinguida pela European University Sports Association (EUSA) com um prémio de \"Fair Play\" pela implementação inédita do cartão branco numa competição internacional universitária. A distinção foi entregue durante a EUSA Awards Ceremony 2026, realizada no domingo, em Salerno (Itália), cerimónia que homenageou personalidades, instituições e organizações que se destacaram pelo seu contributo para o desenvolvimento do desporto universitário europeu e pela promoção dos seus valores. O galardão foi entregue a João Nunes, presidente da Associação Académica da Universidade da Beira Interior (AAUBI) e da comissão organizadora do Europeu Universitário de Andebol, Pedro Bernardo, secretário-geral do campeonato, e Esmeralda Gonçalinho, do Plano Nacional de Ética no Desporto (PNED). Foi a primeira vez que o cartão branco foi implementado numa competição organizada pela EUSA e pela European Handball Federation (EHF). Durante o Europeu Universitário de Andebol - Covilhã 2025 foram atribuídos cinco cartões brancos a atletas, treinadores e elementos das equipas médicas, distinguindo comportamentos exemplares de desportivismo. Esta iniciativa é promovida pelo PNED, do Instituto Português do Desporto e Juventude (IPDJ), destinada a reconhecer gestos de \"fair play\", ética e respeito dentro e fora do campo. A AAUBI anunciou, entretanto, que já está a preparar o Campeonato Europeu Universitário de Ténis de Mesa 2027, que decorrerá de 26 a 31 de julho, na Covilhã.",
+        "keywords": [
+            {
+                "keyword": "andebol recebeu prémio fair",
+                "score": 0.7435
+            },
+            {
+                "keyword": "prémio fair play eusa",
+                "score": 0.7315
+            },
+            {
+                "keyword": "eusa prémio fair play",
+                "score": 0.7055
+            },
+            {
+                "keyword": "universitário andebol recebeu prémio",
+                "score": 0.6956
+            },
+            {
+                "keyword": "europeu universitário andebol recebeu",
+                "score": 0.6892
+            },
+            {
+                "keyword": "andebol recebeu prémio",
+                "score": 0.687
+            },
+            {
+                "keyword": "organização europeu universitário andebol",
+                "score": 0.6822
+            },
+            {
+                "keyword": "competição organizada eusa european",
+                "score": 0.6606
+            },
+            {
+                "keyword": "organizadora campeonato europeu universitário",
+                "score": 0.6598
+            },
+            {
+                "keyword": "comissão organizadora campeonato europeu",
+                "score": 0.6579
+            }
+        ],
+        "source_name": "Jornal o Interior"
     }
 ]
