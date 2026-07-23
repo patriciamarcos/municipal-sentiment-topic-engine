@@ -125016,5 +125016,155 @@
             }
         ],
         "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxQV2F5MUpNampyRXpXekJWaDN4dXY2ODMzVWVmVFBlVGs3eUVsVjg4aE9vbTRLaGNiNUJUel85OFFfTFQ3Z1d3TV9xTGU5T0xVWjBNak9KUU84Zm9CNU9kR2pwWVItVC1zM2diTi0wV0ZJVERCZFplZC1lM3JDUGt1MzFvVWoyNTlLOFRIQ09HZUtUWmdXQ19XSnN2NU51Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 14:24:05 GMT",
+        "title_clean": "Guarda FC e Sp Covilhã defrontaram-se em jogo de pré temporada",
+        "clean_text": "Guarda FC e Sp Covilhã defrontaram-se em jogo de pré temporada. O Guarda FC (Campeonato de Portugal) e o Sp Covilhã (Liga 3) defrontaram-se esta manhã em jogo da pré-temporada. A partida decorreu no Estádio Municipal da Guarda e terminou empatada a uma bola. O primeiro teste das duas equipas, com poucos dias de preparação, serviu para os treinadores conhecerem melhor os novos jogadores dos planteis. Um dos destaques foi para Jovane Camará, ex-Guarda FC, que nesta nova temporada vestirá a camisola dos leões da serra. Recorde-se que o avançado foi o melhor marcador da Iª Liga do Distrital da Guarda e um dos principais artilheiros nos campeonatos regionais. O primeiro jogo a sério do Guarda FC será frente ao Sertanense FC na 9.ª edição da Supertaça Beira Interior no dia 8 de agosto, no Campo Dr. Marques dos Santos, na Sertã.",
+        "keywords": [
+            {
+                "keyword": "fc campeonato portugal sp",
+                "score": 0.6341
+            },
+            {
+                "keyword": "fc campeonato portugal",
+                "score": 0.6104
+            },
+            {
+                "keyword": "liga defrontaram manhã jogo",
+                "score": 0.6036
+            },
+            {
+                "keyword": "guarda fc campeonato portugal",
+                "score": 0.5964
+            },
+            {
+                "keyword": "pré temporada guarda fc",
+                "score": 0.5908
+            },
+            {
+                "keyword": "defrontaram jogo pré temporada",
+                "score": 0.5835
+            },
+            {
+                "keyword": "temporada partida decorreu estádio",
+                "score": 0.5781
+            },
+            {
+                "keyword": "temporada guarda fc campeonato",
+                "score": 0.5758
+            },
+            {
+                "keyword": "fc campeonato",
+                "score": 0.5693
+            },
+            {
+                "keyword": "partida decorreu estádio",
+                "score": 0.5649
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qWTBlZjhBUVVFX1FBaF9fU1prcG9EM2owT0o2MEI3TlFKMUh0SXVPa1BXNU1yeUNpbmhqRUQtbmJGWFdjX0drTXl2UEF4WlE1cWlJcXZkc2F5d2d4Y2c?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 22:00:00 GMT",
+        "title_clean": "Detalhe da Noticia - GNR",
+        "clean_text": "Detalhe da Noticia - GNR. Detalhe da Noticia Covilhã - Recuperação de Coruja-do-Mato O Comando Territorial de Castelo Branco, através do Serviço da Proteção da Natureza e do Ambiente (SEPNA) da Covilhã, no dia 22 de julho, recuperou uma Coruja-do-Mato (Strix Aluco), no concelho da Covilhã. No âmbito das ações de proteção da natureza e do ambiente, os elementos do SEPNA receberam de um popular um exemplar juvenil daquela espécie, que se encontrava debilitado e sem capacidade de voar pelos próprios meios, tendo procedido de imediato à sua recolha. Após verificação do seu estado físico, e face à incapacidade de voo apresentada, a ave foi transportada em segurança para o Centro de Recuperação de Animais Selvagens (CERAS), em Castelo Branco, onde será sujeita a avaliação médico-veterinária, tratamento clínico e monitorização, com vista à sua posterior libertação no seu habitat natural. A Guarda Nacional Republicana, através do Serviço da Proteção da Natureza e do Ambiente (SEPNA), tem como preocupação diária a proteção dos animais, apelando à denúncia de eventuais situações de maus-tratos ou abandono. Para o efeito, poderá ser utilizada a Linha SOS Ambiente e Território (808 200 520) funcionando em permanência para a denúncia de infrações ou esclarecimento de dúvidas. 23-07-2026 00:00:00",
+        "keywords": [
+            {
+                "keyword": "recuperação coruja mato",
+                "score": 0.6231
+            },
+            {
+                "keyword": "recuperou coruja mato strix",
+                "score": 0.62
+            },
+            {
+                "keyword": "recuperou coruja mato",
+                "score": 0.5975
+            },
+            {
+                "keyword": "centro recuperação animais selvagens",
+                "score": 0.5806
+            },
+            {
+                "keyword": "recuperação animais selvagens ceras",
+                "score": 0.5746
+            },
+            {
+                "keyword": "espécie encontrava",
+                "score": 0.5691
+            },
+            {
+                "keyword": "recuperou coruja",
+                "score": 0.5667
+            },
+            {
+                "keyword": "exemplar juvenil daquela espécie",
+                "score": 0.5591
+            },
+            {
+                "keyword": "mato strix aluco",
+                "score": 0.5534
+            },
+            {
+                "keyword": "recuperação coruja mato comando",
+                "score": 0.5525
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwJBVV95cUxOc2RyVm56UUpkTUxpVzhXSkNwUnBDSFJfV29GS1lBUkNLa2oxTzFleWNJc25yRE9TQkVvR01TSkQtR202OTZBUXRyWk1IRUdDNUZxSnBPX1l1dXNpYk5ia0xkdWpYenVVQkQ4UzVSZXYtU0tQTUN2bEZTY3A4aWRtNHRJWnMtcDZ2VFo4M1VydGl2TXNSZHpQbzJRV3ZJV214SDYyRFFPc3IxU1VIamFoRG9VeUlBbzRhRmxwRFBTWWdtcUctVW93U0dISWFfSU45RU5GWF9YT0ZyUkRCYkFGT3ZnX3VQYU5TeGxyV1E5OXl6d01xNXpDZFB4dEVvTkljWTFaSTF3VWpFTkk?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 22:15:00 GMT",
+        "title_clean": "A torre portuguesa de 20 andares iniciada nos anos 1970 que nunca recebeu moradores e permaneceu inacabada por mais de meio século - Brasil 247",
+        "clean_text": "A torre portuguesa de 20 andares iniciada nos anos 1970 que nunca recebeu moradores e permaneceu inacabada por mais de meio século - Brasil 247. Destaques 247 A emblemática Torre de Santo António na Covilhã passou mais de meio século abandonada antes de ganhar um novo projeto de reabilitação. 1 Edifício de 20 andares e 50 metros construído na encosta da Serra da Estrela nos anos 1970. Edifício de 20 andares e 50 metros construído na encosta da Serra da Estrela nos anos 1970. 2 Estrutura residencial interrompida que nunca chegou a receber moradores ao longo de 50 anos. Estrutura residencial interrompida que nunca chegou a receber moradores ao longo de 50 anos. 3 Projeto recente Green View Tower do escritório MJARC Arquitectos promete revitalizar a construção. A paisagem urbana da Covilhã guarda marcas do passado que chamam a atenção de moradores e visitantes. Entre elas, sobressai uma imponente torre residencial projetada na década de 1970 que permaneceu abandonada durante décadas sem jamais abrigar moradores na região. Qual é a história da emblemática Torre de Santo António? A construção do edifício teve início em um contexto de expansão e modernização imobiliária em Portugal. O arquiteto Fernando Pinto de Sousa desenhou a estrutura para ser um marco residencial de destaque, integrando modernidade e funcionalidade no município. Entretanto, percalços financeiros e mudanças administrativas interromperam os trabalhos pouco tempo depois da fundação. O esqueleto de concreto permaneceu intocado por mais de cinquenta anos, tornando-se uma figura constante na vista dos habitantes locais e visitantes da Serra da Estrela. O projeto Green View Tower promete transformar o antigo esqueleto de concreto em um empreendimento moderno na Serra da Estrela. Por que o edifício permaneceu abandonado por cinco décadas? Diversos fatores burocráticos e econômicos contribuíram para o congelamento definitivo dessa grande obra imobiliária. Complicações na documentação e divergências entre proprietários impediram qualquer avanço significativo ao longo dos anos, mantendo o imponente esqueleto vertical completamente parado e desocupado na cidade. Com o passar do tempo, o local passou a despertar a curiosidade de exploradores urbanos e entusiastas da história local. A edificação virou um monumento cinzento que simbolizava promessas não cumpridas de desenvolvimento urbano e expansão populacional na comunidade da região. Abaixo, um vídeo do canal Historia da Cidade no YouTube que aprofunda os pontos discutidos neste tema: Quais são as características arquitetônicas da estrutura inacabada? Projetada originalmente para abrigar apartamentos residenciais, a torre impressiona pelas suas dimensões brutas no relevo montanhoso. A engenharia da época planejou pavimentos amplos com vistas privilegiadas, mas apenas as fundações e a estrutura básica de concreto armado foram erguidas no terreno. Especificações Técnicas DIMENSÕES DA TORRE 50 m / 20 andares CUSTO ESTIMADO (R$) Sob consulta ANO DE INÍCIO Anos 1970 ESCRITÓRIO RESPONSÁVEL MJARC Arquitectos LOCALIZAÇÃO DA CONSTRUÇÃO Serra da Estrela, Covilhã Apesar das intempéries acumuladas ao longo de meio século, a armação principal manteve estabilidade suficiente para viabilizar intervenções. Avaliações técnicas recentes confirmaram que o esqueleto estrutural possui solidez para passar por uma profunda remodelação e adaptação aos padrões arquitetônicos atuais. Os pontos mais marcantes da antiga edificação abandonada compreendem: Presença marcante na encosta com visibilidade de longas distâncias. Estrutura em concreto armado preservada ao longo das décadas. Potencial para integração com a paisagem natural circundante. Como o projeto Green View Tower pretende transformar o local? A nova proposta elaborada pelo escritório MJARC Arquitectos visa converter o antigo esqueleto em um empreendimento moderno. O conceito busca alinhar sustentabilidade, estética contemporânea e funcionalidade para criar habitações de alto nível perfeitamente integradas ao ecossistema da montanha em Portugal. A reabilitação prevê a aplicação de materiais ecológicos, amplas superfícies de vidro e varandas ajardinadas que reduzem os impactos visuais. Essa intervenção promete ressignificar um espaço degradado, transformando a ruína histórica em um exemplo de inovação arquitetônica e responsabilidade ambiental. As principais inovações trazidas pela revitalização do imóvel incluem: Aproveitamento da estrutura existente para evitar demolições e desperdícios. Fachadas modernas com eficiência energética e isolamento térmico. Criação de novos espaços de convivência voltados à comunidade local. A reabilitação da histórica torre residencial busca eliminar uma cicatriz urbana e impulsionar o desenvolvimento sustentável na região. Qual é o impacto da reabilitação para a paisagem da Covilhã? A conclusão deste empreendimento representa o fim de uma cicatriz urbana que durou mais de cinquenta anos. Além de valorizar o setor imobiliário local, a recuperação da torre impulsiona o turismo e estimula novas melhorias no entorno do bairro e da encosta. Dessa forma, a transformação do esqueleto em habitação simboliza o resgate do patrimônio urbano regional. A iniciativa demonstra como construções abandonadas podem renovar áreas históricas, trazendo desenvolvimento sustentável e melhor qualidade de vida para os futuros moradores da cidade.",
+        "keywords": [
+            {
+                "keyword": "torre portuguesa 20 andares",
+                "score": 0.7913
+            },
+            {
+                "keyword": "torre residencial projetada década",
+                "score": 0.7264
+            },
+            {
+                "keyword": "torre portuguesa 20",
+                "score": 0.7248
+            },
+            {
+                "keyword": "histórica torre residencial",
+                "score": 0.7131
+            },
+            {
+                "keyword": "torre santo antónio construção",
+                "score": 0.713
+            },
+            {
+                "keyword": "histórica torre residencial busca",
+                "score": 0.7123
+            },
+            {
+                "keyword": "reabilitação histórica torre residencial",
+                "score": 0.6963
+            },
+            {
+                "keyword": "torre portuguesa",
+                "score": 0.6898
+            },
+            {
+                "keyword": "residenciais torre impressiona dimensões",
+                "score": 0.6881
+            },
+            {
+                "keyword": "torre residencial projetada",
+                "score": 0.6854
+            }
+        ],
+        "source_name": null
     }
 ]

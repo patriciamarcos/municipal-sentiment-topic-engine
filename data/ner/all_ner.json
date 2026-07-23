@@ -124141,6 +124141,114 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxQV2F5MUpNampyRXpXekJWaDN4dXY2ODMzVWVmVFBlVGs3eUVsVjg4aE9vbTRLaGNiNUJUel85OFFfTFQ3Z1d3TV9xTGU5T0xVWjBNak9KUU84Zm9CNU9kR2pwWVItVC1zM2diTi0wV0ZJVERCZFplZC1lM3JDUGt1MzFvVWoyNTlLOFRIQ09HZUtUWmdXQ19XSnN2NU51Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 14:24:05 GMT",
+        "title_clean": "Guarda FC e Sp Covilhã defrontaram-se em jogo de pré temporada",
+        "entities": [
+            {
+                "text": "Guarda FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal da Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Jovane Camará",
+                "label": "PER"
+            },
+            {
+                "text": "Sertanense FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Campo Dr. Marques dos Santos",
+                "label": "LOC"
+            },
+            {
+                "text": "Sertã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qWTBlZjhBUVVFX1FBaF9fU1prcG9EM2owT0o2MEI3TlFKMUh0SXVPa1BXNU1yeUNpbmhqRUQtbmJGWFdjX0drTXl2UEF4WlE1cWlJcXZkc2F5d2d4Y2c?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 22:00:00 GMT",
+        "title_clean": "Detalhe da Noticia - GNR",
+        "entities": [
+            {
+                "text": "Comando Territorial de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Serviço da Proteção da Natureza e do Ambiente",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "SEPNA",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Recuperação de Animais Selvagens",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda Nacional Republicana",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwJBVV95cUxOc2RyVm56UUpkTUxpVzhXSkNwUnBDSFJfV29GS1lBUkNLa2oxTzFleWNJc25yRE9TQkVvR01TSkQtR202OTZBUXRyWk1IRUdDNUZxSnBPX1l1dXNpYk5ia0xkdWpYenVVQkQ4UzVSZXYtU0tQTUN2bEZTY3A4aWRtNHRJWnMtcDZ2VFo4M1VydGl2TXNSZHpQbzJRV3ZJV214SDYyRFFPc3IxU1VIamFoRG9VeUlBbzRhRmxwRFBTWWdtcUctVW93U0dISWFfSU45RU5GWF9YT0ZyUkRCYkFGT3ZnX3VQYU5TeGxyV1E5OXl6d01xNXpDZFB4dEVvTkljWTFaSTF3VWpFTkk?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 22:15:00 GMT",
+        "title_clean": "A torre portuguesa de 20 andares iniciada nos anos 1970 que nunca recebeu moradores e permaneceu inacabada por mais de meio século - Brasil 247",
+        "entities": [
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "Torre de Santo António",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "MJARC Arquitectos",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Fernando Pinto de Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Historia da Cidade",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
