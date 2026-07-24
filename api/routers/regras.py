@@ -9,6 +9,10 @@ class RegraUpdate(BaseModel):
     estado: str  # "ativa" ou "inativa"
 
 
+class RegraCreate(BaseModel):
+    descricao: str
+
+
 @router.get("/")
 def get_regras():
     """Lista todas as regras automáticas com estado."""
@@ -32,6 +36,24 @@ def get_regras():
         }
         for r in rows
     ]
+
+
+@router.post("/")
+def criar_regra(body: RegraCreate):
+    """Cria uma nova regra automática."""
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        INSERT INTO dbo.Regras (Descricao, Estado)
+        OUTPUT INSERTED.Regra_ID
+        VALUES (?, 'ativa')
+    """, body.descricao)
+    new_id = cursor.fetchone()[0]
+    conn.commit()
+    conn.close()
+
+    return {"id": new_id, "descricao": body.descricao, "estado": "ativa"}
 
 
 @router.put("/{regra_id}")
