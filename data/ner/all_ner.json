@@ -124725,6 +124725,114 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3BjTUNxbW91WGJkcEZ3SkphX2ZOSmpON0I2eUxxWEt5bHFTeDQ3dVlUaUlBMktyaG5WcHJ0Ul95QlVLQndxdFhWRlEzS3V4RDZpUXI2czBKR2p4dUN1OVE5WFBQZXRCbU9DN0NOdlFoVGZrU0d1YXlvVzhnSUhGenhyWWFsbkZFM2FfRkZxUXhISE9aazc3ZjVR?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Presidente da Câmara do Fundão recebido por António Guterres na ONU",
+        "entities": [
+            {
+                "text": "Câmara do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "António Guterres",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Miguel Gavinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Nações Unidas",
+                "label": "ORG"
+            },
+            {
+                "text": "Nova Iorque",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município do Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE9keXM3eGVZV0k5eVhOeFZWWUJnUFZncHFQVV9vUE5CVENoY0F3cU53LXlYc19idENfVGhWTW9qQnh3ZmRDN2lXMldFVEdRSVN1ZTNjR2QwNG5SR3NCbUhnY2JkWkZnNEdNTFdocFJBN3h2dw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 07:00:00 GMT",
+        "title_clean": "Desafio solidário na Serra da Estrela",
+        "entities": [
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "João Nascimento",
+                "label": "PER"
+            },
+            {
+                "text": "Monte Evereste",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundação ALO",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Torre",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcFRsNS1ZU1JDOHl3RUlrTWVhQWFnQmNaZDhVOUZTcTFud0YweXRzTElVUDI1M2cydUdlT1BfWm1HWndqdjFIZG1ISWxId0ZuTFJtWU5n?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 00:25:12 GMT",
+        "title_clean": "Caldas SC vs SC Covilhã | Liga Portugal 3 | “resultados ao vivo” - OneFootball",
+        "entities": [
+            {
+                "text": "Caldas SC",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "São Paulo",
+                "label": "ORG"
+            },
+            {
+                "text": "Botafogo",
+                "label": "ORG"
+            },
+            {
+                "text": "Cotia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

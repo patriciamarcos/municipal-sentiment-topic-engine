@@ -125816,5 +125816,155 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3BjTUNxbW91WGJkcEZ3SkphX2ZOSmpON0I2eUxxWEt5bHFTeDQ3dVlUaUlBMktyaG5WcHJ0Ul95QlVLQndxdFhWRlEzS3V4RDZpUXI2czBKR2p4dUN1OVE5WFBQZXRCbU9DN0NOdlFoVGZrU0d1YXlvVzhnSUhGenhyWWFsbkZFM2FfRkZxUXhISE9aazc3ZjVR?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Presidente da Câmara do Fundão recebido por António Guterres na ONU",
+        "clean_text": "Presidente da Câmara do Fundão recebido por António Guterres na ONU. O presidente da Câmara Municipal do Fundão, Miguel Gavinhos, foi recebido pelo secretário-geral das Nações Unidas, António Guterres, na sede da organização, em Nova Iorque, no âmbito da participação do Município no High-level Political Forum on Sustainable Development (HLPF) 2026. O encontro permitiu abordar os desafios da implementação da Agenda 2030, o papel dos governos locais na concretização dos Objetivos de Desenvolvimento Sustentável (ODS) e a importância da cooperação internacional para responder aos desafios globais relacionados com o desenvolvimento sustentável. Segundo o Município do Fundão, a receção por António Guterres representa também um reconhecimento do trabalho desenvolvido pela autarquia nas áreas da sustentabilidade, da inovação territorial e da internacionalização. Entre as iniciativas destacadas está a elaboração do Relatório Voluntário Local e a participação ativa em fóruns internacionais dedicados à implementação da Agenda 2030.",
+        "keywords": [
+            {
+                "keyword": "recebido secretário geral nações",
+                "score": 0.6331
+            },
+            {
+                "keyword": "secretário geral nações unidas",
+                "score": 0.6229
+            },
+            {
+                "keyword": "secretário geral nações",
+                "score": 0.6229
+            },
+            {
+                "keyword": "agenda 2030 papel governos",
+                "score": 0.6199
+            },
+            {
+                "keyword": "gavinhos recebido secretário geral",
+                "score": 0.6077
+            },
+            {
+                "keyword": "political forum on sustainable",
+                "score": 0.5953
+            },
+            {
+                "keyword": "guterres sede organização",
+                "score": 0.5935
+            },
+            {
+                "keyword": "forum on sustainable development",
+                "score": 0.5747
+            },
+            {
+                "keyword": "2030 papel governos locais",
+                "score": 0.5692
+            },
+            {
+                "keyword": "implementação agenda 2030 papel",
+                "score": 0.5692
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE9keXM3eGVZV0k5eVhOeFZWWUJnUFZncHFQVV9vUE5CVENoY0F3cU53LXlYc19idENfVGhWTW9qQnh3ZmRDN2lXMldFVEdRSVN1ZTNjR2QwNG5SR3NCbUhnY2JkWkZnNEdNTFdocFJBN3h2dw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 07:00:00 GMT",
+        "title_clean": "Desafio solidário na Serra da Estrela",
+        "clean_text": "Desafio solidário na Serra da Estrela. João Nascimento vai enfrentar, no próximo 18 de julho, um dos maiores desafios do ciclismo de resistência ao realizar um Everesting Solidário na Serra da Estrela. O objetivo é acumular 8.848 metros de desnível positivo, o equivalente à altitude do Monte Evereste, numa única atividade, colocando o esforço desportivo ao serviço de uma causa solidária. A iniciativa integra o projeto RAIZ, que utiliza o desporto como ferramenta de intervenção social, e pretende angariar fundos para a Fundação ALO, instituição que apoia diariamente crianças, jovens e respetivas famílias. Depois de ter ligado o Porto a Lisboa de bicicleta em apenas 14 horas, João Nascimento assume agora um desafio ainda mais exigente. Segundo o próprio, o propósito da iniciativa ultrapassa a vertente desportiva, procurando sensibilizar a comunidade para o trabalho desenvolvido pela Fundação ALO e gerar um impacto positivo na vida das crianças apoiadas pela instituição. A chegada à Torre terá um momento simbólico, com a presença de crianças e educadores da Fundação ALO, assinalando os valores de união, superação e solidariedade que estão na base do projeto. A organização convida ainda a comunidade, empresas e instituições a acompanharem o desafio e a contribuírem para a campanha de angariação de fundos. O Everesting Solidário tem início previsto para as 05h00 de 18 de julho e deverá prolongar-se ao longo de sete subidas à Serra da Estrela, terminando pelas 22h45, de acordo com o cronograma divulgado pela organização.",
+        "keywords": [
+            {
+                "keyword": "desafio contribuírem campanha angariação",
+                "score": 0.6595
+            },
+            {
+                "keyword": "desafio solidário serra",
+                "score": 0.6248
+            },
+            {
+                "keyword": "agora desafio exigente",
+                "score": 0.6192
+            },
+            {
+                "keyword": "assume agora desafio exigente",
+                "score": 0.6155
+            },
+            {
+                "keyword": "agora desafio exigente próprio",
+                "score": 0.6092
+            },
+            {
+                "keyword": "acompanharem desafio contribuírem campanha",
+                "score": 0.6071
+            },
+            {
+                "keyword": "acompanharem desafio contribuírem",
+                "score": 0.5985
+            },
+            {
+                "keyword": "resistência realizar everesting solidário",
+                "score": 0.5934
+            },
+            {
+                "keyword": "iniciativa ultrapassa vertente",
+                "score": 0.592
+            },
+            {
+                "keyword": "desafio contribuírem campanha",
+                "score": 0.5914
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcFRsNS1ZU1JDOHl3RUlrTWVhQWFnQmNaZDhVOUZTcTFud0YweXRzTElVUDI1M2cydUdlT1BfWm1HWndqdjFIZG1ISWxId0ZuTFJtWU5n?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 00:25:12 GMT",
+        "title_clean": "Caldas SC vs SC Covilhã | Liga Portugal 3 | “resultados ao vivo” - OneFootball",
+        "clean_text": "Caldas SC vs SC Covilhã | Liga Portugal 3 | \"resultados ao vivo\" - OneFootball. São Paulo vira de forma heroica sobre o Botafogo e estreia bem no Brasileiro Sub-20 De forma heroica, o São Paulo venceu o Botafogo por 2 a 1 nesta sexta-feira (20/2), em Cotia, pela primeira rodada do Campeonato Brasileiro Sub-20. Os paulistas teve o zagueiro...",
+        "keywords": [
+            {
+                "keyword": "rodada campeonato brasileiro",
+                "score": 0.7868
+            },
+            {
+                "keyword": "rodada campeonato brasileiro sub",
+                "score": 0.7752
+            },
+            {
+                "keyword": "campeonato brasileiro",
+                "score": 0.7712
+            },
+            {
+                "keyword": "campeonato brasileiro sub",
+                "score": 0.7624
+            },
+            {
+                "keyword": "primeira rodada campeonato brasileiro",
+                "score": 0.7487
+            },
+            {
+                "keyword": "campeonato brasileiro sub 20",
+                "score": 0.7196
+            },
+            {
+                "keyword": "bem brasileiro sub",
+                "score": 0.7042
+            },
+            {
+                "keyword": "brasileiro sub",
+                "score": 0.6894
+            },
+            {
+                "keyword": "estreia bem brasileiro",
+                "score": 0.6869
+            },
+            {
+                "keyword": "bem brasileiro",
+                "score": 0.6858
+            }
+        ],
+        "source_name": null
     }
 ]
