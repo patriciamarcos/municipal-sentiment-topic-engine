@@ -6635,5 +6635,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:prfp4yutfzueledzxe52h45b/app.bsky.feed.post/3mrebz77cxv2j",
+        "source": "bluesky",
+        "created_at": "2026-07-24T02:20:02.164Z",
+        "title_clean": "",
+        "clean_text": "Ekanga Ondoa, avançado de 23 anos, é emprestado ao Sp. Covilhã após passagem no Estrela da Amadora. Avaliando perfil, aposta em potencial físico e mobilidade para o ataque. Análise futura dependerá integração tática e volume de jogo no novo clube. AnáliseFutebol Brasileirão Estatísticas Tática",
+        "keywords": [
+            {
+                "keyword": "ondoa avançado",
+                "score": 0.6097
+            },
+            {
+                "keyword": "ekanga ondoa avançado",
+                "score": 0.5625
+            },
+            {
+                "keyword": "ataque análise futura dependerá",
+                "score": 0.5535
+            },
+            {
+                "keyword": "ataque análise futura",
+                "score": 0.5493
+            },
+            {
+                "keyword": "ondoa avançado 23",
+                "score": 0.5327
+            },
+            {
+                "keyword": "ondoa avançado 23 emprestado",
+                "score": 0.528
+            },
+            {
+                "keyword": "brasileirão estatísticas tática",
+                "score": 0.5189
+            },
+            {
+                "keyword": "ekanga ondoa avançado 23",
+                "score": 0.5141
+            }
+        ],
+        "source_name": null
     }
 ]

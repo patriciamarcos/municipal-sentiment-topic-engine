@@ -124249,6 +124249,482 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFladzZDLTNLQ3dfSWJiUzVORG9waHVTUkIwSGZHbGIxTE9qSzUwMlFJaFN3WXp5c01lQzlUSXR3VFRXM3F5U2dDTl82cTZvczc0RHRqV2h1YXU0VVctc1YtVHFJaXlqV2VOSUVtYzVEUXZTV0stVkMzQ0xHU1Vua3BibWcwNTVMU3pjS2hiUGxaYmhmSVJJeHBrREF6VXNqUDB6WFlNcFlPOTRoXzl0a9IBqwFBVV95cUxPSkY4cTN5c3gwTGlXUFEtaFM4UW9RcmhnSFFOWmx2T09RY3RvYm5CZGExZmd4bDI4NThQTlhzaGM0WUltTzZjMVp3RUNQSFVMVkFGMjluZ0pVUk15UUhIR1hKRUxWNlZLdFRmOTRfWFlYbjZmT2wyWXU4ODh1WXhrNHhGWHVuUTVpQ2FGTFUya3ZWMjJRcmpUTV8wMm1YM3ppUElhTmc2WlV5Q3c?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 21:37:54 GMT",
+        "title_clean": "Ekanga Ondoa emprestado ao Sp.Covilhã - Record",
+        "entities": [
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Sp.Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Estrela da Amadora",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVUZLMzBXeV96MDVUV0RkYUxVT2U2SXJET2E5dzhfRG1SMXNXbS1WN1IwUk9tS0RsNGM5V244bzhFT2h0RGI5bVBXQjZkbEdlZDAtMGJ2VHpzY1JCQTRCUjRtUG12em9TLUxwXzI0QkdGZGxVQTVfamt5c1BPUDJINmkxVGhNSTctT2tVc3RXNkFfWThIY3RsU20xZFUzZVdfc3JxYk9uVENrbGRSYnhwMXMwLUZaRVBhaTFrTVQ5NmxhbjVhX1ktZ1hMMmNOSkc4?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 13:12:12 GMT",
+        "title_clean": "Município promove “Pêssego da Covilhã” no Mercado Municipal, Piscina Praia e Feira de São Tiago",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Mercado Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pêssego da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxOVWtGN0sxcllHejc2cFl0dVppYlVEOUZpOHZZV3owdlRZYmE1Zk44N1k2elhoendFTEtlVVlrUko1RHIyendyckZPSWtwYS1veGFBNlRYcnhhSklsUkYyZGVxakU3U2lhdjZJeXQwWUc4RzhUTG5ibHZWSDdSb1l6ZzRyQVJhRExvUndDelJGelBIX2M?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 09:58:45 GMT",
+        "title_clean": "GNR recupera coruja-do-mato juvenil na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serviço de Proteção da Natureza e do Ambiente",
+                "label": "ORG"
+            },
+            {
+                "text": "SEPNA",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Recuperação de Animais Selvagens",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnFRMXlXaDRTT1BOY2hONlN2N3Y0SDlxd0puZTVjU2JTVjl3N2V5OVQ3MXdxNnQ1cG5DZFExanNHUkhKbktJMmtuelhKRVlXNVBYYklTdTlsWC1IOFZaUzJOOUN6SlZBZ25rcm5ZcTlidl9hdVBnbVVhUUhPVS1Ea2ktZDY1bFNMSnd0RGV1aEtReWFLd2tuSmJuRjJRQ3dnVlBJWUh5OF8yTXFBZFlCZW10dHIxZlRkRksyVXVxVkllRXR4Q2ZDTUlVV0Jnd1U?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 11:16:12 GMT",
+        "title_clean": "Academia de Patinagem da Covilhã quer reforçar equipa técnica e levar modalidade às escolas",
+        "entities": [
+            {
+                "text": "Academia de Patinagem da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Rádio Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "José Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "Pavilhão Municipal do Inatel",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale Formoso e Ferro",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Comité Olímpico de Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDhfbER2LVpRdHRhN1lZMlo5SERXN3k1TktwUFl2OV9pV2hqYVQ5M1FHRGtRckZ1MWlYUnFXbmJ1Z2lQR1VtVHcxNDNJSnpKMnVKZGRTN25nWW9TNldBQUpIMWRwYkE3V0pzd1pXc1djWWszMmZEdDlKWFluZ0R1Y1RjVjRacGpOTFpJUkZCMmpZRG93ZUhiQkpEbVpTNnpicXprYXRLOFpNczdCcTVsRmhOUWZFZE05c3c?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 09:07:54 GMT",
+        "title_clean": "Faleceu Sérgio Gaspar Saraiva, antigo presidente da Rádio Clube da Covilhã",
+        "entities": [
+            {
+                "text": "Sérgio Gaspar Saraiva",
+                "label": "PER"
+            },
+            {
+                "text": "Rádio Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sérgio Saraiva",
+                "label": "PER"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Casa Mortuária de São José",
+                "label": "LOC"
+            },
+            {
+                "text": "Penedos Altos",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja de São José",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxQamxqV1d0WEJMZ1l1S1pnRFdoSXdMcTdZcmhlVUJVLWNPdG5mLWFzVUtaUmRHQnM5UTliZWhZQVYzbnpkNnoxdUZGMDNRUzJJWDliMFNZT2J2eG5qVWpKVkF1QnN0VllFVldLQTMtalhyTXl1dkh0WW9CbXVJQWZMUHQ4akVmeVNSRjF0MEFxQk5oaC1OY3NVNDdhVnVHRDJPTHfSAaIBQVVfeXFMUGpsaldXdFhCTGdZdUtaZ0RXaEl3THE3WXJoZVVCVS1jT3RuZi1hc1VLWlJkR0JzOVE5YmVoWUFWM256ZDZ6MXVGRjAzUVMySVg5YjBTWU9idnhualVqSlZBdUJzdFZZRVZXS0EzLWpYck15dXZIdFlvQm11SUFmTFB0OGpFZnlTUkYxdDBBcUJOaGgtTmNzVTQ3YVZ1R0QyT0x3?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 12:04:34 GMT",
+        "title_clean": "Teste inicial com o Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Manuel Azevedo",
+                "label": "PER"
+            },
+            {
+                "text": "P. Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Fornos de Algodres",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos Pinto",
+                "label": "PER"
+            },
+            {
+                "text": "José Santos",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxORmp6enQ2SmxEZktQLU1QY3NfUWEyQUpad3h0Uno3a0pKdVB4d3B5aEgzOHB3MlZ3bk9XYWFyUno0Ymdya0RGMmtTOXNWOUgtcTZqdFZYNzVXdGJuWEpaVDhYTjBrNllSSGxxY3VMRWZRRlRkMVdNcV9ycHhYempOUzdOT0FScW5Qa2J4amhKLUJUamNSc0NacnN5aWl5SjB4Zy1GdkNHVG9Sc0hHUkZLNDNwQ1AwWnd3bGdUNnZUUjZLOFRIa3FHVmh5UQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 13:16:45 GMT",
+        "title_clean": "COVILHÃ: Pêssego da Covilhã volta a ser protagonista em iniciativa de promoção local",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Pêssego da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Mercado Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxOSzA1QmM3Ui1KTl8xWFFYdGk5MHZtRlpKNGtyMHNpTV9JVUw4azJ4b201MXZBamtxRmFrRWw4cU9sd1NSbGpjV1BvYmRFQm5mTHZWNUgxRF8yaW5yZ2plWWxhTVBEODNzdUlpTzJiMkpwVklWejdqNW9xYUJtUlhRcFZYZHRCdEp6X1dsSWlmQWZzdk15SWc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 08:31:17 GMT",
+        "title_clean": "Coruja-do-mato debilitada é resgatada pela GNR na Covilhã - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Comando Territorial",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Serviço da Proteção da Natureza e do Ambiente",
+                "label": "ORG"
+            },
+            {
+                "text": "SEPNA",
+                "label": "ORG"
+            },
+            {
+                "text": "Notícias",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU9wczQwVVZvZkFGTk84UU1xNkY0YWt5b3JlU2JFUjN4N296aGdVMDdzRGlTQkZZdGRBM25ZRUN0dXJXeXZVUG43a3F5WEFMMzRGblpYaVJqamd0Z0lDM3pqSFduRjdfZ1AzV3NObzF3UDV1UURtWDNxQUZWU2RXWVVyZ3plVHJtUEkxcllZRURFOURkTmZNNEhuSjA1aWRaR2Y2RQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 09:45:54 GMT",
+        "title_clean": "COVILHÃ: GNR recupera Coruja-do-Mato juvenil debilitada",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Comando Territorial de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Serviço da Proteção da Natureza e do Ambiente",
+                "label": "ORG"
+            },
+            {
+                "text": "SEPNA",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Recuperação de Animais Selvagens",
+                "label": "LOC"
+            },
+            {
+                "text": "CERAS",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda Nacional Republicana",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWZnQVR5VjM5dE1LQTIzVGxCNGtGbGR1ZTRvWG9DVVMzSGI2YldPYlhWal9LcnVtbERUaG5jZ3JvenE5dktXaklGcWVVSG9pNHM2QkVBeGw0Ny1vUUw0NzJwT2prYk1CQ18xelc0eGVjNlFxbkFZSGtSRkd5Y3V6R241YWRNQjRmaWhmN1lycGFDbV9VcWZuTWZVc2s0UG92RDduY3g3VQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 13:16:00 GMT",
+        "title_clean": "Oficial: Estrela da Amadora empresta Ekanga Ondoa ao Covilhã - Flashscore.pt",
+        "entities": [
+            {
+                "text": "Estrela da Amadora",
+                "label": "ORG"
+            },
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasseries du Cameroun",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHZYci1Wc2F6aFdzMDZ0OWhnckRsOHBIVnF5bHB5T3FISnpQRTRNRkdvUEV6TS1vMmp3VnZfQjRqUEtFSDh4cTR5N2hhY2l2T21ackd3NU9JRlVQVWpfZTZRdXNybE9xS0FlWWRzelRvTVVRRFN1M3pUeUpULXllZ0taRW9ZXzJ6NTNQLWhxckQwelB6ZjM4c3ZtSmhjWXlmMzJfbVpBdXh1d0hONDNVb3RYbWxWdG9CbnA2aWZuZlA0NzlVQTJOdGpVZFdmNTRPc2ZpUWhrYVl5QQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 15:29:36 GMT",
+        "title_clean": "COVILHÃ: Cartão Branco no Europeu Universitário de Andebol reconhecido com Prémio Internacional",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "European University Sports Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão Organizadora do Campeonato Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Académica da UBI",
+                "label": "ORG"
+            },
+            {
+                "text": "AAUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Académica do Desporto Universitário",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "European Handball Federation",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Salerno",
+                "label": "LOC"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "João Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Bernardo",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWNPN2UwV2tEdW5XWUVfdnBkNlFzUzhfU3Q3aEw1Zlk0b05XS2pqOFd5VG1PcEtwTUJEaDZCRTRZbWU5RTNvVkVudjJDSE1kVXRiZ2Rjd1dpeGlNVWgxTG9pY20wSlpVS3BPQ1dvczBCNERXdnByV0Rzc2t6VFl6WnE3d1BSZUFqSVloWG41Uk5rX2NTVkt0RWw5WlNMckZtbGhCclBhYmxra1N1elpUbGJzOWVOTm8?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 14:58:45 GMT",
+        "title_clean": "COVILHÃ: 1613 vagas disponíveis na UBI no Concurso Nacional de Acesso",
+        "entities": [
+            {
+                "text": "Departamento de Engenharia Civil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHpvd0oyZk1QazJfeVRVdlNrT1k0VFBnODJLRVlXbDlBUTFLa0tYQnlVWldwTDdRcVgzQkk0NlRrLXlrSmNJYmM3YktfbGIwZUlHdEdUMHYtYzJsTTUxQVBRMDJPWXBWSnpINVpDdVZuNmY3Znp5MGdrNXBkQTJsU1h5UF9EcDdhVnd3bW9YdDZWRU5oandUY1UxUDRya1E?oc=5",
+        "source": "news",
+        "created_at": "Fri, 17 Jul 2026 10:10:35 GMT",
+        "title_clean": "PJ detém terceiro autor de sequestro, extorsão e roubo na Covilhã - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Polícia Judiciária",
+                "label": "ORG"
+            },
+            {
+                "text": "Departamento de Investigação Criminal da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Tribunal do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -127859,6 +128335,26 @@
         "entities": [
             {
                 "text": "Comissão Organizadora do Campeonato Europeu Universitário de Andebol",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:prfp4yutfzueledzxe52h45b/app.bsky.feed.post/3mrebz77cxv2j",
+        "source": "bluesky",
+        "created_at": "2026-07-24T02:20:02.164Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estrela da Amadora",
                 "label": "ORG"
             }
         ]
