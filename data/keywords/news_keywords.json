@@ -126366,5 +126366,55 @@
             }
         ],
         "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tT1ZBTHo5VlpyMTB1Q0RuQkVsbWw3dDF6aGhzNEtyT0JqZ3FqcWVMeXc3NnZuSGJhYTJ3cS1VbG9Yc19EYmx6LU81MVRqRVhnWFd2bWR6d1IzWDc1ekVYekoxdkRkUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 13:58:10 GMT",
+        "title_clean": "Dos cinco cantos do mundo Episódio 101 - de 23 jul 2026 - RTP",
+        "clean_text": "Dos cinco cantos do mundo Episódio 101 - de 23 jul 2026 - RTP. E se houvesse um Ministério da Lusofonia e Comunidades? Ep. 99 Carlos Gonçalves, deputado à Assembleia da República eleito pelo círculo da Europa, apresentou ao seu partido uma moção com esta proposta. Com Alfredo Stoffel, dirigente associativo na Alemanha.",
+        "keywords": [
+            {
+                "keyword": "eleito círculo europa apresentou",
+                "score": 0.6312
+            },
+            {
+                "keyword": "europa apresentou partido",
+                "score": 0.6309
+            },
+            {
+                "keyword": "europa apresentou partido moção",
+                "score": 0.6205
+            },
+            {
+                "keyword": "eleito círculo europa",
+                "score": 0.6181
+            },
+            {
+                "keyword": "círculo europa apresentou partido",
+                "score": 0.6171
+            },
+            {
+                "keyword": "república eleito círculo europa",
+                "score": 0.6138
+            },
+            {
+                "keyword": "houvesse ministério lusofonia",
+                "score": 0.6121
+            },
+            {
+                "keyword": "rtp houvesse ministério lusofonia",
+                "score": 0.592
+            },
+            {
+                "keyword": "gonçalves deputado assembleia república",
+                "score": 0.5826
+            },
+            {
+                "keyword": "houvesse ministério lusofonia comunidades",
+                "score": 0.5714
+            }
+        ],
+        "source_name": null
     }
 ]

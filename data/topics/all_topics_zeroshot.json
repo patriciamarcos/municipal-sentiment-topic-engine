@@ -106288,5 +106288,35 @@
             "Falecimentos": 0.0006,
             "Incêndios e bombeiros": 0.0004
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tT1ZBTHo5VlpyMTB1Q0RuQkVsbWw3dDF6aGhzNEtyT0JqZ3FqcWVMeXc3NnZuSGJhYTJ3cS1VbG9Yc19EYmx6LU81MVRqRVhnWFd2bWR6d1IzWDc1ekVYekoxdkRkUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 13:58:10 GMT",
+        "title_clean": "Dos cinco cantos do mundo Episódio 101 - de 23 jul 2026 - RTP",
+        "topic_id": 5,
+        "topic_label": "Eleições e política autárquica",
+        "topic_probability": 0.4881,
+        "low_confidence": false,
+        "all_scores": {
+            "Eleições e política autárquica": 0.4881,
+            "Universidade e vida académica": 0.1191,
+            "Ação social e voluntariado": 0.101,
+            "Crimes e polícia": 0.0335,
+            "Feira e Festival": 0.0317,
+            "Cultura, arte e espetáculos": 0.0239,
+            "Saúde e hospital": 0.0225,
+            "Comércio e lojas": 0.0221,
+            "Obras e infraestruturas": 0.0202,
+            "Turismo e património histórico": 0.0189,
+            "Habitação": 0.0181,
+            "Falecimentos": 0.0172,
+            "Mercado": 0.0164,
+            "Incêndios e bombeiros": 0.0159,
+            "Desporto e competições": 0.0139,
+            "Transportes": 0.0138,
+            "Natal e festividades": 0.0128,
+            "Tecnologia": 0.0108
+        }
     }
 ]
