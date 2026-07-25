@@ -125966,5 +125966,405 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2VudS0zT1RWLW5yUWpyOElKd0xvejNMVmFITnp2bjQwajJ6VGtrdkdyV1V2cVVQYWxydjlSV3d1dW9HbjFLelJxa0xpYWZ1NlN4eGJHWE5QV1dlYjltUXMxWVV4Szd2TmQ2V0VLakRLZzRvYklYUWYzV2RnRGdqaEZvXzRZb3FPazJDWTNrWQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 14:16:13 GMT",
+        "title_clean": "\"Mercado do Pêssego\" regressa ao Mercado Municipal da Covilhã",
+        "clean_text": "\"Mercado do Pêssego\" regressa ao Mercado Municipal da Covilhã. O Mercado Municipal da Covilhã recebe este sábado, 25 de julho, mais uma edição do \"Mercado do Pêssego\", iniciativa promovida pelo município da Covilhã para valorizar um dos produtos agrícolas mais emblemáticos do concelho e dinamizar aquele espaço comercial. O evento decorre entre as 08h30 e as 13h00 e contará com a presença de produtores de pêssego da Covilhã, permitindo aos visitantes adquirir o fruto da época, reconhecido pela sua qualidade, suculência e sabor. Além da venda de pêssegos, o mercado disponibilizará diversos produtos confecionados a partir deste fruto, entre os quais doçaria, licores e granizados. A iniciativa inclui ainda uma mostra de outros produtos agrícolas e gastronómicos da região, complementada por momentos de animação musical. A promoção do pêssego da Covilhã estende-se igualmente a outros locais da cidade durante o mesmo dia. O município prevê distribuir o fruto junto dos utilizadores da Piscina Praia da Covilhã e, ao final do dia, na Feira de São Tiago, coincidindo com o concerto de Pedro Abrunhosa.",
+        "keywords": [
+            {
+                "keyword": "venda pêssegos mercado disponibilizará",
+                "score": 0.6174
+            },
+            {
+                "keyword": "pêssegos mercado disponibilizará",
+                "score": 0.5749
+            },
+            {
+                "keyword": "mercado disponibilizará",
+                "score": 0.5665
+            },
+            {
+                "keyword": "sábado 25 edição mercado",
+                "score": 0.5649
+            },
+            {
+                "keyword": "mercado pêssego iniciativa promovida",
+                "score": 0.5548
+            },
+            {
+                "keyword": "fruto época reconhecido qualidade",
+                "score": 0.5467
+            },
+            {
+                "keyword": "permitindo visitantes adquirir fruto",
+                "score": 0.5438
+            },
+            {
+                "keyword": "venda pêssegos mercado",
+                "score": 0.5432
+            },
+            {
+                "keyword": "além venda pêssegos",
+                "score": 0.5426
+            },
+            {
+                "keyword": "mercado pêssego",
+                "score": 0.5416
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxOUDFQSUJ0aUh6QWIwa29uWHdmVHFvNzFxNUxpeTQyQ21WbTlKWXlXS0ZkMkJPZWtfajh4enZTU2xyYnR5NFVicm5ZYndTd1FIdDJac00zSmNJMHdTS1JWX3FQbHAtM0R0YW1qa1FIenUtQ2xFOTB6RXFwNi1IZHV6eGcwMlpaYkdqbFA4aEZnQ2xDTlJSbXVteGRjY2RxQTFqMDdLelVfbXJIMHF5cjdPTHVuT1JBYTJqMWd2djdR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 18:47:45 GMT",
+        "title_clean": "“Pêssego da Covilhã” promovido no mercado municipal da “cidade-neve” e na Feira de São Tiago",
+        "clean_text": "\"Pêssego da Covilhã\" promovido no mercado municipal da \"cidade-neve\" e na Feira de São Tiago",
+        "keywords": [
+            {
+                "keyword": "promovido mercado municipal",
+                "score": 0.634
+            },
+            {
+                "keyword": "promovido mercado municipal cidade",
+                "score": 0.6253
+            },
+            {
+                "keyword": "mercado municipal",
+                "score": 0.6239
+            },
+            {
+                "keyword": "mercado municipal cidade",
+                "score": 0.6106
+            },
+            {
+                "keyword": "feira são tiago",
+                "score": 0.5425
+            },
+            {
+                "keyword": "municipal cidade",
+                "score": 0.536
+            },
+            {
+                "keyword": "promovido mercado",
+                "score": 0.5358
+            },
+            {
+                "keyword": "feira são",
+                "score": 0.5064
+            },
+            {
+                "keyword": "mercado municipal cidade neve",
+                "score": 0.495
+            },
+            {
+                "keyword": "cidade neve feira são",
+                "score": 0.4165
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQck1FM2dhZWRCVC12VzBDMEdlLWtHWVNKcTh4aXdJdnYyb09hOEhwUFNwX296Y2tUU0pSQjdnZHlYV3R5cy1xUmF5WS1sbHpmSklweWFmTFpmS29STTdydHZYMEFZeWl3ejd4S0VDWUF5d3VrNlFWNGJyQ3FKeXVEM2ZzUjktS2xy?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 05:16:39 GMT",
+        "title_clean": "Jogo - SC Covilhã vs Lusitano GC - Sport TV",
+        "clean_text": "Jogo - SC Covilhã vs Lusitano GC - Sport TV. Notícias Multiscreen Vídeos Jogos Guia TV Vouchers Adira Já ENTRAR ENTRAR Notícias Jogos Tudo sport tv Equipas Favoritas Para usar esta funcionalidade inicie sessão. Competições Favoritas Para usar esta funcionalidade inicie sessão. Não foram encontrados jogos para o dia. Jogos SC Covilhã vs Lusitano GC SC Covilhã dom, 03 Jan, 18:00 0 - 0 14ª Jornada Lusitano GC Destaques Estatísticas Formações Vídeos Classificação Histórico",
+        "keywords": [
+            {
+                "keyword": "lusitano gc sport tv",
+                "score": 0.697
+            },
+            {
+                "keyword": "gc sport tv",
+                "score": 0.6734
+            },
+            {
+                "keyword": "jogos tudo sport tv",
+                "score": 0.6602
+            },
+            {
+                "keyword": "sport tv equipas",
+                "score": 0.6307
+            },
+            {
+                "keyword": "sport tv",
+                "score": 0.6258
+            },
+            {
+                "keyword": "jogos guia tv",
+                "score": 0.6216
+            },
+            {
+                "keyword": "tudo sport tv",
+                "score": 0.6216
+            },
+            {
+                "keyword": "sessão competições favoritas usar",
+                "score": 0.6213
+            },
+            {
+                "keyword": "sessão competições favoritas",
+                "score": 0.5997
+            },
+            {
+                "keyword": "sport tv equipas favoritas",
+                "score": 0.5993
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGZOTnJHRHl6SVB1Q2JGS29Id1o2emtjcG5KNExoanVEeEZLc3RQbF8ydGtOSmRQUWJWbVlYY3JISkc3V1Y0c0JFaGxpbEc5RzBKOTdWTkRHQ2ppRlZJMFozWHpjV2g2V014cVB2VC1JYkdSNWNNTjZyb3VONGtTcA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã desafia jovens a recuperar áreas ardidas",
+        "clean_text": "Covilhã desafia jovens a recuperar áreas ardidas. O Município da Covilhã vai promover, entre 11 e 31 de agosto, o projeto \"Raízes do Amanhã\", uma iniciativa que desafia os jovens a participar na recuperação e preservação de áreas afetadas pelos incêndios florestais. A ação integra o programa \"Envolve-te Ambiente - Programa Voluntariado Jovem para a Natureza e Florestas\", do Instituto Português do Desporto e da Juventude (IPDJ), e será desenvolvida em articulação com várias juntas de freguesia do concelho. Inspirado no lema municipal \"Tecer o Futuro\", o projeto contará com a participação de 14 jovens, que serão envolvidos em diferentes ações de sensibilização ambiental e intervenção no terreno. Entre as atividades previstas estão campanhas de informação porta a porta sobre limpeza de mato e prevenção de incêndios, afixação de material informativo em zonas críticas, manutenção e recuperação de trilhos pedestres, reabilitação de terrenos degradados e controlo de espécies invasoras que colocam em risco a biodiversidade e a segurança florestal. Além da componente ambiental, o Município destaca que a iniciativa pretende promover o desenvolvimento de competências pessoais e sociais dos participantes, incentivando a cidadania ativa e o envolvimento da juventude na proteção do território, em linha com os Objetivos de Desenvolvimento Sustentável. O projeto destina-se a jovens com idades entre os 14 e os 30 anos, estando as candidaturas abertas até 3 de agosto. A inscrição implica um registo prévio na plataforma do IPDJ, seguindo-se a candidatura ao projeto através da plataforma dos programas de juventude.",
+        "keywords": [
+            {
+                "keyword": "amanhã iniciativa desafia jovens",
+                "score": 0.698
+            },
+            {
+                "keyword": "amanhã iniciativa desafia",
+                "score": 0.6925
+            },
+            {
+                "keyword": "ações sensibilização ambiental intervenção",
+                "score": 0.6755
+            },
+            {
+                "keyword": "projeto contará participação",
+                "score": 0.6728
+            },
+            {
+                "keyword": "raízes amanhã iniciativa",
+                "score": 0.6709
+            },
+            {
+                "keyword": "sensibilização ambiental intervenção terreno",
+                "score": 0.667
+            },
+            {
+                "keyword": "destaca iniciativa pretende promover",
+                "score": 0.6654
+            },
+            {
+                "keyword": "destaca iniciativa",
+                "score": 0.6651
+            },
+            {
+                "keyword": "amanhã iniciativa",
+                "score": 0.6543
+            },
+            {
+                "keyword": "sustentável projeto destina jovens",
+                "score": 0.6523
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlJSMlF1aVY5dHBEYy1TYzVNa3U2dUJCanU1d2g5bHFIUVBpRzl6eDBSZ1dlMW9SbzFRSzJVU21OZ0ZRU215eHhtam8ydnNSanRWYi1nLW1LRUlmbElLb1dJazc4am5ZMVF4dldZbUJvSnFWWFVsbnp2b2N3QjFabEdBOURTeDdPZkl0LTYweDU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Museu da Covilhã assinala 5.º aniversário com visita noturna",
+        "clean_text": "Museu da Covilhã assinala 5.º aniversário com visita noturna. O Museu da Covilhã celebra o seu 5.º aniversário com a realização de uma visita noturna às gravuras rupestres do Alto da Giesteirinha/Vale da Piçarra, entre Casegas e Sobral de São Miguel, marcada para a próxima segunda-feira, 3 de agosto. Integrada na iniciativa \"Chiu! Os segredos do Museu\", a atividade tem início às 21h00 e pretende dar a conhecer um dos elementos patrimoniais que inspirou a réplica tátil que marca o início do percurso museográfico do espaço. A visita inclui uma caminhada noturna, observação do céu e leitura e interpretação das gravuras rupestres, sob orientação das arqueólogas Carla Alegria e Susete Ferreira, licenciadas pela Faculdade de Letras da Universidade de Coimbra. O transporte é gratuito, com partida da Covilhã às 20h00, mas a participação está sujeita a inscrição prévia, que pode ser efetuada através do telefone 275 330 665 ou do endereço eletrónico",
+        "keywords": [
+            {
+                "keyword": "aniversário visita noturna museu",
+                "score": 0.7747
+            },
+            {
+                "keyword": "museu atividade início 21h00",
+                "score": 0.678
+            },
+            {
+                "keyword": "visita noturna museu",
+                "score": 0.6457
+            },
+            {
+                "keyword": "noturna museu",
+                "score": 0.6066
+            },
+            {
+                "keyword": "aniversário realização visita noturna",
+                "score": 0.6041
+            },
+            {
+                "keyword": "museu atividade",
+                "score": 0.5844
+            },
+            {
+                "keyword": "celebra aniversário realização visita",
+                "score": 0.5798
+            },
+            {
+                "keyword": "museu atividade início",
+                "score": 0.5788
+            },
+            {
+                "keyword": "aniversário realização visita",
+                "score": 0.5763
+            },
+            {
+                "keyword": "museográfico espaço visita",
+                "score": 0.575
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEQ1U0thSnBlWmxtaDVOSXBGaTFnY05hTmJyYjdMeklJOF96UzlkSkZVRlQ1SFNVSm9MOVZBSVNZLXdBZEhvTDE0b2ZxXzRacGlidFdIU3ZwWldjWHJRWkhva1NBcWo1SnQ5S2ExMWJobjJxOGM3a2dWQUltOC1qNzR4YUUydGRNdlpxalVRc0dyV1Y0b2RDaW5SQ3BHTXRnLURTeWNnbVdCNms3QXJsdjR2ZlplUdIBsAFBVV95cUxOd2xyVDRPNDFNTmd3SnJBU1JSYlFYVEktVTVXSGpHaFpLWm5UcVNoMWtybEF0MUM5VF9lTm1HZTZ2ZU1WUEEtdHJqWnZYaXJjX1VwcFNtSjlHRGpsRkNOcl83YllZamtzTkRSNHhlMjN2ME1JMVdQc0dTN3JtTXF5REtKRkFSbDFheTg5dEdkZWIycjJPcnhpdG1mS0VIRW9EVUJucGdNcVJNYWRRQ3htbg?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Oficial: Sp. Covilhã contrata guarda-redes Fábio Duarte - Record",
+        "clean_text": "Oficial: Sp. Covilhã contrata guarda-redes Fábio Duarte - Record. E usufrua de todas as vantagens de ser assinante Fábio Duarte é reforço para a baliza do Sp. Covilhã e foi anunciado esta sexta-feira pelo emblema que vai disputar a Série B da Liga 3. O guarda-redes cabo-verdiano, de 28 anos, era um dos integrantes do Estágio do Jogador, promovido pelo Sindicado, depois de ter terminado contrato com o 1.º Dezembro, onde realizou sete jogos na época 2025/26. Depois de cumprir toda a formação no Benfica - com uma breve passagem pelo Belenenses - chegou a totalizar 35 jogos pela equipa B das águias. Antes do 1.º Dezembro representou ainda o Vilafranquense e o AVS SAD.",
+        "keywords": [
+            {
+                "keyword": "assinante fábio duarte",
+                "score": 0.583
+            },
+            {
+                "keyword": "estágio jogador promovido sindicado",
+                "score": 0.5764
+            },
+            {
+                "keyword": "duarte record usufrua todas",
+                "score": 0.5752
+            },
+            {
+                "keyword": "jogador promovido sindicado depois",
+                "score": 0.5704
+            },
+            {
+                "keyword": "jogador promovido sindicado",
+                "score": 0.5664
+            },
+            {
+                "keyword": "estágio jogador promovido",
+                "score": 0.5654
+            },
+            {
+                "keyword": "duarte record",
+                "score": 0.5605
+            },
+            {
+                "keyword": "fábio duarte record",
+                "score": 0.558
+            },
+            {
+                "keyword": "integrantes estágio jogador promovido",
+                "score": 0.5435
+            },
+            {
+                "keyword": "jogador promovido",
+                "score": 0.5434
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSC1vYU1pV1pKcVJPcmxheHMzaG9MUjN2Zk5FVFpfcHllOGVNY0dUTlhXcGF3Vk96ZFBhU2g4Wkdta0g1N3hhY1lxMy01T2poaVp0akZnV1hiZkppZHBRd0ZraTZpRVdTTHVXZ19qX0xtVlBxS0hlZ3ZVWkF3US1ybDY2X2NacmxIbTRjNGh2ZzF4bkMzdVQ1b09kcGNaU0oyUFh4NFBiMDEydEZkZ3ZLclB1ckpZdWxQVUV4UXVObzlWOW9hWlFfb0JqQnMtSV95REE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 15:15:48 GMT",
+        "title_clean": "COVILHÃ: Município avança com requalificação da pista de atletismo do Complexo Desportivo",
+        "clean_text": "COVILHÃ: Município avança com requalificação da pista de atletismo do Complexo Desportivo. O Município da Covilhã vai avançar com a requalificação da pista de atletismo do Complexo Desportivo, num investimento a rondar o meio milhão de euros. A abertura de concurso público, no valor de 459.936 euros + IVA, foi aprovada nesta sexta-feira, dia 24 de julho, durante a sessão pública do executivo municipal. O objetivo é requalificar a pista de 'tartan' e outros equipamentos de apoio à prática desportiva existentes naquele espaço, criando assim melhores condições para todos os utilizadores. Na apresentação do ponto, o Presidente da Câmara, Hélio Fazendeiro, explicou que se trata da concretização de um compromisso que tinha sido assumido com os Covilhanenses e adiantou que a intervenção deverá contar com apoio financeiro de fundos europeus. O autarca detalhou que também está prevista a retirada da bancada amovível e recordou ainda que o executivo já aprovou a abertura de procedimento para o projeto de requalificação do campo n.º 2. As obras enquadram-se na estratégia municipal de promoção da prática desportiva e na afirmação contínua da Covilhã como Município Amigo do Desporto, galardão que já lhe foi atribuído por diversas vezes.",
+        "keywords": [
+            {
+                "keyword": "avançar requalificação pista atletismo",
+                "score": 0.723
+            },
+            {
+                "keyword": "avança requalificação pista atletismo",
+                "score": 0.7214
+            },
+            {
+                "keyword": "requalificação pista atletismo",
+                "score": 0.698
+            },
+            {
+                "keyword": "requalificação pista atletismo complexo",
+                "score": 0.6798
+            },
+            {
+                "keyword": "municipal promoção prática desportiva",
+                "score": 0.6616
+            },
+            {
+                "keyword": "objetivo requalificar pista",
+                "score": 0.6582
+            },
+            {
+                "keyword": "pista atletismo complexo desportivo",
+                "score": 0.6549
+            },
+            {
+                "keyword": "avança requalificação pista",
+                "score": 0.6453
+            },
+            {
+                "keyword": "municipal objetivo requalificar pista",
+                "score": 0.6444
+            },
+            {
+                "keyword": "requalificação pista",
+                "score": 0.6316
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXlXMFJJQlhOOHRrY1dicXI5MlRrWHlTSnVTRGljdmh0djdaS1FQRmluTS1RbFFHaUF4OWlkM29SMlg3eUhMMkFLNDVTdTJYTktCMmNTMDd4VHRFQ2V2bko4TnZHM2d5VHBKXzZfMS1xVVlLZEkyR2Y1dkEway11UFhR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 09:30:16 GMT",
+        "title_clean": "Antevisão SC Covilhã vs FC Oliv. Hospital :: Estatísticas e Onzes Prováveis :: Pré-Época 2026/27",
+        "clean_text": "Antevisão SC Covilhã vs FC Oliv. Hospital :: Estatísticas e Onzes Prováveis :: Pré-Época 2026/27",
+        "keywords": [
+            {
+                "keyword": "fc oliv hospital estatísticas",
+                "score": 0.7471
+            },
+            {
+                "keyword": "vs fc oliv hospital",
+                "score": 0.6822
+            },
+            {
+                "keyword": "hospital estatísticas onzes",
+                "score": 0.6768
+            },
+            {
+                "keyword": "hospital estatísticas",
+                "score": 0.6754
+            },
+            {
+                "keyword": "hospital estatísticas onzes prováveis",
+                "score": 0.6554
+            },
+            {
+                "keyword": "oliv hospital estatísticas",
+                "score": 0.6519
+            },
+            {
+                "keyword": "fc oliv hospital",
+                "score": 0.6353
+            },
+            {
+                "keyword": "oliv hospital estatísticas onzes",
+                "score": 0.6235
+            },
+            {
+                "keyword": "pré época 2026 27",
+                "score": 0.4852
+            },
+            {
+                "keyword": "estatísticas onzes prováveis pré",
+                "score": 0.4836
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]

@@ -124833,6 +124833,201 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2VudS0zT1RWLW5yUWpyOElKd0xvejNMVmFITnp2bjQwajJ6VGtrdkdyV1V2cVVQYWxydjlSV3d1dW9HbjFLelJxa0xpYWZ1NlN4eGJHWE5QV1dlYjltUXMxWVV4Szd2TmQ2V0VLakRLZzRvYklYUWYzV2RnRGdqaEZvXzRZb3FPazJDWTNrWQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 14:16:13 GMT",
+        "title_clean": "\"Mercado do Pêssego\" regressa ao Mercado Municipal da Covilhã",
+        "entities": [
+            {
+                "text": "Mercado Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxOUDFQSUJ0aUh6QWIwa29uWHdmVHFvNzFxNUxpeTQyQ21WbTlKWXlXS0ZkMkJPZWtfajh4enZTU2xyYnR5NFVicm5ZYndTd1FIdDJac00zSmNJMHdTS1JWX3FQbHAtM0R0YW1qa1FIenUtQ2xFOTB6RXFwNi1IZHV6eGcwMlpaYkdqbFA4aEZnQ2xDTlJSbXVteGRjY2RxQTFqMDdLelVfbXJIMHF5cjdPTHVuT1JBYTJqMWd2djdR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 18:47:45 GMT",
+        "title_clean": "“Pêssego da Covilhã” promovido no mercado municipal da “cidade-neve” e na Feira de São Tiago",
+        "entities": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQck1FM2dhZWRCVC12VzBDMEdlLWtHWVNKcTh4aXdJdnYyb09hOEhwUFNwX296Y2tUU0pSQjdnZHlYV3R5cy1xUmF5WS1sbHpmSklweWFmTFpmS29STTdydHZYMEFZeWl3ejd4S0VDWUF5d3VrNlFWNGJyQ3FKeXVEM2ZzUjktS2xy?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 05:16:39 GMT",
+        "title_clean": "Jogo - SC Covilhã vs Lusitano GC - Sport TV",
+        "entities": [
+            {
+                "text": "Sport",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano GC SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGZOTnJHRHl6SVB1Q2JGS29Id1o2emtjcG5KNExoanVEeEZLc3RQbF8ydGtOSmRQUWJWbVlYY3JISkc3V1Y0c0JFaGxpbEc5RzBKOTdWTkRHQ2ppRlZJMFozWHpjV2g2V014cVB2VC1JYkdSNWNNTjZyb3VONGtTcA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Covilhã desafia jovens a recuperar áreas ardidas",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlJSMlF1aVY5dHBEYy1TYzVNa3U2dUJCanU1d2g5bHFIUVBpRzl6eDBSZ1dlMW9SbzFRSzJVU21OZ0ZRU215eHhtam8ydnNSanRWYi1nLW1LRUlmbElLb1dJazc4am5ZMVF4dldZbUJvSnFWWFVsbnp2b2N3QjFabEdBOURTeDdPZkl0LTYweDU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Museu da Covilhã assinala 5.º aniversário com visita noturna",
+        "entities": [
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Alto da Giesteirinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale da Piçarra",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Carla Alegria",
+                "label": "PER"
+            },
+            {
+                "text": "Susete Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Faculdade de Letras",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Coimbra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEQ1U0thSnBlWmxtaDVOSXBGaTFnY05hTmJyYjdMeklJOF96UzlkSkZVRlQ1SFNVSm9MOVZBSVNZLXdBZEhvTDE0b2ZxXzRacGlidFdIU3ZwWldjWHJRWkhva1NBcWo1SnQ5S2ExMWJobjJxOGM3a2dWQUltOC1qNzR4YUUydGRNdlpxalVRc0dyV1Y0b2RDaW5SQ3BHTXRnLURTeWNnbVdCNms3QXJsdjR2ZlplUdIBsAFBVV95cUxOd2xyVDRPNDFNTmd3SnJBU1JSYlFYVEktVTVXSGpHaFpLWm5UcVNoMWtybEF0MUM5VF9lTm1HZTZ2ZU1WUEEtdHJqWnZYaXJjX1VwcFNtSjlHRGpsRkNOcl83YllZamtzTkRSNHhlMjN2ME1JMVdQc0dTN3JtTXF5REtKRkFSbDFheTg5dEdkZWIycjJPcnhpdG1mS0VIRW9EVUJucGdNcVJNYWRRQ3htbg?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Oficial: Sp. Covilhã contrata guarda-redes Fábio Duarte - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Fábio Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Sindicado",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Vilafranquense",
+                "label": "ORG"
+            },
+            {
+                "text": "AVS SAD",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSC1vYU1pV1pKcVJPcmxheHMzaG9MUjN2Zk5FVFpfcHllOGVNY0dUTlhXcGF3Vk96ZFBhU2g4Wkdta0g1N3hhY1lxMy01T2poaVp0akZnV1hiZkppZHBRd0ZraTZpRVdTTHVXZ19qX0xtVlBxS0hlZ3ZVWkF3US1ybDY2X2NacmxIbTRjNGh2ZzF4bkMzdVQ1b09kcGNaU0oyUFh4NFBiMDEydEZkZ3ZLclB1ckpZdWxQVUV4UXVObzlWOW9hWlFfb0JqQnMtSV95REE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 15:15:48 GMT",
+        "title_clean": "COVILHÃ: Município avança com requalificação da pista de atletismo do Complexo Desportivo",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo",
+                "label": "LOC"
+            },
+            {
+                "text": "Presidente da Câmara",
+                "label": "PER"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhan",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXlXMFJJQlhOOHRrY1dicXI5MlRrWHlTSnVTRGljdmh0djdaS1FQRmluTS1RbFFHaUF4OWlkM29SMlg3eUhMMkFLNDVTdTJYTktCMmNTMDd4VHRFQ2V2bko4TnZHM2d5VHBKXzZfMS1xVVlLZEkyR2Y1dkEway11UFhR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 09:30:16 GMT",
+        "title_clean": "Antevisão SC Covilhã vs FC Oliv. Hospital :: Estatísticas e Onzes Prováveis :: Pré-Época 2026/27",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Oliv. Hospital",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
