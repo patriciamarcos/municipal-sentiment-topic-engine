@@ -6677,5 +6677,131 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mrkzi5z4jc24",
+        "source": "bluesky",
+        "created_at": "2026-07-26T18:34:47.618Z",
+        "title_clean": "",
+        "clean_text": "Devias usar, as receitas são muito boas e tem sempre o que preciso, desde a Chanfana até às filhoses da Covilhã",
+        "keywords": [
+            {
+                "keyword": "receitas são boas",
+                "score": 0.7792
+            },
+            {
+                "keyword": "receitas são boas sempre",
+                "score": 0.7543
+            },
+            {
+                "keyword": "usar receitas são boas",
+                "score": 0.7159
+            },
+            {
+                "keyword": "devias usar receitas são",
+                "score": 0.6657
+            },
+            {
+                "keyword": "devias usar receitas",
+                "score": 0.6498
+            },
+            {
+                "keyword": "receitas são",
+                "score": 0.6362
+            },
+            {
+                "keyword": "usar receitas são",
+                "score": 0.5696
+            },
+            {
+                "keyword": "usar receitas",
+                "score": 0.5667
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:l26qg6lddlvune7sujnffgpa/app.bsky.feed.post/3mrktpnfr3k23",
+        "source": "bluesky",
+        "created_at": "2026-07-26T16:51:36.190Z",
+        "title_clean": "",
+        "clean_text": "zap.aeiou.pt/chama-se-lua...",
+        "keywords": [
+            {
+                "keyword": "zap aeiou pt",
+                "score": 0.7331
+            },
+            {
+                "keyword": "zap aeiou pt chama",
+                "score": 0.7043
+            },
+            {
+                "keyword": "zap aeiou",
+                "score": 0.6586
+            },
+            {
+                "keyword": "aeiou pt chama",
+                "score": 0.6539
+            },
+            {
+                "keyword": "pt chama",
+                "score": 0.6433
+            },
+            {
+                "keyword": "aeiou pt",
+                "score": 0.5847
+            },
+            {
+                "keyword": "aeiou pt chama lua",
+                "score": 0.4118
+            },
+            {
+                "keyword": "pt chama lua",
+                "score": 0.357
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mrklsvevsg2n",
+        "source": "bluesky",
+        "created_at": "2026-07-26T14:30:13+00:00",
+        "title_clean": "",
+        "clean_text": "Temperaturas aumentam. Treze concelhos em perigo máximo de incêndio O nível de alerta mais elevado abrange os concelhos Bragança, Covilhã, Belmonte, Tomar, Castelo de Vide, Marvão,…",
+        "keywords": [
+            {
+                "keyword": "perigo máximo incêndio nível",
+                "score": 0.7081
+            },
+            {
+                "keyword": "máximo incêndio nível alerta",
+                "score": 0.6994
+            },
+            {
+                "keyword": "concelhos perigo máximo incêndio",
+                "score": 0.6875
+            },
+            {
+                "keyword": "incêndio nível alerta elevado",
+                "score": 0.6847
+            },
+            {
+                "keyword": "perigo máximo incêndio",
+                "score": 0.6673
+            },
+            {
+                "keyword": "incêndio nível alerta",
+                "score": 0.6516
+            },
+            {
+                "keyword": "máximo incêndio nível",
+                "score": 0.6368
+            },
+            {
+                "keyword": "incêndio nível",
+                "score": 0.5944
+            }
+        ],
+        "source_name": null
     }
 ]

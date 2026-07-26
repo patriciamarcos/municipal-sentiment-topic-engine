@@ -125344,6 +125344,346 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmc3TVRtYUl2SWJWenZmNElCcmJzdEN5R1pLUnpXRDNBWE1QMl9CU283YmxIdXR1UzUwZ2RhM1pnZDktRFhYeDNwd2EydzVyblhkSWx2UzQyS1E5Qm1XMWNFUXkycXc1ZkRNa2VZTUxkb1dHOTlOSWt3UHNqUVlPZFNuMHJJYnIxaVRVU0hqYXpBMTdmMVdPRW9TZm4?oc=5",
+        "source": "news",
+        "created_at": "Sun, 19 Jul 2026 11:03:52 GMT",
+        "title_clean": "A Covilhã foi palco,da 5.ª edição do Torneio Interassociações de Ténis",
+        "entities": [
+            {
+                "text": "Associação de Ténis de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis do Alentejo",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã Country Club",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação de Ténis de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis da Madeira",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Ténis de Leiria",
+                "label": "ORG"
+            },
+            {
+                "text": "Martim Salgueiro",
+                "label": "PER"
+            },
+            {
+                "text": "Martim Lee",
+                "label": "PER"
+            },
+            {
+                "text": "João Resende",
+                "label": "PER"
+            },
+            {
+                "text": "Luísa Gama",
+                "label": "PER"
+            },
+            {
+                "text": "Centro de Ténis de Monsanto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwJBVV95cUxNWjJCeFBsdjJvMGt2TUx1SVFKdUNKZ0ItU0taejVRckVLNU9jQWw5NG5zLVpCa2huMkw4WWpOQURLSHlkZ3Z1TEtDcDBVcFI5bEo2cXNKbEZWQnlsNEhfWXhheld0SFB2QWxyNTlrQzlKekVhSTcyN29LRmNfd3dReFRvTTNvVFlNSUR0TjFuNHlOalktQkFkWFI5SVE0RElac2VpZlRrWnpVYXFYRVFLckhKZzg5SVVTdC04RnBOYnFNaWFyUmVYNUJSUy1vbVpydFVKMHRVS3RPVjMxRWdHV3JLcldkekk1UWtnMWxNQ2hRdDYwM09JclUyY2x5RWVXcGF4UkR2Y1VieklSZlBSS0MyUlowTFRYV0VyWXB5RmlTWnNFZjJReW81OA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 25 Jul 2026 14:05:54 GMT",
+        "title_clean": "Ana Palmeira de Oliveira, presidente da Health Products Research and Developmen, na “Liga dos Inovadores”: veja a entrevista completa - Expresso",
+        "entities": [
+            {
+                "text": "Ana Palmeira de Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Health Products Research and Developmen",
+                "label": "ORG"
+            },
+            {
+                "text": "Expresso",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUJoVFlTeEwxNWFaRzBTVHJxdlJCZHlVWXlOSEw3X0w0NEQwc1Vtc2R2aUk4cW5RUTNad3U2TnEwRWdtZWtmRVpJUElrczhkZ1lrMGlDaW5fbmVhTDY1QWZZWERKSnBrSzFkSzQzWlltdnhNeXFyQlRRWUlPZHU2WFJQbHY1cm8xN093alpERXM3dzcyaFJreUc0dE9EUjhrWFEwbGJ2UEwya3JtanoyQWtKb0ViV1lkd251VnpUVGdCYXc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 08:11:30 GMT",
+        "title_clean": "Investimento de 1,5 milhões. Estrada entre Verdelhos e o Poço do Inferno vai avançar",
+        "entities": [
+            {
+                "text": "Verdelhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço do Inferno",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Estrada Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Rádio Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Escola Profissional Agrícola",
+                "label": "ORG"
+            },
+            {
+                "text": "Barragem das Cortes",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Silvério Regalado",
+                "label": "PER"
+            },
+            {
+                "text": "Conselho de Ministros",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque Natural da Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "José Maria Brandão de Brit",
+                "label": "PER"
+            },
+            {
+                "text": "Sabugueiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Curral do Negro",
+                "label": "LOC"
+            },
+            {
+                "text": "Auditório Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Mercado Municipal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWlaOWJmMjBHenJuT0pzV2ZQdG5Scm9LQXZGc21jT3dIU1JERlFBMlNZXzJBU0VWaVVoUmduYVdkcThoX25VS2NFNHpqa3VxUGhwS1ZZVjNCenpmS3JxejFnS2pVRWV4dXAwY0ExR2VoNmZCbFJobDRJbEp3N2IwS0VDSG00bV8yOVVDMkdsLVRsbmVKWE55ZHlXcHRzQ29KTkZJNnp5N2c5cTZyN292QlpFUkNnWXZM?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 22:31:29 GMT",
+        "title_clean": "Liga dos Bombeiros quer fazer nascer licenciatura em Ciências de Proteção Civil e Bombeiros - Bombeiros.pt",
+        "entities": [
+            {
+                "text": "Liga dos Bombeiros",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjdrd0lhZl9NbXREbllvd0ZDLUtFa1g0c1VhcHR1ZVBWa1Bsc1dPOTdNS0J5ZWt4amJKa1lWUjRvVDVhSmFtNmRWSW9SR0I1cnAzSEpiVDFYV2FmOHZRTmVQY3VDWlRGSFJzYzlpa0JTOWVGNFgwYmJXWEFUd01kWXNXRzlkQ1FkVHk2TXN1b01TSGlfLVFTZ1M3aFhUU0xOSzlCZ2JqMl8wVVMyOXdObFpXbFJhNjJhQ1RuX0ZlS1lPQQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 10:47:20 GMT",
+        "title_clean": "Porta a Porta promove ação na Feira de São Tiago em defesa do direito à habitação",
+        "entities": [
+            {
+                "text": "Porta a Porta",
+                "label": "ORG"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXBNbG9kZkJYVW9tS1BJODB2WkhTTUFMajhpbGJBMG1xb1hkTEVQQU9BQW9vdmZCSFpCSlVXTmtzZ2JlaG1nZnBZZllyWXpBLTlBS0FlWmNGcnMyOUc0SDVWd2swNFRZVU1XMTZPUnNvQldoV2pRc3dwVWNXeEhpelpkRFFKX2ItdDNGamNXYjV5aHI5TlpfSjZsYjJOMFdmd29iMi1WdjBSU056WWhlWEstTlRvckFM?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 10:40:00 GMT",
+        "title_clean": "SCC: Ekanga Ondoa reforça o plantel por empréstimo do Estrela da Amadora",
+        "entities": [
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Estrela da Amadora",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Camarões",
+                "label": "LOC"
+            },
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Zerozero",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG1QWWhEakVtMXFUdlctUnUzcWU5TEVDOVZieUpjQnVJclFROUtTMnpqdk9wb3EwNFhGUGo0cGllRGx5b1lYeWplY0lUSGoyeGUxaWpMenFmMmlTcGhTckk1OU9sSFVWMTFoMWJ3bjZ5M1UtdFB1d1k5QmtqS3RBeTRGX3VlY2hMVjd5VGUyVmE3Mkw4QWVTVE40VW5hUGc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 15:34:21 GMT",
+        "title_clean": "Tiago Sucena é campeão nacional sub23 dos 10.0000 metros marcha",
+        "entities": [
+            {
+                "text": "Tiago Sucena",
+                "label": "PER"
+            },
+            {
+                "text": "Clube de Atletismo",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "ORG"
+            },
+            {
+                "text": "GCA Donas",
+                "label": "ORG"
+            },
+            {
+                "text": "Seixal",
+                "label": "LOC"
+            },
+            {
+                "text": "Rieti",
+                "label": "LOC"
+            },
+            {
+                "text": "Samuel Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Afonso Lindeza",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3Z5N2FacEtJSktvS0gySk0xNmpDZ3A2NDhxME5lR3hydUkyY0QzZVZqMks3bWJjRDAzWDQ3b1VXT0hnMEN2R2JjUFUzY2Z5NDJGSU5tWjZhckdRV2J1NXdpV0hCZ0VuMGlVU2o5X1I5dlNOejVzM3d3TzhYYktPZ3hWU2Q2NV9WQ2REak80R1o4a3paV1EwMXpNclRIQjB4RHRZUlFiN2xRNlRlZUhQZ2NNTmdWV2FueWc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 19 Jul 2026 09:56:34 GMT",
+        "title_clean": "Marisa Pires posa com a família em festa: \"Entre sorrisos, tradições e momentos especiais...\" - A Televisão",
+        "entities": [
+            {
+                "text": "Marisa Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Jorge",
+                "label": "PER"
+            },
+            {
+                "text": "Feira de",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -128975,6 +129315,52 @@
             {
                 "text": "Estrela da Amadora",
                 "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mrkzi5z4jc24",
+        "source": "bluesky",
+        "created_at": "2026-07-26T18:34:47.618Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:l26qg6lddlvune7sujnffgpa/app.bsky.feed.post/3mrktpnfr3k23",
+        "source": "bluesky",
+        "created_at": "2026-07-26T16:51:36.190Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mrklsvevsg2n",
+        "source": "bluesky",
+        "created_at": "2026-07-26T14:30:13+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Bragança",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Tomar",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo de Vide",
+                "label": "LOC"
+            },
+            {
+                "text": "Marvão",
+                "label": "LOC"
             }
         ]
     },

@@ -126766,5 +126766,405 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmc3TVRtYUl2SWJWenZmNElCcmJzdEN5R1pLUnpXRDNBWE1QMl9CU283YmxIdXR1UzUwZ2RhM1pnZDktRFhYeDNwd2EydzVyblhkSWx2UzQyS1E5Qm1XMWNFUXkycXc1ZkRNa2VZTUxkb1dHOTlOSWt3UHNqUVlPZFNuMHJJYnIxaVRVU0hqYXpBMTdmMVdPRW9TZm4?oc=5",
+        "source": "news",
+        "created_at": "Sun, 19 Jul 2026 11:03:52 GMT",
+        "title_clean": "A Covilhã foi palco,da 5.ª edição do Torneio Interassociações de Ténis",
+        "clean_text": "A Covilhã foi palco,da 5.ª edição do Torneio Interassociações de Ténis. A Covilhã foi palco, entre os dias 24 e 26 de junho, da 5.ª edição do Torneio Interassociações de Ténis, uma competição nacional de seleções jovens organizada pela Associação de Ténis de Castelo Branco (ATCB) e pela Associação de Ténis do Alentejo (ATA). A prova decorreu no Covilhã Country Club e reuniu quatro seleções regionais, nos escalões de sub-12 e sub-14. A competição disputou-se num formato misto, integrando atletas masculinos e femininos. Cada confronto incluiu jogos de singulares masculinos e femininos, bem como um encontro de pares mistos, promovendo a igualdade de participação e o espírito de equipa entre os jovens tenistas. O torneio foi disputado em sistema de todos contra todos, permitindo que todas as equipas se defrontassem ao longo dos três dias de competição. Em ambos os escalões, a classificação final foi liderada pela Associação de Ténis de Lisboa, seguida pela Associação de Ténis da Madeira, Associação de Ténis de Leiria e pela seleção conjunta da Associação de Ténis de Castelo Branco/Associação de Ténis do Alentejo. No final da competição, os selecionadores distinguiram os atletas revelação e os jogadores que mais se destacaram pelo espírito desportivo. Nos sub-12, o prémio de jogador revelação foi atribuído a Martim Salgueiro, da Associação de Ténis da Madeira, enquanto o galardão Fair Play distinguiu Martim Lee, da Associação de Ténis de Lisboa. Nos sub-14, João Resende, também da Associação de Ténis da Madeira, foi eleito jogador revelação, e Luísa Gama, da Associação de Ténis de Leiria, recebeu o prémio Fair Play. O Torneio Interassociações nasceu em 2022, por iniciativa da Associação de Ténis de Lisboa, tendo a primeira edição decorrido no Centro de Ténis de Monsanto. Nesta quinta edição, a organização foi descentralizada, cabendo às associações de Castelo Branco e do Alentejo trazer o evento para a região, contribuindo para a promoção da modalidade e para a dinamização da atividade desportiva local. A realização da competição na Covilhã reforça o papel do concelho como destino para eventos desportivos de âmbito nacional, proporcionando aos jovens atletas uma experiência competitiva de elevado nível e promovendo o desenvolvimento do ténis na região.",
+        "keywords": [
+            {
+                "keyword": "local realização competição",
+                "score": 0.628
+            },
+            {
+                "keyword": "palco edição torneio interassociações",
+                "score": 0.611
+            },
+            {
+                "keyword": "palco edição torneio",
+                "score": 0.6068
+            },
+            {
+                "keyword": "desportiva local realização competição",
+                "score": 0.5806
+            },
+            {
+                "keyword": "26 edição torneio interassociações",
+                "score": 0.5755
+            },
+            {
+                "keyword": "ténis alentejo final competição",
+                "score": 0.5712
+            },
+            {
+                "keyword": "26 edição torneio",
+                "score": 0.5702
+            },
+            {
+                "keyword": "torneio interassociações nasceu 2022",
+                "score": 0.5689
+            },
+            {
+                "keyword": "12 sub 14 competição",
+                "score": 0.5459
+            },
+            {
+                "keyword": "14 competição disputou formato",
+                "score": 0.5395
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwJBVV95cUxNWjJCeFBsdjJvMGt2TUx1SVFKdUNKZ0ItU0taejVRckVLNU9jQWw5NG5zLVpCa2huMkw4WWpOQURLSHlkZ3Z1TEtDcDBVcFI5bEo2cXNKbEZWQnlsNEhfWXhheld0SFB2QWxyNTlrQzlKekVhSTcyN29LRmNfd3dReFRvTTNvVFlNSUR0TjFuNHlOalktQkFkWFI5SVE0RElac2VpZlRrWnpVYXFYRVFLckhKZzg5SVVTdC04RnBOYnFNaWFyUmVYNUJSUy1vbVpydFVKMHRVS3RPVjMxRWdHV3JLcldkekk1UWtnMWxNQ2hRdDYwM09JclUyY2x5RWVXcGF4UkR2Y1VieklSZlBSS0MyUlowTFRYV0VyWXB5RmlTWnNFZjJReW81OA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 25 Jul 2026 14:05:54 GMT",
+        "title_clean": "Ana Palmeira de Oliveira, presidente da Health Products Research and Developmen, na “Liga dos Inovadores”: veja a entrevista completa - Expresso",
+        "clean_text": "Ana Palmeira de Oliveira, presidente da Health Products Research and Developmen, na \"Liga dos Inovadores\": veja a entrevista completa - Expresso",
+        "keywords": [
+            {
+                "keyword": "palmeira oliveira presidente health",
+                "score": 0.6277
+            },
+            {
+                "keyword": "health products research and",
+                "score": 0.5952
+            },
+            {
+                "keyword": "presidente health products research",
+                "score": 0.5768
+            },
+            {
+                "keyword": "inovadores veja entrevista",
+                "score": 0.5724
+            },
+            {
+                "keyword": "health products research",
+                "score": 0.5639
+            },
+            {
+                "keyword": "research and developmen",
+                "score": 0.5637
+            },
+            {
+                "keyword": "inovadores veja entrevista completa",
+                "score": 0.5548
+            },
+            {
+                "keyword": "products research and developmen",
+                "score": 0.5431
+            },
+            {
+                "keyword": "oliveira presidente health",
+                "score": 0.534
+            },
+            {
+                "keyword": "presidente health products",
+                "score": 0.4993
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUJoVFlTeEwxNWFaRzBTVHJxdlJCZHlVWXlOSEw3X0w0NEQwc1Vtc2R2aUk4cW5RUTNad3U2TnEwRWdtZWtmRVpJUElrczhkZ1lrMGlDaW5fbmVhTDY1QWZZWERKSnBrSzFkSzQzWlltdnhNeXFyQlRRWUlPZHU2WFJQbHY1cm8xN093alpERXM3dzcyaFJreUc0dE9EUjhrWFEwbGJ2UEwya3JtanoyQWtKb0ViV1lkd251VnpUVGdCYXc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 08:11:30 GMT",
+        "title_clean": "Investimento de 1,5 milhões. Estrada entre Verdelhos e o Poço do Inferno vai avançar",
+        "clean_text": "Investimento de 1,5 milhões. Estrada entre Verdelhos e o Poço do Inferno vai avançar. A Câmara Municipal da Covilhã assinou esta quarta-feira o contrato-programa que garante um apoio de 500 mil euros do Estado para a requalificação da Estrada Verde que liga Verdelhos ao Poço do Inferno, no concelho de Manteigas. A intervenção, que estava integrada no Programa de Revitalização do Parque Natural da Serra da Estrela (PNSE), representa um investimento global de cerca de 1,5 milhões de euros. A obra prevê a pavimentação de um troço de seis quilómetros, atualmente em terra batida, bem como a melhoria das bermas, reforçando a segurança e as acessibilidades numa ligação considerada estratégica para a mobilidade e para o turismo na Serra da Estrela. Em declarações à Rádio Clube da Covilhã, o presidente da Câmara, Hélio Fazendeiro, explicou que o apoio estatal ascende a 500 mil euros, sendo a restante verba suportada pelo orçamento municipal. \"É uma estrada que está hoje feita, não alcatroada, vai ser qualificada com asfaltamento, com a melhoria das bermas, numa distância de seis quilómetros, que vai melhorar a circulação e a acessibilidade dentro da Serra da Estrela, não só no município da Covilhã, mas também no município de Manteigas\", afirmou. Segundo o autarca, a estrada permitirá uma ligação direta ao Poço do Inferno, um dos principais pontos turísticos da região. \"Estamos a abrir uma nova acessibilidade à Serra da Estrela. Esta estrada é importante não apenas para a freguesia de Verdelhos e para o concelho da Covilhã, mas para toda a região, porque estamos a capacitar e alavancar as condições de circulação e de mobilidade na Serra da Estrela, potenciando o turismo\", sublinhou. Hélio Fazendeiro adiantou ainda que o projeto está concluído e segue agora para a fase de obtenção das autorizações necessárias, nomeadamente ambientais, antes do lançamento da empreitada. O objetivo é que a intervenção esteja concluída \"dentro de um ano, um ano e pouco\". Autarca pede avanço dos restantes projetos do Plano de Revitalização Durante a cerimónia, Hélio Fazendeiro considerou que a assinatura do contrato representa \"mais um passo determinante e decisivo\" na concretização do Programa de Revitalização do Parque Natural da Serra da Estrela, aprovado em 2024 na sequência dos incêndios de 2022. \"É um passo muito positivo que a Covilhã recebe com gratidão e realismo de quem sabe reconhecer o que está certo, sem deixar de dizer, com a mesma franqueza e lealdade, o que ainda falta\", afirmou. O presidente da autarquia lembrou que esta intervenção concretiza uma das medidas previstas no plano, mas alertou que é necessário acelerar os restantes investimentos. \"Esperamos que o passo agora dado seja o início do caminho dessa concretização no terreno dos vários projetos identificados\", referiu. Entre as prioridades apontadas pelo autarca estão a revitalização da Escola Profissional Agrícola da Quinta da Lageosa, a construção da Barragem das Cortes, o Plano de Pormenor Intermunicipal da Torre e, \"muito em particular\", a construção do IC6 entre Coimbra e a Covilhã. \"Não pedimos favores, pedimos justiça, oportunidades e investimento\", afirmou, defendendo que os territórios do interior \"deixem de ser encarados como uma fatalidade e passem a ser encarados como uma oportunidade\". O presidente da Câmara aproveitou ainda a presença dos membros do Governo para solicitar a libertação das verbas do Fundo de Emergência Municipal (FEM), destinadas à reparação dos danos provocados pelos incêndios de 2025 no concelho. Governo diz que contratos dão expressão concreta ao Plano de Revitalização Na resposta às reivindicações, o secretário de Estado da Administração Local e Ordenamento do Território, Silvério Regalado, afirmou que a assinatura dos contratos representa o início da concretização financeira de um plano aprovado em 2024. \"Hoje começamos a dar os passos fundamentais para cumprir uma resolução do Conselho de Ministros que foi tomada em 2024 para os incêndios de 2022, mas para a qual não havia dotação financeira\", afirmou. O governante salientou que os contratos agora assinados abrangem dez municípios, cinco dos quais pertencem ao Parque Natural da Serra da Estrela - Covilhã, Seia, Gouveia, Manteigas e Celorico da Beira - correspondendo a uma comparticipação estatal de cerca de 2,5 milhões de euros para investimentos superiores a sete milhões. \"À semelhança do que aconteceu com o município da Guarda em 2025, os cinco contratos destinados aos municípios da Serra da Estrela dão expressão concreta no terreno aos objetivos do Programa de Revitalização da Serra da Estrela, através de investimentos que reforçam a resiliência, as acessibilidades, a valorização económica e social e a qualidade de vida neste território\", afirmou. Silvério Regalado garantiu ainda que o Governo continuará a desenvolver políticas para o interior. \"O interior não é um problema a administrar, é uma oportunidade estratégica para Portugal\", defendeu. Finanças garantem compromisso com investimentos nos territórios Também o secretário de Estado Adjunto e do Orçamento, José Maria Brandão de Brito, destacou o significado dos contratos-programa e assegurou que a disciplina das contas públicas permite continuar a financiar investimentos estruturantes. \"Esta cerimónia não celebra um ponto de chegada, representa antes de mais um compromisso de transformar este financiamento em investimento concretizado, obras executadas e benefícios efetivos para as populações\", afirmou. O governante acrescentou que \"Portugal só será verdadeiramente mais competitivo se for também mais coeso\", garantindo que \"a valorização dos territórios de baixa densidade, o reforço da atratividade do interior e a melhoria das condições de vida das populações serão sempre prioridades da ação governativa\". Além da intervenção na Estrada Verde entre Verdelhos e o Poço do Inferno, foram assinados contratos-programa para outras obras no Parque Natural da Serra da Estrela. Em Seia será reabilitada a Estrada Verde do PNSE entre a CM1125, no Sabugueiro, e a EN232 (Cabaço), com melhoria das condições de segurança e das acessibilidades. Em Gouveia avança a beneficiação do Caminho Municipal n.º 1112, entre Gouveia e Curral do Negro, enquanto Manteigas irá requalificar o Auditório Municipal. Já em Celorico da Beira, o investimento destina-se à alteração de um edifício para multiusos de apoio ao Mercado Municipal.",
+        "keywords": [
+            {
+                "keyword": "governativa além intervenção estrada",
+                "score": 0.6553
+            },
+            {
+                "keyword": "além intervenção estrada verde",
+                "score": 0.6549
+            },
+            {
+                "keyword": "suportada orçamento municipal estrada",
+                "score": 0.6397
+            },
+            {
+                "keyword": "estado requalificação estrada verde",
+                "score": 0.6331
+            },
+            {
+                "keyword": "suportada orçamento municipal",
+                "score": 0.6147
+            },
+            {
+                "keyword": "autorizações necessárias nomeadamente ambientais",
+                "score": 0.5979
+            },
+            {
+                "keyword": "euros obra prevê pavimentação",
+                "score": 0.5735
+            },
+            {
+                "keyword": "silvério regalado garantiu governo",
+                "score": 0.5721
+            },
+            {
+                "keyword": "concelho governo diz",
+                "score": 0.5694
+            },
+            {
+                "keyword": "plano aprovado",
+                "score": 0.5694
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWlaOWJmMjBHenJuT0pzV2ZQdG5Scm9LQXZGc21jT3dIU1JERlFBMlNZXzJBU0VWaVVoUmduYVdkcThoX25VS2NFNHpqa3VxUGhwS1ZZVjNCenpmS3JxejFnS2pVRWV4dXAwY0ExR2VoNmZCbFJobDRJbEp3N2IwS0VDSG00bV8yOVVDMkdsLVRsbmVKWE55ZHlXcHRzQ29KTkZJNnp5N2c5cTZyN292QlpFUkNnWXZM?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 22:31:29 GMT",
+        "title_clean": "Liga dos Bombeiros quer fazer nascer licenciatura em Ciências de Proteção Civil e Bombeiros - Bombeiros.pt",
+        "clean_text": "Liga dos Bombeiros quer fazer nascer licenciatura em Ciências de Proteção Civil e Bombeiros - Bombeiros.pt",
+        "keywords": [
+            {
+                "keyword": "ciências proteção civil bombeiros",
+                "score": 0.6719
+            },
+            {
+                "keyword": "civil bombeiros bombeiros pt",
+                "score": 0.6542
+            },
+            {
+                "keyword": "civil bombeiros",
+                "score": 0.6433
+            },
+            {
+                "keyword": "civil bombeiros bombeiros",
+                "score": 0.6352
+            },
+            {
+                "keyword": "nascer licenciatura ciências proteção",
+                "score": 0.6323
+            },
+            {
+                "keyword": "bombeiros quer fazer nascer",
+                "score": 0.6319
+            },
+            {
+                "keyword": "liga bombeiros quer fazer",
+                "score": 0.6307
+            },
+            {
+                "keyword": "licenciatura ciências proteção civil",
+                "score": 0.6235
+            },
+            {
+                "keyword": "proteção civil bombeiros bombeiros",
+                "score": 0.6232
+            },
+            {
+                "keyword": "bombeiros bombeiros pt",
+                "score": 0.6168
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjdrd0lhZl9NbXREbllvd0ZDLUtFa1g0c1VhcHR1ZVBWa1Bsc1dPOTdNS0J5ZWt4amJKa1lWUjRvVDVhSmFtNmRWSW9SR0I1cnAzSEpiVDFYV2FmOHZRTmVQY3VDWlRGSFJzYzlpa0JTOWVGNFgwYmJXWEFUd01kWXNXRzlkQ1FkVHk2TXN1b01TSGlfLVFTZ1M3aFhUU0xOSzlCZ2JqMl8wVVMyOXdObFpXbFJhNjJhQ1RuX0ZlS1lPQQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 10:47:20 GMT",
+        "title_clean": "Porta a Porta promove ação na Feira de São Tiago em defesa do direito à habitação",
+        "clean_text": "Porta a Porta promove ação na Feira de São Tiago em defesa do direito à habitação. A associação Porta a Porta promove esta quinta-feira, 23 de julho, uma ação na Feira de São Tiago, na Covilhã, integrada na Semana Nacional de Luta pelo Direito à Habitação, que decorre entre 21 e 25 de julho sob o lema \"Agora toca-te a ti!\". A iniciativa está marcada para as 20:00 e pretende alertar para o impacto das medidas de política de habitação propostas pelo Governo, que a associação considera agravarem as dificuldades de acesso à habitação. Em comunicado, o Porta a Porta critica o fim do limite de 2% ao aumento das rendas, a possibilidade de os senhorios exigirem cauções sem limite e até três rendas antecipadas no início dos contratos, bem como o aumento das situações que podem conduzir ao despejo dos inquilinos. A associação considera que estas medidas vão \"afetar todo o mercado habitacional\" e defende que \"não podem passar\". Entre as propostas apresentadas pelo movimento estão a redução e regulação das rendas de acordo com os salários, contratos de arrendamento com duração mínima de 10 anos, a limitação das prestações do crédito à habitação a 35% dos rendimentos dos agregados, o reforço da habitação pública, a utilização de imóveis devolutos para habitação acessível e o fim dos benefícios fiscais à especulação imobiliária. A ação da Covilhã integra um conjunto de iniciativas que decorrem em várias cidades do país, incluindo Porto, Coimbra, Viseu, Lisboa e Aveiro, com o objetivo de mobilizar a população em defesa do direito à habitação e contra as políticas habitacionais da atual maioria parlamentar.",
+        "keywords": [
+            {
+                "keyword": "políticas habitacionais atual",
+                "score": 0.6532
+            },
+            {
+                "keyword": "política habitação",
+                "score": 0.6499
+            },
+            {
+                "keyword": "medidas política habitação",
+                "score": 0.6435
+            },
+            {
+                "keyword": "medidas política habitação propostas",
+                "score": 0.6395
+            },
+            {
+                "keyword": "política habitação propostas",
+                "score": 0.6366
+            },
+            {
+                "keyword": "impacto medidas política habitação",
+                "score": 0.6289
+            },
+            {
+                "keyword": "habitação contra políticas",
+                "score": 0.6261
+            },
+            {
+                "keyword": "política habitação propostas governo",
+                "score": 0.6178
+            },
+            {
+                "keyword": "contra políticas habitacionais",
+                "score": 0.6175
+            },
+            {
+                "keyword": "habitação propostas governo associação",
+                "score": 0.6106
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXBNbG9kZkJYVW9tS1BJODB2WkhTTUFMajhpbGJBMG1xb1hkTEVQQU9BQW9vdmZCSFpCSlVXTmtzZ2JlaG1nZnBZZllyWXpBLTlBS0FlWmNGcnMyOUc0SDVWd2swNFRZVU1XMTZPUnNvQldoV2pRc3dwVWNXeEhpelpkRFFKX2ItdDNGamNXYjV5aHI5TlpfSjZsYjJOMFdmd29iMi1WdjBSU056WWhlWEstTlRvckFM?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 10:40:00 GMT",
+        "title_clean": "SCC: Ekanga Ondoa reforça o plantel por empréstimo do Estrela da Amadora",
+        "clean_text": "SCC: Ekanga Ondoa reforça o plantel por empréstimo do Estrela da Amadora. Ekanga Ondoa, jogador do Estrela da Amadora, é o novo reforço do Sporting Clube da Covilhã, para a época 2026/2027, tendo sido emprestado pelo clube de Lisboa. O avançado de 23 anos, natural dos Camarões, chega ao clube serrano, depois de na temporada passada ter representado o Vitória de Sernache e o Atlético CP, sendo que esteve emprestado às duas equipas, somando 2 golos em 20 jogos. Recorde-se que Ekanga integra o Estrela da Amadora desde 2022, no entanto, já vestiu também as cores do Belenenses, por empréstimo, na época 2024/2025. Foto: Zerozero",
+        "keywords": [
+            {
+                "keyword": "ondoa jogador estrela amadora",
+                "score": 0.6377
+            },
+            {
+                "keyword": "ondoa jogador",
+                "score": 0.6351
+            },
+            {
+                "keyword": "ekanga ondoa jogador estrela",
+                "score": 0.6254
+            },
+            {
+                "keyword": "ondoa jogador estrela",
+                "score": 0.6182
+            },
+            {
+                "keyword": "ekanga ondoa jogador",
+                "score": 0.6147
+            },
+            {
+                "keyword": "amadora ekanga ondoa jogador",
+                "score": 0.6143
+            },
+            {
+                "keyword": "estrela amadora ekanga ondoa",
+                "score": 0.5359
+            },
+            {
+                "keyword": "amadora novo reforço sporting",
+                "score": 0.4992
+            },
+            {
+                "keyword": "ondoa reforça",
+                "score": 0.4814
+            },
+            {
+                "keyword": "reforço sporting",
+                "score": 0.4421
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG1QWWhEakVtMXFUdlctUnUzcWU5TEVDOVZieUpjQnVJclFROUtTMnpqdk9wb3EwNFhGUGo0cGllRGx5b1lYeWplY0lUSGoyeGUxaWpMenFmMmlTcGhTckk1OU9sSFVWMTFoMWJ3bjZ5M1UtdFB1d1k5QmtqS3RBeTRGX3VlY2hMVjd5VGUyVmE3Mkw4QWVTVE40VW5hUGc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 15:34:21 GMT",
+        "title_clean": "Tiago Sucena é campeão nacional sub23 dos 10.0000 metros marcha",
+        "clean_text": "Tiago Sucena é campeão nacional sub23 dos 10.0000 metros marcha. O fundanense Tiago Sucena é o novo campeão nacional sub23 dos 10.000 metros marcha. A representar atualmente o Clube de Atletismo da Marinha Grande e treinado por Fábio Barata, o atleta formado no GCA Donas conquistou o título nos Campeonatos Nacionais do escalão em pisto ao ar livre, que decorreram no fim de semana no Seixal. Tiago Sucena cortou a meta com a marca de 44m07s89'. Já nos Europeus de sub18, que terminaram no domingo em Rieti (Itália), os atletas da região que integraram a seleção nacional tiveram menos sorte. Samuel Rodrigues (CA Seia) foi o mais azarado, caiu nas eliminatórias dos 1.500 metros e foi desqualificado. Por sua vez, Afonso Lindeza (GCA Donas) foi 17º nos 5.000 metros marcha, mas com um novo recorde pessoal de 23m11s85'.",
+        "keywords": [
+            {
+                "keyword": "sucena campeão nacional sub23",
+                "score": 0.6328
+            },
+            {
+                "keyword": "campeão nacional sub23",
+                "score": 0.622
+            },
+            {
+                "keyword": "campeão nacional sub23 10",
+                "score": 0.6212
+            },
+            {
+                "keyword": "novo campeão nacional sub23",
+                "score": 0.5904
+            },
+            {
+                "keyword": "tiago sucena campeão nacional",
+                "score": 0.5828
+            },
+            {
+                "keyword": "rieti itália atletas região",
+                "score": 0.5689
+            },
+            {
+                "keyword": "campeão nacional",
+                "score": 0.5554
+            },
+            {
+                "keyword": "sucena novo campeão nacional",
+                "score": 0.5501
+            },
+            {
+                "keyword": "tiago sucena novo campeão",
+                "score": 0.539
+            },
+            {
+                "keyword": "novo campeão nacional",
+                "score": 0.5164
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3Z5N2FacEtJSktvS0gySk0xNmpDZ3A2NDhxME5lR3hydUkyY0QzZVZqMks3bWJjRDAzWDQ3b1VXT0hnMEN2R2JjUFUzY2Z5NDJGSU5tWjZhckdRV2J1NXdpV0hCZ0VuMGlVU2o5X1I5dlNOejVzM3d3TzhYYktPZ3hWU2Q2NV9WQ2REak80R1o4a3paV1EwMXpNclRIQjB4RHRZUlFiN2xRNlRlZUhQZ2NNTmdWV2FueWc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 19 Jul 2026 09:56:34 GMT",
+        "title_clean": "Marisa Pires posa com a família em festa: \"Entre sorrisos, tradições e momentos especiais...\" - A Televisão",
+        "clean_text": "Marisa Pires posa com a família em festa: \"Entre sorrisos, tradições e momentos especiais...\" - A Televisão. Marisa Pires esteve com a família da Feira de São Tiago e fez um agradecimento à Câmara Municipal da Covilhã pela organização. Marisa Pires esteve com Pedro Jorge e os filhos na Feira de São Tiago, na Covilhã, e fez um agradecimento nas redes sociais. \"❤️ Entre sorrisos, tradições e momentos especiais, a passagem pela Feira de São Tiago, na Covilhã, tornou-se ainda mais inesquecível\", começou por escrever. \"Um agradecimento especial à Câmara Municipal da Covilhã pela organização e pela forma como valoriza este evento tão emblemático da nossa região. A todos os que ainda não visitaram, fica o convite: venham viver o ambiente único da Feira de São Tiago, descobrir os expositores, saborear a gastronomia e desfrutar de muita animação. Esperamos por vocês! 🎡✨\", acrescentou.",
+        "keywords": [
+            {
+                "keyword": "marisa pires posa família",
+                "score": 0.6211
+            },
+            {
+                "keyword": "marisa pires",
+                "score": 0.619
+            },
+            {
+                "keyword": "marisa pires posa",
+                "score": 0.5975
+            },
+            {
+                "keyword": "marisa pires esteve família",
+                "score": 0.5415
+            },
+            {
+                "keyword": "família festa sorrisos tradições",
+                "score": 0.5363
+            },
+            {
+                "keyword": "festa sorrisos tradições momentos",
+                "score": 0.518
+            },
+            {
+                "keyword": "organização marisa pires",
+                "score": 0.5141
+            },
+            {
+                "keyword": "sorrisos tradições momentos especiais",
+                "score": 0.5141
+            },
+            {
+                "keyword": "sorrisos tradições momentos",
+                "score": 0.509
+            },
+            {
+                "keyword": "são tiago fez agradecimento",
+                "score": 0.5085
+            }
+        ],
+        "source_name": null
     }
 ]
