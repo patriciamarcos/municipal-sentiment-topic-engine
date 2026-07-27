@@ -127566,5 +127566,405 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxQNHZXek1CSk1yS1I3SlkwZmxfeGpFa3hBUjhxbjUwZFRiOGxjbldMY08xSV9aWkp5NGpiVnl0VG9LN0s2WjhOemNKVEZEaW9weE5hTlcweEpuZGFnVlZaUTAyM2M2RkNJUDVUZmFjZGVacUl2NDlLTjJsMTNEaFQ5VURja19oYVE0bXR3SVdaeTlUWHk5NUk3TFN5dzZQYWIyQTVzUG96cWJvdXdmcHVlTno2Wm1DRkt3cUhjcnY2U29NUmhTbDJoZHhnZVA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 20:14:14 GMT",
+        "title_clean": "Governo assina contratos-programa para investimentos de 14 milhões de euros em 10 municípios do Centro - Diário de Notícias",
+        "clean_text": "Governo assina contratos-programa para investimentos de 14 milhões de euros em 10 municípios do Centro - Diário de Notícias. O Governo e dez municípios da região Centro assinaram esta quarta-feira, 22 de julho, contratos-programa, no valor de 14 milhões de euros, para \"investimentos estruturantes\", sendo 7,3 milhões de euros destinados a autarquias que integram o Parque Natural da Serra da Estrela.O Ministério da Economia e da Coesão Territorial e o Ministério das Finanças divulgaram, em comunicado conjunto, que os dez contratos-programa assinados esta quarta-feira na Covilhã, distrito de Castelo Branco, representam um investimento elegível global de cerca de 14 milhões de euros, ao qual corresponde uma comparticipação financeira do Estado superior a 4,4 milhões de euros\".Os investimentos abrangem a qualificação da rede viária, a melhoria das condições de segurança, a valorização de equipamentos municipais, a reabilitação de edifícios públicos e a criação de infraestruturas de apoio à atividade económica, adiantaram os ministérios.Os contratos-programa foram assinados com os municípios de Celorico da Beira, Gouveia, Manteigas e Seia (distrito da Guarda), Miranda do Corvo (Coimbra), Pedrógão Grande e Castanheira de Pera (Leiria), Santa Comba Dão (Viseu), Covilhã e Vila de Rei (Castelo Branco), no âmbito \"da cooperação técnica e financeira entre a administração central e a administração local\".A cerimónia na Covilhã contou com a presença do secretário de Estado Adjunto e do Orçamento, José Maria Brandão de Brito, e do secretário de Estado da Administração Local e Ordenamento do Território, Silvério Regalado.Os dois ministérios sublinharam também na nota de imprensa que cinco dos contrato-programa assinados destinam-se a municípios que integram o Parque Natural da Serra da Estrela: Covilhã, Celorico da Beira, Gouveia, Manteigas e Seia, \"dando expressão no terreno aos objetivos do Programa de Revitalização do Parque da Serra da Estrela e a uma estratégia orientada para a recuperação, a resiliência, o desenvolvimento económico e social e a valorização sustentável daquele território\".\"Estes cinco contratos representam mais de 7,3 milhões de euros de investimento elegível e contam com uma comparticipação do Estado que ronda os 500 mil euros por município\", destacaram.O secretário de Estado da Administração Local e Ordenamento do Território realçou que \"estes contratos mostram que a coesão territorial se constrói com respostas concretas\".\"Quando investimos no Interior, não estamos a compensar territórios, estamos a mobilizar o seu potencial e a reforçar o desenvolvimento de todo o país. Estamos também a começar a dar expressão concreta ao Programa de Revitalização do Parque Natural da Serra da Estrela\", apontou Silvério Regalado, citado no comunicado.Já o secretário de Estado Adjunto e do Orçamento, José Maria Brandão de Brito, referiu que \"Portugal só será verdadeiramente mais competitivo se for também mais coeso, pelo que a valorização dos territórios de baixa densidade, o reforço da atratividade do Interior e a melhoria das condições de vida das populações serão sempre prioridades da ação governativa\".",
+        "keywords": [
+            {
+                "keyword": "adiantaram ministérios contratos programa",
+                "score": 0.6897
+            },
+            {
+                "keyword": "governo assina contratos programa",
+                "score": 0.6844
+            },
+            {
+                "keyword": "ministérios contratos programa assinados",
+                "score": 0.6833
+            },
+            {
+                "keyword": "económica adiantaram ministérios contratos",
+                "score": 0.6419
+            },
+            {
+                "keyword": "contratos representam milhões euros",
+                "score": 0.6259
+            },
+            {
+                "keyword": "dez contratos programa assinados",
+                "score": 0.624
+            },
+            {
+                "keyword": "contratos programa investimentos 14",
+                "score": 0.6169
+            },
+            {
+                "keyword": "territorial ministério finanças",
+                "score": 0.6147
+            },
+            {
+                "keyword": "território realçou contratos",
+                "score": 0.6033
+            },
+            {
+                "keyword": "assina contratos programa investimentos",
+                "score": 0.589
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUVQeEJMN013TTNvemlmYUw0TzhiQndwVDlfWnF3dllyblo4cjh4bXRsNjRUWTJhMTVlTU0wbkZ5cTdibmtHSHhfVzdvY1R6T3RoMWhnckhjZG4xdmtiOGJETGRobmczMC1yM0l6U0Y0c1BENFVGY0F0SGxmSC1BbU1MU09icEJOZ3ZQdllDaF9ZdHduYjJPWU0tNFUwTkY0ckEtazQ3WmF5clBRNENvUEo3YW1TM01KSVVV?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 20:49:40 GMT",
+        "title_clean": "Rampa Serra da Estrela volta a incluir prova internacional de automobilismo - RTP",
+        "clean_text": "Rampa Serra da Estrela volta a incluir prova internacional de automobilismo - RTP. \"Conta para uma taça internacional de montanha, o FIA Hill-Climb Challenge, na qual participam muitos pilotos do campeonato da Europa\", revelou, Nuno Loureiro, o presidente do CAMI - Clube de Montanha do Minho, entidade organizadora da prova. A competição é também pontuável para o Campeonato Nacional de Velocidade, adianta Nuno Loureiro, que espera a participação de 70 a 80 pilotos e \"grandes carros\". Para a concretização da corrida de automobilismo, o CAMI conta com o apoio logístico da Câmara Municipal da Covilhã, a quem a organização já se tinha associado no ano passado, para fazer regressar a competição à Serra da Estrela. A prova disputa-se no percurso da antiga Rampa Internacional Serra da Estrela, levada a cabo pelo Automóvel Clube de Portugal, que em 2010 deixou de se realizar por motivos financeiros. Os pilotos têm pela frente cinco quilómetros entre a Covilhã, a 846 metros de altitude, e o Sanatório das Penhas da Saúde, a 1.297 metros, num trajeto com um desnível de 451 metros e uma inclinação média de nove por cento. \"Queremos fazer mais e melhor. Queremos que os pilotos e o público não saiam defraudados e esperamos que o tempo ajude\", realça Nuno Loureiro, para quem a Rampa \"tem tudo o que uma prova de montanha possa ter\". A competição acolhe também, como prova extra, os carros que rodam no Desafio Único, aberto aos modelos Fiat Punto e Alfa Romeu 156. O início dos treinos está marcado para as 14:30 de sábado, com a realização da primeira subida da prova a seguir. No domingo a subida decorre a partir das 9:30.",
+        "keywords": [
+            {
+                "keyword": "prova montanha possa competição",
+                "score": 0.6633
+            },
+            {
+                "keyword": "montanha possa competição",
+                "score": 0.6547
+            },
+            {
+                "keyword": "montanha possa competição acolhe",
+                "score": 0.6532
+            },
+            {
+                "keyword": "hill climb challenge qual",
+                "score": 0.6224
+            },
+            {
+                "keyword": "corrida automobilismo cami conta",
+                "score": 0.6111
+            },
+            {
+                "keyword": "fia hill climb challenge",
+                "score": 0.5919
+            },
+            {
+                "keyword": "pilotos campeonato europa",
+                "score": 0.5894
+            },
+            {
+                "keyword": "climb challenge qual",
+                "score": 0.5774
+            },
+            {
+                "keyword": "participam muitos pilotos campeonato",
+                "score": 0.5706
+            },
+            {
+                "keyword": "muitos pilotos campeonato europa",
+                "score": 0.5688
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMjIzWGVOTFVsaHhncjg0S3cwb0F6azJTd0RVSlVFVXFiYzVYejVQLXVqOHdvcWhBUGlzUU1LR2hqa0FxbEk1RGY4alY4V0VYMHBZaWRDOXRrak92anVFSzgtdl9ZVVhZSGY0T25MUzJfVjRRbDF4cWRBWlBUYVRhdFY3Y0lPOEdDeTRaRS00eUVQaUs1TU4xZkVSMUtQUEI0T1RtUnhDNXJ2dHpreXhCSzZyZ3R4eWpmR1UyS0lxTFYyNmdTVFJnSE1lM2wyeS1sTEtic0pNZ0E4MFR0cmdpUDJFZnplWXBONUVLQUdZMVpUaURQZ2JLbmtxYlYxUQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 07:43:00 GMT",
+        "title_clean": "Já há 13 concelhos em perigo máximo de incêndio. E situação vai agravar-se já na segunda-feira - CNN Portugal",
+        "clean_text": "Já há 13 concelhos em perigo máximo de incêndio. E situação vai agravar-se já na segunda-feira - CNN Portugal. Ontem às 08:43 Nível de alerta mais elevado abrange os concelhos Bragança, Covilhã, Belmonte, Tomar, Castelo de Vide, Marvão, Portalegre, Monchique, Portimão, Silves, Loulé, São Brás de Alportel e Tavira Treze concelhos do interior Norte e Centro e do distrito de Faro estão este domingo em perigo máximo de incêndio rural, segundo o Instituto Português do Mar e da Atmosfera (IPMA). O nível de alerta mais elevado abrange os concelhos Bragança, Covilhã, Belmonte, Tomar, Castelo de Vide, Marvão, Portalegre, Monchique, Portimão, Silves, Loulé, São Brás de Alportel e Tavira. O IPMA colocou ainda em perigo muito elevado cerca de uma centena de concelhos, sobretudo do interior Norte e Centro. O perigo de incêndio deverá aumentar muito a partir de segunda-feira, altura em que praticamente todo o território continental enfrentará um perigo máximo ou muito elevado, com o aumento das temperaturas, que já levou o IPMA a pôr praticamente todo o território continental em avisos amarelo, o menos grave. O perigo de incêndio rural determinado pelo IPMA tem cinco níveis, que vão de reduzido a máximo. Os cálculos são obtidos a partir da temperatura do ar, humidade relativa, velocidade do vento e quantidade de precipitação nas 24 horas anteriores. O IPMA prevê para este domingo no continente céu pouco nublado ou limpo e vento por vezes forte na faixa costeira ocidental, apontando uma pequena descida da temperatura mínima e subida da máxima. As temperaturas mínimas vão oscilar entre os 12 graus Celsius (Bragança) e os 21 (Faro) e as máximas entre os 25 (Porto, Aveiro e Sagres) e os 35 graus (Évora e Beja).",
+        "keywords": [
+            {
+                "keyword": "norte centro perigo incêndio",
+                "score": 0.6274
+            },
+            {
+                "keyword": "centro perigo incêndio",
+                "score": 0.6115
+            },
+            {
+                "keyword": "incêndio rural instituto português",
+                "score": 0.6084
+            },
+            {
+                "keyword": "centro perigo incêndio deverá",
+                "score": 0.6083
+            },
+            {
+                "keyword": "perigo máximo incêndio situação",
+                "score": 0.5941
+            },
+            {
+                "keyword": "perigo máximo incêndio rural",
+                "score": 0.5871
+            },
+            {
+                "keyword": "perigo máximo incêndio",
+                "score": 0.5835
+            },
+            {
+                "keyword": "domingo perigo máximo incêndio",
+                "score": 0.5757
+            },
+            {
+                "keyword": "distrito faro domingo perigo",
+                "score": 0.5694
+            },
+            {
+                "keyword": "perigo elevado cerca",
+                "score": 0.5682
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVBkeEs0UnRfdGYwV0ZleUFTWTBkUjVLX04xRVgzdFRsMmdUN2pfQWJtMXBsMzNUVkVUR0tVTXp5enp5bDZvUllvZEVFS3g2dzRRb0xQSzJpQ0NQcF8xQXJfaTRNT2w4d2p0MnljMkxQODA4YzFMUlZoU3p6QXpBYnk1dVZQVHd5bnBJX2otbFZGQXhXWTlBOGxYcTFGTWU5U05wWTFkbnBFcG5SSUw0S0E5Z1lmZjFROC1sX1o5Y1VJa3k3TEZXWmRCTUN2SU1CZ0djdFRKSEvSAbABQVVfeXFMT2FvWFVtaEpUb3EwM3NLeWdQVTlyQXlkd29nT0Mza1pJWUhydk5PaFJnYWVoLWJpMnc0M1JGVjNBVmNlRWhZRERrVy1XQk5mRVdRYjN4YlF0NXZqRzVZUmZCYk5oX3NVUUFkWVNTY3lOMHRVcjI4NVU0N1dJdjFfc0RHamJDb1RybmVoUzVPcEJtbmlpcW5sdTNXam1McDBfU2xtY3ppLUZnbmU3UV9uQkw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Théo Fonseca oficializado como reforço da Oliveirense - Record",
+        "clean_text": "Théo Fonseca oficializado como reforço da Oliveirense - Record. E usufrua de todas as vantagens de ser assinante A Oliveirense reforçou o ataque com a contratação de Théo Fonseca. O avançado chega do Fafe, onde apontou 1 golo em 33 jogos na temporada passada. O luso-francês, de 25 anos, fez a formação entre Nancy e V. Guimarães. Passou pela 1.ª Liga ao serviço do Famalicão e representou ainda o Felgueiras.",
+        "keywords": [
+            {
+                "keyword": "chega fafe apontou golo",
+                "score": 0.5577
+            },
+            {
+                "keyword": "golo 33 jogos temporada",
+                "score": 0.5326
+            },
+            {
+                "keyword": "famalicão representou",
+                "score": 0.5135
+            },
+            {
+                "keyword": "fafe apontou golo 33",
+                "score": 0.5107
+            },
+            {
+                "keyword": "golo 33 jogos",
+                "score": 0.5023
+            },
+            {
+                "keyword": "oliveirense reforçou ataque",
+                "score": 0.4971
+            },
+            {
+                "keyword": "golo 33",
+                "score": 0.4859
+            },
+            {
+                "keyword": "apontou golo 33 jogos",
+                "score": 0.4836
+            },
+            {
+                "keyword": "famalicão representou felgueiras",
+                "score": 0.4806
+            },
+            {
+                "keyword": "oliveirense record usufrua todas",
+                "score": 0.4791
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWZ0cGRDQUZSbm1NTWVRYWtRVGdNVWlGejBxT3VMSmMyTG5YaEl6RllzN3BYbWtudTlHVTloMmpxZzZ3T0k5TWtzOTN3REJCbVg1ZGZ2dnItMFJTWElXbmpvVGt2azBuMXFCU2xFZHhiS2UwT190S3JBTGNpclM2SEgwbkl3ekJx?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 11:09:44 GMT",
+        "title_clean": "Novo Comando dos Bombeiros Voluntários de Esmoriz toma posse - Bombeiros.pt",
+        "clean_text": "Novo Comando dos Bombeiros Voluntários de Esmoriz toma posse - Bombeiros.pt",
+        "keywords": [
+            {
+                "keyword": "novo comando bombeiros voluntários",
+                "score": 0.8194
+            },
+            {
+                "keyword": "novo comando bombeiros",
+                "score": 0.8174
+            },
+            {
+                "keyword": "toma posse bombeiros pt",
+                "score": 0.814
+            },
+            {
+                "keyword": "comando bombeiros voluntários esmoriz",
+                "score": 0.8121
+            },
+            {
+                "keyword": "comando bombeiros",
+                "score": 0.8021
+            },
+            {
+                "keyword": "comando bombeiros voluntários",
+                "score": 0.7956
+            },
+            {
+                "keyword": "toma posse bombeiros",
+                "score": 0.7898
+            },
+            {
+                "keyword": "posse bombeiros pt",
+                "score": 0.7891
+            },
+            {
+                "keyword": "posse bombeiros",
+                "score": 0.7821
+            },
+            {
+                "keyword": "bombeiros pt",
+                "score": 0.778
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzZvd0FEZHB0cllaWF95cmhHcGYzWFRKOWFVTGxqWldlZ1BDRGJtYTlsY3Q2MURfLTNXLXprS2RwUUNyU2g5MjZULVFzeDNBXzhQVDBzcFJoU0tVdjZITG5QZVlVODJTdkgtbHA3dHVCbmxNNkVvNUplRmZCb0U2WGNfQV9wMW5POWlzMGdpM05Fa0VXNk1Xa3RGb2F1YkhfY3VuU3JUUlhNdFdBTENJVXRhRlA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 10:27:43 GMT",
+        "title_clean": "NEW HAND LAB promove debate sobre os “Futuros do Interior” na sexta-feira",
+        "clean_text": "NEW HAND LAB promove debate sobre os \"Futuros do Interior\" na sexta-feira. O NEW HAND LAB, na Covilhã, recebe na próxima sexta-feira, 24 de julho, a CONVERSA02 - Futuros do Interior, a segunda sessão de um ciclo de conversas desenvolvido em parceria com o iARTES da Universidade da Beira Interior (UBI). A iniciativa pretende promover a reflexão sobre o papel da cultura, do design e do património na construção de um futuro sustentável para a Beira Interior. Partindo da questão \"Como pode a Beira Interior tornar-se um manancial de futuros possíveis, sustentáveis e integradores?\", o encontro reúne artistas, designers e investigadores para debater o património material e imaterial da região como motor de criação, inovação e desenvolvimento. A sessão integra o projeto TEIAS-TRAMAS, apoiado pela Direção-Geral das Artes, Município da Covilhã e Universidade da Beira Interior, e contará também com a participação de elementos do Observatório Cartografias do Futuro/UBI, iniciativa dedicada à leitura, interpretação e construção coletiva de futuros para o território. O programa começa às 17:00 com a inauguração de \"RÂMOLA\", uma obra da ilustradora Marta Nunes, criada no âmbito do projeto europeu Erasmus+ RBER. O trabalho resulta de uma residência artística realizada com alunos da Escola Secundária Campos Melo nas oficinas da Ribeira da Carpinteira e estabelece uma ligação entre património, criação contemporânea e comunidade. Às 18:00 realiza-se a mesa-redonda, moderada por Aline Monçores, docente e investigadora da UBI, que contará com as intervenções de Cláudia Facca (UBI), Filipa Pimentel (Transition Network), Marta Nunes, Pedro Seixo Rodrigues (SRARQ) e William Cantú (IADE e Politécnico de Leiria). A iniciativa termina, a partir das 19:00, com um momento de convívio aberto ao público, acompanhado por um DJ set de Sam The Witch. Segundo a organização, este será também o primeiro momento de colaboração com a CISMA - Associação Cultural, parceria que deverá desenvolver-se nos próximos meses. A participação é gratuita e a conversa será transmitida em direto na página de Facebook do NEW HAND LAB.",
+        "keywords": [
+            {
+                "keyword": "hand lab promove debate",
+                "score": 0.6991
+            },
+            {
+                "keyword": "new hand lab promove",
+                "score": 0.6413
+            },
+            {
+                "keyword": "hand lab promove",
+                "score": 0.6376
+            },
+            {
+                "keyword": "feira new hand lab",
+                "score": 0.6198
+            },
+            {
+                "keyword": "lab promove debate futuros",
+                "score": 0.6118
+            },
+            {
+                "keyword": "futuros interior segunda sessão",
+                "score": 0.5787
+            },
+            {
+                "keyword": "conversa02 futuros interior",
+                "score": 0.5632
+            },
+            {
+                "keyword": "debate futuros interior sexta",
+                "score": 0.5437
+            },
+            {
+                "keyword": "sessão integra projeto",
+                "score": 0.5248
+            },
+            {
+                "keyword": "facebook new hand lab",
+                "score": 0.5225
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk5FdktIVkR5Y2c5cGtPTTdzRWxhUzhDUjlydktBbDBtbDhxS2h2VkRnUHJ0cUp4THlWTDliOWRzOXJpQ3lDdmJQdGFxelhnUENfbmJrWl82bUlZdktnSnhkZGxnUVVkRFNwcTNOMlpadFhqdi1QTm5GMHpQN09mQWxaNTN4d0ktYXpvOWpEZ3JpbTNiVWJLbGRGRzFVdkZGWGZ3bVVR0gGmAUFVX3lxTFA2TkV2S0hWRHljZzlwa09NN3NFbGFTOENSOXJ2S0FsMG1sOHFLaHZWRGdQcnRxSnhMeVZMOWI5ZHM5cmlDeUN2YlB0YXF6WGdQQ19uYmtaXzZtSVl2S2dKeGRkbGdRVWREU3BxM04yWlp0WGp2LVBObkYwelA3T2ZBbFo1M3h3SS1hem85akRncmltM2JVYktsZEZHMVV2RkZYZndtVVE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 25 Jul 2026 16:40:08 GMT",
+        "title_clean": "Oliveirense reforça a baliza com Sérgio Dutra - Record",
+        "clean_text": "Oliveirense reforça a baliza com Sérgio Dutra - Record. Oliveirense reforça a baliza com Sérgio Dutra Sérgio Dutra • Foto: Moreirense Sérgio Dutra é a nova cara para a baliza da Oliveirense. O guarda-redes de 24 anos chega a Oliveira de Azeméis como jogador livre, depois de ter deixado na época 2024/25 o Santa Clara, onde atuou por 19 ocasiões entre equipa sub-23 e B, nas duas temporadas ao serviço dos açorianos. O internacional sub-18 por Portugal foi campeão da 2ª Liga ao serviço do Moreirense na época 2022/23. Na formação, esteve ligado ao V. Guimarães durante sete anos, de 2015 até 2022. PUB",
+        "keywords": [
+            {
+                "keyword": "sub 18 portugal campeão",
+                "score": 0.6859
+            },
+            {
+                "keyword": "18 portugal campeão 2ª",
+                "score": 0.68
+            },
+            {
+                "keyword": "18 portugal campeão",
+                "score": 0.6757
+            },
+            {
+                "keyword": "portugal campeão 2ª liga",
+                "score": 0.6462
+            },
+            {
+                "keyword": "portugal campeão",
+                "score": 0.6364
+            },
+            {
+                "keyword": "portugal campeão 2ª",
+                "score": 0.6298
+            },
+            {
+                "keyword": "chega oliveira azeméis jogador",
+                "score": 0.6146
+            },
+            {
+                "keyword": "oliveira azeméis jogador",
+                "score": 0.6054
+            },
+            {
+                "keyword": "oliveira azeméis jogador livre",
+                "score": 0.5464
+            },
+            {
+                "keyword": "cara baliza oliveirense guarda",
+                "score": 0.5377
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkUxUkQxcGdyS29FLVcyMUNUa2pkY0tjZFBnMFJKbkpJNlFtdDBhcmFscFNfSEpwcU1VUkx2QnoyM0lROHRhRlFTdmhLZnlObno5V3VBRzNkVldiZlZ0c3FfWDFrZldVOGxZcHRlQUUxZzVQZzFqNmtxUTJfZWwyWXVVS2hzUGVQaWNDNmMyUUpkaEFWb2t0UWlBcTRia2dNYkdwcTFnd2daQlFRVFFXUm5FQjRUbGdYcHEzWTd3ZG5CbWVPLW41cVVYaXRFZw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 08:57:30 GMT",
+        "title_clean": "Covilhanense Bernardo Ferreira vence categoria de Violoncelo no Prémio Jovens Músicos 2026",
+        "clean_text": "Covilhanense Bernardo Ferreira vence categoria de Violoncelo no Prémio Jovens Músicos 2026. O violoncelista covilhanense Bernardo Ferreira venceu a categoria de Violoncelo - Nível Superior da 39.ª edição do Prémio Jovens Músicos, concurso promovido anualmente pela RTP Antena 2 para descobrir e promover novos talentos da música erudita e do jazz em Portugal. Com esta vitória, Bernardo Ferreira garantiu a presença na final de solistas, que se realiza em setembro, na Fundação Calouste Gulbenkian, em Lisboa. Natural da Covilhã, Bernardo Ferreira tem vindo a afirmar-se como um dos jovens violoncelistas portugueses de maior projeção. Em 2025 foi elogiado pela publicação especializada OperaClick pela sua \"presença tímbrica e autoridade carismática de um verdadeiro solista\". No seu percurso soma já a conquista do Prémio Paulo Gaio Lima, em 2023, e do Prémio Helena Sá e Costa, em 2022. Atualmente, encontra-se a concluir o Mestrado em Interpretação na Escola Superior de Música e Artes do Espetáculo (ESMAE), no Porto, na classe de Filipe Quaresma. Desde fevereiro frequenta também o Master of Performance na Zurich University of the Arts (ZHdK), em Zurique, sob a orientação de Thomas Grossenbacher. Enquanto solista, já atuou com várias orquestras, destacando-se a interpretação do Concerto para Violoncelo de Dvořák com a Orquestra Sinfónica da ESMAE e do Concerto para Violoncelo n.º 1 de Shostakovich com a Orquestra Metropolitana de Lisboa. O percurso musical de Bernardo Ferreira começou na Covilhã, onde estudou no Conservatório Regional de Música da Covilhã e na Escola Profissional de Artes da Covilhã (EPABI), na classe do professor Rogério Peixinho. A 39.ª edição do Prémio Jovens Músicos decorre ao longo de 2026 e conta com cerca de 250 músicos inscritos, distribuídos por diferentes categorias da música erudita e do jazz. O concurso é organizado pela RTP Antena 2 e é uma das principais plataformas de promoção de jovens intérpretes em Portugal. As finais do Prémio Jovens Músicos 2026 decorrem até dia 28.",
+        "keywords": [
+            {
+                "keyword": "afirmar jovens violoncelistas portugueses",
+                "score": 0.6996
+            },
+            {
+                "keyword": "jovens violoncelistas portugueses maior",
+                "score": 0.6929
+            },
+            {
+                "keyword": "jovens violoncelistas portugueses",
+                "score": 0.679
+            },
+            {
+                "keyword": "violoncelistas portugueses maior",
+                "score": 0.676
+            },
+            {
+                "keyword": "violoncelo prémio jovens músicos",
+                "score": 0.6682
+            },
+            {
+                "keyword": "violoncelistas portugueses",
+                "score": 0.6644
+            },
+            {
+                "keyword": "vence categoria violoncelo prémio",
+                "score": 0.6578
+            },
+            {
+                "keyword": "vence categoria violoncelo",
+                "score": 0.6509
+            },
+            {
+                "keyword": "categoria violoncelo prémio",
+                "score": 0.6497
+            },
+            {
+                "keyword": "categoria violoncelo prémio jovens",
+                "score": 0.6489
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
     }
 ]

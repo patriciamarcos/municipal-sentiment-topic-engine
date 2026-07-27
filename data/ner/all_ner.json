@@ -126128,6 +126128,469 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxQNHZXek1CSk1yS1I3SlkwZmxfeGpFa3hBUjhxbjUwZFRiOGxjbldMY08xSV9aWkp5NGpiVnl0VG9LN0s2WjhOemNKVEZEaW9weE5hTlcweEpuZGFnVlZaUTAyM2M2RkNJUDVUZmFjZGVacUl2NDlLTjJsMTNEaFQ5VURja19oYVE0bXR3SVdaeTlUWHk5NUk3TFN5dzZQYWIyQTVzUG96cWJvdXdmcHVlTno2Wm1DRkt3cUhjcnY2U29NUmhTbDJoZHhnZVA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 20:14:14 GMT",
+        "title_clean": "Governo assina contratos-programa para investimentos de 14 milhões de euros em 10 municípios do Centro - Diário de Notícias",
+        "entities": [
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Diário de Notícias",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque Natural da Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Ministério da Economia e da Coesão Territorial",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministério das Finanças",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Miranda do Corvo",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedrógão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Comba Dão",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila de Rei",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado Adjunto",
+                "label": "ORG"
+            },
+            {
+                "text": "Orçamento",
+                "label": "ORG"
+            },
+            {
+                "text": "José Maria Brandão de Brito",
+                "label": "PER"
+            },
+            {
+                "text": "Estado da Administração Local",
+                "label": "ORG"
+            },
+            {
+                "text": "Ordenamento do Território",
+                "label": "ORG"
+            },
+            {
+                "text": "Silvério Regalado",
+                "label": "PER"
+            },
+            {
+                "text": "Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUVQeEJMN013TTNvemlmYUw0TzhiQndwVDlfWnF3dllyblo4cjh4bXRsNjRUWTJhMTVlTU0wbkZ5cTdibmtHSHhfVzdvY1R6T3RoMWhnckhjZG4xdmtiOGJETGRobmczMC1yM0l6U0Y0c1BENFVGY0F0SGxmSC1BbU1MU09icEJOZ3ZQdllDaF9ZdHduYjJPWU0tNFUwTkY0ckEtazQ3WmF5clBRNENvUEo3YW1TM01KSVVV?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 20:49:40 GMT",
+        "title_clean": "Rampa Serra da Estrela volta a incluir prova internacional de automobilismo - RTP",
+        "entities": [
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Nuno Loureiro",
+                "label": "PER"
+            },
+            {
+                "text": "Clube de Montanha do Minho",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Rampa Internacional Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Automóvel Clube de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Sanatório das Penhas da Saúde",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMjIzWGVOTFVsaHhncjg0S3cwb0F6azJTd0RVSlVFVXFiYzVYejVQLXVqOHdvcWhBUGlzUU1LR2hqa0FxbEk1RGY4alY4V0VYMHBZaWRDOXRrak92anVFSzgtdl9ZVVhZSGY0T25MUzJfVjRRbDF4cWRBWlBUYVRhdFY3Y0lPOEdDeTRaRS00eUVQaUs1TU4xZkVSMUtQUEI0T1RtUnhDNXJ2dHpreXhCSzZyZ3R4eWpmR1UyS0lxTFYyNmdTVFJnSE1lM2wyeS1sTEtic0pNZ0E4MFR0cmdpUDJFZnplWXBONUVLQUdZMVpUaURQZ2JLbmtxYlYxUQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 07:43:00 GMT",
+        "title_clean": "Já há 13 concelhos em perigo máximo de incêndio. E situação vai agravar-se já na segunda-feira - CNN Portugal",
+        "entities": [
+            {
+                "text": "CNN Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Bragança",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Tomar",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo de Vide",
+                "label": "LOC"
+            },
+            {
+                "text": "Marvão",
+                "label": "LOC"
+            },
+            {
+                "text": "Portalegre",
+                "label": "LOC"
+            },
+            {
+                "text": "Monchique",
+                "label": "LOC"
+            },
+            {
+                "text": "Portimão",
+                "label": "LOC"
+            },
+            {
+                "text": "Silves",
+                "label": "LOC"
+            },
+            {
+                "text": "Loulé",
+                "label": "LOC"
+            },
+            {
+                "text": "São Brás de Alportel",
+                "label": "LOC"
+            },
+            {
+                "text": "Tavira",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Mar e da Atmosfera",
+                "label": "ORG"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Sagres",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVBkeEs0UnRfdGYwV0ZleUFTWTBkUjVLX04xRVgzdFRsMmdUN2pfQWJtMXBsMzNUVkVUR0tVTXp5enp5bDZvUllvZEVFS3g2dzRRb0xQSzJpQ0NQcF8xQXJfaTRNT2w4d2p0MnljMkxQODA4YzFMUlZoU3p6QXpBYnk1dVZQVHd5bnBJX2otbFZGQXhXWTlBOGxYcTFGTWU5U05wWTFkbnBFcG5SSUw0S0E5Z1lmZjFROC1sX1o5Y1VJa3k3TEZXWmRCTUN2SU1CZ0djdFRKSEvSAbABQVVfeXFMT2FvWFVtaEpUb3EwM3NLeWdQVTlyQXlkd29nT0Mza1pJWUhydk5PaFJnYWVoLWJpMnc0M1JGVjNBVmNlRWhZRERrVy1XQk5mRVdRYjN4YlF0NXZqRzVZUmZCYk5oX3NVUUFkWVNTY3lOMHRVcjI4NVU0N1dJdjFfc0RHamJDb1RybmVoUzVPcEJtbmlpcW5sdTNXam1McDBfU2xtY3ppLUZnbmU3UV9uQkw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Théo Fonseca oficializado como reforço da Oliveirense - Record",
+        "entities": [
+            {
+                "text": "Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Nancy",
+                "label": "ORG"
+            },
+            {
+                "text": "V. Guimarães",
+                "label": "ORG"
+            },
+            {
+                "text": "Famalicão",
+                "label": "ORG"
+            },
+            {
+                "text": "Felgueiras",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWZ0cGRDQUZSbm1NTWVRYWtRVGdNVWlGejBxT3VMSmMyTG5YaEl6RllzN3BYbWtudTlHVTloMmpxZzZ3T0k5TWtzOTN3REJCbVg1ZGZ2dnItMFJTWElXbmpvVGt2azBuMXFCU2xFZHhiS2UwT190S3JBTGNpclM2SEgwbkl3ekJx?oc=5",
+        "source": "news",
+        "created_at": "Mon, 20 Jul 2026 11:09:44 GMT",
+        "title_clean": "Novo Comando dos Bombeiros Voluntários de Esmoriz toma posse - Bombeiros.pt",
+        "entities": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzZvd0FEZHB0cllaWF95cmhHcGYzWFRKOWFVTGxqWldlZ1BDRGJtYTlsY3Q2MURfLTNXLXprS2RwUUNyU2g5MjZULVFzeDNBXzhQVDBzcFJoU0tVdjZITG5QZVlVODJTdkgtbHA3dHVCbmxNNkVvNUplRmZCb0U2WGNfQV9wMW5POWlzMGdpM05Fa0VXNk1Xa3RGb2F1YkhfY3VuU3JUUlhNdFdBTENJVXRhRlA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 10:27:43 GMT",
+        "title_clean": "NEW HAND LAB promove debate sobre os “Futuros do Interior” na sexta-feira",
+        "entities": [
+            {
+                "text": "NEW HAND LAB",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Direção-Geral das Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Observatório Cartografias do Futuro/UBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Marta Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Escola Secundária Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Ribeira da Carpinteira",
+                "label": "LOC"
+            },
+            {
+                "text": "Aline Monçores",
+                "label": "PER"
+            },
+            {
+                "text": "Cláudia Facca",
+                "label": "PER"
+            },
+            {
+                "text": "Filipa Pimente",
+                "label": "PER"
+            },
+            {
+                "text": "Transition Network",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Seixo Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "William Cantú",
+                "label": "PER"
+            },
+            {
+                "text": "Politécnico de Leiria",
+                "label": "ORG"
+            },
+            {
+                "text": "Sam The Witch",
+                "label": "PER"
+            },
+            {
+                "text": "CISMA",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Cultural",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk5FdktIVkR5Y2c5cGtPTTdzRWxhUzhDUjlydktBbDBtbDhxS2h2VkRnUHJ0cUp4THlWTDliOWRzOXJpQ3lDdmJQdGFxelhnUENfbmJrWl82bUlZdktnSnhkZGxnUVVkRFNwcTNOMlpadFhqdi1QTm5GMHpQN09mQWxaNTN4d0ktYXpvOWpEZ3JpbTNiVWJLbGRGRzFVdkZGWGZ3bVVR0gGmAUFVX3lxTFA2TkV2S0hWRHljZzlwa09NN3NFbGFTOENSOXJ2S0FsMG1sOHFLaHZWRGdQcnRxSnhMeVZMOWI5ZHM5cmlDeUN2YlB0YXF6WGdQQ19uYmtaXzZtSVl2S2dKeGRkbGdRVWREU3BxM04yWlp0WGp2LVBObkYwelA3T2ZBbFo1M3h3SS1hem85akRncmltM2JVYktsZEZHMVV2RkZYZndtVVE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 25 Jul 2026 16:40:08 GMT",
+        "title_clean": "Oliveirense reforça a baliza com Sérgio Dutra - Record",
+        "entities": [
+            {
+                "text": "Sérgio Dutra",
+                "label": "PER"
+            },
+            {
+                "text": "Record Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveira de Azeméis",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Moreirense",
+                "label": "ORG"
+            },
+            {
+                "text": "V. Guimar",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkUxUkQxcGdyS29FLVcyMUNUa2pkY0tjZFBnMFJKbkpJNlFtdDBhcmFscFNfSEpwcU1VUkx2QnoyM0lROHRhRlFTdmhLZnlObno5V3VBRzNkVldiZlZ0c3FfWDFrZldVOGxZcHRlQUUxZzVQZzFqNmtxUTJfZWwyWXVVS2hzUGVQaWNDNmMyUUpkaEFWb2t0UWlBcTRia2dNYkdwcTFnd2daQlFRVFFXUm5FQjRUbGdYcHEzWTd3ZG5CbWVPLW41cVVYaXRFZw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 08:57:30 GMT",
+        "title_clean": "Covilhanense Bernardo Ferreira vence categoria de Violoncelo no Prémio Jovens Músicos 2026",
+        "entities": [
+            {
+                "text": "Bernardo Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "RTP Antena 2",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundação Calouste Gulbenkian",
+                "label": "LOC"
+            },
+            {
+                "text": "OperaClick",
+                "label": "ORG"
+            },
+            {
+                "text": "Paulo Gaio Lima",
+                "label": "PER"
+            },
+            {
+                "text": "Helena Sá",
+                "label": "PER"
+            },
+            {
+                "text": "Escola Superior de Música e Artes do Espetáculo",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "Zurich University of the Arts",
+                "label": "ORG"
+            },
+            {
+                "text": "Zurique",
+                "label": "LOC"
+            },
+            {
+                "text": "Thomas Grossenbacher",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Sinfónica da ESMAE",
+                "label": "ORG"
+            },
+            {
+                "text": "Shostakovich",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Metropolitana de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Conservatório Regional de Música da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Profissional de Artes da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "EPABI",
+                "label": "ORG"
+            },
+            {
+                "text": "Rogério Peixinho",
+                "label": "PER"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -129804,6 +130267,110 @@
             },
             {
                 "text": "Marvão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mrnr3mqg662s",
+        "source": "bluesky",
+        "created_at": "2026-07-27T20:42:36.118Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Cortes do Meio",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Desportivo A.C. da Bouça",
+                "label": "ORG"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Banda da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mrnr3mkkmv24",
+        "source": "bluesky",
+        "created_at": "2026-07-27T20:42:35.902Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Trancoso",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mrnr3m3qmz2q",
+        "source": "bluesky",
+        "created_at": "2026-07-27T20:42:35.440Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Caria",
+                "label": "LOC"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Maçainhas",
+                "label": "LOC"
+            },
+            {
+                "text": "Benespera",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Franca das Naves",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Mangualde",
+                "label": "LOC"
+            },
+            {
+                "text": "Carregal do Sal",
                 "label": "LOC"
             }
         ]

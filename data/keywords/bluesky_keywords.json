@@ -6803,5 +6803,131 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mrnr3mqg662s",
+        "source": "bluesky",
+        "created_at": "2026-07-27T20:42:36.118Z",
+        "title_clean": "",
+        "clean_text": "🔴 Concelho da Covilhã Na Bouça e Cortes do Meio: Grupo Desportivo A.C. da Bouça Na Covilhã e Canhoso: Banda da Covilhã",
+        "keywords": [
+            {
+                "keyword": "grupo desportivo",
+                "score": 0.6304
+            },
+            {
+                "keyword": "meio grupo desportivo",
+                "score": 0.6215
+            },
+            {
+                "keyword": "grupo desportivo bouça",
+                "score": 0.6177
+            },
+            {
+                "keyword": "meio grupo desportivo bouça",
+                "score": 0.6119
+            },
+            {
+                "keyword": "canhoso banda",
+                "score": 0.6019
+            },
+            {
+                "keyword": "cortes meio grupo desportivo",
+                "score": 0.584
+            },
+            {
+                "keyword": "desportivo bouça",
+                "score": 0.5619
+            },
+            {
+                "keyword": "bouça cortes meio grupo",
+                "score": 0.5304
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mrnr3mkkmv24",
+        "source": "bluesky",
+        "created_at": "2026-07-27T20:42:35.902Z",
+        "title_clean": "",
+        "clean_text": "🎫 Onde posso fazer a inscrição? Neste momento temos várias associações e juntas de freguesia que estão a aceitar inscrições nos concelhos de Belmonte, Covilhã, Guarda, Sabugal e Trancoso!",
+        "keywords": [
+            {
+                "keyword": "juntas freguesia aceitar inscrições",
+                "score": 0.7331
+            },
+            {
+                "keyword": "freguesia aceitar inscrições",
+                "score": 0.7101
+            },
+            {
+                "keyword": "freguesia aceitar inscrições concelhos",
+                "score": 0.7026
+            },
+            {
+                "keyword": "aceitar inscrições concelhos belmonte",
+                "score": 0.6948
+            },
+            {
+                "keyword": "aceitar inscrições concelhos",
+                "score": 0.6659
+            },
+            {
+                "keyword": "aceitar inscrições",
+                "score": 0.6558
+            },
+            {
+                "keyword": "fazer inscrição",
+                "score": 0.6535
+            },
+            {
+                "keyword": "inscrições concelhos",
+                "score": 0.6528
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mrnr3m3qmz2q",
+        "source": "bluesky",
+        "created_at": "2026-07-27T20:42:35.440Z",
+        "title_clean": "",
+        "clean_text": "Para já estão previstas as seguintes: Tortosendo, Covilhã, Caria, Belmonte, Maçainhas, Benespera, Guarda, Vila Franca das Naves, Celorico da Beira, Mangualde e Carregal do Sal. Outras paragens poderão ser acrescentadas, se for viável.",
+        "keywords": [
+            {
+                "keyword": "sal outras paragens poderão",
+                "score": 0.508
+            },
+            {
+                "keyword": "outras paragens poderão",
+                "score": 0.4985
+            },
+            {
+                "keyword": "vila franca naves",
+                "score": 0.4945
+            },
+            {
+                "keyword": "guarda vila franca naves",
+                "score": 0.4872
+            },
+            {
+                "keyword": "vila franca naves celorico",
+                "score": 0.4797
+            },
+            {
+                "keyword": "outras paragens poderão acrescentadas",
+                "score": 0.4616
+            },
+            {
+                "keyword": "franca naves celorico beira",
+                "score": 0.4566
+            },
+            {
+                "keyword": "naves celorico beira mangualde",
+                "score": 0.4478
+            }
+        ],
+        "source_name": null
     }
 ]
