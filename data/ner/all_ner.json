@@ -125684,6 +125684,450 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2JYdjZUaU5UaXlNRVBGY3lnZzhLMUVRVktNeUE2VzZXOUllTXZGVGo5bGdwZExvSHNTU2FHZVRaWFZrNFBiMnhSMXMzZDZ4TVcwTEFDbE1uYzVKOFdQU2x3TU1aTmxJR0VVNVVJLU5fa19UME1iUFhTSlk0X0ZXTWVnbWhwWENwSUx4N2lqNXd2dWRPMUdhN0tUVFdfZF9I?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 06:51:36 GMT",
+        "title_clean": "Sp. Covilhã e V. Guimarães à conquista das “meias” - RTP",
+        "entities": [
+            {
+                "text": "V. Guimarães",
+                "label": "ORG"
+            },
+            {
+                "text": "RTP Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Manuel Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Bouças",
+                "label": "PER"
+            },
+            {
+                "text": "Ofori",
+                "label": "PER"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Miranda",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Martins",
+                "label": "PER"
+            },
+            {
+                "text": "Joane",
+                "label": "ORG"
+            },
+            {
+                "text": "Freamunde",
+                "label": "ORG"
+            },
+            {
+                "text": "Varzim",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Iria",
+                "label": "ORG"
+            },
+            {
+                "text": "Boavista",
+                "label": "ORG"
+            },
+            {
+                "text": "Vilafranquense",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Nacional",
+                "label": "LOC"
+            },
+            {
+                "text": "Jamor",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmdPWENxZkJjdzB0UXpMbDdtQ1VsaXhGSGVkWUtjdTZHNndvUUlUcEJ6dThZQWsyWkxTcTFQY2FYSnlaenJ2NjJuNGxNNzdEcmd1dWdUTW52aEFtcHNlVW1qLVU1RElDZnczd2J3TUtsZmEzR3hscGJmcGlUVDh6TkRhOEpMQV9ocXlNdUVmZ3Y3N1Q1NFdha29qbElqMkhzUVluMW5udFlLRmtFcmFITEhNSVRzajgyc1BtaXlTUy1mdWJS?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 10:42:37 GMT",
+        "title_clean": "Biblioteca Municipal da Covilhã recebe sessão do projeto \"Conversas com Barriguinhas\"",
+        "entities": [
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rosa Carlos",
+                "label": "PER"
+            },
+            {
+                "text": "Mara Cristina",
+                "label": "PER"
+            },
+            {
+                "text": "Crioestaminal",
+                "label": "ORG"
+            },
+            {
+                "text": "Bruno Gomes",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnpiY1B5YkZrMnZiYl9BbVJpeDVob0dBU3hsRmlHZ2MzY2JBRE44U3k0d1NxY2g3c0V1UTZoOVZSSS1mMWo1OUFqWkxNR0wtemJvX2tjOFRvOFFFV2QwTVBodHJNMmx2eXdyOUJzZVRRS1JNNnRhc3NsQ3A5bXNKQ2ZDTFVkRlBUSzlvNXF1Umg5b09Ba1NJd2FvYjgxZG5ydVhaN0JsTnpzcWVRSnhKMUpTT3A0Z1ExVTV6bnJldklXcURhbm1PMUdHRkZvNnVkT2RJ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 10:05:59 GMT",
+        "title_clean": "Câmara da Covilhã aprova por unanimidade voto de repúdio contra vandalismo, racismo e xenofobia",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Leitão",
+                "label": "PER"
+            },
+            {
+                "text": "Ministério Público",
+                "label": "ORG"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "Comissão Municipal de Segurança e Proteção Civil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzBpSEtVSVhOTUNrLXI2dUhOcEExdXBFTVV5d3dfTjVZVE5Mb2hKQWZ5VjZaNDhsbFI1NTFaNC0wRVBhZGJwTklLdG5nMEIzN0VQeU9qRHFSQy1ydFhWbXIxZzFkZ2RTXzlSWGdQbmQxVXU1b29IMTcxVVdHdERZRWZkXzlYR0Y1UEhZ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 09:26:00 GMT",
+        "title_clean": "Guarda quer ser Capital Portuguesa da Cultura em 2028",
+        "entities": [
+            {
+                "text": "Capital Portuguesa",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Sérgio Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Évora",
+                "label": "LOC"
+            },
+            {
+                "text": "Liepaja",
+                "label": "LOC"
+            },
+            {
+                "text": "Letónia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDk4TTJnRDVLYlNFTUlGM1FZdVdtbThXV19VUWRoTE1pcG5WSHVfSnAxTVBDeXpMNzItMjdyeWRJN0RjNUFsUmNQSDRSbDBCVEtBOU1uR2tzVXZBa2tENWlianl2ckMybU1wY2RpekJJOTB2SkRIcFl0a1VhUWpuR0dGbmV0VGNTMG5MbktuV1h1S3hnU3JFWWdMdzNPT3cxVVRJcFhEVdIBogFBVV95cUxQYlp5SnpMQS15RXlQRWRDVXJNMUFJcjJpSmg4NzU2RFhCUzIwOXlOa1daMTd2T09HVzNXeGNzY3J1YjR0dnp5LVoyVHBIdmNLSlhmMUhXcllnejBQWVhsRnZPdnByX243aHNzeGNnUHVsMzF6T1dJaVlSUHhKMThCbHJiUWFYMTFiRl95WnBxLTdOYnluREFCcjNnUENOcHhyQ3c?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 21:28:00 GMT",
+        "title_clean": "Oficial: Bura reforça defesa do Atlético CP - Record",
+        "entities": [
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Miguel Granja",
+                "label": "PER"
+            },
+            {
+                "text": "Leixões",
+                "label": "ORG"
+            },
+            {
+                "text": "Infesta",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "Portimonense",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "ORG"
+            },
+            {
+                "text": "Penafiel",
+                "label": "ORG"
+            },
+            {
+                "text": "Chaves",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira-Mar",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Leiria",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRkxsR1hkM2RQZkRGX1F1ZVpsQkVWZjY1aGdVSm1DZm9GRXU0bWl2cjZVMTEwTmdmdERrOHVuREpQQmpDcUxHdzZrelNnNWt1bjJtSVRpblJoOS1TMnhPZlcwclNadmZPYjBsYmx2MDNkVmtrelozcTJCQUhDSjVoTVhEcXVHOUZkUVl4SkhxZGZxY0RWbG9GQVdVMV9MQ2VJVXh3UkR1OWpsZWFzRXhZeE56Tmc2Q213SHpBVnplVWdTd1RxUHJzN2VfTGlBb2hORGFKTNIBtAFBVV95cUxQdzlyTmRtbnA4TUpoM0FLN0t3TlBGaDBKZWY4U0pZa190UU4yZW9jZHZqWmtNNldGLWJ0N1IxMTZMVElTNWFXejZNQkVDRllTYTFTc1NNdlVmRWxlWGN3WUJXQW5Zd1NEUkN1eU1BSkhQSTNsdDdSbXFoVGdUZTg1QjR1RzRPd2xueGFISXdFVV9UMmduSXZEbG94QllLdE5ycnowREJoQ2plUnhNUjRJRmpCaWc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Trofense oficializa mais duas contratações para a defesa - Record",
+        "entities": [
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "Trofa",
+                "label": "ORG"
+            },
+            {
+                "text": "Emerson Buiu",
+                "label": "PER"
+            },
+            {
+                "text": "Vitória",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "Agustín Granja",
+                "label": "PER"
+            },
+            {
+                "text": "Boston River",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUlJZOHpVUVhLYXdHNFJTeTMtUGxKSk9SZDdWZm1lZVo4MW1vc2dpc3hGUS1OSDYtRUxmLXVJR3otbGMtb3FKVXFfX1RtSklReDU4dTVIRXZsd21lazM4RWpyelFmNFU5ZFJsbHBZRVp5QU51WURMcXBjMWNxenpiM1RMd1J3a19Fb25wbmVOYlRDZUNIb1JoRGNZQUhkcG13bHNtRUtidW9UVzN4MmpYbzJlclpISDJzcnNsdHZvcDVGeGpBaDJLcVVIMXNVV0dGbnpZWXp6aUNWbW5JX3c?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 05:08:38 GMT",
+        "title_clean": "Governo assina contratos-programa para investimentos de 14M€ em 10 municípios do Centro - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Diário Digital Castelo Branco/",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque Natural da Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Ministério da Economia e da Coesão Territorial",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministério das Finanças",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Miranda do Corvo",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedrógão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Leiria",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Comba Dão",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila de Rei",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado Adjunto",
+                "label": "ORG"
+            },
+            {
+                "text": "José Maria Brandão de Brito",
+                "label": "PER"
+            },
+            {
+                "text": "Estado da Administração Local",
+                "label": "ORG"
+            },
+            {
+                "text": "Silvério Regalado",
+                "label": "PER"
+            },
+            {
+                "text": "Ordenamento do Território",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Interior",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzlyTmRtbnA4TUpoM0FLN0t3TlBGaDBKZWY4U0pZa190UU4yZW9jZHZqWmtNNldGLWJ0N1IxMTZMVElTNWFXejZNQkVDRllTYTFTc1NNdlVmRWxlWGN3WUJXQW5Zd1NEUkN1eU1BSkhQSTNsdDdSbXFoVGdUZTg1QjR1RzRPd2xueGFISXdFVV9UMmduSXZEbG94QllLdE5ycnowREJoQ2plUnhNUjRJRmpCaWfSAbQBQVVfeXFMUHc5ck5kbW5wOE1KaDNBSzdLd05QRmgwSmVmOFNKWWtfdFFOMmVvY2R2alprTTZXRi1idDdSMTE2TFRJUzVhV3o2TUJFQ0ZZU2ExU3NTTXZVZkVsZVhjd1lCV0FuWXdTRFJDdXlNQUpIUEkzbHQ3Um1xaFRnVGU4NUI0dUc0T3dsbnhhSEl3RVVfVDJnbkl2RGxveEJZS3ROcnJ6MERCaENqZVJ4TVI0SUZqQmln?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 22:20:14 GMT",
+        "title_clean": "Trofense oficializa mais duas contratações para a defesa - Record",
+        "entities": [
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Agustín Granja",
+                "label": "PER"
+            },
+            {
+                "text": "Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "Trofa",
+                "label": "ORG"
+            },
+            {
+                "text": "Emerson Buiu",
+                "label": "PER"
+            },
+            {
+                "text": "Vitória",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "Boston River",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

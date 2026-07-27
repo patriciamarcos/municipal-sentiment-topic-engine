@@ -127166,5 +127166,405 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2JYdjZUaU5UaXlNRVBGY3lnZzhLMUVRVktNeUE2VzZXOUllTXZGVGo5bGdwZExvSHNTU2FHZVRaWFZrNFBiMnhSMXMzZDZ4TVcwTEFDbE1uYzVKOFdQU2x3TU1aTmxJR0VVNVVJLU5fa19UME1iUFhTSlk0X0ZXTWVnbWhwWENwSUx4N2lqNXd2dWRPMUdhN0tUVFdfZF9I?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 06:51:36 GMT",
+        "title_clean": "Sp. Covilhã e V. Guimarães à conquista das “meias” - RTP",
+        "clean_text": "Sp. Covilhã e V. Guimarães à conquista das \"meias\" - RTP. As duas equipas defrontam-se esta quarta feira a partir das 18h30, no estádio municipal Santos Pinto, com arbitragem de Manuel Oliveira. A formação serrana tem dois jogadores lesionados: Ricardo Bouças e Ofori. O treinador dos \"leões\" da serra, Filipe Gouveia, sabe que vai ser \"um jogo difícil frente a uma boa equipa\". Os minhotos registam uma única baixa, Rafael Miranda, que está lesionado. Na antevisão da partida o técnico dos vitorianos Pedro Martins alertou para a qualidade do ataque serrano e acrescentou: \"O nosso adversário é uma equipa forte fisicamente\". Para chegar aos \"quartos\" o Sp. Covilhã eliminou as equipas do Joane, Freamunde, Varzim e Sp. Braga. Quanto soa vimaranenses deixaram pelo caminho as formações do Santa Iria, Boavista e Vilafranquense. Ultrapassada esta eliminatória os desafios das meias-finais realizam-se a duas mãos marcadas para 1 de março e 5 de abril. A final da competição joga-se no Estádio Nacional, no Jamor, a 28 de maio.",
+        "keywords": [
+            {
+                "keyword": "duas equipas defrontam",
+                "score": 0.7191
+            },
+            {
+                "keyword": "adversário equipa",
+                "score": 0.6939
+            },
+            {
+                "keyword": "equipas defrontam",
+                "score": 0.6415
+            },
+            {
+                "keyword": "duas equipas",
+                "score": 0.6322
+            },
+            {
+                "keyword": "competição joga estádio",
+                "score": 0.6266
+            },
+            {
+                "keyword": "nosso adversário equipa",
+                "score": 0.6237
+            },
+            {
+                "keyword": "adversário equipa forte fisicamente",
+                "score": 0.623
+            },
+            {
+                "keyword": "adversário equipa forte",
+                "score": 0.619
+            },
+            {
+                "keyword": "serrana dois jogadores",
+                "score": 0.6024
+            },
+            {
+                "keyword": "jogo difícil frente",
+                "score": 0.6009
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmdPWENxZkJjdzB0UXpMbDdtQ1VsaXhGSGVkWUtjdTZHNndvUUlUcEJ6dThZQWsyWkxTcTFQY2FYSnlaenJ2NjJuNGxNNzdEcmd1dWdUTW52aEFtcHNlVW1qLVU1RElDZnczd2J3TUtsZmEzR3hscGJmcGlUVDh6TkRhOEpMQV9ocXlNdUVmZ3Y3N1Q1NFdha29qbElqMkhzUVluMW5udFlLRmtFcmFITEhNSVRzajgyc1BtaXlTUy1mdWJS?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 10:42:37 GMT",
+        "title_clean": "Biblioteca Municipal da Covilhã recebe sessão do projeto \"Conversas com Barriguinhas\"",
+        "clean_text": "Biblioteca Municipal da Covilhã recebe sessão do projeto \"Conversas com Barriguinhas\". A Biblioteca Municipal da Covilhã recebe, no próximo dia 28 de julho, pelas 17:00, uma sessão do projeto nacional \"Conversas com Barriguinhas\", dirigida a grávidas e famílias que se preparam para a chegada de um bebé. A iniciativa, de participação gratuita mediante inscrição prévia, reúne especialistas para abordar temas relacionados com a gravidez, os cuidados ao recém-nascido e a parentalidade. O programa inclui uma demonstração prática sobre o banho ao recém-nascido, pela enfermeira Rosa Carlos, uma sessão sobre células estaminais do cordão umbilical, conduzida por Mara Cristina, da Crioestaminal, e uma apresentação do enfermeiro Bruno Gomes dedicada aos primeiros socorros no primeiro ano de vida, com destaque para situações de desengasgamento, regurgitação e outros cuidados de emergência. Além das sessões informativas, a organização refere que as grávidas presentes receberão ofertas exclusivas preparadas para o evento. Criado em 2009, o projeto \"Conversas com Barriguinhas\" percorre o país com o objetivo de esclarecer dúvidas e promover a partilha de informação sobre gravidez, parto e maternidade, através de encontros presenciais e sessões online conduzidas por profissionais de saúde.",
+        "keywords": [
+            {
+                "keyword": "conversas barriguinhas biblioteca municipal",
+                "score": 0.7047
+            },
+            {
+                "keyword": "projeto conversas barriguinhas biblioteca",
+                "score": 0.6992
+            },
+            {
+                "keyword": "conversas barriguinhas biblioteca",
+                "score": 0.652
+            },
+            {
+                "keyword": "barriguinhas biblioteca municipal",
+                "score": 0.6411
+            },
+            {
+                "keyword": "além sessões informativas",
+                "score": 0.608
+            },
+            {
+                "keyword": "chegada bebé iniciativa participação",
+                "score": 0.6071
+            },
+            {
+                "keyword": "projeto nacional conversas barriguinhas",
+                "score": 0.6049
+            },
+            {
+                "keyword": "preparam chegada bebé iniciativa",
+                "score": 0.6015
+            },
+            {
+                "keyword": "sessão projeto nacional conversas",
+                "score": 0.5957
+            },
+            {
+                "keyword": "projeto conversas barriguinhas",
+                "score": 0.5955
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnpiY1B5YkZrMnZiYl9BbVJpeDVob0dBU3hsRmlHZ2MzY2JBRE44U3k0d1NxY2g3c0V1UTZoOVZSSS1mMWo1OUFqWkxNR0wtemJvX2tjOFRvOFFFV2QwTVBodHJNMmx2eXdyOUJzZVRRS1JNNnRhc3NsQ3A5bXNKQ2ZDTFVkRlBUSzlvNXF1Umg5b09Ba1NJd2FvYjgxZG5ydVhaN0JsTnpzcWVRSnhKMUpTT3A0Z1ExVTV6bnJldklXcURhbm1PMUdHRkZvNnVkT2RJ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 26 Jul 2026 10:05:59 GMT",
+        "title_clean": "Câmara da Covilhã aprova por unanimidade voto de repúdio contra vandalismo, racismo e xenofobia",
+        "clean_text": "Câmara da Covilhã aprova por unanimidade voto de repúdio contra vandalismo, racismo e xenofobia. A Câmara Municipal da Covilhã aprovou por unanimidade, na reunião pública desta sexta-feira, um voto de repúdio e condenação contra atos de vandalismo, racismo, xenofobia e incitamento ao ódio registados na cidade. Ao apresentar a proposta, presidente da autarquia, Hélio Fazendeiro, frisou que este voto surge perante \"alguns atos de vandalismo, de incitamento ao ódio, de racismo e de xenofobia que existiram na Covilhã ou que vão existindo na Covilhã, pontualmente,\" O documento recorda que a Covilhã é uma cidade \"histórica, operária, universitária e solidária\", cujo desenvolvimento assenta no acolhimento e integração de pessoas de diferentes origens, destacando ainda o crescimento do fluxo migratório e a presença de mais de 40 nacionalidades no concelho. A moção refere episódios de pichagens com mensagens racistas e xenófobas, bem como a vandalização de duas obras do artista covilhanense Pedro Leitão, considerando que estes atos se inserem \"num contexto mais amplo de discursos extremistas, polarizadores e xenófobos\". Entre as medidas aprovadas está a determinação para que os serviços jurídicos da autarquia apresentem \"de forma imediata e sistemática\" queixas-crime junto do Ministério Público e das forças de segurança por todos os atos de vandalismo no espaço público com teor racista, xenófobo ou de incitamento ao ódio. Hélio Fazendeiro justificou a iniciativa afirmando que \"a Covilhã é uma cidade, pela sua dimensão e pela sua tradição, aberta e multicultural, que ganha com esta diversidade.\" O autarca acrescentou que \"temos neste momento mais de 40 nacionalidades presentes na nossa terra, no nosso território, por várias origens\", considerando que \"é um crime público este incitamento ao ódio\" e revelando que já tinha solicitado aos serviços municipais que avançassem com as respetivas queixas-crime relativamente às pichagens identificadas na cidade. Durante a discussão, o vereador Eduardo Cavaco manifestou apoio à proposta e defendeu a instalação de videovigilância em alguns locais da cidade, afirmando que \"considero que é uma medida preventiva e que faz bastante falta nos dias de hoje.\" Após a aprovação unânime da moção, Hélio Fazendeiro agradeceu a sugestão, referindo que o tema está a ser acompanhado pela Comissão Municipal de Segurança e Proteção Civil em articulação com as forças de segurança. O presidente fez, contudo, questão de sublinhar que, apesar destes episódios, \"não podemos deixar de dizer também e de reafirmar que a Covilhã continua a ser um destino seguro, sem atos de violência substanciais que devam causar qualquer tipo de alarme social na nossa comunidade.\"",
+        "keywords": [
+            {
+                "keyword": "aprova unanimidade voto repúdio",
+                "score": 0.769
+            },
+            {
+                "keyword": "unanimidade voto repúdio contra",
+                "score": 0.7666
+            },
+            {
+                "keyword": "unanimidade voto repúdio",
+                "score": 0.7596
+            },
+            {
+                "keyword": "voto repúdio contra vandalismo",
+                "score": 0.7593
+            },
+            {
+                "keyword": "sexta feira voto repúdio",
+                "score": 0.7396
+            },
+            {
+                "keyword": "voto repúdio contra",
+                "score": 0.7317
+            },
+            {
+                "keyword": "voto repúdio",
+                "score": 0.7051
+            },
+            {
+                "keyword": "feira voto repúdio",
+                "score": 0.7041
+            },
+            {
+                "keyword": "voto repúdio condenação contra",
+                "score": 0.6846
+            },
+            {
+                "keyword": "aprova unanimidade voto",
+                "score": 0.6791
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzBpSEtVSVhOTUNrLXI2dUhOcEExdXBFTVV5d3dfTjVZVE5Mb2hKQWZ5VjZaNDhsbFI1NTFaNC0wRVBhZGJwTklLdG5nMEIzN0VQeU9qRHFSQy1ydFhWbXIxZzFkZ2RTXzlSWGdQbmQxVXU1b29IMTcxVVdHdERZRWZkXzlYR0Y1UEhZ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 09:26:00 GMT",
+        "title_clean": "Guarda quer ser Capital Portuguesa da Cultura em 2028",
+        "clean_text": "Guarda quer ser Capital Portuguesa da Cultura em 2028. Uma \"oportunidade\" através da qual o município pretende agregar \"toda a produção cultural e artística\". É assim que o presidente da Câmara da Guarda, Sérgio Costa, justifica a candidatura a Capital Portuguesa da Cultura em 2028. A Guarda vai candidatar-se para fazer da cidade um \"espaço de criação, participação, identidade e desenvolvimento\", anunciou, na passada segunda-feira, em comunicado, a autarquia. Segundo esta, \"sob o conceito de cidade 'guardiã': guardiã da história, da memória e da identidade, mas aberta à modernidade e ao futuro, a candidatura propõe uma visão assente na relação entre tradição e inovação, afirmando-se como instrumento essencial para o desenvolvimento da política cultural do concelho e de todo o distrito da Guarda\". A Câmara diz que a candidatura a Capital Portuguesa da Cultura em 2028 é \"um projeto estratégico que visa posicionar a Guarda como espaço de criação, participação, identidade e desenvolvimento\". \"A candidatura parte da singularidade histórica, geográfica e cultural que define a cidade e o concelho como, simultaneamente, território de montanha e de fronteira, para construir uma visão cultural sólida, enraizada no município e projetada para a região e para o País\". O autarca local diz que esta candidatura será uma ferramenta para concretizar a visão que entende por política cultural da Guarda nos próximos anos. Com este projeto, o Município pretende criar condições para a produção e criação artísticas a partir do território, envolvendo instituições, associações, criadores, agentes culturais e económicos, comunidades locais e parceiros nacionais e internacionais. \"A candidatura não se esgota na capital de distrito: quer ser o resultado de um esforço coletivo de articulação territorial, em efetiva colaboração em rede com todos os municípios da região\", refere. Nesse sentido, um dos eixos estruturantes da candidatura a Capital Portuguesa da Cultura em 2028 é a \"condição raiana\" da Guarda e a sua \"ligação umbilical\" às comunidades e municípios da vizinha Espanha. \"Ignorar esta realidade seria construir um projeto cultural e identitário artificial. Por essa razão, os municípios da raia espanhola vão integrar a candidatura como parceiros\", adianta a autarquia. Sérgio Costa justifica que \"a Guarda sempre foi porta de entrada e de saída, lugar de passagem, de encontro e de acolhimento\". \"Queremos transformar essa condição histórica numa força cultural contemporânea, capaz de ligar pessoas, territórios, criadores e instituições dos dois lados da fronteira\", sublinha. Com esta candidatura, a Guarda pretende ainda afirmar \"a vitalidade dos territórios do Interior: sendo o concelho um território de baixa densidade demográfica, é simultaneamente um território de elevado potencial cultural e criativo\". \"As comunidades da fronteira raiana partilham a mesma necessidade de maior atenção dos centros de decisão política e é nessa afirmação coletiva que a candidatura encontra parte do seu sentido mais profundo\", é realçado. A ambição do município é que \"a Guarda 2028 fixe criadores, reforce os agentes culturais locais e venha a gerar dinâmicas que perdurem muito além do ano de título\". O objetivo é deixar \"um legado duradouro em múltiplas dimensões: cultural e artística, de coesão e participação social, de inclusão e acesso à cultura, de estímulo ao turismo cultural e de criação de um modelo de governação cultural com continuidade estratégica para além dos ciclos autárquicos\". A Guarda já tinha concorrido a Capital Europeia da Cultura em 2027, mas foi excluída ainda na fase de pré-seleção, em 2022, das quatro cidades portuguesas candidatas. Évora acabou por ser escolhida para Capital Europeia da Cultura em 2027, estatuto que vai dividir com Liepaja, na Letónia.",
+        "keywords": [
+            {
+                "keyword": "candidatura capital portuguesa cultura",
+                "score": 0.7416
+            },
+            {
+                "keyword": "quer capital portuguesa cultura",
+                "score": 0.7399
+            },
+            {
+                "keyword": "capital portuguesa cultura 2028",
+                "score": 0.7141
+            },
+            {
+                "keyword": "diz candidatura capital portuguesa",
+                "score": 0.7036
+            },
+            {
+                "keyword": "guarda quer capital portuguesa",
+                "score": 0.7027
+            },
+            {
+                "keyword": "estruturantes candidatura capital portuguesa",
+                "score": 0.6902
+            },
+            {
+                "keyword": "quer capital portuguesa",
+                "score": 0.6866
+            },
+            {
+                "keyword": "justifica candidatura capital portuguesa",
+                "score": 0.6791
+            },
+            {
+                "keyword": "portuguesa cultura 2028 guarda",
+                "score": 0.6778
+            },
+            {
+                "keyword": "cidades portuguesas",
+                "score": 0.639
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDk4TTJnRDVLYlNFTUlGM1FZdVdtbThXV19VUWRoTE1pcG5WSHVfSnAxTVBDeXpMNzItMjdyeWRJN0RjNUFsUmNQSDRSbDBCVEtBOU1uR2tzVXZBa2tENWlianl2ckMybU1wY2RpekJJOTB2SkRIcFl0a1VhUWpuR0dGbmV0VGNTMG5MbktuV1h1S3hnU3JFWWdMdzNPT3cxVVRJcFhEVdIBogFBVV95cUxQYlp5SnpMQS15RXlQRWRDVXJNMUFJcjJpSmg4NzU2RFhCUzIwOXlOa1daMTd2T09HVzNXeGNzY3J1YjR0dnp5LVoyVHBIdmNLSlhmMUhXcllnejBQWVhsRnZPdnByX243aHNzeGNnUHVsMzF6T1dJaVlSUHhKMThCbHJiUWFYMTFiRl95WnBxLTdOYnluREFCcjNnUENOcHhyQ3c?oc=5",
+        "source": "news",
+        "created_at": "Tue, 21 Jul 2026 21:28:00 GMT",
+        "title_clean": "Oficial: Bura reforça defesa do Atlético CP - Record",
+        "clean_text": "Oficial: Bura reforça defesa do Atlético CP - Record. O Atlético CP anunciou esta terça-feira que garantiu a contratação de Bura para a nova época. O defesa-central de 37 anos chega da Oliveirense, onde apontou quatro golos em 33 jogos na última temporada e foi o jogador com mais duelos aéreos ganhos na 2.ª Liga. Miguel Granja, mais conhecido por Bura, fez a formação por clubes como Leixões, Infesta e FC Porto, contando com uma grande bagagem nas costas, sobretudo pelo segundo escalão nacional, onde representou emblemas como o Portimonense, Sp. Covilhã, Gil Vicente, Penafiel, Académico de Viseu, Chaves e o Mafra. Contudo, soma também algumas passagens pela 1.ª Liga com as camisolas do Paços de Ferreira (2010/11), Beira-Mar (2011 a 2013) e do Penafiel (2014/15). Antes de reforçar a Oliveirense, esteve três anos na U. Leiria, onde disputou 10 jogos na Liga 3 na primeira época. Agora, vai continuar a caminhada no terceiro escalão nacional como reforço da defesa do Atlético CP.",
+        "keywords": [
+            {
+                "keyword": "fc porto contando",
+                "score": 0.5771
+            },
+            {
+                "keyword": "fc porto contando grande",
+                "score": 0.5623
+            },
+            {
+                "keyword": "fc porto",
+                "score": 0.5429
+            },
+            {
+                "keyword": "infesta fc porto contando",
+                "score": 0.5075
+            },
+            {
+                "keyword": "defesa atlético",
+                "score": 0.4865
+            },
+            {
+                "keyword": "defesa atlético cp",
+                "score": 0.478
+            },
+            {
+                "keyword": "oliveirense apontou quatro golos",
+                "score": 0.4732
+            },
+            {
+                "keyword": "central 37 chega oliveirense",
+                "score": 0.4621
+            },
+            {
+                "keyword": "reforço defesa atlético",
+                "score": 0.4593
+            },
+            {
+                "keyword": "defesa central 37",
+                "score": 0.4588
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRkxsR1hkM2RQZkRGX1F1ZVpsQkVWZjY1aGdVSm1DZm9GRXU0bWl2cjZVMTEwTmdmdERrOHVuREpQQmpDcUxHdzZrelNnNWt1bjJtSVRpblJoOS1TMnhPZlcwclNadmZPYjBsYmx2MDNkVmtrelozcTJCQUhDSjVoTVhEcXVHOUZkUVl4SkhxZGZxY0RWbG9GQVdVMV9MQ2VJVXh3UkR1OWpsZWFzRXhZeE56Tmc2Q213SHpBVnplVWdTd1RxUHJzN2VfTGlBb2hORGFKTNIBtAFBVV95cUxQdzlyTmRtbnA4TUpoM0FLN0t3TlBGaDBKZWY4U0pZa190UU4yZW9jZHZqWmtNNldGLWJ0N1IxMTZMVElTNWFXejZNQkVDRllTYTFTc1NNdlVmRWxlWGN3WUJXQW5Zd1NEUkN1eU1BSkhQSTNsdDdSbXFoVGdUZTg1QjR1RzRPd2xueGFISXdFVV9UMmduSXZEbG94QllLdE5ycnowREJoQ2plUnhNUjRJRmpCaWc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "title_clean": "Trofense oficializa mais duas contratações para a defesa - Record",
+        "clean_text": "Trofense oficializa mais duas contratações para a defesa - Record. E usufrua de todas as vantagens de ser assinante O Trofense oficializou esta sexta-feira mais duas contratações e ambas para a defesa. Primeiro, o emblema da Trofa apresentou Emerson Buiu, lateral-direito brasileiro de 20 anos que representava os sub-20 do Vitória, no Brasil. Mais tarde, foi oficializado o central Agustín Granja. O uruguaio, de 21 anos, chega do Boston River. Ambos assinaram contrato válido por uma época.",
+        "keywords": [
+            {
+                "keyword": "defesa primeiro emblema trofa",
+                "score": 0.59
+            },
+            {
+                "keyword": "brasil tarde oficializado central",
+                "score": 0.5718
+            },
+            {
+                "keyword": "oficializa duas contratações defesa",
+                "score": 0.5689
+            },
+            {
+                "keyword": "trofa apresentou emerson",
+                "score": 0.5623
+            },
+            {
+                "keyword": "emblema trofa apresentou emerson",
+                "score": 0.5602
+            },
+            {
+                "keyword": "trofense oficializa duas contratações",
+                "score": 0.5542
+            },
+            {
+                "keyword": "duas contratações defesa record",
+                "score": 0.5525
+            },
+            {
+                "keyword": "primeiro emblema trofa apresentou",
+                "score": 0.5522
+            },
+            {
+                "keyword": "brasil tarde oficializado",
+                "score": 0.5516
+            },
+            {
+                "keyword": "trofa apresentou",
+                "score": 0.5478
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUlJZOHpVUVhLYXdHNFJTeTMtUGxKSk9SZDdWZm1lZVo4MW1vc2dpc3hGUS1OSDYtRUxmLXVJR3otbGMtb3FKVXFfX1RtSklReDU4dTVIRXZsd21lazM4RWpyelFmNFU5ZFJsbHBZRVp5QU51WURMcXBjMWNxenpiM1RMd1J3a19Fb25wbmVOYlRDZUNIb1JoRGNZQUhkcG13bHNtRUtidW9UVzN4MmpYbzJlclpISDJzcnNsdHZvcDVGeGpBaDJLcVVIMXNVV0dGbnpZWXp6aUNWbW5JX3c?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 05:08:38 GMT",
+        "title_clean": "Governo assina contratos-programa para investimentos de 14M€ em 10 municípios do Centro - Diário Digital Castelo Branco",
+        "clean_text": "Governo assina contratos-programa para investimentos de 14M€ em 10 municípios do Centro - Diário Digital Castelo Branco. Por: Diário Digital Castelo Branco/Lusa O Governo e dez municípios da região Centro assinaram esta 4ªfeira, 22 de Julho, contratos-programa, no valor de 14 milhões de euros, para \"investimentos estruturantes\", sendo 7,3 milhões de euros destinados a autarquias que integram o Parque Natural da Serra da Estrela. O Ministério da Economia e da Coesão Territorial e o Ministério das Finanças divulgaram, em comunicado conjunto, que os dez contratos-programa assinados hoje na Covilhã, distrito de Castelo Branco, representam um investimento elegível global de cerca de 14 milhões de euros, ao qual corresponde uma comparticipação financeira do Estado superior a 4,4 milhões de euros\". Os investimentos abrangem a qualificação da rede viária, a melhoria das condições de segurança, a valorização de equipamentos municipais, a reabilitação de edifícios públicos e a criação de infraestruturas de apoio à atividade económica, adiantaram os ministérios. Os contratos-programa foram assinados com os municípios de Celorico da Beira, Gouveia, Manteigas e Seia (distrito da Guarda), Miranda do Corvo (Coimbra), Pedrógão Grande e Castanheira de Pera (Leiria), Santa Comba Dão (Viseu), Covilhã e Vila de Rei (Castelo Branco), no âmbito \"da cooperação técnica e financeira entre a administração central e a administração local\". A cerimónia na Covilhã contou com a presença do secretário de Estado Adjunto e do Orçamento, José Maria Brandão de Brito, e do secretário de Estado da Administração Local e Ordenamento do Território, Silvério Regalado. Os dois ministérios sublinharam também na nota de imprensa que cinco dos contrato-programa assinados destinam-se a municípios que integram o Parque Natural da Serra da Estrela: Covilhã, Celorico da Beira, Gouveia, Manteigas e Seia, \"dando expressão no terreno aos objetivos do Programa de Revitalização do Parque da Serra da Estrela e a uma estratégia orientada para a recuperação, a resiliência, o desenvolvimento económico e social e a valorização sustentável daquele território\". \"Estes cinco contratos representam mais de 7,3 milhões de euros de investimento elegível e contam com uma comparticipação do Estado que ronda os 500 mil euros por município\", destacaram. O secretário de Estado da Administração Local e Ordenamento do Território realçou que \"estes contratos mostram que a coesão territorial se constrói com respostas concretas\". \"Quando investimos no Interior, não estamos a compensar territórios, estamos a mobilizar o seu potencial e a reforçar o desenvolvimento de todo o país. Estamos também a começar a dar expressão concreta ao Programa de Revitalização do Parque Natural da Serra da Estrela\", apontou Silvério Regalado, citado no comunicado. Já o secretário de Estado Adjunto e do Orçamento, José Maria Brandão de Brito, referiu que \"Portugal só será verdadeiramente mais competitivo se for também mais coeso, pelo que a valorização dos territórios de baixa densidade, o reforço da atratividade do Interior e a melhoria das condições de vida das populações serão sempre prioridades da ação governativa\".",
+        "keywords": [
+            {
+                "keyword": "territorial ministério finanças divulgaram",
+                "score": 0.654
+            },
+            {
+                "keyword": "coesão territorial ministério finanças",
+                "score": 0.6245
+            },
+            {
+                "keyword": "ministério economia",
+                "score": 0.6176
+            },
+            {
+                "keyword": "for coeso valorização territórios",
+                "score": 0.6175
+            },
+            {
+                "keyword": "adiantaram ministérios contratos",
+                "score": 0.6161
+            },
+            {
+                "keyword": "ministério economia coesão",
+                "score": 0.616
+            },
+            {
+                "keyword": "estruturantes sendo milhões euros",
+                "score": 0.6035
+            },
+            {
+                "keyword": "território realçou contratos mostram",
+                "score": 0.596
+            },
+            {
+                "keyword": "atividade económica adiantaram ministérios",
+                "score": 0.5916
+            },
+            {
+                "keyword": "valorização sustentável daquele território",
+                "score": 0.5906
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzlyTmRtbnA4TUpoM0FLN0t3TlBGaDBKZWY4U0pZa190UU4yZW9jZHZqWmtNNldGLWJ0N1IxMTZMVElTNWFXejZNQkVDRllTYTFTc1NNdlVmRWxlWGN3WUJXQW5Zd1NEUkN1eU1BSkhQSTNsdDdSbXFoVGdUZTg1QjR1RzRPd2xueGFISXdFVV9UMmduSXZEbG94QllLdE5ycnowREJoQ2plUnhNUjRJRmpCaWfSAbQBQVVfeXFMUHc5ck5kbW5wOE1KaDNBSzdLd05QRmgwSmVmOFNKWWtfdFFOMmVvY2R2alprTTZXRi1idDdSMTE2TFRJUzVhV3o2TUJFQ0ZZU2ExU3NTTXZVZkVsZVhjd1lCV0FuWXdTRFJDdXlNQUpIUEkzbHQ3Um1xaFRnVGU4NUI0dUc0T3dsbnhhSEl3RVVfVDJnbkl2RGxveEJZS3ROcnJ6MERCaENqZVJ4TVI0SUZqQmln?oc=5",
+        "source": "news",
+        "created_at": "Fri, 24 Jul 2026 22:20:14 GMT",
+        "title_clean": "Trofense oficializa mais duas contratações para a defesa - Record",
+        "clean_text": "Trofense oficializa mais duas contratações para a defesa - Record. Trofense oficializa mais duas contratações para a defesa Agustín Granja reforça o Trofense • Foto: Facebook Trofense O Trofense oficializou esta sexta-feira mais duas contratações e ambas para a defesa. Primeiro, o emblema da Trofa apresentou Emerson Buiu, lateral-direito brasileiro de 20 anos que representava os sub-20 do Vitória, no Brasil. Mais tarde, foi oficializado o central Agustín Granja. O uruguaio, de 21 anos, chega do Boston River. Ambos assinaram contrato válido por uma época. PUB Por Record",
+        "keywords": [
+            {
+                "keyword": "defesa primeiro emblema trofa",
+                "score": 0.613
+            },
+            {
+                "keyword": "trofa apresentou emerson",
+                "score": 0.5754
+            },
+            {
+                "keyword": "agustín granja uruguaio 21",
+                "score": 0.5752
+            },
+            {
+                "keyword": "contratações defesa agustín",
+                "score": 0.5658
+            },
+            {
+                "keyword": "uruguaio 21",
+                "score": 0.5649
+            },
+            {
+                "keyword": "duas contratações defesa agustín",
+                "score": 0.5645
+            },
+            {
+                "keyword": "trofa apresentou",
+                "score": 0.5616
+            },
+            {
+                "keyword": "agustín granja uruguaio",
+                "score": 0.5609
+            },
+            {
+                "keyword": "uruguaio 21 chega",
+                "score": 0.5597
+            },
+            {
+                "keyword": "central agustín granja uruguaio",
+                "score": 0.5531
+            }
+        ],
+        "source_name": null
     }
 ]
