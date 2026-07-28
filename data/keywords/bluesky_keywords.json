@@ -6929,5 +6929,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mrnsw7z6aa2s",
+        "source": "bluesky",
+        "created_at": "2026-07-27T21:15:20+00:00",
+        "title_clean": "",
+        "clean_text": "Um ferido grave em camião que caiu da A23 na Guarda O despiste de um pesado de mercadorias Guarda na A23, antes do túnel do Barracão, no sentido Guarda-Covilhã,…",
+        "keywords": [
+            {
+                "keyword": "ferido grave camião",
+                "score": 0.667
+            },
+            {
+                "keyword": "camião caiu a23 guarda",
+                "score": 0.6629
+            },
+            {
+                "keyword": "ferido grave camião caiu",
+                "score": 0.656
+            },
+            {
+                "keyword": "a23 guarda despiste pesado",
+                "score": 0.6387
+            },
+            {
+                "keyword": "grave camião caiu a23",
+                "score": 0.6197
+            },
+            {
+                "keyword": "grave camião caiu",
+                "score": 0.6115
+            },
+            {
+                "keyword": "camião caiu a23",
+                "score": 0.5874
+            },
+            {
+                "keyword": "guarda despiste pesado",
+                "score": 0.582
+            }
+        ],
+        "source_name": null
     }
 ]

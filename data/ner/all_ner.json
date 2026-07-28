@@ -126591,6 +126591,385 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODVLbzlsLXNuWFBwcXRnN3FfdkRkdGJjb0tXa3hlaXRlQ3U2Zno2a3JXUkdPLXlsSV9QUUNPVVFuSkhES3lJNUd6MlVPUTIwcDhPMkNYand1TDhOaFM2WUJDYzdwQ2M5Y2JJMXZZYW9Oc0xqSzNIRHVZanZIYlc3bEhVaEdtUXdYb041MjJzOVQ4QjBzaTVaUWdtRkg2ZlYyUGtwSTNXR1ZLU1Jyd1NjalA1VUpDUTJYZUEyX0pYWmN0ZGFwN2RQQ0k0dGJfc3hiOEQ1cTV6dWs?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 19:19:03 GMT",
+        "title_clean": "Covilhã investe 1,2 milhões em habitação social e entrega 37 casas a 72 residentes pelo programa 1.º Direito - Observador",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUkU3OHJacVEtSURKa2lJNjdzc2t4NjlSWGlYX3JnUGhxdU9xZ3g0dHl0OEF1MDJCbW96bk9RT3EzT29ZeEhMLVg3cG5FU3FNZHNOOGh1UE00SEdvNm92NW5UaS1kNGZuMHU2elFTWUw4TlVRc3J3ekdsMUliLXdORVJINzFiUDFia2RFMEZ2TUdoODRiZ0JIaEFPNWNZcGpfVFN3QmRDdEFkYk1KQWdJS0VqUDJTcWVLMTE3MGh5UW5GLVBLcF9ZOU50czZvSWhFQUxkREZJaVFGMXk1RkYwNDBwODhmbFBxMkhRR3p5VE5sWGhGN1Z3Nw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 09:18:15 GMT",
+        "title_clean": "Da Covilhã para os Estados Unidos: Lua Afonso vai representar a Europa numa competição espacial - Jornal SOL",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Lua Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola Secundária Quinta das Palmeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Kennedy Space Center",
+                "label": "LOC"
+            },
+            {
+                "text": "Florida",
+                "label": "LOC"
+            },
+            {
+                "text": "Walt Disney World Resort",
+                "label": "LOC"
+            },
+            {
+                "text": "José Pedro Aguiar-Branco",
+                "label": "PER"
+            },
+            {
+                "text": "Agência Espacial Europeia",
+                "label": "ORG"
+            },
+            {
+                "text": "Agência Espacial Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "SIC Notícias",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUFpjQVFUb21QQm0wQVRaWjdDb3FfdTBNTFo4bXl6cERONW5BZVRwTG1vTjRGT2RLOHNrV2FrMkZWUTZZa3N6MWxMRzM1TnhJTjFkTzBLNWhZQnhCNGhiZldidWtoQVQwNjZRUk9iY3h5TFdLbUtwLVEtQTlCck4xWHozUFZQQnFCZnA1NDk1R3RvNWhQTlgxS1ZhTFY5MzZuVXFTS3FyajNMS1llUFNOOWlWTG8tX0RvNTBRSGFCd1J1emRDanNHSHlab0VFM2std1dKY3dMMGlGOHRhZi1CcQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 16:31:21 GMT",
+        "title_clean": "Covilhã: Mais 37 famílias recebem casas recuperadas; 112 dos 117 fogos previstos no 1.º Direito concluídos",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Bairro do Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Nova do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Plano",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara da Co",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNVW9oRU54ak5JdG1CLU41cWNOenJ2SXhWVXNRUUxJRjZQT3Z2MTViQ0VCWndsREZYVmFIU1djUGtDRzgyTV9LN3huZjZxZ0V0UTZwWm1KUWtxdVpwX29lY3FqdXJXR0pXZGM5Vjd5RXZLWHcyZkZHcGFkTmtDQlVxRlU4dW5FR3YyLXhxM1NkbTZGY1U?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 09:30:00 GMT",
+        "title_clean": "Unidade de Cuidados Continuados do Fundão “em contrarrelógio”",
+        "entities": [
+            {
+                "text": "Unidade de Cuidados Continuados do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Casa da Misericórdia do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Jorge Gaspar",
+                "label": "PER"
+            },
+            {
+                "text": "União Europeia",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Cova do Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara do Fundão",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjNlRFFtYWFudnp2Z2Q3U0E1TUFFcU9yZE50MUVIQWIwaTNUb2FwOTJBR2FHanNSc3BYdEZkZ0ExNV9EMkxoOEFnWjkwYmlwTzhxY1NWVzc3eXc2MnozcG43dEpzWmswQjlxU092ZW5mVTNRUFdRbzhsTklZV2VWaFM4aU1uMGt6eDVGdmRyUV9MaDZzYkc5dUlESHB1SVhTNV9vUGpLX1RYR2s?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 13:58:45 GMT",
+        "title_clean": "COVILHÃ: “Que Mundo Maravilhoso” chega à Galeria António Lopes",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Guilherme Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola Secundária Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculdade de Belas-Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Curado",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade NOVA de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Tinturaria",
+                "label": "LOC"
+            },
+            {
+                "text": "Sociedade Nacional de Belas-Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Museu de Arte, Arquitetura e Tecnologia",
+                "label": "LOC"
+            },
+            {
+                "text": "Trienal de Arquitetura de Lisboa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3hsUm9CQ0Y1VzVrVk5qQS05UmtRR0RPYk1jVFd3UHNVTnlrZDhCQnpyWHRsbmFqYWsyZDExUHFVazcwRjRCU3hSN3NEUGo1c2c2X2FkbW84UUpBNUxjQnR1bjFLb0tpQW00UC1HY1cyUnR5ZURiaGg2WHdxMldBU2gwUHlMUzB6ZGhfUktTV256R1ZRLTdzeHdPTnM5OFN1SVpsLXZmRXdkX2Zsek84MW0yU05mNjdVNFBUVmVVNEpVd3Vq?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 08:07:24 GMT",
+        "title_clean": "David Farias sagra-se campeão nacional de salto em comprimento no desporto adaptado",
+        "entities": [
+            {
+                "text": "David Farias",
+                "label": "PER"
+            },
+            {
+                "text": "Penta Clube da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnBsbkhOMmU1QjNqdFRra1dEWGc5a1ZzLWZYNlhtRlJmVjNhTHlWTHBpOUVheklIUkxyOF9lT2NIZzIyakFET250LTVmVzVkMkVzMElsV0trVE9xbHR3X1Y2OXdNS1RKbnVrTFZWTGpjNHB6ZEtDNE1aTFBMYThQMEVwQ29GeWVzcUdUQWV0ZUE0RFRtTTBuUFYyck5uVFFBclNRMDFCWjZIdFNDRlM1YUlIc0hyZEQ5NWN1UTVCRjJsTkk?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 09:29:48 GMT",
+        "title_clean": "Feira de São Tiago termina com balanço positivo e Câmara já prepara edição de 2027",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rádio Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Proteção Civil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1wFBVV95cUxONlloSE5RWGtSTkdFZ0VONEkzZGZ3Z2dIa2tEaE84OWxjNGdaaHhIZmtRNUJuQ2JSTFJwZG9kTWVmRFVPMnBjZG1Rbkd2MDJzTjBUcHc5LV9pWmJ6eFdpX3czMzhoWmlFMjZEOU8xcElKUGlsZXhnUGZNc1ZJQjdCTFBHZkMtYnBmel9sbFBQN1RPTi1rZ2pEdnZ4dlNZdzY2bVVqd2JqRENTLTJhZnp6azlFZUhuZ01ycGVoNzNJcmppYjhEbWlfemM1YkRjbFlla2lNMWZlVQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 12:39:00 GMT",
+        "title_clean": "“Que Mundo Maravilhoso” do pintor Guilherme Ramos em exposição na Galeria António Lopes",
+        "entities": [
+            {
+                "text": "Guilherme Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeC01NW5wRjJRRENhQ3hnTER1WDU5T0FFZGoycERWdlJnZ1YwZ3NPLWZvd0tYVU10SnlMdjZTUGZtMDA4UmpjOHpBNWRRV2hBWkhKWWY1Z18yRFVXdl9zTEZZMkhvMjFsYlpXMlBscEFDaFR4bW5NVVZCWDRRYnhodHhyN3ZJUm1Fb3JuYjJYNlNyNzRReXl5b2pfaGVhVXlzdXU2WVFWNVJwdVhSZHU3ZTk5QmdZVEp6a19peUxYbi1sZEhZZjYyZENhemFmcjdrVVROVEpqc3VEaGFqX0ZKaQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 08:42:06 GMT",
+        "title_clean": "Semáforos vão regular trânsito na Rua Ruy Faleiro; Câmara estuda intervenção para transformar Rua Direita",
+        "entities": [
+            {
+                "text": "Rua Ruy Faleiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Rua Direita",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "CDS-PP/IL",
+                "label": "ORG"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "Rua Comendador Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Executivo Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Vereador",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTE9VYTJmSWlIbnJaTldoN1dpdnA1b1NFRmFOWHVXdHZBdlo5bDdJY2lZODlqUmJIRHhWX3FhaS02SEJuaDA3SzU1THVJNk1ZdnktTTNRSWRRS0lMWWpjRnk1a09MbXVNcVN1YTFYSkktMFg0clB4VFdlcUVn?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 16:29:12 GMT",
+        "title_clean": "Antevisão Sertanense vs SC Covilhã :: Estatísticas e Onzes Prováveis :: Pré-Época 2026/27",
+        "entities": [
+            {
+                "text": "Sertanense",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE53QUEyWkp6SS14Nk8tdFllbDh6X0kwd1NjTUZJb0V1VVhFOFpqQkNRSHJEbTg1elo2MFdoQ1VpNV96NzRQZFFHOFBpZkNHZkVHT25jTlBBdXFVOGYtQ25UN3RFNWRYaUtycDhhRVZ0Mm9vZw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 21:18:56 GMT",
+        "title_clean": "Squad Builder :: SC Covilhã :: Sertanense contra SC Covilhã (2026-07-28)",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZjJXUWdLQ3ZMZU5VdmloaW82UFZmZC1ZSkZkQmE4a1JOTXgxcGJUNDg5Q3pzQXI5dGhaT0llVlpCREh0R0tHMExlUi1lT3A4ZkJpNlJzVG82bDVtSjBvNTNON1h0S3B6LThhbTVsR0NGSzFBdWdMWlI1ckxWUmJGM0lVWHI1WkhPdVc2d01zTFlrY0FiVjZvSF84ZFZCUjlNdVRqVGhoMXFsV0NYeVZJZjByY0dMR1dDeHJ1UTZhRUdFZW9PTERYajdfaWladEVJcEdxZkdvOUhVR2QtX1dQLVdB?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 03:52:13 GMT",
+        "title_clean": "SC-COVILHÃ-B - ATALAIA-DO-CAMPO Estatísticas e detalhes do jogo - AFootballReport",
+        "entities": []
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -130371,6 +130750,26 @@
             },
             {
                 "text": "Carregal do Sal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mrnsw7z6aa2s",
+        "source": "bluesky",
+        "created_at": "2026-07-27T21:15:20+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Barracão",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
                 "label": "LOC"
             }
         ]
