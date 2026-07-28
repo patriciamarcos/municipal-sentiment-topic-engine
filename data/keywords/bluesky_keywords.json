@@ -6971,5 +6971,173 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq7kobtx22y",
+        "source": "bluesky",
+        "created_at": "2026-07-28T20:06:52.933Z",
+        "title_clean": "",
+        "clean_text": "Vai-s'a'ver e já tive finais de dia de trabalho piores, já. Covilhã bem!!!",
+        "keywords": [
+            {
+                "keyword": "tive finais trabalho",
+                "score": 0.6815
+            },
+            {
+                "keyword": "tive finais trabalho piores",
+                "score": 0.6532
+            },
+            {
+                "keyword": "ver tive finais trabalho",
+                "score": 0.6309
+            },
+            {
+                "keyword": "finais trabalho piores",
+                "score": 0.5964
+            },
+            {
+                "keyword": "finais trabalho",
+                "score": 0.5419
+            },
+            {
+                "keyword": "trabalho piores",
+                "score": 0.5333
+            },
+            {
+                "keyword": "tive finais",
+                "score": 0.5304
+            },
+            {
+                "keyword": "ver tive finais",
+                "score": 0.4803
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq3f6vcoc2p",
+        "source": "bluesky",
+        "created_at": "2026-07-28T18:52:14.032Z",
+        "title_clean": "",
+        "clean_text": "Impressionante! Covilhã bem! e com uma zona exterior bem catita para ir para lá ler depois de champinhar. Ora então 'bora lá buscar a fatiota aproriada e descer novamente que tenho os pezinhos e as perninhas mesmo a precisar de molho",
+        "keywords": [
+            {
+                "keyword": "lá ler depois champinhar",
+                "score": 0.7042
+            },
+            {
+                "keyword": "ler depois champinhar ora",
+                "score": 0.6572
+            },
+            {
+                "keyword": "lá buscar fatiota aproriada",
+                "score": 0.6505
+            },
+            {
+                "keyword": "depois champinhar ora",
+                "score": 0.6501
+            },
+            {
+                "keyword": "bora lá buscar",
+                "score": 0.6456
+            },
+            {
+                "keyword": "depois champinhar ora então",
+                "score": 0.6393
+            },
+            {
+                "keyword": "ler depois champinhar",
+                "score": 0.6378
+            },
+            {
+                "keyword": "precisar molho",
+                "score": 0.6266
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq2oaio622a",
+        "source": "bluesky",
+        "created_at": "2026-07-28T18:39:23.985Z",
+        "title_clean": "",
+        "clean_text": "COVILHÃ 🥳🥳🥳 Temos vencedora e apreciadora Amanhã mostro as papas 😋",
+        "keywords": [
+            {
+                "keyword": "apreciadora amanhã mostro papas",
+                "score": 0.7816
+            },
+            {
+                "keyword": "apreciadora amanhã mostro",
+                "score": 0.7792
+            },
+            {
+                "keyword": "vencedora apreciadora amanhã mostro",
+                "score": 0.7725
+            },
+            {
+                "keyword": "temos vencedora apreciadora amanhã",
+                "score": 0.7674
+            },
+            {
+                "keyword": "amanhã mostro papas",
+                "score": 0.7621
+            },
+            {
+                "keyword": "vencedora apreciadora amanhã",
+                "score": 0.7278
+            },
+            {
+                "keyword": "apreciadora amanhã",
+                "score": 0.7223
+            },
+            {
+                "keyword": "amanhã mostro",
+                "score": 0.7017
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mrq22lh4ns2i",
+        "source": "bluesky",
+        "created_at": "2026-07-28T18:28:24.379Z",
+        "title_clean": "",
+        "clean_text": "E eu escrevi mal, é carolo. Carolo é milho moido. É com carolo que no Algarve fazem o Xerém, que são papas salgadas com amêijoas ou conquilhas, e na Covilhã as Papas de Carolo, tipo arroz doce. Gosto de Xerém, mas prefiro as doces",
+        "keywords": [
+            {
+                "keyword": "carolo milho moido carolo",
+                "score": 0.667
+            },
+            {
+                "keyword": "carolo carolo milho",
+                "score": 0.6605
+            },
+            {
+                "keyword": "papas carolo",
+                "score": 0.6599
+            },
+            {
+                "keyword": "carolo carolo milho moido",
+                "score": 0.6521
+            },
+            {
+                "keyword": "milho moido carolo",
+                "score": 0.6508
+            },
+            {
+                "keyword": "são papas salgadas amêijoas",
+                "score": 0.6272
+            },
+            {
+                "keyword": "salgadas amêijoas",
+                "score": 0.622
+            },
+            {
+                "keyword": "gosto xerém prefiro doces",
+                "score": 0.6163
+            }
+        ],
+        "source_name": null
     }
 ]

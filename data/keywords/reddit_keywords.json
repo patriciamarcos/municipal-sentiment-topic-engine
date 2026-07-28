@@ -3322,5 +3322,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1v8zmr4",
+        "source": "reddit",
+        "created_at": "2026-07-28 14:10:15",
+        "title_clean": "A pensar mudar-me para a Covilhã",
+        "clean_text": "Eu m33 estou a pensar mudarme para a Covilhã tenho uma oferta de emprego e gostava de dicas para me ajudar a decidir até ao fim de agosto. Como é o panorama para comprar casa? Os ginásios são porreiros? Onde posso ir beber um copo à noite sítios tranquilos? Como são os transportes para Lisboa e Porto se tiver tempo e não me apetecer conduzir? Qual é a principal dica de sobrevivência para viver na Covilhã?",
+        "keywords": [
+            {
+                "keyword": "sítios tranquilos são transportes",
+                "score": 0.4857
+            },
+            {
+                "keyword": "tranquilos são transportes",
+                "score": 0.4334
+            },
+            {
+                "keyword": "tranquilos são transportes lisboa",
+                "score": 0.4213
+            },
+            {
+                "keyword": "noite sítios tranquilos",
+                "score": 0.4023
+            },
+            {
+                "keyword": "lisboa porto tiver tempo",
+                "score": 0.4018
+            },
+            {
+                "keyword": "copo noite sítios tranquilos",
+                "score": 0.3919
+            },
+            {
+                "keyword": "sítios tranquilos",
+                "score": 0.3855
+            },
+            {
+                "keyword": "transportes lisboa porto tiver",
+                "score": 0.3821
+            },
+            {
+                "keyword": "porto tiver tempo",
+                "score": 0.381
+            },
+            {
+                "keyword": "transportes lisboa",
+                "score": 0.3749
+            }
+        ],
+        "source_name": null
     }
 ]

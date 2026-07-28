@@ -126970,6 +126970,322 @@
         "entities": []
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2ZmeXFIUndRZm12N050QUNiakdrc09fdnJqVmlmRjhpQ1dfTFh5VnlxN3lVX05iMmdHRTZwb0xnRjdtZmNNczR2Nm85XzRidVUyMHRXRTJhQVpNc3UxRTk5Y3pqZFZieGpTWlgxc29yN05ITUZiS1dLNDJ2MnFsUTJpam1BY19MM2xiZWJQQjRBbE1oa2hnbVFkby1Ga0FIMlNLRDhGY05tbmxmUXQxQ3Z2cHhMMk5PUHBzUQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 06:46:26 GMT",
+        "title_clean": "Covilhã: Município entrega chaves de mais 37 casas requalificadas - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "União Europeia",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Bairro do Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Nova do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Município Covilhanense",
+                "label": "LOC"
+            },
+            {
+                "text": "Presidente da Câmara",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnpXUjFjc1RxdE15aVJpM3RMQWpZNVdXTjFtZG5FalNhcWF4azVpNzFHVFg5NFRjVGtFQWNubHF6RDdjZFBJVVhqVm9TdFpTQmZzeWxOTnBzSWwzUjExMjBEVXlWZ1RUVXNuRmdzM1Vza24tb1plQ2RQVHhzVi1PUFVCd1FxSUZ3UEdjMw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 09:17:00 GMT",
+        "title_clean": "Xutos, Matias Damásio, Nininho e Vitor Kley em Penamacor",
+        "entities": [
+            {
+                "text": "Matias Damásio",
+                "label": "PER"
+            },
+            {
+                "text": "Vitor Kley",
+                "label": "PER"
+            },
+            {
+                "text": "Nininho Vaz Maia",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Terreiro de Santo António",
+                "label": "LOC"
+            },
+            {
+                "text": "Praça Nova do Ex-Quartel",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim da República",
+                "label": "LOC"
+            },
+            {
+                "text": "Bertino Cordeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Museu Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Rockluso",
+                "label": "ORG"
+            },
+            {
+                "text": "União Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "Magenta",
+                "label": "ORG"
+            },
+            {
+                "text": "Gamïx",
+                "label": "PER"
+            },
+            {
+                "text": "Xutos & Pontapés",
+                "label": "ORG"
+            },
+            {
+                "text": "Coro Rociero Azabache",
+                "label": "ORG"
+            },
+            {
+                "text": "Banda Tempo",
+                "label": "ORG"
+            },
+            {
+                "text": "DJ Perdiz",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Clube de Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Ana Machado",
+                "label": "PER"
+            },
+            {
+                "text": "Quintarolas",
+                "label": "ORG"
+            },
+            {
+                "text": "Às da Concertina",
+                "label": "ORG"
+            },
+            {
+                "text": "Wilson Honrado",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra dos Miminhos",
+                "label": "ORG"
+            },
+            {
+                "text": "Repórteres da Rádio",
+                "label": "ORG"
+            },
+            {
+                "text": "Fanfarrões da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombos do Barco",
+                "label": "ORG"
+            },
+            {
+                "text": "Frederic",
+                "label": "PER"
+            },
+            {
+                "text": "Concertinas da Gardunha",
+                "label": "ORG"
+            },
+            {
+                "text": "Concertinas de Santo André das Tojeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Trovadores da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Acordeonista & Amigos",
+                "label": "ORG"
+            },
+            {
+                "text": "Bandinha da Moca",
+                "label": "ORG"
+            },
+            {
+                "text": "Arrebimbas",
+                "label": "ORG"
+            },
+            {
+                "text": "Concertinas da Boidobra",
+                "label": "ORG"
+            },
+            {
+                "text": "Corujinhas da Concertina",
+                "label": "ORG"
+            },
+            {
+                "text": "Concertinas da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Socorrisos",
+                "label": "ORG"
+            },
+            {
+                "text": "Os Folkings",
+                "label": "ORG"
+            },
+            {
+                "text": "Fanfarra Sons do Mundo",
+                "label": "ORG"
+            },
+            {
+                "text": "Moustache Brass Band",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombos da Junta de Freguesia de Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "Velhotes Desenrascam",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo de Concertinas da Casa do Povo de Pin",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo de Cantares e Cante Alentejano \"Migando e Cantando",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo de Concertinas de Gouveia",
+                "label": "ORG"
+            },
+            {
+                "text": "Sigábanda",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara de Penamacor",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmxhU08tRUwwN1RWQTByeTdLNm9rekFuWDNEbDNwbm5qSjNhcWZ6SFhkZFlhZDR3c0FyWUlITlJha2VVN2ZYZG9YLUIwR0tmaGU1UkwzYUV4aWRUWVFEV2E3ZlZ1MzAtLXNWbWRqYm9pSXNTdGJiUUQ3NTVpaExic1lzblh5eml6Y2JZTTBHNmZPZ3RlUDdTV19SOXhsYnl6SURXVV9R?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 03:48:09 GMT",
+        "title_clean": "Entregues chaves de 37 habitações requalificadas",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Bairro do Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Nova do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "União Europeia",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jTkhvWGQycV96Y2lQaFRoTUZwMUxLeGszUmdBU3A4STc2TUxpWGRKVXhoMDdBVzRLTElJQUpLRzY3YTBlTUJWRzlFNkhpdTJqXzBMdlZn?oc=5",
+        "source": "news",
+        "created_at": "Wed, 22 Jul 2026 14:45:16 GMT",
+        "title_clean": "SC Covilhã vs UD Oliveirense | Liga Portugal 3 | “resultados ao vivo” - OneFootball",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "João Félix",
+                "label": "PER"
+            },
+            {
+                "text": "Terceira Divisão",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -127867,6 +128183,26 @@
             },
             {
                 "text": "Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1v8zmr4",
+        "source": "reddit",
+        "created_at": "2026-07-28 14:10:15",
+        "title_clean": "A pensar mudar-me para a Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
                 "label": "LOC"
             }
         ]
@@ -130766,6 +131102,52 @@
             },
             {
                 "text": "Barracão",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq7kobtx22y",
+        "source": "bluesky",
+        "created_at": "2026-07-28T20:06:52.933Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq3f6vcoc2p",
+        "source": "bluesky",
+        "created_at": "2026-07-28T18:52:14.032Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq2oaio622a",
+        "source": "bluesky",
+        "created_at": "2026-07-28T18:39:23.985Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mrq22lh4ns2i",
+        "source": "bluesky",
+        "created_at": "2026-07-28T18:28:24.379Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Carol",
+                "label": "PER"
+            },
+            {
+                "text": "Algarve",
                 "label": "LOC"
             },
             {
