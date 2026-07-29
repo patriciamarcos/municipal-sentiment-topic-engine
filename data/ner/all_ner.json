@@ -127286,6 +127286,686 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTFBMV2JmUEFabjhpQmlqbjNPRUdaMWN1UVY5cUFBQlkwSG1XOW9iZUV5eGg4Vi1OZGw4SWRVQllWMkhGTlYyV2tRZjV4VHlWZWk1VTBoMmZ1dkFZQWJJRkRRN2xnY2E1UEpJREtUUi14QWlwa012and3OA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 10:00:00 GMT",
+        "title_clean": "Museu da Covilhã promove visita noturna",
+        "entities": [
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Alto da Giesteirinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale da Piçarra",
+                "label": "LOC"
+            },
+            {
+                "text": "Susete Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Faculdade de Letras",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Coimbra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1JWaE1mMmpHLXJGNmFvanktTjlOZHh4LTRuQ1hCOEYwOWJIY0pjV3hhbTdHT0dIYmJnS3RPX2RsRURmNFVmdERrT0dfQ1ZkU3ZzXzgzb0t0NEVMNHZEOEtOaG80NG1mdEI2emd5dEV0U2VaejFXMHZ2b1pDV2tjTkVWZWpwSUR2LW1oYmRzMFRqMnM4Mk1RTm1FM0ZpaC1PM2pYS25B?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 14:30:28 GMT",
+        "title_clean": "Transporte a pedido poderá avançar na Covilhã no próximo ano",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "CDS-IL",
+                "label": "ORG"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ3lUTlF2QXd2X0RiM294MmMyNHVPalpxdDZHeHdnR3VpOS0tU21GLUJGOVRZczlpd0dSSElva0ZxTlBDZTQtWWowQWxNeUp2UmowaEE4ZXZVYk43MHNCcFVzcjVDUzJ5dFV0eWRvU2ZTNWhwYVpJcFYwZV80RWtmSmVVU1hSZU5IV0ZWS18zcVZSR0kwMFJFZWdJVTFQZXBvVE1IRks2ZlpnUzBPWC13?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 09:43:57 GMT",
+        "title_clean": "RCC decide a 7 de agosto possível integração do Notícias da Covilhã",
+        "entities": [
+            {
+                "text": "Notícias da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Rádio Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho de Administração",
+                "label": "ORG"
+            },
+            {
+                "text": "Goldigger Lda",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODFtU0EwVFBiRHdIZ2tiNm1zeE1hRDVEVTlfRVFlS2RFYTc3ZjlZdkozSmZVOUotOWRJcFV3UzFSVDBmWkpDUzRJNkc5UFJfUXZLWXduNC14ZTN2Z3VaQ3AtR1B4dmlQZ1ZsVmczc1gyYmRVY1BsdS14eUhnWjhDdTlFWk5XYVZHNFBTVDZ4bmpsRzZhakhSdmd1UjRsTDF1WVNFamhFZkp3MzJpVk14OWtaei1UR0tKMHV1VWtYZ3M4aDhJWWdZcmdTbDNXLXNTTXFxbkp1OE4yVWgyS1F0WjdvblF0M0oxTUJXZGE5U0M?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 10:19:40 GMT",
+        "title_clean": "Museu da Covilhã assinala 5.º aniversário com visita noturna às gravuras rupestres de Casegas e Sobral de São Miguel",
+        "entities": [
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Alto da Giesteirinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale da Piçarra",
+                "label": "LOC"
+            },
+            {
+                "text": "Carla Alegria",
+                "label": "PER"
+            },
+            {
+                "text": "Susete Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Faculdade de Letras",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Coimbra",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça do Município",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1FiWG5PV0N2UndYNmFuRFdWaUVDam1iUTBpZTk0RE40eUxkUGJOQ294bUpPZ1pOMWxZMHVCV2FDMHA4QWNiTnFwd192dHp3dHprRU5kZERlMkR5YzhvazhoTDZFcmpLcnIzWWl0eU42VjVyeU5LVXIxMG81b1dvRlM5WkR5bnlxLU41MFdDc3kwWjFQeS1STk9yLWlwLVhPS2plS3ZmOFR1ZXBCRnBORlBR?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 15:27:10 GMT",
+        "title_clean": "Projeto da Covilhã conquista 200 mil euros para proteger o património cultural - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Parque de Ciência e Tecnologia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundação \"la Caixa",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundação para a Ciência e a Tecnologia",
+                "label": "ORG"
+            },
+            {
+                "text": "Parkurbis Lab",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto de Conservação e Salvaguarda do Património",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidad da Extremadura",
+                "label": "ORG"
+            },
+            {
+                "text": "CDN-Core",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Dioceses de Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Casa da Misericórdia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "União de Freguesias",
+                "label": "ORG"
+            },
+            {
+                "text": "Teixoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Sarzedo",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Cultural Moostra",
+                "label": "ORG"
+            },
+            {
+                "text": "Presidente do",
+                "label": "PER"
+            },
+            {
+                "text": "Conselho de Administração do",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Patrão",
+                "label": "PER"
+            },
+            {
+                "text": "HereditArte Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxNVk9EaFZOVDFNUUU2cXZUTnl6U0pHN1JfSTU5SHhFWG1LS2gyZU1fSmI5UUZkc19DOGlBVFk4SGpfcXE5OUZXbWtYVFVCMlV2MEloX0RqWHRvcEZwV0dzMG5uMUR2WG1pRldwN1JQMTA4MGsxZ3N2T3FNTVRkZm9NZEdUVGNaUXdxUEdwUlU5Y0Rxd1JhUmtzRVppRGx0RlVua3YwUW9LelNFa0VUdWM2LW9JWVdjNGxJLVh3QXJNTWtPRDRkOEN5M1FKblBXNkU?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 08:43:47 GMT",
+        "title_clean": "Covilhã rejeita proposta de ZAER e promete envolver população na definição futura das áreas",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Nacional de Municípios Portugueses",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado da Energia",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Simões",
+                "label": "PER"
+            },
+            {
+                "text": "CDS/IL",
+                "label": "ORG"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "Executivo",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikgFBVV95cUxNYVhNYzRiUjl3VTctQ0ZSRnhkd1J6d29MNWtCS2RaQlVhaldxbWozYzhXai1RZDJNZXY3TlN1T2ZMaFpvVDFJemJuZUp4dG93N3NZWWdlU25UUENIQTFYaVNfRmhCTFpoMnhQZEdPNzIyVTdTUkx4dm9vNUUtb2lyUXk1elJaUV9Ec2dya2tTOFR6QQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 13:32:10 GMT",
+        "title_clean": "Covilhã entrega chaves de mais 37 casas requalificadas - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "União Europeia",
+                "label": "ORG"
+            },
+            {
+                "text": "Presidente da Câmara",
+                "label": "PER"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Bairro do Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Nova do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Município Covilhanense",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa00xOXY1cmRjbkZMcktQMXp4Nk1GS0ZENTdHcXZZMGlwNjNscjhXOVdoTjdYb2JlZHp6bkVLMlBGVFZ6RGU0VkUxem9pRk9mX3dTd0c3WE1aRGM3ZUdMOEl0Nkl4UV9WV2lqUjlZMi1VRE16b2JXN00zWWVhWTZhaTVybkFubnd6cnNnOGJ3T2FGQzJpOGJhT29Ec1JQVEhLU1N3ZHNISDNKcnZDMzJGc0E3TmhZOWpKeEp1cmRvZy1IZlJKLWRzS0ZMYm1ZM0pzeDh0UklfLUJxTFVM?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 11:58:08 GMT",
+        "title_clean": "COVILHÃ: Projeto do Parkurbis para salvaguarda do património conquista apoio da fundação “La Caixa”",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "La Caixa",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque de Ciência e Tecnologia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundação \"la Caixa",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundação para a Ciência e a Tecnologia",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto de Conservação e Salvaguarda do Património",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidad de Extremadura",
+                "label": "ORG"
+            },
+            {
+                "text": "CDN-Core",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Dioceses de Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Casa da Misericórdia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "União de Freguesias",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã e",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Teixoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Sarzedo",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Cultural Moostra",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Patrão",
+                "label": "PER"
+            },
+            {
+                "text": "Conselho de Administração do Parkurbis",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd0FvVVlqcVEyWDBUdkxsZjRnVmZXM2lHSEtUNHh4QWxoMmFuaWRkeU83emJwUUNsajIwNHh2Vmw2b3BOYlZCd01kV2JJMGdELU1mM042UXJ3V0FDQVV6cnRrcWYwMXJWMl9GSm5DOUhzcVd4SUtjZXJBa053dklqamV5eXpJUDZhRGhHbDFOa3pReGM0cm5VRkhxSXJ0N0RaWGJKcldQVWduRWJUVHk5bVRUamxLUVlPd25XVWJsNFNxaWJEbXprWEJEMTFSM0I3OXJyRXNJeVVsUHND?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 08:39:48 GMT",
+        "title_clean": "COVILHÃ: Município entrega chaves de 37 habitações requalificadas ao abrigo do Programa 1.º Direito",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Bairro do Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Nova do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifEFVX3lxTE9oQjQwWVBKX0hzRUZGTkx0Nm5KRjBtLVJTaDBRYV9lcUFmN0dOQU5LRFM1NXFObHRPQnU4RFliWUhWbFJIZzdCZGttRThNSUVKN2hHZG1haVlITnVmTFR3TUg3a1Atb3BQbk1PODhSZFJMY2tvZE9rdmpuRWg?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 12:03:52 GMT",
+        "title_clean": "Jogos em Direto - Sp. Covilhã vs Penafiel - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Penafiel",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "Betclic",
+                "label": "ORG"
+            },
+            {
+                "text": "Famali",
+                "label": "ORG"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Guimarães",
+                "label": "ORG"
+            },
+            {
+                "text": "Estoril",
+                "label": "ORG"
+            },
+            {
+                "text": "Arouca",
+                "label": "ORG"
+            },
+            {
+                "text": "Casa Pia Rio Ave",
+                "label": "ORG"
+            },
+            {
+                "text": "E. Amadora Moreirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Nacional",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Marítimo",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUk3M0h3X2dzR0lTWlVTNW1jc2xXUFAzYnNiZ1MwVWcwb2poYXZCS20tOVE2ektRNjhyMlltSWx1OWFNdjlyN2h3bzAzV3ZkSTNoNmk2UkxKdE5ZOXhjOHlEcThYNzJjMnhRdTBsbEtRRElDdlZLdVd3bmNNbnoxQTdTMkdpcldaYWlaMUx1VUstalJVVy1XRVAxN1dCS2pRdkdMVjVpR25uc2FKNzE1NmtJMm9DRmRZYnc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 11:19:19 GMT",
+        "title_clean": "Parkurbis capta 200 mil euros para laboratório de conservação do património",
+        "entities": [
+            {
+                "text": "Parque de Ciência e Tecnologia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundação \"la Caixa",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundação para a Ciência e a Tecnologia",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto de Conservação e Salvaguarda do Património",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidad de Extremadura",
+                "label": "ORG"
+            },
+            {
+                "text": "CDN-Core",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Dioceses de Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Casa da Misericórdia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Uniões de Fregues",
+                "label": "ORG"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Teixoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Sarzedo",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Cultural Moostra",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho de Administração do Parkurbis",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Patrão",
+                "label": "PER"
+            },
+            {
+                "text": "Fundação 'la Caixa",
+                "label": "ORG"
+            },
+            {
+                "text": "HereditArte Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Parkurbis Lab",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTE1RSk50U3pfQmFzSnNoU3k4czh5Unk0LVpKTmh3QzRTMHVPblNGeFBuR3g1QnJKbVpQbWUxRzRTQTFWaGV0QS1wWFZzanBmc3YtRl81QWYtc1BGWUxkRjc2bG5MOF9IQllpNG1NN2ducWNjMVJqYk9jc2R3?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 17:34:03 GMT",
+        "title_clean": "SC Covilhã x U. Santarém :: Estatísticas, Prováveis Escalações e Prognósticos :: Liga 3 Placard Série B 2026/27 - ogol.com.br",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
