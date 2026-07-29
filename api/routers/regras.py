@@ -44,6 +44,12 @@ def criar_regra(body: RegraCreate):
     conn = get_connection()
     cursor = conn.cursor()
 
+    # Verificar duplicados
+    cursor.execute("SELECT Regra_ID FROM dbo.Regras WHERE Descricao = ?", body.descricao)
+    if cursor.fetchone():
+        conn.close()
+        raise HTTPException(status_code=400, detail="Já existe uma regra com esta descrição.")
+
     cursor.execute("""
         INSERT INTO dbo.Regras (Descricao, Estado)
         OUTPUT INSERTED.Regra_ID
@@ -79,3 +85,21 @@ def atualizar_regra(regra_id: int, body: RegraUpdate):
     conn.close()
 
     return {"message": f"Regra {regra_id} atualizada para '{body.estado}'."}
+
+
+@router.delete("/{regra_id}")
+def remover_regra(regra_id: int):
+    """Remove uma regra automática."""
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT Regra_ID FROM dbo.Regras WHERE Regra_ID = ?", regra_id)
+    if not cursor.fetchone():
+        conn.close()
+        raise HTTPException(status_code=404, detail="Regra não encontrada.")
+
+    cursor.execute("DELETE FROM dbo.Regras WHERE Regra_ID = ?", regra_id)
+    conn.commit()
+    conn.close()
+
+    return {"message": f"Regra {regra_id} removida com sucesso."}
