@@ -129350,5 +129350,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE0tN01rcThUcm4zX3pXeFhPazhCUzM1X1Yta3VtUzhoSHN3cEEzc1MyNG9iMWxkR19KTHRTNnBrOHFlbUR4cjFaSV94Z1pPY21mbGxubnR5Rl90RENEYkpWVjJnNVhYbi1wWmNr?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 19:30:00 GMT",
+        "title_clean": "COVILHÃ INSTALA CONSELHO MUNICIPAL DE EDUCAÇÃO PARA FORTALECER A ESTRATÉGIA EDUC",
+        "clean_text": "COVILHÃ INSTALA CONSELHO MUNICIPAL DE EDUCAÇÃO PARA FORTALECER A ESTRATÉGIA EDUC. Foi instalado, nesta terça-feira, dia 21 de julho, no Auditório Municipal, o Conselho Municipal de Educação da Covilhã (CME), órgão de consulta, articulação e acompanhamento da política educativa a nível local e que integra representantes políticos, cooperação com os agrupamentos de escolas, escolas não agrupadas, entidades institucionais, associações de pais, associações de estudantes e outros parceiros sociais. O Conselho Municipal de Educação tem como objetivo analisar e acompanhar o funcionamento do sistema educativo no concelho, propondo as ações consideradas adequadas à promoção de maiores padrões de eficiência e eficácia do mesmo. No âmbito das suas competências, cabe ao CME apreciar os projetos educativos a desenvolver pelo Município, bem como adequar as diferentes modalidades de ação social escolar às necessidades locais com particular incidência nos apoios e projetos socioeducativos, na gestão da rede de circuitos especiais de transportes escolares e na alimentação. Compete ainda a este órgão analisar o funcionamento dos estabelecimentos, refletindo sobre as causas das dinâmicas identificadas e propondo medidas estratégicas direcionadas para a promoção do sucesso educativo e eficiência do sistema. Durante a sessão de instalação, o Presidente da Câmara Municipal, Hélio Fazendeiro, reiterou que a Educação é uma prioridade central e estratégica da ação autárquica. Na sua intervenção, destacou o compromisso do executivo em trabalhar de forma articulada com a comunidade educativa, promovendo a equidade, a melhoria das condições das escolas e a igualdade de oportunidades para todas as crianças e jovens do município. Com a formalização do CME, a Autarquia reforça o canal de diálogo e cooperação com todos os parceiros da comunidade educativa, promovendo uma visão participada e contínua para o futuro da educação no concelho. municipiodacovilha atecerofuturo",
+        "keywords": [
+            {
+                "keyword": "instala conselho municipal educação",
+                "score": 0.8141
+            },
+            {
+                "keyword": "conselho municipal educação objetivo",
+                "score": 0.7947
+            },
+            {
+                "keyword": "conselho municipal educação",
+                "score": 0.7779
+            },
+            {
+                "keyword": "municipal conselho municipal educação",
+                "score": 0.7499
+            },
+            {
+                "keyword": "municipal educação objetivo analisar",
+                "score": 0.7419
+            },
+            {
+                "keyword": "sociais conselho municipal educação",
+                "score": 0.7284
+            },
+            {
+                "keyword": "municipal educação objetivo",
+                "score": 0.7216
+            },
+            {
+                "keyword": "instala conselho municipal",
+                "score": 0.7002
+            },
+            {
+                "keyword": "municipal educação",
+                "score": 0.6955
+            },
+            {
+                "keyword": "articulada comunidade educativa",
+                "score": 0.6624
+            }
+        ],
+        "source_name": "Município da Covilhã"
     }
 ]
