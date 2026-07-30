@@ -128450,6 +128450,194 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxQRFRtbU1pWWt5bERldU5LV3VRd0pqTUIyU2pCYzVDc3JCdGdtc2tMZlpKbjZ6YTBUSklVMkpBY01KTGVUWkxqT01XZC1TQ2Nma052SFdRQ0g5X3FTWHdaeE5QTzNhdmJQeTRpVlVUZm1xcDA4dVd0SlBFQVktUzVReWZNOVVPMEZSVVBPYTZMSE5NTXZlSGc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 14:49:46 GMT",
+        "title_clean": "Mercado valoriza Pêssego da Covilhã - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Pêssego da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Mercado Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Feira de São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxNcEZtX2JhdlRPcEU4TTdrV2J4S2RQUkREbjFlZDZ6Q0hmc2FXYWpOSVIyM3VxS21hWm5fc1EzeTVPTlQzdEIxVUQxb0JNMmt6QWtjTW5FdUw5T0xNdXhtYjl5WGgtX3ZRdzAzRnk1V2pYQkUyUXduMkRCOG9nMjF6bjFpck1zdmFjc3d3WTh2WWhZYlN1eEI5NDdSQmZNZ9IBngFBVV95cUxNcEZtX2JhdlRPcEU4TTdrV2J4S2RQUkREbjFlZDZ6Q0hmc2FXYWpOSVIyM3VxS21hWm5fc1EzeTVPTlQzdEIxVUQxb0JNMmt6QWtjTW5FdUw5T0xNdXhtYjl5WGgtX3ZRdzAzRnk1V2pYQkUyUXduMkRCOG9nMjF6bjFpck1zdmFjc3d3WTh2WWhZYlN1eEI5NDdSQmZNZw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 03:58:42 GMT",
+        "title_clean": "Story - GOLO! Moreirense, Walterson aos 37', Moreirense 3-3 SC Covilhã - vsports.pt",
+        "entities": [
+            {
+                "text": "Walterson",
+                "label": "PER"
+            },
+            {
+                "text": "Moreirense",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlFZUmVuckFyVUVMZ1lmWlRHUlVOc0tHUjN2VzQ3VW5ZdWhqcFoyanM1RW00UE8tSjdrQ3ZaNUhQc3YyX0gzY05Gc3NKY0NLN2NoV0cxMUxkTDhWRmpCVnQ5d3FBcWNLS2d2T3NOTlBWbjVGTUJ4RGVvSkE2NE1HM0dEMGxKbkphYnFUTzZBU3lLXzdnT0ROUnVsdzd2SVZIMEp5RjRVei0zZlN0RUxKMDFiLWJqX1F1R0ZDN2FwdlJseldPWlZVamphQV84TDFzZFFQR1pnd9IBsgFBVV95cUxPRjJqUDVBcTZ2bThXUlBhOTRYUURuVmdab2loRkZXYjN0VS1GS1F1cC0zT1p2YXNtUjd0LUdURi1yS0Z4MEtYclBPUkdBNWRoaGhkWUZLT2NmUU9fUW5QM19OTGVLM25SajJ6STQ1cHROWV9ub2dURktSdVVWblV5U0E1X2EtYkQyQzhsLXpsaTF0SUlFanNfb0NHOExYLXdkQXljVXlXY1JKbEpTazVZRzh3?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 16:18:51 GMT",
+        "title_clean": "Oficial: Sp. Covilhã contrata Rodrigo Mendes - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "LOC"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Torino",
+                "label": "ORG"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Portimonense",
+                "label": "ORG"
+            },
+            {
+                "text": "Natura Hotels",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "José Manuel",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxNNlp5Zi1pWG5lQUk1SlU3NngwTUhBZjhvSWI4RHJZbmk2RzNIU1ZvX09CZ2VZa21YbG1UMVc1UHZWZXdZSjE1dFJPcmhEdlcxRVA5eXNtYi1PMFhra1JDcFprZ3hXMS03bHNvUDRHOHh0WVhsWlBubWpfbkVKOTJBenVsbEx6bjZzZ0ZQdllPbUw0dDd6bmJZMFN4RUtRVWZFMHVuMXdkLV82TXRfU1JrN2l3MXk0NTZ4V0lJQ0dR?oc=5",
+        "source": "news",
+        "created_at": "Thu, 23 Jul 2026 15:33:39 GMT",
+        "title_clean": "COVILHÃ: Cartão Branco no Europeu Universitário de Andebol reconhecido com Prémio Internacional",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "European University Sports Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão Organizadora do Campeonato Europeu Universitário de Andebol",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Académica da UBI",
+                "label": "ORG"
+            },
+            {
+                "text": "AAUBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Federação Académica do Desporto Universitário",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "European Handball Federation",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Salerno",
+                "label": "LOC"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "João Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Bernardo",
+                "label": "PER"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
