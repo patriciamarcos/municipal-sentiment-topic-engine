@@ -3372,5 +3372,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vaa44l",
+        "source": "reddit",
+        "created_at": "2026-07-29 21:45:23",
+        "title_clean": "Devo ir estudar cinema para a ESMAD ou para a UBI?",
+        "clean_text": "Devo ir estudar cinema para a ESMAD ou para a UBI?",
+        "keywords": [
+            {
+                "keyword": "devo ir estudar cinema",
+                "score": 0.7277
+            },
+            {
+                "keyword": "ir estudar cinema",
+                "score": 0.7095
+            },
+            {
+                "keyword": "ir estudar cinema esmad",
+                "score": 0.6941
+            },
+            {
+                "keyword": "estudar cinema esmad ubi",
+                "score": 0.5952
+            },
+            {
+                "keyword": "estudar cinema",
+                "score": 0.594
+            },
+            {
+                "keyword": "estudar cinema esmad",
+                "score": 0.5544
+            },
+            {
+                "keyword": "devo ir estudar",
+                "score": 0.5229
+            },
+            {
+                "keyword": "cinema esmad ubi",
+                "score": 0.5011
+            },
+            {
+                "keyword": "ir estudar",
+                "score": 0.4894
+            },
+            {
+                "keyword": "cinema esmad",
+                "score": 0.4587
+            }
+        ],
+        "source_name": null
     }
 ]

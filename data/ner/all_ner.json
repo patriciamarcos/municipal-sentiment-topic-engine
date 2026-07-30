@@ -128006,6 +128006,450 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdrZzVzT050cU1laHA2dE9LVk0yV3NtZXkzZ1BjaTBKU3cyODVwRUg2M2xLMjM1U0FhQXU5cHNTQk5ReS14OGVqTXdXb2tib1BCOVlOM1dCQU1vQWprcm91Qno4OU9zbS1DWllzU2ZrTzN4SkRUYUpQNjd6R0FjdXd6YW5ZMTY1R2NrbDk4NXF2ZDFjTkFVN2Uyc1VMNUdMTlpxMWxYSmNRdw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 11:02:44 GMT",
+        "title_clean": "Covilhã faz queixa-crime contra atos de vandalismo e ódio - Observador",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Leitão",
+                "label": "PER"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho Municipal de Segurança e Proteção Civil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjU1NlBjRkxUYTBySHdVNmVUaVpJVGpiNDJjN2RDN2JQRjVMNkhsX2JWWnBZb0RVWGp3RUtsU2xTdGpyZFlVakZocktGbm5jVTBXN0VyMGxfRUR4eEhKNEdnYlkta1phLWE1cTluRHlSQk5xWkViRHk5TWhxdnk1S3hkOTdqR1QwUWFRUTRLNmN1bkJOSmFTOWlMQS15emhsLVd5c0FOdFZBWW5qRGtrdFVn?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 18:03:36 GMT",
+        "title_clean": "Jovens lusodescendentes europeus marcam encontro na Covilhã de 1 a 9 de agosto - Observador",
+        "entities": [
+            {
+                "text": "Cap Magellan",
+                "label": "ORG"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Bélgica",
+                "label": "LOC"
+            },
+            {
+                "text": "Dinamarca",
+                "label": "LOC"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Luxemburgo",
+                "label": "LOC"
+            },
+            {
+                "text": "Suécia",
+                "label": "LOC"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Paris",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundação António Pargana",
+                "label": "ORG"
+            },
+            {
+                "text": "ASPPA",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação dos Pós-Graduados Portugueses na",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Zeca Afonso",
+                "label": "ORG"
+            },
+            {
+                "text": "Bruxelas",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugisisk Forening i Danemark",
+                "label": "ORG"
+            },
+            {
+                "text": "BomDia.lu ASBL",
+                "label": "ORG"
+            },
+            {
+                "text": "Ung Faps",
+                "label": "ORG"
+            },
+            {
+                "text": "Aequalitas",
+                "label": "ORG"
+            },
+            {
+                "text": "AFS Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho Nacional da Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMidEFVX3lxTE1ueFhWWkJTZlhoT01sVTJ2cUZPaklGbWZsLVJ5VmxfQXJ3SnZwdU5YY3l5UFpsSEpNZ1k1VktpVkpyOW5VLVhLVmlGRnhXblhUazkwRHhXOElyTm0wejBTR3JYRm9IVXI3UjRXRUxWQ2VKSkVw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 10:00:00 GMT",
+        "title_clean": "Jovens lusos encontram-se na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQaW9FVHFxYmZNVjZnSnpfS3lqS1RaNzdfSWI3SVpNeG1JYTRqRmk1aTVXRXR0c1VoSndILVoxV296SEYtVUJkLTJJbHA0ZUNaZExSLUR6ZFVSUnlBMVY2VHhfWWFnVnpNbWJDcWJqVDVyTWYwRWRXNDVXYVM2b0w4VVk5TlhhM1lXN01xZHV1Q3c0NzlNdDZYX2ZCdWpWVXpHLXlvdUJZVmxfRzlvSHhNRzgwOVIyMmvSAbIBQVVfeXFMT0YyalA1QXE2dm04V1JQYTk0WFFEblZnWm9paEZGV2IzdFUtRktRdXAtM09admFzbVI3dC1HVEYtcktGeDBLWHJQT1JHQTVkaGhoZFlGS09jZlFPX1FuUDNfTkxlSzNuUmoyekk0NXB0Tllfbm9nVEZLUnVVVm5VeVNBNV9hLWJEMkM4bC16bGkxdElJRWpzX29DRzhMWC13ZEF5Y1V5V2NSSmxKU2s1WUc4dw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 16:21:25 GMT",
+        "title_clean": "Oficial: Sp. Covilhã contrata Rodrigo Mendes - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "LOC"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Torino",
+                "label": "ORG"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Portimonense",
+                "label": "ORG"
+            },
+            {
+                "text": "Natura Hotels",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "José Manuel",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzRVZ3ZmQXYwU1I0aVpYNWhWRHFjT3dvYXhIM3NZSmRtd2U3SHdnM0RIMXhvbmRieTcxYVR2RnlhU2hCblA5Mks1RHR2SHVOZ05FMGxiWm03dFhXU3YtcU1VS194Y0lQS1BIM1YzWW5IWm1NZjNaVXZiNDcyNE83MFhCSlBwekxVcngxak9XeUpGbGkydlk4UVdPTjk4WjhKTU91RDgzVEZfemtxeTdZZ2pVN0laSU5oc3dZOGNCRVhTU3Y2?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 12:47:56 GMT",
+        "title_clean": "CM Covilhã aprova apoios ao património religioso e manutenção de jardim na Boidobra",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja de São Tiago",
+                "label": "LOC"
+            },
+            {
+                "text": "Junta de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Estado português",
+                "label": "ORG"
+            },
+            {
+                "text": "Boidobra",
+                "label": "ORG"
+            },
+            {
+                "text": "Fábrica da Igreja Paroquial",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja de Nossa Senhora de Fátima",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxQX0llWUZQNnZzU1RUcnNXRU10eldMQU9QSmFtYUtlUXRkZ0lhRUJQVlZvWXRkWEpOOXByYlRISWxQaUg5dnlGOS1wSHJwVVdnc3RiQnBHZjc4amR6N1NrRlVwWHUzT0JzQWJlV1c1dUM5cE9UUm1uOERlejRhazMwd0htUGZxWVpsY2hKWE8tTjNxQnkzRHU2WEZWcWJiUQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 14:02:51 GMT",
+        "title_clean": "Peça de teatro “Auto de Exortação da Paz” em digressão na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "PER"
+            },
+            {
+                "text": "José Saramago",
+                "label": "PER"
+            },
+            {
+                "text": "José Carretas",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Carolina Gandarela",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Corono",
+                "label": "PER"
+            },
+            {
+                "text": "Sílvia Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Sónia Botelho",
+                "label": "PER"
+            },
+            {
+                "text": "São Jorge da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUlrZGJHNnZYLTF4UlV2S2RHaE1hcUJXUEFOTGdwNjRieWFocS1hTkEtNXYtcUhDMkc0czl2WThmb3gxR2ZGVmhzY3NsSVVhMmk2LWFIQ0JseGhvalNyOHpKZnlyai1BMkJGaDBGLW12UWlLamJUUXhzY0ZWcEM5b3AzbU9ROFhIY29RZ1FHS2dwZ09mVHJVNDNmZFU2bVN3d1plUUwzZkt6OTlIbS1iZEdWZVBFSjVnV2NtNk54MGRtckQwWW56X0pGWlBLRnFpQWs0dzBGMzlaOXJ1Uk1ONw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 09:39:09 GMT",
+        "title_clean": "Covilhã abre consulta pública do regulamento de apoio às freguesias; PSD critica falta de critérios fixos",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Simões",
+                "label": "PER"
+            },
+            {
+                "text": "Executivo",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Vereador",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDFUc0hPa0xNdXhuNGlpTXRmblFPR1pNQVA1MGpXRGVTZ0lMVVRCZkZjS1dOa3NhdkRQa0w4LWRSczJfY3hKSHFhNmw1Y3FPZjYxTjRncEJMUXl3eEZ3NXNEZWFzbnBJck5tRGFNUjh5UDVGb09WbGVEWloyeUc3cHNlLTBQc2dsTzFoYzUxaTFJQi1LR21Vc2ZYcy1XYXcySkV6ZTBKNXZVOVpGUDIzR09LeEtQN0pEUEJwQldsN3h1dkcxRFRn?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 08:03:11 GMT",
+        "title_clean": "Sporting da Covilhã apresenta equipa aos sócios na sexta-feira frente ao Portimonense",
+        "entities": [
+            {
+                "text": "Portimonense Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal José Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxNemhkcTM1Xy1ZTVk1VEdRZzd0RnVkUHpmUmVodTVWdVFIVWpTWTVqSU9hSVpNa3R3TzZNZ3BzMTRhWjhpMzBaU21BelQwTnd6aDN4dFo1R05iU1RMQ1NrRGoyODFQZVpFUUFzaUNBbVZpSk1OOGxqbGdqdlItZlBjc3JhcThubkV5VWtyQlllRXFfbEZhNTNIWmRZakFSampKeDQ3QmEyanRZQ0Uy?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 14:15:03 GMT",
+        "title_clean": "Salvaguarda e restauro do património motivam criação de projeto na Covilhã - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Parkurbis",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque de Ciência e Tecnologia da Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Notícias",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclBvZ3JvX04yV2dVQ3dHdzhlNHB3RFJ5ZXFfdmtNaDh2S2ZGOHBVWTZpOVNBRzRfZXZPUzFicVVvcXdiSmx1NHJ4SU9aNHEyeXNobVdCRl9FVUtJeUxMdzVtdEdJektJTFlxbGhTU2JlSFloY3d4OVkxMDY1cjJhU1YxUzJmUVNSQXh4Tl9mQ29wcWtwam1uOFZZWlVvZkM4ZmRHdXVLeEZIQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 10:25:57 GMT",
+        "title_clean": "Covilhã faz queixa-crime contra atos de vandalismo e incitamento ao ódio - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Notícias de Coimbra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzdFOVI1WXZFc1JaZ2ZFdTBBTUpXQ1E5TWhmX1FmMmlBYkNkWnhNc0lIZUM1NldNeTk0a1AwcG1CeXdqVDhCQno1Nm9hcERRU2pjdDBvZHdJa0ZOUjJTY0Zfa0FtVXF3TmtjUWxoaTJxN0NpdHJQUGF2WlNUc2l3RGNBcmdLMy0zVmpiQVBfLW03bnNmb09HRkZKWURKbWx1OVNwQ1pmd1p0alcwVlo2aDZOMDFIWExMU0JiMG41ZUZnUWPSAcMBQVVfeXFMUHc3RTlSNVl2RXNSWmdmRXUwQU1KV0NROU1oZl9RZjJpQWJDZFp4TXNJSGVDNTZXTXk5NGtQMHBtQnl3alQ4QkJ6NTZvYXBEUVNqY3Qwb2R3SWtGTlIyU2NGX2tBbVVxd05rY1FsaGkycTdDaXRyUFBhdlpTVHNpd0RjQXJnSzMtM1ZqYkFQXy1tN25zZm9PR0ZGSllESm1sdTlTcENaZndadGpXMFZaNmg2TjAxSFhMTFNCYjBuNWVGZ1Fj?oc=5",
+        "source": "news",
+        "created_at": "Wed, 29 Jul 2026 15:12:58 GMT",
+        "title_clean": "Henrique Calisto: «O melhor doping são as vitórias» - Record",
+        "entities": [
+            {
+                "text": "Henrique Calisto",
+                "label": "PER"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "LOS GONÇALVES",
+                "label": "PER"
+            },
+            {
+                "text": "P. Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Europa",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -128924,6 +129368,18 @@
             {
                 "text": "Porto",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1vaa44l",
+        "source": "reddit",
+        "created_at": "2026-07-29 21:45:23",
+        "title_clean": "Devo ir estudar cinema para a ESMAD ou para a UBI?",
+        "entities": [
+            {
+                "text": "ESMAD",
+                "label": "ORG"
             }
         ]
     },
