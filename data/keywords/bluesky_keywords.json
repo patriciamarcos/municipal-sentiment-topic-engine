@@ -7223,5 +7223,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uwnkgeukcodbl7wm2dpo5cyb/app.bsky.feed.post/3mrx7clwbuc2u",
+        "source": "bluesky",
+        "created_at": "2026-07-31T14:51:00.190Z",
+        "title_clean": "",
+        "clean_text": "A opção não é entre ter um centro IT da Google ou um Airbnb. É gestão dentro daquilo que o território oferece e permite. Olhem para o data center a PT na Covilhã, que bem que resultou. Por outro lado, o Fundão é um exemplo positivo, mas que levou décadas a desenvolver e ter resultados.",
+        "keywords": [
+            {
+                "keyword": "daquilo território oferece permite",
+                "score": 0.4782
+            },
+            {
+                "keyword": "gestão dentro daquilo território",
+                "score": 0.4634
+            },
+            {
+                "keyword": "exemplo positivo levou décadas",
+                "score": 0.463
+            },
+            {
+                "keyword": "décadas desenvolver resultados",
+                "score": 0.4552
+            },
+            {
+                "keyword": "daquilo território oferece",
+                "score": 0.4444
+            },
+            {
+                "keyword": "dentro daquilo território oferece",
+                "score": 0.4403
+            },
+            {
+                "keyword": "gestão dentro daquilo",
+                "score": 0.4402
+            },
+            {
+                "keyword": "airbnb gestão dentro daquilo",
+                "score": 0.4396
+            }
+        ],
+        "source_name": null
     }
 ]

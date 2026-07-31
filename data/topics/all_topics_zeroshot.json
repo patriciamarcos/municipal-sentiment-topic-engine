@@ -109408,5 +109408,35 @@
             "Cultura, arte e espetáculos": 0.0177,
             "Eleições e política autárquica": 0.0171
         }
+    },
+    {
+        "record_id": "bluesky_at://did:plc:uwnkgeukcodbl7wm2dpo5cyb/app.bsky.feed.post/3mrx7clwbuc2u",
+        "source": "bluesky",
+        "created_at": "2026-07-31T14:51:00.190Z",
+        "title_clean": "",
+        "topic_id": 9,
+        "topic_label": "Obras e infraestruturas",
+        "topic_probability": 0.0952,
+        "low_confidence": true,
+        "all_scores": {
+            "Obras e infraestruturas": 0.0952,
+            "Comércio e lojas": 0.0753,
+            "Universidade e vida académica": 0.073,
+            "Tecnologia": 0.072,
+            "Feira e Festival": 0.0673,
+            "Turismo e património histórico": 0.0655,
+            "Saúde e hospital": 0.0649,
+            "Eleições e política autárquica": 0.0628,
+            "Ação social e voluntariado": 0.0627,
+            "Cultura, arte e espetáculos": 0.0544,
+            "Natal e festividades": 0.0525,
+            "Mercado": 0.0516,
+            "Transportes": 0.0504,
+            "Crimes e polícia": 0.0449,
+            "Incêndios e bombeiros": 0.0346,
+            "Desporto e competições": 0.0285,
+            "Habitação": 0.0227,
+            "Falecimentos": 0.0218
+        }
     }
 ]

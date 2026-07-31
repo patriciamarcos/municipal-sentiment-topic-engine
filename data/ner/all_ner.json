@@ -133093,6 +133093,30 @@
         ]
     },
     {
+        "record_id": "bluesky_at://did:plc:uwnkgeukcodbl7wm2dpo5cyb/app.bsky.feed.post/3mrx7clwbuc2u",
+        "source": "bluesky",
+        "created_at": "2026-07-31T14:51:00.190Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Airbnb",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "youtube_cr9cyh_W8jk",
         "source": "youtube",
         "created_at": "2026-04-25T23:13:37Z",
