@@ -128638,6 +128638,542 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0d6SnpNRk9XbmhubUw4OFBHNXNaVjhmQzRmVDFqUjRtZThVSDdjc1YwbmE2MEpFemo2aU5PRWU1NGY1Q0JaVHN3YkQycm5uVHZSMlNYX3d4b0llanlFTXBkSnJzZjNaMUxHZG1hQmc1Y2M4bHdRQ0VubFZ3Q0EwLTkzMlNFeW1pWVRDc2dXdzFrOW1fLVk4U3oteURkdlNoSHc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 14:28:00 GMT",
+        "title_clean": "Nova loja da JYSK na Covilhã já abriu. Tem descontos até 75% - nit.pt",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos Haba",
+                "label": "PER"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Lars Larsen",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFJoQ2dWS1pzT3o2cHcyTUNHS2xjQ2dsdUZGTDJJSmxIa1Nya2UzWFpHV2g2VXpxVm1BY1lLa2JLa2tQYlZoZjhhaUdIMUJWdmNkdFhRd2l0aXhnTVpRbHN5RTBrNEkzWTRlRFpVRXdGZ0VNcW1GakJDZHdrSUpTZ3NOcjRmWHJGTDI5LWV2SmxvSC1COFVwUFJZUXhVUGxKczM5cjg5TXhXZW5DbEHSAagBQVVfeXFMT2s4elVVOHA4X3p3YUJCT2JWMmNTVVZ6QkU4Um8xY2ZubzNSbzBucDRjVFU1VThCUTdXNlVkVGFJdnljWXBXbnpVN2VQYzdhVkx2MUlGWGZmSmU5eS1tRlpsSDd4dmFnOGZGS1BwcHEwaXB3LXRoUUM4TGNnQVZOaFdNNVo1aV9YQmZZWU9mVUtWU1BRUkNDak11akdwVFpvWXhmMm9oVWZS?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 16:08:40 GMT",
+        "title_clean": "Harruna Idriss reforça o Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Harruna Idriss",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Elvas",
+                "label": "LOC"
+            },
+            {
+                "text": "Amarante",
+                "label": "ORG"
+            },
+            {
+                "text": "Elvas",
+                "label": "ORG"
+            },
+            {
+                "text": "Esperança de Lagos",
+                "label": "ORG"
+            },
+            {
+                "text": "Vizela",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Portimonense",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxQUVhuY1N2LWxyd05jWWJTeElTUEdVd3BLZkhnbTJrYlB3MWlvRnFGdllxMWJjb1RtamdZTG8tdmRXRmpxeEZrWExJM0Nyc29uOE9ETE84UmZzRzdjWFBxa2xwdm05VWM3REswQkRqVDk5by1VVjg5bnBrZDFScmhIUEtR?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 09:00:00 GMT",
+        "title_clean": "Festival Sete Sóis Sete Luas em Castelo Branco",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Xanthoula Dakovanou",
+                "label": "PER"
+            },
+            {
+                "text": "Praça Manuel Cargaleiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Grécia",
+                "label": "LOC"
+            },
+            {
+                "text": "Balcãs",
+                "label": "LOC"
+            },
+            {
+                "text": "Mediterrâneo Oriental",
+                "label": "LOC"
+            },
+            {
+                "text": "Paris",
+                "label": "LOC"
+            },
+            {
+                "text": "Ministério da Cultura",
+                "label": "ORG"
+            },
+            {
+                "text": "Armand Amar",
+                "label": "PER"
+            },
+            {
+                "text": "Richard Galliano",
+                "label": "PER"
+            },
+            {
+                "text": "Ballaké Sissoko",
+                "label": "PER"
+            },
+            {
+                "text": "Efren Lopez",
+                "label": "PER"
+            },
+            {
+                "text": "Monte do Índio",
+                "label": "LOC"
+            },
+            {
+                "text": "Markeliñe",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXFlck9iazA0U0p6UFBpLWw2UVhzek14Ymw2dTdaMWYzM2FmQk1QVUNPWjVPLWVTY3NlS0pnREJhakh5Rk1vclhmTlJTczlnSVJDYUdOam9UekRTX0VjOUNIRUkxeUY2MnpqU0VneGMwMzRTUHZKOWVxMmlkajNaMkVKbGRCQk9iWW5xYjd6c2lTb2FxWVAzelhwRk01bE9KaVpBRVlnTlVJSnN5?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 12:34:12 GMT",
+        "title_clean": "2,4 milhões de euros para obras em Celorico, Covilhã, Gouveia, Manteigas e Seia",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxPaExZVjNvbkY4anpjRTk0VjFmYXBNeTVLMC1Zb0JtekFhU2JMemEwWFBLRlRpVVh2TGdJVVZmRVBFS1FELWVOUjdRWjJFa3pFb2JUSzBLMl9xck1Pc3dKVGdHWENrdUtGTGwtYmdPNzVoUGFIUE1ZWWNybWo0VGNMWWlZMGtEV3h3SV9OSlA1SDZjSFdTWmY0dC1EemZWUEZUU2EtQTI3bEFOaGpPaUxkVTVBcGI?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 13:13:57 GMT",
+        "title_clean": "LEROY MERLIN investe 3,7 milhões na Covilhã e cria 36 postos de trabalho - radio-covilha.pt",
+        "entities": [
+            {
+                "text": "LEROY MERLIN",
+                "label": "ORG"
+            },
+            {
+                "text": "Loja Essencial",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Catarina Nunes",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOFNlRE1SRUU0aXhUV2dDeXdVV0hmTG9ZTkRLVFJPZXpEUFVkY19IQ21TUUtCdG9JLVIzMzM4dnE2ZGtiZElGQXJYSkRzQm9Fb0l4X2p2ZkU5UGVYZVBhemhmbG4tbmFDT3hiT1RaRnNuT1A0VUc1MHFaTGxSUEY4MkpHVVlBSmtuU2N3QXIzeE9aVmxQWjRQb0xWbUFyUXpIUU1zMmNUWmxRbkRaN1htMlFnS09uUWZfRHRSQktsaE9qOUZ2SGpucWtMMzRWVVd5NVVRcEhpMjk?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 10:02:53 GMT",
+        "title_clean": "Covilhã recebe 50 jovens lusos de sete países europeus em intercâmbio dedicado à inclusão e à arte - radio-covilha.pt",
+        "entities": [
+            {
+                "text": "Cap Magellan",
+                "label": "ORG"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Bélgica",
+                "label": "LOC"
+            },
+            {
+                "text": "Dinamarca",
+                "label": "LOC"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Luxemburgo",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Suécia",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "LOC"
+            },
+            {
+                "text": "Lurdes Abreu",
+                "label": "PER"
+            },
+            {
+                "text": "Francisco Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Conselho Nacional de Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado da Inclusão",
+                "label": "ORG"
+            },
+            {
+                "text": "Clara Marques Mendes",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxOajI1M3FrTEdMMzVtQldJVXdLNDVqXy15MXd0XzFWQUU4T2FKaDl2QzEtRzQ2eER5Ujc1M0I1b0JfcGNwODdtY09CV3lYR2plUEVyaVpoX0ttRl9nZFRSQUZJeFlXZFdaakljdTh4YVFncjlBa0lkUThGZXVFOXprYjdIakw1ZjRKckhaRHVCOEVVUy1BREk4aHFuUnpfdUJVODdtVl9BOUVIZ1lVYnc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 15:19:28 GMT",
+        "title_clean": "Leroy Merlin reforça presença na Beira Interior com nova loja Essencial na Covilhã - Grande Consumo",
+        "entities": [
+            {
+                "text": "Leroy Merlin",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Catarina Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Alameda Pêro da Covilhã, loja no 9",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYVpzUGlBRVpQYmR4cHJaaWp5b3A1MVBWLUd1dlZkWE4zRlVmd2lmdm1ycFhyaXNoZ2htVHFLTExKRVRjZDFVWF9qMXdxc2VUelgyY1p3UGdkeW5SbFBhcGFiSEU5SmJaVEoxUDRXajh2Tm1oVzM3X2pLdnQ2VVdXd2Z6WW5rQXdGbXp6Rm5sb25CbWpUUWhra2NQbVE4VmhlZFhKOGQxamZmMU1YMmlvMjFGekpQcFRLMVJsbFozTGozeGhZbU9XdUVacWJMQjdwME1FZklB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 15:45:00 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting da Covilhã reforça plantel com quatro contratações para 2026/27",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Estrela da Amadora",
+                "label": "ORG"
+            },
+            {
+                "text": "Fábio Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "LOC"
+            },
+            {
+                "text": "Harruna",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMidEFVX3lxTFBtT0UwTTMtTUlsZHdoYWxmTG5BWWFJOTBPRENZUlYzR1ZHR3BGWVppNnU3c2t6MnN1azFlRGVvcGxGRnNTQVhrcnNnWllERzF5b0JQUzZUTGNlZXBlOHVxak5oeDk5dVVHZXoxSl9Ic2NuNEJV?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 17:30:25 GMT",
+        "title_clean": "LEROY MERLIN abre nova loja na Covilhã com investimento de 3,7 milhões de euros - Echo Boomer",
+        "entities": [
+            {
+                "text": "LEROY MERLIN",
+                "label": "ORG"
+            },
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZjNKNXVuVHFCNmVRdTJnS05EVFJIa3J1T0daZmxVZm9vVHFOUEt2Z2FuTVVrLXlQckZVZ0xMZ2M0Y0h4NnU1NGdldTBLOGthc3ZwZEVOX01Vc0xCMTFtdjV1elhlMjBVTlhraG9KMA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 11:37:21 GMT",
+        "title_clean": "JYSK inaugura 39.ª loja em Portugal no City Center Covilhã - Echo Boomer",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Echo Boomer",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos Haba",
+                "label": "PER"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNemJzdW5VOFExTE9DcEJnTnF1cl84SWltY3NxOFRmaHdLSzhOSk10dTFyYXE5ai1sUUlkSkFuWGwzRmk0TzZ3Q2x1eDNUbXJZV0lTNmRlMTQ4YTVsYjA5SXR1NlBWYm9WNFdraHhtNnMxYTVRSUstOENEd3dhSVN4VUZPQ0ZERTVmY21KRVdTWVdxdFFjQm9nU2tLS2hNemt4NUhEZm1yV2FNdDNzclBMYVBraWpHeUhB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 15:49:57 GMT",
+        "title_clean": "Mercado of Sport's: Sporting da Covilhã reforça plantel com quatro contratações para 2026/27",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Estrela da Amadora",
+                "label": "ORG"
+            },
+            {
+                "text": "Fábio Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "LOC"
+            },
+            {
+                "text": "Harruna",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGJTZ0JRQ2VVd3hSM3Y3QVRuR29KV0I0NUxwSUJDeFRPaGVVeFdPNFlPVXlianc4SEtpVFBKYnhjdU10SkM3RU1yVlFjQl9yYV9ORHd6a2Z2WjdLNEV1cjMyLU1ad1RQTm9CV2VfanY1VzlXb25RbThhNVVhZ3RNV2c1YlhtT3piMmxmTHh2eERqd1E3bjZTVE1vRHVlanBnczBCNXkxQWdfRFpIMnJvTEpxWHE1ODh6VUhmRXVXY3h4ZWxvU183UQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 10:01:59 GMT",
+        "title_clean": "COVILHÃ: UBI integra novo Consórcio de Escolas de Ciências para reforçar cooperação científica nacional",
+        "entities": [
+            {
+                "text": "Consórcio de Escolas de Ciências",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Açores",
+                "label": "LOC"
+            },
+            {
+                "text": "Algarve",
+                "label": "LOC"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Évora",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Madeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Trás-os-Montes",
+                "label": "LOC"
+            },
+            {
+                "text": "Alto Douro",
+                "label": "LOC"
+            },
+            {
+                "text": "Reitoria da Universidade do Minho",
+                "label": "LOC"
+            },
+            {
+                "text": "Faculdade de Ciências",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélder Vilarinho",
+                "label": "PER"
+            },
+            {
+                "text": "Fernando Alexandre",
+                "label": "PER"
+            },
+            {
+                "text": "Departamento",
+                "label": "ORG"
+            },
+            {
+                "text": "Química",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Matemática e Aplicações",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade do Instituto Dom Luiz",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE1jcUNEbVJ6NXVQdHhOVk9FUEZtMFlDVXQ3VE9EaDVOUWptOVQ1NER3RkQ5RXIxM3lpV3BkbWZRUHFaNlBKOHBkRFhnRVZ5WGxBdkpTZDRsblRGRGQ0aFBoaW5TbWpGSG1vckhRa3JmXzlkclpZSXp5S05RRDEyZw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 14:09:56 GMT",
+        "title_clean": "SC Covilhã 2 - 1 Atlético CP :: Resumos :: Videos",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
