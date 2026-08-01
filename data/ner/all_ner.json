@@ -133777,6 +133777,26 @@
         ]
     },
     {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mrzzfysycp2m",
+        "source": "bluesky",
+        "created_at": "2026-08-01T17:43:30.847739Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Do Carvalho",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "youtube_cr9cyh_W8jk",
         "source": "youtube",
         "created_at": "2026-04-25T23:13:37Z",

@@ -7265,5 +7265,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mrzzfysycp2m",
+        "source": "bluesky",
+        "created_at": "2026-08-01T17:43:30.847739Z",
+        "title_clean": "",
+        "clean_text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Vila Do Carvalho - Mato. Saiba mais em IRCovilhã FogosPT ⚠🔥",
+        "keywords": [
+            {
+                "keyword": "incêndio castelo",
+                "score": 0.6749
+            },
+            {
+                "keyword": "novo incêndio castelo",
+                "score": 0.6662
+            },
+            {
+                "keyword": "novo incêndio castelo branco",
+                "score": 0.6324
+            },
+            {
+                "keyword": "incêndio castelo branco",
+                "score": 0.6225
+            },
+            {
+                "keyword": "novo incêndio",
+                "score": 0.6222
+            },
+            {
+                "keyword": "vila carvalho mato saiba",
+                "score": 0.6037
+            },
+            {
+                "keyword": "vila carvalho",
+                "score": 0.5402
+            },
+            {
+                "keyword": "vila carvalho mato",
+                "score": 0.5064
+            }
+        ],
+        "source_name": null
     }
 ]
