@@ -129834,6 +129834,362 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMnFOYWpUZnkyUFVyekM4cGt4TTN2UHNVN3lQRjlvRXpiRFVSU1hDblRLT2JIaGg5MXl5NU1raHY0blhYZzc0eFdPZlM4dW5wanJnSzBkaDgzSHpXcGppQTJqMVRNRmx2cnc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 31 Jul 2026 14:48:38 GMT",
+        "title_clean": "PLANO MUNICIPAL DE MERGÊNCIA E PROTEÇÃO CIVIL | CONSULTA PÚBLICA",
+        "entities": [
+            {
+                "text": "Edifício da Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Praça do Município, 6200",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLU9GR3E3WnN4aU5WMWU3VVhFZXEyaEhwZ3ItMmdYN1BIVFRLdzFkb0ljbXp3VVVWb2J2SHJoX0doV05VWi10X040V1VNQWNBdkgwOXcya3BvZlBSLUFxVkhvUXAtWlZJaFhuZGduMURQYnRpTW5EYVVBOGdLNnFjTGJLRVFudmxlaVNGYmFSaFZpV1dKcmFsMDVHckZoZ3VVUEE3cUFkZ2FYelE2UGFwOUE3UU9IYWZueXpaZnpJWmdVa3FxaHAwRWlhTTFmMTEyUlFpS3RQV3lQb0x1X1lJTW4xRU1YUQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 01 Aug 2026 15:02:16 GMT",
+        "title_clean": "Covilhã: Sindicato alerta para perda de ambulância de emergência, Governo garante que resposta está assegurada",
+        "entities": [
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "STEPH",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministério da Saúde",
+                "label": "ORG"
+            },
+            {
+                "text": "Sindicato dos Técnicos de Emergência Pré-Hospitalar",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Nacional de Emergência Médica",
+                "label": "ORG"
+            },
+            {
+                "text": "Rádio Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Ambulância de Emergência Médica da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "ULSCB",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Unidade Local de Saúde da Cova",
+                "label": "ORG"
+            },
+            {
+                "text": "Executivo",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho de Administração",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgJBVV95cUxOTXJPbDdhTkloUVJyRkc2UjJKLWcxT0gzellVWnJENkVWSnpUT012YUZlNDZ3c0pFX0dGRVkwVlhHTlFncV9sZkpjQk5DQ2tqSWxGd2trbDFtazcyLVQzX08tYnY3RHlQMmpWaVF4T1FHd1IzaXJRcHM3SDBUZXBZRURMb0xPVkNYQUktMUdMMndwanBvcnJwcVBfV2diUE1rRUI1V0NYbHZzYm1xTWUwazFucjFhUmJjeXNxWVd3Nlo2VmFoWjRSajBCYnE0eDRIbktTcHl3dm5hNTVuaGJseUt5R1pGYkZKeERzbWpzMG05TW93bDlNOElVMm9OVnltUEh6UDlCZkw2eExNYkZRdEdteGFtZkRZR2RRdFRKNjdMSU9VVEJ3MVBoOXhhdEZJRGc?oc=5",
+        "source": "news",
+        "created_at": "Sat, 01 Aug 2026 08:35:49 GMT",
+        "title_clean": "Covilhã: 50 jovens portugueses, lusodescendentes e lusófonos de sete países europeus participam em intercâmbio para promover inclusão, identidade e cidadania através da arte - Agência Incomparáveis",
+        "entities": [
+            {
+                "text": "Cap Magellan",
+                "label": "ORG"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Bélgica",
+                "label": "LOC"
+            },
+            {
+                "text": "Dinamarca",
+                "label": "LOC"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Luxemburgo",
+                "label": "LOC"
+            },
+            {
+                "text": "Suécia",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "LOC"
+            },
+            {
+                "text": "Lurdes Abreu",
+                "label": "PER"
+            },
+            {
+                "text": "Francisco Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Direção do Conselho Nacional de Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado da Inclusão",
+                "label": "ORG"
+            },
+            {
+                "text": "Clara Marques Mendes",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxOVG1vdDczRnVLN0RKUG1XeUN0SHpsRGR5VDdPaUhEMXRyaXVzZjNrbkM4QTZvRi15U2pWVjAwMDhkTndRUTMzbnRZZVpPV2pVWFVHSkgwUVFFWEVXMXNsTDhfTEtjd2dKbkNJbl9fX2g4UlpfVG9va0VFWFhMUW04QkltVmljM2VnTmRIYmtlT01pOGxXQ0dHTE5oNHV4VHlkbENuaXhOMjVkQmMzMVE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 01 Aug 2026 09:40:06 GMT",
+        "title_clean": "COVILHÃ: Docente da UBI distinguido pela IEEE Computer Society - sapo.pt",
+        "entities": [
+            {
+                "text": "IEEE Computer Society",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Inácio",
+                "label": "PER"
+            },
+            {
+                "text": "George J. Proeller",
+                "label": "PER"
+            },
+            {
+                "text": "Instituto de Telecomunicações",
+                "label": "ORG"
+            },
+            {
+                "text": "Network Applications and Services",
+                "label": "ORG"
+            },
+            {
+                "text": "IEEE Access",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTVhMDE4Ym1pcmJTODlJRjc1aU1ReU1XbHRpUkxHOWllNUUtX0RFeVlUdWozTGowaFhObXBaVDE1bl9fbUppVng0Y1EyeXlRMEgyUWJYWlJZQThDMU5qeVJ0dWh3WC1HMHBmNm0yd1M2RFdvdUJPLWxiMjh4ZC1DVVFTTE1oekltd1l5emVrb09tT3R6TmppaXotY3lPT3lCMndwSTBweTQzODdCWXRN?oc=5",
+        "source": "news",
+        "created_at": "Sat, 01 Aug 2026 09:24:54 GMT",
+        "title_clean": "COVILHÃ: UBI encerra para férias entre os dias 1 e 14 de agosto - sapo.pt",
+        "entities": [
+            {
+                "text": "Biblioteca Central",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu de Lanifícios",
+                "label": "LOC"
+            },
+            {
+                "text": "Académicos",
+                "label": "ORG"
+            },
+            {
+                "text": "Divisão de Recursos Humanos",
+                "label": "ORG"
+            },
+            {
+                "text": "Divisão de Economato e Património",
+                "label": "ORG"
+            },
+            {
+                "text": "Divisão Financeira",
+                "label": "ORG"
+            },
+            {
+                "text": "Serviços de Apoio",
+                "label": "ORG"
+            },
+            {
+                "text": "Serviços de Informática",
+                "label": "ORG"
+            },
+            {
+                "text": "UBImedical",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVVIaWhJaGtmT2NoakkxMlI0Ri1aY2pRUUc1b1FvTGFTa2ZuSHJBMUxiWklRM24zZjQ1N00ybE1kSnA4bmdHaGFJbHZ0c3dVY1dKY1M2dE81N3M0Z2FYMmFid1ZYNFRyNGhTVWV1bkJBZUlvUVJSbkdxcjBUbUotY0RMeWhCMnh3RzRmY0Ftaw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 01 Aug 2026 15:30:52 GMT",
+        "title_clean": "COVILHÃ: Bouça Fest recebe noite de fados no dia 9 de agosto",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Fado Cale",
+                "label": "ORG"
+            },
+            {
+                "text": "Lara Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Leonel Barata",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Sario",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo Desportivo, Atlético e Cultural da Bouça",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1VwaFhzc2ZuMW5kTTI2MHVMd2RNQU9SYnV1ek1PQlBJam9mUEpMNXhDVnFTV2pqT0JseWlzSGE0OHM0RmJUSXg4dXFkSUVIQU1CSklTczgwSGxwTC1EQzZxU081azJWa253R0lUYUc1YmNpSEdodk9JWXRnTEM3NUtKczdodWJNSV9qR1VpdHZCS3B3OFVsdnlwbEVibkdyMTRGTW44VDNGbVU?oc=5",
+        "source": "news",
+        "created_at": "Sat, 01 Aug 2026 15:27:06 GMT",
+        "title_clean": "COVILHÃ: Bouça Fest recebe noite de fados no dia 9 de agosto - sapo.pt",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Fado Cale",
+                "label": "ORG"
+            },
+            {
+                "text": "Lara Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Leonel Barata",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Sario",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo Desportivo, Atlético e Cultural da Bouça",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJjeWk3YjR5UE9rNWZjRThtNkNGMjUtVmhfSzJsRUVRNUJFYTl6UDdUY3MzdFZyWXluSTZLTlZPRlZmbmtpMlNPcmswNDNqaGVZWDU4X1J0SHF2WjJYbjhyR3kzUktwcFBIUV90ejVrOHpUZ2N3b0JOYk1OV1lUWlZOeGQ1Sk9vR1RJWFZISnBYX00?oc=5",
+        "source": "news",
+        "created_at": "Sat, 01 Aug 2026 09:27:16 GMT",
+        "title_clean": "COVILHÃ: UBI encerra para férias entre os dias 1 e 14 de agosto",
+        "entities": [
+            {
+                "text": "COVILH",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Central",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu de Lanifícios",
+                "label": "LOC"
+            },
+            {
+                "text": "Académicos",
+                "label": "ORG"
+            },
+            {
+                "text": "Divisão de Recursos Humanos",
+                "label": "ORG"
+            },
+            {
+                "text": "Divisão de Economato e",
+                "label": "ORG"
+            },
+            {
+                "text": "Património",
+                "label": "ORG"
+            },
+            {
+                "text": "Divisão Financeira",
+                "label": "ORG"
+            },
+            {
+                "text": "Serviços de Apoio",
+                "label": "ORG"
+            },
+            {
+                "text": "Serviços de Informática",
+                "label": "ORG"
+            },
+            {
+                "text": "UBImedical",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
