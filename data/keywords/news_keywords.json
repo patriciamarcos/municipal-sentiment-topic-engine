@@ -132034,5 +132034,55 @@
             }
         ],
         "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEpXWXJQczZjSHhVUFgyVmtGVUxQTmpVWnlIZWZwT09VOGczTUNsR3dYcnQxWTAyRGhHSTdNSV9IejdqT3h1R2hoWk5sWWY0QVFtUEJQZTBLTHJPWXRHS0M1RlJxaGhuODBFUEhkSURuc0l1eDdidThieTZZMzJ2SjZGN2tuT3lJeWw5N2tIQQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 14:12:27 GMT",
+        "title_clean": "COVILHÃ: \"Que Mundo Maravilhoso\" chega à Galeria António Lopes",
+        "clean_text": "COVILHÃ: \"Que Mundo Maravilhoso\" chega à Galeria António Lopes. A Galeria António Lopes inaugura, no próximo dia 31 de julho, pelas 17h30, a exposição \"Que Mundo Maravilhoso\", da autoria do pintor Guilherme Ramos, uma mostra que convida o público a mergulhar num universo de cor, textura e criatividade, onde a flor assume o papel central da narrativa artística. Patente até 30 de agosto, a exposição poderá ser visitada de terça-feira a domingo, entre as 10h00 e as 18h00, apresentando um conjunto de obras que exploram a expressividade da pintura através de intensas combinações cromáticas, ritmos visuais e padrões vibrantes. A natureza surge como ponto de partida para uma reflexão estética onde a cor e a composição se transformam em elementos fundamentais da experiência artística. Um dos aspetos mais singulares desta mostra reside na relação estabelecida entre a pintura e a moldura. Longe de serem meros elementos decorativos, as molduras assumem um papel integrante de cada obra. Provenientes de mercados de segunda mão de diferentes países europeus, foram cuidadosamente recuperadas e pintadas pelo artista antes mesmo da criação das telas. Cada pintura foi concebida especificamente para dialogar com a moldura que a envolve, criando uma unidade estética em que ambos os elementos se complementam e reforçam mutuamente. Desta forma, a moldura deixa de desempenhar apenas uma função de apresentação para passar a integrar o processo criativo, prolongando a linguagem pictórica e enriquecendo a leitura de cada obra. Natural do Tortosendo, no concelho da Covilhã, onde nasceu em 1994, Guilherme Ramos desenvolve atualmente o seu trabalho entre a Covilhã e Lisboa. O interesse pelas artes visuais surgiu ainda na juventude, tendo frequentado o curso de Artes da Escola Secundária Campos Melo. Posteriormente, licenciou-se em Pintura pela Faculdade de Belas-Artes da Universidade de Lisboa e complementou a sua formação com uma pós-graduação em Curadoria de Arte na Universidade NOVA de Lisboa. Ao longo do seu percurso artístico, o pintor participou em diversas exposições em espaços como a Tinturaria, na Covilhã, e a Sociedade Nacional de Belas-Artes, em Lisboa. Paralelamente, desenvolveu atividade na área da mediação cultural em instituições de referência nacional, entre as quais o MAAT - Museu de Arte, Arquitetura e Tecnologia e a Trienal de Arquitetura de Lisboa. Com \"Que Mundo Maravilhoso\", a Galeria António Lopes volta a apostar na divulgação da arte contemporânea, proporcionando ao público uma oportunidade para conhecer o trabalho de um jovem artista que alia a experimentação estética à valorização dos materiais e da memória dos objetos, numa exposição onde flores, cores e molduras se fundem numa linguagem artística singular.",
+        "keywords": [
+            {
+                "keyword": "lisboa mundo maravilhoso galeria",
+                "score": 0.6702
+            },
+            {
+                "keyword": "17h30 exposição mundo maravilhoso",
+                "score": 0.6683
+            },
+            {
+                "keyword": "mundo maravilhoso galeria",
+                "score": 0.6635
+            },
+            {
+                "keyword": "próximo 31 17h30 exposição",
+                "score": 0.6607
+            },
+            {
+                "keyword": "17h30 exposição mundo",
+                "score": 0.6591
+            },
+            {
+                "keyword": "31 17h30 exposição mundo",
+                "score": 0.649
+            },
+            {
+                "keyword": "mundo maravilhoso chega galeria",
+                "score": 0.6449
+            },
+            {
+                "keyword": "quais maat museu arte",
+                "score": 0.6433
+            },
+            {
+                "keyword": "exposição mundo maravilhoso",
+                "score": 0.6306
+            },
+            {
+                "keyword": "maravilhoso galeria",
+                "score": 0.6252
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
     }
 ]

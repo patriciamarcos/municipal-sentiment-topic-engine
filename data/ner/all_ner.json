@@ -130358,6 +130358,66 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEpXWXJQczZjSHhVUFgyVmtGVUxQTmpVWnlIZWZwT09VOGczTUNsR3dYcnQxWTAyRGhHSTdNSV9IejdqT3h1R2hoWk5sWWY0QVFtUEJQZTBLTHJPWXRHS0M1RlJxaGhuODBFUEhkSURuc0l1eDdidThieTZZMzJ2SjZGN2tuT3lJeWw5N2tIQQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 27 Jul 2026 14:12:27 GMT",
+        "title_clean": "COVILHÃ: \"Que Mundo Maravilhoso\" chega à Galeria António Lopes",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Guilherme Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola Secundária Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Faculdade de Belas-Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Curado",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade NOVA de Lisboa",
+                "label": "ORG"
+            },
+            {
+                "text": "Tinturaria",
+                "label": "LOC"
+            },
+            {
+                "text": "Sociedade Nacional de Belas-Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Museu de Arte, Arquitetura e Tecnologia",
+                "label": "LOC"
+            },
+            {
+                "text": "Trienal de Arquitetura de Lisboa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
