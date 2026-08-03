@@ -130190,6 +130190,174 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOE8wRmJFdDJaeDJOOGY5a0paMXpMOE9jRGZMWDJadVQ0TWtoLVcyMkpaN1J0SEdub3pWajY5OEI3Z2l1T3h1VVpLdVRpU3JKT0F5Ull5bFo4QTRiV3dPcnkwYnc2eGVTVkJYOWJEajE4MGYtaTYtTmFKWlJjUUZqd05kOHdmN3FSUnJhXzN0S2JtX3gxU2pTNnVhQXZGREUxLURqazBGZkw1ZzBrUFFJQmpFVTItOVhkMnlwREVYcGJTRkdFdUlSV3lxUE5FTDVrTUI4?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 02:15:41 GMT",
+        "title_clean": "Verão no Centro Histórico da Covilhã arranca em 07 de agosto este ano no feminino - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Centro Histórico da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Minta & The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Francisca Cortesão",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Afonso Cabral",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Menezes",
+                "label": "PER"
+            },
+            {
+                "text": "Débora King",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "GER Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico Freguesias",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlkyc01xVmpWeFJiVHAxWWpLRDI5cm9ZV0w1ajJNVjA0N0lGOUdLUFB5TnFGaVpLYXMtcE5jZ0hFc1NOM2hCcGRiZzJSV1dFcmJlVW9RZkFzdHNLREtoYm5ja2c1dGRhbXJ6c21wZVhyTnJhTTlHckRtVlE3RVZxWWdWOWgxVGc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 02 Aug 2026 08:34:00 GMT",
+        "title_clean": "Boidobra volta a ter respostas sociais para idosos",
+        "entities": [
+            {
+                "text": "Centro de Dia",
+                "label": "ORG"
+            },
+            {
+                "text": "Serviço de Apoio Domiciliário",
+                "label": "ORG"
+            },
+            {
+                "text": "Cerzir Afetos",
+                "label": "ORG"
+            },
+            {
+                "text": "Plano de Recuperação e Resiliência",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta de Freguesia da Boidobra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN0RMN09lRUVNSk55YzdLeFJEYXJuT0VYY3M0QnNHZ3VqdjhiU21JNUlqOHZJTVotaHUyd0hpZmtKWlpOQVFWRC1KNEdrZUlpTXdxTlJDQXlWYWNEdFJUcDZqU3ZHcjljWWhUZTYwZ3JkZnpIWkpkdmZzNGxqYWNlU3pSR1hCTmZhQl9sYXFmS3lMZlJrNUZhb2ZwMlMtMnpVQzBzMi1pZHdPZWJQcmRIdXFqTU5rOVJEaHdpUTRzY2J0WjlvcExHQkJpOW5zZXJIdVFzWXY3bjhsMGc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 02 Aug 2026 11:12:08 GMT",
+        "title_clean": "Câmara da Covilhã manifesta preocupação com futuro da Escola Profissional Agrícola Quinta da Lageosa",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Profissional Agrícola Quinta da Lageosa",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Conselho Municipal de Educação",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola da Lageosa",
+                "label": "ORG"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado da Administração Local",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado do Orçamento",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2ZwRUZjMWdCeFRlUGFqdjFKeHQ4aHlxREN1bXBnTzFDQVdzcUN5V3Q0bVpMMGtZVUk5eXdYdUZtZUJXZW50bVFoLTVkZ3ZGNlFXRnFMQnhuU05sbnM1NFBBYzVlN29YdW54OGo0Qm5kcEswSFByVGRhXzd5QTlDRWtCV21WUjdWbVhXN0NSa0c4YjVMbFNnczFpbTJad0prVmxyb0pvem92bnFnSkp1cHk3STJkWVNadXlvdUJpU19vMDBPY3ZhYXB2UVVJUkhKcVhEcA?oc=5",
+        "source": "news",
+        "created_at": "Sun, 02 Aug 2026 09:33:49 GMT",
+        "title_clean": "COVILHÃ: Festival da Juventude anima Boidobra com uma semana de desporto, cultura e convívio",
+        "entities": [
+            {
+                "text": "CCD Estrela do Zêzere Boidobra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
