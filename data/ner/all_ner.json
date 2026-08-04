@@ -130418,6 +130418,662 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE4yS1BFelE4QXNEWFhLZUY1SXpVQ2NoSTBiMmpndHJXdTNTV2d4R3FacTZwRmdZVU5GejRBYUFJREdXanJXcVdGX1djb0ZfNlBLNDNFTDlZeUctODdoWVpxMjQ4NkQxajEtNG4w?oc=5",
+        "source": "news",
+        "created_at": "Thu, 30 Jul 2026 07:00:00 GMT",
+        "title_clean": "INAUGURAÇÃO | NOVA LOJA NA COVILHÃ",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Leroy Merlin",
+                "label": "ORG"
+            },
+            {
+                "text": "João Marques",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjhTeERxYkJtMF9uWEo1VEF3ejByQm1Xb2NSc0ZRZHdPM0tHNEoxWXJZUEhkRlh3Njk0b2J4YWdXNHVZNGhveUVpVHNPcE85Y1N5di1IRmhDNnk4dWxqR1JyTDAwOXZPWmtSYzlPVDAtSG03QU1ISGswaEJMeXlhNUFaOWJnZjJ0eXc?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 23:32:11 GMT",
+        "title_clean": "Verão no Centro Histórico da Covilhã Começa a 7 de Agosto - Gazeta Rural",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Gazeta Rural",
+                "label": "ORG"
+            },
+            {
+                "text": "Minta & The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Francisca Cortesão",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Afonso Cabral",
+                "label": "PER"
+            },
+            {
+                "text": "Charlie Brown",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pernadas",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Menezes",
+                "label": "PER"
+            },
+            {
+                "text": "Débora King",
+                "label": "PER"
+            },
+            {
+                "text": "Samalandra",
+                "label": "PER"
+            },
+            {
+                "text": "Joana Espadinha",
+                "label": "PER"
+            },
+            {
+                "text": "Lisa Sereno",
+                "label": "PER"
+            },
+            {
+                "text": "Mariana Ricardo",
+                "label": "PER"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Shelley Short",
+                "label": "PER"
+            },
+            {
+                "text": "The Weather Station",
+                "label": "ORG"
+            },
+            {
+                "text": "Canadá",
+                "label": "LOC"
+            },
+            {
+                "text": "São Francisco",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Japão",
+                "label": "LOC"
+            },
+            {
+                "text": "Joana Barra Vaz",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "Tim Bernardes",
+                "label": "PER"
+            },
+            {
+                "text": "David Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "Lena D",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa3V1V3lueEpxYkhFckJEdjVlMUhYWVVWUUMwSElwb1VVTzViVjd4cmpCWlY5N25PQmMtd1NIOGNKVjVCMkVqdnNwT2g1a2phcHAzTHd5UGZvTU9mdnRQRnpoUzZ3Ylp4Tk05RWozOEROVkZQQWhMNkR5OXAwZ3lIR01wM19CdTNLWGc2LUhCVGxoRHhHVDRxMHN3a0FRZVpFT3ROVUdjVVdFWWxNbS0wZjItWk1OeHZ1S2U5Y0NlRlpTVTBjN28xYdIByAFBVV95cUxOa3V1V3lueEpxYkhFckJEdjVlMUhYWVVWUUMwSElwb1VVTzViVjd4cmpCWlY5N25PQmMtd1NIOGNKVjVCMkVqdnNwT2g1a2phcHAzTHd5UGZvTU9mdnRQRnpoUzZ3Ylp4Tk05RWozOEROVkZQQWhMNkR5OXAwZ3lIR01wM19CdTNLWGc2LUhCVGxoRHhHVDRxMHN3a0FRZVpFT3ROVUdjVVdFWWxNbS0wZjItWk1OeHZ1S2U5Y0NlRlpTVTBjN28xYQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 09:18:00 GMT",
+        "title_clean": "LEROY MERLIN reforça presença na Beira Interior com nova Loja Essencial na Covilhã - SÁBADO",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Park City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "LEROY MERLIN Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Catarina Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Alameda Pêro da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Empresa",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxQajI2dmtwZW0xSVVkN2NoSnRIYkRuc1BEcjcwYkhuNHdVelBZamM0UUpWOFB2eTNLMEJmblpCRm4wMU85bXhud3kyM3ZKVHV2ZFg2OHctZng2cWU0My1hUkg5aVdUWjl1UFo2NVRzLWdiM01WNUZ0WTNmZmpFRE5sTlN2SVR5aVFLeDlkTFVMQnpfVDVGcUlZQWtQc2lreWM?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 17:28:50 GMT",
+        "title_clean": "JYSK abre nova loja no City Center Covilhã - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Alameda Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos Haba",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxQc09HWGxlb2JWZ3p1Vi1LUjA0Y002Z09XWi1zbU0wWHhsT2h3XzYyTENFUi1YQjE5Uk1kcDlITy1XdzhNdHFvUDE0WmJUMHZEYXlWa3dhNC1NVmJkUEdTVGhteHlqT2ZLSmM2RGZ3X09IdkE1VEliX1BMSm9yNUI1TTFqX0d3Nnc5UTFzWHhCbWdlVGpDckhESGtYOWI3TVFZeERyNWc2emY0VFEyejZJQUZ4RQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 16:59:09 GMT",
+        "title_clean": "COVILHÃ: Acolhe jovens da marinha grande em programa de férias",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rede Náutica Solidária 2026",
+                "label": "ORG"
+            },
+            {
+                "text": "PROVERE Náutica do Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "ORG"
+            },
+            {
+                "text": "Fórum Oceano",
+                "label": "ORG"
+            },
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Vereadora do Pelo",
+                "label": "PER"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Pousada da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Covialimentar",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Pêro",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedrogão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Carregal do Sal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHUxTWpSYWR6M3JOZ3ZCZ3djdjhqRS01VnlBY01pQ1M3Z3NaT1dnRENDWGZGbDIwTWxpREw4TXJoT1M5N1RGMThTd1ZaRVVVbzZsQ09BNEFQMl93ZGM2VzZMVEM2X1RSZnNWbm1ISERXcmF2UkhUTkhPMWRsMGlnU0VIRQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 10:29:14 GMT",
+        "title_clean": "Festa do Emigrante do Barco apoia lar de idosos na Covilhã - BOM DIA - Portugal no Mundo",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmdHVlFqRVgtXzRDTHdmRkZhcUc0UUZuei1UZndwQUlQelNkWGJVR2stUGZLOEZCaUp2LVpWREpDQlU2bURIaVN3UGFER2dmNURHZ0lTdFQ5MWgxN0JMaGF5RC14U21OUHlfM3kyVjdTck11TVlCLWtYUHRhN0ZkbjlJaFRXNF9tbEx3YUtwZjR1OU4tVmVLV2xFc3g4S05XWGZLYldYWUpqTjJXN0JzVXpBcTYtVXdvdHZWczN5LUt4ZTQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 12:38:49 GMT",
+        "title_clean": "Celorico da Beira organiza atividades gratuitas para jovens na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Município de Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "CLDS 5G Celorico Solidário",
+                "label": "ORG"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Piscinas Municipais de Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina de Ondas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGQ2cXJ4cUotOFNqTVRMZ091MUJoODZEX3R2ZzV5QjhtWVlEaEpud2t4XzZNZktIWXpUb3VOUWJTMFBiYjVrdl8zNWVicXF0ODFDU0tvX3JrM3VXOElBTzI4ZDZGZzFVdGtUa3FMS3NVYVBOTVFvZFk5TDhoNDE3WW5OX0FQRnprRGpHVGJ6TEZ6MWI4Vm5nZlQ3X1VnaHhVREVCOTN2T0ZGOWh2YlE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 16:59:09 GMT",
+        "title_clean": "COVILHÃ: Acolhe jovens da marinha grande em programa de férias",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rede Náutica Solidária 2026",
+                "label": "ORG"
+            },
+            {
+                "text": "PROVERE Náutica do Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "ORG"
+            },
+            {
+                "text": "Fórum Oceano",
+                "label": "ORG"
+            },
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Vereadora do Pelo",
+                "label": "PER"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Pousada da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Covialimentar",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Pêro",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedrogão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Carregal do Sal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNHRWa0ExaF9NWEZnVmFzbktLWmo5eGVPUHVfTzhoNDhFRHM2N0EyQ2VxMkpSYXUtZjRtZGlBYnh2RmZ4Z1hoeGN6RHJjcEFZd2hZckN0NFhZMm9PNDAwMjQ4cnhkRDE5SU1XT2l1M21wY3IycEN0dENiMFd5WFJUUnZ3LWQzb3dBUVBZQmV2QlItMjdXbXlXSGx4UU5Scy1vNUtQRFhWaUU2NXZNb3hfODNBeTd5NFBWYkhjdXZ6RnpRa2plUGlZYmVlRlpvUndrQXVoOW9hZVhfWmtKMlJ4ZjFjRE1rMFBpRkkxRHBUdEtPWUVoWC05MA?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 18:12:58 GMT",
+        "title_clean": "IEFP reforça liderança na Beira Interior: Carlos Faria e Vanda Ferreira regressam à direção dos centros de emprego de Castelo Branco e da Covilhã - oRegiões",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos Faria",
+                "label": "PER"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXJpRDNsVmIwa2phdlVITTVvWExER05DYnBNLXVtdG9ITTE3MnZrek9UMUdFdkxUX2RkQzJTNEUyUmt5SHI2d2tzVU1NVlpOMzNGcVdSTWlGZHRlVWhjUmt2RlFTdDNrWlZZLVJKR09qRDZ1bGNXUTdsOUwxeF9OZnJqRk9Kb1pJTGNvYUdPa056LWdremlBRVJVRV95aXl4eTRsa1o5ZENkdFZEc2F0amRVenlwbHpWTkQ3RWZIWl9CVlU?oc=5",
+        "source": "news",
+        "created_at": "Tue, 28 Jul 2026 08:41:01 GMT",
+        "title_clean": "COVILHÃ: Município entrega chaves de 37 habitações requalificadas ao abrigo do Programa 1.º Direito - maisbeiras.sapo.pt",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Programa 1.o Direito",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Bairro do Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Nova do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlMwTF8waHVWRENBWlhoeEticllkSVAyTkVEYW5UYlJPRW1jY29nNDFaWE43XzAycFpVaDE5Mm1FLUFDV0JRVmctQno0bE5IUUk4LU9hcHhGMF9ZUzdfZ2RVN1JWVFpFVDFLZjJuNXFud0R5d015eVk3MjhtZHZPR045YWRNRGxaSWdrYklWYXJteXNiUUdXWkwzaXd2czR6VmVhWW1fdFdSeGhRa3VqLVFMN0p4ckJ2dDVfTk1TN3JIOTdNOFVGTk9vSWMwelVBbEtmRHQ2MWI?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 18:12:34 GMT",
+        "title_clean": "CELORICO DA BEIRA: Município assinala Dia Internacional da Juventude com atividades na Covilhã",
+        "entities": [
+            {
+                "text": "CELORICO DA BEIRA",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município de Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "CLDS 5G Celorico Solidário",
+                "label": "ORG"
+            },
+            {
+                "text": "Piscinas Municipais de Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina de Ondas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFNkX1RUT19wejh1WVZkRlgxa3R0Y040eHQ1SEV4ZldOX0ZRMDgwUERxNTEzU1FITlVMV3VuT09ScDEwNnY2WFdiUHVZX0VYUGJhVjRtZExKV0ZSem53VkFUMElaMUY2VFZKY0dUQmR2cFZuT2FOdWhfTUEzMERYZ1FwUUdZMXN3OWNoYUFrT1NnNC1wY0FZMEU0aWRoN1pzOFpOU1J1Zk5mT2l4Y1pCRzktSkUwNTA?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 22:46:30 GMT",
+        "title_clean": "Lua Afonso. Portuguesa de 18 anos volta a destacar-se (desta vez na NASA) - Notícias ao Minuto",
+        "entities": [
+            {
+                "text": "Lua Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Kennedy Space Center",
+                "label": "LOC"
+            },
+            {
+                "text": "Florida",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da",
+                "label": "ORG"
+            },
+            {
+                "text": "Anita Gale",
+                "label": "PER"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia da República",
+                "label": "ORG"
+            },
+            {
+                "text": "José Pedro Aguiar-Branco",
+                "label": "PER"
+            },
+            {
+                "text": "Escola Quinta das Palmeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Parlamento",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte de Sor",
+                "label": "LOC"
+            },
+            {
+                "text": "Agência Espacial Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã Município",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola Secundária das Palmeiras",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxPeEdRcHJLeFBFd2oyMlZ3NzBoVHpEV0JJa2w0eWdmZ0tfcDdmMUtnQXMzWnhJWWMtX0ZsbElSemVBWlEweF9LZXZmQ1p5dFowZFNPZkJ2WWZMU0xqX0ZLWWpJd0tzNFBiTUxPbmlURlMyallBS3ZfUFFHOVlWZ1NFRGVIdXlKQ015Y1U2Uy1WeUU3Rm9uQlZVamt6bmRsaVdZOERFVVFVN0NHazFwYWtJanV1S0hjelJMNmRTcHY0UVdLVGlNYmc?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 10:58:21 GMT",
+        "title_clean": "Calendário e Resultados do SC Covilhã – Jogos da Temporada 2026/27",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
