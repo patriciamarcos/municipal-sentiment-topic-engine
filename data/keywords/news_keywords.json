@@ -132726,5 +132726,55 @@
             }
         ],
         "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2N1azduOXM5Mkw5YUlUazNEMk9ldEo3a1hsckFzb3c1M2ZteFBfWFpRQkJWaUJlMzRwWS1ZTEhoM3ZibV8yRXZST3dSLXl0anBzMWg5clQ3WGJBSVNvMkJvVktQTlJwSnJNYkhiVUdxcXJGT3JycG52NDBQNnhIRHVkdXZONGlfVy1yNWlTcFFzUXVwX3J6c3dydC1jd3lsYkdTcmtNZzktQTZOLWJpVTlfTEtLNWN0NjhjYTBRZlY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 31 Jul 2026 19:10:57 GMT",
+        "title_clean": "Empresa da Covilhã certificada para ensaios de produtos farmacêuticos e cosméticos - RTP",
+        "clean_text": "Empresa da Covilhã certificada para ensaios de produtos farmacêuticos e cosméticos - RTP. \"Este reconhecimento permite à Labfit posicionar-se no mercado como um parceiro estratégico para a prestação de serviços à indústria farmacêutica e todas as outras indústrias do setor da saúde ou tecnológico que procuram desenvolvimento de novos produtos e/ou melhoria contínua de produtos já existentes\", refere a empresa em nota enviada à agência Lusa. Na informação, a Labfit especifica que esta certificação foi atribuída pelo Infarmed, que reconhece que a empresa segue os princípios de Boas Práticas de Laboratório para a realização de natureza físico-química, de desenvolvimento de formulação e de ensaios toxicológicos. \"Este procedimento, realizado pela entidade regulamentar portuguesa conforme os termos exigidos na diretiva nº 2004/9/CE, é de aplicação internacional e só é conferido após um rigoroso processo de inspeção a todo o sistema de qualidade e atividade do laboratório, designadamente métodos laboratoriais, registos, pessoal técnico envolvido nas tarefas, equipamento, bem como todo o compromisso com a qualidade e sua monitorização contínua\", acrescenta. Segundo refere, trata-se também de uma mais-valia para a empresa, uma vez que, permitirá \"evidenciar junto de clientes e futuros clientes a qualidade e o rigor\" do trabalho ali realizado. A Labfit é uma empresa que realiza investigação e desenvolvimento de produtos, bem como prestação de serviços ao nível do controlo de qualidade e caracterização de produtos, tendo já concebido um produto para as dermatoses da pele íntima, que se apresenta como alternativa ao uso de corticoides, e que está em fase de ensaio clínico. Criada em 2012, esta empresa resulta de um projeto de duas farmacêuticas investigadoras (Ana Palmeira de Oliveira e Rita Palmeira de Oliveira), que também são irmãs. Na primeira fase, foi incubada na Faculdade de Ciências da Saúde da Universidade da Beira Interior (UBI), tendo em março de 2015 transferido a atividade para as instalações do UBIMedical, um centro de investigação científica e tecnológica para a área da saúde, sediado na Covilhã, distrito de Castelo Branco.",
+        "keywords": [
+            {
+                "keyword": "realizado labfit empresa realiza",
+                "score": 0.7571
+            },
+            {
+                "keyword": "permite labfit posicionar mercado",
+                "score": 0.7498
+            },
+            {
+                "keyword": "realizado labfit empresa",
+                "score": 0.7407
+            },
+            {
+                "keyword": "ali realizado labfit empresa",
+                "score": 0.7291
+            },
+            {
+                "keyword": "labfit empresa",
+                "score": 0.728
+            },
+            {
+                "keyword": "lusa informação labfit especifica",
+                "score": 0.7255
+            },
+            {
+                "keyword": "labfit especifica",
+                "score": 0.7138
+            },
+            {
+                "keyword": "labfit empresa realiza",
+                "score": 0.7095
+            },
+            {
+                "keyword": "labfit especifica certificação",
+                "score": 0.7069
+            },
+            {
+                "keyword": "labfit especifica certificação atribuída",
+                "score": 0.7066
+            }
+        ],
+        "source_name": null
     }
 ]

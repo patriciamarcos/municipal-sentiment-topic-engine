@@ -7307,5 +7307,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:k2rwf6elajxfly3te2jqx3to/app.bsky.feed.post/3msathdlblq26",
+        "source": "bluesky",
+        "created_at": "2026-08-04T10:45:31.546Z",
+        "title_clean": "",
+        "clean_text": "🇵🇹 A jovem da Covilhã destacou-se entre quase 24 mil participantes de todo o mundo e recebeu o Anita Gale Visionary Leadership Award. Saiba mais: expresso.pt/sociedade/pesso... 📷 D.R.",
+        "keywords": [
+            {
+                "keyword": "gale visionary leadership award",
+                "score": 0.6104
+            },
+            {
+                "keyword": "visionary leadership award saiba",
+                "score": 0.6056
+            },
+            {
+                "keyword": "visionary leadership award",
+                "score": 0.5926
+            },
+            {
+                "keyword": "anita gale visionary leadership",
+                "score": 0.5755
+            },
+            {
+                "keyword": "recebeu anita gale visionary",
+                "score": 0.5426
+            },
+            {
+                "keyword": "visionary leadership",
+                "score": 0.5359
+            },
+            {
+                "keyword": "leadership award saiba",
+                "score": 0.5357
+            },
+            {
+                "keyword": "leadership award saiba expresso",
+                "score": 0.5301
+            }
+        ],
+        "source_name": null
     }
 ]

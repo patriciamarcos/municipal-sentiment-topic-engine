@@ -131074,6 +131074,42 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2N1azduOXM5Mkw5YUlUazNEMk9ldEo3a1hsckFzb3c1M2ZteFBfWFpRQkJWaUJlMzRwWS1ZTEhoM3ZibV8yRXZST3dSLXl0anBzMWg5clQ3WGJBSVNvMkJvVktQTlJwSnJNYkhiVUdxcXJGT3JycG52NDBQNnhIRHVkdXZONGlfVy1yNWlTcFFzUXVwX3J6c3dydC1jd3lsYkdTcmtNZzktQTZOLWJpVTlfTEtLNWN0NjhjYTBRZlY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 31 Jul 2026 19:10:57 GMT",
+        "title_clean": "Empresa da Covilhã certificada para ensaios de produtos farmacêuticos e cosméticos - RTP",
+        "entities": [
+            {
+                "text": "Empresa da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Labfit",
+                "label": "ORG"
+            },
+            {
+                "text": "Infarmed",
+                "label": "ORG"
+            },
+            {
+                "text": "Ana Palmeira de Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Palmeira de Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Faculdade de Ciências da Saúde da Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "UBIMedical",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -135035,6 +135071,13 @@
                 "label": "LOC"
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:k2rwf6elajxfly3te2jqx3to/app.bsky.feed.post/3msathdlblq26",
+        "source": "bluesky",
+        "created_at": "2026-08-04T10:45:31.546Z",
+        "title_clean": "",
+        "entities": []
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",
