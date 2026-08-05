@@ -131110,6 +131110,602 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGc2bnJwcGVUMDhTc18yaW5PU3RpazNvYTBReWZueVEwWDNqRWh5WExfVlRuNW0xdkwxUEVPaVdySlVLYjRNTzZvcnU0VVYxMnNRSkpjem1mdlNpMUNmWW5JcUNpMmczQ1RmUDJCd2U3b0VvVzVPeVFRSExXbExxTjFFZWtrRkd6YkMtNTY4M1pzcFZVWHJBWWNTT1N5VmNkb09CcVBHR2xOSkIwT3NhSjdIU3NoRS1FSXfSAbQBQVVfeXFMUGFZUGZJaGktb3BLR1JWRG41RUFfVnBqWkxKX0RPZmxIRnNUakxWS0U2WEMzOW10T1Q0RnRwM3l5VjFUbFN4RHRtR3RoOHEzZkJxMXlRdkgzRWZsN1dULWFMdUgySHZZMXVfU0ZyaUxhSHVsbDQ1b3ZYSWh3VmdNUUN1ZWdNX1gxMmtaYzFwYWQtaVZSYzVDMU5kdkhtWnZJWHE1ZVNmRHZHaGNnTmxyQndoQjY3?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 18:39:00 GMT",
+        "title_clean": "Mafra empresta Guilherme Silva ao Sp. Covilhã - record.pt",
+        "entities": [
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Midtjylland",
+                "label": "ORG"
+            },
+            {
+                "text": "Convento ao Peito",
+                "label": "LOC"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Tomás Pimenta",
+                "label": "PER"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Santos Pinto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNEM1enJWWmZCYk1sTDVXUVNEd0pmRV9uNHdSZERSWEFRSlZsTUY2NkFEcGxtVlhFRWRjUWVROVh4TVhOVk9DTTFQNmk3NURzZTVJeW1WTmE0bTVmTXFEQlppLWItbTFmMjY3OFJkcFItMUk2bmppRUstQXpKRzNXNVdHVFRXQzBaTnBmcGtYUEZNYTlhSkRGNG85X1RrVGhVanQ0b3l2M09LTGwzWlF1S0lzWGdEYk12V3BIb3ZyZ192cXhNZDdUTg?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 17:42:48 GMT",
+        "title_clean": "COVILHÃ: Município acolhe jovens da Marinha Grande em programa de férias solidário",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rede Náutica Solidária 2026",
+                "label": "ORG"
+            },
+            {
+                "text": "PROVERE Náutica do Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Fórum Oceano",
+                "label": "ORG"
+            },
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Vereadora do Turismo",
+                "label": "PER"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Pousada da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola Pêro da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedrógão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Carregal do Sal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMic0FVX3lxTE1FdFpwRzNBZmo4b3NlZS0zS2laQ2dwUW8zUkpJX0t5ZWZMNW5fVG9tdnVVT25jUEZnaU41VDBVaDh2Y1l0RTQzVmdRcTJ4Z3NsOTFCRFdScmVWV29JU3dzV09GQllQQ3FDQ0VEUXp1UUNDZ3c?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 09:17:00 GMT",
+        "title_clean": "Pista do Complexo para requalificar",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Complexo Desportivo",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzlWN3UyUERSRDhqdi1nSkRrUndmcXRTWGxQUW5NUTBPa3o3c1AzUm5VZHh3NDNJSmgtelA3cFRUOHZPV2hpMmNvbWIwUHkwYlh3RHFoVG51MUJoRUtsOUtRSk5DOHp1Rm82VE96Tjd1R3FCb09NYUtYU2JQX29mWktROXlnWnR6ZFNvX2taRUpmeGpzZlQ1NFFiUmdIY1RWU1kyajdFWGhXZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 18:41:58 GMT",
+        "title_clean": "Concelho da Covilhã ganha mais uma resposta social - Diário Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Concelho da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Cerzir Afetos",
+                "label": "ORG"
+            },
+            {
+                "text": "Paulo Jerónimo",
+                "label": "PER"
+            },
+            {
+                "text": "Associação de Solidariedade Social da Boidobra",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro Paroquial da Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta de Freguesia da Boidobra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTE5jbER0TWUxaXVUYTVmcDdvZ2NBdXBmeThDZ0liSjZDNVlZbXVlUVh5RS1mblVnTGV6NGNVY1VES1dIV2w4ZUJvOEkyNWpBYzltX2Z2MXc1NGJIXzlmbHNSR045RndKVktweHc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 09:38:33 GMT",
+        "title_clean": "FESTA DO PÊSSEGO | ORJAIS",
+        "entities": [
+            {
+                "text": "RJAIS. Orjais",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Luís Marques. municipiodacovi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFItZ09OaXBqRTNzbzNFNjBiakpDZjdZamI4bUFsTWp5aW04X0ZETTJyMXQzRkZpejc0N1JEMTJTSTVrV3FMWlpDLWNfOGhEbS10Xy1qbHF0ejdLclozX2dIU19oUUp6eVBxRGtGMVZhZEtwRjJxbTZLSHFyNVlkQThrWFFIa0xsSjFST1E2aldYeW53Y3NWSkpBcW1FZmhQUldiVlJxRjN6eWlyajdwREV6RUs?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 10:19:29 GMT",
+        "title_clean": "Covilhã recebe jovens da Marinha Grande em programa de férias solidário",
+        "entities": [
+            {
+                "text": "Rede Náutica Solidária 2026",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "PROVERE Náutica",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Fórum Oceano",
+                "label": "ORG"
+            },
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara da Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Pousada da Juventude Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "Covialimentar",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Pêro",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedrógão Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Carregal do Sal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxQVm8zbW5pN3ZhWDdRZHh5dTk4Qm9zdlg2R21HcGtpcnQ3OWpYTFExTDNmS3AyR2JXOHNqbGc3TjRmYUExTENYelB1R3NiMEM4LWFXQnFKdzdhT25WcThtTmV3ckY4aU5PZFoyWGQ5VlFFM3FNcFVqYzN1NVd0RWl1Y3ZWWHNWMzZxb3VIc1VCX3Roc2lndm9uTE84Qk1US2FKeVVjREY0VmxEZHR5OTdaMjBhejI0dUR2ZlZKcGRnUDAxYkJOc2Y4?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 07:51:49 GMT",
+        "title_clean": "Iluminação pública é prioridade na Covilhã. Câmara aguarda visto do Tribunal de Contas",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Tribunal de Contas",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Concelho",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWw4dTZjZGZiUkdaOWRQNHZoZWs2SGtqNjF3UU1VTjlvazhBbWkyNkttcl8zZWN1V2pnZ2NwYXNwVGN4RWJmVjBwSmFVSno4M3JvMjM4M3pha19wWVhlYlZZWU11cVNjbFdocUtuWkNzS1BvaGxYSFRreGhtdXB4RlpIeEppVjJzaVh5TUN4V2g5TWc4M0ZWQXk4ckwwalZ3VmVVTzhkVEc3cER1c2tuODg1ZlViNktWWDFr?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 07:53:02 GMT",
+        "title_clean": "Trinta jovens em campos de férias na Covilhã e São Pedro de Moel",
+        "entities": [
+            {
+                "text": "São Pedro de Moel",
+                "label": "LOC"
+            },
+            {
+                "text": "Náutica",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Piscina-Praia",
+                "label": "LOC"
+            },
+            {
+                "text": "Penhas da Saúde",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pousada da Juventude Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Carla Santana",
+                "label": "PER"
+            },
+            {
+                "text": "Rede de",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxOV19hNVFUNkp1Qm1TbXBtVFdnZFRZZXpacXZSY3VvM1c0aGhLejg1MjFCMkZOWW81QXNldmFNNlFTTnlZT2VLNks0amNTMlRZQm04UjBhWUNLQXVJN2xTUWRzU1JvSmczUmU0OHFnMkdEU0FyUUYwS08tV0tfM3BjTXhwXzRwczRFVFAydXdQWmRKV0QxRHNONWg0Zw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 08:44:17 GMT",
+        "title_clean": "Taça de Portugal: Sporting da Covilhã recebe Mortágua",
+        "entities": [
+            {
+                "text": "Taça de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Académico do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Futebol de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcains",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda FC AD Fornos de Algodres",
+                "label": "ORG"
+            },
+            {
+                "text": "CF Os Marialvas Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua FC CD Fátima",
+                "label": "ORG"
+            },
+            {
+                "text": "Sertanense FC GD Nazarenos",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória de Sernache AD Mação",
+                "label": "ORG"
+            },
+            {
+                "text": "CF Os Gavionenses",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQXhMX3dfX0hMN3RSYnhSU1ZlU0FmN0dKQUpSWldIT1p5dnN5djZua2FCRzg1cE1zYy1menh0VnBpWmQtNGZNWGltMzU5M2RuNlZoWmtOOEhTa3RxdlZMSVh1dDhhRVVPMnZxNXY5aEhpLXdqbXFGclZ5U2NIRmEzRTQ5TlVEU1VMU08tSFdfTEFhQXJjSmhlVGxJODNGU1picG01NHUzeUxVdGkzMnBLYjcxSEZwZ2NzRFV4aUptSlR0WWhTNm0wUHZkY0NzeFd6NHlYMXJ3LWZrSzRUOURyLW1BeGZVdGY1?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 14:38:54 GMT",
+        "title_clean": "COVILHÃ: Lua Afonso distinguida com prémio internacional de liderança em competição de engenharia espacial",
+        "entities": [
+            {
+                "text": "Lua Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Kennedy Space Center Visitor Complex",
+                "label": "LOC"
+            },
+            {
+                "text": "Walt Disney World Resort",
+                "label": "LOC"
+            },
+            {
+                "text": "Florida",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvM3FIdy14SXlxZF9ySkhaY2RqRVpUVl9wTV9yTVpiRFRWVUpzd3RpRG15NzQwWExxOGFnc1BEM1MwOHgwNUUxcWt6OVpxclFIak9OWHdLa2pMbnJOdDFDYzFFRVRWX2RZ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 19:21:18 GMT",
+        "title_clean": "Covilhã X Mortágua - Maisfutebol",
+        "entities": [
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "Twitter",
+                "label": "ORG"
+            },
+            {
+                "text": "TikTok",
+                "label": "ORG"
+            },
+            {
+                "text": "Instagram",
+                "label": "ORG"
+            },
+            {
+                "text": "Liga das Nações",
+                "label": "ORG"
+            },
+            {
+                "text": "ESPAN",
+                "label": "LOC"
+            },
+            {
+                "text": "Premier",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting",
+                "label": "ORG"
+            },
+            {
+                "text": "TIANO RONALDO",
+                "label": "PER"
+            },
+            {
+                "text": "Taça de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Mortágua",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQdVZGQU9uMXZDNEFfZlBrTnVuc3BWeGdXS09lTm1MTVQzXzkxbDh0dDZCclZIMWRZUkhPVGdmVzhnUndpdkRGc2lKdjlIbjZPSElqUU05RkFMVjg4OUZfekNXN25wcXNuLVNuWWYyMnpETGxoWnl5aXVzbnVUMHpSMUhLUW50M3Q5b0QyLWUzSl90em9UQVUzaEdxc0tvQ0ppeHBaa3ByMEkyT1lfSXVVNXY1QzcxV1nSAbwBQVVfeXFMTUI0OWE2UTVnRElBOFpLOEdZRF9IV1NfOXFCMEZvTnRUWk5ENnR3bjRoTXhnYWg1aEdzUC15OUVIazJjOXlUd005MlhVTWdCOHhGTjd2MWlIdEwyWnZNYU4yVXZhX0tRV3k2Y1BhaHByMFlhMUhKMlVhUW1VUnFlbE9wd0F0eTREZGtySTdTb0pfVlhFSl9Ic3ZjSkpNV1hwR1BiREE0RHpmdlFWZlhYVFg4bF9BWXp0RnhuSXk?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 22:05:12 GMT",
+        "title_clean": "Jovem da Covilhã distinguida em prova da NASA com prémio internacional de liderança - Correio da Beira Serra",
+        "entities": [
+            {
+                "text": "Correio da Beira Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Lua Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Kennedy Space Center",
+                "label": "LOC"
+            },
+            {
+                "text": "Florida",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola Secundária Quinta das Palmeiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia da República",
+                "label": "ORG"
+            },
+            {
+                "text": "José Pedro Aguiar-Branco",
+                "label": "PER"
+            },
+            {
+                "text": "Parlamento",
+                "label": "ORG"
+            },
+            {
+                "text": "Ponte de Sor",
+                "label": "LOC"
+            },
+            {
+                "text": "Agência Espacial Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
