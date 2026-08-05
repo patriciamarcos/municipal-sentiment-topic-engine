@@ -90,6 +90,18 @@ def get_or_create_user(cursor, handle, snetwork_id):
     return cursor.fetchone()[0]
 
 
+def limpar_titulo_e_fonte(title):
+    """Remove o nome da fonte do final do título e extrai o source_name."""
+    if not title or " - " not in title:
+        return title, None
+    
+    partes = title.rsplit(" - ", 1)
+    titulo_limpo = partes[0].strip()
+    source_name = partes[1].strip() if len(partes) > 1 else None
+    
+    return titulo_limpo, source_name
+
+
 def insert_post(cursor, record, snetwork_id, user_id):
     platform_id = normalize_platform_id(
         record.get("source", ""),
@@ -404,7 +416,11 @@ def main():
         try:
             author  = raw_record.get("author") or None
             user_id = get_or_create_user(cursor, author, snetwork_id)
-            raw_record["source_name"] = merged.get("source_name")
+
+            titulo_limpo, source_name_do_titulo = limpar_titulo_e_fonte(raw_record.get("title", ""))
+            raw_record["title"] = titulo_limpo
+            raw_record["source_name"] = merged.get("source_name") or source_name_do_titulo
+
             post_id = insert_post(cursor, raw_record or merged, snetwork_id, user_id)
             comments = raw_record.get("comments", [])
             for comment in comments:
