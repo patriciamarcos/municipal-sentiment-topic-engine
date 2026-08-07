@@ -3422,5 +3422,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vhnnuz",
+        "source": "reddit",
+        "created_at": "2026-08-07 02:04:33",
+        "title_clean": "Brasileiro indo estudar na UBI",
+        "clean_text": "Sou brasileiro e acabei de passar no programa de intercambio da minha universidade que te manda para alguma instituição aleatoria por um preço mais baixo, e acabou que vai ser na UBI, eu vou ser alvo de muita xenofobia? Tenho esse certo medo, não quero apanhar na rua só por ser brasileiro.",
+        "keywords": [
+            {
+                "keyword": "xenofobia tenho certo medo",
+                "score": 0.6037
+            },
+            {
+                "keyword": "vou alvo muita xenofobia",
+                "score": 0.6017
+            },
+            {
+                "keyword": "sou brasileiro acabei passar",
+                "score": 0.5965
+            },
+            {
+                "keyword": "sou brasileiro acabei",
+                "score": 0.59
+            },
+            {
+                "keyword": "sou brasileiro",
+                "score": 0.5879
+            },
+            {
+                "keyword": "muita xenofobia tenho",
+                "score": 0.5762
+            },
+            {
+                "keyword": "alvo muita xenofobia tenho",
+                "score": 0.573
+            },
+            {
+                "keyword": "xenofobia tenho",
+                "score": 0.5642
+            },
+            {
+                "keyword": "muita xenofobia tenho certo",
+                "score": 0.5505
+            },
+            {
+                "keyword": "brasileiro acabei passar programa",
+                "score": 0.538
+            }
+        ],
+        "source_name": null
     }
 ]

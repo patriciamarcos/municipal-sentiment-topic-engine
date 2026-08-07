@@ -132446,6 +132446,218 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMic0FVX3lxTE84T1lpMnluZFhjTTJuaUtnNWFWYXhUWWYxZG9oQVJodzZEQ3FON3N6a3c3SXNZb0NVNVdoSG9aNllwLTJIUWVIeWdfWDVfLVlQb2NCajgzd3dfR0JCNHJURld5NC1JZFhRY0RwbHIwMUhlQVk?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 11:36:19 GMT",
+        "title_clean": "FESTA DO PÊSSEGO | ORJAIS",
+        "entities": [
+            {
+                "text": "RJAIS. Orjais",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Luís Marques. municipiodacovi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMic0FVX3lxTE4wX2VEc1I3RzhGV05ZY2R4akZRMnJ2TzhsdTIzV0tYWHo1Z1dtMVBFSUI3MjlEakRaMDNLS3diWVJqOWpuMnZyUmJWVW1ZcE9RT0dWZ1c5WG1telZqclNidzJULURFNTZYSE5yb3VjaUI1ZXM?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 11:44:00 GMT",
+        "title_clean": "Arranca o Verão no Centro Histórico",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Minta & The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Francisca Cortesão",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Afonso Cabral",
+                "label": "PER"
+            },
+            {
+                "text": "Charlie Brown",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Pernadas",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Menezes",
+                "label": "PER"
+            },
+            {
+                "text": "Débora King",
+                "label": "PER"
+            },
+            {
+                "text": "Samalandra",
+                "label": "PER"
+            },
+            {
+                "text": "Joana Espadinha",
+                "label": "PER"
+            },
+            {
+                "text": "Lisa Sereno",
+                "label": "PER"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "São Francisco",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Japão",
+                "label": "LOC"
+            },
+            {
+                "text": "Joana Barra Vaz",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "Tim Bernardes",
+                "label": "PER"
+            },
+            {
+                "text": "David Fonseca",
+                "label": "PER"
+            },
+            {
+                "text": "Lena D'Água",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa",
+                "label": "PER"
+            },
+            {
+                "text": "Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjdsTUVfX2ZBU2dISjdrX3RKVTVyNHhWUWxPcWlxU2d5dm52NXlXNnpZdTRYa1VKT3FZUHFGOG5zRWs5VDFERXExakIxLUQ3bGdmSnRDR2NLdFA2aDE5THBzVWszZ0hHdWNqNmY2R1VHMEppUnVSMkRfY1NrY3NPYnk5N3dmangyclphdEVYRWw1bGZC?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 17:25:53 GMT",
+        "title_clean": "Mercado of Sport’s: Cheikh Niang renova com o Sporting da Covilhã",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmV2WWpCeGgwVG4tU2RGeXRoaDJ2SFd1QXpIa1lXa3ZWM3QwYnVrbGVPNnNkMF9XRVg1T2xhSU1ha2RDSUtWbUlIYm82dl9zUkVpdmJ4RmhVUzBLaEtxRFY5OElBT1V4bThmamhUbVFVRG5GU3d6NVRmcXlCQUhZRkZmb19zQXdlVm4xNWJHYWh2RVItOGV4a3Fn?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 10:23:56 GMT",
+        "title_clean": "Palpite: Sporting Covilhã x União Santarém | Liga 3 (08/08) - APWin",
+        "entities": [
+            {
+                "text": "APWin",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            },
+            {
+                "text": "Filipe Lopes Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Emanuel Fernando Gonçalves",
+                "label": "PER"
+            },
+            {
+                "text": "João Ricardo Meireles Machado",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Covilhã Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "União Santarém Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -133378,6 +133590,13 @@
                 "label": "ORG"
             }
         ]
+    },
+    {
+        "record_id": "reddit_1vhnnuz",
+        "source": "reddit",
+        "created_at": "2026-08-07 02:04:33",
+        "title_clean": "Brasileiro indo estudar na UBI",
+        "entities": []
     },
     {
         "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
