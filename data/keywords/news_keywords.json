@@ -134426,5 +134426,155 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTE0tRWRmVEttRm1tWUdxREtEanZSQm5KNGlOc1lITXI3b05pN2hXaUEyMEp4dC12bG1HZkRkYV9PaXhuUGwxWWhqXzhMUi1fWV8xRkVwWjZwQjk5VzBReWNadllfZDlsODM3d3Z6RTJHSnpBX01GakJ1dw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 13:11:00 GMT",
+        "title_clean": "Crise da água ultrapassada em Manteigas",
+        "clean_text": "Crise da água ultrapassada em Manteigas. A possível falta de água, em Manteigas, é um cenário que, por agora, está descartado. Pelo menos, é essa a convicção do presidente da Câmara, Flávio Massano. Depois de, a 28 de julho, a autarquia ter anunciado a interrupção do abastecimento de água à população, em alguns locais, entre as 22 horas e as 6 da manhã (que segundo a Câmara acabou por não ser necessária), o serviço voltou à normalidade esta semana, e, na segunda-feira, 3, o presidente da Câmara, Flávio Massano, na reunião pública do executivo, afastou a hipótese de risco de falhas no sistema, após a rápida descida do nível do reservatório da Carvalheira (principal abastecedor da vila). Segundo o autarca, a situação encontra-se estabilizada, na sequência da reparação de duas roturas na rede e após a redução do consumo por parte da população. No entanto, o autarca alertou que se continua a exigir uma utilização consciente da água no concelho. Massano explicou que o município foi alertado pelas Águas do Vale do Tejo para uma descida anormal do nível do reservatório da Carvalheira, que passou de 36% para apenas 12% em poucas horas, chegando mesmo aos 0% durante o desenrolar da situação. O município ativou então o plano de crise, face ao risco de não conseguir abastecer a população, numa altura de maior afluência de visitantes e temperaturas elevadas. O autarca explicou que já havia suspeitas de perdas grandes na rede em baixa do abastecimento de água, mas que logo na primeira noite de trabalhos, as equipas da APAL, dos serviços municipais e das Águas do Vale do Tejo localizaram e repararam duas roturas na rede. Segundo o autarca, uma das fugas mais significativas foi encontrada no Bairro do Outeiro, onde a água escapava de uma conduta subterrânea, infiltrava-se numa caixa de gás e seguia diretamente para a rede de águas pluviais, tornando praticamente impossível a sua deteção à superfície. Após a reparação das duas roturas, as perdas reduziram-se para valores residuais e o reservatório começou a recuperar gradualmente. O reservatório da Carvalheira encontra-se agora, segundo Massano, com cerca de 95% da capacidade, armazenando aproximadamente 750 mil litros de água, aos quais se juntam cerca de 300 mil litros no reservatório do Picoto. Para o autarca, tudo aponta para que o principal problema tenha mesmo sido esta fuga de dimensão significativa, conjugada com o aumento do consumo típico desta época do ano. \"O maior problema era efetivamente esta rotura junto ao Bairro do Outeiro, com cinco a seis mil litros de água que perdia por hora, ligada a um aumento do consumo de água nesta altura\", disse o presidente da Câmara, que enalteceu a população por ter, voluntariamente, reduzido consumos, o que evitou cortes generalizados de água. No entanto, o autarca serrano apela a uma atitude responsável nos próximos tempos. Segundo Massano, o sistema continua vulnerável se surgirem novas fugas ou os consumos excessivos aumentem exponencialmente. \"Não há neste momento o problema de água em Manteigas. Temos a situação estancada\", afirmou, apelando a um consumo apenas tendo em conta o estritamente necessário. Se, tendo em conta a vigilância que a Câmara fará, houver descidas abruptas no nível do reservatório, o autarca não descarta novas restrições temporárias no abastecimento para salvaguardar o fornecimento à população.",
+        "keywords": [
+            {
+                "keyword": "baixa abastecimento água logo",
+                "score": 0.7084
+            },
+            {
+                "keyword": "há momento problema água",
+                "score": 0.7049
+            },
+            {
+                "keyword": "crise água ultrapassada",
+                "score": 0.7027
+            },
+            {
+                "keyword": "água manteigas temos situação",
+                "score": 0.6977
+            },
+            {
+                "keyword": "possível falta água",
+                "score": 0.697
+            },
+            {
+                "keyword": "momento problema água manteigas",
+                "score": 0.6966
+            },
+            {
+                "keyword": "crise água ultrapassada manteigas",
+                "score": 0.6934
+            },
+            {
+                "keyword": "falta água manteigas cenário",
+                "score": 0.6925
+            },
+            {
+                "keyword": "problema água manteigas temos",
+                "score": 0.6857
+            },
+            {
+                "keyword": "interrupção abastecimento água população",
+                "score": 0.6854
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSjZCVUpTdkoyNWtCZmVsTjdwZzRoV29NUkdYOEZpck9qQWp1VmJBeUZxZ0E0RUFxbzlzUGoxOGU0SFVmdUdhdl9UekN0a0F3OEZQQTl3QmVvSHNvTlhSY0RDRHFTcmE0Mjlodk9jWnpFeEpKX0ZScDFfVnkwUnlGZkE5aUJXcVU0SWhjOWE0czdWTzZiZWVFV015WmNlRFRxaHJpSHRLWVJUbWJ4UTd3dW9STDZfeEZDRkNMaUNMRVJSelp3Nm5lTXpjdWlTbkg5R2xoUHFranMwVkRM?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 14:09:00 GMT",
+        "title_clean": "Aos 18 anos, esta jovem portuguesa faz história ao ser distinguida pela NASA - Notícias de hoje - IOL",
+        "clean_text": "Aos 18 anos, esta jovem portuguesa faz história ao ser distinguida pela NASA - Notícias de hoje - IOL. Sonha chegar ao espaço e já deu mais um passo para lá chegar. Aos 18 anos, a portuguesa Lua Afonso, natural da Covilhã, acaba de ser distinguida pela NASA com um prémio internacional de liderança, depois de representar a Europa na final de uma das mais prestigiadas competições mundiais de engenharia espacial para estudantes. A estudante recebeu o prémio individual \"Anita Gale Visionary Leadership Award\" durante a International Space Settlement Design Competition (ISSDC), cuja fase final decorreu entre 31 de julho e 2 de agosto, no Kennedy Space Center, na Florida, Estados Unidos. A competição reuniu centenas de jovens talentos de todo o mundo, selecionados após um rigoroso processo internacional. No total, estiveram na final 270 estudantes, escolhidos entre 23.919 participantes, tendo Lua Afonso sido distinguida pelas suas capacidades de liderança e pelo trabalho desenvolvido ao longo da competição. Segundo uma publicação da Câmara Municipal da Covilhã, o prémio foi criado em homenagem a Anita Gale, uma das fundadoras da competição, e distingue estudantes que se destacam não apenas pela excelência técnica, mas também pela capacidade de liderar equipas internacionais. \"A fase final desta competição reuniu 270 finalistas, selecionados entre 23.919 participantes de todo o mundo, e Lua Afonso foi reconhecida pelas suas capacidades, tendo-lhe sido atribuído o prémio instituído em homenagem a Anita Gale, uma das fundadoras da competição.\" A autarquia explica ainda que o galardão: \"Distingue estudantes que, para além da excelência técnica, demonstram uma liderança inspiradora, visão estratégica e uma notável capacidade para unir equipas internacionais, promovendo a cooperação e a inovação na resolução de desafios complexos de engenharia espacial.\" A publicação termina com uma mensagem de orgulho dirigida à jovem: \"Lua Afonso voltou a destacar-se, levando com ela o nome da Covilhã. Parabéns, Lua Afonso.\" Lua já tinha sido elogiada na Assembleia da República Esta não é a primeira vez que Lua Afonso ganha destaque público. No início deste ano, o presidente da Assembleia da República, José Pedro Aguiar-Branco, destacou o percurso da estudante durante a sessão solene comemorativa do 25 de Abril. Na ocasião, explicou que a jovem não pôde estar presente por se encontrar em Ponte de Sor, integrada num projeto da Agência Espacial Portuguesa. O presidente do Parlamento revelou ainda ter recebido uma mensagem da estudante. \"Mas escreveu-me, a falar de tudo isto. Do seu percurso, desde a serra da Estrela à descoberta do espaço. Do valor que dá à liberdade, ao trabalho e à responsabilidade. E do desejo que tem de contribuir para a participação pública dos jovens.\"",
+        "keywords": [
+            {
+                "keyword": "mundiais engenharia espacial estudantes",
+                "score": 0.6588
+            },
+            {
+                "keyword": "projeto agência espacial portuguesa",
+                "score": 0.6548
+            },
+            {
+                "keyword": "agência espacial portuguesa presidente",
+                "score": 0.6504
+            },
+            {
+                "keyword": "engenharia espacial estudantes estudante",
+                "score": 0.6482
+            },
+            {
+                "keyword": "espacial estudantes estudante recebeu",
+                "score": 0.6441
+            },
+            {
+                "keyword": "agência espacial portuguesa",
+                "score": 0.6423
+            },
+            {
+                "keyword": "engenharia espacial estudantes",
+                "score": 0.6377
+            },
+            {
+                "keyword": "espacial estudantes estudante",
+                "score": 0.637
+            },
+            {
+                "keyword": "espacial estudantes",
+                "score": 0.6362
+            },
+            {
+                "keyword": "espacial portuguesa presidente",
+                "score": 0.6277
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDV6TW1tMkpMSWxvWEU5dnFOQ0daWWVBa05ndFFNVkFqeXZqQzhYZWRNRkZaeGtoY3ZBMHUzOGdfMF9jWk1FXzJJUzg3ZGdiREE4X2FFUVlBUU55SWhEM2NMUWpHRTlBbGNIT0Z5MTJEdEFnNW1ZS0s3TGxmMjljb3k0U1NYRUV6SkxNekpRNE9CVlFvdWVmWmVTdUhpMnBhRVNDdXJFQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 20:30:00 GMT",
+        "title_clean": "Assistir Sporting Covilhã x União Santarém, na Liga 3 (08/08) - APWin",
+        "clean_text": "Assistir Sporting Covilhã x União Santarém, na Liga 3 (08/08) - APWin. Sporting Covilhã x União Santarém jogam neste dia 08/08, às 13h00 (horário de Brasília), pela Liga 3 2026/27. Veja tudo sobre a transmissão de Sporting Covilhã x União Santarém ao vivo e saiba onde acompanhar à partida. Onde assistir Sporting Covilhã x União Santarém ao vivo pela Liga Portugal 3 Até o momento, não há transmissão para Sporting Covilhã x União Santarém confirmada na TV ou em plataformas abertas. Mesmo assim, você pode acompanhar a partida ao vivo com imagem através do nosso parceiro oficial. Tempo real de Sporting Covilhã x União Santarém Quem não tiver acesso à transmissão com imagens pode seguir o jogo em tempo real por sites e apps que atualizam os principais lances da partida, com informações de Sporting Covilhã x União Santarém minuto a minuto. Atualmente, as principais plataformas para acompanhar o tempo real da Liga 3 são: Placar UOL GE Google Flashscore FotMob Assistir Sporting Covilhã x União Santarém online Outra opção para ver o jogo no celular ou qualquer dispositivo móvel é pelo site parceiro que conta com transmissão deste e de outros campeonatos. Clique para assistir Sporting Covilhã x União Santarém grátis: ⚠️ Evite sites ilegais que prometem \"assistir Sporting Covilhã x União Santarém grátis\". Além de violarem os direitos de transmissão da Liga 3, esses acessos podem comprometer a segurança do seu dispositivo. Resumo pré-jogo Para esta partida da Liga 3 2026/27, as equipes entram em campo na seguinte situação: Sporting Covilhã O Sporting Covilhã tem 31 jogos disputados até aqui no ano. Ao todo, foram 8 vitórias, 11 empates e 12 derrotas. União Santarém Já a temporada do União Santarém está da seguinte forma: são 33 jogos disputados até hoje, com 8 vitórias, 11 empates e 14 derrotas. Se quiser conferir mais deste jogo, basta acessar a página de estatísticas de Sporting Covilhã x União Santarém e ver todos os dados. Conclusão Aqui você viu os canais que vão passar essa partida de sábado pela Liga 3 de Portugal. Para fechar, a APWin oferece os palpites para Sporting Covilhã x União Santarém para te dar ainda mais noção para essa partida. Aproveite as informações e curta o jogo! Analista de apostas esportivas com mais de dez anos de experiência em análise de futebol, estatísticas de partidas e mercados de apostas.",
+        "keywords": [
+            {
+                "keyword": "sábado liga portugal",
+                "score": 0.6557
+            },
+            {
+                "keyword": "partida sábado liga portugal",
+                "score": 0.6549
+            },
+            {
+                "keyword": "13h00 horário brasília liga",
+                "score": 0.6231
+            },
+            {
+                "keyword": "liga portugal até momento",
+                "score": 0.6069
+            },
+            {
+                "keyword": "horário brasília liga 2026",
+                "score": 0.5866
+            },
+            {
+                "keyword": "vivo liga portugal até",
+                "score": 0.5845
+            },
+            {
+                "keyword": "santarém vivo liga portugal",
+                "score": 0.5835
+            },
+            {
+                "keyword": "veja tudo transmissão sporting",
+                "score": 0.5805
+            },
+            {
+                "keyword": "portugal até momento não",
+                "score": 0.5628
+            },
+            {
+                "keyword": "horário brasília liga",
+                "score": 0.5476
+            }
+        ],
+        "source_name": null
     }
 ]

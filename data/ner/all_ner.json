@@ -132658,6 +132658,126 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTE0tRWRmVEttRm1tWUdxREtEanZSQm5KNGlOc1lITXI3b05pN2hXaUEyMEp4dC12bG1HZkRkYV9PaXhuUGwxWWhqXzhMUi1fWV8xRkVwWjZwQjk5VzBReWNadllfZDlsODM3d3Z6RTJHSnpBX01GakJ1dw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 13:11:00 GMT",
+        "title_clean": "Crise da água ultrapassada em Manteigas",
+        "entities": [
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Flávio Massano",
+                "label": "PER"
+            },
+            {
+                "text": "Carvalheira",
+                "label": "LOC"
+            },
+            {
+                "text": "Águas do Vale do Te",
+                "label": "ORG"
+            },
+            {
+                "text": "Bairro do Outeiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Picoto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSjZCVUpTdkoyNWtCZmVsTjdwZzRoV29NUkdYOEZpck9qQWp1VmJBeUZxZ0E0RUFxbzlzUGoxOGU0SFVmdUdhdl9UekN0a0F3OEZQQTl3QmVvSHNvTlhSY0RDRHFTcmE0Mjlodk9jWnpFeEpKX0ZScDFfVnkwUnlGZkE5aUJXcVU0SWhjOWE0czdWTzZiZWVFV015WmNlRFRxaHJpSHRLWVJUbWJ4UTd3dW9STDZfeEZDRkNMaUNMRVJSelp3Nm5lTXpjdWlTbkg5R2xoUHFranMwVkRM?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 14:09:00 GMT",
+        "title_clean": "Aos 18 anos, esta jovem portuguesa faz história ao ser distinguida pela NASA - Notícias de hoje - IOL",
+        "entities": [
+            {
+                "text": "Lua Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Kennedy Space Center",
+                "label": "LOC"
+            },
+            {
+                "text": "Florida",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Anita Gale",
+                "label": "PER"
+            },
+            {
+                "text": "Assembleia da República",
+                "label": "ORG"
+            },
+            {
+                "text": "José Pedro Aguiar-Branco",
+                "label": "PER"
+            },
+            {
+                "text": "Ponte de Sor",
+                "label": "LOC"
+            },
+            {
+                "text": "Agência Espacial Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "Parlamento",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDV6TW1tMkpMSWxvWEU5dnFOQ0daWWVBa05ndFFNVkFqeXZqQzhYZWRNRkZaeGtoY3ZBMHUzOGdfMF9jWk1FXzJJUzg3ZGdiREE4X2FFUVlBUU55SWhEM2NMUWpHRTlBbGNIT0Z5MTJEdEFnNW1ZS0s3TGxmMjljb3k0U1NYRUV6SkxNekpRNE9CVlFvdWVmWmVTdUhpMnBhRVNDdXJFQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 20:30:00 GMT",
+        "title_clean": "Assistir Sporting Covilhã x União Santarém, na Liga 3 (08/08) - APWin",
+        "entities": [
+            {
+                "text": "Sporting Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "APWin",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
