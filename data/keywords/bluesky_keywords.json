@@ -7349,5 +7349,89 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3msghxwmp5d2u",
+        "source": "bluesky",
+        "created_at": "2026-08-06T16:36:01.762181Z",
+        "title_clean": "",
+        "clean_text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Vila Do Carvalho - Mato. Saiba mais em IRCovilhã FogosPT ⚠🔥",
+        "keywords": [
+            {
+                "keyword": "incêndio castelo",
+                "score": 0.6749
+            },
+            {
+                "keyword": "novo incêndio castelo",
+                "score": 0.6662
+            },
+            {
+                "keyword": "novo incêndio castelo branco",
+                "score": 0.6324
+            },
+            {
+                "keyword": "incêndio castelo branco",
+                "score": 0.6225
+            },
+            {
+                "keyword": "novo incêndio",
+                "score": 0.6222
+            },
+            {
+                "keyword": "vila carvalho mato saiba",
+                "score": 0.6037
+            },
+            {
+                "keyword": "vila carvalho",
+                "score": 0.5402
+            },
+            {
+                "keyword": "vila carvalho mato",
+                "score": 0.5064
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3msepcav67o2d",
+        "source": "bluesky",
+        "created_at": "2026-08-05T23:41:44.796437Z",
+        "title_clean": "",
+        "clean_text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Covilhã E Canhoso - Mato. Saiba mais em IRCovilhã FogosPT ⚠🔥",
+        "keywords": [
+            {
+                "keyword": "novo incêndio castelo branco",
+                "score": 0.6852
+            },
+            {
+                "keyword": "incêndio castelo branco",
+                "score": 0.6754
+            },
+            {
+                "keyword": "incêndio castelo",
+                "score": 0.6744
+            },
+            {
+                "keyword": "novo incêndio castelo",
+                "score": 0.6666
+            },
+            {
+                "keyword": "novo incêndio",
+                "score": 0.6255
+            },
+            {
+                "keyword": "canhoso mato",
+                "score": 0.4972
+            },
+            {
+                "keyword": "mato saiba",
+                "score": 0.49
+            },
+            {
+                "keyword": "canhoso mato saiba",
+                "score": 0.4652
+            }
+        ],
+        "source_name": null
     }
 ]

@@ -131706,6 +131706,746 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTE4tN29ycjhTWjV2dFlMc0JWVmZIbFhuVTgxQ1l1RzI1emROVzNxdUEwMUh0WFJ6UFB1MVpILUcwRzNZRHp2NEsxZnVPck9FeTNoSzJITWs5Z25Za2Nzek55bVhQUGZXMmZqXzJ5WThrb1gxMm8xRXJaQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 07:51:00 GMT",
+        "title_clean": "Há 37 “novas” casas para morar na Covilhã - noticiasdacovilha.pt",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União Europeia",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Bairro do Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Nova do Souto",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Cãmara",
+                "label": "ORG"
+            },
+            {
+                "text": "Município Covilhanense",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjZua1hDaWtKdE9ISkRBbVJpSlVhUlVIM0NDNWtsNXpPcUtRbjdtU3A0WXRUemRxOUtrWVdpRVgtdDllaWpoOU1ZdC1vWEJUVVg2Snh4RlQ5NnNLQXFlWE93ejJzTDB1TldkUjlTQ1FJeHJTT0t2MDk0YkxJc2l3RThnWEN6dGZrN0l5cHg5dkNUcVdaTnI2OEY2Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 13:45:00 GMT",
+        "title_clean": "Jovens descobrem a Covilhã com a Rede Náutica solidária - Diário de Leiria",
+        "entities": [
+            {
+                "text": "Marinha Grande",
+                "label": "ORG"
+            },
+            {
+                "text": "Piscina das Penhas da Saúde",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Arte Urbana",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pousada da Juventude Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "São Pedro de Moel",
+                "label": "LOC"
+            },
+            {
+                "text": "Rede de Estações Náuticas",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXhLcFptVGJFb3ZaSGozZlBaUTJMamg1bTlhTmhBR01VOHlwMzljZkRWZUxXRXVxWWE1NG1STkp6b2VXTVdmVFU3Z2g4Q0JUSk5nVHFjU3JocVBzS2FYZDZIWWNMNm02SHI3S09iRHVISFBNbk9nWlZMb1hFeTBTQWRZZkFYY1FCZnVPRGxYOGxwUjI3cFljYlFYRmx1QjZR?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 17:33:31 GMT",
+        "title_clean": "Sp. Covilhã recebe U. Santarém no arranque do campeonato da Liga 3",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano de Évora",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveir",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano",
+                "label": "ORG"
+            },
+            {
+                "text": "Portimonense",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça \"Natura Hotels",
+                "label": "ORG"
+            },
+            {
+                "text": "Niang",
+                "label": "PER"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWZ4X09CNzBmbXBJeFNFNVoyYnFJQkh3Mlp6QUtSZ3hRTjJ1TVRtVkdJRUw3TGZnM2tVU1NSUlNMREhmMGxhNjdfbFdnXzYzYmVRdWZzem5WQk1LWnpWQUlBMFZHY1ZYXzBNU0pWWUwxQzB3S0o4QXdkcFBsWUZJN21PM1poUDh4?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 07:00:00 GMT",
+        "title_clean": "PSP: Cinco detidos em Castelo Branco e Covilhã - reconquista.pt",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2EzSWVTQTJZQzc0VWl2OElFWXVBVjk4X0pISlMzbEdYNnptQ3REVnh0bzN5Wkl6Y3FUQ2FsMXd1NXlGMjVKLWVuTzZvVWR5VUdZOG5uMkx3ZldRNkJ3V3QxcnRkckxVSmJFX3J4N0ExQUNMZzR5dVl2eGZXSy1LLUtyRVItMjdXR1Y1MWROM1hOLW5pZ1RhdnJFT2FidEwzSkdMN1BmSUU5VUlPSUJocVRwby13UUhTSzFLbllUczBtbFREVGNEenBONE1UYW9RQnfSAcwBQVVfeXFMT2pLcXBRRFRuOU9JcVpuMmZKczBBbXhMM1cyUmRKdENFSEdwb0M1RXVHSHJHd3FKZEpSMmpla3MyOGRMc0Z2OFN4SmdjSUFzVlRHZ1FoVmtZR2NaRUFLZEx5UnpzTUpwREVaWkpWaTZHcXdacmdQWXI3alFOdGxNUlU4M3hkYWZhODJhZGZ0VzdRWTE5WmQzQkJwMENpRnpiWnZoZllWeEtZLU5ucUxFelJuOExTT3NUUUpKWEhWdE9xT2Y5YjB1OXlScVZv?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 09:21:00 GMT",
+        "title_clean": "LEROY MERLIN reforça presença na Beira Interior com nova Loja Essencial na Covilhã - Record",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "LEROY MERLIN Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Catarina Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Alameda Pêro da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Empresa",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjFIaG1XVU84UFVwNWdKX3o5Nlozd2NnVVE0cklCU3M0bXk0QThOY09KcUk0R0RVc1RSYTdidnhTaDhlMmRRMklwOXRCbGYzX0lFSzVid0JPMFcycldGWUd2bUs4OFBzQ3ZQaUZhSGNqcVZaRFFKak1PZEQ1bjNobXFOenc0TzdvX20tbkhZbmlVcWdaV0MzUzB4WElJR0pZUEJ2M1hESklXMDJ0QmtDcUVNOG9iRVBuWXdLc1Z6RE1KTWF3TzdDOUZ2VUJ4M2Q5eEpB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 12:31:44 GMT",
+        "title_clean": "Verão no Centro Histórico regressa à Covilhã a 7 de agosto com estreia de Minta&The Brook Trout - radio-covilha.pt",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Francisca Cortesão",
+                "label": "PER"
+            },
+            {
+                "text": "Afonso Cabral",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Menezes",
+                "label": "PER"
+            },
+            {
+                "text": "Débora King",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxPY25vdG51UHQwQ2pfWi1ZaGlfTW5iYmloRnowYVdVbXhDbmxPLUhPd0J4bTdmODlJVnUtb05DdzVVRVNJOWpFa281Tjc5TTBuWTVNQ1FIa3N6M1F0QWFzQ0lfb1poNHRZN003Tm15OFFKQlVGX1drZWdQTE5GV0hsRDB2djhvamVvU0dqWWhSMkZNNkZCMUVkaFFYOUVQQkxGQnQ4aXZHRTF0N1RFYWJwZzN0MnhWY3FCU2RKWG43SFNSdmZlUlRBdWpWOVZWRE0?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 16:16:09 GMT",
+        "title_clean": "Mercado of Sport’s: Guilherme Silva reforça Sporting da Covilhã por empréstimo do Mafra",
+        "entities": [
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHIydXdRX3RuYm1NUHdPM1ZzTUpGcDl0azVqWldKR0dCc1NpTjU5TER3Rm1ibU53VWJyY0FVWW1LQ3c0VDM4WXFlYVg3cW11TmVJUGplcjJTdzFqQ2plVU9xQXJlUjlWZ0pvZ2RXRXdUc19rQ20zUUU0cHBuRUZxT1k3cWdRdnluSlBzRzdYc3RleFhuMDhEQXFpbTFWVFdTbEVXYTk1OVdSeVNQVXVCN05sYWtaY2dVT0E?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 08:44:54 GMT",
+        "title_clean": "Penta Clube da Covilhã conquista vários pódios no Amazing Espite Trail 2026 - radio-covilha.pt",
+        "entities": [
+            {
+                "text": "Penta Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Francisco Rabasquinho",
+                "label": "PER"
+            },
+            {
+                "text": "David Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Marta Soares",
+                "label": "PER"
+            },
+            {
+                "text": "Dina Esteves",
+                "label": "PER"
+            },
+            {
+                "text": "Marco Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Frederic",
+                "label": "PER"
+            },
+            {
+                "text": "Kateryna Shvydyuk",
+                "label": "PER"
+            },
+            {
+                "text": "Francisco Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Moraes",
+                "label": "PER"
+            },
+            {
+                "text": "Julie",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Loureiro",
+                "label": "PER"
+            },
+            {
+                "text": "Catarina Morais",
+                "label": "PER"
+            },
+            {
+                "text": "Samuel Cabrito",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwJBVV95cUxOb05TUEd3bTN6Z0pEYWZHREFNNDk1Zks1VU0zQWFOdGVRUm5ySW0zUWRFLWwzcTltOGhBbVl6THdkT2dUVWRuQmljTHRNUlNzTmpnemNaTGNXbkVzNHdPYS1kQUpHanlhdWtHVFZGMkNhOElBQ05rVmw5S29FSDU5TVpKdkQxYjE2cnR0Q0YxZmloeHZMcDBxQ0JaRzNhdDktcEwyMzJQRDZfWTh2SUhSU1RoTlVoeFR1N2luNmI0T1ZFbW9aMmlaajNsVkpvS0NqbjlJV2piMVZpNndaUGtFTW5BZXRtTUtzejBHMFRlWHRxaHJaOFFoVldrT1M1b2M4cDAwMUM1Y2xvX19YQWQ2RS0xdk91VHFYOTFEQXdyb9IBpAJBVV95cUxOUjRMM0Fxc1FGRV9xZklnQVIyOExGY2FqNHJ1NDNsdHAwMWV6NGV1dFh2d2FMX3Rra0xpLUV3TkVwRjJNREZ1ZFQ4SVNxSl92VFNzd3BJUmlrUTB3bE9qNzNGNVZjcHJPNTNJa2ROYXI5SW1wNk00dElrdU5mRVpaRmtTdGp2UnZxTGNHNEhnNng2aTFNOU9QM0c5d3ZfY01wZmFJM2t0empqb1g3RjRxQV94b2RKaGpkSUdhNmY4ZUdJcG9MRGw4Z2x6Rl9SU0xzR293V2pjZWYwTkxyQWJiT2E1VEp5VU5iMHVTTGJGN2NVMEgwZkdWNGJYdk9UdTRJQTRiN0QySDRRdU9LU2tVeGlFbU5sdHBPNFdvTnA2ZTNzbzNk?oc=5",
+        "source": "news",
+        "created_at": "Fri, 31 Jul 2026 19:19:21 GMT",
+        "title_clean": "Covilhã: 50 jovens portugueses, lusodescendentes e lusófonos de sete países europeus participam em intercâmbio para promover inclusão, identidade e cidadania através da arte - anacao.sapo.pt",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Cap Magellan",
+                "label": "ORG"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Bélgica",
+                "label": "LOC"
+            },
+            {
+                "text": "Dinamarca",
+                "label": "LOC"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Luxemburgo",
+                "label": "LOC"
+            },
+            {
+                "text": "Suécia",
+                "label": "LOC"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "LOC"
+            },
+            {
+                "text": "Lurdes Abreu",
+                "label": "PER"
+            },
+            {
+                "text": "Francisco Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Direção do Conselho Nacional de Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado da Inclusão",
+                "label": "ORG"
+            },
+            {
+                "text": "Clara Marques Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Cap Magellan",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmhaN3F6WENzY0JaYnJ4emVhUXExU1Y4a1VuaEdZVE95cmdUSFFndm94c2tDb1RhYzNvVzBHaFoxLTRZNm5nWjd2a3pqamNWOERjMDFhVm1vSXYxZERsbjQ5YjBYZzI4NXc5TXM5VDlpV3JNQkpZQ0U3STdYVDAzcExYUEsxU3lfakIxSkpyUDgxVjdTY2lWWnVvRlpjeU9SVUkwTC1nM2l3SlZXbjY0eDd4RGlXaWFTcWVQak8tZWEyYWF2eHpYWTFYOHFEc21K?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 14:47:30 GMT",
+        "title_clean": "COVILHÃ: Equipa da Universidade da Beira Interior conquista dois títulos na AeroCup 2026",
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "UBI Aeronautics Team",
+                "label": "ORG"
+            },
+            {
+                "text": "UBIAT",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjlrbXlCc1pKcWJXRThmajNVanBwdk5CR1ZCdk54NE5Bb0JrUHpOaWlOeDhUV3lVWUtNbHZ4TzJPRFYtakd6dlF6NTNCZ2JUaFJRczk0REhUU05wWnpmajZsZGpUcjZOSnE4TU9NMEdsVWcyV0s1enM3WWlNNG1WMGZrbXU1cHVyRmNXNDZTdEppVFozRFFyWTR1bjFUck9P?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 12:42:18 GMT",
+        "title_clean": "Cinco detidos e 15 acidentes marcam semana da PSP em Castelo Branco - Diário do Distrito",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Comando Distrital da PSP",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário do Distrito",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXRxRy1NcnNHMTh0VUdBZl85dktLTTdlSXprcnN2ekNoYlczWUVjWXUzODRXYkF2R2szZ0pmQ2tkVVA1TWZ5SEJsWHVIejl6QzZzY3JuV2pDeVhlQkFJUmhUZ2NqcWh6bW5jcjRPS0QyelVZdEpRd0RESl90QUZ2ZEJVeXpZV18zaVNVY0M5dkhqcGhmYWpmNFFqYWhQZkFhX1R5azFHTjcwMmRBTlR3WmFnZGFwUU1yYVVEY2d4UHRYcGFRaUN0dDFrT1l3Tl9pQUE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 00:00:27 GMT",
+        "title_clean": "Volta a Portugal Road race Men, Stage 4, Figueiró dos Vinhos - Covilhã Live - TNT Sports",
+        "entities": [
+            {
+                "text": "Figueiró",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "TNT Sports",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihAJBVV95cUxOQTRKQjhtcm9EOFhJVUhiSDB4dXYzWU0xTjZBY2xlQjhreTVSWUlFdmlyTFlDdVlUcXpTSC01TTRRX3dTR3VTQmVCcTh5REZ6VjBIeGpkUWV6Y3ZBQ3d5X0hXR1lWanlnb2FhNzhRR0t0dUkwRHctcG41NzhTWTJYb0gwa29fcXdYSW5raDNkT1hfQVVsY0U2Sy1YQTBBbjNDMHduYXhDajZSWWt4dzJhSnVuSVliQWlNWkl2TVg1dHpwU3RySm84N2JTUDRUaFYzanFjRWc4WlB2RGdwTV8yZGYwakY1VjlKZFpxUXRlQVQyeGRPcWw4YVVEaTNDSEM0T3ZGNw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 15:49:25 GMT",
+        "title_clean": "Covilhã: Especialista imobiliário português aponta investimento estrangeiro e valorização imobiliária como motores do crescimento da Beira Interior - Agência Incomparáveis",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Agência Incomparáveis",
+                "label": "ORG"
+            },
+            {
+                "text": "Cidade Neve",
+                "label": "LOC"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Israel",
+                "label": "LOC"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade",
+                "label": "ORG"
+            },
+            {
+                "text": "Hospital Pêro da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Luís Montenegro",
+                "label": "PER"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Equipa António Carlos",
+                "label": "ORG"
+            },
+            {
+                "text": "RE/MAX Start",
+                "label": "ORG"
+            },
+            {
+                "text": "Região das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "RE/MAX Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTFBTNHhwQ3JhRldGUTg2N0hfdXpBMm9JTFhHSjF0ZTZ6MmFRUnNQNHYxMW1IZ2RsODNmNWotMS11dWhmNGtuQS1QbjJlbUJURGltcHhFQ1djZ0F5dk80SWU4aFh0WXkySEpLZlhlZXgwYnh2RUhCbWdRWg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 09:09:00 GMT",
+        "title_clean": "Rua Ruy Faleiro vai ter novos semáforos",
+        "entities": [
+            {
+                "text": "Rua Ruy Faleiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "Rua Comendador Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Direita",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxPREFrQUtWOWk2eWZxRDVHMVVaWVdRRGtZcWN2bWZ3TWgxZFk1Q2hfUjMwRmR2MUpTRFp5UlMzRF9sYUI3Z1dqaHFoTXJFMkFFc3Jjdks4Vnp2UE1YcjBqdFRuTkhLbzFqaVpoZWszdlVyTFROZjBXMzI0SW4wMDJMeVpIWmM2MmpUYlRkVGotY2x6OUZhTHRBenJpcWkwODk3aERyUnJuRkM4ZlNVeXB4RWt3?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 16:43:17 GMT",
+        "title_clean": "Mercado of Sport’s: Cheikh Niang renova com o Sporting da Covilhã",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFd5RzJVdDdFa2c1Tl9iOUQwSlJaR09jZDgtV1ZGRjhVSzlHeG9OOXBHWDdiM0ZMZ25XSlRmZHhsTjJTcmZVellhcUgxQ3ZHNExmZWJrRlJhMlRHNlotYUNtYjJWdmVBb0tyN0MxYVNqNm5mckwwOWg2eXktWXN0Zmc3Y0RUVTMwM0YyZmpiNzNVcC1CeFhsTjVHd25WMzZJMlRZWHVrWXh1QXgxdTJJd29PZ3IzLXhXeHVOeTNnYmcxRDhhSmRMaFBfRzlMS2JRVjZaUGJR?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 09:19:47 GMT",
+        "title_clean": "CELORICO DA BEIRA: Jovens assinalam Dia Internacional da Juventude com atividades na Covilhã",
+        "entities": [
+            {
+                "text": "CELORICO DA BEIRA",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município de Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "CLDS 5G Celorico Solidário",
+                "label": "ORG"
+            },
+            {
+                "text": "Piscinas Municipais",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wWldiMVdWVVNzdVhlWU5BT2p6emJZRDdqN2szX1pCYm5hMXVhQS15eTA5ZVNCN1FfbV9zeHNaZzd2TURtRFlidVNNOTJUTnEtWFlhdDJwMzVKQ0lvamlSNFZEYw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 17:08:17 GMT",
+        "title_clean": "Títulos do SC Covilhã (Fut.7 Jun.D S12) – Palmarés Completo do Clube",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -135674,6 +136414,46 @@
         "created_at": "2026-08-04T10:45:31.546Z",
         "title_clean": "",
         "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3msghxwmp5d2u",
+        "source": "bluesky",
+        "created_at": "2026-08-06T16:36:01.762181Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Do Carvalho",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3msepcav67o2d",
+        "source": "bluesky",
+        "created_at": "2026-08-05T23:41:44.796437Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso - Mato",
+                "label": "LOC"
+            }
+        ]
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",
