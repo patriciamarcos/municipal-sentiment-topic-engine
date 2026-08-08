@@ -7433,5 +7433,57 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:acglo4ret2f2wc5duqtispsa/app.bsky.feed.post/3mslmmdp6bj2q",
+        "source": "bluesky",
+        "created_at": "2026-08-08T17:42:20.429Z",
+        "title_clean": "",
+        "clean_text": "GOAL! 79' - SC Covilha. SC Covilha 2-0 União Santarém. Liga 3 sccovilha uniaosantarem",
+        "keywords": [
+            {
+                "keyword": "79 sc",
+                "score": 0.4841
+            },
+            {
+                "keyword": "união santarém liga",
+                "score": 0.484
+            },
+            {
+                "keyword": "união santarém",
+                "score": 0.4171
+            },
+            {
+                "keyword": "santarém liga",
+                "score": 0.3326
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:acglo4ret2f2wc5duqtispsa/app.bsky.feed.post/3msllpojft425",
+        "source": "bluesky",
+        "created_at": "2026-08-08T17:26:18.780Z",
+        "title_clean": "",
+        "clean_text": "GOAL! 63' - SC Covilha. SC Covilha 1-0 União Santarém. Liga 3 sccovilha uniaosantarem",
+        "keywords": [
+            {
+                "keyword": "união santarém liga",
+                "score": 0.5249
+            },
+            {
+                "keyword": "63 sc",
+                "score": 0.4536
+            },
+            {
+                "keyword": "união santarém",
+                "score": 0.4497
+            },
+            {
+                "keyword": "santarém liga",
+                "score": 0.3526
+            }
+        ],
+        "source_name": null
     }
 ]

@@ -3472,5 +3472,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vj3v8f",
+        "source": "reddit",
+        "created_at": "2026-08-08 18:50:17",
+        "title_clean": "Hey! Alguém sabe onde ainda está disponível encontrar óculos para ver o eclipse? 😊😊",
+        "clean_text": "Hey! Alguém sabe onde ainda está disponível encontrar óculos para ver o eclipse? 😊😊",
+        "keywords": [
+            {
+                "keyword": "encontrar óculos ver eclipse",
+                "score": 0.8407
+            },
+            {
+                "keyword": "óculos ver eclipse",
+                "score": 0.8139
+            },
+            {
+                "keyword": "ver eclipse",
+                "score": 0.6535
+            },
+            {
+                "keyword": "disponível encontrar óculos ver",
+                "score": 0.6143
+            },
+            {
+                "keyword": "disponível encontrar óculos",
+                "score": 0.5955
+            },
+            {
+                "keyword": "sabe disponível encontrar óculos",
+                "score": 0.5824
+            },
+            {
+                "keyword": "encontrar óculos ver",
+                "score": 0.5681
+            },
+            {
+                "keyword": "encontrar óculos",
+                "score": 0.5276
+            },
+            {
+                "keyword": "óculos ver",
+                "score": 0.5244
+            },
+            {
+                "keyword": "hey alguém sabe disponível",
+                "score": 0.3709
+            }
+        ],
+        "source_name": null
     }
 ]

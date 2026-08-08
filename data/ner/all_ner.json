@@ -132993,6 +132993,242 @@
         "entities": []
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxPMWxDYVE1bDE2TjV4MmM2TFNqYVlrYXhfdmZGNHVFNkFCTmxzaWs5QzJJbWN0ZXVWWkVwdEVSbUFQcnhmWjlTS1YxeHRfQTRnd24xVnlPemo4Um5kTjdGN2MxaHE2Vnp1M2Z0Z3F5dGFnbmRYSzhvdC1TVHBLeUZrZkNqS3FrMTBHdTJPNW9qbGdPQUFHSUVhMzAyNmdldw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 10:00:00 GMT",
+        "title_clean": "Van Zee, Luís Trigacheiro e Nemanus nas Festas do Senhor do Calvário",
+        "entities": [
+            {
+                "text": "Van Zee",
+                "label": "PER"
+            },
+            {
+                "text": "Luís Trigacheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Nemanus",
+                "label": "PER"
+            },
+            {
+                "text": "José Pinhal",
+                "label": "PER"
+            },
+            {
+                "text": "Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Gouveia",
+                "label": "ORG"
+            },
+            {
+                "text": "Rancho Folclórico de Gou",
+                "label": "ORG"
+            },
+            {
+                "text": "Secção Serra a",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação São Julião",
+                "label": "ORG"
+            },
+            {
+                "text": "Ex Bellino & Bellino",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Dra. Lurdes Almeida",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida dos Bombeiros Voluntários",
+                "label": "LOC"
+            },
+            {
+                "text": "Senhor do Calvário",
+                "label": "PER"
+            },
+            {
+                "text": "Capela do Calvário",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkpHbjNoSF9BUkNSS2EzdUlkUkJhNThjUkdjTHdYaFk1c3htUFk0cUUzeTZ5TlVTR19mcDlYa3Y0dGMxY1V4dlpoTEdVcHp4WXphOExRdllNQk5YaUVMdzktci1fOHF0M09NdVFmSGtwVzFVcjZmVEp1UEdxTUYxdUhoQzlxd2xscnJ6dDU0OC11Uk5DZDZyVUpscWRrc0JONWRSSHNTWTdlWmc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 04 Aug 2026 13:03:09 GMT",
+        "title_clean": "Ciclismo: Volta a Portugal arranca amanhã. Sobe à Torre no domingo",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueiró dos Vinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã/",
+                "label": "LOC"
+            },
+            {
+                "text": "Pampilhosa da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Portela de Unhais",
+                "label": "LOC"
+            },
+            {
+                "text": "Dornelas do Zêzere",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Silvares",
+                "label": "LOC"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Dominguiso",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Federação Portuguesa de Ciclismo",
+                "label": "ORG"
+            },
+            {
+                "text": "União Ciclista Internacional",
+                "label": "ORG"
+            },
+            {
+                "text": "Emesports",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNUNoLV9OaS1nUW1FOUd3QkFIVFVVUVBzYjdFandDNEZNWGEwTUprb2dDU1BCdDEtU3VXQ2NMUEtoQzk5T19paGhQb1gwdEJYazdnSmdOLWxjc3RtRkJXNjY4c3I0cTZuMTZIYVJBZUZPcUNtRGpxQjBaSzl1cEtqZHdockVMTVlzNkxTNzBRbFVxTjZpS0FkbDE5MEJEbEVTQmRscEs4OGJxaTZOT09fZjhweWxjY2FNaWlyS3ZmVDFuVy0wNW9aa1NkZTYzMkJk?oc=5",
+        "source": "news",
+        "created_at": "Thu, 06 Aug 2026 09:35:00 GMT",
+        "title_clean": "CMC rejeita pedido da MoviCovilhã para alterar contrato de concessão dos transportes urbanos",
+        "entities": [
+            {
+                "text": "MoviCovilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Simões",
+                "label": "PER"
+            },
+            {
+                "text": "CDS-IL",
+                "label": "ORG"
+            },
+            {
+                "text": "Eduardo Cavaco",
+                "label": "PER"
+            },
+            {
+                "text": "CIM Beiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVJCQzMtdG5uMGFDcjRzb3RHNEtHWEtyTUN3UWNhME1vemdPRUh2N1hBNW9IWjhwZWZCWFJlWVpSNGppalU5UlczaVRzY0VDczdWeDM5bjlhdzI2VmhuNkxYamFXMTlnMTNNTTI3UHpMNEtIa2g4V3kyVXFvd2N4eVpBalN6UjRxZl9obmkwVmNDejU3T19QZG9DcDQzNmlHalpKSWlUemZQdw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 09:25:30 GMT",
+        "title_clean": "LEROY MERLIN investe 3,7 milhões de euros em nova loja na Covilhã - Traders Union",
+        "entities": [
+            {
+                "text": "LEROY MERLIN",
+                "label": "ORG"
+            },
+            {
+                "text": "Traders Union",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "City Center Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jornal de Negócios",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Catarina Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Alameda Pêro da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -133931,6 +134167,13 @@
         "source": "reddit",
         "created_at": "2026-08-07 02:04:33",
         "title_clean": "Brasileiro indo estudar na UBI",
+        "entities": []
+    },
+    {
+        "record_id": "reddit_1vj3v8f",
+        "source": "reddit",
+        "created_at": "2026-08-08 18:50:17",
+        "title_clean": "Hey! Alguém sabe onde ainda está disponível encontrar óculos para ver o eclipse? 😊😊",
         "entities": []
     },
     {
@@ -137006,6 +137249,38 @@
             {
                 "text": "Canhoso - Mato",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:acglo4ret2f2wc5duqtispsa/app.bsky.feed.post/3mslmmdp6bj2q",
+        "source": "bluesky",
+        "created_at": "2026-08-08T17:42:20.429Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "SC Covilha. SC Covilha",
+                "label": "ORG"
+            },
+            {
+                "text": "União Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:acglo4ret2f2wc5duqtispsa/app.bsky.feed.post/3msllpojft425",
+        "source": "bluesky",
+        "created_at": "2026-08-08T17:26:18.780Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "SC Covilha. SC Covilha",
+                "label": "ORG"
+            },
+            {
+                "text": "União Santarém",
+                "label": "ORG"
             }
         ]
     },
