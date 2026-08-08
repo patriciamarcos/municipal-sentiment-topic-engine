@@ -132778,6 +132778,221 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3lnNzZELWtCUmxyOGF1UWVJdm1oazY0eENiMnc2NkgxY3dYT1AxMlFNbEJtVzJJWEVNRU9hbzIteWJHQy1DUlJsWDdrMHpUQlpLRS1LRnJfeWtibE5jVDBOQTltazV2X0ROWWFMcHRuYXJZN290LW82QXVQY01jRzRZYVJOalF3eDc0WWR5cXAxVkFYbG1mcXZzc1VDNWh3Z19NNQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 07 Aug 2026 10:40:08 GMT",
+        "title_clean": "Covilhã avança com a desmaterialização do Arquivo Municipal",
+        "entities": [
+            {
+                "text": "Arquivo Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwbGM3dUVKMllUZ1A4bTcycjJMMjl6V0hUbHZHcjVlM2otZWlpcmhzX3IybVNKYmpNT0NGdE1vSnFyazJTWi1hWVJ1Qi1TNkxiNUJsbl9uWTJrWGdMdkZv?oc=5",
+        "source": "news",
+        "created_at": "Fri, 07 Aug 2026 07:38:00 GMT",
+        "title_clean": "Sábado já é a contar",
+        "entities": [
+            {
+                "text": "Portimonense",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça IMB Hotels",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Pinhal",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano de Évora",
+                "label": "ORG"
+            },
+            {
+                "text": "Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "ORG"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Edu Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Jailson",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Brito",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Peixoto",
+                "label": "PER"
+            },
+            {
+                "text": "Filipe Pinto",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2Fya1dFNUQ2eG13aGFyUDlzanBrd0w3Ty01LUNENnhWalN6cV9VTXRaS0NvRGJYTjJqZTA4dE5ZR09JT3NsMGFtSE9xQ0VKRi1TV2dxSVhRTDlKOEc4Mll3bWZKamRKVHNuOXZwSDBqVV9nbTdEb0FLVUhZU1Q4QVdKREcwcEMzQzd6NkhhZVcwRnlNamNTd09FTVZfM1JhRy1qYkNR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 07 Aug 2026 09:31:41 GMT",
+        "title_clean": "Volta a Portugal condiciona trânsito na Covilhã este domingo",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Dominguiso",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueiró dos Vinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã/",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMicEFVX3lxTE1uVnhmeC1LN00zYjlFSUppQ1VxMW9hRTJMTnJZS1JEanA3UEVoQ1oza3FEN0NLUng3RTZnSDVjblNYWUlWZ1dEUUVNZzUwbGN1ZThwdlZWZWVIYW9BMzNrenhzbk9tVUlwMkp2bjJRMk8?oc=5",
+        "source": "news",
+        "created_at": "Fri, 07 Aug 2026 09:50:00 GMT",
+        "title_clean": "Festival da Juventude na Boidobra",
+        "entities": [
+            {
+                "text": "CCD Estrela do Zêzere Boidobra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1o3THd0YmwxbXI0VDRmT2dLM3JPQldKbzE4bnoyTHNUQlhUZkhHTnF6MWlXaVVPVndBNWhsYmc0ZjZnR2JHUkJzc0tFelFVV0ZILTgzVDlqVDFWUnF0Y0NFYndFZktiRFdFdGZsZVFDU1Z6ZjZWOTgxZmN4VDVuV1BZLTdjT0tQd2FycUliRzBGXy1QREkxdnpoMkNUVWc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 07 Aug 2026 08:53:36 GMT",
+        "title_clean": "Sporting da Covilhã divulga bilhética para a nova época",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal José Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "UD Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgJBVV95cUxNV19wNmE5VnJMemFwWVNXbm9nLVJXcTN2LTM4b083aTh0aTdndGZWbnl1THhlZHY1R1BLNmw4ZjFITC16RlJKUHhmUVZXREJCdUM2VmJFS1JsSV8wS1FsVVNkX2V2XzU3QWxUZmpYcktiU1FwU01CbnJNZTBPMHZFSXBBdklFU0VNU0VCRTdPRHM1cXhUT2QyTGZ0T3V0Q2c4bUdCOUlNVEVvUkJ2LWx2UzVjeUlCUE53NUlXRXR6QkhzLVZ0Y19sNkFYdTljR2ZUTkhUMXZtaXpIcVZINEhweGpqSDVwZUdoaWJjZ3BsREdoQktvbkd6ZzNFRzRWRldwMmM4VlVn?oc=5",
+        "source": "news",
+        "created_at": "Mon, 03 Aug 2026 07:31:52 GMT",
+        "title_clean": "Jovem de 20 anos ataca o pai com um canivete na A23 durante viagem de férias e deixa-o em risco de vida - Jornal SOL",
+        "entities": []
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
