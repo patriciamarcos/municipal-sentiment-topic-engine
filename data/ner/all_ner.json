@@ -133229,6 +133229,454 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE9WRU56X2xMNDhqeDdpVGpxc2lyZHFyN1M5aWF1bk1MQl9vcjRZS3dqb1plUjRLWGFyNG9jd19zWGRWU0wxRm5oWlYwczNoQ1VKSlhNMGFOcC1ST3lUWFNsUmU0bm1tOHlXM0ZFRWJSVm9tTFdEdHZtYkdKeVowQQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 19:41:12 GMT",
+        "title_clean": "Covilhã entra a ganhar - FPF",
+        "entities": [
+            {
+                "text": "FPF Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Tiago André",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Fernandes",
+                "label": "PER"
+            },
+            {
+                "text": "Torres",
+                "label": "PER"
+            },
+            {
+                "text": "SC COVILHÃ",
+                "label": "ORG"
+            },
+            {
+                "text": "UD SANTARÉM",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "André Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Rocha",
+                "label": "PER"
+            },
+            {
+                "text": "Luís Lopes",
+                "label": "PER"
+            },
+            {
+                "text": "Patrícia Carneiro",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Harruna Iddriss",
+                "label": "PER"
+            },
+            {
+                "text": "João Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Ronaldo Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "João Pacheco",
+                "label": "PER"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Tiago Lemos",
+                "label": "PER"
+            },
+            {
+                "text": "Bi Djei",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "André Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Kelechi John",
+                "label": "PER"
+            },
+            {
+                "text": "Luís Martins",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "João Nobre",
+                "label": "PER"
+            },
+            {
+                "text": "Kirill Klimov",
+                "label": "PER"
+            },
+            {
+                "text": "Isnaba Graça",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Geadas",
+                "label": "PER"
+            },
+            {
+                "text": "David Vinhas",
+                "label": "PER"
+            },
+            {
+                "text": "Noah Medalli",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Camacho",
+                "label": "PER"
+            },
+            {
+                "text": "Jaime Simões",
+                "label": "PER"
+            },
+            {
+                "text": "João Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Dinis Almeida",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFZGUnYyNDNrZFhVMVlIU0dYQjR4V1VNTmdkMHdKOVNpUzNyQVVLOVdGUEZ6VFBzSXdnbnp1N09OUThGRDJuT2xub2VKOGJ5VWtDVTZXaTRTV2Y1Ri1fOW5BRmE0SVRYbTVFRGtLZnBhRmJZSDBkalI5MG5WSTBFUWd0MDB0WmN4?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 18:18:57 GMT",
+        "title_clean": "Sp Covilhã vence na primeira jornada da Liga 3",
+        "entities": [
+            {
+                "text": "Sp Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHpzOURZUlQxdjBvSC1reWxURG9ac0p3bTZ6MC1yektyNTRMY25IeDJpWUJDWkg5RVpta0RvelF0Q29GY3lRRGFSZW9BalpBRlNlWEFrMl8tVUp3X1lURXlwNndVVmlIdWdpNzRxMmFLZ1ExRlM3Wm1EYUs0QkdxVmtJaVh3ZjROQVlxZ2lpSVRoUTZnclh2TU9MZUc1UzNRZ3dsOUFWQWNEZU5vaUZhcmFrNU1PckEwYXMyRA?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 18:00:00 GMT",
+        "title_clean": "Sporting da Covilhã entra na Liga 3 com vitória por 2-0 frente ao UD Santarém",
+        "entities": [
+            {
+                "text": "UD Santarém Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Rodrigo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHdfd3QtT3d6S1FHLVdrOF91TGtZMEhjWnNoWUtrOEw5MzFOMk1pUFMtdnhEX2pTT1pNUG1sNXIxN0FOXy1nRlN1VWEzbHJBcjZWdnBpMWhrWlNNdEhacXlka1ZFSGNsazFaZzhFbDd5NW1hYjI3clVzZU9JSm5yMzdMeXpiNDNDTDl3QWtzZ3NkWWdCMVB6N05Tb3d4YUh3SlFBQnhxalBiaHFQaFoyYjg4U3RiREx1MEJmRlV0R1ZRcFE3Z3lNZ2FB?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 10:15:00 GMT",
+        "title_clean": "Transferência de competências na Educação gera défice de 2,1 milhões de euros na Covilhã",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Secundária Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Pêro da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Quinta das Palmeiras",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2xDaGg3SnVRME5oWnBVTGlvelJLTzhOUkFIcm1menRFaWY5elZvQm5HanFIMFpBQ21ZQ01RSERvVml6ZC14ZDhsYU9ieFI2ZUYxQWJLaWlFeW1tM2s3SklRVkd6RzhUNWlOWk5ieVZONlZvdXFYTTFHNWEwLURfalRJUC1ESzk5UFhSMElhczFKd0ZuTVFPQjJJeFUzbVNtZU5rR2MyMHp6U2pHY0p1NXM4YjZ4VWJXMXVSNllpSlB6QjRLbjExR01JS2lSQ1UzUlpWTXl0VXhRWVBTcXRDZk5n?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 13:10:33 GMT",
+        "title_clean": "COVILHÃ: Baile do Emigrante regressa ao Tortosendo no dia 14 de agosto com música, tradição e animação",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Estacionamento da Escola EB 2/3",
+                "label": "LOC"
+            },
+            {
+                "text": "Quinteiros",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Beirão & Miguel",
+                "label": "ORG"
+            },
+            {
+                "text": "DJ Taborda",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZkVKUXRmQ0dEdFk1dUZkMmRiaFFkSU1jbnF1Qm93S2R4QkVjbzRlNlB5bmZKOGdnNE41S3VMUWVlVEp3MGVaZ21LXzhYb2NIWnUza1hWRG5hR3pzWnZoY2IzVXhSU3lVeTBaOTZSZXVTRFFic3F1VTVSVDk3VjcwTU1GSkxNbG1FMFJVY2ZCN3pISDlqWkhYU2dOWklZRkJqUDZ0cGNYNWVmQXFPOTBDcHRzdnpqWUkxWlloalEtSmljQWJIMEM1bURMVGxmenVObmJmV0dYSmE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 09:30:00 GMT",
+        "title_clean": "Penta Clube da Covilhã conquista cinco pódios na Freita Skyrunning e termina em 4.º lugar coletivo",
+        "entities": [
+            {
+                "text": "Penta Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sport Hotel Trail Running Team",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra da Freita",
+                "label": "LOC"
+            },
+            {
+                "text": "João Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Moraes",
+                "label": "PER"
+            },
+            {
+                "text": "Francisco Rabasquinho",
+                "label": "PER"
+            },
+            {
+                "text": "Julieta Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Loureiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0d5QVdGZ2pLTjlaUmxITEpmUlBQNldlcWlhamFKSDJJTV9fdmgwM2F2VkVVZkpRSkJaXzBOTHVEb0VQeFk1SEgyM3VJUlJJRnh6U1pZR3dnZXF1U3J2SHRrWTdXdTJoNDYtZWw3OEk0cmNkZm9fR2FmVUI4Z0hiRGh3Zk5PeFJGbnhNeHlJMWJ1cl8wNXJrWnNPOVlEdVhtWFczMms3c2hubFo3dEhxd1ZpNEFLSFF1N205RmphUnpRTzllMThtV2JDZFFiT2lCRzlab1psazJWakJNbGF1LVpR?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 18:04:53 GMT",
+        "title_clean": "Course en ligne Hommes, Étape 4, Figueiró dos Vinhos - Covilhã 09/08/2026 - Eurosport",
+        "entities": [
+            {
+                "text": "Figueiró dos",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1VfcDAyOGtFSVJXZTYwbzJGaUxfVTIwbkFLRENNcVU5dGpFMjY1SXlCd0VEc1JpRmxONDdEcHJVcEZ0MGRxQWR0UEYybHB1OUhCNjhCd2syQXNEamdWQlI0UGY3MHlROEJQS1N3Mmh0Q3hoYld0RHlwQkYwSFF2bnhqdE9FSk5o?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 16:51:01 GMT",
+        "title_clean": "SC Covilhã 2x0 U. Santarém - Resumo, Destaques e Crónica do Jogo",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTE0zaUc5dzZ6NWNDM1U4TkFodTVBTEVpVkpmNl80ZC1iQTI5UE9kTmpodzRJdGczczkwVl9senlPV01maWNSbTI0dTR6Y0pzSVhmMGRsYmZ2Xzk3NVp0M1dmMG9hUlFkWWJFbXZMV0NlMUxrUnpGdW5jVm13?oc=5",
+        "source": "news",
+        "created_at": "Sun, 09 Aug 2026 00:09:57 GMT",
+        "title_clean": "Ficha de Jogo SC Covilhã 2-0 U. Santarém :: Liga 3 Placard Série B 2026/27",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3AtdEpXWnM2aTdDRXhGbHVGb09ucUZYN2xJbFBXeHFmbFotY3RhRnNjS0NNcUdkTnB5YmcweUoyMEJDUlBLMjVPbURwQlJFY0o4Q1h1ZDZVbWpKRU1lWEFuWC1rSGtkY21YMGU1Nzh4T2JiY3pVUmI0Y2t3allMWVpmNlhkQUNkNXc?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 18:14:02 GMT",
+        "title_clean": "Fotografias :: SC Covilhã 2-0 U. Santarém :: Liga 3 Placard Série B 2026/27 ::",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWhZdkZTaUhROEJ4UzJfOENQSUJuRXhFOXMwTFhXREM2R25GSTdoS21Cc2xpajdJZ3A3eTU0dW5GakUwdjNFdUJld1ppb1VQdkNXOXJvMDJNUFhlSnhIVFA5OFM3UVRpZUtVT3F4anNNaHBSUWVUeFZ1SWZYTUhGTzlsZw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 18:04:04 GMT",
+        "title_clean": "SC Covilhã | Jogadores, Estatísticas e Análises",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -137281,6 +137729,26 @@
             {
                 "text": "União Santarém",
                 "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mslyjvfag52e",
+        "source": "bluesky",
+        "created_at": "2026-08-08T21:15:43.039931Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo - Mato",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã Fog",
+                "label": "LOC"
             }
         ]
     },

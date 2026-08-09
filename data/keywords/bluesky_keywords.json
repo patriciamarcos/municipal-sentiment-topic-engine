@@ -7485,5 +7485,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mslyjvfag52e",
+        "source": "bluesky",
+        "created_at": "2026-08-08T21:15:43.039931Z",
+        "title_clean": "",
+        "clean_text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Tortosendo - Mato. Saiba mais em IRCovilhã FogosPT ⚠🔥",
+        "keywords": [
+            {
+                "keyword": "incêndio castelo",
+                "score": 0.6602
+            },
+            {
+                "keyword": "novo incêndio castelo",
+                "score": 0.6559
+            },
+            {
+                "keyword": "novo incêndio castelo branco",
+                "score": 0.6502
+            },
+            {
+                "keyword": "incêndio castelo branco",
+                "score": 0.6354
+            },
+            {
+                "keyword": "novo incêndio",
+                "score": 0.6329
+            },
+            {
+                "keyword": "mato saiba",
+                "score": 0.4697
+            },
+            {
+                "keyword": "tortosendo mato saiba",
+                "score": 0.4227
+            },
+            {
+                "keyword": "tortosendo mato",
+                "score": 0.4201
+            }
+        ],
+        "source_name": null
     }
 ]
