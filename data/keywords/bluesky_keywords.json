@@ -7527,5 +7527,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:jmyruq3mbvjnjvv7wn2z3flq/app.bsky.feed.post/3msnmwbc3ok2q",
+        "source": "bluesky",
+        "created_at": "2026-08-09T12:53:13.018Z",
+        "title_clean": "",
+        "clean_text": "A etapa 4 da Volta a Portugal traz-nos o primeiro dia de alta montanha com chegada à mítica Torre, na Covilhã! Num dia que promete grandes diferenças na classificação geral, poderá Adria Pericas estrear-se a vencer como profissional? VoltaaPortugal",
+        "keywords": [
+            {
+                "keyword": "portugal traz primeiro alta",
+                "score": 0.6782
+            },
+            {
+                "keyword": "etapa volta portugal",
+                "score": 0.6321
+            },
+            {
+                "keyword": "volta portugal traz primeiro",
+                "score": 0.631
+            },
+            {
+                "keyword": "adria pericas estrear vencer",
+                "score": 0.627
+            },
+            {
+                "keyword": "estrear vencer profissional voltaaportugal",
+                "score": 0.6177
+            },
+            {
+                "keyword": "etapa volta portugal traz",
+                "score": 0.6026
+            },
+            {
+                "keyword": "portugal traz primeiro",
+                "score": 0.5874
+            },
+            {
+                "keyword": "traz primeiro alta montanha",
+                "score": 0.5863
+            }
+        ],
+        "source_name": null
     }
 ]

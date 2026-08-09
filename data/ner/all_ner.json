@@ -133677,6 +133677,46 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalZ6cHliYUlaNDFRLXBKYWg4bnRCZDdsMHRzZUJzNmxUcElnWWNfWWg3cnZlTURhZm1BcjJqSG9tV3ZySl81a3g4ejY2aVZjUHNkOHoyTm1PYlNTb2hyeXdxVlFUU0FGQWZrTnZsVm9Ga3h2amtEQWp0NU9FUEoxSG1XRUQ3Y19PR3lJUXJVbUVGcnBubkwwZmM5bzNxdGduM1J0Zy1uQ18teEl5X0RXVmgtck1EM1J6?oc=5",
+        "source": "news",
+        "created_at": "Sun, 02 Aug 2026 09:37:36 GMT",
+        "title_clean": "COVILHÃ: Festival da Juventude anima Boidobra com uma semana de desporto, cultura e convívio",
+        "entities": [
+            {
+                "text": "CCD Estrela do Zêzere Boidobra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdnBmMlhhdzh1Q2k4QjViczBkRTVSN3UyQXZSVFVxTmM1VFVSWnI0Ry0zRVJucDFDTWdDajJWQXZNSXVqOFhVNVVrZnhuWkdjRm00bkZZSzk5YlZSLS1GSWlacklhdHhad3JvUXU4NFo3U05YcnFRSE96YV9WX3BQdzBWUFBuMTBXRW5EWXI4MVh1Q2U0R3IwYm5KWU93M2dobksyak4wam9JNXdpeXg0YlRtb0c0LXlOLWtBNWQteTJzXzlkOVltYk9kc0lNTEpXdE1jSGZBYlhKR2FfckY2cw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 15:45:52 GMT",
+        "title_clean": "Corsa in linea Uomini, Tappa 4, Figueiró dos Vinhos - Covilhã 09/08/2026 - eurosport.it",
+        "entities": [
+            {
+                "text": "Figueiró",
+                "label": "ORG"
+            },
+            {
+                "text": "Vinhos",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzNRRUFVek5DNEx3cjlJdy1fOEFsdm9KeWVEdWRFRTA0VGZIeU5TbWtDNk5XclY3ZmxkVm5wclY1d3MyYXBLTmtZa1Z5bS13R1VHMnZvZ1RIRVU4VmNQMHM3WFk0WlJYNkJTMWZNYkxXUy1NSUpLbGhrMVJtelRlQ0h6anU?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 18:04:05 GMT",
+        "title_clean": "SC Covilhã | Jogadores, Estatísticas e Análises",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -137749,6 +137789,26 @@
             {
                 "text": "Covilhã Fog",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:jmyruq3mbvjnjvv7wn2z3flq/app.bsky.feed.post/3msnmwbc3ok2q",
+        "source": "bluesky",
+        "created_at": "2026-08-09T12:53:13.018Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Adria Pericas",
+                "label": "PER"
             }
         ]
     },
