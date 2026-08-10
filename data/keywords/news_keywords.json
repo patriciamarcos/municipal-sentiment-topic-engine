@@ -135720,5 +135720,55 @@
             }
         ],
         "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFoySzJjUmFQNllqWExJRzZtX3d6ZnY2QjJOalpaYzhLc2ZpblZJbzFJMUFaamdUaEdaSHBZT3BPTHdrNmhnMlJ1TEJjOVhqa0NjS2EyeXFUMVEtb3FHakc5WHFXOWNRN25tb0lVcC1KaFNieUNCWDJYdXZHY0dxR0xnb25JellTQlBqMlZSbEE4TVYtMlREUFhFMktqNDU5ZWFvdkxSQW0zTkRTYjdoUWZDcmN1U3hTa1ZmR1liTS1UMlhNU3BmaVV0UGo3ZFJk?oc=5",
+        "source": "news",
+        "created_at": "Sun, 09 Aug 2026 08:45:15 GMT",
+        "title_clean": "COVILHÃ: UBI leva estudantes de Design de Moda ao universo da Renda de Bilros de Peniche",
+        "clean_text": "COVILHÃ: UBI leva estudantes de Design de Moda ao universo da Renda de Bilros de Peniche. A tradição artesanal da Renda de Bilros de Peniche está a ganhar novas perspetivas através do olhar dos estudantes de Design de Moda da Universidade da Beira Interior (UBI). A aproximação entre o ensino superior, a criação contemporânea e os saberes tradicionais está na base de uma parceria que a Universidade pretende desenvolver com o Município de Peniche. O primeiro passo desta colaboração aconteceu durante a Mostra Internacional de Renda de Bilros de Peniche, realizada em julho, que contou com uma participação expressiva de estudantes dos diferentes níveis de formação em Design de Moda da UBI. Alunos da Licenciatura, do Mestrado e do Doutoramento em Design de Moda tiveram oportunidade de conhecer de perto uma das mais emblemáticas tradições artesanais portuguesas, contactando diretamente com os processos, técnicas e protagonistas associados à produção da Renda de Bilros. A participação permitiu ainda uma aproximação à realidade profissional e cultural ligada a este património. Durante a iniciativa, os estudantes visitaram a exposição internacional instalada no Pavilhão Multiusos da Cidade de Peniche, conheceram o trabalho das rendilheiras e marcaram presença no desfile integrado na programação da Mostra. O evento reuniu participantes de vários países, entre os quais Portugal, Estados Unidos da América, Polónia, Espanha, Itália, Estónia, Hungria, Bélgica, País de Gales e Malta, proporcionando aos estudantes um contacto privilegiado com diferentes formas de preservar, interpretar e reinventar o património artesanal. A experiência permitiu também conhecer o trabalho desenvolvido pela Escola de Rendas de Peniche na valorização da Renda de Bilros enquanto produto artesanal certificado, num momento que contou com a apresentação do vereador da Cultura, Ricardo Rosado. A iniciativa da UBI envolve docentes dos departamentos de Artes e de Ciência e Tecnologia Têxteis, refletindo a natureza multidisciplinar da formação em Design de Moda. A coordenação está a cargo das professoras Madalena Pereira e Caroline Loss, contando ainda com a colaboração de Aline Monçores, Rafaela Noro Grando, Yoad Luxembourg, Teresa Raquel Barata e Cláudia Pinheiro, além do bolseiro de I&D Joaquim Trindade. Mais do que uma experiência académica, o contacto com rendilheiras, artesãos, investigadores e criadores nacionais e internacionais permitiu aos estudantes perceber como as técnicas tradicionais podem ser integradas em processos de criação e inovação no design contemporâneo. A futura parceria entre a UBI e o Município de Peniche pretende precisamente aprofundar esta ligação, criando oportunidades para que o património artesanal seja estudado e reinterpretado através de novas linguagens. A aposta passa por aproximar tradição e inovação, proporcionando aos futuros designers ferramentas para trabalhar com técnicas e saberes ancestrais, sem perder de vista questões como a sustentabilidade, a criatividade e a preservação do património cultural. Desta forma, a UBI procura contribuir para que a Renda de Bilros continue a ser não apenas uma expressão da identidade e da tradição de Peniche, mas também uma fonte de inspiração para a criação de moda contemporânea.",
+        "keywords": [
+            {
+                "keyword": "ubi leva estudantes design",
+                "score": 0.7559
+            },
+            {
+                "keyword": "através olhar estudantes design",
+                "score": 0.7529
+            },
+            {
+                "keyword": "leva estudantes design",
+                "score": 0.7468
+            },
+            {
+                "keyword": "olhar estudantes design",
+                "score": 0.7431
+            },
+            {
+                "keyword": "leva estudantes design moda",
+                "score": 0.7368
+            },
+            {
+                "keyword": "design moda ubi alunos",
+                "score": 0.7347
+            },
+            {
+                "keyword": "estudantes design moda universidade",
+                "score": 0.6942
+            },
+            {
+                "keyword": "design moda universidade",
+                "score": 0.6876
+            },
+            {
+                "keyword": "formação design moda ubi",
+                "score": 0.6813
+            },
+            {
+                "keyword": "estudantes design moda universo",
+                "score": 0.6718
+            }
+        ],
+        "source_name": "SAPO"
     }
 ]

@@ -133717,6 +133717,114 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFoySzJjUmFQNllqWExJRzZtX3d6ZnY2QjJOalpaYzhLc2ZpblZJbzFJMUFaamdUaEdaSHBZT3BPTHdrNmhnMlJ1TEJjOVhqa0NjS2EyeXFUMVEtb3FHakc5WHFXOWNRN25tb0lVcC1KaFNieUNCWDJYdXZHY0dxR0xnb25JellTQlBqMlZSbEE4TVYtMlREUFhFMktqNDU5ZWFvdkxSQW0zTkRTYjdoUWZDcmN1U3hTa1ZmR1liTS1UMlhNU3BmaVV0UGo3ZFJk?oc=5",
+        "source": "news",
+        "created_at": "Sun, 09 Aug 2026 08:45:15 GMT",
+        "title_clean": "COVILHÃ: UBI leva estudantes de Design de Moda ao universo da Renda de Bilros de Peniche",
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Município de Peniche",
+                "label": "LOC"
+            },
+            {
+                "text": "Pavilhão Multiusos",
+                "label": "LOC"
+            },
+            {
+                "text": "Cidade de Peniche",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos da América",
+                "label": "LOC"
+            },
+            {
+                "text": "Polónia",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Estónia",
+                "label": "LOC"
+            },
+            {
+                "text": "Hungria",
+                "label": "LOC"
+            },
+            {
+                "text": "Bélgica",
+                "label": "LOC"
+            },
+            {
+                "text": "País de Gales",
+                "label": "LOC"
+            },
+            {
+                "text": "Malta",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola de Rendas de Peniche",
+                "label": "ORG"
+            },
+            {
+                "text": "Ricardo Rosado",
+                "label": "PER"
+            },
+            {
+                "text": "Madal",
+                "label": "PER"
+            },
+            {
+                "text": "Caroline Loss",
+                "label": "PER"
+            },
+            {
+                "text": "Aline Monçores",
+                "label": "PER"
+            },
+            {
+                "text": "Rafaela Noro Grando",
+                "label": "PER"
+            },
+            {
+                "text": "Yoad Luxembourg",
+                "label": "PER"
+            },
+            {
+                "text": "Teresa Raquel Barata",
+                "label": "PER"
+            },
+            {
+                "text": "Cláudia Pinheiro",
+                "label": "PER"
+            },
+            {
+                "text": "Joaquim Trindade",
+                "label": "PER"
+            },
+            {
+                "text": "Renda de Bilros",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -137809,6 +137917,38 @@
             {
                 "text": "Adria Pericas",
                 "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:atovgacacw3fwnblh544bziq/app.bsky.feed.post/3mspov6x3dk23",
+        "source": "bluesky",
+        "created_at": "2026-08-10T08:33:43.957Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:nxlzusd3kaozcis6lzqh4fyl/app.bsky.feed.post/3msphrhehws2f",
+        "source": "bluesky",
+        "created_at": "2026-08-10T06:26:22Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "FC Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "FC FCPorto Benfica Alverca News",
+                "label": "ORG"
             }
         ]
     },
