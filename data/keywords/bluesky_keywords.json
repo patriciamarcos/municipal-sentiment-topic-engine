@@ -7645,5 +7645,89 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:kuaj7moftbpdvbapepuerkaq/app.bsky.feed.post/3msqn456rfl2r",
+        "source": "bluesky",
+        "created_at": "2026-08-10T17:34:29Z",
+        "title_clean": "",
+        "clean_text": "Durante a subida à Torre da Serra da Estrela, na Covilhã, Rui Oliveira, da UAE Emirates, parou para saudar Pepe. O antigo defesa, de 43 anos, rendeu-se ao ciclismo após colocar um ponto final na carreira futebolística e tem partilhado vários momentos com destacados ciclistas portugueses. No…",
+        "keywords": [
+            {
+                "keyword": "momentos destacados ciclistas portugueses",
+                "score": 0.5561
+            },
+            {
+                "keyword": "destacados ciclistas portugueses",
+                "score": 0.5454
+            },
+            {
+                "keyword": "ciclistas portugueses",
+                "score": 0.5206
+            },
+            {
+                "keyword": "rendeu ciclismo",
+                "score": 0.5116
+            },
+            {
+                "keyword": "defesa 43 rendeu ciclismo",
+                "score": 0.4946
+            },
+            {
+                "keyword": "rendeu ciclismo colocar",
+                "score": 0.4929
+            },
+            {
+                "keyword": "ciclismo colocar ponto final",
+                "score": 0.487
+            },
+            {
+                "keyword": "destacados ciclistas",
+                "score": 0.4679
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:nxlzusd3kaozcis6lzqh4fyl/app.bsky.feed.post/3msqikqxrr22d",
+        "source": "bluesky",
+        "created_at": "2026-08-10T16:13:11Z",
+        "title_clean": "",
+        "clean_text": "em Portugal - Primeira cirurgia de osteointegração transfemural realizada em Portugal EmPortugal News",
+        "keywords": [
+            {
+                "keyword": "portugal primeira cirurgia osteointegração",
+                "score": 0.92
+            },
+            {
+                "keyword": "osteointegração transfemural realizada portugal",
+                "score": 0.8614
+            },
+            {
+                "keyword": "primeira cirurgia osteointegração transfemural",
+                "score": 0.838
+            },
+            {
+                "keyword": "cirurgia osteointegração transfemural realizada",
+                "score": 0.8267
+            },
+            {
+                "keyword": "cirurgia osteointegração transfemural",
+                "score": 0.8189
+            },
+            {
+                "keyword": "primeira cirurgia osteointegração",
+                "score": 0.8144
+            },
+            {
+                "keyword": "cirurgia osteointegração",
+                "score": 0.8049
+            },
+            {
+                "keyword": "osteointegração transfemural realizada",
+                "score": 0.7481
+            }
+        ],
+        "source_name": null
     }
 ]

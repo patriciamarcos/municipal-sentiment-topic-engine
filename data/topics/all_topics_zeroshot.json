@@ -112828,5 +112828,65 @@
             "Falecimentos": 0.0189,
             "Tecnologia": 0.0128
         }
+    },
+    {
+        "record_id": "bluesky_at://did:plc:kuaj7moftbpdvbapepuerkaq/app.bsky.feed.post/3msqn456rfl2r",
+        "source": "bluesky",
+        "created_at": "2026-08-10T17:34:29Z",
+        "title_clean": "",
+        "topic_id": 6,
+        "topic_label": "Desporto e competições",
+        "topic_probability": 0.4943,
+        "low_confidence": false,
+        "all_scores": {
+            "Desporto e competições": 0.4943,
+            "Turismo e património histórico": 0.0629,
+            "Universidade e vida académica": 0.0628,
+            "Feira e Festival": 0.049,
+            "Saúde e hospital": 0.0348,
+            "Cultura, arte e espetáculos": 0.0337,
+            "Comércio e lojas": 0.0329,
+            "Ação social e voluntariado": 0.03,
+            "Natal e festividades": 0.0298,
+            "Obras e infraestruturas": 0.0297,
+            "Mercado": 0.0292,
+            "Transportes": 0.0245,
+            "Eleições e política autárquica": 0.0193,
+            "Tecnologia": 0.0179,
+            "Crimes e polícia": 0.0164,
+            "Habitação": 0.0146,
+            "Incêndios e bombeiros": 0.0095,
+            "Falecimentos": 0.0086
+        }
+    },
+    {
+        "record_id": "bluesky_at://did:plc:nxlzusd3kaozcis6lzqh4fyl/app.bsky.feed.post/3msqikqxrr22d",
+        "source": "bluesky",
+        "created_at": "2026-08-10T16:13:11Z",
+        "title_clean": "",
+        "topic_id": 8,
+        "topic_label": "Saúde e hospital",
+        "topic_probability": 0.304,
+        "low_confidence": false,
+        "all_scores": {
+            "Saúde e hospital": 0.304,
+            "Turismo e património histórico": 0.1042,
+            "Ação social e voluntariado": 0.0791,
+            "Crimes e polícia": 0.0642,
+            "Universidade e vida académica": 0.0542,
+            "Obras e infraestruturas": 0.0525,
+            "Feira e Festival": 0.0507,
+            "Cultura, arte e espetáculos": 0.0425,
+            "Natal e festividades": 0.032,
+            "Habitação": 0.0317,
+            "Comércio e lojas": 0.0302,
+            "Desporto e competições": 0.0255,
+            "Tecnologia": 0.023,
+            "Mercado": 0.0229,
+            "Falecimentos": 0.0228,
+            "Transportes": 0.0224,
+            "Incêndios e bombeiros": 0.0197,
+            "Eleições e política autárquica": 0.0183
+        }
     }
 ]
