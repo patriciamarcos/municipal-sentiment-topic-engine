@@ -133825,6 +133825,362 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXdoN2lZT2FCU2U3ek14MHA4X0FYVUxIcWVVcEVMWTNMcHRZbHBYVmVxR0l4TG9maVh3b252cTBUMmpOcnJ4bVVkek5nYjQ3UnBDcklseTZVUmlJRVVDV0gtQjg2aU9DZmpISmlVU3Q4MU9WZ3RPRTc0Ni12aUxtSzBnX1MwVUVJb01aaUNqZXVrbDdjTlBwc0JYY3N2Y09wVjJxMU1OZmVfbVllU0lfQlpUTkpuZ1F4NkpRTWFuNk4?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 15:15:00 GMT",
+        "title_clean": "Presidente da República portuguesa assinala \"Dia Internacional da Juventude\" na Covilhã - agenciaincomparaveis.com",
+        "entities": [
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "Praça do Município",
+                "label": "LOC"
+            },
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Salão Nobre",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo da Câmara Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Nações Unidas",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWctY3hfR2F6WTJ2VktRSG5FbzhBVnUzbGVnTVV3b1N5bFBJN3ZyYzRGTWVKMXc0QVhnYW1NMVpWRlhfRGxBSmQ5NE1CcFdqWTMzaEtDMHh1YW9pdHhhWEpRRVprVHlQR1hMYS1hYTZERG4zWWhlUkZoNW40NWE0QXFSdGR4UEZfT0t1NzRXV3Azdmd3UUlzSXFGU0VrcFVPQkQxRWYtM0pMUW5VNXNPNkFsZjFheVR6QmNhdEJwUlVfcVZCdElDMFFn?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 23:59:43 GMT",
+        "title_clean": "Presidente da República assinala Dia Internacional da Juventude na Covilhã - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Salão Nobre da Câmara Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Juventudes Partidárias",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEl0eDJUS2lzdUI2cDVFLTh4T0lpcXF2cWlScVRSV2otUWRJMnBRcnJFSzliUk9WZ3U1RXNWUzZrenktZmc3SGVfczNiVlNYSWRSdHE5YnNFRG5HblRncWdCdHNZa0kxMmVIcW9vaFh2a01aNFpPdWJQVVd2U012TGtEWDVwWkYwNUYzUW4zRUN6bEczcmlYcnV6eWNBWDFiZk5La1JR?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 11:00:24 GMT",
+        "title_clean": "COVILHÃ: Verão no Centro Histórico regressa ao município",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Minta & The Brook Trout",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Joana Poejo",
+                "label": "PER"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXJXMWlyeEUzMFhTUTVLem9qMjVRRUVubng5cV9PbmpXMHFpdnFna1hpdEx2NnF0UFhYX2p4NXg5NjdfZ0g5aU9hNFUyNEVTTW5PYjFiMEdmNVJtRG8xTVMwdlBFTzJVTGpBaG5lZjZFOHVMaTdob3U4TGtqSXROREVZOF92MF9oV2RtaHg1Y19NOG1ybEJvYjhYa0JHcnQxSkc2N2Nhb0lBdTJFcnpnX1lJY3p2WGp2V210NA?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 13:58:43 GMT",
+        "title_clean": "António José Seguro assinala amanhã Dia Internacional da Juventude na Covilhã",
+        "entities": [
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Juventudes Partidárias Nacionais",
+                "label": "ORG"
+            },
+            {
+                "text": "Salão Nobre",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMicEFVX3lxTFBYX0EteUFQWmZqNGV6aG90ZTZJR0otVUd6RDhUejZadmt6TmUtMUozeW84b3JVelFtWUhZOTZnWG9PRzMwbldZS0Z3eHBMdG5MZFJuWnRMbWMyTDlMSmZtWURXWElJeDB1VGZGcXpsYmc?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 08:42:00 GMT",
+        "title_clean": "Leão da Serra entra de pé direito",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pin",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Jailson",
+                "label": "PER"
+            },
+            {
+                "text": "Tiago André",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Ekanga",
+                "label": "PER"
+            },
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Filipe Pinto",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiY0FVX3lxTE55eFctdlZ3eldxTGprN1NNV3FJcWdkTEtUWkxHM25fTktEZ3dkMTVXME05SFVQMko0ZjBiSmpCcGtSbEZIaXlqWjhDVXpkSk4tX21odG9kTjJCN2ZqRUZkdWJldw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 10:12:00 GMT",
+        "title_clean": "Francês brilha na Torre",
+        "entities": [
+            {
+                "text": "Artem Nych",
+                "label": "PER"
+            },
+            {
+                "text": "Alexis Guérin",
+                "label": "PER"
+            },
+            {
+                "text": "Velódromo Nacional da Anadia",
+                "label": "LOC"
+            },
+            {
+                "text": "Águeda",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueiró dos Vinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "UAE- Emirates",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Tavfer-Mortágua",
+                "label": "ORG"
+            },
+            {
+                "text": "Rafael Barbas",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Colmeal da Torre",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Adria Pericas",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Veloso",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVJ0bWc5VVlYLWtOUFRZOGFZSW9HdG1FMVJEY0l4TEtMR0pJVnVUM3g0OHFYZDBYbVI2dnh3SnYyNnd2d09RVFVGZDUxaDhvSjEwSjZwb2hmSEFjanVSVFRpNFFYNzRHZExuT3ltLURfbVIwemFERHpneXlMcjVDcE13bDhsUmM4SW52aUxB?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 16:50:46 GMT",
+        "title_clean": "Covilhã acolheu o maior Encontro Europeu de Jovens Lusos de sempre - BOM DIA - Portugal no Mundo",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmlfa1RHTFlnSWFEM3QzZUI1a2JfbjV3OEtsS2o5TVBTdkJfVnBYaGR0MmNjZEFVdllMQWtOOXFsTTQ1SGs0OEdrN2RMMmFuWDFfMkY4ak9DeUVvUmVrbDdHSEplVl9NNV9yY0VRb25pRlQ0X2pKbS1ybUdwZUdZbkpFb285dEdNcFk1OHZDdUpfSlIxMkRVdVU1TWtHeG5ORktyUjVsVmVlR3A1aVFyTVlFNS1NZTU0Nm9lR2lFOXpXLVllODJDZVQydw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 17:18:58 GMT",
+        "title_clean": "COVILHÃ: 13.º Encontro Europeu de Jovens Lusos promove cultura e identidade portuguesa",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Cap Magellan",
+                "label": "ORG"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "União das Freguesias de Covilhã e Canhoso",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHg4ME5nR2c4RDl4enVCX2lOTTZSQjlOVDJBWk9aOGZBbzVpZDY5S25lbmhXTTdjeEJWb3h6REF4Q3YyTVdzVzFmRlhpTVBhdlIxNmpQZ295el9TcjY4YWdFVnNZNTN5Wk1JMXRXOEhta0ZZWkxFMGg0SzNOZmRUZUZTS0VRZw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 16:51:00 GMT",
+        "title_clean": "Notícias :: SC Covilhã 2-0 U. Santarém :: Liga 3 Placard Série B 2026/27 ::",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -137984,6 +138340,26 @@
         "entities": [
             {
                 "text": "EmPortugal News",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3msqzhg4ziu2e",
+        "source": "bluesky",
+        "created_at": "2026-08-10T21:15:30+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Torre da Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "UAE Emirates",
                 "label": "ORG"
             }
         ]

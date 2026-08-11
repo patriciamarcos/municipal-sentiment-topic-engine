@@ -135770,5 +135770,455 @@
             }
         ],
         "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXdoN2lZT2FCU2U3ek14MHA4X0FYVUxIcWVVcEVMWTNMcHRZbHBYVmVxR0l4TG9maVh3b252cTBUMmpOcnJ4bVVkek5nYjQ3UnBDcklseTZVUmlJRVVDV0gtQjg2aU9DZmpISmlVU3Q4MU9WZ3RPRTc0Ni12aUxtSzBnX1MwVUVJb01aaUNqZXVrbDdjTlBwc0JYY3N2Y09wVjJxMU1OZmVfbVllU0lfQlpUTkpuZ1F4NkpRTWFuNk4?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 15:15:00 GMT",
+        "title_clean": "Presidente da República portuguesa assinala \"Dia Internacional da Juventude\" na Covilhã - agenciaincomparaveis.com",
+        "clean_text": "Presidente da República portuguesa assinala \"Dia Internacional da Juventude\" na Covilhã - agenciaincomparaveis.com. Programa desta terça-feira, 11 de agosto, inclui encontros com juventudes partidárias, jovens empreendedores e um almoço-convívio na Praça do Município - Publicidade - O Presidente da República portuguesa, António José Seguro, desloca-se esta terça-feira, 11 de agosto, à Covilhã, onde vai assinalar o \"Dia Internacional da Juventude\", celebrado anualmente a 12 de agosto. A agenda começa às 10h, com uma receção na Câmara Municipal da Covilhã, na Praça do Município. Às 10h30, o chefe de Estado participa, no Salão Nobre da Câmara Municipal, num encontro com os líderes das juventudes partidárias nacionais e representantes jovens dos partidos com assento parlamentar. O programa prossegue às 11h45, no Teatro Municipal da Covilhã, com uma conversa com um grupo de jovens empreendedores. A visita termina às 12h30, com um almoço-convívio com jovens no Largo da Câmara Municipal. Instituído pelas Nações Unidas, o \"Dia Internacional da Juventude\" procura chamar a atenção para os desafios, as oportunidades e a participação das novas gerações na sociedade. ■",
+        "keywords": [
+            {
+                "keyword": "portuguesa assinala internacional juventude",
+                "score": 0.6959
+            },
+            {
+                "keyword": "publicidade presidente república portuguesa",
+                "score": 0.6455
+            },
+            {
+                "keyword": "assinalar internacional juventude celebrado",
+                "score": 0.6295
+            },
+            {
+                "keyword": "presidente república portuguesa assinala",
+                "score": 0.6248
+            },
+            {
+                "keyword": "internacional juventude celebrado anualmente",
+                "score": 0.614
+            },
+            {
+                "keyword": "presidente república portuguesa",
+                "score": 0.6132
+            },
+            {
+                "keyword": "internacional juventude celebrado",
+                "score": 0.611
+            },
+            {
+                "keyword": "república portuguesa assinala",
+                "score": 0.5965
+            },
+            {
+                "keyword": "república portuguesa assinala internacional",
+                "score": 0.5748
+            },
+            {
+                "keyword": "república portuguesa",
+                "score": 0.569
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWctY3hfR2F6WTJ2VktRSG5FbzhBVnUzbGVnTVV3b1N5bFBJN3ZyYzRGTWVKMXc0QVhnYW1NMVpWRlhfRGxBSmQ5NE1CcFdqWTMzaEtDMHh1YW9pdHhhWEpRRVprVHlQR1hMYS1hYTZERG4zWWhlUkZoNW40NWE0QXFSdGR4UEZfT0t1NzRXV3Azdmd3UUlzSXFGU0VrcFVPQkQxRWYtM0pMUW5VNXNPNkFsZjFheVR6QmNhdEJwUlVfcVZCdElDMFFn?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 23:59:43 GMT",
+        "title_clean": "Presidente da República assinala Dia Internacional da Juventude na Covilhã - Diario Digital Castelo Branco",
+        "clean_text": "Presidente da República assinala Dia Internacional da Juventude na Covilhã - Diario Digital Castelo Branco. Por: Diário Digital Castelo Branco O Presidente da República Portuguesa, António José Seguro, vai assinalar o Dia Internacional da Juventude esta terça-feira, 11 de agosto, na cidade da covilhã. Segundo a informação enviada à redação do Diário Digital Castelo Branco, o evento terá início às 10:00 horas com receção na Câmara Municipal da Covilhã. Às 10:30 horas decorrerá, no Salão Nobre da Câmara Municipal, um encontro com os líderes das Juventudes Partidárias nacionais e representantes jovens dos partidos com representação parlamentar. Uma conversa com grupo de jovens empreendedores decorrerá às 11:45 horas no Teatro Municipal da Covilhã Às 12:30 será servido um almoço-convivío no mesmo local.",
+        "keywords": [
+            {
+                "keyword": "república assinala internacional juventude",
+                "score": 0.6501
+            },
+            {
+                "keyword": "assinalar internacional juventude terça",
+                "score": 0.6323
+            },
+            {
+                "keyword": "internacional juventude terça feira",
+                "score": 0.609
+            },
+            {
+                "keyword": "assinala internacional juventude",
+                "score": 0.5944
+            },
+            {
+                "keyword": "assinalar internacional juventude",
+                "score": 0.589
+            },
+            {
+                "keyword": "internacional juventude terça",
+                "score": 0.5837
+            },
+            {
+                "keyword": "seguro assinalar internacional juventude",
+                "score": 0.548
+            },
+            {
+                "keyword": "juventude terça feira 11",
+                "score": 0.5428
+            },
+            {
+                "keyword": "presidente república portuguesa",
+                "score": 0.5404
+            },
+            {
+                "keyword": "encontro líderes juventudes",
+                "score": 0.5259
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEl0eDJUS2lzdUI2cDVFLTh4T0lpcXF2cWlScVRSV2otUWRJMnBRcnJFSzliUk9WZ3U1RXNWUzZrenktZmc3SGVfczNiVlNYSWRSdHE5YnNFRG5HblRncWdCdHNZa0kxMmVIcW9vaFh2a01aNFpPdWJQVVd2U012TGtEWDVwWkYwNUYzUW4zRUN6bEczcmlYcnV6eWNBWDFiZk5La1JR?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 11:00:24 GMT",
+        "title_clean": "COVILHÃ: Verão no Centro Histórico regressa ao município",
+        "clean_text": "COVILHÃ: Verão no Centro Histórico regressa ao município. A 9.ª edição do Verão no Centro Histórico arrancou na passada sexta-feira, na Covilhã, dando início a mais um ciclo de noites dedicadas à cultura e à animação no centro histórico da cidade. A sessão inaugural juntou uma visita guiada encenada, com uma componente simultaneamente divertida e didática, e um concerto de Minta & The Brook Trout, proporcionando ao público uma noite que aliou a descoberta do património à música. Promovido pela Câmara Municipal da Covilhã, o Verão no Centro Histórico é já uma iniciativa integrada na programação cultural de verão da cidade, procurando levar habitantes e visitantes a espaços do centro histórico através de propostas que conjugam cultura, património e música. A abertura da 9.ª edição contou com a presença da vereadora da Câmara Municipal da Covilhã com o pelouro da Cultura, Regina Gouveia, que acompanhou o início da programação. Um dos elementos centrais do Verão no Centro Histórico são as visitas guiadas encenadas, que permitem abordar a história e o património da cidade através de uma componente teatral. Depois da sessão inaugural, a iniciativa regressa na próxima sexta-feira, 14 de agosto, com nova visita guiada encenada, desta vez protagonizada pela atriz Joana Poejo. A sessão está marcada para as 21h30, no Largo de Santa Marinha, nas proximidades do quartel dos Bombeiros, espaço que será o ponto de encontro para mais uma noite da programação. A proposta mantém a aposta numa abordagem descontraída e participativa à história e ao património, procurando proporcionar ao público uma experiência diferente de visita ao centro histórico da Covilhã. Depois da visita guiada encenada, a noite prossegue com um momento musical protagonizado por Rita Cortezão. A artista é apresentada pela organização como um dos nomes que poderá marcar o futuro da música nacional, integrando uma programação que procura também dar espaço a propostas musicais contemporâneas. A sessão de 14 de agosto pretende, assim, repetir a fórmula que marcou a abertura da edição deste ano: uma primeira componente dedicada à descoberta do património e à história local, seguida de um momento musical. Com nove edições realizadas, o Verão no Centro Histórico mantém-se como uma das propostas culturais de verão promovidas pelo Município da Covilhã, levando diferentes actividades para espaços do centro histórico e convidando o público a viver a cidade durante as noites de verão. A próxima sessão acontece na sexta-feira, 14 de agosto, às 21h30, no Largo de Santa Marinha, junto ao quartel dos Bombeiros, com a participação da atriz Joana Poejo na visita guiada encenada e o concerto de Rita Cortezão. A iniciativa é promovida pela Câmara Municipal da Covilhã e integra a programação da 9.ª edição do Verão no Centro Histórico.",
+        "keywords": [
+            {
+                "keyword": "realizadas verão centro histórico",
+                "score": 0.7849
+            },
+            {
+                "keyword": "verão centro histórico arrancou",
+                "score": 0.7813
+            },
+            {
+                "keyword": "verão centro histórico regressa",
+                "score": 0.7571
+            },
+            {
+                "keyword": "verão centro histórico são",
+                "score": 0.7558
+            },
+            {
+                "keyword": "verão centro histórico",
+                "score": 0.7396
+            },
+            {
+                "keyword": "realizadas verão centro",
+                "score": 0.7385
+            },
+            {
+                "keyword": "centrais verão centro histórico",
+                "score": 0.7315
+            },
+            {
+                "keyword": "verão centro histórico mantém",
+                "score": 0.7033
+            },
+            {
+                "keyword": "cultural verão cidade",
+                "score": 0.7026
+            },
+            {
+                "keyword": "programação cultural verão cidade",
+                "score": 0.6973
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXJXMWlyeEUzMFhTUTVLem9qMjVRRUVubng5cV9PbmpXMHFpdnFna1hpdEx2NnF0UFhYX2p4NXg5NjdfZ0g5aU9hNFUyNEVTTW5PYjFiMEdmNVJtRG8xTVMwdlBFTzJVTGpBaG5lZjZFOHVMaTdob3U4TGtqSXROREVZOF92MF9oV2RtaHg1Y19NOG1ybEJvYjhYa0JHcnQxSkc2N2Nhb0lBdTJFcnpnX1lJY3p2WGp2V210NA?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 13:58:43 GMT",
+        "title_clean": "António José Seguro assinala amanhã Dia Internacional da Juventude na Covilhã",
+        "clean_text": "António José Seguro assinala amanhã Dia Internacional da Juventude na Covilhã. O Presidente da República, António José Seguro, assinala amanhã, dia 11 de agosto, o Dia Internacional da Juventude, na Covilhã, com receção na Câmara Municipal, a partir das 10:00. Pelas 10:30, está marcado um encontro com os líderes das Juventudes Partidárias Nacionais e representantes jovens dos partidos com representação parlamentar, no Salão Nobre da CMC. Às 11:45 , o Teatro Municipal da Covilhã recebe uma conversa com um grupo de jovens empreendedores e a programação termina pelas 12:30 com um almoço convívio. Recordar que o Dia Internacional da Juventude é um dia celebrado globalmente a 12 de agosto e é dedicado a reconhecer o potencial e a voz ativa dos jovens.",
+        "keywords": [
+            {
+                "keyword": "assinala amanhã internacional juventude",
+                "score": 0.7336
+            },
+            {
+                "keyword": "amanhã internacional juventude",
+                "score": 0.7151
+            },
+            {
+                "keyword": "amanhã 11 internacional juventude",
+                "score": 0.6609
+            },
+            {
+                "keyword": "internacional juventude celebrado",
+                "score": 0.6602
+            },
+            {
+                "keyword": "internacional juventude celebrado globalmente",
+                "score": 0.6469
+            },
+            {
+                "keyword": "juventude celebrado globalmente",
+                "score": 0.6409
+            },
+            {
+                "keyword": "juventude celebrado globalmente 12",
+                "score": 0.6354
+            },
+            {
+                "keyword": "recordar internacional juventude celebrado",
+                "score": 0.6181
+            },
+            {
+                "keyword": "marcado encontro líderes juventudes",
+                "score": 0.5769
+            },
+            {
+                "keyword": "juventude celebrado",
+                "score": 0.5761
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMicEFVX3lxTFBYX0EteUFQWmZqNGV6aG90ZTZJR0otVUd6RDhUejZadmt6TmUtMUozeW84b3JVelFtWUhZOTZnWG9PRzMwbldZS0Z3eHBMdG5MZFJuWnRMbWMyTDlMSmZtWURXWElJeDB1VGZGcXpsYmc?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 08:42:00 GMT",
+        "title_clean": "Leão da Serra entra de pé direito",
+        "clean_text": "Leão da Serra entra de pé direito. O Sporting da Covilhã entrou da melhor maneira na série B da Liga 3 ao vencer, no Santos Pinto, na primeira jornada, a União de Santarém por 2-0. Os serranos entraram a dominar a partida, e aos 23 minutos, fizeram o primeiro remate com algum perigo por Jailson, mas Tiago André, defensor escalabitano, desviou. Apesar do maior domínio, os leões da serra não criavam grandes oportunidades de golo, e nos últimos minutos da primeira parte, acabou por ser a União de Santarém a ter a melhor e única ocasião de golo, num remate de Rodrigo Silva que foi à barra da baliza defendida por Gustavo Galil. Na segunda parte, foram os forasteiros a entrar melhor no jogo, mais ofensivos, sem, contudo, traduzirem isso em oportunidades de golo. Aos poucos, o Covilhã foi reassumindo o domínio e aos 63 minutos, marcou. Bom trabalho de Ekanga pela esquerda, cruzamento e Jailson a abrir a contagem. A União mexeu na equipa (algo que o Covilhã já tinha feito), mas foram os serranos a dar a machadada final no resultado aos 78 minutos, pelo recém-entrado Guilherme Silva, que com um remate à entrada da área atirou a contar. No final, o técnico serrano, Dani Matos, enalteceu a boa entrada na partida por parte dos seus jogadores, reconheceu a perda do domínio do jogo na parte final da primeira metade, e início da segunda, e mostrou-se feliz pelo acerto nas substituições, com jogadores que acabaram \"por fazer a diferença\", tal como a condição física da equipa, numa tarde de sábado de bastante calor. No próximo domingo, às 17 horas, o Covilhã joga no distrito, com a deslocação ao terreno do Sernache, estreante nestas andanças, que nesta primeira jornada foi goleado pelo Mafra por 5-0. FOTOS: Filipe Pinto",
+        "keywords": [
+            {
+                "keyword": "serranos entraram dominar partida",
+                "score": 0.7066
+            },
+            {
+                "keyword": "entraram dominar partida",
+                "score": 0.6731
+            },
+            {
+                "keyword": "entraram dominar partida 23",
+                "score": 0.6433
+            },
+            {
+                "keyword": "entrada partida parte jogadores",
+                "score": 0.6244
+            },
+            {
+                "keyword": "forasteiros entrar melhor jogo",
+                "score": 0.6237
+            },
+            {
+                "keyword": "dominar partida",
+                "score": 0.6233
+            },
+            {
+                "keyword": "partida parte jogadores",
+                "score": 0.6206
+            },
+            {
+                "keyword": "golo remate rodrigo",
+                "score": 0.6181
+            },
+            {
+                "keyword": "golo últimos minutos primeira",
+                "score": 0.6158
+            },
+            {
+                "keyword": "jogo parte final primeira",
+                "score": 0.6156
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiY0FVX3lxTE55eFctdlZ3eldxTGprN1NNV3FJcWdkTEtUWkxHM25fTktEZ3dkMTVXME05SFVQMko0ZjBiSmpCcGtSbEZIaXlqWjhDVXpkSk4tX21odG9kTjJCN2ZqRUZkdWJldw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 10:12:00 GMT",
+        "title_clean": "Francês brilha na Torre",
+        "clean_text": "Francês brilha na Torre. É com 1 minuto e 26 segundos de vantagem sobre o segundo classificado, o seu companheiro de equipa, o russo Artem Nych, que o francês Alexis Guérin arranca hoje à tarde no contrarrelógio de 17,4 quilómetros, entre o Velódromo Nacional da Anadia e Águeda, a quinta etapa da Volta a Portugal em bicicleta, depois de ontem, domingo, 9, ter sido quem mais brilhou na quarta etapa, de 154,6 quilómetros, entre Figueiró dos Vinhos e o alto da Torre, na Serra da Estrela. Guérin, da Aniciolor, passou a ser o novo líder da prova, destronando Rui Oliveira, da UAE- Emirates, que andou muito tempo na frente, num grupo que se escapou bem cedo na etapa, mas que mal começou a subir à Serra, a partir da Covilhã, foi começando a perder a vantagem que tinha, superior a dois minutos. A cerca de dez quilómetros para o fim, Alexis Guérin atacou, e não mais foi apanhado, tendo apenas o colega de equipa, Nych, conseguido amenizar perdas, terminando a 1,44 do vencedor. No final, o francês, que já venceu, entre outras, o Grande Prémio Joaquim Agostinho ou, no ano passado, o Grande Prémio das Beiras e Serra da Estrela, mostrou-se feliz por alcançar uma vitória \"impressionante para a minha carreira e para a equipa. Trabalhámos muito para este tipo de montanha. Estou muito contente, a tática da equipa funcionou. Foi muito duro, mas estou muito contente porque a minha mulher e a minha filha estão aqui\", afirmou Guérin, de 34 anos, casado com uma portuguesa natural de Viseu. Em termos regionais, destaque também para o sétimo lugar do jovem da Tavfer-Mortágua (22 anos), Rafael Barbas, natural da freguesia de Gonçalo (Guarda), bem perto de Belmonte, concelho onde deu os primeiros passos na modalidade, no CCDR Colmeal da Torre. Barbas (aluno de medicina em Espanha) acompanhou sempre os melhores durante a subida, e foi o melhor da sua equipa, subindo ao 16º lugar da geral, e sendo neste momento o segundo melhor na classificação da juventude, atrás o espanhol Adria Pericas, da UAE- Emirates (está a menos de dois minutos). Nesta estreia na \"Grandíssima\", segundo o diretor desportivo da Tavfer, Gustavo Veloso (espanhol que venceu duas Voltas, em 2014 e 2015), Barbas pode ser candidato a ganhar a camisola branca da juventude. Rafael Barbas é agora 16º à geral, a 3 minutos e 51 de Alexis Guérin. É 21º na classificação por pontos, 10º na classificação da montanha, e na juventude, segundo, a menos de dois minutos de Pericas. No final da etapa, o jovem gonçalense, que estudou até ao 12º ano em Belmonte, mostrava orgulho no sétimo lugar alcançado, mas \"mais que o resultado, fica o orgulho de saber que consigo estar com os melhores e de que tudo acaba por valer a pena.\" Barbas agradeceu a todos os que ontem \"gritaram por mim na subida e me fizeram sentir verdadeiramente em casa.\"",
+        "keywords": [
+            {
+                "keyword": "francês brilha torre minuto",
+                "score": 0.5671
+            },
+            {
+                "keyword": "etapa 154 quilómetros figueiró",
+                "score": 0.5555
+            },
+            {
+                "keyword": "etapa volta portugal bicicleta",
+                "score": 0.5483
+            },
+            {
+                "keyword": "quinta etapa volta portugal",
+                "score": 0.5207
+            },
+            {
+                "keyword": "154 quilómetros figueiró",
+                "score": 0.519
+            },
+            {
+                "keyword": "brilha torre minuto",
+                "score": 0.5018
+            },
+            {
+                "keyword": "torre minuto 26 segundos",
+                "score": 0.498
+            },
+            {
+                "keyword": "contrarrelógio 17 quilómetros velódromo",
+                "score": 0.4977
+            },
+            {
+                "keyword": "quarta etapa 154 quilómetros",
+                "score": 0.4866
+            },
+            {
+                "keyword": "quilómetros fim alexis",
+                "score": 0.4856
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVJ0bWc5VVlYLWtOUFRZOGFZSW9HdG1FMVJEY0l4TEtMR0pJVnVUM3g0OHFYZDBYbVI2dnh3SnYyNnd2d09RVFVGZDUxaDhvSjEwSjZwb2hmSEFjanVSVFRpNFFYNzRHZExuT3ltLURfbVIwemFERHpneXlMcjVDcE13bDhsUmM4SW52aUxB?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 16:50:46 GMT",
+        "title_clean": "Covilhã acolheu o maior Encontro Europeu de Jovens Lusos de sempre - BOM DIA - Portugal no Mundo",
+        "clean_text": "Covilhã acolheu o maior Encontro Europeu de Jovens Lusos de sempre - BOM DIA - Portugal no Mundo",
+        "keywords": [
+            {
+                "keyword": "maior encontro europeu jovens",
+                "score": 0.7734
+            },
+            {
+                "keyword": "encontro europeu jovens lusos",
+                "score": 0.7462
+            },
+            {
+                "keyword": "encontro europeu jovens",
+                "score": 0.7364
+            },
+            {
+                "keyword": "portugal mundo",
+                "score": 0.6808
+            },
+            {
+                "keyword": "acolheu maior encontro europeu",
+                "score": 0.6648
+            },
+            {
+                "keyword": "europeu jovens",
+                "score": 0.6473
+            },
+            {
+                "keyword": "europeu jovens lusos",
+                "score": 0.6468
+            },
+            {
+                "keyword": "bom portugal mundo",
+                "score": 0.6463
+            },
+            {
+                "keyword": "maior encontro europeu",
+                "score": 0.6361
+            },
+            {
+                "keyword": "europeu jovens lusos sempre",
+                "score": 0.6301
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmlfa1RHTFlnSWFEM3QzZUI1a2JfbjV3OEtsS2o5TVBTdkJfVnBYaGR0MmNjZEFVdllMQWtOOXFsTTQ1SGs0OEdrN2RMMmFuWDFfMkY4ak9DeUVvUmVrbDdHSEplVl9NNV9yY0VRb25pRlQ0X2pKbS1ybUdwZUdZbkpFb285dEdNcFk1OHZDdUpfSlIxMkRVdVU1TWtHeG5ORktyUjVsVmVlR3A1aVFyTVlFNS1NZTU0Nm9lR2lFOXpXLVllODJDZVQydw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 17:18:58 GMT",
+        "title_clean": "COVILHÃ: 13.º Encontro Europeu de Jovens Lusos promove cultura e identidade portuguesa",
+        "clean_text": "COVILHÃ: 13.º Encontro Europeu de Jovens Lusos promove cultura e identidade portuguesa. Iniciativa da Cap Magellan reuniu jovens de origem portuguesa provenientes de vários países europeus A União das Freguesias de Covilhã e Canhoso recebeu nas suas instalações os participantes da 13.ª edição do \"Encontro Europeu de Jovens Lusos\", uma iniciativa promovida pela Cap Magellan que reúne jovens de origem portuguesa residentes em diferentes países da Europa. A visita proporcionou aos participantes um momento de contacto com a cultura e as tradições portuguesas, através de atividades de convívio e partilha que permitiram reforçar a ligação dos jovens às suas raízes e ao país de origem das suas famílias. Durante a passagem pela União das Freguesias, foram promovidos momentos de confraternização entre os jovens e os representantes locais, num ambiente marcado pela proximidade e pelo intercâmbio cultural. A União das Freguesias de Covilhã e Canhoso associou-se à iniciativa através da oferta de um lanche aos participantes, proporcionando um momento de convívio e acolhimento à comitiva. A presença destes jovens lusodescendentes na região constituiu também uma oportunidade para dar a conhecer o território e reforçar os laços entre as comunidades portuguesas espalhadas pela Europa e as suas origens. O \"Encontro Europeu de Jovens Lusos\" assume-se, desta forma, como uma iniciativa dedicada à aproximação das novas gerações de portugueses e lusodescendentes à língua, cultura, história e identidade portuguesas, promovendo simultaneamente o contacto e a partilha entre jovens provenientes de diferentes países. Para a União das Freguesias de Covilhã e Canhoso, foi uma oportunidade de acolher esta comunidade jovem e contribuir para fortalecer a ligação às raízes portuguesas, num encontro marcado pela cultura, pelo convívio e pelo sentimento de pertença.",
+        "keywords": [
+            {
+                "keyword": "reuniu jovens origem portuguesa",
+                "score": 0.7717
+            },
+            {
+                "keyword": "reúne jovens origem portuguesa",
+                "score": 0.764
+            },
+            {
+                "keyword": "jovens origem portuguesa provenientes",
+                "score": 0.7548
+            },
+            {
+                "keyword": "jovens origem portuguesa residentes",
+                "score": 0.744
+            },
+            {
+                "keyword": "jovens origem portuguesa",
+                "score": 0.7276
+            },
+            {
+                "keyword": "comunidades portuguesas",
+                "score": 0.7042
+            },
+            {
+                "keyword": "gerações portugueses",
+                "score": 0.6909
+            },
+            {
+                "keyword": "comunidades portuguesas espalhadas europa",
+                "score": 0.6878
+            },
+            {
+                "keyword": "promove cultura identidade portuguesa",
+                "score": 0.6862
+            },
+            {
+                "keyword": "novas gerações portugueses",
+                "score": 0.6859
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHg4ME5nR2c4RDl4enVCX2lOTTZSQjlOVDJBWk9aOGZBbzVpZDY5S25lbmhXTTdjeEJWb3h6REF4Q3YyTVdzVzFmRlhpTVBhdlIxNmpQZ295el9TcjY4YWdFVnNZNTN5Wk1JMXRXOEhta0ZZWkxFMGg0SzNOZmRUZUZTS0VRZw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 16:51:00 GMT",
+        "title_clean": "Notícias :: SC Covilhã 2-0 U. Santarém :: Liga 3 Placard Série B 2026/27 ::",
+        "clean_text": "Notícias :: SC Covilhã 2-0 U. Santarém :: Liga 3 Placard Série B 2026/27 ::",
+        "keywords": [
+            {
+                "keyword": "liga placard série 2026",
+                "score": 0.649
+            },
+            {
+                "keyword": "liga placard série",
+                "score": 0.5632
+            },
+            {
+                "keyword": "série 2026 27",
+                "score": 0.5309
+            },
+            {
+                "keyword": "placard série 2026 27",
+                "score": 0.5089
+            },
+            {
+                "keyword": "santarém liga placard série",
+                "score": 0.4759
+            },
+            {
+                "keyword": "série 2026",
+                "score": 0.4666
+            },
+            {
+                "keyword": "liga placard",
+                "score": 0.4641
+            },
+            {
+                "keyword": "placard série 2026",
+                "score": 0.4584
+            },
+            {
+                "keyword": "santarém liga",
+                "score": 0.3589
+            },
+            {
+                "keyword": "santarém liga placard",
+                "score": 0.3352
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]

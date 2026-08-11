@@ -7729,5 +7729,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3msqzhg4ziu2e",
+        "source": "bluesky",
+        "created_at": "2026-08-10T21:15:30+00:00",
+        "title_clean": "",
+        "clean_text": "Volta: Rui Oliveira interrompe subida à Torre para abraçar Pepe Na subida à Torre da Serra da Estrela, na Covilhã, Rui Oliveira (UAE Emirates) interrompeu a etapa para…",
+        "keywords": [
+            {
+                "keyword": "interrompe subida torre abraçar",
+                "score": 0.5559
+            },
+            {
+                "keyword": "interrompe subida torre",
+                "score": 0.52
+            },
+            {
+                "keyword": "volta rui",
+                "score": 0.4937
+            },
+            {
+                "keyword": "uae emirates interrompeu",
+                "score": 0.4933
+            },
+            {
+                "keyword": "emirates interrompeu",
+                "score": 0.4931
+            },
+            {
+                "keyword": "emirates interrompeu etapa",
+                "score": 0.4918
+            },
+            {
+                "keyword": "subida torre abraçar",
+                "score": 0.4759
+            },
+            {
+                "keyword": "interrompeu etapa",
+                "score": 0.4609
+            }
+        ],
+        "source_name": null
     }
 ]
