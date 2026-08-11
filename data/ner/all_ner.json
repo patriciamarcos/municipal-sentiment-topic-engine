@@ -134181,6 +134181,78 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWo3UTd3UzFtQWQ2RU80Wks4NFEwMy1zRnZCQld5UnF4QUhVdzZxUTUyR3FTTEg2TWY2b1RSeW8xSThsMTRFRnJZWW9HWkR0cDUtSTU3dUlINUpUYUE3TmktWVZZUFhXZW9XQXZyX2NYdWwxRlNPb29PVERBMjJnWHA2RkpoYVB3eHhfM2JOcjdGbFhVZjZfWGFfOWtnbTNYRUQzRWw0SGV4dUNYQWlITmlZOHpubnhRYkVtdWs0NzJ4TXMtVDBDNkRJOFE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 07:00:00 GMT",
+        "title_clean": "COVILHÃ: Bouça Fest 2026: Dia 8 de agosto marcado por música, convívio e muita animação",
+        "entities": [
+            {
+                "text": "André Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Grupo D.A.C. Bouça",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDRZRWJkUU1pQnIxU2d4YlgzeHpvX2I1YkV0anhBcFVVVVRmOW42SUkyQU51U1RjWkNhNlRyMlREQnlXTlNfYTFWbnh2OEc3T0ZHTTBBODdnSlYxU1J3ZDFRcjVfN1ItY2E3d0hXN2RYalliZ0pTdmNZYms3OG01YnNHcFlVd2xBcnRxUkJn?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 07:00:00 GMT",
+        "title_clean": "Feira Medieval volta a ser de entrada livre em Belmonte",
+        "entities": [
+            {
+                "text": "Feira Medieval de Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Empresa Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Cabrais",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Belmonte",
+                "label": "ORG"
+            },
+            {
+                "text": "António Luís Beites",
+                "label": "PER"
+            },
+            {
+                "text": "Belmonte Medieval",
+                "label": "LOC"
+            },
+            {
+                "text": "Pelourinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Corte",
+                "label": "LOC"
+            },
+            {
+                "text": "Paços do Concelho",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

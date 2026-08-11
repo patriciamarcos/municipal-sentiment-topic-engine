@@ -113188,5 +113188,65 @@
             "Cultura, arte e espetáculos": 0.0139,
             "Falecimentos": 0.0107
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWo3UTd3UzFtQWQ2RU80Wks4NFEwMy1zRnZCQld5UnF4QUhVdzZxUTUyR3FTTEg2TWY2b1RSeW8xSThsMTRFRnJZWW9HWkR0cDUtSTU3dUlINUpUYUE3TmktWVZZUFhXZW9XQXZyX2NYdWwxRlNPb29PVERBMjJnWHA2RkpoYVB3eHhfM2JOcjdGbFhVZjZfWGFfOWtnbTNYRUQzRWw0SGV4dUNYQWlITmlZOHpubnhRYkVtdWs0NzJ4TXMtVDBDNkRJOFE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 07:00:00 GMT",
+        "title_clean": "COVILHÃ: Bouça Fest 2026: Dia 8 de agosto marcado por música, convívio e muita animação",
+        "topic_id": 1,
+        "topic_label": "Cultura, arte e espetáculos",
+        "topic_probability": 0.8776,
+        "low_confidence": false,
+        "all_scores": {
+            "Cultura, arte e espetáculos": 0.8776,
+            "Ação social e voluntariado": 0.1028,
+            "Feira e Festival": 0.0064,
+            "Universidade e vida académica": 0.0019,
+            "Turismo e património histórico": 0.0019,
+            "Obras e infraestruturas": 0.0016,
+            "Habitação": 0.0013,
+            "Natal e festividades": 0.0011,
+            "Comércio e lojas": 0.001,
+            "Transportes": 0.0009,
+            "Mercado": 0.0007,
+            "Tecnologia": 0.0007,
+            "Saúde e hospital": 0.0005,
+            "Desporto e competições": 0.0004,
+            "Falecimentos": 0.0004,
+            "Eleições e política autárquica": 0.0004,
+            "Incêndios e bombeiros": 0.0003,
+            "Crimes e polícia": 0.0003
+        }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDRZRWJkUU1pQnIxU2d4YlgzeHpvX2I1YkV0anhBcFVVVVRmOW42SUkyQU51U1RjWkNhNlRyMlREQnlXTlNfYTFWbnh2OEc3T0ZHTTBBODdnSlYxU1J3ZDFRcjVfN1ItY2E3d0hXN2RYalliZ0pTdmNZYms3OG01YnNHcFlVd2xBcnRxUkJn?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 07:00:00 GMT",
+        "title_clean": "Feira Medieval volta a ser de entrada livre em Belmonte",
+        "topic_id": 0,
+        "topic_label": "Feira e Festival",
+        "topic_probability": 0.7558,
+        "low_confidence": false,
+        "all_scores": {
+            "Feira e Festival": 0.7558,
+            "Comércio e lojas": 0.129,
+            "Mercado": 0.0314,
+            "Turismo e património histórico": 0.0236,
+            "Ação social e voluntariado": 0.0116,
+            "Cultura, arte e espetáculos": 0.0091,
+            "Habitação": 0.0086,
+            "Transportes": 0.0074,
+            "Obras e infraestruturas": 0.0059,
+            "Universidade e vida académica": 0.0044,
+            "Natal e festividades": 0.0034,
+            "Saúde e hospital": 0.0025,
+            "Falecimentos": 0.0016,
+            "Desporto e competições": 0.0013,
+            "Tecnologia": 0.0012,
+            "Incêndios e bombeiros": 0.0011,
+            "Crimes e polícia": 0.001,
+            "Eleições e política autárquica": 0.0009
+        }
     }
 ]
