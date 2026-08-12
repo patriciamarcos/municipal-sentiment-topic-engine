@@ -136320,5 +136320,655 @@
             }
         ],
         "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWdZTi1BZ2hUTkthUndza0lzbWg1aUk1TzlWLTlnMUxMT2xfZTY1aU9uazBsdjFDODNCeWVRVEVGc3o4T2dKa1RnRVBlMldHMHhTTldVUXpfelFpVkF3MHBvNHdOVkhqZ3h0RTlsYW95d2NJV3dDWmVHVTBSQ19DVEVBUmEteGZWYUJCYjhoSUs1NnMzUjBadVY5TklqazNBaWRiUnUwNXlHXzNL?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 20:06:41 GMT",
+        "title_clean": "Visita aos Bombeiros Voluntários da Covilhã - Presidência da República Portuguesa",
+        "clean_text": "Visita aos Bombeiros Voluntários da Covilhã - Presidência da República Portuguesa. O Presidente da República visitou o quartel dos Bombeiros Voluntários da Covilhã, onde assinou o Livro de Honra, acompanhado pelo Presidente da Câmara Municipal, Hélio Fazendeiro. Foi recebido pelo Presidente da Direção da Associação Humanitária dos Bombeiros Voluntários da Covilhã, Joaquim Matias, e pelo Presidente da Assembleia Geral, Vítor Pereira. O Presidente António José Seguro percorreu as instalações e cumprimentou pessoalmente os operacionais presentes. Agradeceu ainda o esforço e a disponibilidade da corporação e deixou uma palavra de reconhecimento pelo serviço prestado à população.",
+        "keywords": [
+            {
+                "keyword": "portuguesa presidente república visitou",
+                "score": 0.6881
+            },
+            {
+                "keyword": "república visitou quartel bombeiros",
+                "score": 0.6759
+            },
+            {
+                "keyword": "presidência república portuguesa presidente",
+                "score": 0.6639
+            },
+            {
+                "keyword": "recebido presidente direção",
+                "score": 0.6462
+            },
+            {
+                "keyword": "presidente república visitou quartel",
+                "score": 0.6432
+            },
+            {
+                "keyword": "república portuguesa presidente",
+                "score": 0.6382
+            },
+            {
+                "keyword": "presidente república visitou",
+                "score": 0.6355
+            },
+            {
+                "keyword": "presidência república portuguesa",
+                "score": 0.6352
+            },
+            {
+                "keyword": "portuguesa presidente",
+                "score": 0.6311
+            },
+            {
+                "keyword": "portuguesa presidente república",
+                "score": 0.6305
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWJzNzRkQ2FoQjFyRUFGM3lhLTh6OEJuNVQyRnk0cjZseE1lZjVSVWZrRlFKeWFvS3dmNGZsRnd6TW9zQ21PTUw3MHVmTVB6QTAyQXhIMzNxeWY2dnBqR0pydllfUlpRV2lhOXp5NnlFTXgySkFvYUdJdEV3UDZfNXFoaUJBNnU0NzI5Tkt6ZU4tWDZsZm5vUFVTOHhodzA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 20:13:47 GMT",
+        "title_clean": "PR na Covilhã. António José Seguro dedicou dia aos jovens - RTP",
+        "clean_text": "PR na Covilhã. António José Seguro dedicou dia aos jovens - RTP. O Presidente da República diz que o interior não pode ser visto como um fardo e que há um potencial de oportunidades por explorar. Na Covilhã, o chefe de Estado pediu uma visão estratégica e maior investimento público no interior.",
+        "keywords": [
+            {
+                "keyword": "presidente república diz interior",
+                "score": 0.5853
+            },
+            {
+                "keyword": "república diz interior",
+                "score": 0.5833
+            },
+            {
+                "keyword": "visto fardo há potencial",
+                "score": 0.5308
+            },
+            {
+                "keyword": "diz interior não pode",
+                "score": 0.5153
+            },
+            {
+                "keyword": "estado pediu visão estratégica",
+                "score": 0.5125
+            },
+            {
+                "keyword": "fardo há potencial",
+                "score": 0.5102
+            },
+            {
+                "keyword": "república diz interior não",
+                "score": 0.5053
+            },
+            {
+                "keyword": "pediu visão estratégica",
+                "score": 0.5022
+            },
+            {
+                "keyword": "pediu visão estratégica maior",
+                "score": 0.4999
+            },
+            {
+                "keyword": "dedicou jovens rtp presidente",
+                "score": 0.4991
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzVYaG5wWDdLb0NVY1B1cVlNSkM4X19OTTFPaDVQSGJObmZXV3h5V0ZYSG91b0ZOTS1pdVBoQXdkTjAzcmNPMzd4aXdVWExMZFloN1E4cC1ndUs0S29qT042UHllU1RjLXdyZXpXRDlxVDRUVHFxaDFMaEQxN0xqSzNZdnVncmd1bVF4bDNLWXVUTWJzOUYwb1VnS09CM0FlSjlaRktn?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 11:40:04 GMT",
+        "title_clean": "Seguro considera que \"interior não é um fardo\" e precisa de uma oportunidade - Diário de Notícias",
+        "clean_text": "Seguro considera que \"interior não é um fardo\" e precisa de uma oportunidade - Diário de Notícias. O Presidente da República, António José Seguro, considerou esta terça-feira, 11 de agosto, que \"o interior não é um fardo\" e que \"precisa de uma oportunidade\" para o seu potencial, pedindo uma visão estratégica e \"investimento público que potencie o investimento privado\". O chefe de Estado dedica o dia à Covilhã e fez questão de assinalar que esta é a sua primeira visita oficial à Beira Baixa, de onde é natural, um momento que disse que \"ficará gravado no coração e na memória\". \"Eu considero que o interior não é um fardo. O interior é um potencial de oportunidades\", enfatizou, numas breves palavras na Câmara da Covilhã, antes de uma reunião com líderes das juventudes partidárias e representantes jovens dos partidos com representação parlamentar. Na véspera do Dia Internacional da Juventude, António José Seguro pretendeu \"projetar o futuro com jovens que não desistem do interior e que sabem que o interior precisa de uma oportunidade\", defendendo que \"não há territórios dispensáveis\" em Portugal. \"Precisamos de fazer um equilíbrio entre competitividade e coesão que existe mais nas regiões do litoral e qualidade ambiental que existe mais nas regiões do interior\", defendeu. O Presidente da República defendeu a necessidade de \"uma visão estratégica\" e de \"investimento público que potencie o investimento privado\", considerando que assim haverá \"condições para que os jovens depois façam as suas opções\". \"E possam ficar, se quiserem, possam ir em mobilidade para outras zonas de Portugal ou do mundo e regressar. O que não podemos aceitar é que, passados 60 anos, se volte a emigrar ou a migrar dentro de Portugal por necessidade\", apontou. Seguro referiu que estava neste encontro essencialmente para ouvir as juventudes partidárias e o Conselho Nacional de Juventude, considerando que o trabalho destes intervenientes é de \"muita qualidade\". \"Nós precisávamos ter mais jovens a participar no associativismo, mas isso não é uma forma de criticar aqueles que se disponibilizam para trabalhar no associativismo por serem poucos. Pelo contrário, é de vos homenagear pela vossa resiliência, pelo vosso empenhamento e pelas vossas causas\", elogiou. Para o Presidente da República, que foi presidente do Conselho Nacional de Juventude, o associativismo \"é uma forma de os jovens intervirem de uma forma mais organizada e mais estruturada\".",
+        "keywords": [
+            {
+                "keyword": "considera interior não",
+                "score": 0.5781
+            },
+            {
+                "keyword": "considera interior não fardo",
+                "score": 0.5328
+            },
+            {
+                "keyword": "interior precisa oportunidade",
+                "score": 0.529
+            },
+            {
+                "keyword": "interior precisa oportunidade defendendo",
+                "score": 0.4947
+            },
+            {
+                "keyword": "regiões interior defendeu presidente",
+                "score": 0.4825
+            },
+            {
+                "keyword": "seguro considera interior",
+                "score": 0.4816
+            },
+            {
+                "keyword": "potencie investimento privado chefe",
+                "score": 0.4791
+            },
+            {
+                "keyword": "fardo interior potencial",
+                "score": 0.4779
+            },
+            {
+                "keyword": "necessidade apontou seguro estava",
+                "score": 0.4741
+            },
+            {
+                "keyword": "não fardo precisa oportunidade",
+                "score": 0.4726
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHRFeU5SYURrUThOT2ZKQlp0dzExYnZnbkxucnlVbVQzaVM4N2FSby1DMjdFS3pyTnpTdWxJaW4xM2tucVB5Mm5mSjc5aE55aWhXODV4VHhMUk1tQS12Undzb3ZnSF9zYVBWbmY0ZUFkeEk5VFVycnNQZ3hfNHJnTHZIajNmZlVvUmhoSG5zcmg3MFJOVkJMQg?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 09:34:00 GMT",
+        "title_clean": "Seguro considera inaceitável que jovens emigrem por necessidade",
+        "clean_text": "Seguro considera inaceitável que jovens emigrem por necessidade. Um jovem deixar Portugal, por opção, para conhecer outras realidades e culturas, por mobilidade, é algo normal, que pode acontecer. Agora, deixar a sua terra, o seu País, por falta de oportunidades, é algo inadmissível. É esta a opinião do Presidente da República, António José Seguro, que participa, esta terça-feira, 11, na Covilhã, nas comemorações do Dia Internacional da Juventude. O chefe de Estado foi recebido esta manhã na Câmara, onde, num breve discurso, afirmou que o Interior \"não é um fardo, mas um potencial de oportunidades\". Seguro, que nesta sua primeira visita oficial \"à minha Beira Baixa, ao meu distrito natal, onde nasci (Penamacor)\", disse vir para \"escutar\", e não para falar, afirmou que o Interior deve ser projetado com e a favor dos jovens, que é necessário fazer \"um equilíbrio entre oportunidades e coesão\" nas políticas públicas que ajudem as zonas de menor densidade a desenvolverem-se. \"Não podemos aceitar que, passados 60 anos, se volte a emigrar, ou migrar, dentro de Portugal, por necessidade. Uma coisa é a opção da mobilidade. É bom, é fantástico conhecer o mundo, ver coisas diferentes. Outra coisa é querer trabalhar num local, e não haver condições para o fazer\", salientou António José Seguro. Num dia em que a escolha da Covilhã foi \"um sinal de compromisso\" para com esta região, Seguro apelou à participação dos jovens no associativismo, pois considera que essa é uma forma de intervenção cívica \"mais organizada e estruturada\", através da qual podem atingir os seus anseios. O chefe de Estado participa esta manhã num encontro com os líderes das Juventudes Partidárias nacionais e representantes jovens dos partidos com representação parlamentar, no salão nobre da autarquia. Francisco Garcia, presidente do Conselho Nacional da Juventude, entregou a Seguro um quadro com fotos da altura em que o Presidente da República fazia parte desta estrutura jovem, numa assembleia geral realizada em 1988, e afiançou ser \"muito importante ter um Presidente da República que valoriza o Interior\", de modo a que \"nenhum jovem tenha que sair da sua terra para construir um projeto de vida\". Já o presidente da Câmara da Covilhã, Hélio Fazendeiro, revelou satisfação pela escolha da Covilhã para assinalar o Dia Internacional da Juventude, até pela quantidade de jovens que tem, e por ser na cidade a primeira audiência do Presidente da República às juventudes partidárias. O autarca lembrou o passado de Seguro nesse âmbito e disse que um dos seus objetivos é criar condições para os mais novos venham para a Covilhã, \"e se fixem cá\". O autarca disse ter em Seguro \"as melhores expectativas\" no que diz respeito a políticas que promovam a coesão territorial, e acredita que \"as raízes\" de António José Seguro serão \"motor desta transformação\" a favor dos territórios mais interiores. Ainda durante esta manhã, o Presidente da República conversa com grupo de jovens empreendedores no Teatro Municipal da Covilhã (TMC), onde almoçará, pelas 12:30, em convívio com jovens.",
+        "keywords": [
+            {
+                "keyword": "necessidade jovem deixar portugal",
+                "score": 0.7908
+            },
+            {
+                "keyword": "jovem deixar portugal",
+                "score": 0.7341
+            },
+            {
+                "keyword": "jovem deixar portugal opção",
+                "score": 0.7015
+            },
+            {
+                "keyword": "migrar dentro portugal necessidade",
+                "score": 0.6995
+            },
+            {
+                "keyword": "deixar portugal",
+                "score": 0.6651
+            },
+            {
+                "keyword": "deixar terra país falta",
+                "score": 0.6632
+            },
+            {
+                "keyword": "migrar dentro portugal",
+                "score": 0.6387
+            },
+            {
+                "keyword": "emigrem necessidade jovem deixar",
+                "score": 0.6348
+            },
+            {
+                "keyword": "dentro portugal necessidade coisa",
+                "score": 0.6296
+            },
+            {
+                "keyword": "emigrar migrar dentro portugal",
+                "score": 0.6293
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1hxX0w2bGVxZm1veklVM3A4WXBDdm9FZElwSVBpdXdxM1FyWkpMZTBxUG5YdlhaejJBQnBfaDNEN0FZN25yS2hWSC1EZXZjZ2cyQlB6Mm0wZGNpemZmSDNpVEFLbDg3ZC1ZQ3R3X2dMZmwyVjluNzNkWS1yOE54UmNYb0lKQi1Kc1Voc29Qc1RUdDRvTjRkdnNreTBtMEdZT3QwMm1qbTFrandYT1hNdlFXWUZNRUdTS2FEa3dPb0NWNUZtTnpMNA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 13:59:45 GMT",
+        "title_clean": "António José Seguro visita Covilhã e admite que o interior \"precisa de uma oportunidade\"",
+        "clean_text": "António José Seguro visita Covilhã e admite que o interior \"precisa de uma oportunidade\". \"O interior é um potencial de oportunidades\". Foi com estas palavras que António José Seguro, Presidente da República, iniciou a sua visita à Covilhã, esta terça-feira, dia 11 de agosto, para celebrar o Dia Internacional da Juventude. No seu primeiro passo oficial no distrito, enquanto Presidente da República, António José Seguro, admitiu que o interior não é um fardo e estar na Covilhã é projetar o futuro. \"O Interior não é um fardo, é um potencial de oportunidades, e hoje estar aqui na Covilhã, no interior, é projetor o futuro, com jovens que não desistem e que sabem que o interior precisa de uma oportunidade\", começou por dizer o Presidente. O Chefe de Estado abordou ainda as questões do país, no que diz respeito a territórios dispensáveis e às opções de mobilidade, sobretudo para os jovens. \"Não há territórios dispensáveis no nosso país. Precisamos de fazer um equilíbrio entre competitividade e coesão, que existe mais nas regiões do litoral, e qualidade ambiental, que existe mais nas regiões do interior. Se houver uma visão estratégica, investimento público, que potencie o investimento privado, há condições para que os jovens depois façam as suas opções e possam ficar, se quiserem, possam ir em mobilidade para outras zonas de Portugal ou do mundo e regressar. Não podemos aceitar é que, passados 60 anos, se volte a emigrar ou a migrar dentro de Portugal por necessidade. Uma coisa é a opção da mobilidade.\" Durante a sua intervenção, antes de iniciar a reunião com os líderes das Juventudes Partidárias Nacionais e os representantes dos partidos com representação parlamentar, António José Seguro deixou a mensagem de que são necessários mais jovens a participar no associativismo, sendo que este é uma forma dos mesmos intervirem. \"Nós precisávamos ter mais jovens a participar no associativismo, mas isso não é uma forma de criticar aqueles que se disponibilizam para trabalhar no associativismo por serem poucos. É de vos homenagear pela vossa resiliência, pelo vosso empenhamento e pelas vossas causas. O associativismo é uma forma dos jovens intervirem de uma forma mais organizada e mais estruturada\", finalizou o Presidente da República. Quanto aos jovens, Hélio Fazendeiro, presidente da Câmara Municipal da Covilhã, referiu que é necessário que venham para a cidade, mas também que se fixem e se mantenham no futuro. \"Nós temos de procurar criar as condições necessárias, não só para que os jovens venham para a Covilhã, mas que se fixem e se mantenham cá a trabalhar e a criar riqueza. É por isso que tenho muita expectativa e muita ambição para o futuro. Portugal precisa de dar o salto do desenvolvimento e da integração e da coesão territorial\", disse o autarca. À conversa com jovens empreendedores da Covilhã O Presidente da República, António José Seguro, esteve ainda à conversa com jovens empreendedores da Covilhã, no Teatro Municipal, onde respondeu a algumas questões e afirmou que é preciso dar uma maior dimensão às \"nossas empresas\". \"Nós temos aqui a necessidade de dar uma maior dimensão às nossas empresas. Primeiro, para acolher os jovens licenciados e segundo, para lhes pagar bons salários, ao nível da qualidade de capacitação que têm. Esse movimento tem que ser feito e é urgente. Ontem já era tarde em relação a isto\", realçou o Presidente. Em resposta a Francisco Baltar, jovem fundador de 4 empresas, António José Seguro diz ser a favor da mobilidade, mas é contra as pessoas terem de sair do país por necessidade. \"Nós não podemos ter um país que forma jovens com o esforço que o Estado faz e as famílias fazem e depois uma parte deles vai ajudar outras economias quando quer ficar em Portugal. Eu sou a favor da mobilidade. A pessoa forma-se, vai para um outro país, vem, tem experiências, acumula experiências. Isso é uma coisa extraordinária. Mas as pessoas terem que sair por necessidade, isso não. Sobretudo quando nós gastamos e investimos na sua educação e na sua formação.\" Recorde-se que o Presidente da República esteve na Covilhã para as comemorações do Dia Internacional da Juventude, onde marcou também presença, Francisco Garcia, presidente do Conselho Nacional de Juventude (CNJ).",
+        "keywords": [
+            {
+                "keyword": "presidente república quanto jovens",
+                "score": 0.5
+            },
+            {
+                "keyword": "futuro interior não",
+                "score": 0.4918
+            },
+            {
+                "keyword": "interior precisa oportunidade",
+                "score": 0.4725
+            },
+            {
+                "keyword": "interior projetor futuro jovens",
+                "score": 0.4506
+            },
+            {
+                "keyword": "país jovens esforço estado",
+                "score": 0.4481
+            },
+            {
+                "keyword": "presidente conselho nacional juventude",
+                "score": 0.4437
+            },
+            {
+                "keyword": "presidente república antónio josé",
+                "score": 0.4261
+            },
+            {
+                "keyword": "precisa oportunidade começou dizer",
+                "score": 0.4179
+            },
+            {
+                "keyword": "oportunidades hoje estar aqui",
+                "score": 0.4177
+            },
+            {
+                "keyword": "interior não",
+                "score": 0.4098
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxQeTJScndCZUlEOXlZRE95eWJGVHJYdWNqUUxGaEpWY1dEdmFob3k2WVByanNQQXA5ZW1hRzk3cjJNM2M0VlRSLVl2ZEd1LWtIdnMweHVnUkpyZi1aXzVCdkJsbnQ3Nkk1eGEwZWhVS1lCcFNWeDMtWENMMXdFYUE1Z2pFcEQxbWdPaWlaSHhzMA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 09:57:37 GMT",
+        "title_clean": "Recolha de sangue na Covilhã a 13 de agosto",
+        "clean_text": "Recolha de sangue na Covilhã a 13 de agosto. O Grupo Humanitário da Covilhã promove, no próximo dia 13 de agosto, uma recolha de sangue na sua sede, apelando à participação da população numa altura em que Portugal enfrenta uma redução crítica das reservas de sangue, situação que se agrava durante o período de verão. A recolha decorre entre as 10h00 e as 13h00 e, durante a tarde, das 14h30 às 18h00. A pré-inscrição é obrigatória para participar na iniciativa. A organização sublinha que uma doação demora cerca de 15 minutos, mas pode fazer a diferença para quem necessita de uma transfusão, deixando o apelo à solidariedade da população. \"Um pequeno gesto de 15 minutos faz toda a diferença\" e \"doar sangue é esperança renovada para uma família inteira\", destaca o Grupo Humanitário, que agradece a todos os que possam disponibilizar algum do seu tempo para ajudar a reforçar as reservas de sangue.",
+        "keywords": [
+            {
+                "keyword": "sangue sede apelando participação",
+                "score": 0.6274
+            },
+            {
+                "keyword": "próximo 13 recolha sangue",
+                "score": 0.6119
+            },
+            {
+                "keyword": "participação população altura portugal",
+                "score": 0.602
+            },
+            {
+                "keyword": "ajudar reforçar reservas sangue",
+                "score": 0.5902
+            },
+            {
+                "keyword": "população altura portugal enfrenta",
+                "score": 0.5778
+            },
+            {
+                "keyword": "recolha sangue sede apelando",
+                "score": 0.5755
+            },
+            {
+                "keyword": "reforçar reservas sangue",
+                "score": 0.5723
+            },
+            {
+                "keyword": "13 recolha sangue",
+                "score": 0.5574
+            },
+            {
+                "keyword": "reservas sangue situação agrava",
+                "score": 0.555
+            },
+            {
+                "keyword": "redução crítica reservas sangue",
+                "score": 0.5471
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDZFb2lwdXBkTFNLLUd3MkxxLXF3VUI0SUhseEs4U3hVcUxxbTl2dWU0ejRiRElnVE5oTE9raGtKZlp6cWRwbWFiVmN4YWJWSVJSMEItU25tdGVxekVZSG44bV9Td19rcW9WMnJVcTIyNmtaVzlfRW5kVnNTTG5VUG5xa1FGVjdFLUp1MDdQNHgzSFozTy1DXzJMSDE4el9jRks1YWIzQ0dxUW1xd3g1ckdqU1NydWN4bGJV?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 12:52:00 GMT",
+        "title_clean": "Defesa Pedro Ribeiro (ex-Sp. Covilhã) reforça Pevidém - Guimarães Digital",
+        "clean_text": "Defesa Pedro Ribeiro (ex-Sp. Covilhã) reforça Pevidém - Guimarães Digital",
+        "keywords": [
+            {
+                "keyword": "defesa pedro ribeiro ex",
+                "score": 0.5701
+            },
+            {
+                "keyword": "defesa pedro",
+                "score": 0.5698
+            },
+            {
+                "keyword": "pedro ribeiro ex sp",
+                "score": 0.506
+            },
+            {
+                "keyword": "pedro ribeiro ex",
+                "score": 0.4904
+            },
+            {
+                "keyword": "ribeiro ex sp",
+                "score": 0.4672
+            },
+            {
+                "keyword": "reforça pevidém guimarães digital",
+                "score": 0.4533
+            },
+            {
+                "keyword": "ribeiro ex",
+                "score": 0.4225
+            },
+            {
+                "keyword": "reforça pevidém",
+                "score": 0.4184
+            },
+            {
+                "keyword": "defesa pedro ribeiro",
+                "score": 0.4098
+            },
+            {
+                "keyword": "reforça pevidém guimarães",
+                "score": 0.3898
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxNZndrdFB4cVc0cE9ha1FQUnRLdXBndTNsRllyQXNDQklhcFl2b2xFOF9vYXV0XzZCT0JTZ0JzWE9vMGtzbFRmbVZLTzJPR3lFdkxlRlFOdDJHVDkwZkVPTjZib3Niellwd1FlbUoyV2hXaHFIeUZ2UmlodUk2QnFkX3h6QkNoX1lhb2ZpekU4ZEhwSi1zdUJReGNScy1aY1oxSmtVd0tUVHBnM09sUmc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 08:56:46 GMT",
+        "title_clean": "COVILHÃ: TALENTO DE RITA CORTEZÃO NO VERÃO NO CENTRO HISTÓRICO - sapo.pt",
+        "clean_text": "COVILHÃ: TALENTO DE RITA CORTEZÃO NO VERÃO NO CENTRO HISTÓRICO - sapo.pt. Rita Cortezão, uma das artistas mais promissoras da música nacional, estreia-se em concerto na Covilhã na segunda noite do Verão no Centro Histórico, a 14 de agosto (21:30), no Largo de Santa Marinha (entre o quartel dos Bombeiros e a antiga Casa do Benfica). O Verão no Centro Histórico, organizado pela Câmara Municipal da Covilhã e já na 9ª edição, continua a unir história, património e teatro ao melhor da nova música local e nacional. Com esta iniciativa, o Município pretende dinamizar a zona histórica, dando a conhecer mais sobre a(s) história(s) das suas ruas e proporcionado a fruição de espetáculos musicais de qualidade. Após o sucesso das edições anteriores, com as visitas guiadas encenadas mais participadas do país e dando a conhecer à Covilhã o melhor da nova música nacional, o Verão no Centro Histórico tem como objetivo levar as pessoas para a rua, em grandes noites de cultura no coração da cidade. As visitas guiadas encenadas começam (21:30) e terminam no local dos concertos, lugares improváveis e emblemáticos do centro histórico da Covilhã. O evento é gratuito e de participação livre. Rita Cortezão é o nome artístico da cantautora Rita Cortesão Monteiro. Começou a tocar piano com 5 anos, escreve canções desde que se lembra e escreve, canta e toca de olhos fechados, sendo uma das artistas mais promissoras da atualidade na música nacional. Rita Cortezão foi a grande vencedora da edição deste ano do Festival Termómetro, onde levou também o prémio de Melhor Canção, com \"o tempo que fica\". Junta-se assim a grandes nomes que o Termómetro já revelou desde 1994: Ornatos Violeta, Silence Four, Capicua, Noiserv, Richie Campbell, Ana Bacalhau, Marta Ren ou Tatanka, entre tantos outros. Com esta vitória, a artista assegurou presença, neste verão, nos palcos de três dos principais festivais nacionais: NOS Alive, Bons Sons e Vodafone Paredes de Coura. \"Tudo, um pouco\" é o nome do seu primeiro registo de originais, editado em 2025 com o selo Discos Submarinos. Co-produzido pela artista e por Benjamim, \"tudo, um pouco\" assume desde o título a diversidade sonora e temática que atravessa as suas dez canções, revelando também o fascínio da artista por jogos de palavras. Somos embalados pela voz de Rita Cortezão numa viagem que atravessa as inquietudes e a frustração com as demandas da modernidade, o desassossego de quem sonha crescer para além da monotonia da cidade onde nasceu, as incertezas em relação ao futuro ou o luto por alguém que se amou profundamente. Num disco de estreia profundamente vulnerável, é precisamente nessa exposição emocional que reside a sua maior força - e a origem da ligação íntima e imediata que estabelece com quem o escuta. Em palco, todas estas camadas resultam num concerto intenso e numa proximidade arrebatadora com o público. Entre piano, teclados e elementos eletrónicos, Rita Cortezão revela-se uma cantautora luminosa e de uma sinceridade rara. O Verão no Centro Histórico prossegue todas as noites de sexta-feira do mês de agosto, sempre às 21:30, com novas visitas guiadas encenadas e concertos de Margarida Campelo (21 de agosto, no Poço Grande, Rua José Caetano Júnior) e da covilhanense Filipa Bidarra (28 de agosto, no Jardim Público).",
+        "keywords": [
+            {
+                "keyword": "música nacional rita cortezão",
+                "score": 0.7246
+            },
+            {
+                "keyword": "música nacional verão centro",
+                "score": 0.6724
+            },
+            {
+                "keyword": "concertos margarida campelo",
+                "score": 0.6712
+            },
+            {
+                "keyword": "música nacional estreia concerto",
+                "score": 0.6645
+            },
+            {
+                "keyword": "música nacional estreia",
+                "score": 0.6545
+            },
+            {
+                "keyword": "concertos margarida campelo 21",
+                "score": 0.6431
+            },
+            {
+                "keyword": "música nacional rita",
+                "score": 0.637
+            },
+            {
+                "keyword": "música nacional verão",
+                "score": 0.6305
+            },
+            {
+                "keyword": "música local",
+                "score": 0.6278
+            },
+            {
+                "keyword": "música local nacional iniciativa",
+                "score": 0.6036
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejlJVGhZMUNmNl9oSmhoYmtrSjdzYmp3MmVMSmdITXdwcTMtRC1KMWpoYWdCZ2xHZWUwOU1TOXpDTWVnTi1RSU45Uk5GQTBiNjZCcEhFNjlVNk5lUUpfeGNzNFg0amtURE1wV0wxT05KWWVLVTdTbTl4Y2tYX1VMOVFkSFlpcW1Jc00yZXMzNm1kaDVUTEFYeXlNcERDWWd3QXhwOE5wM3JraFM2dVFFaXVSYkIwUVJDYkdiZGd3OGzSAbABQVVfeXFMT0lkOEVxcEpwN1phc1YyWm05VUo2T0RhSFFWOHZGejVuSUF6R2ItMV9wZHZVRkUzaWpVS2F3NVdjaWM2aDlPbTk5UG83TzJscnVMU3pjQ3M4dWVsRHRMdVI5Z3BxUjFhRHl4V1ZGU1hYVGQ3eFhzZ05NNkswVmI1eTNQeWJyT01mZmJDTTYzTDBkWElaX1p1cE1JeG5DcE5sd0NHN1ZrNC1BNnpjVU14VTk?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 14:28:00 GMT",
+        "title_clean": "Acolher jovens licenciados e pagar bons salários \"é urgente\", diz Seguro na Covilhã - Jornal de Notícias",
+        "clean_text": "Acolher jovens licenciados e pagar bons salários \"é urgente\", diz Seguro na Covilhã - Jornal de Notícias",
+        "keywords": [
+            {
+                "keyword": "acolher jovens licenciados pagar",
+                "score": 0.7887
+            },
+            {
+                "keyword": "jovens licenciados pagar bons",
+                "score": 0.7854
+            },
+            {
+                "keyword": "jovens licenciados pagar",
+                "score": 0.7514
+            },
+            {
+                "keyword": "bons salários urgente diz",
+                "score": 0.7053
+            },
+            {
+                "keyword": "licenciados pagar bons salários",
+                "score": 0.6907
+            },
+            {
+                "keyword": "acolher jovens licenciados",
+                "score": 0.6767
+            },
+            {
+                "keyword": "bons salários urgente",
+                "score": 0.6707
+            },
+            {
+                "keyword": "licenciados pagar bons",
+                "score": 0.6593
+            },
+            {
+                "keyword": "pagar bons salários urgente",
+                "score": 0.6551
+            },
+            {
+                "keyword": "jovens licenciados",
+                "score": 0.6237
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHpyQTdGeE9hV05fWEhVYm42dk1ISE92SGpCNUVoeWI5T1FGb0lWUDNZWHdJSXVWZmh6V21lNmYtSWlfVkZKRnpST1luSUwyOGJ2dV9MUFFxb1Jxa3hJZm1DVlI1TDVZR1ZQZl9icFdGaVlObzZOM2NsdGlvZjFZTmZyX3pWVndlcHRCUk5KcFBsSmNuZkF0dV9ZYWNiWVQ1ZW1tNnFyU29zTUFudU92ZXBRQnJiU1JMUEd0NDRkZkY0akZEc2NTbWJR?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 14:25:00 GMT",
+        "title_clean": "“Auto de Exortação da Paz” termina esta semana digressão pelas freguesias da Covilhã - sapo.pt",
+        "clean_text": "\"Auto de Exortação da Paz\" termina esta semana digressão pelas freguesias da Covilhã - sapo.pt. A peça \"Auto de Exortação da Paz\", do Teatro das Beiras, termina esta semana a digressão pelas freguesias do concelho da Covilhã. O espetáculo, com texto e encenação de José Carretas, tem ainda quatro apresentações agendadas, entre esta 3ªfeira e sábado, 11 a 15 de agosto. A reta final da digressão começa esta 3ªfeira, em Tortosendo, com a apresentação marcada para as 21h30. No dia seguinte, dia 12, o espetáculo chega a Verdelhos, também às 21h30. Na 6ªfeira, dia 14, é a vez de Erada receber \"Auto de Exortação da Paz\", novamente às 21h30, estando o encerramento da digressão marcado para sábado, 15, no Canhoso, à mesma hora. Ao longo desta digressão, o Teatro das Beiras tem levado o espetáculo a diferentes freguesias do concelho, aproximando a criação teatral das comunidades locais.",
+        "keywords": [
+            {
+                "keyword": "termina semana digressão freguesias",
+                "score": 0.6472
+            },
+            {
+                "keyword": "teatro beiras termina",
+                "score": 0.6334
+            },
+            {
+                "keyword": "teatro beiras termina semana",
+                "score": 0.6319
+            },
+            {
+                "keyword": "beiras termina semana digressão",
+                "score": 0.629
+            },
+            {
+                "keyword": "termina semana digressão",
+                "score": 0.6272
+            },
+            {
+                "keyword": "beiras termina",
+                "score": 0.624
+            },
+            {
+                "keyword": "paz teatro beiras termina",
+                "score": 0.6234
+            },
+            {
+                "keyword": "3ªfeira tortosendo apresentação marcada",
+                "score": 0.6049
+            },
+            {
+                "keyword": "3ªfeira tortosendo apresentação",
+                "score": 0.5983
+            },
+            {
+                "keyword": "apresentação marcada 21h30 seguinte",
+                "score": 0.5975
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzhOQTdlMGlCdEVUdE9FOFFrMUk4cmZlN1ZmbV8zTzhKV0daaGRUaWtiSGJfaFNrOVJ6bndxQUdxLVhvNjVxVm9HOUxsRGJaNjdORzlHZXhob2ZNbzdsLW43SEZJQnNRUFFzU3dIdy1GeER3bWNOUnpoSFJsZ2tMTC1lekI3UzB4US10YTFpUm1FRkpxVTkzZUV5VXlQSEhGSmcyLXpGSFYtVVo4Rk9mXzhtTmxfVTQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 17:06:44 GMT",
+        "title_clean": "Presidente da República reúne-se com juventudes partidárias. As imagens - Notícias ao Minuto",
+        "clean_text": "Presidente da República reúne-se com juventudes partidárias. As imagens - Notícias ao Minuto. O Presidente da República, António José Seguro, recebeu, esta terça-feira, em audiência, no Salão Nobre da Câmara Municipal da Covilhã, os líderes das juventudes partidárias e jovens representantes dos partidos com assento parlamentar. \"O encontro foi dedicado à coesão territorial e integrou a visita à Covilhã, no âmbito das comemorações do Dia Internacional da Juventude\", pode ler-se numa nota partilhada no site da Presidência da República. Acrescenta ainda que \"das intervenções resultou uma preocupação transversal com as desigualdades entre o litoral e o interior do País, bem como com os desafios específicos das regiões autónomas\". A propósito do Dia Internacional da Juventude, o Presidente da República realizou também \"uma audiência aberta aos jovens da Covilhã, que reuniu 25 participantes\". \"O encontro foi dedicado à partilha de experiências em diferentes áreas, da cultura ao empreendedorismo e ao associativismo, com testemunhos de atletas e de jovens ligados às artes\", refere. Durante a sua visita à Covilhã, o Presidente da República visitou o quartel dos Bombeiros Voluntários da Covilhã, tendo sido recebido pelo presidente da Direção da Associação Humanitária dos Bombeiros Voluntários da Covilhã, Joaquim Matias, e pelo presidente da Assembleia Geral, Vítor Pereira. O Presidente da República \"percorreu as instalações e cumprimentou pessoalmente os operacionais presentes\". \"Agradeceu ainda o esforço e a disponibilidade da corporação e deixou uma palavra de reconhecimento pelo serviço prestado à população\", lê-se. Leia Também: Seguro defende nova forma de olhar para territórios e empresas",
+        "keywords": [
+            {
+                "keyword": "internacional juventude presidente república",
+                "score": 0.6916
+            },
+            {
+                "keyword": "juventude presidente república realizou",
+                "score": 0.6911
+            },
+            {
+                "keyword": "juventude presidente república",
+                "score": 0.6871
+            },
+            {
+                "keyword": "joaquim matias presidente assembleia",
+                "score": 0.6843
+            },
+            {
+                "keyword": "presidente república reúne juventudes",
+                "score": 0.6688
+            },
+            {
+                "keyword": "vítor pereira presidente república",
+                "score": 0.668
+            },
+            {
+                "keyword": "propósito internacional juventude presidente",
+                "score": 0.6637
+            },
+            {
+                "keyword": "internacional juventude presidente",
+                "score": 0.6622
+            },
+            {
+                "keyword": "pereira presidente república",
+                "score": 0.6514
+            },
+            {
+                "keyword": "presidente república reúne",
+                "score": 0.6489
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMicEFVX3lxTE5mM0xxMGpWd21QVGd0NnBaTklVYV8wMFBmN3lzQ2txWDY2QVRLcUFSdndhT29GazkzdXlITUNIam9Icy16V2Fzb0pTMlUzZTFpSElUMTgtNWIwRkFWNjB3ajFfbzhfa05oLUszQXNDTEY?oc=5",
+        "source": "news",
+        "created_at": "Sun, 09 Aug 2026 17:59:54 GMT",
+        "title_clean": "Covilhã X União Santarém - Maisfutebol",
+        "clean_text": "Covilhã X União Santarém - Maisfutebol. Facebook Twitter TikTok Instagram RSS TUDO NOTÍCIAS JOGOS LIGA LIGA DOS CAMPEÕES MERCADO INTERNACIONAL PÁGINA INICIAL NOTÍCIAS Últimas Mais lidas agora Liga II Liga Liga 3 Internacional Mundial 2026 Liga dos Campeões Liga Europa Seleção Transferências Opinião Jornal do Incrível MF Total Futebol Feminino Outras modalidades Futsal Andebol Atletismo Basquetebol Ciclismo Hoquei em Patins Desporto Motorizado Ténis Voleibol De A a Z JOGOS Jogos HOJE Jogos AO MINUTO Resultados e classificações Liga II Liga Liga 3 Campeonato de Portugal Taça de Portugal Taça da Liga Mundial 2026 Liga dos Campeões Liga Europa Liga Conferência Liga das Nações Bundesliga Serie A Primeira Divisão Ligue 1 Premier League Serie A NACIONAL LIGA Notícias Resultados e classificação Golos e resumos Clubes Estatísticas Marcadores Disciplina Estádios Vídeos Fotos II LIGA Notícias Resultados e classificação Estatísticas LIGA 3 Campeonato de Portugal Resultados e classificação Estatísticas Taça de Portugal Taça da Liga INTERNACIONAL Todas as notícias ALEMANHA Notícias Bundesliga Estatísticas Clubes BRASIL Notícias Serie A Estatísticas Clubes ESPANHA Notícias Primera división Estatísticas Clubes FRANÇA Notícias Ligue 1 Estatísticas Clubes INGLATERRA Notícias Premier League Estatísticas Clubes ITÁLIA Notícias Serie A Estatísticas Clubes MULTIMÉDIA Últimos vídeos Golos e resumos da Liga FC Porto Benfica Sporting Liga FOTOS SIGA-NOS Newsletter Facebook X TikTok Instagram RSS CLASSIFICAÇÃO LIGA 3 3 3 3 1 1 1 1 1 1 1 1 1 1 0 0 0 0 HOJE: ÚLTIMAS JOGOS AO VIVO MERCADO LIGA DOS CAMPEÕES LIGA EUROPA CRISTIANO RONALDO A emoção do jogo sem interrupções? TORNE-SE PREMIUM JOGO Sáb, 8 ago 2026 Match ID: 1930 TERMINADO Covilhã 2 União Santarém 0 Covilhã 0' União Santarém CRÓNICA DESTAQUES AO MINUTO EVENTOS VÍDEOS FICHA Novos eventos! MAISFUTEBOL COPYRIGHT © 2026 IOL.PT",
+        "keywords": [
+            {
+                "keyword": "liga europa seleção",
+                "score": 0.6762
+            },
+            {
+                "keyword": "liga campeões liga europa",
+                "score": 0.6598
+            },
+            {
+                "keyword": "campeões liga europa liga",
+                "score": 0.6423
+            },
+            {
+                "keyword": "liga liga internacional",
+                "score": 0.639
+            },
+            {
+                "keyword": "liga liga campeonato",
+                "score": 0.6314
+            },
+            {
+                "keyword": "jogos liga liga campeões",
+                "score": 0.6297
+            },
+            {
+                "keyword": "resumos liga fc",
+                "score": 0.6291
+            },
+            {
+                "keyword": "liga campeões liga",
+                "score": 0.6225
+            },
+            {
+                "keyword": "taça liga internacional todas",
+                "score": 0.617
+            },
+            {
+                "keyword": "liga europa liga",
+                "score": 0.6148
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlAxXzZvU3dYQ25zckxFZ2cwVzh5aWphSy1fTUpWRXFYclZYN1lKaHdOUWIyTHQxN181OGs1MHQta2xkaEtpZkJKYmlFdEtWcFZqNmJMVnI0Zlh2SFVlcmM5THNJZC1SNDBPaTg1dTU1WWxXWktTalpKNjJNT20wWjFuQmRLNFZCRDMzZVpqZnVNcTVEbW43eEdKQWJWQm0tc1lvNFdwb0RDRUZrYW9iadIBsAFBVV95cUxNSlAxXzZvU3dYQ25zckxFZ2cwVzh5aWphSy1fTUpWRXFYclZYN1lKaHdOUWIyTHQxN181OGs1MHQta2xkaEtpZkJKYmlFdEtWcFZqNmJMVnI0Zlh2SFVlcmM5THNJZC1SNDBPaTg1dTU1WWxXWktTalpKNjJNT20wWjFuQmRLNFZCRDMzZVpqZnVNcTVEbW43eEdKQWJWQm0tc1lvNFdwb0RDRUZrYW9iaQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 09:40:00 GMT",
+        "title_clean": "Seguro considera que \"interior não é um fardo\" e precisa de uma oportunidade - Correio da Manhã",
+        "clean_text": "Seguro considera que \"interior não é um fardo\" e precisa de uma oportunidade - Correio da Manhã. Na véspera do Dia Internacional da Juventude, António José Seguro pretendeu \"projetar o futuro com jovens que não desistem do interior e que sabem que o interior precisa de uma oportunidade\". O Presidente da República, António José Seguro, considerou esta terça-feira que \"o interior não é um fardo\" e que \"precisa de uma oportunidade\" para o seu potencial, pedindo uma visão estratégica e \"investimento público que potencie o investimento privado\". O chefe de Estado dedica o dia de hoje à Covilhã e fez questão de assinalar que esta é a sua primeira visita oficial à Beira Baixa, de onde é natural, um momento que disse que \"ficará gravado no coração e na memória\". Pub \"Eu considero que o interior não é um fardo. O interior é um potencial de oportunidades\", enfatizou, numas breves palavras na Câmara da Covilhã, antes de uma reunião com líderes das juventudes partidárias e representantes jovens dos partidos com representação parlamentar. Na véspera do Dia Internacional da Juventude, António José Seguro pretendeu \"projetar o futuro com jovens que não desistem do interior e que sabem que o interior precisa de uma oportunidade\", defendendo que \"não há territórios dispensáveis\" em Portugal. \"Precisamos de fazer um equilíbrio entre competitividade e coesão que existe mais nas regiões do litoral e qualidade ambiental que existe mais nas regiões do interior\", defendeu. Pub O Presidente da República defendeu a necessidade de \"uma visão estratégica\" e de \"investimento público que potencie o investimento privado\", considerando que assim haverá \"condições para que os jovens depois façam as suas opções\". \"E possam ficar, se quiserem, possam ir em mobilidade para outras zonas de Portugal ou do mundo e regressar. O que não podemos aceitar é que, passados 60 anos, se volte a emigrar ou a migrar dentro de Portugal por necessidade\", apontou.",
+        "keywords": [
+            {
+                "keyword": "pretendeu projetar futuro jovens",
+                "score": 0.6418
+            },
+            {
+                "keyword": "projetar futuro jovens não",
+                "score": 0.6114
+            },
+            {
+                "keyword": "futuro jovens não desistem",
+                "score": 0.6035
+            },
+            {
+                "keyword": "assim haverá condições jovens",
+                "score": 0.5908
+            },
+            {
+                "keyword": "pretendeu projetar futuro",
+                "score": 0.5881
+            },
+            {
+                "keyword": "potencial pedindo visão estratégica",
+                "score": 0.5854
+            },
+            {
+                "keyword": "não fardo precisa oportunidade",
+                "score": 0.5633
+            },
+            {
+                "keyword": "considero interior não fardo",
+                "score": 0.562
+            },
+            {
+                "keyword": "sabem interior precisa oportunidade",
+                "score": 0.5582
+            },
+            {
+                "keyword": "interior precisa oportunidade defendendo",
+                "score": 0.5494
+            }
+        ],
+        "source_name": null
     }
 ]
