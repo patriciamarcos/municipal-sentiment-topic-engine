@@ -3522,5 +3522,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vmbihr",
+        "source": "reddit",
+        "created_at": "2026-08-12 11:30:43",
+        "title_clean": "Companhia para uns mergulhos",
+        "clean_text": "Boas, sou H34. Sou do fundão vivo no estrangeiro, vou estar de férias na próxima semana. Quando vou ao fundão por esta altura adoro ir dar uns mergulhos às piscinas naturais da bouça, cortes do meio e baixo. A questão é que durante a semana os meus amigos estão a trabalhar e acabo por ir sozinho. Tenho carro, posso passar na Covilhã para apanhar e deixar pessoal, com uma contribuição de 5 para o combustível. Se alguém aqui estiver interessado em ir dar uns mergulhos, mande dm para combinar.",
+        "keywords": [
+            {
+                "keyword": "interessado ir dar mergulhos",
+                "score": 0.7299
+            },
+            {
+                "keyword": "dar mergulhos piscinas naturais",
+                "score": 0.6851
+            },
+            {
+                "keyword": "ir dar mergulhos",
+                "score": 0.6833
+            },
+            {
+                "keyword": "ir dar mergulhos piscinas",
+                "score": 0.683
+            },
+            {
+                "keyword": "adoro ir dar mergulhos",
+                "score": 0.6569
+            },
+            {
+                "keyword": "ir dar mergulhos mande",
+                "score": 0.6509
+            },
+            {
+                "keyword": "dar mergulhos piscinas",
+                "score": 0.6481
+            },
+            {
+                "keyword": "mergulhos piscinas naturais",
+                "score": 0.6441
+            },
+            {
+                "keyword": "mergulhos piscinas naturais bouça",
+                "score": 0.6309
+            },
+            {
+                "keyword": "mergulhos piscinas",
+                "score": 0.623
+            }
+        ],
+        "source_name": null
     }
 ]

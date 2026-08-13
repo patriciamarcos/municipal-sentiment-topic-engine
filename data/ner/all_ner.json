@@ -134817,6 +134817,794 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXdxTWozVUhRdlo2Vy1DdXRsR2liMnNtcW05WThrZFRJNThoSWdLbFUyRlViNzhaLS1NN1NLMVRBOERaQjdwNFpIUWdDWGFHU2Vfa1RxRWVWQ3NBd214enRqdXFQV1JXcmp2bWhtU3Qza0M0OWFtSThGTFRCOFdPc05aaDJUa1FLWG52eHJXd1NwZUthRXJza25rWkJ2UkVYb3ZTd0lXMVVTbldVOVHSAbMBQVVfeXFMUE9YN3A5SElFMVp0N0szM0ZyeGhDUFkwWmpiVktoM3N6VlI3OEdFeFV6cDk5cml2anJXWWVEWlY4WG4tRkpoalVMQjJodjg0ZDRjWmx3VXdjeTdmMkJXbnJjZzVaRG5aZUZ5aVQ2VFB5LURfanFudW1DVGVFZ09wUmtkWGR1b0N6eTZ2UDlRdmtiV3lhWnkxSWlBTG5qRzhxajZpRl9GaTUyQ0VEZlZhdGNPWFU?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 15:29:17 GMT",
+        "title_clean": "Presidente da República portuguesa assinala “Dia Internacional da Juventude” na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Federação das Associações da Diáspora",
+                "label": "ORG"
+            },
+            {
+                "text": "Solar dos Peixotos",
+                "label": "LOC"
+            },
+            {
+                "text": "Agência Incomparáveis",
+                "label": "ORG"
+            },
+            {
+                "text": "Direção da FAD",
+                "label": "ORG"
+            },
+            {
+                "text": "Fernando Cabaço",
+                "label": "PER"
+            },
+            {
+                "text": "José Ernesto Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Assembleia Municipal de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "José Mota Faria",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "João Azevedo",
+                "label": "PER"
+            },
+            {
+                "text": "João Paulo Rocha",
+                "label": "PER"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "América do Norte",
+                "label": "LOC"
+            },
+            {
+                "text": "América do Sul",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara de Comércio e Indústria Luso-Balear",
+                "label": "ORG"
+            },
+            {
+                "text": "Confederação Portuguesa das Colectividades de Cultura, Recreio e Desporto",
+                "label": "ORG"
+            },
+            {
+                "text": "Confraria de Saberes e Sabores",
+                "label": "ORG"
+            },
+            {
+                "text": "Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Palma de Maiorca",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Alfredo Stoffel",
+                "label": "PER"
+            },
+            {
+                "text": "Estado português",
+                "label": "ORG"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Assembleia Geral da FAD",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Conselho Fiscal da FAD",
+                "label": "ORG"
+            },
+            {
+                "text": "Suíça",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Paulo Pisco",
+                "label": "PER"
+            },
+            {
+                "text": "Departamento das Comunidades do Partido Socialista",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia da República",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta de Freguesia de Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Nuno Bico",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Violante",
+                "label": "PER"
+            },
+            {
+                "text": "Argentina",
+                "label": "LOC"
+            },
+            {
+                "text": "Gracia Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Rupio",
+                "label": "PER"
+            },
+            {
+                "text": "Bélgica",
+                "label": "LOC"
+            },
+            {
+                "text": "José Paulo Peixoto",
+                "label": "PER"
+            },
+            {
+                "text": "Luxemburgo",
+                "label": "LOC"
+            },
+            {
+                "text": "Carlos de Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Manuel Viegas",
+                "label": "PER"
+            },
+            {
+                "text": "Florida",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos",
+                "label": "LOC"
+            },
+            {
+                "text": "António Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Mesa da Assembleia Geral",
+                "label": "ORG"
+            },
+            {
+                "text": "Bernardino Nascimento",
+                "label": "PER"
+            },
+            {
+                "text": "Toronto",
+                "label": "LOC"
+            },
+            {
+                "text": "Canadá",
+                "label": "LOC"
+            },
+            {
+                "text": "Cláudi",
+                "label": "PER"
+            },
+            {
+                "text": "São Paulo",
+                "label": "LOC"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "Paulo Cardoso",
+                "label": "PER"
+            },
+            {
+                "text": "Confraria de Sabores e Saberes da Beira Grão Vasco",
+                "label": "ORG"
+            },
+            {
+                "text": "Ígor Lopes",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGY1eW1jb01kSUdOdDR1V0tZZnVlZWhVa1JIR2RKSWpJcU1tbDJtVDZrSW1xZVpQd1hnSjdNdUh3OWFPLUJxWlZmVUYzSUxaaG9sN2Y2MXU1eGcweDhGRHJ6ZzJvOEUxVFhGckFqWndybUFoOG1vTmdPZmhraVgyMDBnSkZNSGJxTzBaMGlQa3pFZ29wN05WUWl2aHFSd043X0UxUks0LUdqaFNDWEI0NXhEZ290RlFOR3JVZ1B3?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 17:06:44 GMT",
+        "title_clean": "Presidente da República reúne-se com juventudes partidárias. As imagens - Notícias ao Minuto",
+        "entities": [
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Salão Nobre da Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Presidência da República",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombeiros",
+                "label": "ORG"
+            },
+            {
+                "text": "Volunt",
+                "label": "LOC"
+            },
+            {
+                "text": "Joaquim Matias",
+                "label": "PER"
+            },
+            {
+                "text": "Assembleia Geral",
+                "label": "ORG"
+            },
+            {
+                "text": "Vítor Pereira",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWttck51SHlxc1pzcFlUR3MwMklJLS1Id2Z1cDR3YnBaYU40bS1oTHo1ZHQ3UlpTYXpENDc2N1g0MEJrYkJlMUU5dzBEUmpjOURCMkVqTTJWeHljN1dBS1JIV084dHU1RXJVNG1vYnB2UTQzV2YzQnJVNjdYUmZtbVd0VmQwclVkWHZ6aWVLZ2MzNTlwdXZGM2cyTF95bWtGaWRIZXFiUEhHTVRUeGpEcVl4clA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 05 Aug 2026 15:23:58 GMT",
+        "title_clean": "COVILHÃ: Equipa da Universidade da Beira Interior conquista dois títulos na AeroCup 2026",
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "UBI Aeronautics Team",
+                "label": "ORG"
+            },
+            {
+                "text": "UBIAT",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWU0UmV1WTU1QkVDd0N1bEZSVzZFYU1MTmEzSV84VlVZYndlMGJMRUJaOHE1aVF5RXJSUG9ib1J0eHRfdU84TUlvQTJWRmF0azJ4cG10bkN3d1hLYTN5OWNCckpEcFQtY3Ftbl82NGRBR3ZsZ2Zyb1poYm1qcUl4eF81Q3E0dXZUY2hzeExGYVI?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 13:34:15 GMT",
+        "title_clean": "Sp. Covilhã vence no arranque do campeonato da Liga 3",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Tiago André",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Ekanga",
+                "label": "PER"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Fernandes",
+                "label": "PER"
+            },
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Torres Novas",
+                "label": "LOC"
+            },
+            {
+                "text": "Ricardo Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Pacheco",
+                "label": "PER"
+            },
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlREcC1xVHI5VUNOZURmLTREczFvUlRjM3J5eGFsYWdGTlhhbU81TlZmUlotaEJIOEVsRnVsVV9jU2x1T2xiTVg3eGpObl84X3BjZURkaWxFWVllUV9NT1dwanJFR2dVQTdkeU1MeUFLT1NwYlM3UGxZTk14Y2hjMkhidmNkOEZqMmkxTGV2Qzc1cldjLUt4SUpfdm5YdkpLTVJIaWJtWHlLVnd2S1dvbTRYS3czR1lvNTQyUnR1MDl4RXNwcmlsRXlzeEFYUQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 13:03:03 GMT",
+        "title_clean": "Diabetes em Movimento reforça aposta na Covilhã para apoiar pessoas com diabetes tipo 2",
+        "entities": [
+            {
+                "text": "Pavilhão Desportivo Municipal INATEL",
+                "label": "LOC"
+            },
+            {
+                "text": "Direção-Geral da Saúde",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidade Local de Saúde da Cova da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "ULSCB",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWV9nbjdtY0Zaa3FFMnZEbG02bVJ5VlhtUkJBSWlINnpUMU5UYUJDYV9RRGJDVlhHU01NTlVRbkJOcHFnNXZ6WG53eThlSzlENW1Jdk9wQU5ocktjX2dXX1lhQk13N01EdnlFdlFNUEY2ZFE3d2JGcmsyZDVZekhiTlcyVDEyVDFfQ2JBdTZLeHJWdlJyRXVlNWVBRnQyS2hsNFBKTm1xaDQyQ2xEZlRXa0NLVnRuZDZFZHRiZ2pBck8wSGZ5Q0M3RHFUQjRQUTQ1bmxR?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 09:21:55 GMT",
+        "title_clean": "COVILHÃ: António José Seguro destaca potencial do Interior numa visita dedicada aos jovens",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "Chefe de Estado",
+                "label": "PER"
+            },
+            {
+                "text": "Beira Baixa",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Quartel dos Bombeiros Voluntários da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVlBdmwtdDhfTS1DYkpneGxrWWRyM0x6a1lmZG1FUGxWUGJ3MDVGNVBpbkRHX1hqV0Y0UHlndVBuRlJiczVNYV9aYkdDRVZxakZhX3VJZXhJRHN1a05YSXk5cjUxTEtjaUdxSDZRczU5dTlrX1oyQkI4b0sxQS1Rc3U2dWlkcG9VTkdqM0hlR2VwUWtYVERSTXJTZE5UTm5GeUs1eV9Jei14UnBtSDJ6clJEMmd3YkU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 12:10:27 GMT",
+        "title_clean": "Covilhã: Rita Cortezão anima segunda noite do Verão no Centro Histórico",
+        "entities": [
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Casa do Benfica",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rita Cortesão Monteiro",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTEwdFRockhJWFhKZ3FrX25lS0RYNi04TXRlbDZYZzUwZWg5ZEktMXRjenFsUE16aHFaWGw3QXRZVFpkd3AxNkF4dS1WYzZSRjZHZjJxb2NmSFRKZzA0a3lySnA3STBTcEZQMTBHdEwtWEp5SGttLXlIcnQ1WVZxaS1vNFk3Wi05YXM1Vk5qZWVvLU1lREZZ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 10:05:00 GMT",
+        "title_clean": "Quercus questiona viabilidade de um reformulado projeto “Sophia”",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Lightsource BP",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Avaliação",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Quercus",
+                "label": "PER"
+            },
+            {
+                "text": "Administração",
+                "label": "ORG"
+            },
+            {
+                "text": "Central Solar Fotovoltaica",
+                "label": "LOC"
+            },
+            {
+                "text": "Sophia",
+                "label": "LOC"
+            },
+            {
+                "text": "Primeiro Ministro",
+                "label": "PER"
+            },
+            {
+                "text": "Assembleia da República",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMHRCTU4yTTNsN0FEVkVEU0pIaTVMNHloS2ZxRVRHMFloc21vbFRUR09xRTZ4S3RYaGVvOXJqTkN3TWNKZ0FjaGFtUG56bEdzTEZIY21Ua0YyVDVCMnZtR2QwUkU1RXZPZC1acXpCT2hBbXFSRTdZRVZmZVNUWW1IWU1ZV2V6YmxqRG9EdmdQenZFNW14ejlmUWRGdkswQkRuZ1d2WTAwazZWTlpnWlNRTUpCVkhhZTZtbm44a2tma2tyMG9RMzBmQURzTEU0WGc4YkRNb29aSlRuNW9tc3JF0gHfAUFVX3lxTE8wdEJNTjJNM2w3QURWRURTSkhpNUw0eWhLZnFFVEcwWWhzbW9sVFRHT3FFNnhLdFhoZW85cmpOQ3dNY0pnQWNoYW1QbnpsR3NMRkhjbVRrRjJUNUIydm1HZDBSRTVFdk9kLVpxekJPaEFtcVJFN1lFVmZlU1RZbUhZTVlXZXpibGpEb0R2Z1B6dkU1bXh6OWZRZEZ2SzBCRG5nV3ZZMDBrNlZOWmdaU1FNSkJWSGFlNm1ubjhra2Zra3Iwb1EzMGZBRHNMRTRYZzhiRE1vb1pKVG41b21zckU?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 17:44:12 GMT",
+        "title_clean": "Jorge Costa e a troca de treinador no Sp. Covilhã: «Tudo pode ser diferente» - Record",
+        "entities": [
+            {
+                "text": "Jorge Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Paulo Cunha",
+                "label": "PER"
+            },
+            {
+                "text": "Ac. Viseu",
+                "label": "ORG"
+            },
+            {
+                "text": "Alex Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Leonel Pontes",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Matos",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMie0FVX3lxTE9ybTFSTUFRRHdqd0NhUzJEY0FwNzZNb2oyRG1fYXhNczltZW1yUkdoM1FMNEo1b1ZnOTJNdzVfRC1zcGhTbjFiYkJwdkE4em52ZE1kbzR5MHhHdzJ0M0hOTFFObWR2MUVhOHkxVUFka0w0dVdlQlBtMWJuRQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 01:26:58 GMT",
+        "title_clean": "Jogos em Direto - Sp. Covilhã vs Varzim - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Varzim",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "Betclic",
+                "label": "ORG"
+            },
+            {
+                "text": "Famalicão",
+                "label": "ORG"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "Guimarães",
+                "label": "ORG"
+            },
+            {
+                "text": "Estoril",
+                "label": "ORG"
+            },
+            {
+                "text": "Arouca",
+                "label": "ORG"
+            },
+            {
+                "text": "Casa Pia Rio Ave",
+                "label": "ORG"
+            },
+            {
+                "text": "E. Amadora Moreirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Nacional",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Marítimo",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnF0c2QteEJZWjEyMlktdE0wWDJXbUwwUVVILUNiUXNoSWZXallDLVZEa1hybmxmM21IeTB5RWRIclpGc09Hb0ZKME0tWnZCRnFVM2hKbWM0U0JKRHZkcFRickdXYnUtNTREZ2FHMndoM0ZCVUpGd1dVZ0NhcHhHbmhFVW83cENOQkZjWG52R0tyUQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 07 Aug 2026 08:31:00 GMT",
+        "title_clean": "Diocese da Guarda: Mudanças nas paróquias do distrito - reconquista.pt",
+        "entities": [
+            {
+                "text": "Diocese da Guarda",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTV2cE5tbXdjalRSTnRlOFZ2dG8wWG5lV1JpU3dCYTVjT000ekR1ODRpb1ZBMm5SQnBGNG1OSlRha3lyWFB0Snk1bnJhdHlaejZFM1RTV1FxWjVHdjNKaFZZQzVRYzRFNDNLTVNhRGkxNGhjOU9MVGotQ2lYTHBqSlF2Q0VfaHZxbTgwUDZrYkQ1RER5X2FMV1VGTWZXbnZsSWpXTlczMFBqcTQwbGt2ZVNIa0FGSTh1RXMyMHNHaVhDRkFaMXktYnBqdGtaVTN2QWU0QkZzY2hqclQzNlJnZWh1QWlZQkpVY1F5ZTNR?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 11:46:55 GMT",
+        "title_clean": "Museu do Caramulo certifica clássicos dia 22 de Agosto em Castelo Branco, Chaves, Covilhã, Guarda, Lisboa e Porto",
+        "entities": [
+            {
+                "text": "Museu do Caramulo",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Chaves",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Garagem Jorge Delgado",
+                "label": "LOC"
+            },
+            {
+                "text": "Centr",
+                "label": "LOC"
+            },
+            {
+                "text": "HP Motors",
+                "label": "ORG"
+            },
+            {
+                "text": "C. Santos",
+                "label": "LOC"
+            },
+            {
+                "text": "Caetano",
+                "label": "LOC"
+            },
+            {
+                "text": "Funchal",
+                "label": "LOC"
+            },
+            {
+                "text": "Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Costa",
+                "label": "LOC"
+            },
+            {
+                "text": "Algarve",
+                "label": "LOC"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Videirauto",
+                "label": "ORG"
+            },
+            {
+                "text": "Leiria",
+                "label": "LOC"
+            },
+            {
+                "text": "Rio Maior",
+                "label": "LOC"
+            },
+            {
+                "text": "Garagem Espertocar",
+                "label": "ORG"
+            },
+            {
+                "text": "Portalegre",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Lider Sport Pneus",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -135763,6 +136551,18 @@
         "created_at": "2026-08-08 18:50:17",
         "title_clean": "Hey! Alguém sabe onde ainda está disponível encontrar óculos para ver o eclipse? 😊😊",
         "entities": []
+    },
+    {
+        "record_id": "reddit_1vmbihr",
+        "source": "reddit",
+        "created_at": "2026-08-12 11:30:43",
+        "title_clean": "Companhia para uns mergulhos",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
     },
     {
         "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
@@ -138997,6 +139797,38 @@
             {
                 "text": "UAE Emirates",
                 "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3msvdqzgo3i2p",
+        "source": "bluesky",
+        "created_at": "2026-08-12T14:30:29+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3msvcapdh5b2l",
+        "source": "bluesky",
+        "created_at": "2026-08-12T14:03:29.740028Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Teixoso - Mato",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã Fogos",
+                "label": "LOC"
             }
         ]
     },

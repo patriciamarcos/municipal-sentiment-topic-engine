@@ -7771,5 +7771,89 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3msvdqzgo3i2p",
+        "source": "bluesky",
+        "created_at": "2026-08-12T14:30:29+00:00",
+        "title_clean": "",
+        "clean_text": "Diabetes em Movimento reforça aposta na Covilhã para apoiar pessoas com diabetes tipo 2 O programa Diabetes em Movimento inicia atividade na Covilhã, a partir de outubro de 2026, de modo a…",
+        "keywords": [
+            {
+                "keyword": "programa diabetes movimento inicia",
+                "score": 0.8579
+            },
+            {
+                "keyword": "diabetes movimento inicia",
+                "score": 0.8039
+            },
+            {
+                "keyword": "programa diabetes movimento",
+                "score": 0.8013
+            },
+            {
+                "keyword": "diabetes movimento reforça",
+                "score": 0.8009
+            },
+            {
+                "keyword": "diabetes movimento inicia atividade",
+                "score": 0.7853
+            },
+            {
+                "keyword": "tipo programa diabetes movimento",
+                "score": 0.7726
+            },
+            {
+                "keyword": "diabetes movimento",
+                "score": 0.7546
+            },
+            {
+                "keyword": "diabetes movimento reforça aposta",
+                "score": 0.7485
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3msvcapdh5b2l",
+        "source": "bluesky",
+        "created_at": "2026-08-12T14:03:29.740028Z",
+        "title_clean": "",
+        "clean_text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Teixoso - Mato. Saiba mais em IRCovilhã FogosPT ⚠🔥",
+        "keywords": [
+            {
+                "keyword": "incêndio castelo",
+                "score": 0.6694
+            },
+            {
+                "keyword": "novo incêndio castelo branco",
+                "score": 0.6649
+            },
+            {
+                "keyword": "novo incêndio castelo",
+                "score": 0.6613
+            },
+            {
+                "keyword": "incêndio castelo branco",
+                "score": 0.6541
+            },
+            {
+                "keyword": "novo incêndio",
+                "score": 0.6434
+            },
+            {
+                "keyword": "mato saiba",
+                "score": 0.486
+            },
+            {
+                "keyword": "teixoso mato",
+                "score": 0.4166
+            },
+            {
+                "keyword": "teixoso mato saiba",
+                "score": 0.3878
+            }
+        ],
+        "source_name": null
     }
 ]
