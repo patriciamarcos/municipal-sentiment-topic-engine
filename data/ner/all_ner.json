@@ -136185,6 +136185,134 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWdHSjB2YzhLaGlMbGdEalF6WkJOR2k4M25UeEN3WEFBYTAzM2Q0c1FpN3IxRXI4bGdWS19PY0p4M3VHM2FNTE1PWFBveXRWdFNfaVA4QTYzVHg2cGhBMmVFWUkwb2RNM2RrTmNMd0hJSWU5dmwzbmFJUFRBN09qNDJkR1JzVW5ycUpiLWdWQjRUUUZtMFFFUE5CdUJUZzRtWTVIRXlEN2pRSlJHS1BFMGduMXNSMm02ejBzaTl1eDlNeU1PaHc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 13:00:34 GMT",
+        "title_clean": "Covilhã: Boidobra realiza \"Festa das Papas – ao Cimo do Povo\" a 29 de agosto - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Igreja Paroquial",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Rancho Folclórico da Boidobra",
+                "label": "ORG"
+            },
+            {
+                "text": "MILHOLÂNDIA",
+                "label": "LOC"
+            },
+            {
+                "text": "McDonald's",
+                "label": "ORG"
+            },
+            {
+                "text": "Bar da Esplanada",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Duppigheim",
+                "label": "LOC"
+            },
+            {
+                "text": "Órgãos Sociais",
+                "label": "ORG"
+            },
+            {
+                "text": "Ilda Vaz",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxPUERxUGxZN3FkaWJTOVY0bnBJSTQ4TFJ2SC1xMGFXdlRQZ1R6R3YyNG9VZW9HQTBvNkNvNVJ3c1N6R2QxazJGMmNrT1NRUDk5bEZiNndQX005M3hqQS1jZUJ0ak9temh3YkhSSDFDaUw1WEg0RzByd1hqT2dZTHlrSUJ2MDgzc0hvVVBPb1VqSlQ2NkJyVWRKRDNzSWR6dy1uVnl5bFRNUThTUUhKWWMtMHlGVDRPWWktVmVEZFlSVHBkREJBaUE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 13:14:02 GMT",
+        "title_clean": "COVILHÃ: Baile do Emigrante regressa ao Tortosendo no dia 14 de agosto com música, tradição e animação",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Estacionamento da Escola EB 2/3",
+                "label": "LOC"
+            },
+            {
+                "text": "Quinteiros",
+                "label": "ORG"
+            },
+            {
+                "text": "Jorge Beirão & Miguel",
+                "label": "ORG"
+            },
+            {
+                "text": "DJ Taborda",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWpsSHFaU0VmQWFKeHhmWWJDTkVNd0xUZnRWOVRNWTJpUEZ4SDZKLUJ3NjdIdE9KNmxxMXVlN05vcGFSN0RCakxack81aklSX3ZLUGhlZFE5Qk9ySHdWWlViUHJaamFHdmJpTmF0NzZLR1ZkbmhuQUUyX0FMUVMtSmpzTkpaQjRPdFJmellrekhrd0NoRmJGYW8zN1VuYXRHYmV5bA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 14 Aug 2026 00:48:28 GMT",
+        "title_clean": "Jovens intervêm na recuperação de áreas ardidas",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Municipal da Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -140429,6 +140557,46 @@
             {
                 "text": "Covilhã Fog",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mt2mandvas2y",
+        "source": "bluesky",
+        "created_at": "2026-08-14T16:45:43.768113Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso - Mato",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mt276xqlzf2y",
+        "source": "bluesky",
+        "created_at": "2026-08-14T12:52:08.923160Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Ferro",
+                "label": "ORG"
             }
         ]
     },
