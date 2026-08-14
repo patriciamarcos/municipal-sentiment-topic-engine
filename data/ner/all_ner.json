@@ -135605,6 +135605,586 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTE90X0h3QUtySlptSmNNajQxTkFqLVBKT28zV2RqajhoYUpqNlpVYThRV1pCWG5wMnRlM1JTY3NfSTJyZkpuYkRJRmZ4Y1VIVkdoNi1oaEFVYXQ0dTZzUDhYaXFTVU03cjZ0UWc?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 08:00:00 GMT",
+        "title_clean": "Placar ao vivo, programação & estatísticas de jogador do SC Covilhã - Sofascore",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxOazRFRTN5d3ZuY01adFRZd1pjVnRkam9pOWFaeG5iZzRDV2VOZXVoVnVyOEZxWXh5M2Jpb2FaVWJXcE9YVGgyTHpNcFJhR1RiV0tHZjhDdGNMcFJpQm1kdUJKRGU0ZXQtMGEtb1RvZGRGMGFWZC1xWFdCTFQtRVA1RUdnSlg4eHN1eU1xc3o4QkxLTkprcllpWDllYUpBNDZPWlE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 14:20:36 GMT",
+        "title_clean": "Diabetes em movimento reforça resposta comunitária à diabetes tipo 2 na Covilhã - oRegiões",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEVyaWFMVXFnWTg3cWFtbGZ4OGNZVkM4RUV0VldNeERVemk1RlN2VkpiWHF6ODF2Nm9nLWhFM3h3d1JMdFRTaDVDay1QbVJvZ0hKTVhwam93ODlWWGhpdXQ0LXZjMHJUYkxXLUlzbGhKZ3QzbDUzcFpPcENHUXNxUWdtOTVfUUlEUEF1OGNuSDlrVkphN0F5U2JkZEJMdDV0V0hDeThuUzdZbXhHaEkteEg1bk9CQmtCOHo5cElMLUk2Q1g3R2F2dw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 13:00:34 GMT",
+        "title_clean": "Covilhã: Boidobra realiza \"Festa das Papas – ao Cimo do Povo\" a 29 de agosto - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Igreja Paroquial",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Rancho Folclórico da Boidobra",
+                "label": "ORG"
+            },
+            {
+                "text": "MILHOLÂNDIA",
+                "label": "LOC"
+            },
+            {
+                "text": "McDonald's",
+                "label": "ORG"
+            },
+            {
+                "text": "Bar da Esplanada",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Duppigheim",
+                "label": "LOC"
+            },
+            {
+                "text": "Órgãos Sociais",
+                "label": "ORG"
+            },
+            {
+                "text": "Ilda Vaz",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMicEFVX3lxTE5RSmJfR2o3dE1qeXUtTS1yTkFFWHJpS2hTeEhXNGVnT3BmTUJDMzVYU3NCaVJWeDRBbkhfTmtpOVlHSXNlRDJYSW9GZnVjX25aTXpGSFBGRFg4ZV9rbzZsenU5Y29FUEgzbWhwS2dXQkk?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 09:17:00 GMT",
+        "title_clean": "O conhecimento também salva vidas - noticiasdacovilha.pt",
+        "entities": [
+            {
+                "text": "Federação de Bombeiros do distrito",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEdoUjhuQU9ETzFqR0RVQ05TeVN3ZTNwNVlIQnptalZEU3FtS2p5dzg5REF4U05HeHY1UWdvbXhxem1tREY5aWU2VlYxNTYwWlc2V1FjbkpqUEFGeGRhMlhGWUhYRWJsUWJrQUdYX1VrSlJLX2hhLVRKS1NJUUJRb2ZpUnlPQV9wNXZoRlRNQ285OU9GOE5OUGhDeVFnMWZnLVNkbndZbWphajNXYWR2RDExUVVxZlRZdWc0?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 10:59:00 GMT",
+        "title_clean": "“Do Mar à Terra” leva Festival da Sardinha à Covilhã de 21 a 23 de agosto",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Atlântico",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Águeda",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo 1.o de Maio",
+                "label": "LOC"
+            },
+            {
+                "text": "Populares",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAJBVV95cUxQSm1BUlpYU2FFVDhEakNGV1NCSnZna0RwX1Z1ZkFtTjNFMWZpcThSUHZ3TmdpNTl1QWJwbnJiNDY5YVBUcmp6YzQ1bVJ3QjVwLWkzLXFuU1dFeHhxWUh3WXYwZUJKYnBKRFlFZmRkZFp3MTBYY2tHQ1MxRlh6WWNFUWZBUzJaZXZhTlZ2Y1Q0WGw2Mnc5MC00R1dCSG1IanctTmpyb194RVpTMVdNQ2tJdm5XWkIzVUdzT202NXM0VFlUU1pGeHk1cnlpUEo0Rm5ZYXVRUFhvbFZGRVpqblZ5X1BKY0dqeHc4R25IT3pOMGlKUjRPUG1RMGtRZFpYZGta0gHmAUFVX3lxTE5zZzZqV040S0o1S1hVT2xlaXF1YTEya2I3ejhRQmNYNlZvSk0xUVAwM1oxdlBfcWJ5b3JRTnJSRmprS1Nnd3FWaG5ndkR1anpuNElacWlDdFlfMXdtaS01a0JHZ1JMdC1ZRjc3ZXFscW5fVlUzQUNWMjVfWUFvZ1lzcncyMmg2R2p2bkI1YmVtXzJGVHRTTnk4SUdzODZ3T3FhVE1TVnhRVmNNQ0ExVWFpUjhiNml0SDU4cnppQ1N6enN5c3FQcnVfQ1Mzb2JVWmZjVENhWGJZWlZ4alJ6NHZ5N3NwWHNn?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 14:44:09 GMT",
+        "title_clean": "Covilhã: Feira de São Tiago encerra edição de 2026 reforçando o seu “impacto económico e cultural” na região da Beira Interior",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Mais Lusofonia",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Cabo Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Interior de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Lara Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Cristina Cravino",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Tereza Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "António Carlos",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Península Ibérica",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro de Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizAFBVV95cUxPT3lHd0xyTXNQcG1mR2tiV0IyaTB4ZU01TGFVWTIzVFBqY0NzWXNMSEMtZWZwTjJ2YS1WVWlPRHJVcUhUV2RHaG4yXzJ4akQ1XzRQQUFsdVNacGZqY0w1aVU0WVJ2X3dMUjFhZ205LTE3c0VEeWhHbVhCQmNsU0JnQ3ZvclZmcC1Rc2dPWmVITHJNbnJKMG9JQm1nQ3JZaUIwYzd4NHRUeWZwbWF3cEpoM1p6azRzT0hIV202VFY2RUdyRVhGdm5mY2lkbWvSAbIBQVVfeXFMTTdBa1d1MGtkUFZKVEE3MnY5TERKX0NOOS1FN3JzbkJfMU9Cd2NuVC1GZnMzNGNNajhQeTBPMU4xWjh1dC1ISU44ZUM3Rl9MS25EX3M3dGYybDduUjlBRDJWbFMyOTJ6OVg0bmFua2NaRXNmak5mVi1RTDRpdEJCVHdBN3NYNlBzSXdSRmpabEV3ZlBGakJ0ZmRwaGdEM04zS2gtTXdLU3QxU1JJMU1hMHZodw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 12:16:42 GMT",
+        "title_clean": "Marinha Grande leva jovens à descoberta da Covilhã através da “Rede Náutica Solidária”",
+        "entities": [
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Mais Lusofonia",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Cabo Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Interior de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Lara Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Cristina Cravino",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Tereza Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "António Carlos",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Península Ibérica",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Ígor Lopes",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGo1anNtMGxJMW1tSFZYNkh5NmdPWUU1OV9ORHpSUVRvNC1HMWdsaThTLWlpWGFLaWxNY21FdDdELVRFbVE1THphOWVEYmFXNW5qV21MVDd4N3VDU05BNjFDWDlwZjFHUG9feFJWR0lhdENHOE5iZzJONFVpQ0FWWWFqUFJTQnpqbXllemNpV0t5TTdhbTFOeDZubjI4bk1pZF85YmJxZmF0NTRYNHZ3T2o1eHRSeE9pLWNlSU95VUlBTFFrWDRDemxCSXZMeS1YMHlvMEVXUS04RGFjQW5vMHdaWmhUaFI0Y09qTlgyWWdsV1pvcTNkTkhRbm1VZW9nM1o3RTJQSdIBhwJBVV95cUxPNGo1anNtMGxJMW1tSFZYNkh5NmdPWUU1OV9ORHpSUVRvNC1HMWdsaThTLWlpWGFLaWxNY21FdDdELVRFbVE1THphOWVEYmFXNW5qV21MVDd4N3VDU05BNjFDWDlwZjFHUG9feFJWR0lhdENHOE5iZzJONFVpQ0FWWWFqUFJTQnpqbXllemNpV0t5TTdhbTFOeDZubjI4bk1pZF85YmJxZmF0NTRYNHZ3T2o1eHRSeE9pLWNlSU95VUlBTFFrWDRDemxCSXZMeS1YMHlvMEVXUS04RGFjQW5vMHdaWmhUaFI0Y09qTlgyWWdsV1pvcTNkTkhRbm1VZW9nM1o3RTJQSQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 16:45:00 GMT",
+        "title_clean": "Covilhã: Feira de São Tiago encerra edição de 2026 reforçando o seu “impacto económico e cultural” na região da Beira Interior - e-global.pt",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Mais Lusofonia",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Cabo Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Interior de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Lara Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Cristina Cravino",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Tereza Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "António Carlos",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Península Ibérica",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro de Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -139828,6 +140408,26 @@
             },
             {
                 "text": "Covilhã Fogos",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mszibusrkb2y",
+        "source": "bluesky",
+        "created_at": "2026-08-14T06:02:10.448668Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Orjais - Mato",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã Fog",
                 "label": "LOC"
             }
         ]
