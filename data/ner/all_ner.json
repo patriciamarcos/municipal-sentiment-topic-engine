@@ -136313,6 +136313,122 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxPVS13cnZPLTJEQlJUUW92b1BJZ2k2VWNfZTF4RXdvX0xzUERoRjFaSlFFVjF6RnNROVdGVUhSdFp4aUNfZ2VRbTBlNlI1TnpOdGFGaEVFSUJwTTVMeEQySXJKMXlZQzJWeFBkZllGRkE2emt0MXh5dHB0RngxcGJudTk3Wjg2NERXdEpfa3ZMMVRfdTJOUGNtbkJWNkpnRm5STDRVTWllWmtySWNoZ0RIcVNnOUNURTZfWUE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 14 Aug 2026 14:15:00 GMT",
+        "title_clean": "Jovens voluntários ajudam a recuperar áreas ardidas no concelho da Covilhã",
+        "entities": [
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Juntas de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho Municipal da Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmVsS2JENXBxOFdFN01FcjVjUk1kb3d6aDRlM2lYc1I0d090MGtmb1NpdGNpWmdFQTdPZ3U1T0wwbnRySXR5SnZGWE5yS1ROV2RkUGtmQkhnSVhCb2FVMXY0UGJ2RjhjYmtfRE1DR2x4U3lJZ3ZKckZzVUNWTnZzN2lNS1FRNkNOb2s0bDZJVDkzOU51Q29VOENjLWpERm9FN29LRF9IWXhsM0V3b0FLbE5ONA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 14 Aug 2026 09:07:42 GMT",
+        "title_clean": "COVILHÃ: Jovens voluntários ajudam na recuperação de áreas ardidas",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Juntas de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho Municipal da Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxNcUtBWURCMmk4eUxidjktcktJR2FiRDV2TzFyRVRJeHZmODl5SGRrS3EwRmFBN1BqbE9Ea2NZSTIweEJWY1Fsd2Jod0tYZTd6TXJaQnBxaENCM0RvSHRGTVFDOWxEYnRvLW1lWkpTMTNzZnZLb2ZFX0pJRkdaTldOcS1xUDRlOGpsbEp0RDVJVFlIR3c0dmV1Z0ZmcHZsQnpoU1Z3VEFYR0lhNEtE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 14 Aug 2026 14:40:14 GMT",
+        "title_clean": "COVILHÃ: Incêndio no Freixo, em Ferro, mobiliza 40 operacionais",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Ferro Freixo",
+                "label": "LOC"
+            },
+            {
+                "text": "Nó da Covilhã Norte",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
