@@ -136429,6 +136429,174 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc2c2aldONEtKNUtYVU9sZWlxdWExMmtiN3o4UUJjWDZWb0pNMVFQMDNaMXZQX3FieW9yUU5yUkZqa0tTZ3dxVmhuZ3ZEdWp6bjRJWnFpQ3RZXzF3bWktNWtCR2dSTHQtWUY3N2VxbHFuX1ZVM0FDVjI1X1lBb2dZc3J3MjJoNkdqdm5CNWJlbV8yRlR0U055OElHczg2d09xYVRNU1Z4UVZjTUNBMVVhaVI4YjZpdEg1OHJ6aUNTenpzeXNxUHJ1X0NTM29iVVpmY1RDYVhiWVpWeGpSejR2eTdzcFhzZ9IB5gFBVV95cUxOc2c2aldONEtKNUtYVU9sZWlxdWExMmtiN3o4UUJjWDZWb0pNMVFQMDNaMXZQX3FieW9yUU5yUkZqa0tTZ3dxVmhuZ3ZEdWp6bjRJWnFpQ3RZXzF3bWktNWtCR2dSTHQtWUY3N2VxbHFuX1ZVM0FDVjI1X1lBb2dZc3J3MjJoNkdqdm5CNWJlbV8yRlR0U055OElHczg2d09xYVRNU1Z4UVZjTUNBMVVhaVI4YjZpdEg1OHJ6aUNTenpzeXNxUHJ1X0NTM29iVVpmY1RDYVhiWVpWeGpSejR2eTdzcFhzZw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 13:47:23 GMT",
+        "title_clean": "Covilhã: Feira de São Tiago encerra edição de 2026 reforçando o seu “impacto económico e cultural” na região da Beira Interior",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Mais Lusofonia",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Cabo Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Interior de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Lara Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Cristina Cravino",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Tereza Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "António Carlos",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Península Ibérica",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro de Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd1gwM3A2RTNCeHJQR3hSLTlIeGRUVmdiQV9IWDNVOUV5eHZsLTdETmQwVDIyOE9GNWhfVWdoRFpPaU53RnF3Ri03ZUtReEdKM3k4UXB2T05Nei04NGNsNkNBNElOX212dUFoM0xCXzBIYTFJZHVuNm9YVWJjeVFNQTdqZ2pPeEhHMkRZR3MwV2hzREFhelV0SjY2T3dyUXFQWEViNGZOcW5peWFSa3pZbUxxSUs2TGxJeW5ZX2VEVjFLVGJkQ3RELVRPemRvV19xZ212b2hlQXdlOUo5c2xNb2FHSDlDQQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 08 Aug 2026 15:15:52 GMT",
+        "title_clean": "Straßenrennen Herren, 4. Etappe, Figueiró dos Vinhos - Covilhã 09/08/2026 - Eurosport",
+        "entities": [
+            {
+                "text": "Figueiró dos Vinhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Eurosport",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -140713,6 +140881,26 @@
             {
                 "text": "Ferro",
                 "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mt4dc6lgtz2i",
+        "source": "bluesky",
+        "created_at": "2026-08-15T09:10:51.196235Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso - Mato",
+                "label": "LOC"
             }
         ]
     },
