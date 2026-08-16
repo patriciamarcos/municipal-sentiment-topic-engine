@@ -136597,6 +136597,410 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxQMU9CTU1hUDZIWFFhajZMZ0RGMk1nRE9acFhLSWtvNjM3Z0VMS3gyeTlka0tPbWNkTXVIYTcxRlRXeXpic3ROUmREYjlFR1lLdVh1MTNVdVVPenozSVpDRmNNRDE4aXctUXAzbURSd0JEaUItLVJOekx1ZEk4cEE5ZDJEV0liUXF3UW9iRXBOaUpoNk1uUjFFWUx3VWdoVmRLX20tNXdBQQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 16:08:22 GMT",
+        "title_clean": "Audiência com as juventudes partidárias - Presidência da República Portuguesa",
+        "entities": [
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "Salão Nobre da",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Chefe de Estado",
+                "label": "PER"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU9FaUZUNjRaNnlOSUJkdWhnN1Ridmx0bmhBeXlWMjNZZVRUdWgtRGZjelRSMlBkZ3o5V1dqR2YxcGdWaGQzeFF2MllNMHNXNXY3aDlRN2RkQk9kYXFZNkQ1ZWZYcVdWdzV3Q3RnSzUza3l6TGxScEVCSmpaVUNzQWVQMXVXd3pfUFpTSkNRaVgtZFVBNktrTFMwbmlETy03LXk5VXR3U09vSmEz0gGyAUFVX3lxTE03QWtXdTBrZFBWSlRBNzJ2OUxESl9DTjktRTdyc25CXzFPQndjblQtRmZzMzRjTWo4UHkwTzFOMVo4dXQtSElOOGVDN0ZfTEtuRF9zN3RmMmw3blI5QUQyVmxTMjkyejlYNG5hbmtjWkVzZmpOZlYtUUw0aXRCQlR3QTdzWDZQc0l3UkZqWmxFd2ZQRmpCdGZkcGhnRDNOM0toLU13S1N0MVNSSTFNYTB2aHc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 13 Aug 2026 11:37:31 GMT",
+        "title_clean": "Marinha Grande leva jovens à descoberta da Covilhã através da “Rede Náutica Solidária”",
+        "entities": [
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "ORG"
+            },
+            {
+                "text": "Piscina-Praia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina das Penhas da Saúde",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pousada da Juventude Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "São Pedro de Moel",
+                "label": "LOC"
+            },
+            {
+                "text": "Carla Santana",
+                "label": "PER"
+            },
+            {
+                "text": "Estações Náuticas",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Náutica Solid",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnJNLWszaUZKSVVZQ19BNEtSajVZdmJpLUdMS0xkOW1EZ0ZRZVpNWWFzZVYtajd5WEJqb0loNlFSbXc3b2dCQkZkX2NyeXYyRVpHZkdMX1dCaFd1cTJqaWlTaEZ5bGlGTlVhbHVMdmhEV183NTM2a2E2dHZzUndJaWNXY09CWm1ELUxicTBCTUdndGNSRUlIOFh1SjNPZ2pCMFAxcDVLVVlYUmVZdmhqNTRPZTA3MjRxaTg5bTRVaWxJUVg0ZGtSelYzYUhEUWVaLTdIYWxEWnhVRXlOYl9MSNIB5gFBVV95cUxOc2c2aldONEtKNUtYVU9sZWlxdWExMmtiN3o4UUJjWDZWb0pNMVFQMDNaMXZQX3FieW9yUU5yUkZqa0tTZ3dxVmhuZ3ZEdWp6bjRJWnFpQ3RZXzF3bWktNWtCR2dSTHQtWUY3N2VxbHFuX1ZVM0FDVjI1X1lBb2dZc3J3MjJoNkdqdm5CNWJlbV8yRlR0U055OElHczg2d09xYVRNU1Z4UVZjTUNBMVVhaVI4YjZpdEg1OHJ6aUNTenpzeXNxUHJ1X0NTM29iVVpmY1RDYVhiWVpWeGpSejR2eTdzcFhzZw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 14 Aug 2026 18:30:28 GMT",
+        "title_clean": "Covilhã: Feira de São Tiago encerra edição de 2026 reforçando o seu “impacto económico e cultural” na região da Beira Interior",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Inês Vasconcellos",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Mais Lusofonia",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Cabo Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Interior de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Lara Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Cristina Cravino",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Tereza Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "António Carlos",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Península Ibérica",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro de Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2t1cGd5RnNTV19oeXB0QkE4TGE2RXprb2NWQ2hYeVZDajdGTGpMb0hSX3J2QVZuN1dDVXBsRWl6bFpTSTYyblI0UU52ZV81MW9QSmZOV3JyU0dMWEhDYlYydGphNm1zQ1hPelVja1hISlVOd3c2TEFOS1B6VUxzbjBmaGZocUV1eHgxNVRGb1VEcDR4alFpM2t1N1ZhRi1oTkJkZWllanB1VDFY?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 13:20:33 GMT",
+        "title_clean": "Seguro considera que \"interior não é um fardo\" e precisa de uma oportunidade - Observador",
+        "entities": [
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Baixa",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Nacional de Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxNNi0zLXlzWUR4eUJwUjBtczJyTjNXc0w1NXhkWmF0bDVWYk92bHdYZDZ2UFVudnpnam41YUM4YnJXd3BzbnhGT3l4TS1VR2RBUUZPYVN5aWpRMWpoM1k4NzBZZTFwRE44Y194alVJalFvTmxPUFN1aGJILURpVFZSd3JSX0R6WUYtRmNYb0Q3bDdvTXBmaVpvdGZB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 17:59:49 GMT",
+        "title_clean": "Seguro pede empresas maiores para travar saída de jovens do país - Diário de Notícias",
+        "entities": [
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Salão Nobre dos Paços do Concelho",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnJzbmxFc2hFa2pPNkZUZzNsWkVESFhyYnZIcmVpaXp0VE1ibEJ2MG1waGhSMkppd2tPSlltbnF6U0tkTTV3cXM0Y3FuRUNrTV9oaDZCRjg4MDdSWjNfSjFrX2t6b3BENDZCUV9JVnEzZTVfRXlkeXZBSUFvWldyWWlCemxFOUFkc0dJb2k4TmMxLTZVQ0xLVzJ1d1pUZGpXOFBsUURUeDdYb3RDU0Y0?oc=5",
+        "source": "news",
+        "created_at": "Sun, 09 Aug 2026 17:18:59 GMT",
+        "title_clean": "Alexis Guérin vence na Torre e é o novo líder da Volta a Portugal - Público",
+        "entities": [
+            {
+                "text": "Público",
+                "label": "ORG"
+            },
+            {
+                "text": "Alexis Guérin",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxQUk5XcW9DejBaYWZydjBWZldnZGNiWGk4eUZhMlpRRGZUVm9vU2dZbUtKSUl6NFY5UW9sY28xOHZkV1Qwc3p3cjAyYUdFaHhEYzlmNVg0dUplY284UHUtVHpYOGJaVzFUVFpoNnBXcFhiVmFKZ1VkNDF2N3UtNlVvQWNwQnE0dFJjc1NtYTBmOG4?oc=5",
+        "source": "news",
+        "created_at": "Sat, 15 Aug 2026 09:27:09 GMT",
+        "title_clean": "COVILHÃ: Incêndio mobiliza mais de 20 operacionais em Canhoso",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2F0dWlZTEpfVGZhYTFpaVdJN1d1MUFoZXdhSnkyakd6M1FkTEtteFVoMTNwMHBMXzVKUWk5V2ZGQTNGWmJLX1NxUVBreUZLNFUwU1RlaFhpQk1zSUJWOXJ4ZVRLcTUteE1wZFJ1MWxDY0dlRWl0Wnp3Ui00SWtyOW1ubmk5cHpkeFFUV29HS2VpdmVZaG1qcndFVEJ1Ri0weTh4V2Y0eHNOSmo1Z0RNWHl1RDBTcGFaaWdmaGhsOTQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 13:31:25 GMT",
+        "title_clean": "ULS Cova da Beira assinala Dia da Grávida com a iniciativa “MATERNIDADE_CON_VIDA”",
+        "entities": [
+            {
+                "text": "Cova da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "ULS Cova da Bei",
+                "label": "ORG"
+            },
+            {
+                "text": "Auditório do Hospital Pêro da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxOYUxqam0xMmVQdXpNczhRUmxpdEtRa1c3cG5vNkstdjA2V1k1SEdtWGl1dEtJQWlhbUk5VmNsQU1aN19VNG5NVUVtMkZuSXQ5cnZJTTJ2ZDdxWkdra0diZ3VYTXJNM0h1bU85dEZYcmsteUk2RXdJdlhWd2xsd1ZkaWx5cjk0WkxSLXRoc2k4aS02UVREOVF1NV90T2U0UU9IYV9NZ2c0SHpEdHJGaWIxeU90dEZ6WURsQ1hPdjA0VDJrLUthX29n?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 08:50:12 GMT",
+        "title_clean": "Presidente pede que “grandes empresas” impeçam jovens portugueses de deixarem o país - Portugal Resident",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "António José Seguro",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "António Pedro Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal de Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -140900,6 +141304,18 @@
             },
             {
                 "text": "Canhoso - Mato",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:7oc7vkjia2a6cqrijop6plui/app.bsky.feed.post/3mt6mj3qpbk2j",
+        "source": "bluesky",
+        "created_at": "2026-08-16T07:01:06.551Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
                 "label": "LOC"
             }
         ]
