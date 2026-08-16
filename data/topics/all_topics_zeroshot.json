@@ -114988,5 +114988,65 @@
             "Tecnologia": 0.0292,
             "Natal e festividades": 0.0277
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDBmOU9OaEFOTkpDQnJpaUF4MEJBbUl5LW9aS0tITDlXNXlwQ3h6Y19uYWI4TTdEM3p3NGlDSW9BclpxNTgtM1lVU1JRS0I2UzBNcndma0JCNWU1bkpjZl9vdWhwRERLNFFYdDRTOXRNeG5ZNFJjQjJxWVpvcmFzWkVZdE1UTksteERTYXpJWHduVklEM3hXZkUtU3N1b0FzZDRNVDlwYkY3U0pj?oc=5",
+        "source": "news",
+        "created_at": "Sat, 15 Aug 2026 09:24:58 GMT",
+        "title_clean": "COVILHÃ: Incêndio mobiliza mais de 20 operacionais em Canhoso",
+        "topic_id": 7,
+        "topic_label": "Incêndios e bombeiros",
+        "topic_probability": 0.9794,
+        "low_confidence": false,
+        "all_scores": {
+            "Incêndios e bombeiros": 0.9794,
+            "Crimes e polícia": 0.0076,
+            "Ação social e voluntariado": 0.0023,
+            "Tecnologia": 0.0011,
+            "Obras e infraestruturas": 0.001,
+            "Habitação": 0.0009,
+            "Transportes": 0.0009,
+            "Desporto e competições": 0.0009,
+            "Saúde e hospital": 0.0008,
+            "Universidade e vida académica": 0.0008,
+            "Cultura, arte e espetáculos": 0.0007,
+            "Feira e Festival": 0.0007,
+            "Eleições e política autárquica": 0.0007,
+            "Turismo e património histórico": 0.0006,
+            "Natal e festividades": 0.0005,
+            "Falecimentos": 0.0005,
+            "Mercado": 0.0004,
+            "Comércio e lojas": 0.0004
+        }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHhaaTBsamtOODN3c3ViYWItc2ZZa2Z6NnY4UXVoVU9oNkR5bHlZWVVwN09feGxpdU9iT2ZQd1BPdlB6MlBCNDBLTDQ1NHNISTV6Vl80Q2J5cEVSSVJ2Z1FDMDlmcUVBU2VCWlE4R1RLRG1fOG1qOXFlejN0UmJEbGtwbWxUallydUUtZnVUMEhZZ2hBTnJoUHNpRmtKVzJ1?oc=5",
+        "source": "news",
+        "created_at": "Sat, 15 Aug 2026 18:28:46 GMT",
+        "title_clean": "Palpite: Vitória de Sernache x Sporting Covilhã | Liga 3 - 16/08 - APWin",
+        "topic_id": 6,
+        "topic_label": "Desporto e competições",
+        "topic_probability": 0.5833,
+        "low_confidence": false,
+        "all_scores": {
+            "Desporto e competições": 0.5833,
+            "Universidade e vida académica": 0.0618,
+            "Ação social e voluntariado": 0.0614,
+            "Crimes e polícia": 0.0407,
+            "Comércio e lojas": 0.0255,
+            "Saúde e hospital": 0.0248,
+            "Mercado": 0.0223,
+            "Turismo e património histórico": 0.0214,
+            "Feira e Festival": 0.0194,
+            "Habitação": 0.0192,
+            "Eleições e política autárquica": 0.0175,
+            "Obras e infraestruturas": 0.0163,
+            "Incêndios e bombeiros": 0.016,
+            "Transportes": 0.0154,
+            "Cultura, arte e espetáculos": 0.0153,
+            "Falecimentos": 0.0149,
+            "Natal e festividades": 0.0143,
+            "Tecnologia": 0.0106
+        }
     }
 ]

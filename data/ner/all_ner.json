@@ -137001,6 +137001,118 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDBmOU9OaEFOTkpDQnJpaUF4MEJBbUl5LW9aS0tITDlXNXlwQ3h6Y19uYWI4TTdEM3p3NGlDSW9BclpxNTgtM1lVU1JRS0I2UzBNcndma0JCNWU1bkpjZl9vdWhwRERLNFFYdDRTOXRNeG5ZNFJjQjJxWVpvcmFzWkVZdE1UTksteERTYXpJWHduVklEM3hXZkUtU3N1b0FzZDRNVDlwYkY3U0pj?oc=5",
+        "source": "news",
+        "created_at": "Sat, 15 Aug 2026 09:24:58 GMT",
+        "title_clean": "COVILHÃ: Incêndio mobiliza mais de 20 operacionais em Canhoso",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHhaaTBsamtOODN3c3ViYWItc2ZZa2Z6NnY4UXVoVU9oNkR5bHlZWVVwN09feGxpdU9iT2ZQd1BPdlB6MlBCNDBLTDQ1NHNISTV6Vl80Q2J5cEVSSVJ2Z1FDMDlmcUVBU2VCWlE4R1RLRG1fOG1qOXFlejN0UmJEbGtwbWxUallydUUtZnVUMEhZZ2hBTnJoUHNpRmtKVzJ1?oc=5",
+        "source": "news",
+        "created_at": "Sat, 15 Aug 2026 18:28:46 GMT",
+        "title_clean": "Palpite: Vitória de Sernache x Sporting Covilhã | Liga 3 - 16/08 - APWin",
+        "entities": [
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal Nuno Álvares Pereira",
+                "label": "LOC"
+            },
+            {
+                "text": "Liga Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "APWin",
+                "label": "ORG"
+            },
+            {
+                "text": "Cernache do Bonjardim",
+                "label": "LOC"
+            },
+            {
+                "text": "Diego Enrique Amaral Tavares",
+                "label": "PER"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            },
+            {
+                "text": "Filipe Lopes Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Diego Tavares",
+                "label": "PER"
+            },
+            {
+                "text": "Alexandre Dias Patrício",
+                "label": "PER"
+            },
+            {
+                "text": "André Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Simões Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Luiz Galil Goleiro",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Harruna Iddriss Innusah",
+                "label": "PER"
+            },
+            {
+                "text": "Ângelo Barbosa",
+                "label": "PER"
+            },
+            {
+                "text": "Ronaldo Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Hyppolite Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Gomes Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Covilhã Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
