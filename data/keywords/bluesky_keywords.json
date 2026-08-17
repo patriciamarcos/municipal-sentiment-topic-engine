@@ -8065,5 +8065,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mtc53fjvoc2i",
+        "source": "bluesky",
+        "created_at": "2026-08-17T16:35:39.877Z",
+        "title_clean": "",
+        "clean_text": "Castelo Branco: PSP deteve vários suspeitos por violência doméstica, tráfico de droga e crimes rodoviários. 👇 on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "psp deteve vários suspeitos",
+                "score": 0.6918
+            },
+            {
+                "keyword": "deteve vários suspeitos violência",
+                "score": 0.632
+            },
+            {
+                "keyword": "suspeitos violência doméstica tráfico",
+                "score": 0.6299
+            },
+            {
+                "keyword": "vários suspeitos violência",
+                "score": 0.6216
+            },
+            {
+                "keyword": "vários suspeitos violência doméstica",
+                "score": 0.603
+            },
+            {
+                "keyword": "deteve vários suspeitos",
+                "score": 0.5891
+            },
+            {
+                "keyword": "suspeitos violência",
+                "score": 0.5837
+            },
+            {
+                "keyword": "vários suspeitos",
+                "score": 0.5828
+            }
+        ],
+        "source_name": null
     }
 ]

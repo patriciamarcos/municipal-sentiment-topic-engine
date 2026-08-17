@@ -139318,5 +139318,255 @@
             }
         ],
         "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxPVHZZOUk5VmdhbDVTY0tNVDZwZFdIZ0lwYkZFX3RHVGlsNi1zQ3lBM2hxOGlWWURvMnRmNm9pRDBDVjlMdGttWExCMnJLRVJUeEwyM0tqdjE1SWd6MmFhVkQ1Z2RKYlRkWGxQSWZRVThla1NCMnZ5X3d6WUlpV2tlQmgycmw0NmFsTjNuRmU3Z0UySmxGUDk0cWdwcThNUzBtT1FB?oc=5",
+        "source": "news",
+        "created_at": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "title_clean": "Presidente da República assinala Dia Internacional da Juventude na Covilhã",
+        "clean_text": "Presidente da República assinala Dia Internacional da Juventude na Covilhã. O Presidente da República, António José Seguro, estará na Covilhã esta terça-feira, 11 de agosto, para assinalar o Dia Internacional da Juventude, cumprindo uma agenda que inclui encontros com jovens, representantes das juventudes partidárias e jovens empreendedores. A visita terá início às 10h00, com uma receção na Câmara Municipal da Covilhã, na Praça do Município. Meia hora depois, o Presidente da República participa num encontro com os líderes das Juventudes Partidárias nacionais e representantes jovens dos partidos com representação parlamentar, no Salão Nobre da autarquia. Pelas 11h45, a agenda prossegue no Teatro Municipal da Covilhã, onde terá lugar uma conversa com um grupo de jovens empreendedores. A visita termina com um almoço-convívio com jovens, também no Teatro Municipal da Covilhã, a partir das 12h30.",
+        "keywords": [
+            {
+                "keyword": "república assinala internacional juventude",
+                "score": 0.6841
+            },
+            {
+                "keyword": "assinala internacional juventude",
+                "score": 0.6126
+            },
+            {
+                "keyword": "assinalar internacional juventude",
+                "score": 0.6068
+            },
+            {
+                "keyword": "assinalar internacional juventude cumprindo",
+                "score": 0.6024
+            },
+            {
+                "keyword": "internacional juventude cumprindo agenda",
+                "score": 0.5933
+            },
+            {
+                "keyword": "11 assinalar internacional juventude",
+                "score": 0.5717
+            },
+            {
+                "keyword": "participa encontro líderes juventudes",
+                "score": 0.5653
+            },
+            {
+                "keyword": "encontro líderes juventudes",
+                "score": 0.5563
+            },
+            {
+                "keyword": "internacional juventude",
+                "score": 0.5553
+            },
+            {
+                "keyword": "internacional juventude cumprindo",
+                "score": 0.5528
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVk2RmlIN3NkVzZmYUFUVWowUGN4UFhob1NyMjRMaDhaTUJCWDd1aExCNUJfNzUwTkNtOExTZVIxY2hmVkdsMFFVQmJlT0ZDUWxLc1QtUXpEREprNHlzX0IweUNzU0w0d3l4dEQ3S1ZhOFpfZTVpdnlyRTBxVlRVZg?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "title_clean": "Rita Cortezão canta no \"Verão no Centro Histórico\"",
+        "clean_text": "Rita Cortezão canta no \"Verão no Centro Histórico\". Rita Cortezão atua na Covilhã a 14 de agosto, no âmbito da 9.ª edição do \"Verão no Centro Histórico\". O concerto está marcado para as 21h30, no Largo de Santa Marinha (entre o quartel dos Bombeiros e a antiga Casa do Benfica), com entrada gratuita. A atuação integra um programa que combina visitas guiadas encenadas pelo centro histórico da cidade com concertos. As visitas começam também às 21h30 e terminam no local do espetáculo. Rita Cortezão, nome artístico de Rita Cortesão Monteiro, editou em 2025 o primeiro álbum de originais, \"tudo, um pouco\", com o selo Discos Submarinos. Este ano venceu o Festival Termómetro, onde recebeu também o prémio de Melhor Canção, com \"o tempo que fica\". O programa do Verão no Centro Histórico prossegue nas sextas-feiras de agosto. A 21 de agosto, Margarida Campelo atua no Poço Grande, na Rua José Caetano Júnior, e a 28 de agosto é a vez da covilhanense Filipa Bidarra, no Jardim Público. A iniciativa é promovida pelo Município da Covilhã e tem participação gratuita.",
+        "keywords": [
+            {
+                "keyword": "verão centro histórico concerto",
+                "score": 0.6257
+            },
+            {
+                "keyword": "concerto marcado 21h30 largo",
+                "score": 0.5815
+            },
+            {
+                "keyword": "histórico concerto marcado 21h30",
+                "score": 0.5798
+            },
+            {
+                "keyword": "concerto marcado 21h30",
+                "score": 0.567
+            },
+            {
+                "keyword": "concertos visitas começam 21h30",
+                "score": 0.5626
+            },
+            {
+                "keyword": "centro histórico concerto",
+                "score": 0.5482
+            },
+            {
+                "keyword": "centro histórico concerto marcado",
+                "score": 0.5439
+            },
+            {
+                "keyword": "centro histórico cidade concertos",
+                "score": 0.5315
+            },
+            {
+                "keyword": "cidade concertos visitas",
+                "score": 0.5271
+            },
+            {
+                "keyword": "local espetáculo rita cortezão",
+                "score": 0.5264
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHpsdlJVVDBHRlAzaUVzVEJ1WEdlU3o0bUlFTDBjRXoyeGtleWxkLTZicjlLNVRYcy1xUVdUVm5IMUg5N1ppWDZ0bWdIb1Q1Mm9KelBTcUdzSEVvaW1QdTdXMDFPb2VHTEFVTjQ3d2UzX3lSN0xRb3lSX1haeW5xbHAtbmxULWs2RVBr?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 07:00:00 GMT",
+        "title_clean": "Videos :: Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27 ::",
+        "clean_text": "Videos :: Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27 ::",
+        "keywords": [
+            {
+                "keyword": "videos vitória sernache sc",
+                "score": 0.5629
+            },
+            {
+                "keyword": "liga placard série 2026",
+                "score": 0.5584
+            },
+            {
+                "keyword": "videos vitória",
+                "score": 0.5533
+            },
+            {
+                "keyword": "videos vitória sernache",
+                "score": 0.5522
+            },
+            {
+                "keyword": "liga placard série",
+                "score": 0.4782
+            },
+            {
+                "keyword": "placard série 2026 27",
+                "score": 0.4638
+            },
+            {
+                "keyword": "série 2026 27",
+                "score": 0.4592
+            },
+            {
+                "keyword": "vitória sernache sc",
+                "score": 0.4431
+            },
+            {
+                "keyword": "placard série 2026",
+                "score": 0.4136
+            },
+            {
+                "keyword": "liga placard",
+                "score": 0.4098
+            }
+        ],
+        "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2xkRzJ2Wi16S1JibEMyQTdjV1VSTGZxWmpkaGs0VWMzNXVGVkFyN1RZVDdXYllCcnBOT3h1TWVsdzdzcVZ1NGRtVmtmSEtQQ2FfakJuVUF4Q201WldmbmhTajh1aDNpUm1jSVprTDd5S1pUaGpVZUtfbkFtdVRzanU2dWJXdHg0TzBvUQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 07:00:00 GMT",
+        "title_clean": "Ficha de Jogo Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27",
+        "clean_text": "Ficha de Jogo Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27",
+        "keywords": [
+            {
+                "keyword": "liga placard série 2026",
+                "score": 0.654
+            },
+            {
+                "keyword": "jogo vitória sernache sc",
+                "score": 0.5728
+            },
+            {
+                "keyword": "liga placard série",
+                "score": 0.5344
+            },
+            {
+                "keyword": "vitória sernache sc",
+                "score": 0.5253
+            },
+            {
+                "keyword": "jogo vitória sernache",
+                "score": 0.524
+            },
+            {
+                "keyword": "ficha jogo vitória sernache",
+                "score": 0.5025
+            },
+            {
+                "keyword": "jogo vitória",
+                "score": 0.4881
+            },
+            {
+                "keyword": "ficha jogo vitória",
+                "score": 0.4839
+            },
+            {
+                "keyword": "liga placard",
+                "score": 0.4827
+            },
+            {
+                "keyword": "série 2026 27",
+                "score": 0.4586
+            }
+        ],
+        "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XS3hYRXdQMHlpZlFMMjRRU001U1NUZnZfbnJ2ZnZwNC1USTJZdUJ3UVEtaUdkNWJER1lrcXp5Y3p1QWZ6ay1pMFRhRHAxZElPUzY2ZjZnMmJ4VFRI?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 16:51:00 GMT",
+        "title_clean": "Notícias :: Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27 ::",
+        "clean_text": "Notícias :: Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27 ::",
+        "keywords": [
+            {
+                "keyword": "liga placard série 2026",
+                "score": 0.679
+            },
+            {
+                "keyword": "liga placard série",
+                "score": 0.5867
+            },
+            {
+                "keyword": "vitória sernache sc",
+                "score": 0.5181
+            },
+            {
+                "keyword": "liga placard",
+                "score": 0.5153
+            },
+            {
+                "keyword": "série 2026 27",
+                "score": 0.5113
+            },
+            {
+                "keyword": "placard série 2026 27",
+                "score": 0.4827
+            },
+            {
+                "keyword": "série 2026",
+                "score": 0.4477
+            },
+            {
+                "keyword": "vitória sernache",
+                "score": 0.437
+            },
+            {
+                "keyword": "placard série 2026",
+                "score": 0.4313
+            },
+            {
+                "keyword": "sernache sc",
+                "score": 0.4164
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]
