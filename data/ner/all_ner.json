@@ -137113,6 +137113,322 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxObUxjTXEyejk0WUJfSW1wX25wekxGYVBqV19LeHg3QklJRnNxazVBRXVBSWVBc3M3a2tCTHBQZm1NWWp3MEFMT21tTVIwOGN2Zm1EVkpldGtPWlhoamdxNHVDOFZoZnl3ZGlLRXJKd0ZPV09SYjlFYVpJMTZ5aV9jODd1UUdlVGZQWGYzTDl0UG1TeU5QQ0E?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 19:47:03 GMT",
+        "title_clean": "Sp. Covilhã empata em Cernache do Bonjardim para a Liga 3",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Cernache do Bonjardim",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMic0FVX3lxTE10cklRV2hrbnZReTRVWk5WaEJVaGM2NWwtY3gtOTBPOE5JV0syaFZJeUZ6bmJDV3VqRmJkXy0yUFBKRGw4a1NtVlF0TF9TVUZ6MDd1VHNCV1VnUWFZckFvOFFxZTVtZzV3R2xBUmxpV2lLams?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 20:07:29 GMT",
+        "title_clean": "Etiqueta -Sporting da Covilhã. Sp. Covilhã",
+        "entities": [
+            {
+                "text": "Sporting",
+                "label": "LOC"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVWlDNkFTM1JqbEQxOGVPNUxOcDZTcGN0dENTNHNPM2ZPcWpScHpDeGFZRzRfblRZMTNJX3RNRlp2aXlQdVZWU1B1a2lWVXYzbDZpT1VsektyOEh0dllUTVFkaGx5ckd1VzJSWFdNVTdmbjFlZERUWjhrbHRzU3lOMXNJb1lpY0lNZ2JCeE40akhWeWgtLU9aUnN0WkNKQV9zRHkzeF9wOEZ4NkdFdGx0aUlBbXVhN2pmalRla2Q4OXZTZEs2dFFRYkZNYUVyM1puQ2JiVWd5dGFWWUZlUkp3OHN5d2h0X1B0endvUTZoeFAtMVU?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 10:52:46 GMT",
+        "title_clean": "Covilhã: Feira de São Tiago encerra edição de 2026 reforçando o seu “impacto económico e cultural” na região da Beira Interior - Agência Incomparáveis",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Complexo Desportivo da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte",
+                "label": "ORG"
+            },
+            {
+                "text": "Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Secundário",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco Tradições",
+                "label": "LOC"
+            },
+            {
+                "text": "Quim Barreiros",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "João Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Sara Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Plutónio",
+                "label": "PER"
+            },
+            {
+                "text": "Vizinhos",
+                "label": "PER"
+            },
+            {
+                "text": "Bárbara Bandeira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Abrunhosa",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Mais Lusofonia",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Cabo Verde",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Interior de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Lara Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Cristina Cravino",
+                "label": "PER"
+            },
+            {
+                "text": "Maria Tereza Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "António Carlos",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Península Ibérica",
+                "label": "LOC"
+            },
+            {
+                "text": "Região Centro de Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2JIOUV0M0hBQnlXaHVwYUpqNGgtdktaR3FEUGh3dTJ2QU1UYm5kM3JDOUhvT1RlVHE0cDRGdWdnQ0otQk45NkVkajE5ZGh1aUQ3UmgxcVFDNjU5SU5iWjNGRWNZSjVxdVJ5Q2lsbV85UVNEZzB1eFA1WXJCRldBc0RELWNvRGtxMmxwT09aSi0?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 18:12:25 GMT",
+        "title_clean": "SC Covilhã empata frente ao Vitória Sernache",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxPanJ3UmVNdlRkeENZeG5xbjRfTFFWTURLNWg1bmNUajF0UG9ROVZ1RDc1NkhUNkZhMFpOWW1GQUNDNDQzWWxObFdBX044WnFYTGNTWFk4N2JzbERMTTFxblduekE2eGNwMmthVFphR1BXT2tTSngzazIzVnZOU2liYnFoRXd2bjZtMjdJRTM2bWhhYXpUbmd4VnRvM3BFMnBMbm1JX0ZxS2VKMmZUUmFSUXhubUxXRElRNXNXSnpaaldZb0hxM19OazJaem9CRUU?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 13:15:00 GMT",
+        "title_clean": "Zonas Balneares do Concelho da Covilhã a votos para eleger as melhores do interior do país",
+        "entities": [
+            {
+                "text": "Zonas Balneares",
+                "label": "LOC"
+            },
+            {
+                "text": "Concelho da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Praias Fluviais",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona de Lazer de Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Balnear de Verdelhos",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Balnear de Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Balnear do Paul",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Balnear de Cortes do Meio",
+                "label": "LOC"
+            },
+            {
+                "text": "Praia Fluvial de Unhais da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Balnear de Vila do Carvalho",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiW0FVX3lxTE95dldKaDVJc1RXb3pyRElDN2d0UXV0LVRYQ1NKZGhpUmpIcjRSVE1UdGJ0VFBLOUFhWklBN0ZrZnRGaWNnUlhsc0s1Y1JfaE44YWUyOEgxLUlJVEU?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 07:36:52 GMT",
+        "title_clean": "EQUIPA B | Sp. Covilhã 2-2 Vitória SC Tashkent (37WPD3qgy5) - Mshale",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória SC Tashkent",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnhsRGo3MmwtMDczR2hfUmYzSV9hc1ZDRW1rcXhTQUI2SDdTNU5CYnhkTnRUQm5UVFVUMEp2Q3FNckV6X2tJNFR6ODdnS0pGenZyaTRpZS0zNFRZMUlnYTdkTko2aFBqYXF0MnE5cVVZbER3MTdGZnlQYWp1V0h0YXZR?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 00:25:41 GMT",
+        "title_clean": "Ficha de Jogo Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27",
+        "entities": [
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Placard",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXBLU1YzMjlBUHJtbGZuZnMtRVh2QmRFMk1NaHV3cXRpR0JFc0lhclkxdmw2RHd2VE1HT1pITG9vWGpZeXVrQVVxTkVEYWpjT2lCd3BNZUNHOXVONTRkOUF3aDlRblliWHZoLUptUlBpd2hDU1QweVlTckV2Vlp1bjZ2SVhNeG5ZLXRvYzlOek8?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 16:51:01 GMT",
+        "title_clean": "Vitória Sernache 0x0 SC Covilhã - Resumo, Destaques e Crónica do Jogo",
+        "entities": [
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWh4ZllRbWs5UmJCVmVGM1JUc0hCQ2pmM0gwdjVVU01ZWURIM09FaEJzYVY4RzBSQjJsMkxJejltTXI1dU1mWDNDZjg3cEtvSTZwUVlnWEFpOEtfSEFOeEx3bFhFd1p4ckpZWGlCYzBLcHhSZGo2Nl9YdzJ3dXozMXFlc0pvZ3RBaEVDX21yTVZ5Zw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 18:12:10 GMT",
+        "title_clean": "Fotografias :: Vitória Sernache 0-0 SC Covilhã :: Liga 3 Placard Série B 2026/27 ::",
+        "entities": [
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
