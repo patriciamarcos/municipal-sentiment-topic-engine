@@ -138257,6 +138257,362 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0hVaVliZERzZ004UVIycDdkdjFLeTVsMGV3eF9SZlJOOS03aS1taW1CeTZfSWlQRWRNU0Z4VlduWC1jMG42QVBWTDg3RzVxMUxSNVVRbk5VZThaMDlPZFFKM3lSTy1KT1dycEJfMkJ1WGlyS1IxSUt4S2dlYV81MXZDMGQzeVAxMnB3VnRYeHFkZ0p6bVhycjFjc19faTBiUGY2Yk9QS0paU2VaWGtxNUFLSk0xWU90b1FuNzluZmRFR2dEZk1yVGY3UQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 12:01:01 GMT",
+        "title_clean": "Portugal: Marinha Grande leva jovens à descoberta da Covilhã através da “Rede Náutica Solidária” - Agência Incomparáveis",
+        "entities": [
+            {
+                "text": "Marinha Grande",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Piscina-Praia da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina das Penhas da Saúde",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Museu da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Pousada da Juventude Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "São Pedro de Moel",
+                "label": "LOC"
+            },
+            {
+                "text": "Carla Santana",
+                "label": "PER"
+            },
+            {
+                "text": "Centro de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Marinha Grande",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZzYyNVlEaG9yZDVZeWE5Vm1jQnpDVkJyLVBmVXVaWVV2S2ZFMW9UU1VqSGNMS2VERHM5WkNZdTZfa0pwZkh3ZmtIMWJaSEJ1RGlSb2otaXFqSHFqWVV4RlZjX3djLXZOZTdjcTNWTkRobEM3YUhYY01vU3BmTEZ2N09HWGYwUXpLZVBmb0JvNDNFMzE2ZFR2bVpkbkYtNDhzSl9HZjRKNHRfSjI3MWlIRENoRU5uSXVRaGlZeHd6cXQ2MEs0M2diVXdsZ2RKaW9ac01McFFQMEFMY1FuVnFRUHYxdXlYWm56Tk55bw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 12 Aug 2026 11:50:08 GMT",
+        "title_clean": "Museu do Caramulo certifica clássicos dia 22 de Agosto em Castelo Branco, Chaves, Covilhã, Guarda, Lisboa e Porto - Jornal dos Clássicos",
+        "entities": [
+            {
+                "text": "Museu do Caramulo",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Chaves",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Caetano",
+                "label": "LOC"
+            },
+            {
+                "text": "Garagem Jorge Delgado",
+                "label": "LOC"
+            },
+            {
+                "text": "Centr",
+                "label": "LOC"
+            },
+            {
+                "text": "HP Motors",
+                "label": "ORG"
+            },
+            {
+                "text": "Funchal",
+                "label": "LOC"
+            },
+            {
+                "text": "Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Volkswagen",
+                "label": "ORG"
+            },
+            {
+                "text": "& Costa",
+                "label": "LOC"
+            },
+            {
+                "text": "Algarve",
+                "label": "LOC"
+            },
+            {
+                "text": "JAP Blue",
+                "label": "ORG"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Leiria",
+                "label": "LOC"
+            },
+            {
+                "text": "Rio Maior",
+                "label": "LOC"
+            },
+            {
+                "text": "Garagem Espertocar",
+                "label": "ORG"
+            },
+            {
+                "text": "Concessionário C. Santos VP",
+                "label": "ORG"
+            },
+            {
+                "text": "Portalegre",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Sport Pneus",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTNFaXFad29rQ0UzLVdXRGEzMVZmalIySjNDQ0REQ3dmSjJ4QkpoUkM4djBNRHBZa3ZGWXBqMG5henhtTlBqQkdaMjhJMk1zNmNLa01sWmljd1BqaklwY3BkLTl6OXBBUHQ4dUFPRDQ3aVVRRXRRQ0UtWWtKQ29Bb3lPeUdpYUVJLTlSNFdRTi15QQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 11 Aug 2026 08:59:00 GMT",
+        "title_clean": "COVILHÃ: TALENTO DE RITA CORTEZÃO NO VERÃO NO CENTRO HISTÓRICO",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "ITA CORTEZÃO",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Cortezão",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo de Santa Marinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Casa do Benfica",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rita Cortesão Monteiro",
+                "label": "PER"
+            },
+            {
+                "text": "Termómetro",
+                "label": "ORG"
+            },
+            {
+                "text": "Ornatos Violeta",
+                "label": "PER"
+            },
+            {
+                "text": "Silence Four",
+                "label": "PER"
+            },
+            {
+                "text": "Capicua",
+                "label": "PER"
+            },
+            {
+                "text": "Noiserv",
+                "label": "PER"
+            },
+            {
+                "text": "Richie Campbell",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Bacalhau",
+                "label": "PER"
+            },
+            {
+                "text": "Marta Ren",
+                "label": "PER"
+            },
+            {
+                "text": "Tatanka",
+                "label": "PER"
+            },
+            {
+                "text": "NOS Alive",
+                "label": "LOC"
+            },
+            {
+                "text": "Bons Sons",
+                "label": "LOC"
+            },
+            {
+                "text": "Vodafone Paredes de Coura",
+                "label": "LOC"
+            },
+            {
+                "text": "Benjamim",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3MxRzJTenVvS0R0RUNTSlVHdGYzcFB1T3g2SHlnTENnamRhQmY1dDBQbVBsMjBVUTVYamkzZ1ptZjM3Sk4tbzI3eC1fQUF0UHd1cDAyZ2RaZzA4WHRrLVAzN2t3NlpaUS1TYzBpOFpDYmJyblhpeDdfb05UcWZHV2pVYVdmbHFzWWdadVZkQVNQaDBkd1A4UkZabzJmLUFHbEM1WU9uU3BEb0VrdG5VVUlWa0VpLTB0RjZsOG43M0pxRXQwX1dLRk9QV1lPbEx4S2tWVUhNZTUzdnc?oc=5",
+        "source": "news",
+        "created_at": "Sat, 15 Aug 2026 07:00:00 GMT",
+        "title_clean": "Primeiro-ministro/presidente expressam 'lamentos' pela morte trágica de um bombeiro em Covilhã. - Portugal Resident",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Daniel Bernardo Agrelo",
+                "label": "PER"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Defesa Civil",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "São Francisco de Assis",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Franca do Deão",
+                "label": "LOC"
+            },
+            {
+                "text": "Presidência",
+                "label": "ORG"
+            },
+            {
+                "text": "Corpo de Bombeiros da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Presidente da República",
+                "label": "PER"
+            },
+            {
+                "text": "Comandante dos Bombeiros",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal de Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Montenegro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeE00MlFxZFNZQkl0cmN4TjlLSHFFZzk0ZFB2MVpXODEtVC1wb0hZMnZKaE0xMkY2ZlQ5M0ZmSGh5cGZTRzItcm5tc0p1OEdROERHVlAwSjhQOFQtTk9OZTBCOFp1ekY0cDlFLTlCdTRiREZMOWJ4bnl2S0JzdkVZTWEzUHh6NG92WVd0dXJDMjlpTzZnLVdNYzdTU0ZBWDB4WXdycWNKZGE?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 16:51:01 GMT",
+        "title_clean": "Vitória Sernache 0x0 SC Covilhã - Resumo, Destaques e Crónica do Jogo",
+        "entities": [
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -139209,6 +139565,30 @@
         "source": "reddit",
         "created_at": "2026-08-12 11:30:43",
         "title_clean": "Companhia para uns mergulhos",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1vs04y8",
+        "source": "reddit",
+        "created_at": "2026-08-18 19:56:56",
+        "title_clean": "Nail artist e esteticista na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "reddit_1vryr85",
+        "source": "reddit",
+        "created_at": "2026-08-18 19:07:22",
+        "title_clean": "Recomendações para obras - Covilhã",
         "entities": [
             {
                 "text": "Covilhã",
@@ -142604,6 +142984,26 @@
             },
             {
                 "text": "Paul - Mato",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mteksp5aik2p",
+        "source": "bluesky",
+        "created_at": "2026-08-18T15:46:39.527092Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso - Mato",
                 "label": "LOC"
             }
         ]

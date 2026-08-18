@@ -3572,5 +3572,69 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vs04y8",
+        "source": "reddit",
+        "created_at": "2026-08-18 19:56:56",
+        "title_clean": "Nail artist e esteticista na Covilhã",
+        "clean_text": "Hello! Espero que estejam todos bem Vou mudarme para a Covilhã daqui a um mês e preciso de recomendações de uma nail artist e esteticista, por favor Qual é mais ou menos o preço de umas unhas de gel por esses lados? Obrigada!",
+        "keywords": [
+            {
+                "keyword": "recomendações nail artist",
+                "score": 0.6446
+            },
+            {
+                "keyword": "recomendações nail artist esteticista",
+                "score": 0.644
+            },
+            {
+                "keyword": "preciso recomendações nail artist",
+                "score": 0.6401
+            },
+            {
+                "keyword": "recomendações nail",
+                "score": 0.6061
+            },
+            {
+                "keyword": "nail artist esteticista",
+                "score": 0.5883
+            },
+            {
+                "keyword": "preciso recomendações nail",
+                "score": 0.5863
+            },
+            {
+                "keyword": "nail artist esteticista favor",
+                "score": 0.5848
+            },
+            {
+                "keyword": "preço unhas gel",
+                "score": 0.581
+            },
+            {
+                "keyword": "nail artist",
+                "score": 0.5807
+            },
+            {
+                "keyword": "preço unhas",
+                "score": 0.5723
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "reddit_1vryr85",
+        "source": "reddit",
+        "created_at": "2026-08-18 19:07:22",
+        "title_clean": "Recomendações para obras - Covilhã",
+        "clean_text": "Recomendações para obras - Covilhã",
+        "keywords": [
+            {
+                "keyword": "recomendações obras",
+                "score": 0.8287
+            }
+        ],
+        "source_name": null
     }
 ]
