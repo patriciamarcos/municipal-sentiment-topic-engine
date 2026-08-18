@@ -137569,6 +137569,694 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzdmY1NIcHVGRDZhRkQ3OWZ1WHl6REFyeG9RYUtEQjVaelFsUHlGY1JDcS1tN1cwSFVqZzhuUWpMTmJoUUlyWU5mdGdPUnZGR1VrTUs4SHFGOW9xeE15TTU3Mzc5bmNlVzJ3RzVaVXBFeFJUV0JqR0EwQmkwZVpIdkR6M1haaHFER1FFY21uVHFOQl94Qm1kbzZ3NkhhU01KZ0czbXZ1NmlYUW8?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 18:20:12 GMT",
+        "title_clean": "Feira de artesanato, design e outras artes na Covilhã de 3 a 6 de setembro - observador.pt",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "Rede Portuguesa de Cidades Criativas",
+                "label": "ORG"
+            },
+            {
+                "text": "Modatex",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro e Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "ORG"
+            },
+            {
+                "text": "J. Gomes",
+                "label": "ORG"
+            },
+            {
+                "text": "Rita Teles Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Raquel Amaral",
+                "label": "PER"
+            },
+            {
+                "text": "Agrupamento de Escolas Frei Heitor",
+                "label": "ORG"
+            },
+            {
+                "text": "Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "CEARTE",
+                "label": "ORG"
+            },
+            {
+                "text": "Nelson Canilho",
+                "label": "PER"
+            },
+            {
+                "text": "Palco Fiada",
+                "label": "LOC"
+            },
+            {
+                "text": "Filarmónica Recreativa Cortense",
+                "label": "ORG"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "PER"
+            },
+            {
+                "text": "Casa do Povo de Alpedrinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Icovi",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto de Emprego e Formação Profissional",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confeção e Lanifícios",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMif0FVX3lxTE9TOXdQSXNiVTZtZ24xWktvMTE0UmJXLUtVb3QyeVBLdGlLbTNZVkI0dnlNSTVITk45X0N3Wm05SE5ReDhYeE94dENFQ0d4RW9kOEdzMVRKQ1BPZW5Xb0RrQXd5ejBrNm1CM1pRRzlYbHZrbWkzRUxVeHNNY1dxWFE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 07:47:00 GMT",
+        "title_clean": "Desperdício dá nulo entre Sernache e Covilhã - noticiasdacovilha.pt",
+        "entities": [
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Niang",
+                "label": "PER"
+            },
+            {
+                "text": "Ekanga",
+                "label": "PER"
+            },
+            {
+                "text": "Norbert",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Jaílson",
+                "label": "PER"
+            },
+            {
+                "text": "Barge",
+                "label": "PER"
+            },
+            {
+                "text": "Embaló",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Edgar Moura",
+                "label": "PER"
+            },
+            {
+                "text": "Lucas Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Leões da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Louleta",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitano de Évora",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas",
+                "label": "ORG"
+            },
+            {
+                "text": "Natan Costa",
+                "label": "PER"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Oliveira de Azeméis",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZaTlLV0Q4TUJWWkVBZzN6eXFpSk5pTGR5UHV1TmtMM2hpRE9adGNpa19hNHNlNTdHSXNMcFJUZ0RqWTNoR2MzMDJkaDVveHg2aFB0bFZSaHBLWERQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 13:49:00 GMT",
+        "title_clean": "“Balanço é positivo” - noticiasdacovilha.pt",
+        "entities": [
+            {
+                "text": "Empresa Municipal de Belmonte",
+                "label": "ORG"
+            },
+            {
+                "text": "EMPDS",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Susana Miranda",
+                "label": "PER"
+            },
+            {
+                "text": "António Luís Beites",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Vítor Durão",
+                "label": "PER"
+            },
+            {
+                "text": "Silves",
+                "label": "LOC"
+            },
+            {
+                "text": "Óbidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Chaves",
+                "label": "LOC"
+            },
+            {
+                "text": "Castro Marim",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "José Manuel Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Banca da Carne Jarmelista",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMDRGeDNEMmJIRm96ZWdmYWFWdS1RbnRfQ2NGR1FVenVaemZqNEM5WEwwN3dkR0JVZG90WVJoeW1mbTVfZHhJMjR6TlZUczhPbGZlcWpNR0tRQ3hzMDVldlZ0dXlaWWMxS2ZCb2FqMW9UWTVjM1Q0bU5RWW1RZW5HTHJCaFo4XzJLX1FpMlpvMk5aVHduN2RnX1F3S2U1STRWeVJQOW9QN0hmRE56d2ZLUnNtT1hKREViZHdCcWRQc2gzeFEtYlhxR21Takw1UGZnUW0wczYzbjFNbTA?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 17:08:37 GMT",
+        "title_clean": "COVILHÃ: FIADA – Feira Internacional de Artesanato, Design e Artes regressa entre 3 e 6 de setembro",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Vereadora",
+                "label": "PER"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas da Rainha",
+                "label": "LOC"
+            },
+            {
+                "text": "Peniche",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Bilbao",
+                "label": "LOC"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "MODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro e",
+                "label": "ORG"
+            },
+            {
+                "text": "Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco FIADA",
+                "label": "LOC"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "Torres",
+                "label": "PER"
+            },
+            {
+                "text": "Farra",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            },
+            {
+                "text": "Infraestruturas e Concessões da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Marcelo Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Instituto do Emprego e Formação Profissional",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confeção e Lanifícios",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDRTRm1GWG1HelJheFljWDI2NWpFXzF4TG9Mc280RGNhVjZSZGJ1b0N2ZE5uaFVkX2dud1diYk5od0VyckJtSjA0UloxblItWGx5VGdoTXFjemoxUHRXVWRZUFJkemxtRnRRT3g2VEJDWWxkMER0WlNEaXlnMUM3cw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 13:17:00 GMT",
+        "title_clean": "A Serra da Estrela já esperou demasiado tempo… - noticiasdacovilha.pt",
+        "entities": [
+            {
+                "text": "Leonor Cipriano",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Aires",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Fazenda",
+                "label": "PER"
+            },
+            {
+                "text": "Partido Socialista",
+                "label": "ORG"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministro da Economia",
+                "label": "PER"
+            },
+            {
+                "text": "Coesão Territorial",
+                "label": "ORG"
+            },
+            {
+                "text": "Manuel Castro Almeida",
+                "label": "PER"
+            },
+            {
+                "text": "República",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara de Gouveia",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação de Municípios do Parque Natural da Serra da Estrela",
+                "label": "ORG"
+            },
+            {
+                "text": "Comunidade Intermunicipal das Beiras e Serra da Est",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDhSNEVWSXU0cVVvWEt5bEdPSUU2dlBFcHNETDBNVy1zaFZkaV9vSnFkN0JERl9zU3ZGS0lYaExwYmE2NEl1NUtGTVI2NUVDLWZRbldlZ3dpZ2FjOTA3MVhJTXhEWHdHTGVreGh2djZhSUlYbWlLRVFjUWczSEh3NlAyWU41Yzdldzh0UHl5RmxzOVp1dDhUdmJMaEZqdzA?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 17:35:32 GMT",
+        "title_clean": "Covilhã transforma-se num palco de artesanato, design e criatividade - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Cidade",
+                "label": "LOC"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Notícias de Coimbra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzctVWhLdUJBX0dwWElFTFdvZ09JNk5HOWFQV093R3RLQm1pbFFwbFBLZHlPRmVsNl93SXdidF81OTZPakpuSnY4cUEtckpIWENZbmdzVWwtTnNaVWthX1h5OGNkSzZVa0czT1o5NHc0OGRlcmd6VkZFLXhBaWZrag?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 12:16:33 GMT",
+        "title_clean": "SC Covilhã vs. Mortágua – resultado em direto, confrontos diretos e equipas iniciais - Sofascore",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortá",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0ItdXZzZzhrUmJxMUN1dHZ3ZjFEZi1Fc0swa1BNbDRLRVZES2N4VVVBZlNEbnFMRjFnRnp5RDI0WE5kTW9FcjN2VVdvamsza3NMQm1icVFZUUhyVFdRVWtOZ3p6OXJ4cVBWWW05TW16cGM3UFo4cTRWVjctMXJaNEZTeDVWakpnanpWejVVTHl3aUxvNEd2S1F0ZkwwYVpwQWZlVEZzZUdqYVk2REdBTQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 14:28:21 GMT",
+        "title_clean": "FIADA regressa de 3 a 6 de setembro com artesanato, música e inovação",
+        "entities": [
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            },
+            {
+                "text": "Unesco",
+                "label": "ORG"
+            },
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rita Teles Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Raquel Amaral",
+                "label": "PER"
+            },
+            {
+                "text": "Palco Fiada",
+                "label": "LOC"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "PER"
+            },
+            {
+                "text": "FIADA",
+                "label": "LOC"
+            },
+            {
+                "text": "Hub Criativo Portas do Sol",
+                "label": "LOC"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Modatex",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUU1SR3BxbXluMTdlYU9FNmlsSDBHWlVoazYtR211NFUydHdJX1VSNXc1cjBCbG5teU9QdnZJYmhRd1psWXBFcW02VmFjRW9aU08zcEZYaHVSaDZ3SU15MjNNbk5iYlgy?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 14:12:44 GMT",
+        "title_clean": "SC Covilhã (Fut.9 Jun.D S13) - Portugal - Jogos, Classificações, Plantel e Estatísticas",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjBfcjRETDIxZTVTZG95V0lrOVpXYVRJNlhnbGVTWnFqRWZFRm1YZkY3bExjRjFKOGJCdjBJQTZKRWs4aFZLVUZDdVA2Z1VYREJnZlZGc1JVb3l4dUNLa2tubmRsYlRoeEt1VXllVkZoSzB5Wl9XQ1ZTS2hqY0YzemtjdFQ2Yng1N2g3T2YtbGJaTmc?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 18:00:07 GMT",
+        "title_clean": "Vitória Sernache 0-0 SC Covilhã (L3 2026/27) :: Resumos :: Videos",
+        "entities": [
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -141896,6 +142584,26 @@
         "entities": [
             {
                 "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mtcotkhs2c2c",
+        "source": "bluesky",
+        "created_at": "2026-08-17T21:53:23.675469Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Paul - Mato",
                 "label": "LOC"
             }
         ]
