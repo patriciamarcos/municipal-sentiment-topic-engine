@@ -138613,6 +138613,966 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTFBRYzBHWlBfUWRsdEVpVDY0UjFvWExhczItU1dnNG9Sc2FnSVlLLWdLeXRDb0NtU3ptMllLb0JsOG1BMXljSVBZaU8tUmNSaVBTRXdxNzgyRzdNUENqa3JONDl2ODU4dXRtUWc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 07:54:00 GMT",
+        "title_clean": "FIADA em setembro na Covilhã",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas da Rainha",
+                "label": "LOC"
+            },
+            {
+                "text": "Peniche",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Bilbao",
+                "label": "LOC"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "MODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro",
+                "label": "ORG"
+            },
+            {
+                "text": "Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco FIADA",
+                "label": "LOC"
+            },
+            {
+                "text": "Noura",
+                "label": "ORG"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFar",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            },
+            {
+                "text": "Infraestruturas e Concessões da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Marcelo Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Instituto do Emprego e Formação Profissional",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confeção e Lanifícios",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWFDN1dzMlV4UEJrbnNOMGdrb3Ficnd5d3JZVEQ4OXZ5MENWdW1pMlQ3aGlIZmZjYkJvM2t3VnY5ZkMzSnd4Nmg3QWpCenNqQXpURXd6LUp2RWl2cjlNcXR5cHpySnU5WFVUcXRfVWZ3YTBlazlFTG41Qm1qZEVWWjl2WFJHSkhUN2Y2RTJXRGZRblN6ODJZcnVn0gGaAUFVX3lxTE9RYUM3V3MyVXhQQmtuc04wZ2tvcWJyd3l3cllURDg5dnkwQ1Z1bWkyVDdoaUhmZmNiQm8za3dWdjlmQzNKd3g2aDdBakJ6c2pBelRFd3otSnZFaXZyOU1xdHlwenJKdTlYVVRxdF9VZndhMGVrOUVMbjVCbWpkRVZaOXZYUkdKSFQ3ZjZFMldEZlFuU3o4MllydWc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 20:55:51 GMT",
+        "title_clean": "Story - SC Covilhã, Expulsão, Tembeng aos 39' - vsports.pt",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Tembeng",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjd0SmNvcFQ3cDJpOUY4QXlyMnpqR3czSHpkTHZQZVBTSy1lZk5VR004bzB0M0MtQVgzZm1ucUJzRFV3ODBnWXpCZ3d6dE11VVFxWVdLVV9uOTZpODZnSUlhVUN6b1JtYi1nQ0FwTDlaRE81a2dsc0dtZmw1QUNrX3Nlb3FWcURlZ255dVB3b0tNajliNW15NTRzN05DWUJCTThCZm40OEh6R2s?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 12:39:29 GMT",
+        "title_clean": "Covilhã: Município abre inscrições para a “Sport Night Summer 2026”",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim do Lago",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVkM3elJ6c296YWhMM3BQZUhTOEhKT2RHb2JKemJyOFRwX3phRF9PSDB6aDJnRTN2U1VFM2J2Z2o4bl9wUTZQWVp1c3NPWFp5SDVqcWZLZTIzb29iYlFnR0JpZ3lrZlNQamdJa0hxX2VuOHNtc2RDeWREc19CWDJzV1NReG8xUTYxVHdTSmlmMW9hbFNvdDlnRmdDR3BFT1dCYWE1VmFMRFRzQjM3XzN5Qzl1cG5XVlNCdUFSak5yYlFqQQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 09:12:00 GMT",
+        "title_clean": "Covilhã organiza quinta edição da FIADA com foco no design e tradição",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas da Rainha",
+                "label": "LOC"
+            },
+            {
+                "text": "Bilbao",
+                "label": "LOC"
+            },
+            {
+                "text": "Palco FIADA",
+                "label": "LOC"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "ODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFZfcHB5clNBYmxOLTk3WWloTzVBUjNHU3A3Z2NlOFozZ1lnUnMwa0k0ekNRcm1aY0M2ajV1R1FSdTV0LTBTUmdIVnhRLV91WlcxS045clF2Qzd2MmtkdFYtNC00SFhsSU5PMHRSSWNuZWNpZEpOUWhNdFFSOXo1VUtTNFRyczVPdGl3SjZUSUw0QjZTYnFrY2tyRnZ5SElaSHJWcHNOOS0zcEZFZGJOd0JneThnRkJXUTF3ZHozSEtsbGfSAcMBQVVfeXFMTTBWX3BweXJTQWJsTi05N1lpaE81QVIzR1NwN2djZThaM2dZZ1JzMGtJNHpDUXJtWmNDNmo1dUdRUnU1dC0wU1JnSFZ4US1fdVpXMUtOOXJRdkM3djJrZHRWLTQtNEhYbElOTzB0UkljbmVjaWRKTlFoTXRRUjl6NVVLUzRUcnM1T3Rpd0o2VElMNEI2U2Jxa2NrckZ2eUhJWkhyVnBzTjktM3BGRWRiTndCZ3k4Z0ZCV1Exd2R6M0hLbGxn?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 20:55:12 GMT",
+        "title_clean": "Story - SL Benfica - SC Covilhã: Confere aqui a constituição das equipas! - vsports.pt",
+        "entities": [
+            {
+                "text": "SL Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibkFVX3lxTE1VR1dEN1NQdlpOWE1PVjk2Q0s5UGR6WklTc0VmMU5UZkVHNzZhTkc3T29CSElQUFNDRWRlUzFJeHFndEFGeEtvNERLQURWR09YM3lBVkVPN1pYMllkS1ZaQ1lzUi1HV1pYVnBVUHNB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 12:13:00 GMT",
+        "title_clean": "Ana Bacalhau em setembro no TMC",
+        "entities": [
+            {
+                "text": "Ana Bacalhau",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Deolinda",
+                "label": "ORG"
+            },
+            {
+                "text": "João Só",
+                "label": "PER"
+            },
+            {
+                "text": "Ticketline",
+                "label": "ORG"
+            },
+            {
+                "text": "Daniel Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Joana Guerra",
+                "label": "PER"
+            },
+            {
+                "text": "Maurice Ravel",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro das Figuras",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Cultural Vila Flor",
+                "label": "LOC"
+            },
+            {
+                "text": "Cine-Teatro",
+                "label": "LOC"
+            },
+            {
+                "text": "Torres Vedras",
+                "label": "LOC"
+            },
+            {
+                "text": "Município de Lagos",
+                "label": "LOC"
+            },
+            {
+                "text": "Ensemble de Percussão",
+                "label": "ORG"
+            },
+            {
+                "text": "EPABI",
+                "label": "ORG"
+            },
+            {
+                "text": "Conservatório de Música da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Eduardo Cardinho",
+                "label": "PER"
+            },
+            {
+                "text": "Bernardo Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Igor Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "Síntese",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo de Música Contemporânea",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "João Pedro Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Dimitris Andrikopoulos",
+                "label": "PER"
+            },
+            {
+                "text": "Inés Badalo",
+                "label": "PER"
+            },
+            {
+                "text": "Rosana Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Salzburgo",
+                "label": "LOC"
+            },
+            {
+                "text": "Áustria",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Desportivo da Mata",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Marta Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "José Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Oliver Laxe",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMie0FVX3lxTFBndlg3YmVLZ2toQ21ieE91ZzRCMGh2Wml4UVNHcnp3ZEpRcmVBWXlQemttYWVPR0RJbVl5WFR1VzJZZklYSWNmX3ZGQ3l2MzR6b2lVTDF4ai1lR0JXSDFncWIzMEUxaFduUEpXNXdEZjV0aVJoZ0wwLTJkQQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 12:56:00 GMT",
+        "title_clean": "Cinema paranormal em festival da Gardunha",
+        "entities": [
+            {
+                "text": "Associação de Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Histérico-Associação de artes",
+                "label": "ORG"
+            },
+            {
+                "text": "A Moagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Zanibar Aliens",
+                "label": "ORG"
+            },
+            {
+                "text": "Carl Karlsson",
+                "label": "PER"
+            },
+            {
+                "text": "Filipe Karlsson",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Velhote do Carmo",
+                "label": "PER"
+            },
+            {
+                "text": "Martim Seabra",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Braga",
+                "label": "PER"
+            },
+            {
+                "text": "Zeppelin",
+                "label": "PER"
+            },
+            {
+                "text": "Black Sabbath",
+                "label": "ORG"
+            },
+            {
+                "text": "Creedence Clearwater Revival",
+                "label": "ORG"
+            },
+            {
+                "text": "Catarina Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Escola Superior de Artes Aplicadas",
+                "label": "ORG"
+            },
+            {
+                "text": "ESART",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade Politécnica de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Dina Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Biblioteca Municipal Eugénio de Andrade",
+                "label": "LOC"
+            },
+            {
+                "text": "Rosária Janeira Antunes",
+                "label": "PER"
+            },
+            {
+                "text": "Daniela Marion",
+                "label": "PER"
+            },
+            {
+                "text": "Francisco Barata",
+                "label": "PER"
+            },
+            {
+                "text": "Xico Gaiato",
+                "label": "PER"
+            },
+            {
+                "text": "Manuel da Silva Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Powers",
+                "label": "PER"
+            },
+            {
+                "text": "António",
+                "label": "PER"
+            },
+            {
+                "text": "Beira Baixa",
+                "label": "LOC"
+            },
+            {
+                "text": "Sarzedas",
+                "label": "LOC"
+            },
+            {
+                "text": "João Loy",
+                "label": "PER"
+            },
+            {
+                "text": "Vegeta",
+                "label": "PER"
+            },
+            {
+                "text": "Antiga Escola Primária dos Chãos, Donas",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Gardunha",
+                "label": "LOC"
+            },
+            {
+                "text": "Município do Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1R0aU9aYlF5cGZNeXdZVjZ2QkNlYW1hSnhjNy0xLUJCYUROdkQ4UmVsd3p6OUkxQU1RdTBxMUxzX2x2cVJqYzNSdEhCN3Y2THUzbnNmUlVDVkVWQTBUYTF0VnNCdTcwbnhhZTVralpBTC1NQUN4dWNoSWR3QU1NSXV5SDFkR0t1Wk44RUtjbGlpa1VjcnhPTTlaV0pRVWxjSUNvWlh4LWdDZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 09:30:01 GMT",
+        "title_clean": "Margarida Campelo estreia-se em concerto na Covilhã",
+        "entities": [
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo Educação",
+                "label": "ORG"
+            },
+            {
+                "text": "Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Bruno Pernadas",
+                "label": "PER"
+            },
+            {
+                "text": "Salvador Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "João Correia",
+                "label": "PER"
+            },
+            {
+                "text": "António Quintino",
+                "label": "PER"
+            },
+            {
+                "text": "Raquel Pimpão",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlRIZFVYb0gxOVBFQ2F3aWFYNV9IMFpvZTV0UWdMa3cwQ29aRjNuSUttWVFLdWduZkRDcm13ZXNUZ3liV0w4Wks4UFR2VlViZkp0NXFxdE5oR2hQX3lzcUhZNzJNbURFSl81blhZWkpmdUsyb2RQdHAtY04yRjBLSmtXV1Z1VU53SG5oT1pjUFZvTkdsXzRnSEw4d2c0Yy16cFFXekl4SFBZRWlP?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 01:57:49 GMT",
+        "title_clean": "Vídeo - LIGA PORTUGAL SABSEG 2021/22 - II Liga (14ªJ): Resumo Leixões SC 2-1 SC Covilhã - Sport TV",
+        "entities": [
+            {
+                "text": "Leixões SC",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxPUU1DOC04UlZzMVpfa04xLTUwVV90M01EbExMV09wYmZTcHlkeVdVSExMWVBhUjN2UzBwREF0cHZ3c25RVF9INDREdGZEbk14bDJzeWZldTJXZjd5RUdjWkF4a2tQeVJNeXVHZnFlUE5nVmN0bHlFQkpTXzAtaXNpcHNlaWstTTFVSHpkTnkxOS1Kc1dNUnZzVFFUUWstYVgwamUzVmMtQ2lqZlBpUXVkMW53?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 10:15:09 GMT",
+        "title_clean": "COVILHÃ: Inscrições abertas para a 3.ª edição do “Sport Night Summer”",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim do Lago",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmVVMzg5NmUzWkRxWkJRMThwQXdtX2N1M0FrN1pGbzRXa2JsaGtUcU1ybVhJYVBKLVdVOThXMGs2LTc2UjVybmplSW9tRUxIbWhPNTZ4ekp0VldCdDlueGdmaENqaWRhUnBuTmJhZnh1MzgxWGM4cUg5Wk50M1drMGcyMlgzTG1iMGhrSGZER1hkU0lDYlBHZWRWM05TM1VkbnRBTEtFVFhfdHVERFRlWXhZN2dsV0lpMGFtZ2pTUWZXdWhoU1BXTnVYbml6Mi1SSzJjQkRGc1dDNThlaGc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 10:36:58 GMT",
+        "title_clean": "COVILHÃ: FIADA regressa entre 3 e 6 de setembro com programa dedicado ao artesanato, design e artes",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Vereadora",
+                "label": "PER"
+            },
+            {
+                "text": "Pelouro da Cultura",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUdKRXVPWkdLVTZvWTJCYjVSNTlKWGU1OXJOZzlvQ0xENmJyNmNySWFxbUhkcXA2LUxZeGY2LTlIVHpUbGhkM3NQTXhRR2l4UzVFU2lZQzZ2VllwbUFrVU1DNmVWUTNVXzJ4b2h6RXM3SkIwM3RNSllWOXI2YU9XOXJJd3pmQVEtWmJXeXk2QldhdXBWNkp0V2YzQ0UtbVRydmx5bDF3RnpsVU5SdFN6SG5rd1J2Qi1vM09yaDRlbXBZUXJrNWFZ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 13:47:54 GMT",
+        "title_clean": "COVILHÃ: Voz única de Margarida Campelo no verão no centro histórico do município",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Poço Grande",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Educação e Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Bruno Pernadas",
+                "label": "PER"
+            },
+            {
+                "text": "Cassete Pirata",
+                "label": "ORG"
+            },
+            {
+                "text": "Salvador Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "Samuel Úria",
+                "label": "ORG"
+            },
+            {
+                "text": "Real Combo Lisbonense",
+                "label": "ORG"
+            },
+            {
+                "text": "João Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Tape Junk",
+                "label": "PER"
+            },
+            {
+                "text": "Jorge Palma",
+                "label": "PER"
+            },
+            {
+                "text": "Benjamim",
+                "label": "PER"
+            },
+            {
+                "text": "Frankie Chavez",
+                "label": "PER"
+            },
+            {
+                "text": "António Quintino",
+                "label": "PER"
+            },
+            {
+                "text": "Samuel Úria",
+                "label": "PER"
+            },
+            {
+                "text": "Cassete Pirata",
+                "label": "PER"
+            },
+            {
+                "text": "Sérgio Godinho",
+                "label": "PER"
+            },
+            {
+                "text": "José Mário Branco",
+                "label": "PER"
+            },
+            {
+                "text": "Janita Salomé",
+                "label": "PER"
+            },
+            {
+                "text": "Amélia Muge",
+                "label": "PER"
+            },
+            {
+                "text": "Dead Combo",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitorino",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Bacalhau",
+                "label": "PER"
+            },
+            {
+                "text": "Mafalda Veiga",
+                "label": "PER"
+            },
+            {
+                "text": "Raquel Pimpão",
+                "label": "PER"
+            },
+            {
+                "text": "Femme Falafel",
+                "label": "PER"
+            },
+            {
+                "text": "Fumo Ninja",
+                "label": "PER"
+            },
+            {
+                "text": "Nadia Schilling",
+                "label": "PER"
+            },
+            {
+                "text": "Catarina Branco",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVU4UTQyTnBnSDdONVNUMzMxVkpqb05xOXVWWnB1cXNiYUc5NUxhY1NJR0d0bk0xcUJTQThUSzJrMnVHUDg5TTJjQ2JETlJrYmk5SU8zLVFkNGhjZ0pRckVmLXo1SXpldnIyNjBPVlNORWlWeHllYTdUeFJLV29zZmJ6ZjgyYzk5eTBXVWtidzdxd09MdnlFQg?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 10:17:56 GMT",
+        "title_clean": "COVILHÃ: Inscrições abertas para a 3.ª edição do “Sport Night Summer”",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim do Lago",
+                "label": "LOC"
+            },
+            {
+                "text": "Piscina Praia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxNak43UWxPREc1WFhlSmlzRXU3Sk01VlA2SUxpYmNhaVUxaGZINE0wNkRkc2k5WWZ1RWRIXzQySzQwSy14X21tOE5ucDh6TEtJSFJqQTBLVlVuWjd1WERLc2N5MXpGOERYeUpmeW1OcW1XU2txaVluOXVKTm9LM3JYeUhCVEx3ZFVPTTFnaTV1MkNrVDdVelRLRVBIMA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 18:19:01 GMT",
+        "title_clean": "COVILHÃ: Incêndio em zona de mato mobiliza 47 operacionais em Canhoso",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Data Center/",
+                "label": "LOC"
+            },
+            {
+                "text": "Grila",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRllWd2o1YkQycTJ2bHJpOHJ4c3Q3b20xY1J5RUQ4X19acDRuMW9SOTd6ZGhpZExGVUdKZGRuZGtWZnVkMC05LV9sRVRJNDhSSEtacFhKS3RvMEdaZzlBR01RUU1lTlYtRElyOHh2N0h0S1N2QW5tdkp4eERvc1VlQkVTd3VtbTZXeUo1eGJCZDlydXZfRFppX0ZyVGw0ZU5KeHNlaFgxck1Ma3VESWlZNVA4V3ptQ0dBLW95Zk9abzhYQQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 10:38:02 GMT",
+        "title_clean": "COVILHÃ: FIADA regressa entre 3 e 6 de setembro com programa dedicado ao artesanato, design e artes",
+        "entities": [
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirwFBVV95cUxObW9jMFl4SXlyQWJwME1uNS1HcFZldm1YSUNWMkFtTFJ0ak9LXy1pXzF3eHc3RVRNc2dUQXhtTjVubC1KMzN4eWVIRjJtZ09xTTliLWpCRlhfUTdVLTQ5d2tmVVhCek1FUVhrVWZJTDBxM0FuOXhUUl82OVVId0FKREx1anNZTWY1SjhsYmJSTVluVXFJdEdWZEZRS01YZ1NTc1ZTNlFJaC01dzRtRTk4?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 14:24:05 GMT",
+        "title_clean": "Margarida Campelo anima terceira noite do Verão no Centro Histórico",
+        "entities": [
+            {
+                "text": "Margarida Campelo",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua José Caetano Júnior",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Educação e Recreio Campos Melo",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -143005,6 +143965,22 @@
             {
                 "text": "Canhoso - Mato",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:rlitjl477yqvbfzo5y4b3ytr/app.bsky.feed.post/3mtf6dyqef22h",
+        "source": "bluesky",
+        "created_at": "2026-08-18T21:36:21.404Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
             }
         ]
     },

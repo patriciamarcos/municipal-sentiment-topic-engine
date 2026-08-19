@@ -8191,5 +8191,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:rlitjl477yqvbfzo5y4b3ytr/app.bsky.feed.post/3mtf6dyqef22h",
+        "source": "bluesky",
+        "created_at": "2026-08-18T21:36:21.404Z",
+        "title_clean": "",
+        "clean_text": "Há o Arcos em lx. Mas tugal não é só lx. E Cuf (e afins) até na Covilhã há. € é € e se o Estado se \"oferece\" para pagar, pruridos vão desaparecer em segundos quando começarem a fazer as contas. Aliás é capaz de ser a melhor arma contra tentações de abolir o aborto.",
+        "keywords": [
+            {
+                "keyword": "pagar pruridos vão desaparecer",
+                "score": 0.5784
+            },
+            {
+                "keyword": "contra tentações abolir aborto",
+                "score": 0.5378
+            },
+            {
+                "keyword": "tentações abolir aborto",
+                "score": 0.5183
+            },
+            {
+                "keyword": "abolir aborto",
+                "score": 0.512
+            },
+            {
+                "keyword": "pagar pruridos vão",
+                "score": 0.4945
+            },
+            {
+                "keyword": "oferece pagar pruridos vão",
+                "score": 0.4769
+            },
+            {
+                "keyword": "há estado oferece pagar",
+                "score": 0.4719
+            },
+            {
+                "keyword": "vão desaparecer segundos começarem",
+                "score": 0.4593
+            }
+        ],
+        "source_name": null
     }
 ]
