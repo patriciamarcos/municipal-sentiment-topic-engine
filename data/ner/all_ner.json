@@ -139573,6 +139573,250 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTBWOXE1NFdxOFp3QlVvcUxqZE1kaEtENkpKaF9YTkFqVUdvT1ZpZWYwOGtyejRTQi14MVZuaEFobk4zdC1uMTRZTGtWMUg5b2VjMjA1Wm1ScFNzYWc1bnlFa0JXNEg0RUtXWUNBQ0dnT2tmWUcxRzcxNWJyWnhHTWF2bkpTaGVBTlJ6Sm1jVnNwRTNS0gGUAUFVX3lxTFBxMFY5cTU0V3E4WndCVW9xTGpkTWRoS0Q2SkpoX1hOQWpVR29PVmllZjA4a3J6NFNCLXgxVm5oQWhuTjN0LW4xNFlMa1YxSDlvZWMyMDVabVJwU3NhZzVueUVrQlc0SDRFS1dZQ0FDR2dPa2ZZRzFHNzE1YnJaeEdNYXZuSlNoZUFOUnpKbWNWc3BFM1I?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 20:56:30 GMT",
+        "title_clean": "Story - SC Covilhã, Jogada, André aos 65' - vsports.pt",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "André",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisgFBVV95cUxOblJnd0wzRDZBbWJSZmx4OUMtZ0F6N2N4N0NwSmdFb19JTjRMaFdwbm4xaXBsVWZJZV9zVDN4NnhpU3RZaTFPNVprb1QzQUdPcUtJVUo4RXBWRXRISUw1TVRnWF9Sc2t3T1FlYlRIRHRDZnU2dkx3Vk5UMjNrbmZtZXJEUHN0NnE1M0hDVkxUeUd0ODRoVzgwbVZ0N2tBZUVoVGpiaWNCZ3Byam1oMTdSV0130gGyAUFVX3lxTE5uUmd3TDNENkFtYlJmbHg5Qy1nQXo3Y3g3Q3BKZ0VvX0lONExoV3BubjFpcGxVZkllX3NUM3g2eGlTdFlpMU81WmtvVDNBR09xS0lVSjhFcFZFdEhJTDVNVGdYX1Jza3dPUWViVEhEdENmdTZ2THdWTlQyM2tuZm1lckRQc3Q2cTUzSENWTFR5R3Q4NGhXODBtVnQ3a0FlRWhUamJpY0JncHJqbWgxN1JXTXc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 20:58:02 GMT",
+        "title_clean": "Story - GOLO! Benfica, Seferovic aos 28', Benfica 1-0 SC Covilhã - vsports.pt",
+        "entities": [
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE1KVTdXMC1wdmlqQUU1eTJ5VW5TckFjcmxhRldLTkhiX2k5TzQwRW9oS3hpaUg4NmZXN2JjWTBYMm1WbTV2Q19iMkNoaTRHMEYwajFrSXh2bmFtQ0hralI0OTJRMk5WR2tnWE9VaHVJVDI1NHc1QUFTZ2s2d015Zw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 20:23:53 GMT",
+        "title_clean": "Nulo entre Vitória Sernache e SC Covilhã - FPF",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal Nuno Álvares Pereira",
+                "label": "LOC"
+            },
+            {
+                "text": "Cernache do Bonjardim",
+                "label": "LOC"
+            },
+            {
+                "text": "Gustavo Barge",
+                "label": "PER"
+            },
+            {
+                "text": "Norbert",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Edgar Moura",
+                "label": "PER"
+            },
+            {
+                "text": "Lucas Silva",
+                "label": "PER"
+            },
+            {
+                "text": "GD Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Diogo Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Filipe Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Nunes Quart",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Diego Tavares",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Rosário",
+                "label": "PER"
+            },
+            {
+                "text": "Matheus Matias",
+                "label": "PER"
+            },
+            {
+                "text": "Tomás Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Roberto Embaló",
+                "label": "PER"
+            },
+            {
+                "text": "Mauro Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Álvaro Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Paulo Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Bruno Souza",
+                "label": "PER"
+            },
+            {
+                "text": "André Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Graça",
+                "label": "PER"
+            },
+            {
+                "text": "Henrique Cavalcante",
+                "label": "PER"
+            },
+            {
+                "text": "Lucas Fachadas",
+                "label": "PER"
+            },
+            {
+                "text": "Juan Muriel",
+                "label": "PER"
+            },
+            {
+                "text": "Afonso Simão",
+                "label": "PER"
+            },
+            {
+                "text": "Vasco Nunes",
+                "label": "PER"
+            },
+            {
+                "text": "Natan Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Ronaldo Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Ângelo Barbosa",
+                "label": "PER"
+            },
+            {
+                "text": "Jaílson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "João Pacheco",
+                "label": "PER"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Peixoto",
+                "label": "PER"
+            },
+            {
+                "text": "João Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Fernandes",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Trindade Disciplin",
+                "label": "PER"
+            },
+            {
+                "text": "GD Vitória de Sernache",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
