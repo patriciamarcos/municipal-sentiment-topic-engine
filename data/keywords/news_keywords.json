@@ -141468,5 +141468,205 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNGd1X0RTTWUxUGxhbzF5VExRR0JhdXo1QTI4cTJham1lRWlHU2tfenFzZWVXaUJMaEdhME9SRFJLX0UwMW9jTFBESXFXU2N2WDZmcS1SZTdPMm9ueVlIcnc1WG5OamRQQWMxaDlKOG9SdnI3Skh0R1ZUOW0tXzk5MWkzdzRsYWliT2ZtX3dFekg1eXJtNF9iUnRLM3FYNHI0REVfaG4yNlJIeXliVnJETUxkR3JZNDAzbkFuaTh2a2FmTlFYNW9wOC0ta3VKXzlpOXFoZWptN0pjUGlNVElMLTFQT1FqLXpiU0gwajczakxrdWR2R2czSWNPWQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 20 Aug 2026 17:28:21 GMT",
+        "title_clean": "COVILHÃ: UBI integra projeto para operacionalização do futuro organismo certificador de dispositivos médicos em Portugal",
+        "clean_text": "COVILHÃ: UBI integra projeto para operacionalização do futuro organismo certificador de dispositivos médicos em Portugal. Universidade da Beira Interior lidera atividade-chave do projeto MDS ON-PT e acolhe na UBIMedical a sede da associação que agrega o consórcio com Aveiro, Coimbra e a Inova-Ria. A criação de um Organismo Notificado português para dispositivos médicos de base tecnológica deu um passo concreto com a aprovação do projeto MDS ON-PT - Organismo Notificado para Dispositivos Médicos de Base Tecnológica. Atualmente, empresas e startups nacionais que desenvolvem dispositivos médicos com software, sensores ou eletrónica integrada são forçadas a recorrer a organismos estrangeiros - maioritariamente na Alemanha, Países Baixos ou Reino Unido - para obter a certificação obrigatória na União Europeia. Um processo que se traduz em custos acrescidos, longas filas de espera e atrasos significativos na entrada no mercado. É a esta falha estrutural que o consórcio do MDS ON-PT, cofinanciado pelo FEDER através do programa Centro 2030, pretende responder. Constituído por iniciativa da UBI, da Universidade de Aveiro (que lidera o projeto), da Universidade de Coimbra e da associação Inova-Ria, o consórcio está a trabalhar no estabelecimento das bases técnicas, regulamentares e de gestão que permitirão a criação de uma infraestrutura nacional de avaliação da conformidade de dispositivos médicos de base tecnológica. O projeto abrange desde a consolidação do ecossistema até à capacitação de recursos humanos, com vista a reduzir a atual dependência externa e a acelerar os ciclos de certificação, apoiando particularmente pequenas e médias empresas e startups. O consórcio estabelecido inclui ainda a Portugal Digital Technology for Health Association (PDTH), a qual é constituída pelas entidades que integram o consórcio, tendo a sua sede instalada na UBIMedical, incubadora da UBI dedicada às áreas da saúde, biotecnologia, Deep Tech e inteligência artificial. A instalação da sede da PDTH na UBI e, em concreto, neste espaço, sublinha o papel central que a academia assume na eliminação de um dos maiores estrangulamentos atuais do setor: a ausência de uma entidade nacional capaz de atestar a conformidade regulamentar destes produtos. A UBI participa transversalmente em todas as atividades do projeto, mas assume um papel de destaque na coordenação da Atividade 4, dedicada à operacionalização da criação do Organismo Notificado. A reunião de acompanhamento, realizada no dia 17 de junho na UBI, serviu precisamente para analisar o trabalho já desenvolvido, afinar o planeamento das próximas fases de capacitação e alinhar os passos seguintes com os restantes membros do consórcio. Para além da vertente técnico-regulamentar, o consórcio delineou também um plano de dinamização do ecossistema que inclui um conjunto alargado de iniciativas - seminários, workshops e conferências dirigidas aos diferentes stakeholders da área dos dispositivos médicos. O objetivo é preparar o tecido empresarial e científico nacional para as novas exigências regulamentares europeias, cada vez mais rigorosas. A primeira ação pública deste plano está já agendada: a PDTH promove, no âmbito do MDS ON-PT, um ciclo mensal de workshops, cuja sessão de abertura, intitulada \"Introdução aos Dispositivos Médicos: Conceitos Fundamentais\", se realiza online no dia 16 de setembro. A participação é gratuita, mas carece de inscrição prévia, disponível no portal da Associação. Com esta iniciativa Portugal dá um sinal claro de que pretende deixar de ser um mero consumidor de certificações externas para passar a dispor de capacidade crítica e autónoma na avaliação de tecnologias que, cada vez mais, definem o futuro da saúde.",
+        "keywords": [
+            {
+                "keyword": "dispositivos médicos portugal universidade",
+                "score": 0.7123
+            },
+            {
+                "keyword": "nacionais desenvolvem dispositivos médicos",
+                "score": 0.6899
+            },
+            {
+                "keyword": "stakeholders área dispositivos médicos",
+                "score": 0.6854
+            },
+            {
+                "keyword": "acolhe ubimedical sede associação",
+                "score": 0.6686
+            },
+            {
+                "keyword": "certificador dispositivos médicos portugal",
+                "score": 0.6619
+            },
+            {
+                "keyword": "sede instalada ubimedical",
+                "score": 0.6509
+            },
+            {
+                "keyword": "on pt acolhe ubimedical",
+                "score": 0.6425
+            },
+            {
+                "keyword": "médicos base tecnológica projeto",
+                "score": 0.6366
+            },
+            {
+                "keyword": "médicos portugal universidade beira",
+                "score": 0.6362
+            },
+            {
+                "keyword": "área dispositivos médicos objetivo",
+                "score": 0.6299
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAJBVV95cUxQUm9WNHVLa0dMSWRSX2ZRa1B2SHNkcGl3aGc5NWdOQXNfSnYtbHA4alFXNnJwWnhIRDJkM3JHOW5XanQ5RzF0M0lzT1luNUVNMGMxaFB1TlFQWndzNXFlakFzMDh2REJMeC1OT1FyemI1b09BNHMzNjBQT3RlZy1KcDlhV2gyVERqRTFPb01tM2JnallhbFNKS2V5d3B1QUI0SXJNOFdRTC1KQXk0NHNJUVpVZ3hleDdaZWFHZDE3djlNRkE3UEgtQm9OR1ZiQXNLTmxTRTh0b2EyNjdCbWZSWVo3bFR0RFRNOVhpcDZhY0MwSUVVZ1pEY1hjQk9RemZxT0tjQmp2YXZfU1FF?oc=5",
+        "source": "news",
+        "created_at": "Wed, 19 Aug 2026 15:10:38 GMT",
+        "title_clean": "Grande Rota da Transumância 2026 tem calendário fechado com etapas em Gouveia, Castro Daire, Guarda, Fundão, Covilhã e Celorico da Beira",
+        "clean_text": "Grande Rota da Transumância 2026 tem calendário fechado com etapas em Gouveia, Castro Daire, Guarda, Fundão, Covilhã e Celorico da Beira. A Grande Rota da Transumância 2026 já tem definidas as datas das dez etapas que integram o calendário deste ano, numa iniciativa que percorre diferentes territórios do Centro de Portugal e pretende valorizar as tradições, paisagens e comunidades ligadas à transumância. Com o mote \"Junta-te ao rebanho!\", a edição deste ano contempla 10 etapas, 10 aldeias e mais de 100 mil passos, proporcionando aos participantes a oportunidade de acompanhar os rebanhos por percursos que atravessam paisagens rurais e localidades marcadas por tradições seculares. Depois das primeiras quatro etapas, realizadas em Castelo Branco, Idanha-a-Nova, Seia e Manteigas, seguem-se, no dia 23 de agosto, a etapa entre o Vale do Rossim e Vila Nova de Tazem, em Gouveia, integrada na \"Transumância dos rebanhos\". No dia seguinte, 24 de agosto, a Grande Rota passa por Castro Daire, entre o Lugar do Rodeio e Vilar, com a \"Descida da Serra de Montemuro\". O calendário prossegue no dia 13 de setembro, na Guarda, com a etapa em Fernão Joanes, associada à Festa da Transumância. No dia 20 de setembro, será a vez do Fundão, com o percurso entre o Fundão e Alpedrinha, dedicado aos \"Chocalhos\". Já no dia 4 de outubro, a iniciativa chega à Covilhã, com uma etapa entre as Penhas da Saúde e Cortes do Meio, dedicada aos \"Pastores, história e tradição de um povo\". A última etapa está prevista para dia 25 de outubro, em Celorico da Beira, com o \"Caminho da Feira\", na Carrapichana, estando o percurso ainda por definir. A organização destaca a importância da Grande Rota da Transumância enquanto forma de preservar e valorizar a ligação entre as comunidades e a natureza, através de experiências que cruzam património cultural, paisagem e tradições locais. A participação nas etapas é gratuita, mas a inscrição é obrigatória por motivos organizacionais, logísticos e de seguro. O número de participantes é limitado e as inscrições vão sendo disponibilizadas à medida que se aproximam as respetivas datas.",
+        "keywords": [
+            {
+                "keyword": "rota transumância 2026 calendário",
+                "score": 0.7268
+            },
+            {
+                "keyword": "transumância 2026 calendário",
+                "score": 0.7022
+            },
+            {
+                "keyword": "transumância 2026 calendário fechado",
+                "score": 0.6997
+            },
+            {
+                "keyword": "2026 calendário fechado etapas",
+                "score": 0.6829
+            },
+            {
+                "keyword": "2026 calendário fechado",
+                "score": 0.6466
+            },
+            {
+                "keyword": "calendário fechado etapas gouveia",
+                "score": 0.6405
+            },
+            {
+                "keyword": "2026 calendário",
+                "score": 0.6241
+            },
+            {
+                "keyword": "dez etapas integram calendário",
+                "score": 0.6139
+            },
+            {
+                "keyword": "montemuro calendário prossegue",
+                "score": 0.6089
+            },
+            {
+                "keyword": "montemuro calendário prossegue 13",
+                "score": 0.6088
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYm1aN2g3Zi1ObVBpMFJ5Q1hnTzV5em04cW1aLVV2U3h0b3ZKTDN6bXhhM1A1NEFINlZocGtSVW9yak1IZnZWZ05BVEdXMmNPNTlaQV9DOHY0WHZWRGl5NTVmQ0lqV25LSnJpUkQtWDY2VmV6TnlzOTJSZG9HZWEzUG1uaW5QWGNCOEotYlZZdmhuMnBnUmVrd2g2ZWMwVVRVWk1LcnhjVXpNbEVWWWNhcUNHNWtidjN2ZF9YLUg0X1dXYlp3akZLVjlsMENXUHhXckZlYTd6TGYzZFBjaVFXOTBFbW9EUdIB5gFBVV95cUxPYm1aN2g3Zi1ObVBpMFJ5Q1hnTzV5em04cW1aLVV2U3h0b3ZKTDN6bXhhM1A1NEFINlZocGtSVW9yak1IZnZWZ05BVEdXMmNPNTlaQV9DOHY0WHZWRGl5NTVmQ0lqV25LSnJpUkQtWDY2VmV6TnlzOTJSZG9HZWEzUG1uaW5QWGNCOEotYlZZdmhuMnBnUmVrd2g2ZWMwVVRVWk1LcnhjVXpNbEVWWWNhcUNHNWtidjN2ZF9YLUg0X1dXYlp3akZLVjlsMENXUHhXckZlYTd6TGYzZFBjaVFXOTBFbW9EUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 20 Aug 2026 12:30:52 GMT",
+        "title_clean": "Empresário de Adriano Castanheira: «Acordo com o Paços de Ferreira não está fechado» - Record",
+        "clean_text": "Empresário de Adriano Castanheira: «Acordo com o Paços de Ferreira não está fechado» - Record. Empresário de Adriano Castanheira: «Acordo com o Paços de Ferreira não está fechado» • Foto: Filipe Pinto O avançado Adriano Castanheira, de 26 anos, está a ser associado ao Paços de Ferreira, mas Nuno Correia, agente do jogador do Sp. Covilhã, garante que \"não há nenhum acordo fechado\" com os pacenses para consumar a transferência no mercado de inverno. \"O Paços de Ferreira é uma hipótese que não posso negar, mas o Castanheira também tem convites de outros clubes da Liga em carteira\", atirou o representante, reconhecendo que \"o futebol é o momento\": \"O salto é mais do que justo e este início de temporada ao serviço do Sp. Covilhã só veio comprovar que o jogador está mais do que preparado para as exigências, mas é prematuro dizer se vai acontecer já em janeiro ou só no final da época\". PUB Abordagem calculista na perspectiva de acautelar algum retorno financeiro para os serranos, uma vez que o extremo está em final de contrato e fica livre para definir o seu futuro sem entraves na reabertura do mercado. \"Não tenho interesse em estar a fazer um leilão, até porque o Adriano está grato ao Sp. Covilhã e focado nos jogos que tem pela frente, nomeadamente o de amanhã, frente à Académica, mas também sabe que em janeiro fica livre para escolher\", comentou Nuno Correia. Por Pedro Malacó",
+        "keywords": [
+            {
+                "keyword": "correia pedro",
+                "score": 0.574
+            },
+            {
+                "keyword": "filipe pinto",
+                "score": 0.5443
+            },
+            {
+                "keyword": "adriano castanheira acordo paços",
+                "score": 0.5331
+            },
+            {
+                "keyword": "filipe pinto avançado adriano",
+                "score": 0.5287
+            },
+            {
+                "keyword": "empresário adriano castanheira acordo",
+                "score": 0.5278
+            },
+            {
+                "keyword": "comentou nuno correia pedro",
+                "score": 0.515
+            },
+            {
+                "keyword": "adriano castanheira acordo",
+                "score": 0.5123
+            },
+            {
+                "keyword": "record empresário adriano castanheira",
+                "score": 0.511
+            },
+            {
+                "keyword": "filipe pinto avançado",
+                "score": 0.5107
+            },
+            {
+                "keyword": "empresário adriano castanheira",
+                "score": 0.509
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVBEWGMxMG90Rlp3UmRYMG9MWERSeU1mdjc4NVdkYlN5bm5Na0pJMTlNdTc4cVpQeEI0eloxbW1VYllvT250TjZpczRTWEN4UWdKM1dKS0hSemVzd3llSTY0ZmdPcFV6SC1nb0NsT0lxRGFTano5UzlFWVJjWUwyZ3ZBektxMk1HSHIyS2E5alN4UFB4ZVdQXzV5TFdBQmxMS0pFUHRHRGtKSlg5dkE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 11:55:46 GMT",
+        "title_clean": "Homenagens ao Bombeiro Daniel Agrelo um ano depois do falecimento",
+        "clean_text": "Homenagens ao Bombeiro Daniel Agrelo um ano depois do falecimento. A Junta de Freguesia de Aldeia de São Francisco de Assis homenageou este domingo, dia 16 de agosto, o Bombeiro Daniel Agrelo, que faleceu há um ano num acidente de viação, naquela freguesia, para ajudar a combater o incêndio que dizimou toda a região. Hoje as homenagens continuam na freguesia do Peso. Segundo comunicado, \"mais uma vez, a população marcou presença para lhe prestar uma sentida e bonita homenagem e mostrar que aqueles que dão a vida ao serviço dos outros jamais serão esquecidos.\" A freguesia deixou ainda um agradecimento ao Padre André, à Câmara Municipal da Covilhã e à ULS da Cova da Beira, pela presença durante as homenagens. \"Obrigado por contribuírem para manter viva a memória do Bombeiro Daniel Agrelo. Não podemos deixar de salientar que, infelizmente, não houve qualquer representação dos Bombeiros Voluntários da Covilhã, nem da A.H.B.V.C., apesar de o convite lhes ter sido dirigido atempadamente. A participação é sempre uma escolha, e cada escolha fala por si\", pode ler-se ainda no comunicado publicado nas redes sociais da freguesia. Recorde-se que hoje, pelas 17:00, a Associação Humanitária dos Bombeiros Voluntários da Covilhã, vai realizar um cortejo em direção ao local do acidente, onde vai ser prestada uma homenagem com a colocação de uma coroa de flores. Às 18:30 segue-se a deslocação para o cemitério da freguesia do Peso, onde será colocada uma coroa de flores por parte da Junta de Freguesia do Peso e de seguida é celebrada a Missa na Igreja Paroquial do Peso.",
+        "keywords": [
+            {
+                "keyword": "bombeiro daniel agrelo faleceu",
+                "score": 0.6828
+            },
+            {
+                "keyword": "homenagens bombeiro daniel agrelo",
+                "score": 0.6502
+            },
+            {
+                "keyword": "bombeiro daniel agrelo",
+                "score": 0.6319
+            },
+            {
+                "keyword": "homenagens bombeiro daniel",
+                "score": 0.6269
+            },
+            {
+                "keyword": "homenagens bombeiro",
+                "score": 0.6129
+            },
+            {
+                "keyword": "associação humanitária bombeiros",
+                "score": 0.593
+            },
+            {
+                "keyword": "domingo 16 bombeiro daniel",
+                "score": 0.5919
+            },
+            {
+                "keyword": "daniel agrelo faleceu",
+                "score": 0.5902
+            },
+            {
+                "keyword": "bombeiro daniel",
+                "score": 0.5874
+            },
+            {
+                "keyword": "humanitária bombeiros",
+                "score": 0.5824
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
     }
 ]

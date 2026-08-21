@@ -139973,6 +139973,226 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNGd1X0RTTWUxUGxhbzF5VExRR0JhdXo1QTI4cTJham1lRWlHU2tfenFzZWVXaUJMaEdhME9SRFJLX0UwMW9jTFBESXFXU2N2WDZmcS1SZTdPMm9ueVlIcnc1WG5OamRQQWMxaDlKOG9SdnI3Skh0R1ZUOW0tXzk5MWkzdzRsYWliT2ZtX3dFekg1eXJtNF9iUnRLM3FYNHI0REVfaG4yNlJIeXliVnJETUxkR3JZNDAzbkFuaTh2a2FmTlFYNW9wOC0ta3VKXzlpOXFoZWptN0pjUGlNVElMLTFQT1FqLXpiU0gwajczakxrdWR2R2czSWNPWQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 20 Aug 2026 17:28:21 GMT",
+        "title_clean": "COVILHÃ: UBI integra projeto para operacionalização do futuro organismo certificador de dispositivos médicos em Portugal",
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "UBIMedical",
+                "label": "ORG"
+            },
+            {
+                "text": "Inova-Ria",
+                "label": "ORG"
+            },
+            {
+                "text": "Alemanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Países Baixos",
+                "label": "LOC"
+            },
+            {
+                "text": "Reino Unido",
+                "label": "LOC"
+            },
+            {
+                "text": "União Europeia",
+                "label": "ORG"
+            },
+            {
+                "text": "MDS ON",
+                "label": "ORG"
+            },
+            {
+                "text": "FEDER",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Aveiro",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade de Coimbra",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal Digital Technology for Health Association",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAJBVV95cUxQUm9WNHVLa0dMSWRSX2ZRa1B2SHNkcGl3aGc5NWdOQXNfSnYtbHA4alFXNnJwWnhIRDJkM3JHOW5XanQ5RzF0M0lzT1luNUVNMGMxaFB1TlFQWndzNXFlakFzMDh2REJMeC1OT1FyemI1b09BNHMzNjBQT3RlZy1KcDlhV2gyVERqRTFPb01tM2JnallhbFNKS2V5d3B1QUI0SXJNOFdRTC1KQXk0NHNJUVpVZ3hleDdaZWFHZDE3djlNRkE3UEgtQm9OR1ZiQXNLTmxTRTh0b2EyNjdCbWZSWVo3bFR0RFRNOVhpcDZhY0MwSUVVZ1pEY1hjQk9RemZxT0tjQmp2YXZfU1FF?oc=5",
+        "source": "news",
+        "created_at": "Wed, 19 Aug 2026 15:10:38 GMT",
+        "title_clean": "Grande Rota da Transumância 2026 tem calendário fechado com etapas em Gouveia, Castro Daire, Guarda, Fundão, Covilhã e Celorico da Beira",
+        "entities": [
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Castro Daire",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Idanha-a-Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale do Rossim",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Nova de Tazem",
+                "label": "LOC"
+            },
+            {
+                "text": "Lugar do Rodeio",
+                "label": "LOC"
+            },
+            {
+                "text": "Vilar",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra de Montemuro",
+                "label": "LOC"
+            },
+            {
+                "text": "Fernão Joanes",
+                "label": "LOC"
+            },
+            {
+                "text": "Alpedrinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Corte",
+                "label": "LOC"
+            },
+            {
+                "text": "Caminho da Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Carrapichana",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYm1aN2g3Zi1ObVBpMFJ5Q1hnTzV5em04cW1aLVV2U3h0b3ZKTDN6bXhhM1A1NEFINlZocGtSVW9yak1IZnZWZ05BVEdXMmNPNTlaQV9DOHY0WHZWRGl5NTVmQ0lqV25LSnJpUkQtWDY2VmV6TnlzOTJSZG9HZWEzUG1uaW5QWGNCOEotYlZZdmhuMnBnUmVrd2g2ZWMwVVRVWk1LcnhjVXpNbEVWWWNhcUNHNWtidjN2ZF9YLUg0X1dXYlp3akZLVjlsMENXUHhXckZlYTd6TGYzZFBjaVFXOTBFbW9EUdIB5gFBVV95cUxPYm1aN2g3Zi1ObVBpMFJ5Q1hnTzV5em04cW1aLVV2U3h0b3ZKTDN6bXhhM1A1NEFINlZocGtSVW9yak1IZnZWZ05BVEdXMmNPNTlaQV9DOHY0WHZWRGl5NTVmQ0lqV25LSnJpUkQtWDY2VmV6TnlzOTJSZG9HZWEzUG1uaW5QWGNCOEotYlZZdmhuMnBnUmVrd2g2ZWMwVVRVWk1LcnhjVXpNbEVWWWNhcUNHNWtidjN2ZF9YLUg0X1dXYlp3akZLVjlsMENXUHhXckZlYTd6TGYzZFBjaVFXOTBFbW9EUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 20 Aug 2026 12:30:52 GMT",
+        "title_clean": "Empresário de Adriano Castanheira: «Acordo com o Paços de Ferreira não está fechado» - Record",
+        "entities": [
+            {
+                "text": "Adriano Castanheira",
+                "label": "PER"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Filip",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Correia",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Malacó",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVBEWGMxMG90Rlp3UmRYMG9MWERSeU1mdjc4NVdkYlN5bm5Na0pJMTlNdTc4cVpQeEI0eloxbW1VYllvT250TjZpczRTWEN4UWdKM1dKS0hSemVzd3llSTY0ZmdPcFV6SC1nb0NsT0lxRGFTano5UzlFWVJjWUwyZ3ZBektxMk1HSHIyS2E5alN4UFB4ZVdQXzV5TFdBQmxMS0pFUHRHRGtKSlg5dkE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 11:55:46 GMT",
+        "title_clean": "Homenagens ao Bombeiro Daniel Agrelo um ano depois do falecimento",
+        "entities": [
+            {
+                "text": "Junta de Freguesia de Aldeia de São Francisco de As",
+                "label": "ORG"
+            },
+            {
+                "text": "Bombeiro Daniel Agrelo",
+                "label": "PER"
+            },
+            {
+                "text": "Padre André",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Humanitária dos Bombeiros Voluntários da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Igreja Paroquial do Peso",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
