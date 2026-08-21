@@ -140193,6 +140193,174 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekg3UXdWeHJZYnNtU1lEZDU2SXBrSlh0MXV6S0lwaFYyWkNWRXQ1VjItUWQ3aV9EVnE0ejVMVUhTeWF5NGY5aloyQllEM25jbnB5M0xkakluR1pJelBrMGI3NlVNa3VaNWc4dUNvYi1PeUI4YXhoSEZXS3VuMHI5a2RINW1sNDhp?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 11:56:00 GMT",
+        "title_clean": "Jovens voluntários ajudam a recuperar áreas ardidas",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Juntas de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Municipal da Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxOU1JScWV2cTVZZXZMbXMtWXBiNzY4cDU2WnpuWTFYSUJXMklmLWlta2FSalM3VFBsSHRVMGU0QVdNZG0wbnFROXM4T1FBT1M1VHd4UnBqRG5JZW1qdk8tVDQ4Mi1nM3JDSkFybEcxUjJjbWUzdWFFRWFvcEVuUUt0eVZrSnY1bmtFaUptWTJvV0RGamNSb2dCSUE2ZjN6NDN5Xzk0MXpWQ1NWQjBGQVhzRlBqa2VGbXR6MHlZcnFfR0VmQ2NFZC1PQ0NGTQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 16 Aug 2026 11:00:00 GMT",
+        "title_clean": "Diabetes em Movimento chega ao Fundão em outubro para apoiar pessoas com diabetes tipo 2",
+        "entities": [
+            {
+                "text": "Câmara Municipal do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidade Local de Saúde da Cova da Beira",
+                "label": "ORG"
+            },
+            {
+                "text": "Direção-Geral da Saúde",
+                "label": "ORG"
+            },
+            {
+                "text": "Pavilhão da",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Desportiva do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Centros de Saúde",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXhGVldDZnRsYnBWMEZ6MUlUSUlSMTVMd2dPbWw0M0RIZ3FwaVJCV2wxdWY0Q1Y3aDhVaDM5U0sxT1lGUUpaNzVWd0tSdlZ2ZWRyeGwxWDNiTl9yUkt4QmFpdG0zR25ybGtScGY1WlgyMkdyNUl2Nzdua0QtY0YycU14OXF0U2RteHJjdVVWam94cG9XRnA3RG1IcXM4RXNSWndQNDhFck5UOTNjel9TSWNEdHA2U1FGYTVZYlNIRnMzYUYwd1E?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 10:02:58 GMT",
+        "title_clean": "Belmonte: Município comparticipa integralmente os Cadernos de Atividades do 1º Ciclo",
+        "entities": [
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Executivo Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Social",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmItMUVoWHF0MHZDRllyaklBT2lQUWNyVXFOUndQNHBBWG1BTkZpX0VYcFBSMFl4VFZ2N0VLLTZFYVkzc05ZNFBOb0VmSGtGMlNMOVdJNUVPd3lXRGhDelVvWEtzcWZTM1FlRWppaHdxQnRhQU1HcWt3ek5kNmZGRC1lSktHZmpnVmt2Mk82WnFSc1JpeHY5N1RGYUpUa1BZNGY4MWtn?oc=5",
+        "source": "news",
+        "created_at": "Thu, 20 Aug 2026 12:38:21 GMT",
+        "title_clean": "MODATEX leva criatividade e sustentabilidade à FIADA 2026",
+        "entities": [
+            {
+                "text": "MODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confeção e Lanifícios",
+                "label": "ORG"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Arquivo RCC",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHRSV0Q2Mll6ZDV0bzNTOXJROUxDOXlVNmExcjRwbWMwdDRXQ1Y1M0lYOWh4UXktZHpUVnFjUGFSRXVkdDNGaUYtTGVLeUlhdmlEQk4zb2N0MjZVWEFrVEI2cTViZjBFNUh3X0tuTFdIUWJUWjViVmJXbWEtR2c3MXNIU0x6amNZQ0JHZU9oY2FtdTNGVlRiNFkwNnZnNDZER1YydF9hN2F4c1NXMTV4cnk0TkR6QjJ1MTZXM0NR?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 09:30:00 GMT",
+        "title_clean": "Boidobra: Novo Banco retira Caixa Multibanco do edifício da Junta de Freguesia",
+        "entities": [
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Novo Banco",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVR0bkRBdWs0NkJOYWMwRjZoSUNhWmFiNWZBN0kyWVVQeWlCWV9SLUYwY0hkdTJWRDQ1MVU0R3YxV3RvTnF0YklaeEhRVDNMV2UySTZSeElwaVVsOFJINlF2eVZEVlE3ZlZwQUdKSUh1NG5RdXl6OXYzUzU1LUZQN2o2SVFHMVVBZDJkZEV1dkpPSWRoNDdpSTA1bHpqd09WRm5fcmJKVUI5RWlZZTRwaWVuLVJwaFU?oc=5",
+        "source": "news",
+        "created_at": "Thu, 20 Aug 2026 16:12:31 GMT",
+        "title_clean": "CALDASCOVILHÃ: Estatísticas e detalhes para equipas de futebol | WORLD CLUB-FRIENDLY-GAMES - AFootballReport",
+        "entities": [
+            {
+                "text": "CALDASCOVILHÃ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -144623,6 +144791,41 @@
                 "label": "LOC"
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mtmej22nyw2n",
+        "source": "bluesky",
+        "created_at": "2026-08-21T19:15:10+01:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:46h3c6cvdqtffftzvtlsgmgd/app.bsky.feed.post/3mtmdzxfl2c2b",
+        "source": "bluesky",
+        "created_at": "2026-08-21T18:06:45.076Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mtm2n46ebd2w",
+        "source": "bluesky",
+        "created_at": "2026-08-21T15:18:28.571436Z",
+        "title_clean": "",
+        "entities": []
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",

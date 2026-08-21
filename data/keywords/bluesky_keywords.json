@@ -8275,5 +8275,131 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mtmej22nyw2n",
+        "source": "bluesky",
+        "created_at": "2026-08-21T19:15:10+01:00",
+        "title_clean": "",
+        "clean_text": "Município da Covilhã quer ser capital da Cultura em 2028 e já reuniu mais de 500 contributos da comunidade O Município da Covilhã junta-se ao grupo de cidades que querem ser Capital Portuguesa da Cultura em 2028 e, para […] comunidadeculturaearte.com",
+        "keywords": [
+            {
+                "keyword": "capital portuguesa cultura 2028",
+                "score": 0.7877
+            },
+            {
+                "keyword": "querem capital portuguesa cultura",
+                "score": 0.7248
+            },
+            {
+                "keyword": "portuguesa cultura 2028 comunidadeculturaearte",
+                "score": 0.716
+            },
+            {
+                "keyword": "quer capital cultura 2028",
+                "score": 0.6946
+            },
+            {
+                "keyword": "capital cultura 2028 reuniu",
+                "score": 0.6777
+            },
+            {
+                "keyword": "capital portuguesa cultura",
+                "score": 0.6769
+            },
+            {
+                "keyword": "cidades querem capital portuguesa",
+                "score": 0.676
+            },
+            {
+                "keyword": "portuguesa cultura 2028",
+                "score": 0.6619
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:46h3c6cvdqtffftzvtlsgmgd/app.bsky.feed.post/3mtmdzxfl2c2b",
+        "source": "bluesky",
+        "created_at": "2026-08-21T18:06:45.076Z",
+        "title_clean": "",
+        "clean_text": "O Município da Covilhã junta-se ao grupo de cidades que querem ser Capital Portuguesa da Cultura em 2028 e, para fundamentar a candidatura, já recolheu mais de 500 contributos da comunidade, informou hoje a Câmara Municipal. Sabe mais: comunidadeculturaearte.com/municipio-da...",
+        "keywords": [
+            {
+                "keyword": "capital portuguesa cultura 2028",
+                "score": 0.7829
+            },
+            {
+                "keyword": "querem capital portuguesa cultura",
+                "score": 0.7685
+            },
+            {
+                "keyword": "cidades querem capital portuguesa",
+                "score": 0.7631
+            },
+            {
+                "keyword": "capital portuguesa cultura",
+                "score": 0.7257
+            },
+            {
+                "keyword": "querem capital portuguesa",
+                "score": 0.7137
+            },
+            {
+                "keyword": "portuguesa cultura 2028 fundamentar",
+                "score": 0.6979
+            },
+            {
+                "keyword": "portuguesa cultura 2028",
+                "score": 0.6696
+            },
+            {
+                "keyword": "capital portuguesa",
+                "score": 0.6635
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mtm2n46ebd2w",
+        "source": "bluesky",
+        "created_at": "2026-08-21T15:18:28.571436Z",
+        "title_clean": "",
+        "clean_text": "COVILHÃ: Candidatura do Município a Capital da Cultura já integra mais de 500 contributos",
+        "keywords": [
+            {
+                "keyword": "cultura integra 500 contributos",
+                "score": 0.7203
+            },
+            {
+                "keyword": "capital cultura integra 500",
+                "score": 0.7172
+            },
+            {
+                "keyword": "cultura integra 500",
+                "score": 0.6718
+            },
+            {
+                "keyword": "capital cultura",
+                "score": 0.6433
+            },
+            {
+                "keyword": "capital cultura integra",
+                "score": 0.6029
+            },
+            {
+                "keyword": "500 contributos",
+                "score": 0.5653
+            },
+            {
+                "keyword": "integra 500 contributos",
+                "score": 0.5629
+            },
+            {
+                "keyword": "cultura integra",
+                "score": 0.527
+            }
+        ],
+        "source_name": null
     }
 ]
