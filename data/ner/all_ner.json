@@ -140864,6 +140864,386 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkZaRDIxTm5rcE1SQ3F5ZklyREtoZXBWTXBYS010YUZfYkh4Y2p6WDVUcGk1a2ppSXRDbVoxZ2tSWXI4RDNjNE9BSWYwQTUxc2wxXzFmVTZWRGlPTkR1WnB3Y1E4bU9hWHB3NE1IWmxhejJXR29UdVFhM0NwNnliTFlhZ2FIbkVwSlHSAYoBQVVfeXFMTTZGWkQyMU5ua3BNUkNxeWZJckRLaGVwVk1wWEtNdGFGX2JIeGNqelg1VHBpNWtqaUl0Q21aMWdrUllyOEQzYzRPQUlmMEE1MXNsMV8xZlU2VkRpT05EdVpwd2NROG1PYVhwdzRNSFpsYXoyV0dvVHVRYTNDcDZ5YkxZYWdhSG5FcEpR?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 14:31:00 GMT",
+        "title_clean": "Ferido grave após queda de telhado na Covilhã - Correio da Manhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Correio da Manhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Hospitais da Universidade de Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRThINWJqVzR1NXZXNlA2UVA5RnFTeGlGbEkxVUJYd3VNWl9DVFdSVTVVMUI4LU5ZV3N6Q0gwa1JONnU2S2pIdjVOeW9LM1U1X0ZFNGVrVjRrQ2J0VWhMS1hnemc3YWY2S3BGZW0xYjR4bk1uLVFuWHNHeXV0MWJEWlQydGdHY3NoV1kzRGs1OUlNWGNTZ01idXNTajJJRFVUbGVuODRaRFY2UkVpcVpEWW0yT0JNWUhuY0IwVmt4SXRuRkZVSVRITkdtUm9Vbl9lWWFjVDhn?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 07:00:00 GMT",
+        "title_clean": "Covilhã: MODATEX apresenta criatividade, upcycling e saber-fazer na têxtil FIADA 2026 - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "MODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confeção e Lanifícios",
+                "label": "ORG"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Tenda Eco-Creators",
+                "label": "LOC"
+            },
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila das Aves",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Indústria Têxtil e",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CaENBWm1fSXk2eXhyeUYtWDNMcE9tVUwtclIyTzJmWW5RdEJpU1ZyaUszcVJBMEU2TU1hOHk2dkdoTlVVRGVWTTJlWjhLNDBBbG55My1GTW9LTlFUVVZScUpjdw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 20 Aug 2026 07:00:00 GMT",
+        "title_clean": "Confidente - Cinecartaz",
+        "entities": [
+            {
+                "text": "Águas Profundas",
+                "label": "LOC"
+            },
+            {
+                "text": "Alice's Restaurant",
+                "label": "LOC"
+            },
+            {
+                "text": "Agnès Varda",
+                "label": "PER"
+            },
+            {
+                "text": "Homem-Aran",
+                "label": "LOC"
+            },
+            {
+                "text": "Jacques Demy",
+                "label": "PER"
+            },
+            {
+                "text": "Lawrence da Arábia",
+                "label": "LOC"
+            },
+            {
+                "text": "Madal",
+                "label": "PER"
+            },
+            {
+                "text": "Jean Valjean",
+                "label": "PER"
+            },
+            {
+                "text": "Rosebush",
+                "label": "PER"
+            },
+            {
+                "text": "Cinema City",
+                "label": "LOC"
+            },
+            {
+                "text": "Alvalade",
+                "label": "LOC"
+            },
+            {
+                "text": "Campo Pequeno",
+                "label": "LOC"
+            },
+            {
+                "text": "Ideal",
+                "label": "ORG"
+            },
+            {
+                "text": "Amoreiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Colombo",
+                "label": "LOC"
+            },
+            {
+                "text": "Vasco da Gama",
+                "label": "LOC"
+            },
+            {
+                "text": "Cinemateca Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "El Corte Inglés",
+                "label": "ORG"
+            },
+            {
+                "text": "Charlot",
+                "label": "LOC"
+            },
+            {
+                "text": "Alegro Sintra Castello Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Fórum Barreiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Alfragide",
+                "label": "LOC"
+            },
+            {
+                "text": "Cinema City",
+                "label": "ORG"
+            },
+            {
+                "text": "Alegro Setú",
+                "label": "ORG"
+            },
+            {
+                "text": "Alegro Montijo",
+                "label": "LOC"
+            },
+            {
+                "text": "Almada Fórum",
+                "label": "LOC"
+            },
+            {
+                "text": "Odivelas",
+                "label": "LOC"
+            },
+            {
+                "text": "Strada",
+                "label": "ORG"
+            },
+            {
+                "text": "Cascais Resort",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Shop",
+                "label": "LOC"
+            },
+            {
+                "text": "Spot Castello Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Mira Maia Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Mar Matosinhos Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "NorteShop",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Nascente",
+                "label": "LOC"
+            },
+            {
+                "text": "UCI Arrábida Algarcine",
+                "label": "ORG"
+            },
+            {
+                "text": "Cinema de Lagos",
+                "label": "LOC"
+            },
+            {
+                "text": "Portimão",
+                "label": "LOC"
+            },
+            {
+                "text": "Casa do Cinema de",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Espaço Guimarães",
+                "label": "LOC"
+            },
+            {
+                "text": "Santarém",
+                "label": "LOC"
+            },
+            {
+                "text": "TorreShop",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Cultural de Montargil",
+                "label": "LOC"
+            },
+            {
+                "text": "Cinebox",
+                "label": "ORG"
+            },
+            {
+                "text": "Leiria",
+                "label": "LOC"
+            },
+            {
+                "text": "Alma Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Arena Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "Torres Vedras",
+                "label": "LOC"
+            },
+            {
+                "text": "Braga Parque",
+                "label": "LOC"
+            },
+            {
+                "text": "Évora Plaza",
+                "label": "LOC"
+            },
+            {
+                "text": "Ferrara Plaza",
+                "label": "LOC"
+            },
+            {
+                "text": "Fórum Algarve",
+                "label": "LOC"
+            },
+            {
+                "text": "Fórum Madeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Foz Plaza",
+                "label": "LOC"
+            },
+            {
+                "text": "Glicínias",
+                "label": "LOC"
+            },
+            {
+                "text": "Mar Algar",
+                "label": "LOC"
+            },
+            {
+                "text": "Alman",
+                "label": "ORG"
+            },
+            {
+                "text": "Palácio do Gelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Atlântico Cinema",
+                "label": "LOC"
+            },
+            {
+                "text": "Penafiel",
+                "label": "LOC"
+            },
+            {
+                "text": "Cine-Teatro Municipal de Ponte de Sor",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnFYd0xwWmRjOTZqUkhyX1oxNWVBSDRoWERSNnBrenBlV0doZW5iRnQ0LUVONjlkb1h1b29abGI2RmVoM0V6Z09zS3JnZ1FHczV3cEt3QUt2R2p1RkxMaVBjYmd4eThvVFFjNXFXcEFwUHpMOGsxVUthT0lWMmViVGxRZHhSU1BOLUFudmFHUzByWXdPUXhVS05ZdzIzNVVmSFVNUFNxcEg2X1dma3c?oc=5",
+        "source": "news",
+        "created_at": "Sat, 15 Aug 2026 17:31:30 GMT",
+        "title_clean": "Assistir Vitória de Sernache x Sporting Covilhã, na Liga 3 (16/08) - APWin",
+        "entities": [
+            {
+                "text": "Vitória de Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "APWin",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal Nuno Álvares Pereira",
+                "label": "LOC"
+            },
+            {
+                "text": "Liga Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "Brasília",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -145336,6 +145716,86 @@
         "created_at": "2026-08-21T15:18:28.571436Z",
         "title_clean": "",
         "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtowxiqrke2l",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:50:42.858Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "S. Traore",
+                "label": "PER"
+            },
+            {
+                "text": "Atlético CP. SC Covilha",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtowudp7252z",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:48:56.896Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Suker",
+                "label": "PER"
+            },
+            {
+                "text": "Atlético CP. SC Covilha",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3mtovlxm2ye2e",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:26:22.051Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Red Card",
+                "label": "ORG"
+            },
+            {
+                "text": "R. Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilha",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtovbcsyoh2m",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:20:24.690Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "J. Martins",
+                "label": "PER"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilha",
+                "label": "ORG"
+            },
+            {
+                "text": "B. Lourenco",
+                "label": "PER"
+            }
+        ]
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",

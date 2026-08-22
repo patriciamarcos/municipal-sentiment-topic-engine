@@ -8401,5 +8401,173 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtowxiqrke2l",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:50:42.858Z",
+        "title_clean": "",
+        "clean_text": "GOAL! 81' - S. Traore scores for Atlético CP. SC Covilha 0-3 Atlético CP. Liga 3 sccovilha atleticocp",
+        "keywords": [
+            {
+                "keyword": "atlético cp liga",
+                "score": 0.4786
+            },
+            {
+                "keyword": "for atlético",
+                "score": 0.4635
+            },
+            {
+                "keyword": "traore scores",
+                "score": 0.4557
+            },
+            {
+                "keyword": "81 traore scores",
+                "score": 0.4425
+            },
+            {
+                "keyword": "atlético cp sc",
+                "score": 0.4274
+            },
+            {
+                "keyword": "for atlético cp sc",
+                "score": 0.4044
+            },
+            {
+                "keyword": "atlético cp",
+                "score": 0.3926
+            },
+            {
+                "keyword": "for atlético cp",
+                "score": 0.3766
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtowudp7252z",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:48:56.896Z",
+        "title_clean": "",
+        "clean_text": "GOAL! 75' - H. Suker scores for Atlético CP. SC Covilha 0-3 Atlético CP. Liga 3 sccovilha atleticocp",
+        "keywords": [
+            {
+                "keyword": "suker scores",
+                "score": 0.5145
+            },
+            {
+                "keyword": "for atlético",
+                "score": 0.453
+            },
+            {
+                "keyword": "atlético cp liga",
+                "score": 0.4502
+            },
+            {
+                "keyword": "75 suker scores",
+                "score": 0.4479
+            },
+            {
+                "keyword": "atlético cp sc",
+                "score": 0.3937
+            },
+            {
+                "keyword": "for atlético cp sc",
+                "score": 0.384
+            },
+            {
+                "keyword": "atlético cp",
+                "score": 0.3659
+            },
+            {
+                "keyword": "for atlético cp",
+                "score": 0.3544
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3mtovlxm2ye2e",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:26:22.051Z",
+        "title_clean": "",
+        "clean_text": "🟥 Red Card 60' - R. Dias (Atlético CP). SC Covilha 0-1 Atlético CP. Liga 3 sccovilha atleticocp",
+        "keywords": [
+            {
+                "keyword": "atlético cp liga",
+                "score": 0.6771
+            },
+            {
+                "keyword": "red card 60 atlético",
+                "score": 0.6116
+            },
+            {
+                "keyword": "atlético cp sc",
+                "score": 0.5617
+            },
+            {
+                "keyword": "card 60 atlético cp",
+                "score": 0.5469
+            },
+            {
+                "keyword": "card 60 atlético",
+                "score": 0.5436
+            },
+            {
+                "keyword": "atlético cp",
+                "score": 0.5371
+            },
+            {
+                "keyword": "60 atlético cp",
+                "score": 0.5367
+            },
+            {
+                "keyword": "60 atlético cp sc",
+                "score": 0.5342
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtovbcsyoh2m",
+        "source": "bluesky",
+        "created_at": "2026-08-22T18:20:24.690Z",
+        "title_clean": "",
+        "clean_text": "GOAL! 56' - J. Martins scores for Atlético CP. SC Covilha 0-1 Atlético CP. Assist: B. Lourenco. Liga 3 sccovilha atleticocp",
+        "keywords": [
+            {
+                "keyword": "56 martins scores",
+                "score": 0.5117
+            },
+            {
+                "keyword": "martins scores",
+                "score": 0.5019
+            },
+            {
+                "keyword": "atlético cp sc",
+                "score": 0.4353
+            },
+            {
+                "keyword": "atlético cp assist lourenco",
+                "score": 0.4297
+            },
+            {
+                "keyword": "for atlético cp sc",
+                "score": 0.4178
+            },
+            {
+                "keyword": "atlético cp assist",
+                "score": 0.4173
+            },
+            {
+                "keyword": "assist lourenco liga",
+                "score": 0.4058
+            },
+            {
+                "keyword": "for atlético",
+                "score": 0.3926
+            }
+        ],
+        "source_name": null
     }
 ]
