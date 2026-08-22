@@ -140361,6 +140361,509 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxOeDNGTDJxV01wVUJjT19aLU02RTlDdHgzYWJDVmRPa2o2Qlc2dFE4OEtQSjZsdWxPOFBUalFFcnRwUHRidWJjbXJkc25kVzNUbU5INnhJeVdqcHplS1ZYdE8tUVB6ampBVlgtSV9lRHVUZEhtQjAwNDdLSmtSa2RBRzY3LV9GVFdpZHR2aU5XaE5QN0NGbHVITkFMQ2R1WWNMeTZHcEJuYmN5XzBhSGVaSFVwTlFWZkc2d09IVDFwOGNWYjZ6ZHp5ZWhyYmtZZw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 18:55:17 GMT",
+        "title_clean": "Covilhã candidata-se a Capital Portuguesa da Cultura 2028 com mais de 500 contributos da comunidade - Observador",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Capital",
+                "label": "LOC"
+            },
+            {
+                "text": "Amarante",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Leiria",
+                "label": "LOC"
+            },
+            {
+                "text": "Loulé",
+                "label": "LOC"
+            },
+            {
+                "text": "Óbidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Braga",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponta Delgada",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWVfUlFCZlZ2MFBTbzBtQ2JkY3JKc3pPSFVkaV9NaGhtNjhxRmpzM0VqWlZyUk41MUJRM21fX1RkNjl2bkpSOGxBMjEzUE9IVURSZmR5dzNSTlE4SWNVYlBjejZBaG5PUzNYbEsxc21DcmhraTRRcGc3YlFQVFdBdXZBQlFJWHNlLXlZM1ZVLXV0S3lpT29sMXNVUkY2bUFFQVFJQ04tVjBoVnUzenA1U0R6OUNkUENldDFONzZseWI5bjA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 09:43:53 GMT",
+        "title_clean": "UF Covilhã e Canhoso promove terceira Caminhada Noturna do programa “Põe-te a Andar”",
+        "entities": [
+            {
+                "text": "UF Covilhã e Canhoso",
+                "label": "ORG"
+            },
+            {
+                "text": "União das Freguesias",
+                "label": "ORG"
+            },
+            {
+                "text": "Grupo Desportivo Águias do Canhoso",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1NrZzFFZHJnb0JGWXJzUXRZWmZ2dG1aZGJGMUZuR3dDc1ZBTGN1OFgzem5QMEpCVzFTa1d0Wk5PV2Rjc1dSWUpvR0lrXy1GcTNJMl8tdVYzZ0l0Y3NQTV9BNU5SbURmakNSdVVkRFNka0tjT2VuajhmNmN5VXVwLXBQX1VBaGxLMDBzQjJFdHR2b015MWdkQmRYQXVRR1hYcEc5VUMwM3pWcmdOY2Q1Q2N1QUREaVNnOU4tZHl4T1pqNzM4ZzhmMVZwZ0ozUlh0aHc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 14:57:57 GMT",
+        "title_clean": "COVILHÃ: Candidatura do Município a Capital da Cultura já integra mais de 500 contributos",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Capital",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVTFGeWIwVURFT0xNaS1yZlA0MUFncEJXVTBLUTZZQkN6Q1pFQm1SeGtmZDNEQ2kyTmFTY3JMdmpUTFZpOGk4cDdwbUk0VHlPelFIT0k2V29xUFNQMEZsWDVyanlMUmdLWVlVVXdVSDJRcWNNRzM5TWlBVmU5ZzQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 17:35:46 GMT",
+        "title_clean": "Jogos em Direto - Benfica B vs Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Benfica B",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "Famalicão",
+                "label": "ORG"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Braga V. Guimarães",
+                "label": "ORG"
+            },
+            {
+                "text": "Estoril",
+                "label": "ORG"
+            },
+            {
+                "text": "Arouca Casa Pia Rio Ave",
+                "label": "ORG"
+            },
+            {
+                "text": "E. Amadora Moreirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Nacional",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Marítimo",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3dqai00bW1pa3RBS2w4NWFoUDIxeENFY1pDRzR3aE5GbnJiV2pPVDJrUlhmR1J2RnB0Mjk5TGdqcmhxM3ZINzdwVm1uQlFfNWhhdUZUS3hoQTZJTWJidmRlZXVXdUtxUi1ET2dOT2NZZ25YX3pJQzBsOFNmNEV0YkE1aUpab0VhZXg5cjg3aUJpaUFIMkRkZVBmd0JMWndGcGsxWk9sVDNRMUNmX3R0VW9kNHQ4UHdla05r?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 13:21:26 GMT",
+        "title_clean": "Castelo Branco está a preparar uma estratégia para reforçar a saúde no município - Saúde Mais TV",
+        "entities": [
+            {
+                "text": "Câmara Municipal de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Leopoldo Rodrigues",
+                "label": "PER"
+            },
+            {
+                "text": "Instituto de Ciências Biomédicas Abel Salazar",
+                "label": "ORG"
+            },
+            {
+                "text": "ICBAS",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            },
+            {
+                "text": "Comunidade Intermunicipal da Beira Baixa",
+                "label": "ORG"
+            },
+            {
+                "text": "Município de Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Jorge Pio",
+                "label": "PER"
+            },
+            {
+                "text": "Movimento Sempre Por Todos",
+                "label": "ORG"
+            },
+            {
+                "text": "PSD/CDS-PP",
+                "label": "ORG"
+            },
+            {
+                "text": "Unidade Local de Saúde de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "ULSCB",
+                "label": "ORG"
+            },
+            {
+                "text": "Estado",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministério da Saúde",
+                "label": "ORG"
+            },
+            {
+                "text": "Amato Lusitano",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Hospital da Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Faculdade de Medicina da Beira Interior",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxPdG1sMFhVODJvR1M4ZVI2cW5VcnhJc3V0LTFFVGZIWEVZYXJMTWlVbi1kWWtRQzMxUkE2UzZmdUxYTDFWWlhMUm4xSWRPQm9jNW9DdUpNTkdEeEt5WTVSRGFBNmlSRVdGa05DZVNPSzNSNmNJSGhXNlFETUstMnVFbm9rcG9UWFlnTWNrZWE3ZW5YTG1PMHVMa25jYTd0YU1MS2c?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 15:46:43 GMT",
+        "title_clean": "Pedro Farromba eleito para a Comissão Executiva dos Jogos do Mediterrâneo",
+        "entities": [
+            {
+                "text": "Pedro Farromba",
+                "label": "PER"
+            },
+            {
+                "text": "Comissão Executiva dos Jogos do Mediterrâneo",
+                "label": "ORG"
+            },
+            {
+                "text": "Comité Olímpico de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão Executiva do Comité Internacional dos Jogos do Mediterrâneo",
+                "label": "ORG"
+            },
+            {
+                "text": "Taranto",
+                "label": "LOC"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Francesco Purromuto",
+                "label": "PER"
+            },
+            {
+                "text": "Federação de Desportos de Inverno",
+                "label": "ORG"
+            },
+            {
+                "text": "Portimão",
+                "label": "LOC"
+            },
+            {
+                "text": "Lagoa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxNVXJEOE1DM2d0Tl92Q0txZUF2VjdLeWo3czVsMGhOY2xaTy1QQUlUSzgwb1c1Ykx2Qm9RNUhLekdRN1pIQ28tdklPZnVJWDhJSzYxVjUxbmZYQU5ETm9zTWNuQm40Y21sbUpGUTdmejYtQW12Z3Q5VkpBVzdXaFdjbDVJZFVPTHBUTzhtaDRFRmZaaXpOVEo4STdIWDZoUdIBmAFBVV95cUxNbkVJMDM4dU41VWEwMkxyVmNRWTIwSGt1ZEpaNWp2X21yd3VSNTlUaFhGcDZFUkVGaFRQZ1FiT0h3S25jUlRLWFBPYXA3UmhLdTUwUW1CdG9BN00xQUdUWVlpTURWNlNRYXNXdG9oWVA4dk9ERjQtdDJNbzNWUWpPbEVxclBZNTNLWGRNTlFrR3FZQUxWMk9Ydg?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 20:03:00 GMT",
+        "title_clean": "Atlético apresenta lote de capitães - Record",
+        "entities": [
+            {
+                "text": "Record Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Ricardo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Alcântara",
+                "label": "LOC"
+            },
+            {
+                "text": "Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "David Dinamite",
+                "label": "PER"
+            },
+            {
+                "text": "Caleb",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro d'Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUtmbEFiT3hLQkRQYUVINVA4M1pnMGNfeExkOGZSMWlfTEV5TmdyNjdBbXBqSjlfaTNmcHNldkJyVG5oanBqNE5lRm1lTzRWNFpLOGJ6VnZDWkNxMGR5Z1pZbVFjT21JUWhMa2cxUWEyZ2VJRGhsOEVEMFgtcUJsTDdDLUd1UzBfZl9CTVRB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 19 Aug 2026 17:00:00 GMT",
+        "title_clean": "Distrito: PSP fez 14 detenções por diversos crimes - reconquista.pt",
+        "entities": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxPcE55TzZ4VENDaFZqMERSaGM2cXNMaXpUNGpuYmZkR0MzTzhlN2JGcXVNWnZVZ1E1YVZKVzNmOGRRV1lrdzlvd3ViQ3dJMGl1Y2daYk5fVEdDTHA2ekE3MGdISjRLXzRuZjBuZk9YMXViNzVXRTBRMjhOMnBqQlQ4eWYyYzdEMTZMX1VTcm1DZzcyZldvdTFiYjJkOVhrLTZIOHE4?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 15:45:42 GMT",
+        "title_clean": "Assistir Sporting Covilhã x Atlético CP, na Liga 3 (22/08) - APWin",
+        "entities": [
+            {
+                "text": "Sporting Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Brasília",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "FotMob",
+                "label": "ORG"
+            },
+            {
+                "text": "Flashcore",
+                "label": "ORG"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFl1TnJwaGJxRFVJQlAwZGpzS0t5NjlHRnMyZUZHT1lvZ3hVZkJCdzJuREhCUGpVMmhIQ2ZRWHNya2pMbmdxSkhHXzJkMkswd1dHNnFSdmg4UlJFN3JGZ0RYdWdRNUhyZEkyZ0ptR1pBYXJvUjdVRDZmVjd1V0VrR0h5cXBhOWxrODU4NlhOckU0TlNtRVE?oc=5",
+        "source": "news",
+        "created_at": "Fri, 21 Aug 2026 16:45:04 GMT",
+        "title_clean": "Palpite: Sporting Covilhã x Atlético CP | Liga 3 (22/08) - APWin",
+        "entities": [
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipe Lopes Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Alcântara",
+                "label": "LOC"
+            },
+            {
+                "text": "Nicolas Cristian de Souza",
+                "label": "PER"
+            },
+            {
+                "text": "Juan David Herrera Mosquera",
+                "label": "PER"
+            },
+            {
+                "text": "Luiz Galil Goleiro",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Harruna Iddriss Innusah",
+                "label": "PER"
+            },
+            {
+                "text": "Ronaldo Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Hyppolite Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Gomes Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Mendes",
+                "label": "PER"
+            },
+            {
+                "text": "Jailson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            },
+            {
+                "text": "João Martins",
+                "label": "PER"
+            },
+            {
+                "text": "Vicente Polido Durand",
+                "label": "PER"
+            },
+            {
+                "text": "Caleb Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Hélder Tavares",
+                "label": "PER"
+            },
+            {
+                "text": "Bernardo Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Solo Traoré",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Pereira Goleiro",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Paulo Monteiro",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Granja Defensor",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting Covilhã Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -141343,6 +141846,13 @@
                 "label": "LOC"
             }
         ]
+    },
+    {
+        "record_id": "reddit_1vv238i",
+        "source": "reddit",
+        "created_at": "2026-08-22 04:09:53",
+        "title_clean": "Indicação de bares",
+        "entities": []
     },
     {
         "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",

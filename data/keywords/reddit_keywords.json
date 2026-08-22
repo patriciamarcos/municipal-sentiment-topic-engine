@@ -3636,5 +3636,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vv238i",
+        "source": "reddit",
+        "created_at": "2026-08-22 04:09:53",
+        "title_clean": "Indicação de bares",
+        "clean_text": "Olá, irei a covilhã em breve e gostaria de recomendações de bares onde posso encontrar a maior variedade de cervejas nacionais e importadas Além disso quais são os bares com os melhores drinks clássicos e autorais? Obrigado a todos",
+        "keywords": [
+            {
+                "keyword": "bares melhores drinks clássicos",
+                "score": 0.7464
+            },
+            {
+                "keyword": "maior variedade cervejas nacionais",
+                "score": 0.7396
+            },
+            {
+                "keyword": "variedade cervejas nacionais",
+                "score": 0.7317
+            },
+            {
+                "keyword": "recomendações bares posso encontrar",
+                "score": 0.7184
+            },
+            {
+                "keyword": "variedade cervejas nacionais importadas",
+                "score": 0.7006
+            },
+            {
+                "keyword": "breve gostaria recomendações bares",
+                "score": 0.6981
+            },
+            {
+                "keyword": "quais são bares melhores",
+                "score": 0.6978
+            },
+            {
+                "keyword": "gostaria recomendações bares",
+                "score": 0.6965
+            },
+            {
+                "keyword": "gostaria recomendações bares posso",
+                "score": 0.6912
+            },
+            {
+                "keyword": "recomendações bares posso",
+                "score": 0.6897
+            }
+        ],
+        "source_name": null
     }
 ]
