@@ -141712,6 +141712,22 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUlVcG1lc25rS28yZVhibkFUVDZFQkdyZUt2VzZGR1RfTE5wa0hmMzMxc0xTamdqVkpsRmc5X3pEUHJXTUtmYkJwUHV1Qk5JdHprU2ZMbWhTeHVDSk1Sckc4MjNaTEpBbWNTVGNvTEJkNUdDbll0RzAtQ09VMExfUXR0SmtrZmM?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 17:51:00 GMT",
+        "title_clean": "Notícias :: SC Covilhã 0-3 Atlético CP :: Liga 3 Placard Série B 2026/27 ::",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -146262,6 +146278,49 @@
             {
                 "text": "B. Lourenco",
                 "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:o3o4s4uijwvvokaedoa6a6aj/app.bsky.feed.post/3mtrin5avtc2j",
+        "source": "bluesky",
+        "created_at": "2026-08-23T19:12:22.410Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mtrfhykg222n",
+        "source": "bluesky",
+        "created_at": "2026-08-23T18:15:48.481Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mtrffqre6k2n",
+        "source": "bluesky",
+        "created_at": "2026-08-23T18:14:33.211Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qnjuy4qscneua7qq4trbmf4i/app.bsky.feed.post/3mtrfccjilc2h",
+        "source": "bluesky",
+        "created_at": "2026-08-23T18:12:37.606Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
             }
         ]
     },

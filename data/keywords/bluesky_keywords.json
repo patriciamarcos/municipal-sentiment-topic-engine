@@ -8569,5 +8569,145 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:o3o4s4uijwvvokaedoa6a6aj/app.bsky.feed.post/3mtrin5avtc2j",
+        "source": "bluesky",
+        "created_at": "2026-08-23T19:12:22.410Z",
+        "title_clean": "",
+        "clean_text": "Da Covilhã nunca saiu nada de jeito, tudo normal, portanto",
+        "keywords": [
+            {
+                "keyword": "nada jeito tudo normal",
+                "score": 0.6892
+            },
+            {
+                "keyword": "saiu nada jeito tudo",
+                "score": 0.6451
+            },
+            {
+                "keyword": "tudo normal portanto",
+                "score": 0.6194
+            },
+            {
+                "keyword": "nunca saiu nada",
+                "score": 0.6033
+            },
+            {
+                "keyword": "tudo normal",
+                "score": 0.5944
+            },
+            {
+                "keyword": "jeito tudo normal",
+                "score": 0.5853
+            },
+            {
+                "keyword": "jeito tudo normal portanto",
+                "score": 0.585
+            },
+            {
+                "keyword": "nunca saiu nada jeito",
+                "score": 0.5787
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mtrfhykg222n",
+        "source": "bluesky",
+        "created_at": "2026-08-23T18:15:48.481Z",
+        "title_clean": "",
+        "clean_text": "(Havia, já deve ter morrido, um fulano na Covilhã conhecido por lapes-de-pau)",
+        "keywords": [
+            {
+                "keyword": "havia deve morrido",
+                "score": 0.7589
+            },
+            {
+                "keyword": "morrido fulano",
+                "score": 0.7459
+            },
+            {
+                "keyword": "deve morrido fulano",
+                "score": 0.696
+            },
+            {
+                "keyword": "deve morrido",
+                "score": 0.6944
+            },
+            {
+                "keyword": "havia deve morrido fulano",
+                "score": 0.6551
+            },
+            {
+                "keyword": "havia deve",
+                "score": 0.5305
+            },
+            {
+                "keyword": "conhecido lapes",
+                "score": 0.5292
+            },
+            {
+                "keyword": "conhecido lapes pau",
+                "score": 0.4965
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mtrffqre6k2n",
+        "source": "bluesky",
+        "created_at": "2026-08-23T18:14:33.211Z",
+        "title_clean": "",
+        "clean_text": "A minha mãe chamava afiadeira e era da Covilhã",
+        "keywords": [
+            {
+                "keyword": "minha mãe chamava afiadeira",
+                "score": 0.8848
+            },
+            {
+                "keyword": "minha mãe chamava",
+                "score": 0.8438
+            },
+            {
+                "keyword": "mãe chamava afiadeira",
+                "score": 0.8205
+            },
+            {
+                "keyword": "mãe chamava afiadeira era",
+                "score": 0.7829
+            },
+            {
+                "keyword": "mãe chamava",
+                "score": 0.772
+            },
+            {
+                "keyword": "minha mãe",
+                "score": 0.6823
+            },
+            {
+                "keyword": "chamava afiadeira",
+                "score": 0.6305
+            },
+            {
+                "keyword": "chamava afiadeira era",
+                "score": 0.5741
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:qnjuy4qscneua7qq4trbmf4i/app.bsky.feed.post/3mtrfccjilc2h",
+        "source": "bluesky",
+        "created_at": "2026-08-23T18:12:37.606Z",
+        "title_clean": "",
+        "clean_text": "Na Covilhã, apara-lapes",
+        "keywords": [
+            {
+                "keyword": "apara lapes",
+                "score": 0.4309
+            }
+        ],
+        "source_name": null
     }
 ]

@@ -143014,5 +143014,55 @@
             }
         ],
         "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUlVcG1lc25rS28yZVhibkFUVDZFQkdyZUt2VzZGR1RfTE5wa0hmMzMxc0xTamdqVkpsRmc5X3pEUHJXTUtmYkJwUHV1Qk5JdHprU2ZMbWhTeHVDSk1Sckc4MjNaTEpBbWNTVGNvTEJkNUdDbll0RzAtQ09VMExfUXR0SmtrZmM?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 17:51:00 GMT",
+        "title_clean": "Notícias :: SC Covilhã 0-3 Atlético CP :: Liga 3 Placard Série B 2026/27 ::",
+        "clean_text": "Notícias :: SC Covilhã 0-3 Atlético CP :: Liga 3 Placard Série B 2026/27 ::",
+        "keywords": [
+            {
+                "keyword": "liga placard série 2026",
+                "score": 0.6014
+            },
+            {
+                "keyword": "atlético cp liga",
+                "score": 0.554
+            },
+            {
+                "keyword": "liga placard série",
+                "score": 0.5275
+            },
+            {
+                "keyword": "atlético cp liga placard",
+                "score": 0.5146
+            },
+            {
+                "keyword": "liga placard",
+                "score": 0.4629
+            },
+            {
+                "keyword": "série 2026 27",
+                "score": 0.4214
+            },
+            {
+                "keyword": "placard série 2026 27",
+                "score": 0.4167
+            },
+            {
+                "keyword": "cp liga placard série",
+                "score": 0.4067
+            },
+            {
+                "keyword": "cp liga",
+                "score": 0.3905
+            },
+            {
+                "keyword": "atlético cp",
+                "score": 0.3895
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]
