@@ -141244,6 +141244,474 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxPYVdTcjdlMExPS1pDQlhNUm9KTVhXUlo1dzY4SnE4a01KRHROUjhHaU1tNC1Gekl1Y2ZfR3hmaGZDeGJzQ3lVQnp3SDh0M0xCNERPbEVDdkZqeVVsRXhJZEFZUHpnWm4ycHBnNHQ4WUtILWJVZWJ6MC1QbzI5V1BheWdadzlFczRWSFlOSEpaMFF1Zk9jeHFPUUJZQllzNFd0d1RYcUxUZTBQdUIxZjJLM0xEeVJwWHBUMWlJUl9nWTZLOWs5?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 03:09:59 GMT",
+        "title_clean": "Covilhã: Cidade Criativa da UNESCO promove FIADA de 03 a 06 de setembro - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "Rede Portuguesa de Cidades Criativas",
+                "label": "ORG"
+            },
+            {
+                "text": "Modatex",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro e",
+                "label": "ORG"
+            },
+            {
+                "text": "Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "ORG"
+            },
+            {
+                "text": "J. Gomes",
+                "label": "ORG"
+            },
+            {
+                "text": "Rita Teles Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Raquel Amaral",
+                "label": "PER"
+            },
+            {
+                "text": "Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "CEARTE",
+                "label": "ORG"
+            },
+            {
+                "text": "Nelson Canilho",
+                "label": "PER"
+            },
+            {
+                "text": "Palco Fiada",
+                "label": "LOC"
+            },
+            {
+                "text": "Filarmónica Recreativa Cortense",
+                "label": "ORG"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Filarmónica Recreativa Carvalhense",
+                "label": "ORG"
+            },
+            {
+                "text": "Margari",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "PER"
+            },
+            {
+                "text": "Alpedrinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Icovi",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto de Emprego e Formação Profissional",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confeção",
+                "label": "ORG"
+            },
+            {
+                "text": "Lanifícios",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1RmTnc2LXI5eXYzYVZSZ2xoVTkzcTMyaG5kZkZTMXVKWjREa2tiM1dZZXlsN1g3dG11eFVjcmlaRjNkOEpmeWllVzBwdDgzX1EwdlNnLUE1RFNKTWp4bTNHZVB6RmQzSGs1LWhUaXFYUEd2MzlYQ3hQa3RiVlQxNVVn?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 07:04:59 GMT",
+        "title_clean": "Jogo - SC Covilhã vs Atlético CP - Sport TV",
+        "entities": [
+            {
+                "text": "Atlético CP SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVNLeUs4UUdmaDlqbkhoWnIxdzJMdlA4bzR5cVQ4ampSa2dhNk1TbjFMb0ZCRXlFZW1LWTFOcmh3TlVtNjN0UEZpQk1vTjlEVTBnM1A0cmlqcVFmblRNWm54bndJSkQyVkpGQ0dRTm9OMHBqczhzZXBHNzFyeHlhYTY3UnYtbG8zMVNibEMtWjRVcGNUZ05Pam1ZWjdGQ00?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 19:01:48 GMT",
+        "title_clean": "Sporting da Covilhã sofre primeira derrota da temporada",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio José Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Janico",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Suker",
+                "label": "PER"
+            },
+            {
+                "text": "Solo Traoré",
+                "label": "PER"
+            },
+            {
+                "text": "CD Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal de Mafra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZbUhIRUJHM3RyMWZBamJENmJhQmNhNzc4Ym0xNWI0X21TMDkwT3JwSzR4QWNBbWppQ0VybDVWYUtIMnNPbkZ0VWk3LWNRcHNFdzZBYnk4ejNLR1Zfa0o0RDJKYTkxTUVCTGVIRmRDdFBOaURYai1hUGZXa2RaUQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 20:37:52 GMT",
+        "title_clean": "Atlético CP vence na Covilhã - FPF",
+        "entities": [
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Nuno Hidalgo",
+                "label": "PER"
+            },
+            {
+                "text": "Jaílson Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "Janico",
+                "label": "PER"
+            },
+            {
+                "text": "Bernardo Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro D'Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Hélder Suker",
+                "label": "PER"
+            },
+            {
+                "text": "Solo Traoré",
+                "label": "PER"
+            },
+            {
+                "text": "UD Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Rui Mónica",
+                "label": "PER"
+            },
+            {
+                "text": "João Trigo",
+                "label": "PER"
+            },
+            {
+                "text": "Vítor Martins Quart",
+                "label": "PER"
+            },
+            {
+                "text": "Leonardo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Kauan Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "Mohamed Aidara",
+                "label": "PER"
+            },
+            {
+                "text": "Diogo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Harruna Innusah",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "João Pacheco",
+                "label": "PER"
+            },
+            {
+                "text": "Ekanga Ondoa",
+                "label": "PER"
+            },
+            {
+                "text": "Guilherme Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Duarte",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Gomes",
+                "label": "PER"
+            },
+            {
+                "text": "João Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Gonçalo Cascalheira",
+                "label": "PER"
+            },
+            {
+                "text": "João Caridade",
+                "label": "PER"
+            },
+            {
+                "text": "Cheikh Niang",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Granja",
+                "label": "PER"
+            },
+            {
+                "text": "Alison Calegari",
+                "label": "PER"
+            },
+            {
+                "text": "Eduardo Monteiro",
+                "label": "PER"
+            },
+            {
+                "text": "Vicente Durand",
+                "label": "PER"
+            },
+            {
+                "text": "César Sousa",
+                "label": "PER"
+            },
+            {
+                "text": "Mohamed Konaté",
+                "label": "PER"
+            },
+            {
+                "text": "Caleb Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "Duarte Henriques",
+                "label": "PER"
+            },
+            {
+                "text": "Caio Santana",
+                "label": "PER"
+            },
+            {
+                "text": "Nicolas Souza",
+                "label": "PER"
+            },
+            {
+                "text": "Rodrigo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Diego Arezes",
+                "label": "PER"
+            },
+            {
+                "text": "Rafael Tavares",
+                "label": "PER"
+            },
+            {
+                "text": "Eric Oliveira",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcklKVllvZGVnakRRd0R2aGRUaW1zQmpZUmhXdGprSFVwcmE3dnZOMUF2SEU2ZmpiZHU2d1ZGZzljWW9TYVdGUFRRY29la2pNSmFqYXJQcVdtWFJJVV9URmZoWlprX2g0c3NvQkJhVWxqMXF3UzdGMG5SLVE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 17 Aug 2026 13:10:55 GMT",
+        "title_clean": "SC Covilhã x Mortágua placar ao vivo, H2H e escalações - Sofascore",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua",
+                "label": "ORG"
+            },
+            {
+                "text": "Sofascore",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYUZUTmtNRkJkX1JfU19BdmpfVVdJN1BrZ1Ezc1dFV2Zjc2xjQlJCTFBrek50ZDl2VFpWT1ZyNTZGUHFQVnplNk1iUFQ1TUhjNGtQcjlid01TbEtMSVNpZXRsOW1UUnlkTWhib2FZeWkwMkNyb3ZOdzdCVQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 23:19:25 GMT",
+        "title_clean": "Ficha de Jogo SC Covilhã 0-3 Atlético CP :: Liga 3 Placard Série B 2026/27",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiigFBVV95cUxNOXdsSlBMb3BfWk5ZbXg4ejA5TWVIX0JTVE1xS2pha183aUltblU2S3FEclY4NEhuXzJkdXBZNEtWN0xnbWI0VThmSHRtSnJQaThCc2g1VjFDOC1SdU5uM0JzTlFWTTJSMTFaY2NjYmY5dkhidVJGYjR2QmZuNDZ3X1pfMm8wLVZSb0E?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 17:51:02 GMT",
+        "title_clean": "Atlético CP vence na visita ao SC Covilhã",
+        "entities": [
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
