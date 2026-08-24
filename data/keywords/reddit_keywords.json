@@ -3686,5 +3686,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vx02ag",
+        "source": "reddit",
+        "created_at": "2026-08-24 11:24:47",
+        "title_clean": "Pokémon TCG",
+        "clean_text": "Hello! Alguém joga Pokémon TCG na Covilhã? E se sim, onde costumam jogar? Thank you!",
+        "keywords": [
+            {
+                "keyword": "hello alguém joga pokémon",
+                "score": 0.7984
+            },
+            {
+                "keyword": "alguém joga pokémon tcg",
+                "score": 0.7638
+            },
+            {
+                "keyword": "alguém joga pokémon",
+                "score": 0.6974
+            },
+            {
+                "keyword": "joga pokémon tcg",
+                "score": 0.64
+            },
+            {
+                "keyword": "pokémon tcg",
+                "score": 0.637
+            },
+            {
+                "keyword": "joga pokémon",
+                "score": 0.6284
+            },
+            {
+                "keyword": "hello alguém joga",
+                "score": 0.598
+            },
+            {
+                "keyword": "jogar thank",
+                "score": 0.5282
+            },
+            {
+                "keyword": "costumam jogar thank you",
+                "score": 0.5207
+            },
+            {
+                "keyword": "alguém joga",
+                "score": 0.4901
+            }
+        ],
+        "source_name": null
     }
 ]

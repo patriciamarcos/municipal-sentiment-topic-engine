@@ -142032,6 +142032,158 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiakFVX3lxTFBldVVhZGh4d1k2NGliRHItSC1TVEZIT3dzQk04b1pNaXRBYzNLZGtVWmQ4dnZHTjdqN3FLLVpGMlY0eUYxRGhQVzBxR2pUa3RsR3NvbnJaenU5UTBWNVFhYnoxVzVVSTRtbWc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 12:13:52 GMT",
+        "title_clean": "FIADA – FEIRA INTERNACIONAL DE ARTESANATO, DESIGN E ARTES REGRESSA À COVILHÃ ENTRE 3 E 6 DE SETEMBRO",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Vereadora",
+                "label": "PER"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas da Rainha",
+                "label": "LOC"
+            },
+            {
+                "text": "Peniche",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Bilbao",
+                "label": "LOC"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "MODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro e Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco FIADA",
+                "label": "LOC"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orque",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            },
+            {
+                "text": "Infraestruturas e Concessões da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Marcelo Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Instituto do Emprego e Formação Profissional",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confeção e Lanifícios",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0hYdS1vUTFnY2FFQWRBNzI4Zm9qbWtYcGV0VVRzYkhER3FKUDRZcnNxQUVJRG5oVkZrR2U5VVNWYmE3bzRtZl9NUURlYVNScXJPbVU3Yk1EZkZqS2lsci0wTWFBREVxRUVxR2pKclVaQlpQWWFkTmQyUXV1d2RsQ19BUUlpQVlSX1gw?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 07:00:00 GMT",
+        "title_clean": "Fotografias :: SC Covilhã 0-3 Atlético CP :: Liga 3 Placard Série B 2026/27 ::",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -143021,6 +143173,18 @@
         "created_at": "2026-08-22 04:09:53",
         "title_clean": "Indicação de bares",
         "entities": []
+    },
+    {
+        "record_id": "reddit_1vx02ag",
+        "source": "reddit",
+        "created_at": "2026-08-24 11:24:47",
+        "title_clean": "Pokémon TCG",
+        "entities": [
+            {
+                "text": "Covil",
+                "label": "LOC"
+            }
+        ]
     },
     {
         "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
@@ -146627,6 +146791,45 @@
                 "label": "LOC"
             }
         ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:iukflcum7vy4p2w2c2i4qkgb/app.bsky.feed.post/3mtthg5w5ms2c",
+        "source": "bluesky",
+        "created_at": "2026-08-24T13:55:53.942Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Infante D Henrique Lisbon",
+                "label": "PER"
+            },
+            {
+                "text": "National Pantheon Lisbon Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Prince Henry the Navigator",
+                "label": "PER"
+            },
+            {
+                "text": "Monastery of Batalha",
+                "label": "LOC"
+            },
+            {
+                "text": "João I",
+                "label": "PER"
+            },
+            {
+                "text": "Philippa of Lancaster",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mttbl4tizc2r",
+        "source": "bluesky",
+        "created_at": "2026-08-24T12:11:18.144Z",
+        "title_clean": "",
+        "entities": []
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",

@@ -8709,5 +8709,89 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:iukflcum7vy4p2w2c2i4qkgb/app.bsky.feed.post/3mtthg5w5ms2c",
+        "source": "bluesky",
+        "created_at": "2026-08-24T13:55:53.942Z",
+        "title_clean": "",
+        "clean_text": "Lisbon Portugal Infante D Henrique Lisbon monument in the National Pantheon Lisbon Portugal. He was also known as Prince Henry the Navigator and lived between 1394 and 1460, his body lies at the Monastery of Batalha. Son of King João I and Philippa of Lancaster, Duke of Viseu, Lord of Covilhã.",
+        "keywords": [
+            {
+                "keyword": "pantheon lisbon portugal he",
+                "score": 0.6466
+            },
+            {
+                "keyword": "national pantheon lisbon portugal",
+                "score": 0.6463
+            },
+            {
+                "keyword": "pantheon lisbon portugal",
+                "score": 0.6401
+            },
+            {
+                "keyword": "lisbon portugal he was",
+                "score": 0.5769
+            },
+            {
+                "keyword": "portugal he was also",
+                "score": 0.5743
+            },
+            {
+                "keyword": "portugal he was",
+                "score": 0.5465
+            },
+            {
+                "keyword": "son of king",
+                "score": 0.5453
+            },
+            {
+                "keyword": "portugal infante henrique",
+                "score": 0.5323
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mttbl4tizc2r",
+        "source": "bluesky",
+        "created_at": "2026-08-24T12:11:18.144Z",
+        "title_clean": "",
+        "clean_text": "Operações de fiscalização rodoviária decorreram entre 17 e 24 de agosto e incluíram sete ações com 109 condutores fiscalizados. 👇 on-centro.pt/index.php/pt...",
+        "keywords": [
+            {
+                "keyword": "operações fiscalização rodoviária decorreram",
+                "score": 0.7404
+            },
+            {
+                "keyword": "fiscalização rodoviária decorreram 17",
+                "score": 0.6842
+            },
+            {
+                "keyword": "fiscalização rodoviária decorreram",
+                "score": 0.6763
+            },
+            {
+                "keyword": "operações fiscalização rodoviária",
+                "score": 0.6752
+            },
+            {
+                "keyword": "109 condutores fiscalizados on",
+                "score": 0.6608
+            },
+            {
+                "keyword": "ações 109 condutores fiscalizados",
+                "score": 0.6558
+            },
+            {
+                "keyword": "109 condutores fiscalizados",
+                "score": 0.6395
+            },
+            {
+                "keyword": "fiscalização rodoviária",
+                "score": 0.6195
+            }
+        ],
+        "source_name": null
     }
 ]
