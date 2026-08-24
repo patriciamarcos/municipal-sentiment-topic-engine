@@ -143064,5 +143064,305 @@
             }
         ],
         "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGZlcEx5Y0lhYk9kaHdzZUFQOVh3aDRsZXBFMFgtdG1UREp5YjhNMTlieU01TUFneFFZOW1Ud21La19BRTRZbWdhQ0tleFF3MVhnem1KZC01ZWcxSnZNRXg5czdDUkRBc3ZSdFVTTU5rT0gxZmlNd21CVHBVTm02OGRGS3hCMW50LUFRNmc4Z0VRenBLRks2SmdBeWYzRGFydC0yREN5Ymt1WjBGY21mVTJRWVpuTTR2OGZWekl4Mi1KbGUwdlE?oc=5",
+        "source": "news",
+        "created_at": "Sun, 23 Aug 2026 12:33:17 GMT",
+        "title_clean": "Exposição “Azuis Transitórios” e “Artes e Ofícios” na Biblioteca Municipal da Covilhã",
+        "clean_text": "Exposição \"Azuis Transitórios\" e \"Artes e Ofícios\" na Biblioteca Municipal da Covilhã. A exposição \"Azuis Transitórios\" de Hélder Nóbrega e \"Artes e Ofícios\" da autoria de António Ervedeiro, estão patentes até dia 31 de agosto, na Biblioteca Municipal da Covilhã. A exposição \"Azuis Transitórios\" é um trabalho em que os tons de azul, a luz, a pedra e o tempo se cruzam, numa mostra que convida à contemplação e à descoberta de diferentes perspetivas sobre a paisagem, a arquitetura e os instantes que se transformam perante o olhar. Quanto à exposição \"Artes e Ofícios\", esta é uma mostra que presta homenagem às profissões, aos gestos e às tradições que marcaram gerações. Através de uma linguagem artística vibrante e cheia de cor, cada obra transporta para o quotidiano de outros tempos, valorizando o património humano e cultural. Recorde-se que ambas as exposições podem ser visitadas na Biblioteca Municipal da Covilhã.",
+        "keywords": [
+            {
+                "keyword": "exposição azuis transitórios artes",
+                "score": 0.8225
+            },
+            {
+                "keyword": "exposição azuis",
+                "score": 0.7971
+            },
+            {
+                "keyword": "azuis transitórios artes ofícios",
+                "score": 0.7606
+            },
+            {
+                "keyword": "azuis transitórios artes",
+                "score": 0.7512
+            },
+            {
+                "keyword": "exposição azuis transitórios",
+                "score": 0.7478
+            },
+            {
+                "keyword": "exposição azuis transitórios trabalho",
+                "score": 0.7172
+            },
+            {
+                "keyword": "exposição azuis transitórios hélder",
+                "score": 0.7165
+            },
+            {
+                "keyword": "azul luz pedra tempo",
+                "score": 0.6531
+            },
+            {
+                "keyword": "trabalho tons azul luz",
+                "score": 0.623
+            },
+            {
+                "keyword": "trabalho tons azul",
+                "score": 0.6157
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxQQU1vU3lTVmxBcno1SXN3Si1vNzl1Wmt6ZjZjMS1xWGN4MUpQMFNuSXRmMHpMM0RBbWhteHJvUUtjaEJLbjV1cEZDbHVEdzhhTzRzc25rYy1pd3hGTzBJd0JVRXg5RTdtMGdGM1NkNk02dW1hRlBHNGVldWg2TjM4YjVtS0c0cnlscnNITnlOMkJEejQwQl9KWWVNVGQwd1hDRzMzNWdlVm5abWtJY0JVWU1udmwyZllyQ0hsUVJ5dzZQMFlDZEwzWHRDbw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 23 Aug 2026 16:35:17 GMT",
+        "title_clean": "COVILHÃ: Universidade da Beira Interior descobre nova abordagem terapêutica para AVC",
+        "clean_text": "COVILHÃ: Universidade da Beira Interior descobre nova abordagem terapêutica para AVC",
+        "keywords": [
+            {
+                "keyword": "nova abordagem terapêutica avc",
+                "score": 0.7015
+            },
+            {
+                "keyword": "descobre nova abordagem terapêutica",
+                "score": 0.6888
+            },
+            {
+                "keyword": "abordagem terapêutica avc",
+                "score": 0.6779
+            },
+            {
+                "keyword": "nova abordagem terapêutica",
+                "score": 0.6465
+            },
+            {
+                "keyword": "abordagem terapêutica",
+                "score": 0.6283
+            },
+            {
+                "keyword": "terapêutica avc",
+                "score": 0.5965
+            },
+            {
+                "keyword": "interior descobre nova abordagem",
+                "score": 0.5109
+            },
+            {
+                "keyword": "descobre nova abordagem",
+                "score": 0.4546
+            },
+            {
+                "keyword": "interior descobre",
+                "score": 0.4531
+            },
+            {
+                "keyword": "interior descobre nova",
+                "score": 0.4182
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaHhtU2ZOZFcxdzUxVnFNYVM1V2YwM3NRcGlpOEQ1R0JrQ2VLU0hqTFc1NUlhaTlGc1FpdnRkMjRYYl84WnVXYUNLUTR1WGNFTkdDUlBSQ1d0NHhoVmY3X0o0Q2pnSHlPeXNhZmJGXzR1YU5Ea2p4bzJqck1ObFVQUHRMbXhOUmpGWms4SDBFY0ZGOTlDa0dlN09EUlFYRGN0T3RPRlYtaHJkWnlBWDI0dDBJTFdoUy1XX29mTlZKNXI0b21xXzJNR0htZ1lseUJROEh6Q1B6MmxINGtyWmtoMGZLYUZMektJOHo1RHNrY3E?oc=5",
+        "source": "news",
+        "created_at": "Wed, 19 Aug 2026 15:12:44 GMT",
+        "title_clean": "Grande Rota da Transumância 2026 tem calendário fechado com etapas em Gouveia, Castro Daire, Guarda, Fundão, Covilhã e Celorico da Beira",
+        "clean_text": "Grande Rota da Transumância 2026 tem calendário fechado com etapas em Gouveia, Castro Daire, Guarda, Fundão, Covilhã e Celorico da Beira. A Grande Rota da Transumância 2026 já tem definidas as datas das dez etapas que integram o calendário deste ano, numa iniciativa que percorre diferentes territórios do Centro de Portugal e pretende valorizar as tradições, paisagens e comunidades ligadas à transumância. Com o mote \"Junta-te ao rebanho!\", a edição deste ano contempla 10 etapas, 10 aldeias e mais de 100 mil passos, proporcionando aos participantes a oportunidade de acompanhar os rebanhos por percursos que atravessam paisagens rurais e localidades marcadas por tradições seculares. Depois das primeiras quatro etapas, realizadas em Castelo Branco, Idanha-a-Nova, Seia e Manteigas, seguem-se, no dia 23 de agosto, a etapa entre o Vale do Rossim e Vila Nova de Tazem, em Gouveia, integrada na \"Transumância dos rebanhos\". No dia seguinte, 24 de agosto, a Grande Rota passa por Castro Daire, entre o Lugar do Rodeio e Vilar, com a \"Descida da Serra de Montemuro\". O calendário prossegue no dia 13 de setembro, na Guarda, com a etapa em Fernão Joanes, associada à Festa da Transumância. No dia 20 de setembro, será a vez do Fundão, com o percurso entre o Fundão e Alpedrinha, dedicado aos \"Chocalhos\". Já no dia 4 de outubro, a iniciativa chega à Covilhã, com uma etapa entre as Penhas da Saúde e Cortes do Meio, dedicada aos \"Pastores, história e tradição de um povo\". A última etapa está prevista para dia 25 de outubro, em Celorico da Beira, com o \"Caminho da Feira\", na Carrapichana, estando o percurso ainda por definir. A organização destaca a importância da Grande Rota da Transumância enquanto forma de preservar e valorizar a ligação entre as comunidades e a natureza, através de experiências que cruzam património cultural, paisagem e tradições locais. A participação nas etapas é gratuita, mas a inscrição é obrigatória por motivos organizacionais, logísticos e de seguro. O número de participantes é limitado e as inscrições vão sendo disponibilizadas à medida que se aproximam as respetivas datas.",
+        "keywords": [
+            {
+                "keyword": "rota transumância 2026 calendário",
+                "score": 0.7268
+            },
+            {
+                "keyword": "transumância 2026 calendário",
+                "score": 0.7022
+            },
+            {
+                "keyword": "transumância 2026 calendário fechado",
+                "score": 0.6997
+            },
+            {
+                "keyword": "2026 calendário fechado etapas",
+                "score": 0.6829
+            },
+            {
+                "keyword": "2026 calendário fechado",
+                "score": 0.6466
+            },
+            {
+                "keyword": "calendário fechado etapas gouveia",
+                "score": 0.6405
+            },
+            {
+                "keyword": "2026 calendário",
+                "score": 0.6241
+            },
+            {
+                "keyword": "dez etapas integram calendário",
+                "score": 0.6139
+            },
+            {
+                "keyword": "montemuro calendário prossegue",
+                "score": 0.6089
+            },
+            {
+                "keyword": "montemuro calendário prossegue 13",
+                "score": 0.6088
+            }
+        ],
+        "source_name": "MaisBeiras Informação"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTk5SlJiYjIxRkFHNDg4M0VXcFFBcGR1ZlVRNjJlbDdPeVZzclM3N21qMWxjS3BpcjdhdmtXR3QwM2NtVnJPQXVSYk15V2FnYWtDUzQwWGxxdEIwUmtKTGpySFpuQVQ4ZkR3MHFBV3l5c1VFTmdhdEtGdGNheENyaE1uVGZfNnEwa1hxcUV0a3hodjhVR0huWUl4ZjJYWms?oc=5",
+        "source": "news",
+        "created_at": "Wed, 19 Aug 2026 09:14:23 GMT",
+        "title_clean": "Ana Bacalhau celebra 40 anos da UBI com concerto no TMC~",
+        "clean_text": "Ana Bacalhau celebra 40 anos da UBI com concerto no TMC~. Durante o mês de setembro, o Teatro Municipal da Covilhã (TMC~) apresenta um conjunto diversificado de espetáculos de diferentes disciplinas artísticas, com destaque para o concerto de Ana Bacalhau, comemorativo dos 40 anos da Universidade da Beira Interior (UBI). No dia 12 de setembro, às 21:30, o TMC~ apresenta \"A Luminosa Violência da Perfeição\", espetáculo de dança criado pelo coreógrafo português Daniel Matos. A 19 de setembro, pelas 21:30, estreia-se em concerto no Teatro Municipal, uma das vozes mais carismáticas da música portuguesa: Ana Bacalhau. Este espetáculo integra as comemorações do 40º aniversário da UBI. Após o estrondoso sucesso dos Deolinda, Ana Bacalhau enveredou por uma carreira a solo, continuando a surpreender com a sua entrega única no palco, sempre com a intensidade de quem vive cada performance como se fosse a última. Para além da sua poderosa presença vocal, a artista tem vindo a afirmar-se cada vez mais na composição das suas próprias músicas e letras. No dia 23, o TMC~ recebe, às 21:30, o Concerto de Abertura do Ano Letivo 2026/27, com a participação do Ensemble de Percussão da EPABI e do Conservatório de Música da Covilhã, tendo como convidado o vibrafonista Eduardo Cardinho, artista de reconhecimento internacional, Bernardo Ferreira, vencedor do primeiro prémio no Concurso Jovens Músicos (edição de 2026) e Igor Sobral, vencedor do concurso interno da EPABI, bem como com a performance de outros dois alunos premiados no concurso internacional Síntese. No dia 24, pelas 21:30, o foyer do balcão recebe Síntese - Grupo de Música Contemporânea, que se estreia no TMC~ para um concerto, intitulado \"Revelações e Metamorfoses\", de celebração de 20 anos do projeto. Neste espetáculo, totalmente acústico, serão interpretadas obras de compositores portugueses ou radicados em Portugal, sendo que se realiza no âmbito do VERTIGO - Territórios Sonoros Expandidos. Dia 26, às 21h30, a companhia Selva, de Rosana Ribeiro, coreógrafa nascida em Lisboa e sediada em Salzburgo, sobe ao palco do TMC~ com \"Tidal Wave\", um espetáculo de dança em dueto hipnótico onde a contemplação e o diálogo dos microcosmos se transformam em partilha e ressonância. No dia 27, pelas 16h00, o TMC~ acolhe a 2ª Gala do Grupo Desportivo da Mata, que assinala os 65 anos de história, tradição e união desta histórica coletividade covilhanense. Ainda no mês de setembro, o cinema no TMC~ reparte-se entre um filme realizado na Beira e um multipremiado filme internacional. \"Génesis\", dos fundanenses Marta Ramos e José Oliveira, será exibido no dia 15 de setembro, às 21:30, com uma conversa pós-filme com os realizadores. No dia 29, será a vez de \"Sirât\", multipremiado filme de Oliver Laxe. Os bilhetes podem ser adquiridos a partir das 14:30, do dia 18 de agosto, nas bilheteiras do TMC~, Ticketline ou Worten.",
+        "keywords": [
+            {
+                "keyword": "artísticas destaque concerto ana",
+                "score": 0.687
+            },
+            {
+                "keyword": "destaque concerto ana",
+                "score": 0.6802
+            },
+            {
+                "keyword": "concerto tmc mês teatro",
+                "score": 0.6576
+            },
+            {
+                "keyword": "estreia tmc concerto intitulado",
+                "score": 0.6505
+            },
+            {
+                "keyword": "tmc mês teatro",
+                "score": 0.6336
+            },
+            {
+                "keyword": "tmc concerto",
+                "score": 0.63
+            },
+            {
+                "keyword": "espetáculo integra comemorações 40º",
+                "score": 0.6239
+            },
+            {
+                "keyword": "ubi concerto tmc mês",
+                "score": 0.6214
+            },
+            {
+                "keyword": "21 30 concerto",
+                "score": 0.6165
+            },
+            {
+                "keyword": "celebra 40 ubi concerto",
+                "score": 0.612
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjRKeXo0ZlpZV3JwdzZQdTNiU3FEQnJJWTFEcmxCY0ViS0RQU3pkOE5rS0tySzlLVEhMM1NTaVJMZm1UeXZMLXctNjQ4bjU3c1JZcDM0Vkc5TFFBOFltakZxNEoySjFCb2RLNXFyMHFoZElnLWJwdTZEREp3RzI4WWVsUTd2aUE4TGdnMlE2OENrUnRISUZPSDhFRTFkZTlD0gGmAUFVX3lxTFBTNEJ0UV9KVHAxY1lFYW9WS1JsYktaNEVDdThSOG55WGJBYUZmTkVKWHdpMk8wRHNRMGZMZm1od09WdGtOci16X3loYS01RTFnVkNwWmU5R3hlbHNtZ3MxRTA0bE5sYlhVX1pGeWNUQVpEck9aSGR4ODZEQmMwaVV3NmV1NDVmM0EzbktqRW5pNFhRemV2TWJZeEt6WklJWFRTVWJ1TXc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 07:28:18 GMT",
+        "title_clean": "Quase toda a região Centro e Norte estão hoje em risco máximo de incêndio - CentroTV",
+        "clean_text": "Quase toda a região Centro e Norte estão hoje em risco máximo de incêndio - CentroTV. Quase todo o interior Norte e Centro do país está hoje em perigo máximo de incêndio, num dia em que está prevista uma pequena descida da temperatura máxima, sobretudo no litoral oeste, e uma pequena subida no nordeste transmontano. Segundo o Instituto Português do Mar e da Atmosfera (IPMA) prevê aguaceiros, estão em perigo muito elevado cerca de cinquenta concelhos nos distritos de Vila Real, Viana do Castelo, Braga, Porto, Viseu, Coimbra, Aveiro, Leiria, Santarém e Faro. Em perigo elevado estão cerca de 40 municípios nos distritos de Faro, Beja, Évora, Portalegre, Setúbal, Lisboa, Santarém e Leiria. O perigo de incêndio rural determinado pelo IPMA tem cinco níveis, que vão de reduzido a máximo. Os cálculos são obtidos a partir da temperatura do ar, humidade relativa, velocidade do vento e quantidade de precipitação nas 24 horas anteriores. Para hoje o IPMA prevê um dia com possibilidade de aguaceiros no interior Norte e Centro, com descida da temperatura máxima no litoral oeste e pequena subida no nordeste transmontano. Por causa do calor, há nove distritos do Norte do país sob aviso laranja (o segundo mais grave). A cidade mais quente será Braga, que vai chegar aos 40 graus, Lisboa aos 32, Porto aos 31, Coimbra aos 37 e Faro não passará dos 29 graus. As temperaturas mínimas vão variar entre os 17 graus (Leiria) e os 24 graus (Portalegre e Castelo Branco).",
+        "keywords": [
+            {
+                "keyword": "centro país hoje perigo",
+                "score": 0.7149
+            },
+            {
+                "keyword": "hoje perigo máximo incêndio",
+                "score": 0.6952
+            },
+            {
+                "keyword": "perigo máximo incêndio prevista",
+                "score": 0.6945
+            },
+            {
+                "keyword": "hoje risco máximo incêndio",
+                "score": 0.6908
+            },
+            {
+                "keyword": "centro norte hoje risco",
+                "score": 0.6659
+            },
+            {
+                "keyword": "perigo máximo incêndio",
+                "score": 0.6622
+            },
+            {
+                "keyword": "leiria perigo incêndio rural",
+                "score": 0.6517
+            },
+            {
+                "keyword": "perigo incêndio rural determinado",
+                "score": 0.6498
+            },
+            {
+                "keyword": "norte hoje risco máximo",
+                "score": 0.6454
+            },
+            {
+                "keyword": "país hoje perigo máximo",
+                "score": 0.6401
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMidkFVX3lxTFBPR2JkUVE5MklOQXFZX0hFOGpZUFp2aEZyUXFIT1ZDZlhoZ3RzV2wtZ0w2eHdjb2xYZjJzaEVsY1A0MzlCN3BxSWZuX2ZlR1JNLTIxSENRRktPVVRtLUd1MkotWnBId1pwZUhvZWpEUlQyOXM4VVE?oc=5",
+        "source": "news",
+        "created_at": "Sun, 23 Aug 2026 18:42:59 GMT",
+        "title_clean": "Dani Matos :: Liga 3 Placard Série B 2026/27 - SC Covilhã - Perfil do Treinador",
+        "clean_text": "Dani Matos :: Liga 3 Placard Série B 2026/27 - SC Covilhã - Perfil do Treinador",
+        "keywords": [
+            {
+                "keyword": "liga placard série 2026",
+                "score": 0.7047
+            },
+            {
+                "keyword": "liga placard série",
+                "score": 0.6226
+            },
+            {
+                "keyword": "matos liga placard série",
+                "score": 0.6101
+            },
+            {
+                "keyword": "liga placard",
+                "score": 0.5534
+            },
+            {
+                "keyword": "série 2026 27",
+                "score": 0.5186
+            },
+            {
+                "keyword": "placard série 2026 27",
+                "score": 0.5142
+            },
+            {
+                "keyword": "dani matos liga placard",
+                "score": 0.5038
+            },
+            {
+                "keyword": "série 2026 27 sc",
+                "score": 0.496
+            },
+            {
+                "keyword": "placard série 2026",
+                "score": 0.4775
+            },
+            {
+                "keyword": "série 2026",
+                "score": 0.4694
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]

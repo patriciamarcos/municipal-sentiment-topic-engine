@@ -141728,6 +141728,310 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGZlcEx5Y0lhYk9kaHdzZUFQOVh3aDRsZXBFMFgtdG1UREp5YjhNMTlieU01TUFneFFZOW1Ud21La19BRTRZbWdhQ0tleFF3MVhnem1KZC01ZWcxSnZNRXg5czdDUkRBc3ZSdFVTTU5rT0gxZmlNd21CVHBVTm02OGRGS3hCMW50LUFRNmc4Z0VRenBLRks2SmdBeWYzRGFydC0yREN5Ymt1WjBGY21mVTJRWVpuTTR2OGZWekl4Mi1KbGUwdlE?oc=5",
+        "source": "news",
+        "created_at": "Sun, 23 Aug 2026 12:33:17 GMT",
+        "title_clean": "Exposição “Azuis Transitórios” e “Artes e Ofícios” na Biblioteca Municipal da Covilhã",
+        "entities": [
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélder Nóbrega",
+                "label": "PER"
+            },
+            {
+                "text": "Antón",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxQQU1vU3lTVmxBcno1SXN3Si1vNzl1Wmt6ZjZjMS1xWGN4MUpQMFNuSXRmMHpMM0RBbWhteHJvUUtjaEJLbjV1cEZDbHVEdzhhTzRzc25rYy1pd3hGTzBJd0JVRXg5RTdtMGdGM1NkNk02dW1hRlBHNGVldWg2TjM4YjVtS0c0cnlscnNITnlOMkJEejQwQl9KWWVNVGQwd1hDRzMzNWdlVm5abWtJY0JVWU1udmwyZllyQ0hsUVJ5dzZQMFlDZEwzWHRDbw?oc=5",
+        "source": "news",
+        "created_at": "Sun, 23 Aug 2026 16:35:17 GMT",
+        "title_clean": "COVILHÃ: Universidade da Beira Interior descobre nova abordagem terapêutica para AVC",
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "COVILH",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaHhtU2ZOZFcxdzUxVnFNYVM1V2YwM3NRcGlpOEQ1R0JrQ2VLU0hqTFc1NUlhaTlGc1FpdnRkMjRYYl84WnVXYUNLUTR1WGNFTkdDUlBSQ1d0NHhoVmY3X0o0Q2pnSHlPeXNhZmJGXzR1YU5Ea2p4bzJqck1ObFVQUHRMbXhOUmpGWms4SDBFY0ZGOTlDa0dlN09EUlFYRGN0T3RPRlYtaHJkWnlBWDI0dDBJTFdoUy1XX29mTlZKNXI0b21xXzJNR0htZ1lseUJROEh6Q1B6MmxINGtyWmtoMGZLYUZMektJOHo1RHNrY3E?oc=5",
+        "source": "news",
+        "created_at": "Wed, 19 Aug 2026 15:12:44 GMT",
+        "title_clean": "Grande Rota da Transumância 2026 tem calendário fechado com etapas em Gouveia, Castro Daire, Guarda, Fundão, Covilhã e Celorico da Beira",
+        "entities": [
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Castro Daire",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Idanha-a-Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Vale do Rossim",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Nova de Tazem",
+                "label": "LOC"
+            },
+            {
+                "text": "Lugar do Rodeio",
+                "label": "LOC"
+            },
+            {
+                "text": "Vilar",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra de Montemuro",
+                "label": "LOC"
+            },
+            {
+                "text": "Fernão Joanes",
+                "label": "LOC"
+            },
+            {
+                "text": "Alpedrinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Corte",
+                "label": "LOC"
+            },
+            {
+                "text": "Caminho da Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Carrapichana",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTk5SlJiYjIxRkFHNDg4M0VXcFFBcGR1ZlVRNjJlbDdPeVZzclM3N21qMWxjS3BpcjdhdmtXR3QwM2NtVnJPQXVSYk15V2FnYWtDUzQwWGxxdEIwUmtKTGpySFpuQVQ4ZkR3MHFBV3l5c1VFTmdhdEtGdGNheENyaE1uVGZfNnEwa1hxcUV0a3hodjhVR0huWUl4ZjJYWms?oc=5",
+        "source": "news",
+        "created_at": "Wed, 19 Aug 2026 09:14:23 GMT",
+        "title_clean": "Ana Bacalhau celebra 40 anos da UBI com concerto no TMC~",
+        "entities": [
+            {
+                "text": "Ana Bacalhau",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Daniel Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Ensemble de Percussão",
+                "label": "ORG"
+            },
+            {
+                "text": "EPABI",
+                "label": "ORG"
+            },
+            {
+                "text": "Conservatório de Música da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Eduardo Cardinho",
+                "label": "PER"
+            },
+            {
+                "text": "Bernardo Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Igor Sobral",
+                "label": "PER"
+            },
+            {
+                "text": "Música Contemporânea",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Selva",
+                "label": "ORG"
+            },
+            {
+                "text": "Rosana Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Salzburgo",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Desportivo da Mata",
+                "label": "ORG"
+            },
+            {
+                "text": "Marta Ramos",
+                "label": "PER"
+            },
+            {
+                "text": "José Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Oliver Laxe",
+                "label": "PER"
+            },
+            {
+                "text": "Ticketline",
+                "label": "ORG"
+            },
+            {
+                "text": "Worten",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjRKeXo0ZlpZV3JwdzZQdTNiU3FEQnJJWTFEcmxCY0ViS0RQU3pkOE5rS0tySzlLVEhMM1NTaVJMZm1UeXZMLXctNjQ4bjU3c1JZcDM0Vkc5TFFBOFltakZxNEoySjFCb2RLNXFyMHFoZElnLWJwdTZEREp3RzI4WWVsUTd2aUE4TGdnMlE2OENrUnRISUZPSDhFRTFkZTlD0gGmAUFVX3lxTFBTNEJ0UV9KVHAxY1lFYW9WS1JsYktaNEVDdThSOG55WGJBYUZmTkVKWHdpMk8wRHNRMGZMZm1od09WdGtOci16X3loYS01RTFnVkNwWmU5R3hlbHNtZ3MxRTA0bE5sYlhVX1pGeWNUQVpEck9aSGR4ODZEQmMwaVV3NmV1NDVmM0EzbktqRW5pNFhRemV2TWJZeEt6WklJWFRTVWJ1TXc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 18 Aug 2026 07:28:18 GMT",
+        "title_clean": "Quase toda a região Centro e Norte estão hoje em risco máximo de incêndio - CentroTV",
+        "entities": [
+            {
+                "text": "Instituto Português do Mar e da Atmosfera",
+                "label": "ORG"
+            },
+            {
+                "text": "Vila Real",
+                "label": "LOC"
+            },
+            {
+                "text": "Viana do Castelo",
+                "label": "LOC"
+            },
+            {
+                "text": "Braga",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Leiria",
+                "label": "LOC"
+            },
+            {
+                "text": "Santarém",
+                "label": "LOC"
+            },
+            {
+                "text": "Évora",
+                "label": "LOC"
+            },
+            {
+                "text": "Portalegre",
+                "label": "LOC"
+            },
+            {
+                "text": "Setúbal",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMidkFVX3lxTFBPR2JkUVE5MklOQXFZX0hFOGpZUFp2aEZyUXFIT1ZDZlhoZ3RzV2wtZ0w2eHdjb2xYZjJzaEVsY1A0MzlCN3BxSWZuX2ZlR1JNLTIxSENRRktPVVRtLUd1MkotWnBId1pwZUhvZWpEUlQyOXM4VVE?oc=5",
+        "source": "news",
+        "created_at": "Sun, 23 Aug 2026 18:42:59 GMT",
+        "title_clean": "Dani Matos :: Liga 3 Placard Série B 2026/27 - SC Covilhã - Perfil do Treinador",
+        "entities": [
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
