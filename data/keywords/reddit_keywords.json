@@ -3736,5 +3736,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1vxex9g",
+        "source": "reddit",
+        "created_at": "2026-08-24 20:44:32",
+        "title_clean": "Mecânicos",
+        "clean_text": "Que oficinas costumam frequentar ? Queria ver mais opções acho que a minha anda me a roubar",
+        "keywords": [
+            {
+                "keyword": "oficinas costumam frequentar queria",
+                "score": 0.7821
+            },
+            {
+                "keyword": "oficinas costumam frequentar",
+                "score": 0.743
+            },
+            {
+                "keyword": "oficinas costumam",
+                "score": 0.7414
+            },
+            {
+                "keyword": "frequentar queria ver opções",
+                "score": 0.5268
+            },
+            {
+                "keyword": "queria ver opções",
+                "score": 0.4662
+            },
+            {
+                "keyword": "queria ver opções acho",
+                "score": 0.4458
+            },
+            {
+                "keyword": "costumam frequentar",
+                "score": 0.417
+            },
+            {
+                "keyword": "costumam frequentar queria ver",
+                "score": 0.4167
+            },
+            {
+                "keyword": "ver opções acho",
+                "score": 0.4041
+            },
+            {
+                "keyword": "ver opções",
+                "score": 0.3828
+            }
+        ],
+        "source_name": null
     }
 ]

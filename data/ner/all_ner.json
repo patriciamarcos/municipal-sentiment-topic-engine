@@ -142184,6 +142184,502 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkF1NnVTcnAycUhDQThfT3BJOGRTVG12bndMck5MUlU0alh3cmZmWWthSGQyeEJSc1VJcE1KVVRHaW1vQWpGYVRKMmhNVzNqTGU5MXdnSVJ2UDM2anBOendZd3dtY25QTVN0dUNZSWNac1F0eEd1Nm9GYWkzSUwxUFV4LXdDRURWdV95TV9udnZ0SEk?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 07:38:00 GMT",
+        "title_clean": "Mais de 500 contributos para uma Covilhã Capital da Cultura",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Capital",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMnM0djZROURaZVNMZDlrQ3NmZVQzSy04M09vZllRd0ZUS0hqTXZROUVoNWs1Xy1hSGpvdVBSWElWQUdqM3NxX180bjMtR3NMR042dXNVeEtBQWlsRUR3VzRidUtPY1ZRTmRJ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 08:17:00 GMT",
+        "title_clean": "Bolas paradas tramam serranos",
+        "entities": [
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Jailson",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Hidalgo",
+                "label": "PER"
+            },
+            {
+                "text": "Gustavo Galil",
+                "label": "PER"
+            },
+            {
+                "text": "João Martins",
+                "label": "PER"
+            },
+            {
+                "text": "Bernardo Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Janico",
+                "label": "PER"
+            },
+            {
+                "text": "Ricardo Dias",
+                "label": "PER"
+            },
+            {
+                "text": "Fábio Cruz",
+                "label": "PER"
+            },
+            {
+                "text": "Caio Santana",
+                "label": "PER"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "ORG"
+            },
+            {
+                "text": "Caleb",
+                "label": "PER"
+            },
+            {
+                "text": "Suker",
+                "label": "PER"
+            },
+            {
+                "text": "Traoré",
+                "label": "PER"
+            },
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "Lusitânia de Évora",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua",
+                "label": "ORG"
+            },
+            {
+                "text": "Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipe Pinto",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMibkFVX3lxTE1XaTB3RW5pbmtIVXR5bFJxQm5tNEZxYWZhSjRmdnBYVmQ5QmdSODAxU0dVRXVGck9wYUpGeDl3LXptdzdJdEx0UWQ5T2Fhc1Y4amU3ZnVZSWFyZFNQNWhIYmJwQV9HRThmVmdVdG5n?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 09:58:00 GMT",
+        "title_clean": "São 1344 os novos alunos da UBI",
+        "entities": [
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade Politécnica da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministério da Educação, Ciência e Inovação",
+                "label": "ORG"
+            },
+            {
+                "text": "Joaquim Brigas",
+                "label": "PER"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Politécnico da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade Politécnica de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior de Saúde Dr. Lopes Dias",
+                "label": "ORG"
+            },
+            {
+                "text": "Image",
+                "label": "ORG"
+            },
+            {
+                "text": "Radioterapia",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior de Artes Aplicadas",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior de Educação",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior de Gestão",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior Agrária",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Superior de Tecnologia",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMie0FVX3lxTE83ZFFDazdiUjhCU1pwUlhDWVNScE5CME4zVHVCSHNaT0tIWmU5bDJLMUNqLVhCbmkzVC0yeVFPMmFwTDdhc3FTU3NxUGtEOGtBaHVxN3NCeXpQbFBmVVVWZlVzanJmYlVQRkNLbm10b1dlamxZaU5jX09uaw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 12:56:00 GMT",
+        "title_clean": "Petição por um Centro Oncológico na Beira",
+        "entities": [
+            {
+                "text": "Interior do",
+                "label": "LOC"
+            },
+            {
+                "text": "Magna Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Assembleia da República",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro On",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Ministério da Saúde",
+                "label": "ORG"
+            },
+            {
+                "text": "Magna Lourenço",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMieEFVX3lxTFBuVHROUUFNYjZKM2JxVFg0M1dXWWFLQm5ucFFxbWJsTkNvQnlGVUQ5OTl6NFdXVGFVRUE4TGpGNUprNDJKSGZ2OW5JdnlvSk5ITHpCTkJXNFpzSG1VLUVHRjdJSjcwVUJ3djRTVHZkUVhtVHpTbndTQQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 08:13:59 GMT",
+        "title_clean": "Mercadona lidera fidelidade no retalho alimentar europeu - Distribuição Hoje",
+        "entities": [
+            {
+                "text": "Mercadona",
+                "label": "ORG"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "NielsenIQ",
+                "label": "ORG"
+            },
+            {
+                "text": "E.Leclerc",
+                "label": "ORG"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Tesco",
+                "label": "ORG"
+            },
+            {
+                "text": "Reino Unido",
+                "label": "LOC"
+            },
+            {
+                "text": "Juan Roig",
+                "label": "PER"
+            },
+            {
+                "text": "Consum",
+                "label": "ORG"
+            },
+            {
+                "text": "Bon Preu",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFgwcVBxcVV0eFlDS1VyanplZmY1MXV3aG1QRlp0WUNzRUhEVERWMDlBd2NwWlVaVjduX0tuek51VmV6YWVieHRFQ0M0NnpsOGZUNEVaQTRzMGNvU1lXY1U5SzJNWGxJYjM0TzN2dURYUDltNmk3RE1vYXZFZmdzSW9vMThkWUNNTWswMzdfQ3hTc25xcENselNmdmxsNmt6SDljcmFkZzVkQQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 23 Aug 2026 19:13:00 GMT",
+        "title_clean": "Lua sonha com o Espaço e acaba de entrar em engenharia aeroespacial - Jornal de Notícias",
+        "entities": [
+            {
+                "text": "Espaço",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI1aUd3WGE3X2lYbUtmMndMNl91cGFUNjlrUkJpbVp3Vk95dndFc3NqVnRIZjdPbFprOUNLeFZpTzRtNVloZWprN2c1dGw2NTRIOXhSY3cxQkU5Qm13VVBPN21RZFhsdFZUTC13amdEWWFxZWJtNEcxYVFndUJ3NDhWT0RCVzgwS1U2Tm1Ud1ByUzJBQlhpb1hWV2g5emhab1J3V19qRUVOSXh0a3c?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 23:23:00 GMT",
+        "title_clean": "Liga 3: Varzim e Belenenses só sabem vencer e lideram após goleadas - TVI",
+        "entities": [
+            {
+                "text": "Belenenses",
+                "label": "ORG"
+            },
+            {
+                "text": "S. João de Ver",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Varzim",
+                "label": "ORG"
+            },
+            {
+                "text": "Paços de Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Francisco Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Marcelo Cunha",
+                "label": "PER"
+            },
+            {
+                "text": "David Peres",
+                "label": "PER"
+            },
+            {
+                "text": "Carlos Fernandes",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Cunha",
+                "label": "PER"
+            },
+            {
+                "text": "Trofense",
+                "label": "ORG"
+            },
+            {
+                "text": "São João de Ver",
+                "label": "ORG"
+            },
+            {
+                "text": "Tomás Oliveira",
+                "label": "PER"
+            },
+            {
+                "text": "Fafe-Vitória B",
+                "label": "ORG"
+            },
+            {
+                "text": "Gonçalo Brandão",
+                "label": "PER"
+            },
+            {
+                "text": "U. Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Nuno Tomás",
+                "label": "PER"
+            },
+            {
+                "text": "Chamito",
+                "label": "PER"
+            },
+            {
+                "text": "Evandro Barros",
+                "label": "PER"
+            },
+            {
+                "text": "Bruninho",
+                "label": "PER"
+            },
+            {
+                "text": "Afonso Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Atlético",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Janico",
+                "label": "PER"
+            },
+            {
+                "text": "Hélder Suker",
+                "label": "PER"
+            },
+            {
+                "text": "Solo Traoré",
+                "label": "PER"
+            },
+            {
+                "text": "Lusitano de Évora",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra",
+                "label": "ORG"
+            },
+            {
+                "text": "Sérgio Malé",
+                "label": "PER"
+            },
+            {
+                "text": "João Pinto",
+                "label": "PER"
+            },
+            {
+                "text": "Lénio Neves",
+                "label": "PER"
+            },
+            {
+                "text": "Paredes-Leça",
+                "label": "ORG"
+            },
+            {
+                "text": "Marco 09-Vianense",
+                "label": "ORG"
+            },
+            {
+                "text": "Caldas-Louletano",
+                "label": "ORG"
+            },
+            {
+                "text": "UD Oliveirense-V. Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Gonçalo Carvalho",
+                "label": "PER"
+            },
+            {
+                "text": "União Desportiva de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "AD Marco 09",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijAFBVV95cUxOZnhOOG91dmxmTEdOd0RQODZnMi1NS3QtQ21rcUNJcFZqYnY2TU9ibUcwbk5pc1ExLXZCSEhLSUpHcTR1N2tEaWEyUF9mVGJYaHlPSl82ejlBYmJVNGx5VTJuaTNEYmxMdVF6ZkR6Mkk5YU1zdkpPYW5NRENZZkU5eUZjU2NFUEJiaU9xUw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 19:07:49 GMT",
+        "title_clean": "SC Covilhã 0-3 Atlético CP (L3 2026/27) :: Resumos :: Videos",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMid0FVX3lxTFBieWNWVjNYVHZRckRPY19jamY4ZndUbkZDVkhjazk2WVlnSHBMWE55empscGtxWkQ3Q2RFSUF5XzVKRVBoOHlYM0xFVm0zWTlyM1lWMC1fTXd6OVI3YU5UbW0zd0FMLWJ5dHh4U1ktVGVPeXA1S0Rv?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 23:12:34 GMT",
+        "title_clean": "Bilel Aouacheria :: 2026/2027 - Al-Ahli - Ficha e Estatísticas do Jogador",
+        "entities": [
+            {
+                "text": "Bilel Aouacheria",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -143185,6 +143681,13 @@
                 "label": "LOC"
             }
         ]
+    },
+    {
+        "record_id": "reddit_1vxex9g",
+        "source": "reddit",
+        "created_at": "2026-08-24 20:44:32",
+        "title_clean": "Mecânicos",
+        "entities": []
     },
     {
         "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
