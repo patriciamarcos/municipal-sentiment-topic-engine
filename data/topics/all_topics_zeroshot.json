@@ -119428,5 +119428,35 @@
             "Incêndios e bombeiros": 0.0254,
             "Tecnologia": 0.0252
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxONTRxMnR3amlJZF9SSUZRNlVQdU1lWE0yR2wzcG00bThFQ2Vub2NsTWIwNXg4SnBHMEVWa0lETmpoWHhFczM0S3c5MF9FaXJwcFJNZ1Z0VGNDNHE3TDBWbkZYQU5rRXhfTGJTbDR3ekhNa0ZDZ1kwNENOSWhXN0YyWFBUQW10UjBZZzhERFNyYXI3aVJITXNRQmRwTUhfMHdsVDI1WmR1U0lIM3lQeGpYTXlzOGtyMjRVYkVqZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 08:09:30 GMT",
+        "title_clean": "Fundão recebe primeira etapa da 20ª Volta a Portugal em Bicicleta de Juniores",
+        "topic_id": 6,
+        "topic_label": "Desporto e competições",
+        "topic_probability": 0.5044,
+        "low_confidence": false,
+        "all_scores": {
+            "Desporto e competições": 0.5044,
+            "Transportes": 0.0647,
+            "Turismo e património histórico": 0.0595,
+            "Ação social e voluntariado": 0.0537,
+            "Universidade e vida académica": 0.0511,
+            "Tecnologia": 0.0449,
+            "Saúde e hospital": 0.0334,
+            "Cultura, arte e espetáculos": 0.031,
+            "Obras e infraestruturas": 0.0247,
+            "Habitação": 0.0232,
+            "Crimes e polícia": 0.0221,
+            "Comércio e lojas": 0.0193,
+            "Feira e Festival": 0.0145,
+            "Incêndios e bombeiros": 0.0126,
+            "Mercado": 0.0109,
+            "Falecimentos": 0.0109,
+            "Natal e festividades": 0.0098,
+            "Eleições e política autárquica": 0.0093
+        }
     }
 ]

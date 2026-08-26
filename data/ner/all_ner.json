@@ -143723,6 +143723,50 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxONTRxMnR3amlJZF9SSUZRNlVQdU1lWE0yR2wzcG00bThFQ2Vub2NsTWIwNXg4SnBHMEVWa0lETmpoWHhFczM0S3c5MF9FaXJwcFJNZ1Z0VGNDNHE3TDBWbkZYQU5rRXhfTGJTbDR3ekhNa0ZDZ1kwNENOSWhXN0YyWFBUQW10UjBZZzhERFNyYXI3aVJITXNRQmRwTUhfMHdsVDI1WmR1U0lIM3lQeGpYTXlzOGtyMjRVYkVqZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 08:09:30 GMT",
+        "title_clean": "Fundão recebe primeira etapa da 20ª Volta a Portugal em Bicicleta de Juniores",
+        "entities": [
+            {
+                "text": "Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Pêro Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Capinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Mata da Rainha",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Idanha-a-Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcaria",
+                "label": "LOC"
+            },
+            {
+                "text": "Alpedrinha",
+                "label": "LOC"
+            },
+            {
+                "text": "Município do Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

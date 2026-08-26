@@ -145014,5 +145014,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxONTRxMnR3amlJZF9SSUZRNlVQdU1lWE0yR2wzcG00bThFQ2Vub2NsTWIwNXg4SnBHMEVWa0lETmpoWHhFczM0S3c5MF9FaXJwcFJNZ1Z0VGNDNHE3TDBWbkZYQU5rRXhfTGJTbDR3ekhNa0ZDZ1kwNENOSWhXN0YyWFBUQW10UjBZZzhERFNyYXI3aVJITXNRQmRwTUhfMHdsVDI1WmR1U0lIM3lQeGpYTXlzOGtyMjRVYkVqZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 08:09:30 GMT",
+        "title_clean": "Fundão recebe primeira etapa da 20ª Volta a Portugal em Bicicleta de Juniores",
+        "clean_text": "Fundão recebe primeira etapa da 20ª Volta a Portugal em Bicicleta de Juniores. O Fundão vai receber o início da 20ª Volta a Portugal em Bicicleta de Juniores, que irá decorrer entre 27 e 30 de agosto de 2026. A primeira etapa, no dia 27 de agosto, vai ligar o Fundão e Penamacor, terá início, às 15:00, na rua Padre Dr. José Mendes Gil e irá passar, no concelho do Fundão, pelas localidades de Pêro Viseu (15:23), Capinha (15:35), Póvoa Palhaça (15:59) e Mata da Rainha (16:07). Pelo Fundão irá, ainda, passar a segunda etapa desta prova, que irá ligar a Covilhã a Idanha-a-Nova, no dia 28 de agosto, passando pelas freguesias de Alcaria (EN18, a partir das 12:25), Fundão (12:31) e Alpedrinha (12:53). No âmbito desta prova, o Município do Fundão informa que \"será necessário proceder ao corte do trânsito automóvel na rua Padre Dr. José Mendes Gil. Solicita-se ainda a máxima atenção para os cortes de via momentâneos em vários locais do concelho onde passará a prova.\" A autarquia pede ainda, em comunicado, \"a melhor compreensão dos moradores e automobilistas pelo incómodo que esta situação poderá provocar e solicita a colaboração de todos no cumprimento da sinalização de carácter provisório que será colocada.\"",
+        "keywords": [
+            {
+                "keyword": "início 20ª volta portugal",
+                "score": 0.6691
+            },
+            {
+                "keyword": "etapa 20ª volta portugal",
+                "score": 0.6574
+            },
+            {
+                "keyword": "volta portugal bicicleta juniores",
+                "score": 0.6487
+            },
+            {
+                "keyword": "portugal bicicleta juniores fundão",
+                "score": 0.6475
+            },
+            {
+                "keyword": "portugal bicicleta juniores",
+                "score": 0.6105
+            },
+            {
+                "keyword": "portugal bicicleta juniores decorrer",
+                "score": 0.6103
+            },
+            {
+                "keyword": "20ª volta portugal",
+                "score": 0.6061
+            },
+            {
+                "keyword": "20ª volta portugal bicicleta",
+                "score": 0.5515
+            },
+            {
+                "keyword": "30 2026 primeira etapa",
+                "score": 0.5227
+            },
+            {
+                "keyword": "2026 primeira etapa 27",
+                "score": 0.5025
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
     }
 ]
