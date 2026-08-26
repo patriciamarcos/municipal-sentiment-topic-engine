@@ -143019,6 +143019,710 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1ROaERVaW9aV3V4a1dSNFM1cThsbzBWangzMDEtSTd2djlRZ0lfdlptczFqTzduRllrZXFpN1o0ZDdrV1B1S2xZRllHQW4xbFBHUjNFandCWU91eE9LajlkUDA2VmNrRU5sZ3g3aUREZTh3V2VGQ0VWS0lCNDl4UzEtWk1ZMlZpQlgwTjl1eEd0cUktQlNjRXVNWFdRLTlFb2phUnpR?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 12:14:00 GMT",
+        "title_clean": "Action abre mais duas lojas em Portugal. Na Covilhã e Alcobaça - Jornal Económico",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Jornal",
+                "label": "ORG"
+            },
+            {
+                "text": "Sofia Mendoça",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09PdmV0UnJlSFZ0dmpBNU1RRTh5TTAzZ3FkV01wYzFHWTB5bHh0c29xQ0FhdGMxc3NEcWNZdmc0V1hLQmt1amF6ZnVXb3F5dS1kSXBlT011bU8zSzQyeUIyV1VvVXY1YllFUnhnUjhZV3lRVkcxWkZNN1FobU4tZk51ZmY?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:05:39 GMT",
+        "title_clean": "Sp. Covilhã perdeu 3-0 frente ao Atlético CP",
+        "entities": [
+            {
+                "text": "Atlético CP Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético Clube de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Janico",
+                "label": "PER"
+            },
+            {
+                "text": "Hélder Suker",
+                "label": "PER"
+            },
+            {
+                "text": "Salo Traoré",
+                "label": "PER"
+            },
+            {
+                "text": "Mortágua FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Filipe Pinto",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxPckl2UHBIaHkwQjdGUDhGb202c1NvbDExblF5RnJzbkxILWlDaFA1eHB1LVRyQk5jdzBxZ3RCZlY2MXBjWXZscXd5Qy1pX3p2czNBUURYWGlYYllocHh4M0pEOUlHNDFjUmlpTUtzaGtsQUt6M1VTQ05oQ0d1ME5hdw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:26:14 GMT",
+        "title_clean": "Jogos em Direto - Sp. Covilhã vs Mortágua - Record",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Porto",
+                "label": "ORG"
+            },
+            {
+                "text": "Betclic",
+                "label": "ORG"
+            },
+            {
+                "text": "Famalicão",
+                "label": "ORG"
+            },
+            {
+                "text": "Gil Vicente",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Braga",
+                "label": "ORG"
+            },
+            {
+                "text": "V. Guimarães",
+                "label": "ORG"
+            },
+            {
+                "text": "Estoril",
+                "label": "ORG"
+            },
+            {
+                "text": "Arouca Casa Pia Rio Ave",
+                "label": "ORG"
+            },
+            {
+                "text": "E. Amadora Moreirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Nacional",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Clara",
+                "label": "ORG"
+            },
+            {
+                "text": "Alverca",
+                "label": "ORG"
+            },
+            {
+                "text": "Marítimo",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça de Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxOWEJidHRZMVZGZDFvam85TzZBLUhkWUMzaDY3TGhTV2Vqdy1nN1dsb3VQVmloajZMdWlHQmFoVnJtTzNmUDhvNHo3ZUpHZVZLMjVoVDctdkE5dXJTdTlsZGFGS0owOGxtbVFFek42b1lpSEJySEgtMnBCTldxam1mNnBaY1ZQNGprYXY1dC1oSjhTanZUVmZkcFI0TU1YdlFZRHNZQUV6dXhwdHV4ejNQZ0xZUzFvZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 13:19:36 GMT",
+        "title_clean": "COVILHÃ: UBI leva ciência para o território com festival em setembro",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Inácio",
+                "label": "PER"
+            },
+            {
+                "text": "Departamento de Informática",
+                "label": "ORG"
+            },
+            {
+                "text": "Rita Piçarra",
+                "label": "PER"
+            },
+            {
+                "text": "Microsoft",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Flávio Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Vice-Reitoria para a Investigação, Inovação e Desenvolvimento",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Coordenador da Investigação",
+                "label": "ORG"
+            },
+            {
+                "text": "Turismo de Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlU4ajZubXREVXRzNzV4dDJPMGtMNl9kdUlyYzNuUk5ldktzMmFTWWk2RUhlMW81ampXVHJjV3dweXc2OHBUeUxFS09Ha1NfT0NCZDNwS3pUWjVHVmJFX21KSFBGeVpkN1FiekRsU0lhcm1ucVNTOXl2cEFIakJxblNEMmhVZUMwQThzSFIyS203ajNmQ2RqRGEzY1c1QmFyQmhBLVpTQkRPMjYwZmNZOWloSEZWcGp6MlpCTUQ0RnozMExyaElUQ196eHIzMVE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 11:15:53 GMT",
+        "title_clean": "Festival ContraDança promove atividades na Guarda, Gouveia e Covilhã de 3 de setembro a 24 de outubro",
+        "entities": [
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Torre dos Ferreiros",
+                "label": "LOC"
+            },
+            {
+                "text": "Praça Velha",
+                "label": "LOC"
+            },
+            {
+                "text": "Diogo Araújo",
+                "label": "PER"
+            },
+            {
+                "text": "Henrique Vilão",
+                "label": "PER"
+            },
+            {
+                "text": "Praça Luís de Camões",
+                "label": "LOC"
+            },
+            {
+                "text": "Companhia Nostraxladamus",
+                "label": "ORG"
+            },
+            {
+                "text": "Bicho Carpinteiro",
+                "label": "PER"
+            },
+            {
+                "text": "Cine Teatro",
+                "label": "LOC"
+            },
+            {
+                "text": "Leirena Teatro",
+                "label": "ORG"
+            },
+            {
+                "text": "Esquiva",
+                "label": "ORG"
+            },
+            {
+                "text": "Alma D'Arame",
+                "label": "ORG"
+            },
+            {
+                "text": "Sillyseason",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Lígia Soares",
+                "label": "PER"
+            },
+            {
+                "text": "Henrique Furtado Vieira",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1FhS1NOVVNQMHJHVExHNkZIMlBaTzBraWxKQWs1enBwRzIxR1pLWG9sVm1VOXV3QWFFZGZyWl9HTnVhb0pObjZ3ZHQzOURhdk1nYlUyTFBESzQxM0lERzVWZFNRd25oSWFzZGlUTy1TbUdydXdOby1oeEtyRU0xckwyY0xMcEhQWTRHNGdYVmRFekZydWpOTE1GQ0pzSURfSWpMVjJqazJncHNSRW5iS1ZicGpOU2JxX1ZQWmQwSGtPWDFHTi1KUA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 08:51:14 GMT",
+        "title_clean": "COVILHÃ: Covilhanense Filipa Bidarra encerra 9ª edição do Verão no Centro Histórico",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxNSE5iNE16VnFoN0VGX1Y4UTZ1TmdjRmlvMUM2THE3SnFlT2t2RE9OdlNfR0h1eU81ZC03NWJyRi1rX29kSC1xRFR5bnlxaWpOVlVjMm9GUktQbWlYNm1XQ19uMHZIRjJRc1drazVKN3BDX0JGQjBIYnNYYXVCV0xTaGVMYmNYaDk1S05tNkFqSFNOSThnTkE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 18:00:02 GMT",
+        "title_clean": "Action não pára de crescer em Portugal e abre mais duas lojas de uma vez - 4gnews",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Bruno Coelho",
+                "label": "PER"
+            },
+            {
+                "text": "Ermesinde",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Estrada Nacional 8",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte Do Jardim",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Pêro Da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Mendoça",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ25RQW52MEI4VG9DMDZMUy13bW9GZlBoWkotOFVoM1pob0ZZN29WdzZzeUJWMXVhc21GQ1FFeWxlWVpuLVVlYlF4b0xzVWV2ZTA4c2NQRFBaMDJseTFnZ3gzaDZnVFFOcVVxVEFjOU9zRm1mWHh2eVhDNjFBNVpHZVVUR210NmVE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 08:54:00 GMT",
+        "title_clean": "UBI estuda nova solução para reduzir lesões por AVC",
+        "entities": [
+            {
+                "text": "RISE-Health",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Sara Meirinho",
+                "label": "PER"
+            },
+            {
+                "text": "Unidade de Investigação",
+                "label": "ORG"
+            },
+            {
+                "text": "Adriana Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Susana Alves",
+                "label": "PER"
+            },
+            {
+                "text": "Catarina Diniz",
+                "label": "PER"
+            },
+            {
+                "text": "Gilberto Alves",
+                "label": "PER"
+            },
+            {
+                "text": "Graça Baltazar",
+                "label": "PER"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Estados Unidos da América",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxPelFQdXZLVDU5WDk3T051U2JzaWhUbVlEcWU1bDRLVlFEWVdQclVSdHFzbjMwWXoyemEzSzNSeGdFT2NEY0o4QXBRcVM5dlZFTFU3b2c4QWVTSS1zZmJpQWJrVjl5OXVWYWlaZVlTZi11SU92eXo2WDlReV9YeWJIT3VsckthVjhCVHJybXdVeXZnRTF4OW9WYUdMdlY2NlBJeWdsT3F3Rm1PWTFTaS1PcW9lQUFZMmdpckVOa0pydURaY3lkWXcw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:28:00 GMT",
+        "title_clean": "Filipa Bidarra encerra 9.ª edição do Verão no Centro Histórico da Covilhã",
+        "entities": [
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ0UwaWt2elhpVmRYQ2tVQUhMNzVnaTZCZ2NWTGljTWtRSEJDdDdFNFRTWkt0NkxZV1B2cGJmblBUYXVTMEYwenpYTEJnQmR0RXo0RnFOb3AxYVhiR2g3Szl5Vjd0eU1EUWZYclh2Q0FBYm1lQnlsX2FVdENVQUFoSzh5TkFReVdhM3pta0VEZU9PamNsakVERVZub0hmNzcwVFVTNFAzMEJGWmxJYldiczdyUkJ6bGJaZ1RSck5idS1KZWRtZWN1b3pwUFBwdmExMmlVZ1BJQ3JQTnBVLWdDWkhwZXFKYWIyR2I2ZmRmX1hFbUttb0U4bG1XakJsdw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 13:14:00 GMT",
+        "title_clean": "Há mais duas lojas Action em Portugal. Saiba onde ficam os novos espaços (com grande parte dos artigos a menos de 2€)",
+        "entities": [
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Estrada Nacional 8",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Pêro",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Algarve",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTFA0ajByR0pZbEtLNFFYZW94eTNMUzZWSldXZ2hsRGVySlFXd3FSdFJRbUo2NF9DaWV2Q3p0VGMxeEpNOGVBMkhFWlVEUHNVNS1BMnZERWJxM25oa0hhWVVxRmowbC1NVHJaMG1TczFod0g1anVWekI0M3ln?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 16:30:17 GMT",
+        "title_clean": "Action chega às 33 lojas em Portugal - Echo Boomer",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Mendoça",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjJWbW0zLXBnTDJVZFNOR251LWdIdW1lZ2tfSHVpTU83cUZIRGVJV0FlY3BuQ0pyMU9TZDZCdDBOdTJ3SVZORjZYRFhoWjJFdUVEMXhaSkhPcmhjTkRwVzFuY21kakxCcm5BemI4Sk1Sb1NGN3B1emdKOWxUb09RdkVkQW5XcjQ2aVhOZEJGS2tqYUxVbG9JTWRlM1BWcXFTNThXUnQtVHdjbG82NVp4YmxiMi1aQVVo?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 12:35:06 GMT",
+        "title_clean": "Covilhanense Filipa Bidarra encerra 9ª edição do Verão no Centro Histórico",
+        "entities": [
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTURWSUZRcENuRVFWSDNvc2FsTFVlUkJ6MkI4SFZhazgxdmdYVnFaRjNjUFdELVItdzA1akhyVExaSWJwMFJOcHlONmpBWWZLTFJFVW44TzY3Y29CTnBGSjdzajVPWGpTNWJUQVdjN2lRVDFKZmJlSHZQMlYtWHNjOEgwVGdLZ2FOX2trdGt4cVZkN2tRVHBiR2dyd3piNnliYnlIRXVTaG5sWFRPdUNmZDNsSDAwMWFKVzJBcGJhQjJaMVBpdzliMFhNMExtbzBzOHc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:55:48 GMT",
+        "title_clean": "PS critica «falha na comunicação» da APAL aquando das interrupções no abastecimento de água em Gonçalo",
+        "entities": [
+            {
+                "text": "Gonçalo",
+                "label": "LOC"
+            },
+            {
+                "text": "Camara da Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Diana Santos",
+                "label": "PER"
+            },
+            {
+                "text": "Sérgio Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Vale do Tejo",
+                "label": "LOC"
+            },
+            {
+                "text": "Águas Públicas em Altitude",
+                "label": "ORG"
+            },
+            {
+                "text": "Manteigas",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVBZQ2xiWURIcC1SRzkxVWJKNk1mVlEtQi1pUF9mN2pwTnYyaHRHSGcwVFZnVVlRS3Q1TVBSV2JtQ3hKdlVlVnYzdWVfWFN3VF8xeVhteFpZeFZxYzdxcGZUZ09pd053dnB4cEpJdk50SEFNeGpydzdyUXFheEM4T2pCVUNWbGhlcTJJRUg3bG9QYmx2ZG1KVjNmMlcyVExCOGRmNTVwSWdfRjhhU29Vd2pUY0EtcVZFOGJtWnZyakkyNFFWVE5z?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 13:01:37 GMT",
+        "title_clean": "Action leva os preços abaixo dos 2 euros a mais duas cidades. Saiba onde ficam - Marketeer",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Marketeer",
+                "label": "ORG"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Mendoça",
+                "label": "PER"
+            },
+            {
+                "text": "Estrada Nacional 8",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte do Jardim, n.o 9",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Pêro da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHBNLUM5d3VmN0xRNFZidGptZE8zbU83cGFmd2NYR0d4a0ZXS01HQ1YtaW91Zl9MMUVvN0VickdTM0hBR0pHSGhBNEUxa3RJanVBbExOMV9QbHFKM0dVUjdRRXV6OUpoblFIdDlQel92S09mMmZ5UnpvV3k1ZmU4SkRHQUdTZkRjTVVfUGdkMHNQQXpzY2dSWGQ0eVhBak1MODhiUndIZERfQzhTMTZqWDVtMA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 11:09:14 GMT",
+        "title_clean": "Festival Contradança leva artes contemporâneas a três cidades da Beira Interior - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Rui Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Departamento de Letras",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "SillySeason",
+                "label": "ORG"
+            },
+            {
+                "text": "Biblioteca da",
+                "label": "ORG"
+            },
+            {
+                "text": "Tiago Cadete",
+                "label": "PER"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro e Outras Arte",
+                "label": "ORG"
+            },
+            {
+                "text": "Direção-Geral das Artes",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDRKY3dKc0lPejFLXzRKUTU0aFBlZXdHazhkU3Z5ZmtzX1g2a2NfRmY5Rm1FRGZpcmtXZmM2MmJGS1BzeFFOcGh0TG82ak85SV9hOU1TT2xIb1AyOXF1OG9WNENqbDhtdDlpa0M5YWVyaFNOTEhINUMxZDNZQTk4MmRtVGt4ck1D?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 12:58:28 GMT",
+        "title_clean": "SC Covilhã - Detailed squad 26/27 (Detailed view) - Transfermarkt",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

@@ -144214,5 +144214,805 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1ROaERVaW9aV3V4a1dSNFM1cThsbzBWangzMDEtSTd2djlRZ0lfdlptczFqTzduRllrZXFpN1o0ZDdrV1B1S2xZRllHQW4xbFBHUjNFandCWU91eE9LajlkUDA2VmNrRU5sZ3g3aUREZTh3V2VGQ0VWS0lCNDl4UzEtWk1ZMlZpQlgwTjl1eEd0cUktQlNjRXVNWFdRLTlFb2phUnpR?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 12:14:00 GMT",
+        "title_clean": "Action abre mais duas lojas em Portugal. Na Covilhã e Alcobaça - Jornal Económico",
+        "clean_text": "Action abre mais duas lojas em Portugal. Na Covilhã e Alcobaça - Jornal Económico. A nova loja em Alcobaça tem 897 metros quadrados e a de Covilhã, 866 metros quadrados Lojas Action 25 Agosto 2026, 14h14 A Action, lojas de desconto de produtos não alimentares, vai abrir duas lojas no dia 27 de agosto em Alcobaça e Covilhã. O retalhista passa a ter 34 lojas em Portugal. A nova loja em Alcobaça tem 897 metros quadrados e a de Covilhã, 866 metros quadrados. Cada uma diponibiliza cerca de seis mil produtos em 14 categorias, que vão de brinquedos, a produtos de jardinagem e para a casa e bricolage e alimentação. A empresa contratou 15 trabalhadores para a loja de Alcobaça e 16 para a da Covilhã. \"A Action oferece uma seleção de 150 novos produtos todas as semanas, garantindo uma vasta e relevante gama para responder às diversas necessidades e preferências dos clientes. O preço médio de todos os produtos é inferior a dois euros\", indica o retalhista em comunicado. \"Estamos muito satisfeitos por abrir em Alcobaça e na Covilhã pouco mais de dois anos depois de termos apresentado a nossa primeira loja em Portugal. Os clientes receberam-nos calorosamente e estamos felizes por podermos trazer a fórmula Action para mais perto deles. O nosso sucesso assenta na nossa fórmula forte e no empenho e compromisso das nossas equipas, de que muito nos orgulhamos. Quero agradecer a todos os que contribuíram para esta conquista: os nossos clientes, os nossos colegas, os nossos fornecedores e todos os que nos apoiaram,\" afirma Sofia Mendoça, diretora-geral da Action em Portugal. A Action tem atualmente 3.400 lojas em 15 países europeus.",
+        "keywords": [
+            {
+                "keyword": "portugal nova loja alcobaça",
+                "score": 0.7746
+            },
+            {
+                "keyword": "loja alcobaça 897 metros",
+                "score": 0.7151
+            },
+            {
+                "keyword": "lojas portugal nova loja",
+                "score": 0.703
+            },
+            {
+                "keyword": "duas lojas 27 alcobaça",
+                "score": 0.7009
+            },
+            {
+                "keyword": "866 metros quadrados lojas",
+                "score": 0.7008
+            },
+            {
+                "keyword": "lojas 27 alcobaça",
+                "score": 0.6934
+            },
+            {
+                "keyword": "metros quadrados lojas action",
+                "score": 0.6889
+            },
+            {
+                "keyword": "34 lojas portugal nova",
+                "score": 0.6844
+            },
+            {
+                "keyword": "metros quadrados lojas",
+                "score": 0.6808
+            },
+            {
+                "keyword": "passa 34 lojas portugal",
+                "score": 0.6716
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09PdmV0UnJlSFZ0dmpBNU1RRTh5TTAzZ3FkV01wYzFHWTB5bHh0c29xQ0FhdGMxc3NEcWNZdmc0V1hLQmt1amF6ZnVXb3F5dS1kSXBlT011bU8zSzQyeUIyV1VvVXY1YllFUnhnUjhZV3lRVkcxWkZNN1FobU4tZk51ZmY?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:05:39 GMT",
+        "title_clean": "Sp. Covilhã perdeu 3-0 frente ao Atlético CP",
+        "clean_text": "Sp. Covilhã perdeu 3-0 frente ao Atlético CP. No último fim-de-semana o Sporting da Covilhã perdeu 3-0 frente ao Atlético Clube de Portugal. O jogo contou para a 3ª jornada da Liga 3 e realizou-se no Estádio Municipal José dos Santos Pinto, na Covilhã. Os três golos foram marcados aos 56′, 75′ e 81′ por Janico, Hélder Suker e Salo Traoré, respetivamente. No próximo domingo, 30 de agosto, a partir das 17 horas, o Sp. Covilhã defronta o Mortágua FC, a contar para a 1ª eliminatória da Taça de Portugal. Fotografia de Filipe Pinto",
+        "keywords": [
+            {
+                "keyword": "portugal jogo contou 3ª",
+                "score": 0.6571
+            },
+            {
+                "keyword": "portugal jogo",
+                "score": 0.5943
+            },
+            {
+                "keyword": "liga realizou estádio",
+                "score": 0.5886
+            },
+            {
+                "keyword": "jornada liga realizou estádio",
+                "score": 0.5764
+            },
+            {
+                "keyword": "3ª jornada liga",
+                "score": 0.5567
+            },
+            {
+                "keyword": "perdeu frente atlético",
+                "score": 0.5554
+            },
+            {
+                "keyword": "portugal jogo contou",
+                "score": 0.5518
+            },
+            {
+                "keyword": "fc contar 1ª eliminatória",
+                "score": 0.5465
+            },
+            {
+                "keyword": "1ª eliminatória taça portugal",
+                "score": 0.5214
+            },
+            {
+                "keyword": "realizou estádio",
+                "score": 0.5059
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigAFBVV95cUxPckl2UHBIaHkwQjdGUDhGb202c1NvbDExblF5RnJzbkxILWlDaFA1eHB1LVRyQk5jdzBxZ3RCZlY2MXBjWXZscXd5Qy1pX3p2czNBUURYWGlYYllocHh4M0pEOUlHNDFjUmlpTUtzaGtsQUt6M1VTQ05oQ0d1ME5hdw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:26:14 GMT",
+        "title_clean": "Jogos em Direto - Sp. Covilhã vs Mortágua - Record",
+        "clean_text": "Jogos em Direto - Sp. Covilhã vs Mortágua - Record. Newsletters Iniciativas assine já Iniciar Sessão Pesquisar Últimas Mundial'2026 Mercado Internacional Futebol Sporting Notícias Classificacao Resultados Benfica Notícias Classificação Resultados FC Porto Notícias Classificação Resultados Liga Betclic Benfica FC Porto Sporting Famalicão Gil Vicente Sp. Braga V. Guimarães Estoril Arouca Casa Pia Rio Ave E. Amadora Moreirense Nacional Santa Clara Alverca Marítimo Ac. Viseu Calendário Classificações Resultados Taça de Portugal Notícias Resultados 2ª Liga Liga 3 Internacional Feminino Modalidades Basquetebol Hóquei em Patins Andebol Futsal Voleibol Motores Ténis Ciclismo Multimédia Vídeos Fotogalerias Outros C-Studio Inspetor Record Um jogo de cavalheiros Fora de campo Jogo da Vida Passatempos Premium Mercado a Mexer Mundiall-in by Esc On-line Predictor Record Bom dia Mundial Liga Record Opinião Record Apostas Indica Edição de Hoje Ler Epaper Ver mais capas Newsletters Iniciativas Vídeos Podcasts Jogos Fotos Passatempos",
+        "keywords": [
+            {
+                "keyword": "liga betclic benfica fc",
+                "score": 0.7274
+            },
+            {
+                "keyword": "betclic benfica fc porto",
+                "score": 0.7213
+            },
+            {
+                "keyword": "benfica fc porto sporting",
+                "score": 0.7206
+            },
+            {
+                "keyword": "benfica fc porto",
+                "score": 0.7085
+            },
+            {
+                "keyword": "betclic benfica fc",
+                "score": 0.7008
+            },
+            {
+                "keyword": "fc porto sporting famalicão",
+                "score": 0.6812
+            },
+            {
+                "keyword": "benfica fc",
+                "score": 0.6722
+            },
+            {
+                "keyword": "fc porto sporting",
+                "score": 0.6541
+            },
+            {
+                "keyword": "porto sporting famalicão",
+                "score": 0.6309
+            },
+            {
+                "keyword": "classificações resultados taça portugal",
+                "score": 0.6267
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitgFBVV95cUxOWEJidHRZMVZGZDFvam85TzZBLUhkWUMzaDY3TGhTV2Vqdy1nN1dsb3VQVmloajZMdWlHQmFoVnJtTzNmUDhvNHo3ZUpHZVZLMjVoVDctdkE5dXJTdTlsZGFGS0owOGxtbVFFek42b1lpSEJySEgtMnBCTldxam1mNnBaY1ZQNGprYXY1dC1oSjhTanZUVmZkcFI0TU1YdlFZRHNZQUV6dXhwdHV4ejNQZ0xZUzFvZw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 13:19:36 GMT",
+        "title_clean": "COVILHÃ: UBI leva ciência para o território com festival em setembro",
+        "clean_text": "COVILHÃ: UBI leva ciência para o território com festival em setembro. A Universidade da Beira Interior (UBI) vai promover, entre os dias 23 e 25 de setembro, o UBI Science & Innovation Festival - Ciência para o Território, uma iniciativa integrada nas comemorações da Noite Europeia dos Investigadores. Com o objetivo de aproximar a ciência da comunidade, o festival pretende transformar a Covilhã num espaço de encontro entre investigação, inovação, tecnologia, cultura e território, envolvendo investigadores, estudantes, escolas, empresas, instituições e cidadãos. A edição deste ano apresenta como novidade a integração na Noite Ibero-Americana dos Investigadores, contando com um programa diversificado de palestras, mesas-redondas, atividades STEM e momentos de contacto direto entre a comunidade científica e a sociedade. Entre os destaques está o \"Rumble in the Jungle\", marcado para 23 de setembro, um debate em formato de \"combate\" de ideias que colocará frente a frente Pedro Inácio, docente do Departamento de Informática e vice-reitor da UBI, e Rita Piçarra, antiga CFO da Microsoft. No dia 24 de setembro, será promovida a iniciativa \"Ciência, Cultura e Imaginação\", enquanto no dia seguinte o festival levará a divulgação científica para fora da Covilhã através do \"Science on Rails\". A iniciativa será realizada a bordo de um comboio com partida da Covilhã e destino à Guarda, proporcionando uma viagem que alia ciência, território e conhecimento. O programa termina a 25 de setembro com o \"Jantar dos Futuros: Ciência, Território e Inovação à Mesa\", um encontro que cruza ciência, gastronomia e território. O jantar temático será preparado pelo chef Flávio Silva e pretende criar um espaço de diálogo entre investigadores, convidados e parceiros, através de um menu inspirado em áreas científicas e em possíveis futuros para a Beira Interior. O UBI Science & Innovation Festival - Ciência para o Território integra as comemorações da Noite Europeia dos Investigadores, que se assinala a 25 de setembro em centenas de cidades europeias, envolvendo milhares de participantes. A UBI tem participado regularmente nesta iniciativa, procurando dar a conhecer à sociedade o papel da investigação científica e o seu impacto na qualidade de vida. A organização do festival está a cargo da Vice-Reitoria para a Investigação, Inovação e Desenvolvimento e do Instituto Coordenador da Investigação da UBI. A iniciativa conta ainda com um apoio financeiro de 16.406,25 euros, atribuído pelo programa Portugal Events, do Turismo de Portugal, através de uma candidatura aprovada. O financiamento reconhece a relevância turística, científica e territorial do evento. Durante três dias, a UBI pretende, assim, levar a ciência para mais perto das pessoas e reforçar a ligação entre conhecimento, inovação e desenvolvimento da Beira Interior.",
+        "keywords": [
+            {
+                "keyword": "ubi science innovation festival",
+                "score": 0.7498
+            },
+            {
+                "keyword": "ciência território festival universidade",
+                "score": 0.7174
+            },
+            {
+                "keyword": "ciência comunidade festival pretende",
+                "score": 0.7152
+            },
+            {
+                "keyword": "ciência comunidade festival",
+                "score": 0.7
+            },
+            {
+                "keyword": "aproximar ciência comunidade festival",
+                "score": 0.6961
+            },
+            {
+                "keyword": "festival ciência",
+                "score": 0.6891
+            },
+            {
+                "keyword": "festival ciência território iniciativa",
+                "score": 0.682
+            },
+            {
+                "keyword": "festival ciência território integra",
+                "score": 0.6722
+            },
+            {
+                "keyword": "leva ciência território festival",
+                "score": 0.6719
+            },
+            {
+                "keyword": "innovation festival ciência território",
+                "score": 0.6713
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlU4ajZubXREVXRzNzV4dDJPMGtMNl9kdUlyYzNuUk5ldktzMmFTWWk2RUhlMW81ampXVHJjV3dweXc2OHBUeUxFS09Ha1NfT0NCZDNwS3pUWjVHVmJFX21KSFBGeVpkN1FiekRsU0lhcm1ucVNTOXl2cEFIakJxblNEMmhVZUMwQThzSFIyS203ajNmQ2RqRGEzY1c1QmFyQmhBLVpTQkRPMjYwZmNZOWloSEZWcGp6MlpCTUQ0RnozMExyaElUQ196eHIzMVE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 11:15:53 GMT",
+        "title_clean": "Festival ContraDança promove atividades na Guarda, Gouveia e Covilhã de 3 de setembro a 24 de outubro",
+        "clean_text": "Festival ContraDança promove atividades na Guarda, Gouveia e Covilhã de 3 de setembro a 24 de outubro. O Festival ContraDança regressa em setembro e outubro com atividades na Guarda, Gouveia e Covilhã. A iniciativa que vai para a 17ª edição arranca a 3 de setembro com destaque para o espetáculo de dança vertical \"Geure(R)a\" na Torre dos Ferreiros, a partir das 21h30, na Guarda. Segue-se o espetáculo de música \"Ciclo da Terra Habitada\" na Praça Velha, com Diogo Araújo e Henrique Vilão. No dia seguinte há circo na Praça Luís de Camões com Companhia Nostraxladamus e música com o Bicho Carpinteiro. No último dia de atividades na Guarda, a 9 de setembro, o TMG recebe o espetáculo de dança contemporânea \"Entre Corpo e Cimento\" e o espetáculo \"Aztura\". De 3 a 8 de setembro vai estar a decorrer o workshop de dança \"Entre Corpo e Cimento\". Passando para Gouveia, nos dias 24, 25 e 26 de setembro há teatro e dança contemporânea. Os espetáculos realizam-se no Cine Teatro e começam a 24 de setembro com a peça \"Sob a Terra\" de Leirena Teatro. No dia seguinte há dança contemporânea com a companhia de dança Esquiva, e a programação em Gouveia termina com um dos destaques da 17ª edição do Contradança, a peça de teatro \"O Capote\" da Alma D'Arame e Teatrão. Na Covilhã os espetáculos decorrem de 22 a 24 de outubro. A 22 de outubro realizam-se as Jornadas de Literatura e Artes Performativas na UBI, a partir das 11 horas. À noite há teatro com a encenação de \"Antígona\" de Sillyseason. A 23 de outubro o debate no Teatro Municipal da Covilhã está marcado para as 18 horas e é sobre \"De que se fala quando se fala de criação contemporânea\". Para a noite está agendado o teatro \"Souvenir\" com Tiago Cadete. O Contradança termina a 24 de outubro com a performance \"Morrer pelos passarinhos: Godôs e Bocas\" de Lígia Soares e Henrique Furtado Vieira.",
+        "keywords": [
+            {
+                "keyword": "festival contradança regressa atividades",
+                "score": 0.6595
+            },
+            {
+                "keyword": "24 festival contradança regressa",
+                "score": 0.6436
+            },
+            {
+                "keyword": "festival contradança regressa",
+                "score": 0.6401
+            },
+            {
+                "keyword": "24 festival",
+                "score": 0.6287
+            },
+            {
+                "keyword": "24 festival contradança",
+                "score": 0.6225
+            },
+            {
+                "keyword": "festival contradança",
+                "score": 0.6004
+            },
+            {
+                "keyword": "festival contradança promove atividades",
+                "score": 0.5988
+            },
+            {
+                "keyword": "espetáculo aztura estar decorrer",
+                "score": 0.562
+            },
+            {
+                "keyword": "21h30 guarda segue espetáculo",
+                "score": 0.5495
+            },
+            {
+                "keyword": "teatro seguinte há dança",
+                "score": 0.5447
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1FhS1NOVVNQMHJHVExHNkZIMlBaTzBraWxKQWs1enBwRzIxR1pLWG9sVm1VOXV3QWFFZGZyWl9HTnVhb0pObjZ3ZHQzOURhdk1nYlUyTFBESzQxM0lERzVWZFNRd25oSWFzZGlUTy1TbUdydXdOby1oeEtyRU0xckwyY0xMcEhQWTRHNGdYVmRFekZydWpOTE1GQ0pzSURfSWpMVjJqazJncHNSRW5iS1ZicGpOU2JxX1ZQWmQwSGtPWDFHTi1KUA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 08:51:14 GMT",
+        "title_clean": "COVILHÃ: Covilhanense Filipa Bidarra encerra 9ª edição do Verão no Centro Histórico",
+        "clean_text": "COVILHÃ: Covilhanense Filipa Bidarra encerra 9ª edição do Verão no Centro Histórico. A covilhanense Filipa Bidarra encerra a 9ª edição do Verão no Centro Histórico, com um concerto no Jardim Público, dia 28 de agosto (sexta-feira), após a visita guiada encenada que tem início às 21:30. O Verão no Centro Histórico, organizado pela Câmara Municipal da Covilhã, une história, património e teatro ao melhor da nova música local e nacional. Com esta iniciativa, o Município pretende dinamizar a zona histórica, dando a conhecer mais sobre a(s) história(s) das suas ruas e proporcionado a fruição de espetáculos musicais de qualidade. Esta 9ª edição do evento deu continuidade ao sucesso das edições anteriores, com as visitas guiadas encenadas mais participadas do país e dando a conhecer à Covilhã o melhor da nova música nacional e local. O Verão no Centro Histórico tem como objetivo levar as pessoas para a rua, em grandes noites de cultura no coração da cidade. As visitas guiadas encenadas começam (21:30) e terminam no local dos concertos, lugares improváveis e emblemáticos do centro histórico da Covilhã. O evento é gratuito e de participação livre. Filipa Bidarra é cantora, compositora e atriz de teatro musical. A artista lançou no dia 26 de junho de 2026 o single \"Therapy Mode\", tema que dá nome ao seu EP de estreia, com edição prevista para outubro deste ano. Em palco apresenta um espetáculo de pop alternativo que combina temas originais com versões cuidadosamente selecionadas do universo pop, interpretados por uma banda de músicos profissionais. Inspirado no seu EP de estreia, o concerto é estruturado em torno de temas como identidade, relações, memória e crescimento pessoal. O espetáculo acompanha diferentes momentos de um percurso emocional, transformando experiências íntimas em histórias partilhadas através da música. Cada canção funciona como um capítulo de uma mesma narrativa, convidando opúblico a percorrer diferentes estados de reflexão, vulnerabilidade e transformação. O resultado é um espetáculo próximo, enérgico, emocional e acessível, que procura aproximar o público de uma abordagem ainda pouco explorada no panorama pop português. Como já é tradição, o Verão no Centro Histórico termina com um concerto deum talento local. Dia 28 de agosto, no Jardim Público, após a visita guiada encenada, que começa às 21:30, Filipa Bidarra vai surpreender e cativar todas e todos os que a ouvirem e promete encerrar com chave de ouro a 9ª edição do Verão no Centro Histórico.",
+        "keywords": [
+            {
+                "keyword": "verão centro histórico termina",
+                "score": 0.7046
+            },
+            {
+                "keyword": "verão centro histórico concerto",
+                "score": 0.7015
+            },
+            {
+                "keyword": "verão centro histórico organizado",
+                "score": 0.6824
+            },
+            {
+                "keyword": "encerra 9ª edição verão",
+                "score": 0.6744
+            },
+            {
+                "keyword": "centro histórico termina concerto",
+                "score": 0.6638
+            },
+            {
+                "keyword": "verão centro histórico",
+                "score": 0.6564
+            },
+            {
+                "keyword": "local verão centro histórico",
+                "score": 0.6482
+            },
+            {
+                "keyword": "tradição verão centro",
+                "score": 0.6472
+            },
+            {
+                "keyword": "verão centro histórico objetivo",
+                "score": 0.6381
+            },
+            {
+                "keyword": "terminam local concertos",
+                "score": 0.6378
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilgFBVV95cUxNSE5iNE16VnFoN0VGX1Y4UTZ1TmdjRmlvMUM2THE3SnFlT2t2RE9OdlNfR0h1eU81ZC03NWJyRi1rX29kSC1xRFR5bnlxaWpOVlVjMm9GUktQbWlYNm1XQ19uMHZIRjJRc1drazVKN3BDX0JGQjBIYnNYYXVCV0xTaGVMYmNYaDk1S05tNkFqSFNOSThnTkE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 18:00:02 GMT",
+        "title_clean": "Action não pára de crescer em Portugal e abre mais duas lojas de uma vez - 4gnews",
+        "clean_text": "Action não pára de crescer em Portugal e abre mais duas lojas de uma vez - 4gnews. A cadeia de lojas Action passa a contar com 34 espaços comerciais no nosso país, com a abertura em Alcobaça e na Covilhã. Imagem: Bruno Coelho / 4gnews Entra no nosso canal Telegram e recebe as melhores ofertas ENTRAR A marca de retalho especialista em produtos não alimentares a baixo custo Action prepara-se para alargar a sua presença em território nacional com uma dupla inauguração agendada para o dia 27 de agosto de 2026. Poucas semanas depois de a Action abrir nova loja em Ermesinde e atingir marca de 30 espaços, continua a crescer. Agora, com a abertura simultânea em Alcobaça e na Covilhã, com o total da operação em Portugal a chegar às 34 superfícies comerciais. O que esperar das lojas da Action em Alcobaça e Covilhã Os dois novos espaços apresentam dimensões muito semelhantes e criaram dezenas de postos de trabalho locais. O estabelecimento de Alcobaça, situado na Estrada Nacional 8, em Ponte Do Jardim 9, código postal 2460-617, ocupa uma área de 897 metros quadrados e conta com uma equipa de 15 trabalhadores. O espaço da Covilhã, localizado na Alameda Pêro Da Covilhã, com o código postal 6201-011, dispõe de 866 metros quadrados e emprega 16 pessoas para assegurar o funcionamento diário. Nas prateleiras destas novas lojas vais encontrar a habitual oferta diversificada que caracteriza a cadeia. O catálogo disponibiliza cerca de 6 mil artigos divididos por 14 categorias distintas, com áreas como brinquedos, jardinagem, utilidades para a casa, bricolage e alguns produtos de alimentação. Preço médio na Action é abaixo dos 2 euros A estratégia de rotação de stock mantém-se inalterada, com a introdução de 150 novos produtos todas as semanas para garantir novidades regulares. A empresa indica num comunicado recente que o preço médio de todos os artigos em comercialização se fixa abaixo dos 2 euros. A diretora-geral da Action em Portugal, Sofia Mendoça, abordou este momento de expansão ao sublinhar o crescimento rápido no país. A responsável referiu: \"Estamos muito satisfeitos por abrir em Alcobaça e na Covilhã pouco mais de dois anos depois de termos apresentado a nossa primeira loja em Portugal\", afirma. A Action tem atualmente um total de 3400 lojas distribuídas por 15 países europeus. Recomendados para ti",
+        "keywords": [
+            {
+                "keyword": "cadeia lojas action passa",
+                "score": 0.7258
+            },
+            {
+                "keyword": "lojas action passa contar",
+                "score": 0.7229
+            },
+            {
+                "keyword": "cadeia lojas action",
+                "score": 0.713
+            },
+            {
+                "keyword": "lojas action passa",
+                "score": 0.6657
+            },
+            {
+                "keyword": "lojas action",
+                "score": 0.6582
+            },
+            {
+                "keyword": "esperar lojas action alcobaça",
+                "score": 0.6385
+            },
+            {
+                "keyword": "lojas distribuídas 15 países",
+                "score": 0.6285
+            },
+            {
+                "keyword": "lojas action alcobaça",
+                "score": 0.6233
+            },
+            {
+                "keyword": "4gnews cadeia lojas action",
+                "score": 0.6152
+            },
+            {
+                "keyword": "espaços comerciais nosso",
+                "score": 0.6113
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ25RQW52MEI4VG9DMDZMUy13bW9GZlBoWkotOFVoM1pob0ZZN29WdzZzeUJWMXVhc21GQ1FFeWxlWVpuLVVlYlF4b0xzVWV2ZTA4c2NQRFBaMDJseTFnZ3gzaDZnVFFOcVVxVEFjOU9zRm1mWHh2eVhDNjFBNVpHZVVUR210NmVE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 08:54:00 GMT",
+        "title_clean": "UBI estuda nova solução para reduzir lesões por AVC",
+        "clean_text": "UBI estuda nova solução para reduzir lesões por AVC. O recurso a uma \"nova solução\" nasal pode melhorar a recuperação motora e reduzir as lesões cerebrais após acidente vascular cerebral isquémico. Esta é uma das conclusões de um estudo internacional liderado pela RISE-Health e pela Universidade da Beira Interior (UBI), focado numa das principais causas de incapacidade a nível global. O trabalho científico, realizado em modelos animais, demonstrou, segundo a UBI, em comunicado, que a administração, pouco tempo após o AVC, por via nasal, de uma única dose baixa de Nestorona®- uma substância criada em laboratório que imita uma das hormonas protetoras do organismo - reduz significativamente a extensão dos danos no tecido cerebral provocados pelo AVC e melhora a recuperação da capacidade motora. De acordo com Sara Meirinho, investigadora da RISE-Health e líder do estudo, citada no documento. a via oral convencional compromete o aproveitamento da Nestorona®, fármaco atualmente utilizado para fins contraceptivos. \"Quando administrado por via oral, a Nestorona® perde grande parte do seu potencial, com menos de 10% da substância a alcançar a circulação sanguínea devido à degradação no fígado. A via nasal surge como a alternativa ideal para contornar este obstáculo. Permite evitar o metabolismo de primeira passagem hepático e possibilita que parte do fármaco alcance o cérebro diretamente através dos nervos olfativos e trigeminais, tornando esta zona anatómica altamente interessante para tratar doenças neurológicas\", explica a especialista. Segundo os investigadores da RISE-Health, a administração deste fármaco por via nasal permitiu uma chegada ao cérebro extremamente rápida. Apenas cinco minutos após a administração nasal, a Nestorona® atingiu o pico de concentração máxima no cérebro, alcançando uma exposição cerebral ao fármaco cerca de duas vezes superior à obtida por outras vias convencionais, como a injeção subcutânea. \"O potencial desta descoberta, contudo, não se esgota no AVC. A equipa liderada pela maior Unidade de Investigação do país antecipa que esta abordagem possa vir a ser transposta para outras patologias\", salienta a UBI. \"Além de reduzir lesões cerebrais após o AVC, há indícios de que a Nestorona® pode ter uma enorme relevância terapêutica no tratamento de outras doenças do sistema nervoso central, como a esclerose múltipla\", aponta a especialista da RISE-Health. Os investigadores reforçam que estes dados resultam exclusivamente de estudos em modelos animais, sendo agora necessário avançar para ensaios clínicos que confirmem a segurança e a eficácia desta abordagem em humanos. O estudo é liderado por Sara Meirinho e conta com Adriana Santos, Susana Alves, Catarina Diniz, Gilberto Alves e Graça Baltazar, investigadores da RISE-Health e da UBI, como autores. A iniciativa conta também com a participação de especialistas de Espanha e dos Estados Unidos da América.",
+        "keywords": [
+            {
+                "keyword": "além reduzir lesões cerebrais",
+                "score": 0.7585
+            },
+            {
+                "keyword": "reduzir lesões cerebrais avc",
+                "score": 0.6684
+            },
+            {
+                "keyword": "reduzir lesões cerebrais acidente",
+                "score": 0.6538
+            },
+            {
+                "keyword": "alcançando exposição cerebral",
+                "score": 0.6271
+            },
+            {
+                "keyword": "motora reduzir lesões cerebrais",
+                "score": 0.6154
+            },
+            {
+                "keyword": "extensão danos tecido cerebral",
+                "score": 0.6099
+            },
+            {
+                "keyword": "cerebral provocados avc melhora",
+                "score": 0.6063
+            },
+            {
+                "keyword": "reduzir lesões avc recurso",
+                "score": 0.5989
+            },
+            {
+                "keyword": "tratar doenças neurológicas explica",
+                "score": 0.5751
+            },
+            {
+                "keyword": "causas incapacidade nível global",
+                "score": 0.5619
+            }
+        ],
+        "source_name": "Noticias da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxPelFQdXZLVDU5WDk3T051U2JzaWhUbVlEcWU1bDRLVlFEWVdQclVSdHFzbjMwWXoyemEzSzNSeGdFT2NEY0o4QXBRcVM5dlZFTFU3b2c4QWVTSS1zZmJpQWJrVjl5OXVWYWlaZVlTZi11SU92eXo2WDlReV9YeWJIT3VsckthVjhCVHJybXdVeXZnRTF4OW9WYUdMdlY2NlBJeWdsT3F3Rm1PWTFTaS1PcW9lQUFZMmdpckVOa0pydURaY3lkWXcw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:28:00 GMT",
+        "title_clean": "Filipa Bidarra encerra 9.ª edição do Verão no Centro Histórico da Covilhã",
+        "clean_text": "Filipa Bidarra encerra 9.ª edição do Verão no Centro Histórico da Covilhã. A cantora, compositora e atriz covilhanense Filipa Bidarra vai protagonizar o concerto de encerramento da 9.ª edição do Verão no Centro Histórico, no dia 28 de agosto. O espetáculo decorrerá no Jardim Público, logo após a realização de uma visita guiada encenada que tem início marcado para as 21h30, de acordo com nota de imprensa enviada à Central Press. Promovido pela Câmara Municipal da Covilhã, o programa \"Verão no Centro Histórico\" tem como propósito dinamizar a zona histórica da cidade, cruzando teatro, património, história e música de cariz local e nacional. A iniciativa, de acesso gratuito e participação livre, organiza-se em redor de visitas guiadas encenadas que começam e terminam em locais emblemáticos e habitualmente improváveis do centro histórico, os quais servem de palco para os espetáculos musicais. Em palco, a artista local apresentará um espetáculo de pop alternativo acompanhada por uma banda de músicos profissionais. O reportório integrará versões selecionadas de canções do universo pop e temas originais do seu EP de estreia, \"Therapy Mode\" - cujo single homónimo foi lançado a 26 de junho de 2026, estando a edição do disco prevista para outubro do mesmo ano. As composições musicais do espetáculo centram-se em temáticas como a identidade, as relações, a memória e o crescimento pessoal.",
+        "keywords": [
+            {
+                "keyword": "bidarra protagonizar concerto encerramento",
+                "score": 0.6791
+            },
+            {
+                "keyword": "concerto encerramento edição verão",
+                "score": 0.6713
+            },
+            {
+                "keyword": "bidarra encerra edição verão",
+                "score": 0.6438
+            },
+            {
+                "keyword": "encerra edição verão centro",
+                "score": 0.6369
+            },
+            {
+                "keyword": "filipa bidarra protagonizar concerto",
+                "score": 0.6336
+            },
+            {
+                "keyword": "encerra edição verão",
+                "score": 0.6077
+            },
+            {
+                "keyword": "bidarra protagonizar concerto",
+                "score": 0.6024
+            },
+            {
+                "keyword": "encerramento edição verão",
+                "score": 0.5883
+            },
+            {
+                "keyword": "protagonizar concerto encerramento edição",
+                "score": 0.5819
+            },
+            {
+                "keyword": "encerramento edição verão centro",
+                "score": 0.5758
+            }
+        ],
+        "source_name": "Central Press"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ0UwaWt2elhpVmRYQ2tVQUhMNzVnaTZCZ2NWTGljTWtRSEJDdDdFNFRTWkt0NkxZV1B2cGJmblBUYXVTMEYwenpYTEJnQmR0RXo0RnFOb3AxYVhiR2g3Szl5Vjd0eU1EUWZYclh2Q0FBYm1lQnlsX2FVdENVQUFoSzh5TkFReVdhM3pta0VEZU9PamNsakVERVZub0hmNzcwVFVTNFAzMEJGWmxJYldiczdyUkJ6bGJaZ1RSck5idS1KZWRtZWN1b3pwUFBwdmExMmlVZ1BJQ3JQTnBVLWdDWkhwZXFKYWIyR2I2ZmRmX1hFbUttb0U4bG1XakJsdw?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 13:14:00 GMT",
+        "title_clean": "Há mais duas lojas Action em Portugal. Saiba onde ficam os novos espaços (com grande parte dos artigos a menos de 2€)",
+        "clean_text": "Há mais duas lojas Action em Portugal. Saiba onde ficam os novos espaços (com grande parte dos artigos a menos de 2€). Os habitantes de Alcobaça e da Covilhã têm um novo local onde fazer compras a preços reduzidos. A Action inaugura esta quinta-feira, 27 de agosto, duas lojas, reforçando a presença da cadeia em Portugal, onde passa a contar com 33 espaços. A nova loja disponibiliza a chamada \"Fórmula Action\", com cerca de 6 mil produtos distribuídos por 14 categorias, incluindo brinquedos, artigos para a casa, jardinagem, DIY (do it yourself, expressão inglesa utilizada para designar trabalhos de bricolage realizados pelos próprios), alimentação, desporto, papelaria, produtos para animais de estimação, roupa, decoração e cuidados pessoais. O primeiro espaço em Alcobaça tem 897 metros quadrados e fica localizado na Estrada Nacional 8. Já a loja da Covilhã terá 866 metros quadrados e localiza-se na Alameda Pêro da Covilhã. Ambas as lojas estarão abertas todos os dias, entre as 9 e as 21 horas. É aqui que vai encontrar vários artigos com um preço inferior a 2€ e, todas as semanas, chegam às prateleiras cerca de 150 novidades. A par disso, com esta abertura, a Action reforça ainda mais a presença de norte a sul do País. A cadeia passa a contar com 33 lojas em Portugal, incluindo duas em Castelo Branco, três em Lisboa, duas no distrito do Porto e uma no Algarve. Espreite a fotogaleria",
+        "keywords": [
+            {
+                "keyword": "lojas action portugal",
+                "score": 0.6953
+            },
+            {
+                "keyword": "duas lojas action portugal",
+                "score": 0.6949
+            },
+            {
+                "keyword": "lojas action portugal saiba",
+                "score": 0.6801
+            },
+            {
+                "keyword": "contar 33 lojas portugal",
+                "score": 0.6612
+            },
+            {
+                "keyword": "lojas portugal incluindo",
+                "score": 0.6612
+            },
+            {
+                "keyword": "lojas portugal incluindo duas",
+                "score": 0.6546
+            },
+            {
+                "keyword": "local fazer compras",
+                "score": 0.6396
+            },
+            {
+                "keyword": "espaços nova loja disponibiliza",
+                "score": 0.6395
+            },
+            {
+                "keyword": "há duas lojas action",
+                "score": 0.6323
+            },
+            {
+                "keyword": "novo local fazer compras",
+                "score": 0.6317
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiekFVX3lxTFA0ajByR0pZbEtLNFFYZW94eTNMUzZWSldXZ2hsRGVySlFXd3FSdFJRbUo2NF9DaWV2Q3p0VGMxeEpNOGVBMkhFWlVEUHNVNS1BMnZERWJxM25oa0hhWVVxRmowbC1NVHJaMG1TczFod0g1anVWekI0M3ln?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 16:30:17 GMT",
+        "title_clean": "Action chega às 33 lojas em Portugal - Echo Boomer",
+        "clean_text": "Action chega às 33 lojas em Portugal - Echo Boomer. - Publicidade - Action alarga rede nacional com lojas em Alcobaça e na Covilhã, ambas com mais de 860 m². A Action vai abrir na próxima quinta-feira, dia 27 de agosto, duas novas lojas em Portugal, uma em Alcobaça e outra na Covilhã, que serão, respetivamente, a 32.ª e a 33.ª unidades da rede no país. Com estas duas aberturas, a Action fecha agosto com um total de quatro novas lojas inauguradas no mês. A loja de Alcobaça ocupa 897 m2 e a da Covilhã 866 m2, espaços descritos pela empresa como espaçosos e de fácil acesso. Para a operação da loja de Alcobaça, a Action contratou 15 colaboradores, enquanto que, na Covilhã, serão 16 funcionários. Ambas as lojas vão funcionar de segunda a domingo, com horário de abertura das 9h às 21h. A Action define-se como uma discount store de produtos não alimentares e indica que as novas lojas vão operar com a chamada Fórmula Action: cerca de 6.000 produtos, distribuídos por 14 categorias, que incluem brinquedos, artigos para a casa, jardinagem, DIY (do it yourself) e alimentação. Segundo a empresa, a seleção é renovada semanalmente com cerca de 150 novos produtos e o preço médio de todos os artigos é inferior a 2€. Sofia Mendoça, diretora-geral da Action em Portugal, afirmou que a empresa está \"muito satisfeita\" por abrir em Alcobaça e na Covilhã pouco mais de dois anos após a primeira loja no país. A Action refere ter definido metas de curto prazo para a redução de emissões de gases com efeito de estufa, aprovadas pela Science Based Targets initiative (SBTi), com o objetivo de reduzir em 75% as emissões resultantes das suas próprias operações (âmbitos 1 e 2) até 2030, em comparação com os níveis de 2021. Para além disso, a empresa diz continuar a investir na qualidade e sustentabilidade dos produtos, mantendo critérios claros para fornecedores e processos de aquisição através da Ethical Sourcing Policy (ESP). Segundo a Action, esses esforços permitiram alcançar mais de 99% de matérias-primas provenientes de fontes certificadas como sustentáveis no caso do algodão, madeira, cacau, café e óleo de palma utilizados nos produtos de marca própria e marca branca abrangidos pela política da empresa.",
+        "keywords": [
+            {
+                "keyword": "action chega 33 lojas",
+                "score": 0.6962
+            },
+            {
+                "keyword": "novas lojas portugal alcobaça",
+                "score": 0.666
+            },
+            {
+                "keyword": "chega 33 lojas portugal",
+                "score": 0.6432
+            },
+            {
+                "keyword": "33 lojas portugal",
+                "score": 0.6388
+            },
+            {
+                "keyword": "lojas portugal alcobaça",
+                "score": 0.6336
+            },
+            {
+                "keyword": "operação loja alcobaça action",
+                "score": 0.6331
+            },
+            {
+                "keyword": "mês loja alcobaça ocupa",
+                "score": 0.6286
+            },
+            {
+                "keyword": "loja alcobaça action contratou",
+                "score": 0.6283
+            },
+            {
+                "keyword": "lojas portugal alcobaça outra",
+                "score": 0.6229
+            },
+            {
+                "keyword": "duas novas lojas portugal",
+                "score": 0.6045
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjJWbW0zLXBnTDJVZFNOR251LWdIdW1lZ2tfSHVpTU83cUZIRGVJV0FlY3BuQ0pyMU9TZDZCdDBOdTJ3SVZORjZYRFhoWjJFdUVEMXhaSkhPcmhjTkRwVzFuY21kakxCcm5BemI4Sk1Sb1NGN3B1emdKOWxUb09RdkVkQW5XcjQ2aVhOZEJGS2tqYUxVbG9JTWRlM1BWcXFTNThXUnQtVHdjbG82NVp4YmxiMi1aQVVo?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 12:35:06 GMT",
+        "title_clean": "Covilhanense Filipa Bidarra encerra 9ª edição do Verão no Centro Histórico",
+        "clean_text": "Covilhanense Filipa Bidarra encerra 9ª edição do Verão no Centro Histórico. A covilhanense Filipa Bidarra encerra a 9ª edição do Verão no Centro Histórico, com um concerto no Jardim Público, dia 28 de agosto, após a visita guiada encenada que tem início pelas 21:30. Filipa Bidarra é cantora, compositora e atriz de teatro musical. A artista lançou no dia 26 de junho de 2026 o single \"Therapy Mode\", tema que dá nome ao seu EP de estreia, com edição prevista para outubro deste ano. Em palco apresenta um espetáculo de pop alternativo que combina temas originais com versões cuidadosamente selecionadas do universo pop, interpretados por uma banda de músicos profissionais. O espetáculo acompanha diferentes momentos de um percurso emocional, transformando experiências íntimas em histórias partilhadas através da música. Cada canção funciona como um capítulo de uma mesma narrativa, convidando o público a percorrer diferentes estados de reflexão, vulnerabilidade e transformação. Segundo nota, \"o resultado é um espetáculo próximo, enérgico, emocional e acessível, que procura aproximar o público de uma abordagem ainda pouco explorada no panorama pop português. Como já é tradição, o Verão no Centro Histórico termina com um concerto de um talento local.\" Recorde-se que o Verão no Centro Histórico é organizado pela Câmara Municipal da Covilhã e tem entrada gratuita.",
+        "keywords": [
+            {
+                "keyword": "encerra 9ª edição verão",
+                "score": 0.6502
+            },
+            {
+                "keyword": "verão centro histórico concerto",
+                "score": 0.6287
+            },
+            {
+                "keyword": "verão centro histórico termina",
+                "score": 0.6161
+            },
+            {
+                "keyword": "centro histórico termina concerto",
+                "score": 0.6059
+            },
+            {
+                "keyword": "bidarra cantora compositora atriz",
+                "score": 0.5848
+            },
+            {
+                "keyword": "filipa bidarra cantora compositora",
+                "score": 0.5709
+            },
+            {
+                "keyword": "histórico termina concerto",
+                "score": 0.5659
+            },
+            {
+                "keyword": "filipa bidarra cantora",
+                "score": 0.5636
+            },
+            {
+                "keyword": "bidarra cantora",
+                "score": 0.5626
+            },
+            {
+                "keyword": "9ª edição verão",
+                "score": 0.561
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTURWSUZRcENuRVFWSDNvc2FsTFVlUkJ6MkI4SFZhazgxdmdYVnFaRjNjUFdELVItdzA1akhyVExaSWJwMFJOcHlONmpBWWZLTFJFVW44TzY3Y29CTnBGSjdzajVPWGpTNWJUQVdjN2lRVDFKZmJlSHZQMlYtWHNjOEgwVGdLZ2FOX2trdGt4cVZkN2tRVHBiR2dyd3piNnliYnlIRXVTaG5sWFRPdUNmZDNsSDAwMWFKVzJBcGJhQjJaMVBpdzliMFhNMExtbzBzOHc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 09:55:48 GMT",
+        "title_clean": "PS critica «falha na comunicação» da APAL aquando das interrupções no abastecimento de água em Gonçalo",
+        "clean_text": "PS critica «falha na comunicação» da APAL aquando das interrupções no abastecimento de água em Gonçalo. A vereadora socialista em substituição na Camara da Guarda, Diana Santos, criticou, na mais recente reunião do executivo guardense, a «falha na comunicação à população» no âmbito das interrupções no abastecimento de água na vila de Gonçalo na semana passada, e pediu justificação ao executivo sobre a causa dos cortes de água. Diana Santos aponta que os residentes em Gonçalo «não foram informados atempadamente - tendo a informação chegado três dias após a interrupção». E a socialista afirma que deviam ter sido «transmitidos os horários de corte» para que a população se organizasse, e aponta que se trata de «falhas graves de uma empresa intermunicipal que está a ser paga a preço de ouro pelos contribuintes». Em resposta, o autarca local, Sérgio Costa explicou que «verificou-se, durante alguns dias em Gonçalo, excesso de consumo. A água que estava a sair nas torneiras, era mais do que aquela que entrava no reservatório fornecido pelas águas de Vale do Tejo», explicou o edil, apontando «desequilíbrios no sistema devido a consumos a mais». Desta feita, segundo adianta Sérgio Costa, autarca guardense e presidente da APAL - Águas Públicas em Altitude, empresa que gere as águas nos concelhos da Guarda, Manteigas, Sabugal e Celorico da Beira, explicou que, «de imediato os técnicos foram para o terreno e detetaram ruturas na rede e estão ser introduzidos outros equipamentos e a ser criadas mais zonas de medição, precisamente para se tentar perceber - agora rua a rua e porta-a-porta, aquilo que aconteceu», de forma também a despistar «tentativas de consumo ilícito». Neste momento os cortes no abastecimento de água já não ocorrem, mas a situação continua a «ser acompanhada e já estão a ser tomadas medidas para evitar que se repita», confirma Sérgio Costa.",
+        "keywords": [
+            {
+                "keyword": "água gonçalo vereadora socialista",
+                "score": 0.6104
+            },
+            {
+                "keyword": "guardense presidente apal águas",
+                "score": 0.5706
+            },
+            {
+                "keyword": "abastecimento água gonçalo vereadora",
+                "score": 0.5651
+            },
+            {
+                "keyword": "presidente apal águas públicas",
+                "score": 0.5618
+            },
+            {
+                "keyword": "criticou recente reunião executivo",
+                "score": 0.5541
+            },
+            {
+                "keyword": "critica falha comunicação apal",
+                "score": 0.5525
+            },
+            {
+                "keyword": "água gonçalo vereadora",
+                "score": 0.5505
+            },
+            {
+                "keyword": "apal águas públicas",
+                "score": 0.54
+            },
+            {
+                "keyword": "executivo causa cortes água",
+                "score": 0.5396
+            },
+            {
+                "keyword": "executivo guardense falha comunicação",
+                "score": 0.5384
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVBZQ2xiWURIcC1SRzkxVWJKNk1mVlEtQi1pUF9mN2pwTnYyaHRHSGcwVFZnVVlRS3Q1TVBSV2JtQ3hKdlVlVnYzdWVfWFN3VF8xeVhteFpZeFZxYzdxcGZUZ09pd053dnB4cEpJdk50SEFNeGpydzdyUXFheEM4T2pCVUNWbGhlcTJJRUg3bG9QYmx2ZG1KVjNmMlcyVExCOGRmNTVwSWdfRjhhU29Vd2pUY0EtcVZFOGJtWnZyakkyNFFWVE5z?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 13:01:37 GMT",
+        "title_clean": "Action leva os preços abaixo dos 2 euros a mais duas cidades. Saiba onde ficam - Marketeer",
+        "clean_text": "Action leva os preços abaixo dos 2 euros a mais duas cidades. Saiba onde ficam - Marketeer. Ouça este artigo em formato áudio Ouvir este artigo A Action vai reforçar a sua presença em Portugal com a abertura de duas novas lojas, em Alcobaça e Covilhã, no dia 27 de agosto. A cadeia de discount stores de produtos não alimentares chega assim a mais duas cidades portuguesas pouco mais de dois anos depois da abertura da primeira loja no país. Escolha a Marketeer como fonte preferida no Google Escolher › As novas lojas vão disponibilizar a chamada \"Fórmula Action\", com uma seleção de cerca de 6.000 produtos, distribuídos por 14 categorias. Entre estas estão brinquedos, artigos para a casa, jardinagem, DIY e alimentação. A oferta é renovada semanalmente, com 150 novos produtos todas as semanas. Segundo a Action, o preço médio dos produtos é inferior a 2 euros. Leia também: Action abriu 31 lojas em dois anos. O modelo por trás dos preços de dois euros Continue a ler após a publicidade Continue a ler após a publicidade \"Estamos muito satisfeitos por abrir em Alcobaça e na Covilhã pouco mais de dois anos depois de termos apresentado a nossa primeira loja em Portugal. Os clientes receberam-nos calorosamente e estamos felizes por podermos trazer a fórmula Action para mais perto deles. O nosso sucesso assenta na nossa fórmula forte e no empenho e compromisso das nossas equipas, de que muito nos orgulhamos. Quero agradecer a todos os que contribuíram para esta conquista: os nossos clientes, os nossos colegas, os nossos fornecedores e todos os que nos apoiaram\", diz Sofia Mendoça, diretora-geral da Action em Portugal, citada em comunicado. A nova loja de Alcobaça tem 897 metros quadrados e contará com uma equipa de 15 colaboradores, enquanto a loja da Covilhã tem 866 metros quadrados e será gerida por uma equipa de 16 colaboradores. Ambas estarão abertas de segunda-feira a domingo, das 9h às 21h. A loja de Alcobaça fica na Estrada Nacional 8 - Ponte do Jardim, n.º 9, enquanto a da Covilhã está localizada na Alameda Pêro da Covilhã.",
+        "keywords": [
+            {
+                "keyword": "loja portugal clientes receberam",
+                "score": 0.6695
+            },
+            {
+                "keyword": "primeira loja portugal clientes",
+                "score": 0.6631
+            },
+            {
+                "keyword": "loja portugal clientes",
+                "score": 0.6602
+            },
+            {
+                "keyword": "portugal citada nova loja",
+                "score": 0.6465
+            },
+            {
+                "keyword": "primeira loja portugal",
+                "score": 0.6463
+            },
+            {
+                "keyword": "duas cidades portuguesas pouco",
+                "score": 0.6351
+            },
+            {
+                "keyword": "assim duas cidades portuguesas",
+                "score": 0.6267
+            },
+            {
+                "keyword": "action portugal",
+                "score": 0.6115
+            },
+            {
+                "keyword": "cidades portuguesas",
+                "score": 0.6055
+            },
+            {
+                "keyword": "action reforçar presença portugal",
+                "score": 0.6033
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHBNLUM5d3VmN0xRNFZidGptZE8zbU83cGFmd2NYR0d4a0ZXS01HQ1YtaW91Zl9MMUVvN0VickdTM0hBR0pHSGhBNEUxa3RJanVBbExOMV9QbHFKM0dVUjdRRXV6OUpoblFIdDlQel92S09mMmZ5UnpvV3k1ZmU4SkRHQUdTZkRjTVVfUGdkMHNQQXpzY2dSWGQ0eVhBak1MODhiUndIZERfQzhTMTZqWDVtMA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 11:09:14 GMT",
+        "title_clean": "Festival Contradança leva artes contemporâneas a três cidades da Beira Interior - Notícias de Coimbra",
+        "clean_text": "Festival Contradança leva artes contemporâneas a três cidades da Beira Interior - Notícias de Coimbra. O Festival Contradança vai levar a três cidades da Beira Interior, entre setembro e outubro, propostas de dança, teatro, performance e novo circo, numa programação que cruza espetáculos com criação, formação e reflexão, anunciou hoje a organização. PUBLICIDADE \"Este é um festival dedicado às manifestações artísticas mais contemporâneas, neste caso à dança, ao teatro, mas também ao novo circo, à performance, portanto, formas mais inovadoras das artes performativas\", afirmou o diretor artístico do festival, Rui Pires. PUBLICIDADE PUBLICIDADE A 17.ª edição do Festival Contradança vai decorrer entre 03 de setembro e 24 de outubro, nas cidades da Guarda, Gouveia e Covilhã, assinalando os 20 anos desde a criação do projeto (apenas deixou de se realizar durante três anos), dedicado à divulgação das artes performativas contemporâneas no interior do país. Terá lugar na Guarda de 03 a 09 de setembro, em Gouveia de 24 a 26 de setembro e na Covilhã de 22 a 24 de outubro. Em declarações à Lusa, o diretor artístico do festival, Rui Pires, explicou que, além dos espetáculos, a programação inclui várias atividades paralelas, entre as quais um debate com três criadoras dedicado ao tema \"De que se fala quando se fala de criação contemporânea\". \"Temos também umas jornadas académicas, em parceria com o Departamento de Letras da Universidade da Beira Interior (UBI), intituladas 'Primeiro Ato - Do Subtexto ao Palco: Jornadas de Literatura e Artes Performativas'\", acrescentou. Segundo Rui Pires, esta atividade pretende aproximar os estudantes universitários das artes performativas, através da análise dos processos de adaptação literária para o palco. \"Na edição deste ano, a escolha caiu sobre o espetáculo 'Antígona', uma criação do coletivo SillySeason, com uma versão contemporânea desta tragédia grega. Vai também um professor do Departamento de Letras falar de uma vertente mais académica, e depois os criadores do espetáculo vão falar sobre esta transposição do livro para o palco e para a atualidade\", disse o diretor artístico. O festival promove também uma iniciativa de oferta de livros em colaboração com a Biblioteca da UBI, disponibilizando gratuitamente exemplares usados, de diferentes áreas do conhecimento. \"Há vários anos que a Biblioteca participa nas nossas iniciativas e oferece livros. São livros de várias áreas, desde filosofia às ciências, que colocamos à disposição do público durante os eventos\", referiu. Está também previsto uma oficina de dança contemporânea, que arranca a 03 de setembro e culmina com a apresentação pública do trabalho desenvolvido pelos participantes. Questionado sobre as novidades da edição de 2026, Rui Pires destacou que todos os espetáculos programados serão apresentados pela primeira vez na região. Entre as propostas em destaque está \"Souvenir\", de Tiago Cadete, um espetáculo inspirado nas experiências de emigração clandestina para França durante as décadas de 1960 e 1970. \"É um espetáculo quase autobiográfico, baseado nas vivências dos familiares do criador, e aborda uma realidade muito próxima de toda a raia portuguesa\", afirmou. De acordo com Rui Pires, esta é uma temática particularmente relevante para a região. \"Serão poucas as famílias que não têm alguém que tenha emigrado para França nessas décadas. É uma memória muito presente e acredito que será um espetáculo que vai tocar muitas pessoas\", sustentou. Organizado pela ASTA - Teatro e Outras Arte, este evento conta com o apoio dos municípios da Guarda, Gouveia e Covilhã e é financiado pela Direção-Geral das Artes. PUBLICIDADE",
+        "keywords": [
+            {
+                "keyword": "festival contradança leva artes",
+                "score": 0.7055
+            },
+            {
+                "keyword": "artístico festival promove",
+                "score": 0.7034
+            },
+            {
+                "keyword": "festival dedicado manifestações artísticas",
+                "score": 0.6998
+            },
+            {
+                "keyword": "festival contradança decorrer 03",
+                "score": 0.6972
+            },
+            {
+                "keyword": "artístico festival promove iniciativa",
+                "score": 0.6948
+            },
+            {
+                "keyword": "teatro outras arte evento",
+                "score": 0.6769
+            },
+            {
+                "keyword": "festival contradança levar três",
+                "score": 0.6741
+            },
+            {
+                "keyword": "dança teatro novo circo",
+                "score": 0.6732
+            },
+            {
+                "keyword": "artístico festival rui pires",
+                "score": 0.6685
+            },
+            {
+                "keyword": "interior propostas dança teatro",
+                "score": 0.6676
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDRKY3dKc0lPejFLXzRKUTU0aFBlZXdHazhkU3Z5ZmtzX1g2a2NfRmY5Rm1FRGZpcmtXZmM2MmJGS1BzeFFOcGh0TG82ak85SV9hOU1TT2xIb1AyOXF1OG9WNENqbDhtdDlpa0M5YWVyaFNOTEhINUMxZDNZQTk4MmRtVGt4ck1D?oc=5",
+        "source": "news",
+        "created_at": "Tue, 25 Aug 2026 12:58:28 GMT",
+        "title_clean": "SC Covilhã - Detailed squad 26/27 (Detailed view) - Transfermarkt",
+        "clean_text": "SC Covilhã - Detailed squad 26/27 (Detailed view) - Transfermarkt",
+        "keywords": [
+            {
+                "keyword": "detailed squad 26 27",
+                "score": 0.744
+            },
+            {
+                "keyword": "detailed squad 26",
+                "score": 0.7382
+            },
+            {
+                "keyword": "squad 26 27 detailed",
+                "score": 0.722
+            },
+            {
+                "keyword": "squad 26 27",
+                "score": 0.6996
+            },
+            {
+                "keyword": "squad 26",
+                "score": 0.6901
+            },
+            {
+                "keyword": "detailed squad",
+                "score": 0.676
+            },
+            {
+                "keyword": "27 detailed view transfermarkt",
+                "score": 0.5475
+            },
+            {
+                "keyword": "detailed view transfermarkt",
+                "score": 0.4808
+            },
+            {
+                "keyword": "27 detailed view",
+                "score": 0.4456
+            },
+            {
+                "keyword": "26 27 detailed view",
+                "score": 0.4416
+            }
+        ],
+        "source_name": null
     }
 ]
