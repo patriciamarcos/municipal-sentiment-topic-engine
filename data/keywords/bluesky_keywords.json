@@ -8793,5 +8793,107 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:w47ambm6qest2nyi5rcyxxob/app.bsky.feed.post/3mu36cwviwc2i",
+        "source": "bluesky",
+        "created_at": "2026-08-27T15:34:20.160Z",
+        "title_clean": "",
+        "clean_text": "Guarda-Covilhã, partida às 18:30",
+        "keywords": [
+            {
+                "keyword": "partida 18 30",
+                "score": 0.662
+            },
+            {
+                "keyword": "partida 18",
+                "score": 0.5001
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:owrlc3sxkdctrqapjpoamvyp/app.bsky.feed.post/3mu2xqoye2s2g",
+        "source": "bluesky",
+        "created_at": "2026-08-27T13:36:45.439Z",
+        "title_clean": "",
+        "clean_text": "Action alarga rede nacional com lojas em Alcobaça e na Covilhã, ambas com mais de 860 m².",
+        "keywords": [
+            {
+                "keyword": "alarga rede nacional lojas",
+                "score": 0.7743
+            },
+            {
+                "keyword": "rede nacional lojas alcobaça",
+                "score": 0.6822
+            },
+            {
+                "keyword": "rede nacional lojas",
+                "score": 0.6792
+            },
+            {
+                "keyword": "action alarga rede",
+                "score": 0.6117
+            },
+            {
+                "keyword": "action alarga rede nacional",
+                "score": 0.5891
+            },
+            {
+                "keyword": "alarga rede",
+                "score": 0.5766
+            },
+            {
+                "keyword": "alarga rede nacional",
+                "score": 0.5719
+            },
+            {
+                "keyword": "nacional lojas alcobaça",
+                "score": 0.5614
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mu2uxrkwio2c",
+        "source": "bluesky",
+        "created_at": "2026-08-27T12:47:01.1416645+00:00",
+        "title_clean": "",
+        "clean_text": "Covilhã foi o município com maior área ardida entre 2020 e 2025 - INE",
+        "keywords": [
+            {
+                "keyword": "maior área ardida 2020",
+                "score": 0.7609
+            },
+            {
+                "keyword": "área ardida 2020 2025",
+                "score": 0.7324
+            },
+            {
+                "keyword": "área ardida 2020",
+                "score": 0.7178
+            },
+            {
+                "keyword": "ardida 2020 2025 ine",
+                "score": 0.6355
+            },
+            {
+                "keyword": "ardida 2020 2025",
+                "score": 0.598
+            },
+            {
+                "keyword": "ardida 2020",
+                "score": 0.5636
+            },
+            {
+                "keyword": "2020 2025 ine",
+                "score": 0.5577
+            },
+            {
+                "keyword": "2025 ine",
+                "score": 0.5135
+            }
+        ],
+        "source_name": null
     }
 ]

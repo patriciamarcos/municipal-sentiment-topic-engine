@@ -143767,6 +143767,298 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ19QUU43NVVlQlNtXzR3SDJLRlBNMS1KRVV5a3JmS0lacjFvOUxGd293SkNzNkZNUG1tc1RtS3hjeENobkRDSDRXOTZBZ0pKWVo1ZTRfNE9uZW1TbWtuUWk4XzZhSFlCYUVhNVNsWFc0LW9HYlVDd2I4TjBxNlVINmVwT1lRclk?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 08:55:23 GMT",
+        "title_clean": "Action abre duas novas lojas em Alcobaça e na Covilhã - Grande Consumo",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Grande Consumo",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmVqQmtFd1JhcFBUQWEyUU15anRHTndTWE1fU0hJdnhUSVY2a1dQc2xxZVpta0ktajdiYjJlb0EwX1ZzUS1lZVZCbEMwNDBlX0l0TlV1VkNvS3Fic3Azb3VKVjlkRDdMM2dQSmJQX1BORUt2UzVlLUxKZkJLMDVzRFdWem5aa3lKV3BWQU5lYlhCU0psdVFidWxyck1MLWc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 10:14:56 GMT",
+        "title_clean": "Exposição \"Fiar a Música\" no Mercado Municipal da Covilhã",
+        "entities": [
+            {
+                "text": "Mercado Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Joana BC",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilAFBVV95cUxObzhxQjBuT1U2cHhxUzVSUGk2WEwtTkw4X0JuVmFuQU1ma2hxQ280QklFM2F0cjZhdmpORHRBbUctSV9EdldkeXVTNFZmLUFjVWNZLXlXaWs3RDJ3aVdrZ0t3OUdyT0JVaDgtM2ctMVVjN2ZnUWhBVkNZQVFYM3c0VWZNWVgyanpYSlJJSVBDQWMwNW1E?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 08:50:00 GMT",
+        "title_clean": "Quercus contra renovação de licença nas Minas da Panasqueira - Jornal Notícias da Covilhã",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Minas da Panasqueira",
+                "label": "LOC"
+            },
+            {
+                "text": "Jornal Notícias da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Portuguesa do Ambiente",
+                "label": "ORG"
+            },
+            {
+                "text": "Agência Portuguesa do Ambiente",
+                "label": "ORG"
+            },
+            {
+                "text": "ERSAR",
+                "label": "ORG"
+            },
+            {
+                "text": "Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território",
+                "label": "ORG"
+            },
+            {
+                "text": "IGAMAOT",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQM09MRkdTLXJDZmRwcDFaMmtwVzlURFBDN1ZNb1JyX3NkdE5CeWxtdDlkUDk5UkRfb3ZYYk1HbFNvTU5SQ3YtT3NyVG1kZGtVaGZ5SXNJbjlEbHNMOXBaZVVTRktXbnNBNDBTdl9YeWFxTkpWYmEyNWlyZEF4dlo0RmZNUG03UmQwYVR0M3RXbUVpV1A2czB0aDlyaXNmZ1EwTU5GRkVPOXZfSi1vQk5VWmtxMnRtRm8?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 11:10:43 GMT",
+        "title_clean": "COVILHÃ: Galeria António Lopes recebe exposição da artista Débora Pax",
+        "entities": [
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Débora Pax",
+                "label": "PER"
+            },
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Débora Andrade",
+                "label": "PER"
+            },
+            {
+                "text": "Santa Maria da Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja da Misericórdia de",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxQcm1VbUJFMU45Y1NNTzRGeHB1a09rLWZXOHFGdE5LV1M2WUZaVm5ya0I4SUlRYzdPdjhFUG1DSkt4ZloxV0ZVZjdrdWFobnQtMWpVTy1Sa2ZyVEtQMUZqZzJfbldaejBNUFZuNlluNW5nTU5raUgyYm9kd2xLTEI1Skp4T0JLeWZrZjhTXzlaRUUtcHp3QlBRcjB1cjBfWWNDNUs0MV84d0I1ZHBQT2J6WDZPMVlMNUNfTV9zOWhxclhqb3hkckw5OE13?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 09:12:33 GMT",
+        "title_clean": "SC Covilhã - Record arrivals (Detailed view) | Page 7 - Transfermarkt",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVzB2N0VjRXp1TmdNWHFRSEJieDRuT3lOMDJzX20xRWZ3YnJOazV5US04cGgtdEZJSzREWnVCRnJPMXZpUzF5cUxfV2JsUlJqM29Ld2E5bEJrbV9ZMzNZZXNKUjl6RmRKTjF6RXRiWFlVRlFmUjBFYkgxNWp5OEZNdkRJaDdma3BGTnpaOTNPTXBYcDVTWHhzbmRKNnZmSnRhOGxyY190Vmpmd2N4QWl3eW96Q1lORFd0NGFfNXVldmZhUVN5aUNBRE1rRWh6VGVrRnlmSVd2UllyOFlNMGdrUDlRVUtidw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 11:09:02 GMT",
+        "title_clean": "Confraria Gastronómica da Cherovia e Panela no Forno dá a conhecer sabores da região aos novos alunos da UBI",
+        "entities": [
+            {
+                "text": "Cherovia",
+                "label": "ORG"
+            },
+            {
+                "text": "Cherovia",
+                "label": "LOC"
+            },
+            {
+                "text": "Forno da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Confraria",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnpQa2lSRWJDUFB0ZUFqY3VFaTdUVnU4dl9CN1Z3NWM3SldhOVVvLUZKZklPYjR1eEI5Q3A5ODJKQ0ZyZjRlOGwybkRUNTJwTVR5NWlwQ3VhemJlQm1hb3ktMDAzRFdvZzBRa3FJWjF1Sm5SVU5rWXI4OS13XzhrQ2ZYMWpZX01XSDAyMzJtZUNxU2pmOFB1TF9lTWhjNDRxS3BWYnRVdHVpQW1ub0F4NU5lQTgtQjlpTWJiM0oxWkNveEFN?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 10:32:46 GMT",
+        "title_clean": "20ª Volta a Portugal de Juniores percorre concelhos do interior a partir desta quinta-feira",
+        "entities": [
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Idanha-a-Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Sernancelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Padre Dr. José Mendes Gil",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua 25 de Abril",
+                "label": "LOC"
+            },
+            {
+                "text": "Termas de Monfortinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida Frei Heitor Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida Conde da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Luís de Camões",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida das Tílias",
+                "label": "LOC"
+            },
+            {
+                "text": "Praia Fluvial da Vila da Ponte",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida da Corredoura",
+                "label": "LOC"
+            },
+            {
+                "text": "Praia Fluvial de Vila",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxPdzFOanFiRnpBZC1wVXRpUDJaZmxrX0JXQndvV2EtYWsxdTVrQmw5OGVLUjFpR1R5UVVMSlhhZkk1MU52MU1uR1B6WWhwZUlHUVlDSXNXX01aT0d5VEJNa2lRMld3NHFYYmQ3aVNOenc3QnhNTkZEMW1NMVppNHNuWXpUZTF2SUE5NGprQWVRYWFMREVtdHU4VTBYVVhXU0thX2psTTVXZDFYRXpfSjQtRG9yOXBXQ2dac1VoZXN5M2tJaXJfLXBjdVhCQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 09:22:08 GMT",
+        "title_clean": "Galeria António Lopes acolhe exposição de colagens de Débora Pax em setembro",
+        "entities": [
+            {
+                "text": "Débora Pax",
+                "label": "PER"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Débora Andrade",
+                "label": "PER"
+            },
+            {
+                "text": "Igreja da Misericórdia de Santa Maria da Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1ZUWWdpOGVqckxkM096Y1AxMXpIT1BjQjhTWTJzRF9CNWFMWXQxdWhEcXpXVlR2dzNRTGh1ZjJQdXZTTDdpSFZZWnNuWjN2Um9ZZkN6enUxMUdKb1ZHM2hjd21tT0NQS3JGYXVKc284a2FsVVpJOFd2VlU5R0hjMUNrejViYUZQRGIyX0lJWnd6Q2Z3Q2MtSjh4aW1TNGEteHVXeF9DWVo3X2ttZ0tEU3FCQzFwRjJKZGFrb3pEaGV2cWhz?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 13:21:06 GMT",
+        "title_clean": "Francisco Macedo do Paul convocado para a Volta a Portugal em Bicicleta de Juniores",
+        "entities": [
+            {
+                "text": "Francisco Macedo do Paul",
+                "label": "PER"
+            },
+            {
+                "text": "Landeiro ACR Roriz Cycling Academy",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundão-Penamacor",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã-Idanha-a-Nova",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Celorico da Beira-Sernancelhe",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -148420,6 +148712,50 @@
         "created_at": "2026-08-24T12:11:18.144Z",
         "title_clean": "",
         "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:w47ambm6qest2nyi5rcyxxob/app.bsky.feed.post/3mu36cwviwc2i",
+        "source": "bluesky",
+        "created_at": "2026-08-27T15:34:20.160Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Guarda-Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:owrlc3sxkdctrqapjpoamvyp/app.bsky.feed.post/3mu2xqoye2s2g",
+        "source": "bluesky",
+        "created_at": "2026-08-27T13:36:45.439Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mu2uxrkwio2c",
+        "source": "bluesky",
+        "created_at": "2026-08-27T12:47:01.1416645+00:00",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
     },
     {
         "record_id": "youtube_cr9cyh_W8jk",
