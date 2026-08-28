@@ -3786,5 +3786,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1w0tzds",
+        "source": "reddit",
+        "created_at": "2026-08-28 15:38:04",
+        "title_clean": "Conselho de poços e lojas",
+        "clean_text": "Olá! Estou a passar uns dias na Covilhã e queria conselhos de um poço ou piscina natural para dar uns mergulhos ao sábado de manhã. Idealmente perto da Covilhã e que não fique completamente cheio ao sábado... lojas para comprar produtos locais, nomeadamente mantas e outros produtos de lã e fios para crochêtricô. uma loja para comprar uns queijinhos também era bom. Obrigada",
+        "keywords": [
+            {
+                "keyword": "conselhos poço piscina natural",
+                "score": 0.7501
+            },
+            {
+                "keyword": "mergulhos sábado manhã idealmente",
+                "score": 0.7416
+            },
+            {
+                "keyword": "natural dar mergulhos sábado",
+                "score": 0.7345
+            },
+            {
+                "keyword": "dar mergulhos sábado manhã",
+                "score": 0.7158
+            },
+            {
+                "keyword": "mergulhos sábado manhã",
+                "score": 0.6986
+            },
+            {
+                "keyword": "conselhos poço piscina",
+                "score": 0.6932
+            },
+            {
+                "keyword": "piscina natural dar mergulhos",
+                "score": 0.6912
+            },
+            {
+                "keyword": "queria conselhos poço piscina",
+                "score": 0.6777
+            },
+            {
+                "keyword": "poço piscina natural",
+                "score": 0.662
+            },
+            {
+                "keyword": "poço piscina natural dar",
+                "score": 0.6613
+            }
+        ],
+        "source_name": null
     }
 ]

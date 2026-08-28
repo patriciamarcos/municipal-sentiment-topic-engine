@@ -144462,6 +144462,238 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxQMThYRlloNXh6ZWkwZVFuMHEwQ0FQTUxQa1YxbUxPb2RlbzlNSUdCSTdfNmlVUXZoR1ZXaFoxU3Z3b0QwdlhDRk9BRU1ndjJITWxXV1dvMml4OWhDdnE1WEJSMDZHYldRbGRLU085YTNERkVFbjRQLWl5Y1lsQU12Ykk5OVUwdHVUdHhVc0VUTWdWY2dNQVRLdl8wZENvaHB3ekZPc1JGNkdxTzNVY2hzdW5EQ080U0xnbWc?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+        "title_clean": "Covilhã reúne mais de 500 contributos para candidatura a Capital Portuguesa da Cultura 2028",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVNuTUk0UnhaWmhFVC1NLXI2U0VkRjh5VmZYd2JEODJLN3FpeGk1RnVBMWZhNmo0a3FpamlaamYwV3FkdDdrWkltcmJJLUVxUGwxbjcySUhGZHVObktfVEEyMHNQcU85TlpmMU9Ec2lPVnlJdVBUMG9iZS1WQ3RYQzcxZnBKNTBuTGpOakpscnFZY0E0NDctdm5ON1l0OU01T1J3ZXMxN0MtbkpEN3lNMUowZS1YZGdkbjRDUll5bzlMR0I2WUE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 24 Aug 2026 01:08:20 GMT",
+        "title_clean": "Covilhã quer ser capital da Cultura em 2028 e já reuniu 500 contributos - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Universidade",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Capital",
+                "label": "LOC"
+            },
+            {
+                "text": "Amarante",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Leiria",
+                "label": "LOC"
+            },
+            {
+                "text": "Loulé",
+                "label": "LOC"
+            },
+            {
+                "text": "Óbidos",
+                "label": "LOC"
+            },
+            {
+                "text": "Setúbal",
+                "label": "LOC"
+            },
+            {
+                "text": "Aveiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Braga",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponta Delgada",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbkN3TGNQS0luaTVnUFUzYjBINzZtTVhsUl91VjZZTEVvMmxIdlh1ajViLTNuODZvakFjUDMzNUtEY194OGNmSUJxYzJ5OGI3dGVVY0o0MjB2YUh0UjhlR0tOR2dGc3NYSHkzZHVROFM5VmxJdG5vanNsazlwdWZVbHluYkVGTEs3XzA0eXBaUzBwR0JOblBidC11TTlNRlFtWHRqQ09uMmUwb1RkaTdiTm5McTE0Z2haYWluZ2UzTUV3TnV6b1c2RTVFYWZ6TWNzRHNEZWxUQ0x5ZXRqUl9LNDZOczQ0NG5jY3hMUEF2ZTI4VzQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 19:32:50 GMT",
+        "title_clean": "Entre 2020 e 2025, os 10 municípios com maior área ardida localizam-se nas regiões Norte e Centro. A Covilhã tem uma área ardida de 28,8 mil hectares, seguida do Sabugal, com 22,6 mil hectares. - facebook.com",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "France",
+                "label": "LOC"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "Messenger",
+                "label": "ORG"
+            },
+            {
+                "text": "Ray-Ban",
+                "label": "ORG"
+            },
+            {
+                "text": "Instagram",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMickFVX3lxTE1SMGFWNl82T0hvVkVrUXN5eVBtNEZ1TF9wZWFuLXB4VS1DYnZ3YXhaNFhPMG02TGduME5kMVlDbDRTaGlYY0liVUgxUi14cmVWLU5ZdjRqMFA2WTZjYW54QXp2MjBheTF5X2ljQ0VJRVJDdw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "title_clean": "Covilhã lidera registo de destruição florestal e concentra maiores perdas em Portugal - oRegiões",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0d4MmtnU1ZFSEtNYUl4NXA5MS1zT3FaU3l6MkZkSWxyQ0lGM1IzaThiZWJPWm5IYmpKeG8xTDN5NWNMX2VNbEtWZmFxWThFcThGQ09iRl9rOEhBV21xTkZadWVKWjdSZmZfc0NveVNKZVN3ZDk0UnFmSHYxOTFCTGZjN2ZEWXRIckx5NmFxMA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+        "title_clean": "Filipa Bidarra encerra Verão no Centro Histórico na Covilhã",
+        "entities": [
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Filipa Bidarra",
+                "label": "PER"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDB0ZnFEYjFqZ0RoRU5mTmJuTGNTV0hyTFpoSklUVG9sM2E0blB3RkkzRWFlbzhPaXFGQ0szSEtFVE5KWmIycHRCelhzZEh0RzllSVlqem5NczJlY2hkbjlaUV9VX3NlcWRiVS1YazZzbVZ2bkdZODFDdjJWU29vWHRNeDI5Zy1zM184Tjg1UVpsVVM2VjJFXw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+        "title_clean": "Gardunha Fest regressa ao Fundão com cinema dedicado ao paranormal",
+        "entities": [
+            {
+                "text": "Gardunha Fest",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "A Moagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Zanibar Aliens",
+                "label": "ORG"
+            },
+            {
+                "text": "Escola Primária dos Chãos",
+                "label": "LOC"
+            },
+            {
+                "text": "Donas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEk2bTVJNDVrbGpHU001cjRWWHdPdHA1ZW9VUUFBSFRPMWs1Rm95ZUFqUWJRVUhIOWFqeFdkYUU5bzhPVGliUnV4b08yTkMyTVdDZkZRNW8wLWF0SmxTTkFIOWtoZ1lOMnk4ckhvY0RFNDFKekFuWEI0WVZRdlBpb1RJX3pyeHJIdXV5cjlCWFNKemJMWFFmd1Y5emhIV3dBakozNS0zYjE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 20:30:00 GMT",
+        "title_clean": "Assistir Sporting Covilhã x Mortágua, na Taça de Portugal (30/08) - APWin",
+        "entities": [
+            {
+                "text": "Sporting Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "APWin",
+                "label": "ORG"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -145470,6 +145702,18 @@
         "created_at": "2026-08-24 20:44:32",
         "title_clean": "Mecânicos",
         "entities": []
+    },
+    {
+        "record_id": "reddit_1w0tzds",
+        "source": "reddit",
+        "created_at": "2026-08-28 15:38:04",
+        "title_clean": "Conselho de poços e lojas",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
     },
     {
         "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
