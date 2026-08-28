@@ -144059,6 +144059,409 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3UtOWRuc3MydDU4SmxJeEp1ZnYxUEJidWREWEdnYnJuelpjeTJGQU1zemFPemZBMmhHVXFZc2R1czFHaktudlUycnU2US1ISEtTMGVJdzFGUDBuV01XR1c3X0o1VzVKMlhxQnFfRVZldEJOSEI3US1fZWtSa2ZPTE9TOFl3dVdLUDBBdGRncDVfS3NiSWIydHdsV0x2aW9yV3dZRkZTRTVITDA2VHZPaDRsT1dNZEYtQXEw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 12:46:00 GMT",
+        "title_clean": "Covilhã foi o município com maior área ardida entre 2020 e 2025 – INE - LUSA",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Brazil",
+                "label": "LOC"
+            },
+            {
+                "text": "Brasil",
+                "label": "LOC"
+            },
+            {
+                "text": "LUSOFONIA",
+                "label": "LOC"
+            },
+            {
+                "text": "Grândola",
+                "label": "LOC"
+            },
+            {
+                "text": "Capicua",
+                "label": "ORG"
+            },
+            {
+                "text": "Rio de Janeiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Olinda",
+                "label": "LOC"
+            },
+            {
+                "text": "Yayoi Kusama",
+                "label": "PER"
+            },
+            {
+                "text": "Mondrian",
+                "label": "PER"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDRYcV9oYzhXX3lCcUhRYjhoTXktUnNaOGtjdGY3ZDZxdXRuMTdudWgtaDRxVlRUNUc5WWhkcGJEZ3loWm14Y0d1eTkxa0RRUklELWFOQ2huTTJIV2psLTNDdWF4Zml5c2tqZE0zUThVcmFBWlhMYmJxVS1lMVhzNUhsX2NMSHlSZWR4S2pUcUpybkxvb1VvTnpNaldOWEVXMExlOUs1QkTSAaMBQVVfeXFMTWFUZGdab3d2VVVGeGlmbTNpSHl1cEp3WVkwRWxXaTJET0htQ1JEaFRybkp0dENwWjZDc1JSVElLMWs2d3FmclN1aUVfWUtFalBzU3VuLXVmWjVpeDJ0dUFLU0VTR3M2enVVUVJQbWxReC1Ibk92QTgxUGJzYnNfMXRNMXFSSWN3U3B2cTUwQWpENm84S3VlNkV2UzBMejR4T3VyNA?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 12:25:24 GMT",
+        "title_clean": "Covilhã foi o munícipio com maior área ardida entre 2020 e 2025 - Correio da Manhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Correio da Manhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Nacional de Estatística",
+                "label": "ORG"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sernancelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Baião",
+                "label": "LOC"
+            },
+            {
+                "text": "Chaves",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte da Barca",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Real",
+                "label": "LOC"
+            },
+            {
+                "text": "Pampilhosa da Serra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkxlNW9ZSThqc0lPbGVDZmRTMHZZLXAwa3YxMVZNM1BIZkRuVkxmSXN2UXlSSkVrZDluZ015MlA4ZUdZcmdjWmMtOEJGRlNBNGtMNURYc19rcG5ncl9PRkFIY05oYm5PNVBYRnh4dG5aSGY5VEsxMC1OV3BLZnJuNnNNV2F0emdBXzRnSFdZMHJ3a3RiWFhmZTJZODd3Zmd6aHVQbmdlcktaOHhW?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 14:31:04 GMT",
+        "title_clean": "Covilhã: Boidobra organiza XVI Festa das Papas sábado - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Rancho Folclórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim da Igreja",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Duppigheim",
+                "label": "LOC"
+            },
+            {
+                "text": "Milholândia",
+                "label": "LOC"
+            },
+            {
+                "text": "Professor Pedro",
+                "label": "PER"
+            },
+            {
+                "text": "Fernando Ramos",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGV0MTcxblphMDNYcmVzT2Y1S1gtNGgtNkJYcEJ5ZGtpb0NLWU9KR3pyWlN5Zlpud2JTLU40Y0hfYTRYZGxYbG5kN2szc2l2UmNtU1FBUDZDWi00VDlIaWswdkRxQkgzUGJ2RkZzU25OaTFvOW9CekM5SnpzanhHRXB0WXpVU1dncTJhX1N2VDNrSWU3QW15QVJqeFo3WDBVTDNPTEhpSGpaWXZqWlVuVXBDbTROVVM3bWw3amJEeU9yZWRENnc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 08:45:54 GMT",
+        "title_clean": "Covilhã: Condicionamento, Cortes de Trânsito e Estacionamento Proibido em várias vias",
+        "entities": [
+            {
+                "text": "Avenida Frei Heitor Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Conde da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo de Infantaria XXI",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Dr. José Valério da Cruz",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Afonso Domingues",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Comendador Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Visconde da Coriscada",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Marquês d'Ávila e Bolama",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida da Universidade",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Pêro da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkd0TmY1eFhHN3UxbDJoRXZiM3JqWlZZU0hERUhvbEFKNzhGamxtRkQyQzktaEdwNy1NbElxZDBONS01NXo3OS0tSzN2am1la0hvcWZnMkRzUDZUTWNIWTJGaUU0V3NjdTJ6SkFaZjgwUnRvcnV3c0VXSjAyQ2FtM2YtTlRSdTA1c0k0elZRQWhzWGM?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 12:20:00 GMT",
+        "title_clean": "Covilhã: o município com maior área ardida entre 2020 e 2025 - Jornal Notícias da Covilhã",
+        "entities": [
+            {
+                "text": "Jornal Notícias da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto Nacional de Estatística",
+                "label": "ORG"
+            },
+            {
+                "text": "Sernancelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Pampilhosa da Serra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnFfNzg3MVl0WnJjRnFSZ2NTaTJQMEJfeEd1SFY4eUhVSTB6NFUxZ0hmdmdRNXI4QzRPbHpaN3gtRkZUdDNrMnByeDdOeWk0MldoWG1ad0FSMGswcHZheVU0NHBleUZ4Qk1PZUdndkI3eVZaMENzWjctZTZtR1BjZjRPNDhjUEpNblRRZElLUy1MSTI3dlh2WWV5b09RUUVDUUpXRDY4NHJQLXpmVnJkVw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 14:08:50 GMT",
+        "title_clean": "Covilhã recebe 2ª etapa da Volta a Portugal em Bicicleta de Juniores",
+        "entities": [
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida Frei Heitor Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Comendador Campos Melo",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Visconde da Coriscada",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Marquês d'Ávila",
+                "label": "LOC"
+            },
+            {
+                "text": "Bolama",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida da Universidade",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Pêro da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Refúgio",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0NmTHFETHdZbHY0RHRWRG9sVDYtZ3drV0pPVWZiMzNoeF9oY3BCbnUyaklzRG1OOHp6bGFfSkxGR2FHN2hNN0ZveE1oNE51TTFWcmd4TkZzaVh1cmR1ZGZkUnZKTkdNeGRGeDBRMldFZTF6SFdyRUpDRWNtbE1GYUxXV2lRQms4T0lzWnVyN0JWLVRRQTBmX2R1eHZianhxSnFsY0RncTE5SGJPckVqd1dXS1pueG9NWWc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 16:00:59 GMT",
+        "title_clean": "Action abre duas novas lojas em Alcobaça e na Covilhã e cria mais de 30 postos de trabalho - Human Resources Portugal",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Human Resources Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Google",
+                "label": "ORG"
+            },
+            {
+                "text": "Sofia Mendoça",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmE1LVJabHltOXgySEZwTGZtQkh2N3pBZGFWQWR3VTFqOEszUm9ib2R4YWhzRHhCRFhzMDBvcXR2SkJKSEFTNXdKRmNuNC1OcXpEVGZ4Z2JmRGhkWTF4SWlfSzdfb0VDYzZFUXNnOGJUaDc0SEk5aUphWVVBUGtycFEzTkwtWGI0b2FxRVV3WUlrUEtPVFMyLWJySnFYc2pwQ1BSbXl5dlNBODJRR1Vmdg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 08:53:00 GMT",
+        "title_clean": "Action abre novas lojas em duas cidades portuguesas esta quinta-feira - nit.pt",
+        "entities": [
+            {
+                "text": "Action",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcobaça",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Estrada Nacional 8",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte do Jardim",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Pêro",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sofia Mendoça",
+                "label": "PER"
+            },
+            {
+                "text": "Países Baixos",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxNNTlmQWdEQVNoUHU2ekFJRUJFc2hrZTZNcFpTaU4wRW1fdmN0bkR6ZzNsaGNwNWVsWm01WHQybUxGNU9oczdLVklqaGdmZVFIMlg1NHA0Ny1xUDNSVkFTS3dXMDlPdVRiWk00Q3hzTThSVDNxcE93M1lJSHpPLWVudnRXWTd6NTR5YUtOdUtJUTJKSHpPR19iQzlmckxwUQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 12:08:35 GMT",
+        "title_clean": "Covilhã foi o munícipio com maior área ardida entre 2020 e 2025 - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Nacional de Estatística",
+                "label": "ORG"
+            },
+            {
+                "text": "Notícias de",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkFSNW9BRE90NlRLSGRUcG1lVlUwcjV6ejNfMVlUOVU1bVFfTlhyeVZyNFNMTnE3bU1yb05wWW9GaGZOUkNhS3FkNW9MeloyOHpraGcxTTJwb0thYUMwcTJrOE9YdXB4ZVU2U1BJblVncXBGY2JmbzBTSGZweHVCUkttRWxxNXZpSEJsaEdxMDk3d0gzU2kw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 10:11:00 GMT",
+        "title_clean": "Distrito: Detidos por desobediência e com álcool pela PSP - reconquista.pt",
+        "entities": []
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiV0FVX3lxTE10RXN3MU0zbjRobjJscG1IUUZwem5NSGFsblloSVhFQnIzN0E2M09LWmFxWUR3ZHVUcEdBcGNEaWxYLXlhSndnUHJEejAxMDIwSlBaQlFkTQ?oc=5",
+        "source": "news",
+        "created_at": "Sat, 22 Aug 2026 17:51:00 GMT",
+        "title_clean": "Ficha de Jogo SC Covilhã 0-3 Atlético CP :: Liga 3 Placard Série B 2026/27",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -148754,6 +149157,26 @@
             {
                 "text": "Covilhã",
                 "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mu3npecbka2c",
+        "source": "bluesky",
+        "created_at": "2026-08-27T20:09:40.420Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Move Beiras",
+                "label": "ORG"
             }
         ]
     },
