@@ -146814,5 +146814,55 @@
             }
         ],
         "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTctejUwZ2lGQUlEa2VnU3kwQ2ltb0xpZW1vT085aFB5b2JLTGU4QXdvd0F3ZklHZ25LTVBLRkhZeklZUllteTRFOW9WVUFjN2NKcVFNaUNZWnY1LTRiV3o4NGRWNHdCcGdMX250azRZeWFhTXBoUmhKSkdfMllWc2FDbVdieEZNUHhjOXJlWlZRODJtY3QyVGxlc3JpRzRUb0RXQVlxdlZVVE01RFRMY9IBqwFBVV95cUxNZFdFY2JNWWRIRWhidzlfeGdoQzl0bjVXYmdibHMtZGFQNXMtOUVaZmQwMFIyZmhZZlVSYl9DZF9jZlYtTDIzNUxteW9HNEFBaTdvNHV0ZTVjV0g1MUtORF9wd01ScDRURHc1M2pTZmV5UTZaMzdwUEE0OHRoUGtTWmwySUlvSzJBYWkyNlhiLS1VdElnS196cEoxd3drdFgyRlpxWDEzVGh6alk?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 18:30:00 GMT",
+        "title_clean": "Henrique Torcato reforça o Sp. Covilhã - Record",
+        "clean_text": "Henrique Torcato reforça o Sp. Covilhã - Record. Henrique Torcato foi oficializado esta sexta-feira como reforço do Sp. Covilhã. Antes do anúncio, o guarda-redes de 18 anos, já tinha disputado alguns jogos de preparação com a equipa de Dani Matos, sendo o terceiro guardião do clube serrano para a nova época. Durante a sua formação, Torcato passou por clubes como a Académica de Santarém, o Fátima, Rio Ave e Tondela. Chega agora à Covilhã depois de uma temporada no Alcanenense, tendo representado os juniores em 14 ocasiões e a equipa principal em dois jogos da AF Santarém. Na última época, também disputou oito partidas com os juniores do Tondela. O Sp. Covilhã vai apresentar este domingo o novo coordenador e os treinadores para cada escalão para 2026/27. O clube serrano vai fazer o anúncio durante o intervalo do jogo da Taça de Portugal, frente ao Mortágua, agendado para as 17 horas, no Estádio Municipal José dos Santos Pinto.",
+        "keywords": [
+            {
+                "keyword": "henrique torcato reforça",
+                "score": 0.7353
+            },
+            {
+                "keyword": "henrique torcato reforça sp",
+                "score": 0.7102
+            },
+            {
+                "keyword": "torcato reforça sp",
+                "score": 0.5772
+            },
+            {
+                "keyword": "henrique torcato",
+                "score": 0.5718
+            },
+            {
+                "keyword": "formação torcato passou",
+                "score": 0.5612
+            },
+            {
+                "keyword": "record henrique torcato",
+                "score": 0.5534
+            },
+            {
+                "keyword": "sexta feira reforço sp",
+                "score": 0.5395
+            },
+            {
+                "keyword": "torcato oficializado sexta feira",
+                "score": 0.5294
+            },
+            {
+                "keyword": "torcato oficializado",
+                "score": 0.5249
+            },
+            {
+                "keyword": "torcato reforça",
+                "score": 0.523
+            }
+        ],
+        "source_name": null
     }
 ]

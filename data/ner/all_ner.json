@@ -145078,6 +145078,54 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTctejUwZ2lGQUlEa2VnU3kwQ2ltb0xpZW1vT085aFB5b2JLTGU4QXdvd0F3ZklHZ25LTVBLRkhZeklZUllteTRFOW9WVUFjN2NKcVFNaUNZWnY1LTRiV3o4NGRWNHdCcGdMX250azRZeWFhTXBoUmhKSkdfMllWc2FDbVdieEZNUHhjOXJlWlZRODJtY3QyVGxlc3JpRzRUb0RXQVlxdlZVVE01RFRMY9IBqwFBVV95cUxNZFdFY2JNWWRIRWhidzlfeGdoQzl0bjVXYmdibHMtZGFQNXMtOUVaZmQwMFIyZmhZZlVSYl9DZF9jZlYtTDIzNUxteW9HNEFBaTdvNHV0ZTVjV0g1MUtORF9wd01ScDRURHc1M2pTZmV5UTZaMzdwUEE0OHRoUGtTWmwySUlvSzJBYWkyNlhiLS1VdElnS196cEoxd3drdFgyRlpxWDEzVGh6alk?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 18:30:00 GMT",
+        "title_clean": "Henrique Torcato reforça o Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Henrique Torcato",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Académica de Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Tondela",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcanenense",
+                "label": "ORG"
+            },
+            {
+                "text": "AF Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

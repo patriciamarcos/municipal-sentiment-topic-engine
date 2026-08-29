@@ -120658,5 +120658,35 @@
             "Eleições e política autárquica": 0.013,
             "Falecimentos": 0.0101
         }
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTctejUwZ2lGQUlEa2VnU3kwQ2ltb0xpZW1vT085aFB5b2JLTGU4QXdvd0F3ZklHZ25LTVBLRkhZeklZUllteTRFOW9WVUFjN2NKcVFNaUNZWnY1LTRiV3o4NGRWNHdCcGdMX250azRZeWFhTXBoUmhKSkdfMllWc2FDbVdieEZNUHhjOXJlWlZRODJtY3QyVGxlc3JpRzRUb0RXQVlxdlZVVE01RFRMY9IBqwFBVV95cUxNZFdFY2JNWWRIRWhidzlfeGdoQzl0bjVXYmdibHMtZGFQNXMtOUVaZmQwMFIyZmhZZlVSYl9DZF9jZlYtTDIzNUxteW9HNEFBaTdvNHV0ZTVjV0g1MUtORF9wd01ScDRURHc1M2pTZmV5UTZaMzdwUEE0OHRoUGtTWmwySUlvSzJBYWkyNlhiLS1VdElnS196cEoxd3drdFgyRlpxWDEzVGh6alk?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 18:30:00 GMT",
+        "title_clean": "Henrique Torcato reforça o Sp. Covilhã - Record",
+        "topic_id": 6,
+        "topic_label": "Desporto e competições",
+        "topic_probability": 0.1654,
+        "low_confidence": true,
+        "all_scores": {
+            "Desporto e competições": 0.1654,
+            "Obras e infraestruturas": 0.1276,
+            "Universidade e vida académica": 0.1167,
+            "Saúde e hospital": 0.0819,
+            "Ação social e voluntariado": 0.0722,
+            "Turismo e património histórico": 0.0705,
+            "Crimes e polícia": 0.0573,
+            "Cultura, arte e espetáculos": 0.0482,
+            "Comércio e lojas": 0.0481,
+            "Eleições e política autárquica": 0.0472,
+            "Habitação": 0.0291,
+            "Feira e Festival": 0.0256,
+            "Natal e festividades": 0.0254,
+            "Incêndios e bombeiros": 0.0195,
+            "Mercado": 0.019,
+            "Transportes": 0.0163,
+            "Tecnologia": 0.0152,
+            "Falecimentos": 0.0146
+        }
     }
 ]
