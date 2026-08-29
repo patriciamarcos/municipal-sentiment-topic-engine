@@ -144694,6 +144694,390 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWRWlEWWxyUW9pT1FSb3JHUi1oMXhYT2VXV29jNDRXUVN6VmxDNGNsTnExOG9uNm9URFNmX2p5NnlMM0w1cC1VQ2hHZXBDdG10QzZ2ak9FUUk3UUN2MGt1Zg?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 09:56:55 GMT",
+        "title_clean": "FIADA regressa à Covilhã",
+        "entities": [
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas da Rainha",
+                "label": "LOC"
+            },
+            {
+                "text": "Peniche",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Bilbao",
+                "label": "LOC"
+            },
+            {
+                "text": "Cidade",
+                "label": "ORG"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "Portuguesa",
+                "label": "ORG"
+            },
+            {
+                "text": "MODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro",
+                "label": "ORG"
+            },
+            {
+                "text": "Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            },
+            {
+                "text": "Infraestruturas e Concessões da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Marcelo Ferreira",
+                "label": "PER"
+            },
+            {
+                "text": "Ana Garcia",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFdFY2JNWWRIRWhidzlfeGdoQzl0bjVXYmdibHMtZGFQNXMtOUVaZmQwMFIyZmhZZlVSYl9DZF9jZlYtTDIzNUxteW9HNEFBaTdvNHV0ZTVjV0g1MUtORF9wd01ScDRURHc1M2pTZmV5UTZaMzdwUEE0OHRoUGtTWmwySUlvSzJBYWkyNlhiLS1VdElnS196cEoxd3drdFgyRlpxWDEzVGh6alnSAasBQVVfeXFMTWRXRWNiTVlkSEVoYnc5X3hnaEM5dG41V2JnYmxzLWRhUDVzLTlFWmZkMDBSMmZoWWZVUmJfQ2RfY2ZWLUwyMzVMbXlvRzRBQWk3bzR1dGU1Y1dINTFLTkRfcHdNUnA0VER3NTNqU2ZleVE2WjM3cFBBNDh0aFBrU1psMklJb0syQWFpMjZYYi0tVXRJZ0tfenBKMXd3a3RYMkZacVgxM1RoempZ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 18:33:31 GMT",
+        "title_clean": "Henrique Torcato reforça o Sp. Covilhã - Record",
+        "entities": [
+            {
+                "text": "Henrique Torcato",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "Dani Matos",
+                "label": "PER"
+            },
+            {
+                "text": "Fátima",
+                "label": "LOC"
+            },
+            {
+                "text": "Rio Ave",
+                "label": "LOC"
+            },
+            {
+                "text": "Tondela",
+                "label": "LOC"
+            },
+            {
+                "text": "Alcanenense",
+                "label": "ORG"
+            },
+            {
+                "text": "AF Santarém",
+                "label": "ORG"
+            },
+            {
+                "text": "Tondela",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua",
+                "label": "LOC"
+            },
+            {
+                "text": "Estádio Municipal José dos Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Miguel Malaca",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajBJZnBJSzdYVGI0TDc0WEFHVFNROWtYTHpGVzh6Y05EdEFsTHJRdnRxNzZMS203SjZXVUsyeGpaODQwU1RKaS1qTDZaaVVLVDRycE52bHluX2ZIMl9sZ09QTGFMbDZmT1pGb2lpNnJzOTE1cURoak93VzJDUERtTVRJeHJVQy1PSVVjY1JVN0FlaWxHQkVTaFptQ29BLTN2VTRWVUdYVS1QSUg1SWpuNklhT0RsODZDU3d2QWhxaUY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 13:37:40 GMT",
+        "title_clean": "Covilhã: Candidatura a Capital Portuguesa da Cultura lança site e imagem gráfica",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Lobby Films & Advertising",
+                "label": "ORG"
+            },
+            {
+                "text": "Telmo Martins",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1p4TFdualRpZE1UYy1aNGpfcVhxU2RwOXFJbF9mME5EcGllX0xwNXJ0ZFFES24tYzlaOU9kV3JsVmM3ZzNoOEVWYW9TaTBRbVZrSzh1Wlp5WkNIRnVTeDRKVW0tMjlkWjR1VnNUdTl4ZkIwXzBwMjlzak10VF95dVBlVkJVeC0tbTl2TFhidE16QUV0cndHTldwdm9fbGlBSVVOUUZLSVQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 08:16:43 GMT",
+        "title_clean": "Covilhã é o município com maior área ardida entre 2020 e 2025",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Nacional da Estatística",
+                "label": "ORG"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sernancelhe",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2JUM0NVZS1PZHJKSmNOaVEtYW1xRElvNllzSEZRSHROT0RtNEVGUmpoY0szbmFDSW43UThRMThMQ3pTRlctaVB6cms0SUh4c2xHSVNDc19HSnZTaGRScmVaZVl0SEpKZWVscVpQamh1RTBDQmpuVjhwTmFYS1pVUkk2R0g2SU5hSHdyQXluQnlpd1k3NGZPSU1yZXhYQkRqeHNrZlNKVGs0T3EweE9IRnc1WFhwODJ5QnlpMEdEX3lJNE0?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 20:12:24 GMT",
+        "title_clean": "Covilhã lança site e identidade gráfica da candidatura a Capital Portuguesa da Cultura 2028 - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Notícias de Coimbra",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQlIyeTBKcDlTdHZBelN4MUdXdWpqRHROeHVNcF9SNTJ6RFpnU09IekVIZXp1SzJXSFNsdElpaFF1eEpvb21iT1FWTGNoZDZndFZyekZDUUJwRmxCbXVHeEZtcU1EVzZCa1pTcXJ6RkVzeHZXSTVvbW0zQm5id1poems0WUp6cGc5QzRKSXU5ZkxQdkVOMG9Zcno5NUhxNnExdVNmeFF1Qlp4b3dTOVZ3b2trQXFSZG03TmRTTWd4eENJd0llbmJlZFQtamdmeGpZOURBcjlCMA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 11:15:59 GMT",
+        "title_clean": "COVILHÃ: Candidatura do município a capital portuguesa da cultura lança site e imagem gráfica",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Lobby Films Advertising",
+                "label": "ORG"
+            },
+            {
+                "text": "Telmo Martins",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDdUekRXSXRCR1VxMFNJckh4MFpNTzdQOWZWTGQ3NDFFcy1Cc0s4RDRvN0w4M0hxalYxMDRwTFJJS0FvdVp6NHdMeUlqX0o5RndnUnJaczVkVVhFbEt1dS0wYk1MVXZsdkVsTk15enZwUHdIc2E4UmswMmtCMlNLNmtiWmlzT0Q5NGs3RUM4YXJzQkFZU3VmVGpVSTJ2Sjhkd3QwUV9NYTZpOXcyS1NFV1lFa015SVJlSG84MjhNZmlEb2Y5NTZ0SHdycGtMdFgwREF5dlYtd0NJbVVfemc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 11:24:20 GMT",
+        "title_clean": "“Do Mar à Terra” começa hoje na Covilhã: Festival da Sardinha leva o sabor do mar à Serra da Estrela",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Águeda",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Santos Populares",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo 1.o de Maio",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzlVczNEMzFXVHdGM2paZVE1ZkhhbktGcXljWk5kRlU1dGZxanJOU3hjazhVUG5zcUFCMUIxN3BrbVgwYjgwU1dUeDd3RHB5MjhscEtnVUdadlp5dXdGMGFMVng1OEE0NmJpeFktTzNlcV83R2JiWkYyLTI1OS1LTVd5UDlNUQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 11:22:00 GMT",
+        "title_clean": "Fundão recebe 6.º Festival Internacional de Guitarra",
+        "entities": [
+            {
+                "text": "A Moagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Dos Santos-Pons",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Duo Petersen & Svit",
+                "label": "ORG"
+            },
+            {
+                "text": "Quarteto Mefitis",
+                "label": "ORG"
+            },
+            {
+                "text": "Quarteto Maurizio Mastrini",
+                "label": "ORG"
+            },
+            {
+                "text": "Itália",
+                "label": "LOC"
+            },
+            {
+                "text": "Duo Lucini-Falloni",
+                "label": "ORG"
+            },
+            {
+                "text": "Duo Origines",
+                "label": "ORG"
+            },
+            {
+                "text": "Trio Robin Nolan",
+                "label": "ORG"
+            },
+            {
+                "text": "Países Baixos",
+                "label": "LOC"
+            },
+            {
+                "text": "Município do Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação Concordis - Quarteto de Guitarras",
+                "label": "ORG"
+            },
+            {
+                "text": "Academia de Música e Dança do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Quinta dos Currais",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",

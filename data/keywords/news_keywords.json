@@ -146414,5 +146414,405 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWRWlEWWxyUW9pT1FSb3JHUi1oMXhYT2VXV29jNDRXUVN6VmxDNGNsTnExOG9uNm9URFNmX2p5NnlMM0w1cC1VQ2hHZXBDdG10QzZ2ak9FUUk3UUN2MGt1Zg?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 09:56:55 GMT",
+        "title_clean": "FIADA regressa à Covilhã",
+        "clean_text": "FIADA regressa à Covilhã. A Covilhã recebe, entre os dias 3 e 6 de setembro, a quinta edição da FIADA - Feira Internacional de Artesanato, Design e Artes, iniciativa que reúne artesanato, design, arte, sustentabilidade e música. O evento, organizado pelo Município da Covilhã, apresenta este ano 40 expositores de artesanato, selecionados entre 191 candidaturas. O Jardim das Artes volta a ser o palco principal da FIADA, que terá também programação na Biblioteca Municipal da Covilhã, onde vão decorrer exposições e ações de capacitação. Ao longo dos quatro dias, estarão representados diferentes ofícios e áreas de intervenção, incluindo trabalhos em cerâmica, ferro, madeira e fio. Na apresentação da quinta edição, realizada a 17 de agosto, a vereadora com o pelouro da Cultura, Regina Gouveia, destacou a intenção de afirmar o artesanato enquanto expressão cultural e contemporânea, mas também enquanto atividade económica. \"Mais do que expor ou vender produtos de artesanato, a FIADA valoriza o artesanato, valoriza os seus protagonistas, capacita-os e procura promover a inovação do artesanato através do design e de linguagens artísticas e criativas mais contemporâneas\", afirmou. A responsável sublinhou ainda a componente de formação e capacitação dirigida aos artesãos, apontando a FIADA como um espaço de \"saber-fazer\". A iniciativa pretende, desta forma, reforçar também a ligação da Covilhã à sua condição de Cidade Criativa da UNESCO na área do Design, distinção atribuída em 2021. Cidades Criativas e participação internacional A edição de 2026 conta com a participação de outras Cidades Criativas da UNESCO, nomeadamente Castelo Branco, Barcelos e Caldas da Rainha, além dos municípios de Peniche e Castanheira de Pera, parceiros da FIADA desde a primeira edição. A componente internacional chega de Bilbao, também integrada na Rede de Cidades Criativas da UNESCO. Entre as propostas do programa está a exposição \"O Fio do Barro 2026\", com curadoria e orientação da ceramista Sílvia Jácome, que apresenta os resultados de uma residência artística realizada em julho. A programação inclui ainda a Tapeçaria Comunitária 2026, a Exposição da Rede Portuguesa de Cidades Criativas da UNESCO, a exposição \"TEA&CHEESE\", do MODATEX, e as instalações \"W³ / Wool, Water, Waste\", do New Hand Lab, e \"Arte e Sustentabilidade\", da ASTA - Teatro e Outras Artes. O programa contempla igualmente oficinas criativas, atividades para famílias e crianças e ações de capacitação para artesãos. Música acompanha quatro dias de feira A animação do recinto terá uma componente assegurada pelo INATEL, com diferentes formações musicais da região. O Município da Covilhã é responsável pela programação do Palco FIADA, que recebe Noura, a 3 de setembro, Margarida Geraldes e Sofia Pires, no dia 4, Orquestra Típica Albicastrense, no dia 5, e TorresFarra, no último dia do evento. Mantêm-se também os Prémios FIADA, que distinguem a \"Melhor Peça de Artesanato - Inovação pelo Design\" e a \"Melhor Peça de Artesanato - Identidade Covilhã\". Cada categoria atribui um prémio de 500 euros, financiado, respetivamente, pela Associação Empresarial da Covilhã, Belmonte e Penamacor (AECBP) e pela ICOVI - Infraestruturas e Concessões da Covilhã, EM. O presidente da AECBP, Marcelo Ferreira, destacou a importância da parceria e da aproximação entre o comércio tradicional e o comércio cultural. Por sua vez, Ana Garcia, em representação da ICOVI, classificou a evolução da FIADA como \"progressiva e cimentada\", considerando tratar-se de um evento \"diferenciado e diferenciador\". A FIADA conta ainda com a parceria do IEFP, INATEL e MODATEX. A entrada é livre. A feira funciona no dia 3 de setembro, das 17h00 às 00h00; nos dias 4 e 5, das 16h00 às 00h00; e no dia 6, das 16h00 às 21h00.",
+        "keywords": [
+            {
+                "keyword": "artes iniciativa reúne",
+                "score": 0.7185
+            },
+            {
+                "keyword": "artes programa contempla igualmente",
+                "score": 0.7153
+            },
+            {
+                "keyword": "candidaturas jardim artes volta",
+                "score": 0.6956
+            },
+            {
+                "keyword": "outras artes programa contempla",
+                "score": 0.6948
+            },
+            {
+                "keyword": "tapeçaria comunitária 2026 exposição",
+                "score": 0.6945
+            },
+            {
+                "keyword": "iniciativa reúne artesanato",
+                "score": 0.6854
+            },
+            {
+                "keyword": "fiada feira internacional artesanato",
+                "score": 0.6845
+            },
+            {
+                "keyword": "decorrer exposições ações capacitação",
+                "score": 0.6818
+            },
+            {
+                "keyword": "residência artística realizada programação",
+                "score": 0.6814
+            },
+            {
+                "keyword": "vão decorrer exposições",
+                "score": 0.6771
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFdFY2JNWWRIRWhidzlfeGdoQzl0bjVXYmdibHMtZGFQNXMtOUVaZmQwMFIyZmhZZlVSYl9DZF9jZlYtTDIzNUxteW9HNEFBaTdvNHV0ZTVjV0g1MUtORF9wd01ScDRURHc1M2pTZmV5UTZaMzdwUEE0OHRoUGtTWmwySUlvSzJBYWkyNlhiLS1VdElnS196cEoxd3drdFgyRlpxWDEzVGh6alnSAasBQVVfeXFMTWRXRWNiTVlkSEVoYnc5X3hnaEM5dG41V2JnYmxzLWRhUDVzLTlFWmZkMDBSMmZoWWZVUmJfQ2RfY2ZWLUwyMzVMbXlvRzRBQWk3bzR1dGU1Y1dINTFLTkRfcHdNUnA0VER3NTNqU2ZleVE2WjM3cFBBNDh0aFBrU1psMklJb0syQWFpMjZYYi0tVXRJZ0tfenBKMXd3a3RYMkZacVgxM1RoempZ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 18:33:31 GMT",
+        "title_clean": "Henrique Torcato reforça o Sp. Covilhã - Record",
+        "clean_text": "Henrique Torcato reforça o Sp. Covilhã - Record. Henrique Torcato reforça o Sp. Covilhã Henrique Torcato assina pelo Sp. Covilhã • Foto: Sp. Covilhã/Facebook Henrique Torcato foi oficializado esta sexta-feira como reforço do Sp. Covilhã. Antes do anúncio, o guarda-redes de 18 anos, já tinha disputado alguns jogos de preparação com a equipa de Dani Matos, sendo o terceiro guardião do clube serrano para a nova época. Durante a sua formação, Torcato passou por clubes como a Académica de Santarém, o Fátima, Rio Ave e Tondela. Chega agora à Covilhã depois de uma temporada no Alcanenense, tendo representado os juniores em 14 ocasiões e a equipa principal em dois jogos da AF Santarém. Na última época, também disputou oito partidas com os juniores do Tondela. PUB O Sp. Covilhã vai apresentar este domingo o novo coordenador e os treinadores para cada escalão para 2026/27. O clube serrano vai fazer o anúncio durante o intervalo do jogo da Taça de Portugal, frente ao Mortágua, agendado para as 17 horas, no Estádio Municipal José dos Santos Pinto. Por Miguel Malaca",
+        "keywords": [
+            {
+                "keyword": "henrique torcato reforça",
+                "score": 0.6975
+            },
+            {
+                "keyword": "henrique torcato reforça sp",
+                "score": 0.6955
+            },
+            {
+                "keyword": "henrique torcato assina",
+                "score": 0.6733
+            },
+            {
+                "keyword": "torcato assina sp",
+                "score": 0.6681
+            },
+            {
+                "keyword": "henrique torcato assina sp",
+                "score": 0.6676
+            },
+            {
+                "keyword": "record henrique torcato reforça",
+                "score": 0.6384
+            },
+            {
+                "keyword": "torcato assina",
+                "score": 0.6304
+            },
+            {
+                "keyword": "henrique torcato",
+                "score": 0.6081
+            },
+            {
+                "keyword": "record henrique torcato",
+                "score": 0.607
+            },
+            {
+                "keyword": "torcato reforça sp",
+                "score": 0.5491
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajBJZnBJSzdYVGI0TDc0WEFHVFNROWtYTHpGVzh6Y05EdEFsTHJRdnRxNzZMS203SjZXVUsyeGpaODQwU1RKaS1qTDZaaVVLVDRycE52bHluX2ZIMl9sZ09QTGFMbDZmT1pGb2lpNnJzOTE1cURoak93VzJDUERtTVRJeHJVQy1PSVVjY1JVN0FlaWxHQkVTaFptQ29BLTN2VTRWVUdYVS1QSUg1SWpuNklhT0RsODZDU3d2QWhxaUY?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 13:37:40 GMT",
+        "title_clean": "Covilhã: Candidatura a Capital Portuguesa da Cultura lança site e imagem gráfica",
+        "clean_text": "Covilhã: Candidatura a Capital Portuguesa da Cultura lança site e imagem gráfica. A candidatura da Covilhã a Capital Portuguesa da Cultura 2028 já tem um website que permite acompanhar o trabalho desenvolvido, bem como descobrir a imagem de marca que foi escolhida como elemento identificativo. Esta candidatura está a ser promovida pelo Município da Covilhã e tem como base uma estratégia de comunidade e integração que envolve agentes culturais, empresas, instituições, escolas, universidade e outras entidades de diversos setores, além da comunidade em geral, que pode associar-se ao projeto deixando o seu contributo no próprio site. Entre os conteúdos do site, encontra-se ainda informação sobre o contexto, a proposta e os eixos, entre outras novidades que vão surgir. Igualmente presente, a imagem gráfica desenvolvida pela Lobby Films & Advertising, com direção criativa de Telmo Martins. Segundo nota de imprensa, \"esta marca nasce da ideia \"elementar e universal\" de elevar, explica o designer Telmo Martins. Assenta num \"Cᶜ\" - Covilhã elevada à Cultura, que funciona simultaneamente como símbolo, ideia e assinatura conceptual, incorporando um fio, elemento orgânico e identitário da Covilhã. Numa imagem simples e clara, inspirada na fórmula da potência matemática, um \"C\" é elevado a outro \"C\", estabelecendo a ligação entre todos os elementos que fazem parte da candidatura.\" A opção pelo preto e branco reforça a ideia de uma identidade aberta, capaz de acolher todas as expressões culturais do território. Serão as pessoas, os artistas, as obras, os espaços, os acontecimentos a dar-lhe cor\", detalha Telmo Martins. O processo criativo teve também em conta o facto de a Cultura não ser estática. Por isso, incorpora o fio, que não é apenas de lã, representando também o caminho de inovação digital e futuro que a Covilhã está a tecer.",
+        "keywords": [
+            {
+                "keyword": "portuguesa cultura 2028 website",
+                "score": 0.7727
+            },
+            {
+                "keyword": "portuguesa cultura lança site",
+                "score": 0.7517
+            },
+            {
+                "keyword": "capital portuguesa cultura 2028",
+                "score": 0.7371
+            },
+            {
+                "keyword": "candidatura capital portuguesa cultura",
+                "score": 0.724
+            },
+            {
+                "keyword": "capital portuguesa cultura lança",
+                "score": 0.6925
+            },
+            {
+                "keyword": "portuguesa cultura 2028",
+                "score": 0.6856
+            },
+            {
+                "keyword": "capital portuguesa cultura",
+                "score": 0.6473
+            },
+            {
+                "keyword": "portuguesa cultura lança",
+                "score": 0.6299
+            },
+            {
+                "keyword": "cultura 2028 website permite",
+                "score": 0.6285
+            },
+            {
+                "keyword": "candidatura capital portuguesa",
+                "score": 0.6238
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1p4TFdualRpZE1UYy1aNGpfcVhxU2RwOXFJbF9mME5EcGllX0xwNXJ0ZFFES24tYzlaOU9kV3JsVmM3ZzNoOEVWYW9TaTBRbVZrSzh1Wlp5WkNIRnVTeDRKVW0tMjlkWjR1VnNUdTl4ZkIwXzBwMjlzak10VF95dVBlVkJVeC0tbTl2TFhidE16QUV0cndHTldwdm9fbGlBSVVOUUZLSVQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 08:16:43 GMT",
+        "title_clean": "Covilhã é o município com maior área ardida entre 2020 e 2025",
+        "clean_text": "Covilhã é o município com maior área ardida entre 2020 e 2025. A Covilhã é o município com maior área ardida entre 2020 e 2025, segundo os dados divulgados pelo Instituto Nacional da Estatística (INE). Os dez municípios com maior área ardida nesse período estão localizados nas regiões Norte e Centro, sendo que a Covilhã registou 28,8 mil hectares ardidos. Logo de seguida vem o Sabugal com 22,6 mil hectares e Sernancelhe com 19,5 mil hectares. Entre 2020 e 2025 foram registados 50.218 incêndios, onde 31 por cento desses fogos começaram em áreas de alta perigosidade. As regiões do Norte e Centro concentraram 90,7 por cento da área ardida. O INE analisou ainda a distância entre as corporações de bombeiros e os territórios cuja o perigo de incêndio é elevado e concluiu que 69,6 por cento dos territórios classificados com alta e muito alta perigosidade estavam a mais de 15 minutos de uma corporação de bombeiros.",
+        "keywords": [
+            {
+                "keyword": "territórios cuja perigo incêndio",
+                "score": 0.7508
+            },
+            {
+                "keyword": "maior área ardida 2020",
+                "score": 0.7013
+            },
+            {
+                "keyword": "mil hectares ardidos",
+                "score": 0.6871
+            },
+            {
+                "keyword": "área ardida 2020",
+                "score": 0.6798
+            },
+            {
+                "keyword": "28 mil hectares ardidos",
+                "score": 0.6771
+            },
+            {
+                "keyword": "hectares ardidos logo seguida",
+                "score": 0.6712
+            },
+            {
+                "keyword": "bombeiros territórios cuja perigo",
+                "score": 0.663
+            },
+            {
+                "keyword": "bombeiros territórios cuja",
+                "score": 0.6441
+            },
+            {
+                "keyword": "área ardida 2020 2025",
+                "score": 0.6256
+            },
+            {
+                "keyword": "maior área ardida",
+                "score": 0.6251
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2JUM0NVZS1PZHJKSmNOaVEtYW1xRElvNllzSEZRSHROT0RtNEVGUmpoY0szbmFDSW43UThRMThMQ3pTRlctaVB6cms0SUh4c2xHSVNDc19HSnZTaGRScmVaZVl0SEpKZWVscVpQamh1RTBDQmpuVjhwTmFYS1pVUkk2R0g2SU5hSHdyQXluQnlpd1k3NGZPSU1yZXhYQkRqeHNrZlNKVGs0T3EweE9IRnc1WFhwODJ5QnlpMEdEX3lJNE0?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 20:12:24 GMT",
+        "title_clean": "Covilhã lança site e identidade gráfica da candidatura a Capital Portuguesa da Cultura 2028 - Notícias de Coimbra",
+        "clean_text": "Covilhã lança site e identidade gráfica da candidatura a Capital Portuguesa da Cultura 2028 - Notícias de Coimbra. A candidatura da Covilhã a Capital Portuguesa da Cultura 2028 já tem um novo site e uma identidade gráfica própria. A plataforma, disponível em covilha2028.pt, pretende dar a conhecer o projeto e envolver a comunidade na construção da candidatura. O site reúne informação sobre a proposta, os seus eixos e o trabalho desenvolvido, permitindo também a participação dos cidadãos. Através... PUBLICIDADE A sua assinatura é muito importante para o NDC continuar a fazer jornalismo de proximidade e na hora. Notícias de Coimbra deseja reforçar o seu posicionamento editorial independente e distante de todos os poderes locais e sua colaboração é fundamental para continuar a ter informação livre e em direto. Recordamos que NDC é o único meio de comunicação social de Coimbra que não pertence a nenhum grupo com \"outros interesses\". Para continuar a ler este artigo torne-se assinante. Apoie a nossa missão! Se ainda não é Assinante Assine aqui Se já é Assinante Iniciar sessão PUBLICIDADE",
+        "keywords": [
+            {
+                "keyword": "capital portuguesa cultura 2028",
+                "score": 0.6806
+            },
+            {
+                "keyword": "candidatura capital portuguesa cultura",
+                "score": 0.6549
+            },
+            {
+                "keyword": "portuguesa cultura 2028",
+                "score": 0.65
+            },
+            {
+                "keyword": "portuguesa cultura 2028 novo",
+                "score": 0.6487
+            },
+            {
+                "keyword": "cultura 2028 novo site",
+                "score": 0.6347
+            },
+            {
+                "keyword": "candidatura site reúne",
+                "score": 0.6179
+            },
+            {
+                "keyword": "desenvolvido permitindo participação cidadãos",
+                "score": 0.6117
+            },
+            {
+                "keyword": "projeto envolver comunidade",
+                "score": 0.6044
+            },
+            {
+                "keyword": "pretende dar conhecer projeto",
+                "score": 0.5975
+            },
+            {
+                "keyword": "gráfica candidatura capital portuguesa",
+                "score": 0.5963
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQlIyeTBKcDlTdHZBelN4MUdXdWpqRHROeHVNcF9SNTJ6RFpnU09IekVIZXp1SzJXSFNsdElpaFF1eEpvb21iT1FWTGNoZDZndFZyekZDUUJwRmxCbXVHeEZtcU1EVzZCa1pTcXJ6RkVzeHZXSTVvbW0zQm5id1poems0WUp6cGc5QzRKSXU5ZkxQdkVOMG9Zcno5NUhxNnExdVNmeFF1Qlp4b3dTOVZ3b2trQXFSZG03TmRTTWd4eENJd0llbmJlZFQtamdmeGpZOURBcjlCMA?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 11:15:59 GMT",
+        "title_clean": "COVILHÃ: Candidatura do município a capital portuguesa da cultura lança site e imagem gráfica",
+        "clean_text": "COVILHÃ: Candidatura do município a capital portuguesa da cultura lança site e imagem gráfica. A candidatura da Covilhã a Capital Portuguesa da Cultura 2028 já tem um website que permite acompanhar o trabalho desenvolvido, bem como descobrir a imagem de marca que foi escolhida como elemento identificativo. Esta candidatura está a ser promovida pelo Município da Covilhã e tem como base uma estratégia de comunidade e integração que envolve agentes culturais, empresas, instituições, escolas, universidade e outras entidades de diversos setores, além da comunidade em geral, que pode associar-se ao projeto deixando o seu contributo no próprio site. Disponível no endereço este sítio da internet permite estabelecer uma ligação e envolver todo o território. Para o efeito, conta com um espaço aberto designado \"Construir Juntos\", onde se encontra um formulário através do qual qualquer pessoa pode continuar a apresentar ideias, recomendações e propostas relacionadas com a candidatura. Entre os conteúdos do site, encontra-se ainda informação sobre o contexto, a proposta e os eixos, entre outras novidades que vão surgir. Igualmente presente, a imagem gráfica desenvolvida pela Lobby Films Advertising, com direção criativa de Telmo Martins. Centrada na ideia chave de um território elevado pela Cultura, esta marca nasce da ideia \"elementar e universal\" de elevar, explica o designer Telmo Martins. Assenta num \"Cᶜ\" - Covilhã elevada à Cultura, que funciona simultaneamente como símbolo, ideia e assinatura conceptual, incorporando um fio, elemento orgânico e identitário da Covilhã. Numa imagem simples e clara, inspirada na fórmula da potência matemática, um \"C\" é elevado a outro \"C\", estabelecendo a ligação entre todos os elementos que fazem parte da candidatura. O \"C\" representa Covilhã e Capital, Cultura e Criatividade, Conhecimento e Construção, Comunidade e Centro. \"A opção pelo preto e branco reforça a ideia de uma identidade aberta, capaz de acolher todas as expressões culturais do território. Serão as pessoas, os artistas, as obras, os espaços, os acontecimentos a dar-lhe cor\", detalha Telmo Martins. O processo criativo teve também em conta o facto de a Cultura não ser estática. Por isso, incorpora o fio, que não é apenas de lã, representando também o caminho de inovação digital e futuro que a Covilhã está a tecer. Tal como alcançou em 2021 com a integração na Rede de Cidades Criativas da UNESCO, a Covilhã pretende mais do que um selo, ambicionando reforçar e consolidar uma estratégia de desenvolvimento sustentável, através da cultura, do design e das artes.",
+        "keywords": [
+            {
+                "keyword": "portuguesa cultura 2028 website",
+                "score": 0.7767
+            },
+            {
+                "keyword": "portuguesa cultura lança site",
+                "score": 0.7622
+            },
+            {
+                "keyword": "capital portuguesa cultura 2028",
+                "score": 0.7389
+            },
+            {
+                "keyword": "capital portuguesa cultura lança",
+                "score": 0.6986
+            },
+            {
+                "keyword": "portuguesa cultura 2028",
+                "score": 0.6856
+            },
+            {
+                "keyword": "portuguesa cultura lança",
+                "score": 0.6324
+            },
+            {
+                "keyword": "cultura lança site",
+                "score": 0.615
+            },
+            {
+                "keyword": "cultura 2028 website permite",
+                "score": 0.6144
+            },
+            {
+                "keyword": "cultura lança site imagem",
+                "score": 0.5919
+            },
+            {
+                "keyword": "envolve agentes culturais empresas",
+                "score": 0.5615
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDdUekRXSXRCR1VxMFNJckh4MFpNTzdQOWZWTGQ3NDFFcy1Cc0s4RDRvN0w4M0hxalYxMDRwTFJJS0FvdVp6NHdMeUlqX0o5RndnUnJaczVkVVhFbEt1dS0wYk1MVXZsdkVsTk15enZwUHdIc2E4UmswMmtCMlNLNmtiWmlzT0Q5NGs3RUM4YXJzQkFZU3VmVGpVSTJ2Sjhkd3QwUV9NYTZpOXcyS1NFV1lFa015SVJlSG84MjhNZmlEb2Y5NTZ0SHdycGtMdFgwREF5dlYtd0NJbVVfemc?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 11:24:20 GMT",
+        "title_clean": "“Do Mar à Terra” começa hoje na Covilhã: Festival da Sardinha leva o sabor do mar à Serra da Estrela",
+        "clean_text": "\"Do Mar à Terra\" começa hoje na Covilhã: Festival da Sardinha leva o sabor do mar à Serra da Estrela. O cheiro da sardinha assada chega esta sexta-feira, 28 de agosto, à Covilhã. O \"Do Mar à Terra - Festival da Sardinha\" começa hoje e prolonga-se até domingo, 30 de agosto, levando ao coração da Beira Interior três dias de gastronomia, música, animação e tradição portuguesa. Depois da passagem por Águeda, o evento sobe agora à Serra da Estrela para recriar o ambiente dos grandes arraiais populares. Do mar para a montanha. É precisamente essa viagem que dá identidade a um festival que escolheu um dos maiores símbolos da gastronomia popular portuguesa para criar uma festa capaz de atravessar diferentes regiões do país. A partir de hoje, a sardinha assada assume o papel principal na Covilhã. As brasas, o pão, os sabores tradicionais e o ambiente de convívio característico das festas populares portuguesas dão corpo a um evento pensado para reunir famílias, grupos de amigos, habitantes da região e visitantes. Mas o \"Do Mar à Terra\" pretende ser mais do que uma simples sardinhada. O conceito passa por recriar uma verdadeira festa portuguesa, juntando gastronomia, música, animação e convívio num mesmo espaço e recuperando o espírito dos arraiais e romarias que continuam a marcar os meses de verão de norte a sul do país. A chegada à Covilhã dá ao próprio nome do festival um significado ainda mais evidente. A cidade, situada às portas da Serra da Estrela, possui uma identidade historicamente ligada à montanha, aos lanifícios, à pastorícia e aos produtos tradicionais da Beira Interior. Durante este fim de semana, essa realidade cruza-se com um dos símbolos gastronómicos mais associados ao litoral português. É o encontro entre dois territórios e duas imagens de Portugal. De um lado está o mar, representado pela sardinha e pela tradição piscatória. Do outro está a serra, representada pela Covilhã e por uma região com cultura, produtos e tradições próprias. No meio fica uma mesa portuguesa. A sardinha assada ocupa há décadas um lugar muito particular na cultura popular nacional. Servida no pão ou acompanhada à mesa, está intimamente ligada aos Santos Populares, aos arraiais, às romarias e às grandes festas de verão. Poucas imagens conseguem representar tão facilmente esse ambiente como as brasas acesas, as sardinhas alinhadas sobre a grelha e as pessoas reunidas à mesa. É precisamente esse cenário que o festival pretende transportar para a Covilhã durante os próximos três dias. O conceito já passou este verão por Águeda, onde o \"Do Mar à Terra - Festival da Sardinha\" decorreu entre 7 e 10 de agosto, no Largo 1.º de Maio. Agora, a iniciativa prossegue a sua viagem pelo país e escolhe a Covilhã para esta nova etapa. A mudança de cenário dificilmente poderia ser mais simbólica. Se em Águeda a iniciativa apresentou o conceito de um grande arraial português, na Covilhã a própria geografia ajuda a contar a história do evento: o mar sobe à Serra da Estrela. A realização no último fim de semana de agosto acrescenta ainda uma componente turística importante. A Covilhã é uma das principais portas de entrada da Serra da Estrela e recebe durante o verão visitantes atraídos pela natureza, património, gastronomia e oferta cultural da região. Nos dias 28, 29 e 30 de agosto, o Festival da Sardinha acrescenta mais uma proposta a essa programação. Para quem visita a região, será uma oportunidade para encontrar na serra sabores normalmente associados ao litoral. Para quem vive na Covilhã e nos concelhos próximos, o festival propõe três dias de festa em torno de uma tradição profundamente enraizada na cultura portuguesa. E a comida será apenas uma parte da experiência. O espírito do \"Do Mar à Terra\" assenta precisamente na fórmula mais simples das grandes festas populares: comida, música e pessoas reunidas à mesa. É essa atmosfera que começa a ser vivida hoje na Covilhã e que se prolongará por todo o fim de semana. Depois de Águeda, chega a vez da Serra da Estrela. O \"Do Mar à Terra - Festival da Sardinha\" começa hoje, 28 de agosto, e continua até domingo, dia 30. Durante três dias, mar e serra encontram-se à mesma mesa e, desta vez, para comer sardinha assada não será necessário procurar o litoral: o mar vai subir à Covilhã.",
+        "keywords": [
+            {
+                "keyword": "mar terra festival sardinha",
+                "score": 0.7481
+            },
+            {
+                "keyword": "terra festival sardinha começa",
+                "score": 0.7299
+            },
+            {
+                "keyword": "festival sardinha começa",
+                "score": 0.7175
+            },
+            {
+                "keyword": "festival sardinha começa hoje",
+                "score": 0.7081
+            },
+            {
+                "keyword": "festival sardinha decorreu",
+                "score": 0.6675
+            },
+            {
+                "keyword": "terra festival sardinha decorreu",
+                "score": 0.6648
+            },
+            {
+                "keyword": "águeda mar terra festival",
+                "score": 0.6566
+            },
+            {
+                "keyword": "mar terra festival",
+                "score": 0.6503
+            },
+            {
+                "keyword": "festival sardinha leva",
+                "score": 0.6496
+            },
+            {
+                "keyword": "terra festival sardinha",
+                "score": 0.6489
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzlVczNEMzFXVHdGM2paZVE1ZkhhbktGcXljWk5kRlU1dGZxanJOU3hjazhVUG5zcUFCMUIxN3BrbVgwYjgwU1dUeDd3RHB5MjhscEtnVUdadlp5dXdGMGFMVng1OEE0NmJpeFktTzNlcV83R2JiWkYyLTI1OS1LTVd5UDlNUQ?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 11:22:00 GMT",
+        "title_clean": "Fundão recebe 6.º Festival Internacional de Guitarra",
+        "clean_text": "Fundão recebe 6.º Festival Internacional de Guitarra. A guitarra volta a estar em destaque no Fundão, com a realização da 6.ª edição do Festival Internacional de Guitarra, entre sexta-feira e domingo, 4 a 6 de setembro. Ao longo dos três dias, o auditório d'A Moagem recebe nove propostas musicais, com diferentes formações e cruzamentos entre a guitarra e outros instrumentos. A abertura do festival acontece na sexta-feira, às 21h30, com a atuação do duo espanhol Dos Santos-Pons, que junta violino e guitarra. Segue-se El Quinteto Furioso, de Portugal, formação composta por guitarra, violino, contrabaixo, piano e acordeão. No sábado, 5 de setembro, o programa começa às 16h30, com o dinamarquês Duo Petersen & Svit, formado por flauta e guitarra, e o italiano Quarteto Mefitis, que reúne vozes, violino e guitarra. Às 18h00, é a vez do Quarteto Maurizio Mastrini, também de Itália, apresentar uma formação que combina piano, guitarra, acordeão e clarinete. O último dia do festival inicia-se às 16h30, com duas atuações. O Duo Lucini-Falloni, de Itália, apresenta-se em guitarra e piano, enquanto o suíço Duo Origines cruza guitarra e flauta de Pan. O encerramento está marcado para as 18h00, com o Trio Robin Nolan, dos Países Baixos, constituído por duas guitarras e contrabaixo. A programação da edição deste ano evidencia a dimensão internacional do festival, ao reunir intérpretes provenientes de seis países e diferentes formações musicais, tendo a guitarra como elemento comum. A iniciativa é organizada pelo Município do Fundão e pela Associação Concordis - Quarteto de Guitarras, com o apoio da Academia de Música e Dança do Fundão e da Quinta dos Currais. O bilhete geral tem um custo de nove euros e o bilhete diário de quatro euros. As reservas podem ser efetuadas através do e-mail ou do telefone 275 773 032.",
+        "keywords": [
+            {
+                "keyword": "festival internacional guitarra sexta",
+                "score": 0.8256
+            },
+            {
+                "keyword": "festival internacional guitarra",
+                "score": 0.805
+            },
+            {
+                "keyword": "edição festival internacional guitarra",
+                "score": 0.802
+            },
+            {
+                "keyword": "festival internacional guitarra guitarra",
+                "score": 0.7954
+            },
+            {
+                "keyword": "recebe festival internacional guitarra",
+                "score": 0.7922
+            },
+            {
+                "keyword": "internacional guitarra sexta feira",
+                "score": 0.7545
+            },
+            {
+                "keyword": "instrumentos abertura festival acontece",
+                "score": 0.7165
+            },
+            {
+                "keyword": "internacional guitarra sexta",
+                "score": 0.7104
+            },
+            {
+                "keyword": "guitarra 18h00 vez quarteto",
+                "score": 0.7071
+            },
+            {
+                "keyword": "formações musicais tendo guitarra",
+                "score": 0.7039
+            }
+        ],
+        "source_name": "Universidade da Beira Interior"
     }
 ]
