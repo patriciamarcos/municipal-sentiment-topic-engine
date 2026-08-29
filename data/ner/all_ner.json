@@ -149857,6 +149857,26 @@
         ]
     },
     {
+        "record_id": "bluesky_at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mu7zkjpbgb2t",
+        "source": "bluesky",
+        "created_at": "2026-08-29T13:52:24.458165Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo - Mato",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã Fog",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "youtube_cr9cyh_W8jk",
         "source": "youtube",
         "created_at": "2026-04-25T23:13:37Z",
