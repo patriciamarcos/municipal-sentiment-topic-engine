@@ -147064,5 +147064,451 @@
             }
         ],
         "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1pnTmphZ3c2WjdZdDRIZnl3cURlbERqa0dXMWNRSnVINmpvMUQwWHh4bnp1YmxBRHBBeUs1VGJKYUMySjJxVE04Q1ZsNGdvU2lPaWdKMDkyWS1JNXNpejZfZkthcEQyR3ZYZ3B1QlA5S2dtSkdJakg4MVpjNHRRRDlqY0ozbHNad243Z2ZTem9scERxT3FwZllrM0plRU1DRk52b2pTMA?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 13:00:00 GMT",
+        "title_clean": "Covilhã – FIADA regressa com quatro dias dedicados ao artesanato, design e artes - Jornal A Guarda",
+        "clean_text": "Covilhã - FIADA regressa com quatro dias dedicados ao artesanato, design e artes - Jornal A Guarda",
+        "keywords": [
+            {
+                "keyword": "regressa quatro dedicados artesanato",
+                "score": 0.7982
+            },
+            {
+                "keyword": "regressa quatro dedicados",
+                "score": 0.6756
+            },
+            {
+                "keyword": "fiada regressa quatro dedicados",
+                "score": 0.6751
+            },
+            {
+                "keyword": "quatro dedicados artesanato",
+                "score": 0.6378
+            },
+            {
+                "keyword": "fiada regressa quatro",
+                "score": 0.6086
+            },
+            {
+                "keyword": "quatro dedicados artesanato design",
+                "score": 0.6059
+            },
+            {
+                "keyword": "regressa quatro",
+                "score": 0.6047
+            },
+            {
+                "keyword": "dedicados artesanato",
+                "score": 0.599
+            },
+            {
+                "keyword": "dedicados artesanato design artes",
+                "score": 0.5944
+            },
+            {
+                "keyword": "artesanato design artes",
+                "score": 0.5787
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnFtSXo4WG9RYTRPVllENTlZcnktaUVpVERVZ3RuLVc5dlZmVkt3dW54NmxSY3pEYXktSmZDOUJNQVNQWkZUVThSVFFOc1FDMkxhRHQzMFpPY2VtVmI3c01yc2wzZC1GQUdnRGZNMFZZRXUzNWpPMFJPbVpCRDlLdzVQQmo3cXlKcjA1YlJBWDd6VWtFYmJxU3kwNHhYeEhKNkh2MHltdlZlZXRKLWc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 11:46:21 GMT",
+        "title_clean": "Guarda, Fornos e Sp. Covilhã jogam primeira eliminatória da Taça de Portugal",
+        "clean_text": "Guarda, Fornos e Sp. Covilhã jogam primeira eliminatória da Taça de Portugal. O Guarda FC, a AD Fornos de Algodres e o Sporting da Covilhã jogam na tarde deste domingo a primeira eliminatória da Taça de Portugal. Os guardenses, que militam no Campeonato de Portugal, viajam até ao Fundão para defrontar o Académico local, do Distrital de Castelo Branco, enquanto os fornenses, do Distrital da Guarda, recebem \"Os Marialvas\", de Cantanhede, que disputam o Campeonato de Portugal. Já o Sp. Covilhã, da Liga 3, vai receber o Mortágua, do Campeonato de Portugal. Todos os jogos têm início às 17 horas. O Figueirense, do Distrital da Guarda, está isento e passou automaticamente à segunda eliminatória da \"prova rainha\" do futebol nacional.",
+        "keywords": [
+            {
+                "keyword": "guardenses militam campeonato portugal",
+                "score": 0.7964
+            },
+            {
+                "keyword": "disputam campeonato portugal sp",
+                "score": 0.7787
+            },
+            {
+                "keyword": "portugal guardenses militam campeonato",
+                "score": 0.7727
+            },
+            {
+                "keyword": "receber mortágua campeonato portugal",
+                "score": 0.7628
+            },
+            {
+                "keyword": "campeonato portugal todos jogos",
+                "score": 0.7602
+            },
+            {
+                "keyword": "disputam campeonato portugal",
+                "score": 0.756
+            },
+            {
+                "keyword": "militam campeonato portugal",
+                "score": 0.7549
+            },
+            {
+                "keyword": "campeonato portugal sp",
+                "score": 0.7539
+            },
+            {
+                "keyword": "mortágua campeonato portugal todos",
+                "score": 0.7489
+            },
+            {
+                "keyword": "campeonato portugal todos",
+                "score": 0.7327
+            }
+        ],
+        "source_name": "Jornal o Interior"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmluZjRCSHZraXZ0SWJXRWd5SHd6Zkx3bk9uZ0h3UFA5Q2ZlVjBHcDdzVzNnYzBSamM4VFpQQjBBOEtBU01oSXNQRF9NaHR6RlVNRGozZHJXVUlGenNEMG9oUHlWeXNJR0t0Vkg4d1h0TktoaGtuU1hNc1BzZFBUUEhMbjF2ekpJTGJ4U0hKLWNhSm9JYmF2cVI3TGN0bERDQXpTYURIMFBwZlluLXZoN3RObmlqVXNVSk9WcS1sS2pCdmNpTHI4b0ZNUQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 13:02:22 GMT",
+        "title_clean": "COVILHÃ: Obras de pavimentação avançam entre a EN18 e o Parque Industrial do Canhoso",
+        "clean_text": "COVILHÃ: Obras de pavimentação avançam entre a EN18 e o Parque Industrial do Canhoso. Arrancaram na sexta-feira, dia 28 de agosto, os trabalhos de alcatroamento do troço rodoviário que liga a Estrada Nacional 18 ao Parque Industrial do Canhoso, no concelho da Covilhã. A intervenção está integrada na empreitada de pavimentação da Área Urbana da Grande Covilhã, que contempla também o percurso entre a Alameda Europa, junto à Rotunda do Operário, e o Canhoso, incluindo a via que atravessa a zona da Central de Camionagem e da Adega da Covilhã. A obra representa um investimento global superior a 700 mil euros e deverá prolongar-se pelas próximas semanas. Durante este período, estão previstos cortes e condicionamentos de trânsito nas vias abrangidas pelos trabalhos. O Município da Covilhã alerta os automobilistas para os constrangimentos que poderão ocorrer e apela à compreensão e à colaboração da população, sublinhando que a intervenção pretende melhorar as condições de circulação e reforçar a segurança rodoviária. Fotos: Município da Covilhã",
+        "keywords": [
+            {
+                "keyword": "pavimentação avançam en18 parque",
+                "score": 0.7357
+            },
+            {
+                "keyword": "integrada empreitada pavimentação área",
+                "score": 0.6896
+            },
+            {
+                "keyword": "empreitada pavimentação área",
+                "score": 0.6895
+            },
+            {
+                "keyword": "intervenção integrada empreitada pavimentação",
+                "score": 0.685
+            },
+            {
+                "keyword": "integrada empreitada pavimentação",
+                "score": 0.6797
+            },
+            {
+                "keyword": "obras pavimentação avançam en18",
+                "score": 0.6719
+            },
+            {
+                "keyword": "pavimentação avançam en18",
+                "score": 0.6711
+            },
+            {
+                "keyword": "estrada nacional 18 parque",
+                "score": 0.6686
+            },
+            {
+                "keyword": "pavimentação área urbana grande",
+                "score": 0.6631
+            },
+            {
+                "keyword": "pavimentação área",
+                "score": 0.6622
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGFIOUxETWN5V2lEYmVSOEdGaHFUUHVGdll0bnA4bkItYXF6VVNiVXg1NjZFQThaX0pidHp5YXlpTktLOVpsZGgyYjluOVo2VXRtNkQzT2txUHNmNWlDQTl3QWY1dzhfQ2dmV1dhYXpkbHFSaldaU3JQdDhsQmo4ZUNTRXdXbWV3d0VCbXJQTVRBLXZweDlnXzVvNjZGRWlEVGlz?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 19:28:01 GMT",
+        "title_clean": "Sporting Clube da Covilhã eliminado da Taça de Portugal",
+        "clean_text": "Sporting Clube da Covilhã eliminado da Taça de Portugal. O Sporting Clube da Covilhã foi eliminado na 1ª fase da Taça de Portugal, esta tarde, frente ao Mortágua FC, no Estádio José Santos Pinto. A Prova Rainha começou este sábado e o conjunto serrano não conseguiu seguir em frente na competição, depois de perder nas grandes penalidades (2-4). Recorde-se que o Benfica e Castelo Branco também ficou pelo caminho, depois da derrota frente ao CD Fátima (3-1) e o Clube Académico do Fundão perdeu contra o Guarda Futebol Clube (0-6). Já o Alcains seguiu em frente, após derrotar o Sertanense (1-0), assim como o Vitória Sernache, que venceu os Nazarenos (0-3). Os dois emblemas do distrito seguem agora para a segunda eliminatória da Taça de Portugal.",
+        "keywords": [
+            {
+                "keyword": "frente mortágua fc estádio",
+                "score": 0.6984
+            },
+            {
+                "keyword": "eliminado taça portugal sporting",
+                "score": 0.6976
+            },
+            {
+                "keyword": "mortágua fc estádio",
+                "score": 0.6861
+            },
+            {
+                "keyword": "mortágua fc estádio josé",
+                "score": 0.6581
+            },
+            {
+                "keyword": "portugal sporting",
+                "score": 0.6442
+            },
+            {
+                "keyword": "fc estádio",
+                "score": 0.6239
+            },
+            {
+                "keyword": "segunda eliminatória taça portugal",
+                "score": 0.6093
+            },
+            {
+                "keyword": "taça portugal sporting",
+                "score": 0.6002
+            },
+            {
+                "keyword": "fc estádio josé",
+                "score": 0.5895
+            },
+            {
+                "keyword": "frente mortágua fc",
+                "score": 0.589
+            }
+        ],
+        "source_name": "Rádio Clube da Covilhã"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHRvTi1telh1aEtoSXp4RFhrRnpOWnNNQTcxRE9oVm5wZkNqZ2tPTFpfelpiRUlla1RIVlc3RV9PNFRLeTM2T2g3Wm5qR3VVcDZJdzJBaFJLdUFoNllWZDJ1b3lkZk5zLWxscGFwWnBkcS1KNlVWc09Ld015ajZXSWdrWXdHZFNKRFZCZm12MVUwVWJXZm9KRjB0Mi1wbHRkejJ1WWpmcmhKNEJTeTRTeDJaU3NWaFRwWkh5TjFIWmhMaXpLZU9j?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 10:45:15 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting Clube da Covilhã reforça baliza com Henrique Torcato",
+        "clean_text": "Mercado of Sport's: Sporting Clube da Covilhã reforça baliza com Henrique Torcato. O clube serrano deu as boas-vindas ao jogador, que chega para integrar o plantel na nova temporada e aumentar as opções para a baliza. Henrique Torcato passa assim a representar o Sporting da Covilhã, preparando-se para o novo desafio ao serviço do emblema covilhanense.",
+        "keywords": [
+            {
+                "keyword": "reforça baliza henrique torcato",
+                "score": 0.6605
+            },
+            {
+                "keyword": "boas vindas jogador chega",
+                "score": 0.6396
+            },
+            {
+                "keyword": "serrano deu boas vindas",
+                "score": 0.6388
+            },
+            {
+                "keyword": "deu boas vindas jogador",
+                "score": 0.6338
+            },
+            {
+                "keyword": "boas vindas jogador",
+                "score": 0.6156
+            },
+            {
+                "keyword": "vindas jogador",
+                "score": 0.597
+            },
+            {
+                "keyword": "henrique torcato",
+                "score": 0.5955
+            },
+            {
+                "keyword": "baliza henrique torcato passa",
+                "score": 0.5898
+            },
+            {
+                "keyword": "jogador chega integrar plantel",
+                "score": 0.5866
+            },
+            {
+                "keyword": "representar sporting",
+                "score": 0.5851
+            }
+        ],
+        "source_name": "SAPO"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMie0FVX3lxTE1GT1ZlZ053dmZHNkpseDU4dzFjeGdzR1NrNkttQmdfYXFCLXRKLWw4M2p3MmJBcmViajFEaHR0SVZ6WjhJdjMxXy1XckVzNmdrUU1zeFM0RG9MRGNXUzhwd2pVV2U0eWtjdUV3Z0RvVVZCN0tRbDIxOFZBQQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 07:00:00 GMT",
+        "title_clean": "Ficha de Jogo SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27",
+        "clean_text": "Ficha de Jogo SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27",
+        "keywords": [
+            {
+                "keyword": "mortágua fc taça portugal",
+                "score": 0.7683
+            },
+            {
+                "keyword": "fc taça portugal generali",
+                "score": 0.7625
+            },
+            {
+                "keyword": "fc taça portugal",
+                "score": 0.7353
+            },
+            {
+                "keyword": "portugal generali tranquilidade 2026",
+                "score": 0.7078
+            },
+            {
+                "keyword": "taça portugal generali tranquilidade",
+                "score": 0.6725
+            },
+            {
+                "keyword": "portugal generali tranquilidade",
+                "score": 0.6554
+            },
+            {
+                "keyword": "taça portugal generali",
+                "score": 0.637
+            },
+            {
+                "keyword": "portugal generali",
+                "score": 0.6153
+            },
+            {
+                "keyword": "mortágua fc",
+                "score": 0.6076
+            },
+            {
+                "keyword": "mortágua fc taça",
+                "score": 0.606
+            }
+        ],
+        "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgFBVV95cUxOcFZzS2xvQUxGOUtoSTRodElTTjRVTjdINmNVemc2bzBfZGtadVJJZGpMbXYtWW1mM3BJOTBBZElmVk5RaDlNVFNkZWktNFFOZXhfY3dmMDlFN2M1a2JUYmpSVVZONGQ1VmZCMEJUbDBpRXNnY3FoZW03dUVRNVpWUEtPRmdpQQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 21:22:44 GMT",
+        "title_clean": "Ficha de Jogo SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27",
+        "clean_text": "Ficha de Jogo SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27",
+        "keywords": [
+            {
+                "keyword": "mortágua fc taça portugal",
+                "score": 0.7683
+            },
+            {
+                "keyword": "fc taça portugal generali",
+                "score": 0.7625
+            },
+            {
+                "keyword": "fc taça portugal",
+                "score": 0.7353
+            },
+            {
+                "keyword": "portugal generali tranquilidade 2026",
+                "score": 0.7078
+            },
+            {
+                "keyword": "taça portugal generali tranquilidade",
+                "score": 0.6725
+            },
+            {
+                "keyword": "portugal generali tranquilidade",
+                "score": 0.6554
+            },
+            {
+                "keyword": "taça portugal generali",
+                "score": 0.637
+            },
+            {
+                "keyword": "portugal generali",
+                "score": 0.6153
+            },
+            {
+                "keyword": "mortágua fc",
+                "score": 0.6076
+            },
+            {
+                "keyword": "mortágua fc taça",
+                "score": 0.606
+            }
+        ],
+        "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxPdENkX3BHMmRNYk93QXE5M2p5cmNXeVhSbnBSOGxud0NxYmRGUXd3bmNRSUlaZ3A2Ql83TmpzUlhySTVDMFJzMl9OTWx5TklpY21TaXVzVmpHZ3JuVGRXa1dfOHp2a3NENUlDSjUzRWRQek10bl9DX0h4NTkxcHFNNHNNcGlyTms?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 18:35:00 GMT",
+        "title_clean": "Notícias :: SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27 ::",
+        "clean_text": "Notícias :: SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27 ::",
+        "keywords": [
+            {
+                "keyword": "mortágua fc taça portugal",
+                "score": 0.7375
+            },
+            {
+                "keyword": "fc taça portugal generali",
+                "score": 0.728
+            },
+            {
+                "keyword": "portugal generali tranquilidade 2026",
+                "score": 0.7228
+            },
+            {
+                "keyword": "fc taça portugal",
+                "score": 0.69
+            },
+            {
+                "keyword": "taça portugal generali tranquilidade",
+                "score": 0.6788
+            },
+            {
+                "keyword": "portugal generali tranquilidade",
+                "score": 0.6571
+            },
+            {
+                "keyword": "taça portugal generali",
+                "score": 0.642
+            },
+            {
+                "keyword": "portugal generali",
+                "score": 0.6115
+            },
+            {
+                "keyword": "mortágua fc",
+                "score": 0.6056
+            },
+            {
+                "keyword": "mortágua fc taça",
+                "score": 0.5913
+            }
+        ],
+        "source_name": "zerozero.pt"
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PM2dJU0ZONU81TVFHblp6emJSUlNzMFdmbTZVLVpqcDdDbjRkekhDWnRPOTVXaldpWW80US0tQzhTT3VvZnloZFNPYUVyemF3VHAxXy1qX3ZvS1VJd2ktaA?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 07:58:21 GMT",
+        "title_clean": "Porque todos os jogos começam assim...",
+        "clean_text": "Porque todos os jogos começam assim...",
+        "keywords": [
+            {
+                "keyword": "todos jogos começam assim",
+                "score": 0.9449
+            },
+            {
+                "keyword": "porque todos jogos começam",
+                "score": 0.9433
+            },
+            {
+                "keyword": "jogos começam assim",
+                "score": 0.8934
+            },
+            {
+                "keyword": "todos jogos começam",
+                "score": 0.867
+            },
+            {
+                "keyword": "porque todos jogos",
+                "score": 0.7945
+            },
+            {
+                "keyword": "jogos começam",
+                "score": 0.7701
+            },
+            {
+                "keyword": "todos jogos",
+                "score": 0.7288
+            },
+            {
+                "keyword": "começam assim",
+                "score": 0.6478
+            },
+            {
+                "keyword": "porque todos",
+                "score": 0.4818
+            }
+        ],
+        "source_name": "zerozero.pt"
     }
 ]

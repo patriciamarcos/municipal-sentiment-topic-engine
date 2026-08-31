@@ -8979,5 +8979,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:vbfpsenn4udlelrmxujq7gj4/app.bsky.feed.post/3muehlgha2i22",
+        "source": "bluesky",
+        "created_at": "2026-08-31T08:14:06.058Z",
+        "title_clean": "",
+        "clean_text": "Psst, hast du schon gehört? In Covilha feierst du Silvester komplett umsonst auf der Silvester-Party vor der atemberaubenden Serra da Estrela! 🎆 Livemusik, ein Festzelt und um Mitternacht zündet der Himmel über Portugal ab - das ist echte Neujahrszauber mit Bergpanorama. Die genauen Acts werd...",
+        "keywords": [
+            {
+                "keyword": "der himmel über portugal",
+                "score": 0.6686
+            },
+            {
+                "keyword": "himmel über portugal",
+                "score": 0.6527
+            },
+            {
+                "keyword": "party vor der atemberaubenden",
+                "score": 0.6429
+            },
+            {
+                "keyword": "neujahrszauber mit bergpanorama die",
+                "score": 0.6376
+            },
+            {
+                "keyword": "estrela livemusik ein festzelt",
+                "score": 0.6344
+            },
+            {
+                "keyword": "über portugal ab ist",
+                "score": 0.6241
+            },
+            {
+                "keyword": "feierst du silvester",
+                "score": 0.6067
+            },
+            {
+                "keyword": "atemberaubenden serra estrela livemusik",
+                "score": 0.606
+            }
+        ],
+        "source_name": null
     }
 ]

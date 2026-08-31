@@ -145286,6 +145286,277 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1pnTmphZ3c2WjdZdDRIZnl3cURlbERqa0dXMWNRSnVINmpvMUQwWHh4bnp1YmxBRHBBeUs1VGJKYUMySjJxVE04Q1ZsNGdvU2lPaWdKMDkyWS1JNXNpejZfZkthcEQyR3ZYZ3B1QlA5S2dtSkdJakg4MVpjNHRRRDlqY0ozbHNad243Z2ZTem9scERxT3FwZllrM0plRU1DRk52b2pTMA?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 13:00:00 GMT",
+        "title_clean": "Covilhã – FIADA regressa com quatro dias dedicados ao artesanato, design e artes - Jornal A Guarda",
+        "entities": [
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            },
+            {
+                "text": "Jornal",
+                "label": "ORG"
+            },
+            {
+                "text": "A Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnFtSXo4WG9RYTRPVllENTlZcnktaUVpVERVZ3RuLVc5dlZmVkt3dW54NmxSY3pEYXktSmZDOUJNQVNQWkZUVThSVFFOc1FDMkxhRHQzMFpPY2VtVmI3c01yc2wzZC1GQUdnRGZNMFZZRXUzNWpPMFJPbVpCRDlLdzVQQmo3cXlKcjA1YlJBWDd6VWtFYmJxU3kwNHhYeEhKNkh2MHltdlZlZXRKLWc?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 11:46:21 GMT",
+        "title_clean": "Guarda, Fornos e Sp. Covilhã jogam primeira eliminatória da Taça de Portugal",
+        "entities": [
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda FC",
+                "label": "ORG"
+            },
+            {
+                "text": "AD Fornos de Algodres",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Académico",
+                "label": "ORG"
+            },
+            {
+                "text": "Distrital de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Distrital da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Os Marialvas",
+                "label": "ORG"
+            },
+            {
+                "text": "Canta",
+                "label": "LOC"
+            },
+            {
+                "text": "Mortá",
+                "label": "ORG"
+            },
+            {
+                "text": "Figueirense",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmluZjRCSHZraXZ0SWJXRWd5SHd6Zkx3bk9uZ0h3UFA5Q2ZlVjBHcDdzVzNnYzBSamM4VFpQQjBBOEtBU01oSXNQRF9NaHR6RlVNRGozZHJXVUlGenNEMG9oUHlWeXNJR0t0Vkg4d1h0TktoaGtuU1hNc1BzZFBUUEhMbjF2ekpJTGJ4U0hKLWNhSm9JYmF2cVI3TGN0bERDQXpTYURIMFBwZlluLXZoN3RObmlqVXNVSk9WcS1sS2pCdmNpTHI4b0ZNUQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 13:02:22 GMT",
+        "title_clean": "COVILHÃ: Obras de pavimentação avançam entre a EN18 e o Parque Industrial do Canhoso",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Industrial do Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Estrada Nacional 18",
+                "label": "LOC"
+            },
+            {
+                "text": "Área Urban",
+                "label": "LOC"
+            },
+            {
+                "text": "Grande Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Rotunda do Operário",
+                "label": "LOC"
+            },
+            {
+                "text": "Central de Camionagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Adega da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGFIOUxETWN5V2lEYmVSOEdGaHFUUHVGdll0bnA4bkItYXF6VVNiVXg1NjZFQThaX0pidHp5YXlpTktLOVpsZGgyYjluOVo2VXRtNkQzT2txUHNmNWlDQTl3QWY1dzhfQ2dmV1dhYXpkbHFSaldaU3JQdDhsQmo4ZUNTRXdXbWV3d0VCbXJQTVRBLXZweDlnXzVvNjZGRWlEVGlz?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 19:28:01 GMT",
+        "title_clean": "Sporting Clube da Covilhã eliminado da Taça de Portugal",
+        "entities": [
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Estádio José Santos Pinto",
+                "label": "LOC"
+            },
+            {
+                "text": "Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Fátima",
+                "label": "ORG"
+            },
+            {
+                "text": "Clube Académico do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda Futebol Clube",
+                "label": "ORG"
+            },
+            {
+                "text": "Alcains",
+                "label": "ORG"
+            },
+            {
+                "text": "Sertanense",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória Sernache",
+                "label": "ORG"
+            },
+            {
+                "text": "Nazarenos",
+                "label": "ORG"
+            },
+            {
+                "text": "Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHRvTi1telh1aEtoSXp4RFhrRnpOWnNNQTcxRE9oVm5wZkNqZ2tPTFpfelpiRUlla1RIVlc3RV9PNFRLeTM2T2g3Wm5qR3VVcDZJdzJBaFJLdUFoNllWZDJ1b3lkZk5zLWxscGFwWnBkcS1KNlVWc09Ld015ajZXSWdrWXdHZFNKRFZCZm12MVUwVWJXZm9KRjB0Mi1wbHRkejJ1WWpmcmhKNEJTeTRTeDJaU3NWaFRwWkh5TjFIWmhMaXpLZU9j?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 10:45:15 GMT",
+        "title_clean": "Mercado of Sport’s: Sporting Clube da Covilhã reforça baliza com Henrique Torcato",
+        "entities": [
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Henrique Torcato",
+                "label": "PER"
+            },
+            {
+                "text": "Sporting da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMie0FVX3lxTE1GT1ZlZ053dmZHNkpseDU4dzFjeGdzR1NrNkttQmdfYXFCLXRKLWw4M2p3MmJBcmViajFEaHR0SVZ6WjhJdjMxXy1XckVzNmdrUU1zeFM0RG9MRGNXUzhwd2pVV2U0eWtjdUV3Z0RvVVZCN0tRbDIxOFZBQQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 07:00:00 GMT",
+        "title_clean": "Ficha de Jogo SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortá",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihgFBVV95cUxOcFZzS2xvQUxGOUtoSTRodElTTjRVTjdINmNVemc2bzBfZGtadVJJZGpMbXYtWW1mM3BJOTBBZElmVk5RaDlNVFNkZWktNFFOZXhfY3dmMDlFN2M1a2JUYmpSVVZONGQ1VmZCMEJUbDBpRXNnY3FoZW03dUVRNVpWUEtPRmdpQQ?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 21:22:44 GMT",
+        "title_clean": "Ficha de Jogo SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortá",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxPdENkX3BHMmRNYk93QXE5M2p5cmNXeVhSbnBSOGxud0NxYmRGUXd3bmNRSUlaZ3A2Ql83TmpzUlhySTVDMFJzMl9OTWx5TklpY21TaXVzVmpHZ3JuVGRXa1dfOHp2a3NENUlDSjUzRWRQek10bl9DX0h4NTkxcHFNNHNNcGlyTms?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 18:35:00 GMT",
+        "title_clean": "Notícias :: SC Covilhã 0-0(2-4)g.p. Mortágua FC :: Taça de Portugal Generali Tranquilidade 2026/27 ::",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortá",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça de Portugal Generali",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PM2dJU0ZONU81TVFHblp6emJSUlNzMFdmbTZVLVpqcDdDbjRkekhDWnRPOTVXaldpWW80US0tQzhTT3VvZnloZFNPYUVyemF3VHAxXy1qX3ZvS1VJd2ktaA?oc=5",
+        "source": "news",
+        "created_at": "Sun, 30 Aug 2026 07:58:21 GMT",
+        "title_clean": "Porque todos os jogos começam assim...",
+        "entities": []
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -150032,6 +150303,26 @@
             },
             {
                 "text": "Covilhã Fog",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:vbfpsenn4udlelrmxujq7gj4/app.bsky.feed.post/3muehlgha2i22",
+        "source": "bluesky",
+        "created_at": "2026-08-31T08:14:06.058Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilha",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
                 "label": "LOC"
             }
         ]
