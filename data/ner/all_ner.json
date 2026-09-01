@@ -145557,6 +145557,738 @@
         "entities": []
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxONDRSYlFjeW82N3lENXpNUXFSZnhGRXRoX2Z3Y2lySkxEQnZVSjJyR0UzNmd6NlB0bVVBQmhGUjZIQkpoWTZDbnp5cUNhSXVxdUp4OWpuYm9uMm5PcXBWNjhHbU05YUFKTlRPUE5Gc1VRbWxFdVR6RnpiRVpmNERrbmQySVpCeFZHWnlBSkVNTkRZNWdKYnpRcHpXeENnQXNPRG1SV9IBnwFBVV95cUxNNGFIQzJyaXlPZ3lCUzdKM1VnUjdKWFZKUmVDVk03aHhOQjJJQXRyR3d4ekx4T0xjNkdydXFjdHNDa0lISDM5cHB4dE5tNnA3U051Z3ducnFDano0R092RTZZMl9MQllTLTllblpLdFRBRlk4SENEUzRWV3pJY2Jfay1FMmY2end0RE5hMG42TnIzcUxjbXhpVTdZUHJCREU?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 00:30:00 GMT",
+        "title_clean": "Concelho da Covilhã foi o mais fustigado pelo fogo desde 2020 - Correio da Manhã",
+        "entities": [
+            {
+                "text": "Concelho da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Correio da Manhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Nacional de Estatística",
+                "label": "ORG"
+            },
+            {
+                "text": "Sernancelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Arganil",
+                "label": "LOC"
+            },
+            {
+                "text": "Pampilhosa da Serra",
+                "label": "LOC"
+            },
+            {
+                "text": "Oliveira do Hospital",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Barragem das Cortes",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcW1EWGdxS2dxeGJHTFRIazd2Ujh0c2JFMUJfSThMQjFWbFFaVXZlcDI5RlE2TWRoNDB2VzZfVzlvM3pCNmFiS3dLUGphNXowd2FuZHEtblR6WE03YkVzeHhKRGw2bm5yQ3BFanl1LTJvYWZhdF9KZ2gxV2hsYklHbU53SzRERmg0U0ItUG5hY1pvRzFBSkozOVkycklDeG9nMFdsU050Umc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 00:07:12 GMT",
+        "title_clean": "Covilhã: Débora Pax expõe na Galeria António Lopes - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Débora Pax",
+                "label": "PER"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Débora Macedo",
+                "label": "PER"
+            },
+            {
+                "text": "Débora Andrade",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja da Misericórdia de Santa Maria da Feira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimwFBVV95cUxQajh0M181allRWV9Wd1JOb0FoVUt5SWZEUEZuOXlXNG5LZmh2TUthYmx5d0xTeGg4azB3R3p6RW9rWDhXcmNxOVl1NWR1enk0ZnJyanEyWm1XTlhPcmJBMjh3TDZCSzNqQU9jdEh1MS1EMVRIa2x1VEg4UmFHNmVtRWJvTVdCZUtuYUJxRDJfWUNCOTNVVWx6U3hrVQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 13:15:00 GMT",
+        "title_clean": "Mortágua FC foi à Covilhã vencer nas grandes penalidades - Diário de Viseu",
+        "entities": [
+            {
+                "text": "Mortágua FC",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua Futebol Clube",
+                "label": "ORG"
+            },
+            {
+                "text": "Sporting Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Pedro Alegre",
+                "label": "PER"
+            },
+            {
+                "text": "Taça de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Leça Futebol Clube",
+                "label": "ORG"
+            },
+            {
+                "text": "Campo da Gandarada",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNF96ZUVmZ1Q2UVl4alNrRlhqNDliQTlGTGd2bnJWMmFYYU1lb3BWZ0Nnb3NubkJFUEh3UGwxZ29zMlRtT0R0cURKeTBxV2MxWEIzeUJEdnRJYWpFa0RVSUNMajFnZG9GcjlsNXF1Mzg0UFZQNkNCbFBPVnRnX19WQkZuUFJ1Y0JVSWktejc1THBTV00tQVJsZUVnX2Z0dmtMNEFpN0poa0s5WUVJeEQxWVJxNVk4UG9wR2trSU1aS3JTOTg?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 17:41:02 GMT",
+        "title_clean": "COVILHÃ: Município abre candidaturas a Bolsas de Estudo para o ensino superior",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Institu",
+                "label": "ORG"
+            },
+            {
+                "text": "Educação",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Portal das",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Co",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxOZjh1LXl3bmhKTjZzcFY1d0cwVi10d2VJM2VYY3JLaEdxUkY5VnMzSnl4WHJ6ektmZVh3cGFEQ01xb3VGOXMzcWxSLVdyY3hvYmVidG9pd0RTVjBOSFloaUxnWGo1NnQ3el9EQWxDVzBYOHdTT2pRRURDN0tRdFNSTHVCX2hXUjg?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 09:52:00 GMT",
+        "title_clean": "FIADA está de regresso à Covilhã",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Barcelos",
+                "label": "LOC"
+            },
+            {
+                "text": "Caldas da Rainha",
+                "label": "LOC"
+            },
+            {
+                "text": "Peniche",
+                "label": "LOC"
+            },
+            {
+                "text": "Castanheira de Pera",
+                "label": "LOC"
+            },
+            {
+                "text": "Bilbao",
+                "label": "LOC"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "MODATEX",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro",
+                "label": "ORG"
+            },
+            {
+                "text": "Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco FIADA",
+                "label": "LOC"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Margarida Geraldes",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            },
+            {
+                "text": "Infraestruturas e Concessões da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxOZi1OU3l5aWhpS21uN3lpekhhYk1US0QyVFF5bFk2eXJBRzVSMHZucTFlNmdubzNOcGJ5bHVrVVkzU1gtdmlBSXJLWWd1YmFQdTF2WmZRVUJFSzl1SGxSM0RzRy1nRFhKQ3gyRS1ORjB6aU93QWtmY1pzUUxtLTlzVFpmRGZHdEpBd21DUlk4bkpveFFwWTJ0U3VSdnVVNGdNanc?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 11:07:49 GMT",
+        "title_clean": "Match Story - Taça Generali Tranquilidade (1ª Eliminatória): SC Covilhã 0-0 Mortágua - vsports.pt",
+        "entities": [
+            {
+                "text": "SC Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Mortágua",
+                "label": "ORG"
+            },
+            {
+                "text": "União Lamas Beira Mar",
+                "label": "ORG"
+            },
+            {
+                "text": "Penalva Castelo Oliveirense",
+                "label": "ORG"
+            },
+            {
+                "text": "CD Trofense Varzim SC",
+                "label": "ORG"
+            },
+            {
+                "text": "Taça Generali Tranquilidade",
+                "label": "ORG"
+            },
+            {
+                "text": "Benfica Castelo Branco Fátima",
+                "label": "ORG"
+            },
+            {
+                "text": "Mafra Atlético Malveira",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético CP Olímpico do Montijo",
+                "label": "ORG"
+            },
+            {
+                "text": "Grandolense FC Serpa",
+                "label": "ORG"
+            },
+            {
+                "text": "Fafe P. Ferreira",
+                "label": "ORG"
+            },
+            {
+                "text": "Camacha Machico",
+                "label": "ORG"
+            },
+            {
+                "text": "Santo António Portalegrense",
+                "label": "ORG"
+            },
+            {
+                "text": "Ponte da Barca Montalegre",
+                "label": "ORG"
+            },
+            {
+                "text": "Guarda Académico do Fundão",
+                "label": "ORG"
+            },
+            {
+                "text": "União Nogueirense Maria da Fonte",
+                "label": "ORG"
+            },
+            {
+                "text": "Atlético Arcos Merelinense",
+                "label": "ORG"
+            },
+            {
+                "text": "Minas de Argozelo Vianense",
+                "label": "ORG"
+            },
+            {
+                "text": "Os Limianos Cultural Correlhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Vila Meã Maia Lidador",
+                "label": "ORG"
+            },
+            {
+                "text": "Pevidém Celoricense",
+                "label": "ORG"
+            },
+            {
+                "text": "Naval 1893 AD Nogueirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Alpendorada Rebordosa",
+                "label": "ORG"
+            },
+            {
+                "text": "AD Marco 09 Régua",
+                "label": "ORG"
+            },
+            {
+                "text": "Sousense Salgueiros",
+                "label": "ORG"
+            },
+            {
+                "text": "Paredes Ermesinde",
+                "label": "ORG"
+            },
+            {
+                "text": "Sp. Espinho Cinfães",
+                "label": "ORG"
+            },
+            {
+                "text": "Paços Brandão Sanjoanense",
+                "label": "ORG"
+            },
+            {
+                "text": "São João Ver Florgrade",
+                "label": "ORG"
+            },
+            {
+                "text": "Bragança Rebordelo",
+                "label": "ORG"
+            },
+            {
+                "text": "Louletano Castrense",
+                "label": "ORG"
+            },
+            {
+                "text": "Portel Messejanense",
+                "label": "ORG"
+            },
+            {
+                "text": "Os Marialvas AD Fornos Algodres",
+                "label": "ORG"
+            },
+            {
+                "text": "Sourense Oliveira Hospital",
+                "label": "ORG"
+            },
+            {
+                "text": "União Pombal UD da Serra",
+                "label": "ORG"
+            },
+            {
+                "text": "Sertanense Alcains",
+                "label": "ORG"
+            },
+            {
+                "text": "Vitória de Sernache Nazarenos",
+                "label": "ORG"
+            },
+            {
+                "text": "Gavionenses Mação",
+                "label": "ORG"
+            },
+            {
+                "text": "Aljustrelense Ferreiras",
+                "label": "ORG"
+            },
+            {
+                "text": "Sintrense Caldas",
+                "label": "ORG"
+            },
+            {
+                "text": "Moçarriense Fazendense",
+                "label": "ORG"
+            },
+            {
+                "text": "Madalena SC Barreiro",
+                "label": "ORG"
+            },
+            {
+                "text": "Viana Alentejo CF Benfica",
+                "label": "ORG"
+            },
+            {
+                "text": "Juventude Évora União Montemor",
+                "label": "ORG"
+            },
+            {
+                "text": "Real SC Sacavenense",
+                "label": "ORG"
+            },
+            {
+                "text": "Angrense Sporting de Lourel",
+                "label": "ORG"
+            },
+            {
+                "text": "São Roque O Elvas",
+                "label": "ORG"
+            },
+            {
+                "text": "Fayal Alcochetense",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0I4OXdaYS1CLU9TRlVnSXVoc2tvbzRlVXZ2aEExdVJneGxzWDE0eXBhZ3RpZUJFSVM2X1NWZVNGMjd6cFRCdlM0M2R1dUFvWXVuMy1iNDdLV1V2bEREYkthdkMzckFtRnd4TG1yNUlQSGJ0X2xyU21yV3pyaWY3dkRXcERXREF2UzlIbWhBS2QyMXdJR2Y4R1VEWGFXMkxKd2JZUm1MbTdzbWo3XzNraWc3ZE5fbThqc1BjV1BXZw?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 14:51:04 GMT",
+        "title_clean": "Covilhã abre candidaturas a bolsas de estudo para estudantes do ensino superior",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Portal da Educação",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivAFBVV95cUxQWVhQYk9vUUVtWmV2TGRWX3VzdmpINUFkLXhQYjhUaUZkUnAwOG5HZEJSbmFrd2YtbnlLWGwwSlcwT0FoUDJ2UEJqRWNnSFE4X2w1b2R0Nm8zcEgyS2hrQjFHb0huejlKVXNDNi1lSXVKOGZyRE1CTmVabDRaMGZaUFItdDZXWE9zQjhVd3o4QlFIR0FwWE9MZWxWNGRTRG1LSDJtcmdxellla1ZFczgyc1dHNlMtUXVwZjIwYQ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 12:47:49 GMT",
+        "title_clean": "Jovem da Covilhã integra longa-metragem com José Fidalgo e Benedita Pereira",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "José Fidalgo",
+                "label": "PER"
+            },
+            {
+                "text": "Benedita Pereira",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Arruda Tavares",
+                "label": "PER"
+            },
+            {
+                "text": "Algés",
+                "label": "LOC"
+            },
+            {
+                "text": "Escola de Atores Let It Happen",
+                "label": "ORG"
+            },
+            {
+                "text": "João Santos Silva",
+                "label": "PER"
+            },
+            {
+                "text": "Marta Gil",
+                "label": "PER"
+            },
+            {
+                "text": "Cinema São Jorge",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVpSeHc2VjM3d0JpLUEzLWRCV2MyR0xHbmdBdFhoWFVwaDVmNG9OcEUyajVQeFF3WlBqT1FVS0xobUtUbm1DSkl6eXNFdnJKdjFrWXVoWU5rVXBIcS02WHV1N0VrZWktQ2NOV055NG41SDhEV0N6RTNFRWR4eElMTEZyUFphYjk2X1FXcHVhUVdVZ0dDY0l0Vi1QcnI5WFJfUkE?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 15:26:00 GMT",
+        "title_clean": "Covilhã candicata-se a Capital da Cultural para 2028",
+        "entities": [
+            {
+                "text": "Capital Portuguesa",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVZKM3Z3Vmx2TmozYXZNWnhKYXlmYWhSUVRtV0xtMW52d2NBTnNlRkVmXzlBelJ3eUlwMXRZQ0huUmw4VUxXejc2eVBtSWg2aE9KZ1RKeUVwT0dFU1dpSTNGMUk0WFVXWXE3bm1iSFNMdXFDdkRoN1Rhd2E2ZEg1dUVtTUJscC1hX3FSdDVGTGw0S0RMWExQbmJxbExCZjR2eF94RUp0RkowcTlQaS1meTA0Q0NIUXpP?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 17:28:19 GMT",
+        "title_clean": "Estudantes da UBI organizam sunset gratuito nas Portas do Sol - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Diario Digital",
+                "label": "ORG"
+            },
+            {
+                "text": "Diário Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Miradouro das Portas do Sol",
+                "label": "LOC"
+            },
+            {
+                "text": "Saint Caboclo",
+                "label": "ORG"
+            },
+            {
+                "text": "Manoamour",
+                "label": "ORG"
+            },
+            {
+                "text": "Enzin",
+                "label": "ORG"
+            },
+            {
+                "text": "Sopro",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Xtrem",
+                "label": "ORG"
+            },
+            {
+                "text": "Epicentro",
+                "label": "ORG"
+            },
+            {
+                "text": "Micampus",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã a Marchar",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Águas da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Cova da Beira",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Saint Caboclo",
+                "label": "PER"
+            },
+            {
+                "text": "Boiler Room",
+                "label": "ORG"
+            },
+            {
+                "text": "Coala Festival",
+                "label": "ORG"
+            },
+            {
+                "text": "MEO Kalorama",
+                "label": "ORG"
+            },
+            {
+                "text": "NOS Alive",
+                "label": "ORG"
+            },
+            {
+                "text": "Cool Jazz",
+                "label": "ORG"
+            },
+            {
+                "text": "Elrow",
+                "label": "ORG"
+            },
+            {
+                "text": "Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "América",
+                "label": "LOC"
+            },
+            {
+                "text": "Manoamour",
+                "label": "PER"
+            },
+            {
+                "text": "CLUBSUOR",
+                "label": "ORG"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Sopro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGxXc2JELW5XeDVmd0JyNDNINmhXMXJhVVNkejVzbHlpUjRDOEdWejBMNk5CX01LYWxQLU9qeWpmNGd1MndwNjFUS1MwZHBmb0haNU53dWxtQllybmhpQ2tYSnpndWFsTjdMVzdUOUdjRlE5RGlJTjh0ckNkNnlhVkE1ekFXZE1BSlhqbzF0RTB0cmM5b3M0WVVpY1JTLXA5d3dnNEln?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 14:11:51 GMT",
+        "title_clean": "UFCC organiza torneio de “Floor Curling” no Pavilhão do INATEL",
+        "entities": [
+            {
+                "text": "Pavilhão do",
+                "label": "LOC"
+            },
+            {
+                "text": "INATEL",
+                "label": "LOC"
+            },
+            {
+                "text": "União das Freguesias de Covilhã e Canhoso",
+                "label": "ORG"
+            },
+            {
+                "text": "DJ Sunset",
+                "label": "PER"
+            },
+            {
+                "text": "Federação de Desportos de Inverno de Portugal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -150335,6 +151067,22 @@
             },
             {
                 "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:aw56hsoqalyggqedfzafj36k/app.bsky.feed.post/3muhc5x5r222x",
+        "source": "bluesky",
+        "created_at": "2026-09-01T11:15:04.000Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Covilhã",
                 "label": "LOC"
             },
             {

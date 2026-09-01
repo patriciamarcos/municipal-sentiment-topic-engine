@@ -9021,5 +9021,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:aw56hsoqalyggqedfzafj36k/app.bsky.feed.post/3muhc5x5r222x",
+        "source": "bluesky",
+        "created_at": "2026-09-01T11:15:04.000Z",
+        "title_clean": "",
+        "clean_text": "[PT] Covilhã hat 2020 bis 2025 die größte Brandfläche in Portugal",
+        "keywords": [
+            {
+                "keyword": "größte brandfläche in portugal",
+                "score": 0.6059
+            },
+            {
+                "keyword": "2025 die größte brandfläche",
+                "score": 0.4846
+            },
+            {
+                "keyword": "bis 2025 die größte",
+                "score": 0.484
+            },
+            {
+                "keyword": "2025 die größte",
+                "score": 0.4691
+            },
+            {
+                "keyword": "brandfläche in portugal",
+                "score": 0.4461
+            },
+            {
+                "keyword": "in portugal",
+                "score": 0.4081
+            },
+            {
+                "keyword": "die größte brandfläche in",
+                "score": 0.3793
+            },
+            {
+                "keyword": "die größte brandfläche",
+                "score": 0.3785
+            }
+        ],
+        "source_name": null
     }
 ]
