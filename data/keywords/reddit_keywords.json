@@ -3836,5 +3836,55 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "reddit_1w3oyr0",
+        "source": "reddit",
+        "created_at": "2026-08-31 19:55:56",
+        "title_clean": "TCG Covilhã",
+        "clean_text": "Hello! Vi agora que o Café Beira fechou. Onde é que as pessoas jogam TCG agora? Obrigada!",
+        "keywords": [
+            {
+                "keyword": "jogam tcg agora",
+                "score": 0.6793
+            },
+            {
+                "keyword": "pessoas jogam tcg agora",
+                "score": 0.6535
+            },
+            {
+                "keyword": "fechou pessoas jogam tcg",
+                "score": 0.6418
+            },
+            {
+                "keyword": "jogam tcg agora obrigada",
+                "score": 0.6266
+            },
+            {
+                "keyword": "agora café beira fechou",
+                "score": 0.5928
+            },
+            {
+                "keyword": "café beira fechou pessoas",
+                "score": 0.589
+            },
+            {
+                "keyword": "tcg agora",
+                "score": 0.5793
+            },
+            {
+                "keyword": "hello vi agora",
+                "score": 0.549
+            },
+            {
+                "keyword": "jogam tcg",
+                "score": 0.5377
+            },
+            {
+                "keyword": "pessoas jogam tcg",
+                "score": 0.5348
+            }
+        ],
+        "source_name": null
     }
 ]

@@ -146579,6 +146579,22 @@
         ]
     },
     {
+        "record_id": "reddit_1w3oyr0",
+        "source": "reddit",
+        "created_at": "2026-08-31 19:55:56",
+        "title_clean": "TCG Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Café Beira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "bluesky_at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
         "source": "bluesky",
         "created_at": "2026-05-11T10:55:40.601Z",
