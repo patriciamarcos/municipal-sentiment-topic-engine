@@ -9063,5 +9063,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mujdtac4tw26",
+        "source": "bluesky",
+        "created_at": "2026-09-02T06:50:10.944291Z",
+        "title_clean": "",
+        "clean_text": "Quercus denuncia possível abate de 1400 sobreiros para ampliar parque industrial na Covilhã",
+        "keywords": [
+            {
+                "keyword": "1400 sobreiros ampliar parque",
+                "score": 0.6123
+            },
+            {
+                "keyword": "sobreiros ampliar parque industrial",
+                "score": 0.5414
+            },
+            {
+                "keyword": "sobreiros ampliar parque",
+                "score": 0.5225
+            },
+            {
+                "keyword": "possível abate 1400 sobreiros",
+                "score": 0.5096
+            },
+            {
+                "keyword": "ampliar parque",
+                "score": 0.4999
+            },
+            {
+                "keyword": "ampliar parque industrial",
+                "score": 0.4971
+            },
+            {
+                "keyword": "abate 1400 sobreiros ampliar",
+                "score": 0.4733
+            },
+            {
+                "keyword": "abate 1400 sobreiros",
+                "score": 0.46
+            }
+        ],
+        "source_name": null
     }
 ]

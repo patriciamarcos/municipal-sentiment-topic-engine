@@ -146289,6 +146289,666 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiugFBVV95cUxNelNQVHpHSEJZcVZvY05SdW9MMDgzbnpoWDNyckdUWU0yVG9lZ0x0aktBN1Q0bmQ5dEdyVU5EeDNXazNYWHNleEFJLS15Z2dtYklLdmxXRGNVOElSRDg2WEdjTDhUbUNJUXBTSnBEemZ6VW4zSExmWGh3bjhoVXB1VUs1U2RmZFNmQ05POFhoQm5GclVyWDc2YTkyb0FoRDNUQWw5cHFiWFFZbTBQSE5lNy1jNV9lZ2pmeHc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 15:48:00 GMT",
+        "title_clean": "Candidatura da Covilhã a Capital Portuguesa da Cultura lança site e imagem gráfica - Rádio Castelo Branco",
+        "entities": [
+            {
+                "text": "Rádio Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Lobby Films & Advertising",
+                "label": "ORG"
+            },
+            {
+                "text": "Telmo Martins",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnd2alJVQndxa0ZFSGlHUzBqTnZUMnl6YldmMEFjQlR4VDdyOF9LLWF5V3llNGhHR1VPajgzOGJjcGlFTm1uT2ptSzdybXhSMlJfWC15Q2w1RnZudkcwTlZZTEE5dzJLbjdQRWFldURlek04ZmtVS2xMVzl6MjExcXJOMVlWR3VMWEliVkRoanpBX29xTzFtNDFtNWVMTHNzXzFzY2dGSWxLN2kwSWpGbVV5ejk3U3c?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 09:22:11 GMT",
+        "title_clean": "Quercus denuncia abate de 1400 sobreiros, dezenas dos quais centenários, na Covilhã - Mais Algarve",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã - Mais Algarve",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFpJOFFJVlp4M0d4dmZSTnA1dVVEc1lBY2Q5anVuMUFPMTBLeGtXOUtYaDhWWWJWQWdOOFdybEw4ZTUwVTBFbGVYbEZEc0ZJdnN1ZWMyNHJsdVBXaXBiMmhpVHUxVXRLcEVOZEZxclZkVjN4QnFaVUJWTUZBSWVKRUdxeEF3UGd6b3pCYWJnSTFWMjd0Z08tRERnWGoyM0JuN1ZFYk16TE16V1FsYUJVNGlOWEE3aVU?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 09:45:47 GMT",
+        "title_clean": "6.º Passeio do Futuro junta motos 125 cc na Covilhã para 150 km de curvas pela Beira Interior - Motojornal",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "MotoGardunha",
+                "label": "ORG"
+            },
+            {
+                "text": "Moto Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Lobos da Neve",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Industrial do Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Canal Oficial da Revista Motojornal",
+                "label": "ORG"
+            },
+            {
+                "text": "WhatsApp",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGtnTlBsVkdrUGlQZ0NTR0pwQmJVVWpRZkxNNGFXWXdDWFVFaUZhOE1fV0w3YkFWZXNicUx1alBMdGVRb1ZhRVA2QXBweDNkc2lyRWF4VU1VVlhwX2d0WlJlbTZGams1MFZJSzlRLTZQaUw2RjhNcjBtMVRaOE9UQVBxNnRfUHpBQ1MwT1lkdm4yWHA1ai1jN1Y2bXR0WERDTjdkeVJ5RDhmX1BPU2VsNGRpTmdtZjFpYnozNHVDVnE?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 13:44:20 GMT",
+        "title_clean": "Covilhã: Bolinha de Neve reabre portas após 19 meses de mobilização da comunidade",
+        "entities": [
+            {
+                "text": "Centro Infantil Bolinha de Neve",
+                "label": "ORG"
+            },
+            {
+                "text": "Colégio das Freiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro Social Jesus Maria José",
+                "label": "ORG"
+            },
+            {
+                "text": "Dominguizo",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto de Gestão Financeira da Segurança Social",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Pais",
+                "label": "ORG"
+            },
+            {
+                "text": "Carlos Gaspar",
+                "label": "PER"
+            },
+            {
+                "text": "Micaela Almeida",
+                "label": "PER"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Junta de Freguesia",
+                "label": "ORG"
+            },
+            {
+                "text": "Ministério",
+                "label": "ORG"
+            },
+            {
+                "text": "Conselho Diretivo do Instituto da Segurança Social",
+                "label": "ORG"
+            },
+            {
+                "text": "Corte Real",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Venes",
+                "label": "PER"
+            },
+            {
+                "text": "Conselho Diretivo do IGFSS",
+                "label": "ORG"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Céu Lopes",
+                "label": "PER"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro Infantil Bolinha de Neve",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxOV2ItT05pb2U5TTMzVXFpNDVzRkhkOTRTNGYwUFBUZGJkR2wwNG0zRGNxUFRPQVRzSWFMcGYzZ3hqM0ZSTHd2WV9pNW9ZRDlZS1hwMDNnbVh5MzM2bzRacThOeVA5WVVqRklFZ1lRVzMzVUlIRlZQTjgtZnVhMGxzdVpB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 13:16:00 GMT",
+        "title_clean": "Xico Gaiato lança álbum com concerto no Fundão",
+        "entities": [
+            {
+                "text": "Fundão",
+                "label": "LOC"
+            },
+            {
+                "text": "Xico Gaiato",
+                "label": "PER"
+            },
+            {
+                "text": "A Moagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Cidade do Engenho e das Artes",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3dUZFhBNzhzUVFhUnVqbmtXNGRxa3hSejZ5SVJsVHk3SzNhNzZYTHRCa3FJUUNySm0tcTlIajRoR0xGNk55SXVqRklWS29BSjhCTm9FX2xXQXNfOHJzN05zb3BtN293R0JsNDY3RjUzWnFoY1p2OHBza09hajBwMTJPLU5iakVx?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 13:56:00 GMT",
+        "title_clean": "Antiga pensão transformada em alojamento estudantil",
+        "entities": [
+            {
+                "text": "Câmara de Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Pensão Residencial Arraiana",
+                "label": "LOC"
+            },
+            {
+                "text": "Executivo",
+                "label": "ORG"
+            },
+            {
+                "text": "Ensino Superior",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDc3QlFHVXJQWG92ZEZYcUlPLUFSZlQ2a211RWc1Xy1VMjlfVFVqZkNOQmNaVEpLNlBKSUtXRl94a1FRemtYMDVfNUZQQzN4SHBTVm1IemE4TWlKQ3B6eTdIeGVES2VPd0J2TGVkTTZHdFY1T2VEcjVPUzNYZFEyX2JwRkNzdjk0b0pVM2Z2TTlkVEx2dUlYUzRWd1pnbnJxNjBzMA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 09:31:35 GMT",
+        "title_clean": "Sinestesia leva sunset gratuito às Portas do Sol na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Miradouro das Portas do Sol",
+                "label": "LOC"
+            },
+            {
+                "text": "Saint Caboclo",
+                "label": "LOC"
+            },
+            {
+                "text": "Manoamour",
+                "label": "LOC"
+            },
+            {
+                "text": "Sopro",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Sinestesia",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb1dBVWk0T01FNWVkQWxTWHFhT0hOak55SXp0NnF0VGFqY0hhenltXzlvU1BzeHJoU3RqWS1yYnZFTlJOUTg2cnF6YU1Hc2NPczRpRkhTVVhCSU01WG5jWGt0MjZPZGtlcEp6OFgtQUVDRFJRcHd5Y2w1U3hJdzdnZHhZajhDVE12RjJCSjNIMzJZbXR3QmNraGdlRmVrR1hLX25ncncyUllOenU5NUVZNGQ0QTRfWW1oblk5NG1ud0Rsa2cxR3RDVl9sZHVxMF9nNGczdkJ2a3gwd3V5Wm1KVTAtOVZMWENzWmo4cGw5aGNiU2c?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 05:01:36 GMT",
+        "title_clean": "A Quercus recorda que o sobreiro é uma espécie protegida. E acusa o município da Covilhã de querer abater 1.400 árvores e pôr em risco 10 casas de primeira habitação para ampliar o parque industrial. - facebook.com",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjdXY2IxMU4zaWxkRHNvQ0ZPa1pib29mWTRVSkFEZGloTkhvMUQ1RmtJRVdfb2h3VldwRi1uR1hJd25ONWZBQ01QbGluSlpHNzRHVVZkREJaYUhxRl9tNmJZalNLUXJGaFVfNmt3YnVvWVdQRzE1QktXb2NYT2dnc0xTUjlDU0YzYUhoZXlNSG1WM1pseFFIUkFnb3d0cWhrRUpBNkhtQ2xsRmxGNEE?oc=5",
+        "source": "news",
+        "created_at": "Sat, 29 Aug 2026 09:17:54 GMT",
+        "title_clean": "REGIÃO: ContraDança leva dança e movimento contemporâneo à Guarda, Gouveia e Covilhã",
+        "entities": [
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal da Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Rui Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Torre dos Ferreiros",
+                "label": "LOC"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Praça Velha",
+                "label": "LOC"
+            },
+            {
+                "text": "Cláudia Guedes",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Guarda",
+                "label": "ORG"
+            },
+            {
+                "text": "Dança",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covil",
+                "label": "LOC"
+            },
+            {
+                "text": "Patrícia Pinto",
+                "label": "PER"
+            },
+            {
+                "text": "Sérgio Novo",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGF0NE5YcHhfM1Etc1ZnUThZSG5vX3Vhd0x3bG9YRWJrMFpqWGZmdDBLRXdpaTc1MVJVNEZranhpMXZPRU5tWnRsTnlVa3Z0QnhyTDdEOVdvOFM2WU1KYzdJWGZqVlcyNGg2WFUyYTVLR1FDMll4NUxUMlN5X3NFZ3hKVm5Ickt6bmpjLVZ3RnF6TlpuNjVGcWxCbkg3NWRrWHVoVm5EOVRiWGRJNDB5WFAyQzdZTy1fbUgwVEdETTF4d2o1Wnc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 14:16:59 GMT",
+        "title_clean": "COVILHÃ: Projeto de voluntariado jovem para regeneração de áreas ardidas encerra com balanço positivo",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Freguesia de Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Municipal de Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wNVRMelc0XzhKNjR6ZV9HS18ySVU4OTNNR2lYT0FvMzZsWDRVZUNUQ3FNUy1IV0EwSm8yeTkxOVlnMmlWQkN3OW0tR0NzTlpYaUJUWWM0WWJJTHc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 23:11:01 GMT",
+        "title_clean": "Arquivo de PDM Covilhã - Diário do Distrito",
+        "entities": [
+            {
+                "text": "PDM Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Distrito",
+                "label": "LOC"
+            },
+            {
+                "text": "Setúbal",
+                "label": "LOC"
+            },
+            {
+                "text": "Almada",
+                "label": "LOC"
+            },
+            {
+                "text": "Barreiro",
+                "label": "LOC"
+            },
+            {
+                "text": "Grândola",
+                "label": "LOC"
+            },
+            {
+                "text": "Moita",
+                "label": "LOC"
+            },
+            {
+                "text": "Montijo",
+                "label": "LOC"
+            },
+            {
+                "text": "Santiago do Cacém",
+                "label": "LOC"
+            },
+            {
+                "text": "Seixal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sesimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Bruno Veiga",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzZ4eDJxM3JpbDNwVlR3Y0JTVktUN2d6aUZsci1iS1g2NG9aVjk2M2ZhdEJJcWQyV0NRQU9jUmtvQWY4eFJZWGhPM0pnMW90YnlQWU5iakFLLWVQcmFELWFwVlRkbUhWeGtfVXpGNWVOeGJERlF5NWNqejZGa0JGWnE3LXZEenBxTlRYVkNEUzVvQ0NpY0xrak1MTGV3MDBKVUxOS3FrUndrNDNfRnB6YjRJLUktSEs5TEZJMmtaT2pYeGPSAcMBQVVfeXFMTm82eHgycTNyaWwzcFZUd2NCU1ZLVDdnemlGbHItYktYNjRvWlY5NjNmYXRCSXFkMldDUUFPY1Jrb0FmOHhSWVhoTzNKZzFvdGJ5UFlOYmpBSy1lUHJhRC1hcFZUZG1IVnhrX1V6RjVlTnhiREZReTVjano2RmtCRlpxNy12RHpwcU5UWFZDRFM1b0NDaWNMa2pNTExldzAwSlVMTktxa1J3azQzX0ZwemI0SS1JLUhLOUxGSTJrWk9qWHhj?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 14:33:00 GMT",
+        "title_clean": "Quercus denuncia abate de 1.400 sobreiros para expansão de parque industrial na Covilhã - Correio da Manhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Correio da Manhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2tEYnpQeGdDc1VrTThxbXFVZWtGVzRNc1NOWk1GdmJFTHFPdVBZck96VG5xalZtTU45Y1FHaXBSTlFMSDRXWGl4ZFNKT2pmdnd5QmI0ZG8yX0JJNEc5eUF2VGw1OGN6djYwNWZvMXl3a0JHT2FUY25Ta2w1d3J3SUg0STRTdHpONlBmVXdqWmRvR3VDUmtpbm5Mc003VGpJS1E?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 14:37:05 GMT",
+        "title_clean": "COVILHÃ: Geopark Estrela promove caminhada interpretada “Conhecer a Estrela”",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Geopark Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Estrela Geopark Mundial",
+                "label": "LOC"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Montanha de Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Igreja Matriz de Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Cascata do Vale Fluvial das Vacas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQTA0eWw0OVFFbm14VTEwRnVJTXVLRWlhT2YzVDl1al9LZ0VQdkxoWWlYWXVxWnU0NTFaTmZ1N0VSaUQzelhvc1VsNGNyc2NuNGNBdmU4RXhkdDgtZDVZTUVfcHNWOTlQLTJ3V3l3a25jdVctVm5ncXg5U0c0d2FXYWpZaWN2WXljZXZybU82TDZBTGJwZEgyMWc5ODhWc3lSSnl6aTdoVzhBaXpKYUdtZ1BXYkhwcjAyQWhSV0VoQmwtZw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 11:29:36 GMT",
+        "title_clean": "“Do Mar à Terra” começa hoje na Covilhã: Festival da Sardinha leva o sabor do mar à Serra da Estrela",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra da Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Águeda",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Santos Populares",
+                "label": "LOC"
+            },
+            {
+                "text": "Largo 1.o de Maio",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDdHYm11Xy01c25CMUhKclFKbXZTSGNGMDQzVUNDT1VraHl3WnFjcUhqYVV0dVNRUGN2QmxlOFFiNndHUzlxVWpDd1hnRmxtWjM4bUFQN0ZxaEVfMmh3TVpncTZ2N2FkVkk1dF9NTzE4eDc4MTMwYWpIU090a2RJb21FVXk3MUxfMVdZREZQRHp2YmN4T2M0eXFqRDNROGVGZjg3bXJQc1c4dDQwOERsZU1kNnZPUElKMjZBSmQwTEpQRWFpcmtoNF9Qa19ONkVXeXdSWXhRSWNJZWhXNUU1VXhwWHpFNnhM?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 08:43:51 GMT",
+        "title_clean": "COVILHÃ: Biblioteca da UBI apresenta programação de setembro com livros, exposições e iniciativas culturais",
+        "entities": [
+            {
+                "text": "Biblioteca da Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Biblioteca da UBI",
+                "label": "ORG"
+            },
+            {
+                "text": "Biblioteca Central",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro e",
+                "label": "ORG"
+            },
+            {
+                "text": "Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça Luís de Camões",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal da Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélder Nóbrega",
+                "label": "PER"
+            },
+            {
+                "text": "Warley Costa",
+                "label": "PER"
+            },
+            {
+                "text": "Nielson Lourenço",
+                "label": "PER"
+            },
+            {
+                "text": "Rony Nascimento",
+                "label": "PER"
+            },
+            {
+                "text": "Andryelle Araújo",
+                "label": "PER"
+            },
+            {
+                "text": "Mãe Rita Preta de Oxalá",
+                "label": "PER"
+            },
+            {
+                "text": "Universidade Federal da Paraíba",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade Pontifícia de Salamanca",
+                "label": "LOC"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Rosa Marina Afonso",
+                "label": "PER"
+            },
+            {
+                "text": "Sandra Pinto",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro R. M. Inácio",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2w0XzZFd2ZtRWdWekxpU09qQUxNakRmdFVLd2VWRVloRExJODdQMkg5T1E2Y3RIN3BJMkhkN25Dc2c1MjBscEY4RTMtd2ZJZGczUXJVRWc0SmxhVzN5Um15Tm5YOUlleEZ0NHg4WlVILWlTbm5VeVdVU1FxQTBkd0N1Sm9pbTFZb3J1U05qVjZiOC1aVHJ4aDFrNFZKczVuT09tLUdQX0loYmtBYWdOY0owT3owSmVuc3F6TzNuX1V4TTBl0gHKAUFVX3lxTE14VU9ZX3BELWw5b0ZVeFVzaFVwRnVyMFRSNzVZdFMydnpUNkxTXzNmM1VxT2p0OXZfYWZOYlNtUlozel9Gcy1Hc1huS2hRdEZ6NWhpczFlZ00ybDJMbjZkY0F3bmpSdVFSQWgzS204R2tBSnM0andQaUMwaXRuUkMzQ3R3NUExM045ZjEzRHNxY1F5VG1KdUd6aElLSzM0TUc1Zkdlc2xkSG43VkJyTjBYSkJHM3VnSjdlWkJ5Mml1MFgzYTNsblNCREE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 27 Aug 2026 17:25:17 GMT",
+        "title_clean": "Região Centro tem a maior área ardida do país entre 2020 e 2025. Covilhã foi o concelho mais atingido - CentroTV",
+        "entities": [
+            {
+                "text": "Região Centro",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "CentroTV",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Nacional de Estatística",
+                "label": "ORG"
+            },
+            {
+                "text": "Continente",
+                "label": "LOC"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sernancelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Baião",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte da Barca",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Real",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -151087,6 +151747,22 @@
             },
             {
                 "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "bluesky_at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mujdtac4tw26",
+        "source": "bluesky",
+        "created_at": "2026-09-02T06:50:10.944291Z",
+        "title_clean": "",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
                 "label": "LOC"
             }
         ]
