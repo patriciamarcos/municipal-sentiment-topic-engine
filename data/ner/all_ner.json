@@ -146949,6 +146949,158 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWg4a3RvV2NyOGo4RlRoSjd1Mk5ONEpvOUtFSDNIRHVYcGU0X3p1RnJwOTZhRGVYN2Z0N1kwcV9XZVdOZjNEeUtxUmk0eW1fZ1MzQVJ6MU83Q1BRT2wzNF9HdTY3Nk9WUDM3bGQwTEFzeFNHYXR3Z0NFaFU2Qk9yMEFMRWVUQjI3OE9fdUgzQkdKQTZjM0duMWRaR2h3MXFrUkFlZUhvcmlndGU3N3JZeThWcEV2X1A3WnVqeHd3?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 15:50:51 GMT",
+        "title_clean": "Quercus denuncia abate de 1.400 sobreiros para expansão de parque industrial na Covilhã - Observador",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto de Conservação da Natureza e Florestas",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Coordenação e Desenvolvimento Regional do Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "CCDRC",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            },
+            {
+                "text": "Governo",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque Industrial do Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Diário da República",
+                "label": "ORG"
+            },
+            {
+                "text": "Assembleia Municipal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE5LNGM3Tkc2M09WT1Zad3hHOWNiUmVDTlFBOEExYUd3Um54SGs3N1hhaTNkS09wSlh4ek83UzhXdzNyMEV1VVdkZ3pWQXhHWFJsajYwQmJyN29xRFJBcXA2N2xDdFVDQW1DLWRZ?oc=5",
+        "source": "news",
+        "created_at": "Mon, 31 Aug 2026 07:00:00 GMT",
+        "title_clean": "PENHAS DA SAÚDE | CONCERTO DE MONTANHA",
+        "entities": [
+            {
+                "text": "Penhassol",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação dos Amigos das Penhas da Saúde",
+                "label": "ORG"
+            },
+            {
+                "text": "Vox Lusitana",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Cultural",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmpsYWFDdWd6UmpYMGNxOFk4c0pTYkstRWswQkdCb3FUdV81V0JIRy0xZHpqUFF2Tk81cmptOWJfSzVYYnNNWWZrVUw5eUJPSHR2SGpYZ0pQdEdnMl91Z0JZM1Qtcm1uSDExZFBLT0JBU3huU3lKRDhUUnlBOTdyRkNB?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 14:35:00 GMT",
+        "title_clean": "Quercus denuncia abate de sobreiros na Covilhã",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque Industrial do Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "CCDR- Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTE1CQk14VHhNM2R6ZG1rb1VscllYOFNKcGFkRXdpVlRiZFRoYU9JR0d3MFZsZjBiMmdvckREb3NmMXVHRy1QejFpWWc1NExZVW1yV2NzSW05TWQwMkdGaWFXQzlaVUZ2ZXNCbnYw?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "title_clean": "OBRAS | TROÇO ENTRE O EN18 E O PARQUE INDUSTRIAL DO CANHOSO",
+        "entities": [
+            {
+                "text": "PARQUE INDUSTRIAL DO",
+                "label": "LOC"
+            },
+            {
+                "text": "CANHOSO",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Industrial do Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Grande Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Central de Camionagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Adega da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
