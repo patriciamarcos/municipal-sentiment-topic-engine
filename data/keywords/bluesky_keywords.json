@@ -9147,5 +9147,89 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ak23bdrwetsoskfil5bh3ff6/app.bsky.feed.post/3mumqeqmr5c2h",
+        "source": "bluesky",
+        "created_at": "2026-09-03T15:12:43.597Z",
+        "title_clean": "",
+        "clean_text": "T𝐞𝐯𝐞 𝐟𝐨𝐫𝐦𝐚çã𝐨 𝐞𝐦 𝑭𝒖𝒏𝒅𝒂𝒎𝒆𝒏𝒕𝒐𝒔 𝒅𝒂 𝑪𝒖𝒓𝒂𝒅𝒐𝒓𝒊𝒂 𝒅𝒆 𝑫𝒂𝒅𝒐𝒔 𝐨𝐮 𝐜𝐨𝐧𝐡𝐞𝐜𝐢𝐦𝐞𝐧𝐭𝐨𝐬 𝐧𝐚 á𝐫𝐞𝐚? 𝑷𝒓𝒆𝒑𝒂𝒓𝒆-𝒔𝒆 𝒑𝒂𝒓𝒂 avançar👟 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐂𝐮𝐫𝐚𝐝𝐨𝐫𝐢𝐚 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬 𝐀𝐯𝐚𝐧ç𝐚𝐝𝐚 𝑪𝒂𝒏𝒅𝒊𝒅𝒂𝒕𝒆-𝒔𝒆! 👉 redata.pt/cursos/works... 👥 Profissionais ligados a atividades de curadoria 📌 UBI | Covilhã 📅 novembro - 17 (pré-evento) e 18",
+        "keywords": [
+            {
+                "keyword": "𝐜𝐨𝐧𝐡𝐞𝐜𝐢𝐦𝐞𝐧𝐭𝐨𝐬 𝐧𝐚 á𝐫𝐞𝐚 𝑷𝒓𝒆𝒑𝒂𝒓𝒆",
+                "score": 0.6111
+            },
+            {
+                "keyword": "avançar 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐂𝐮𝐫𝐚𝐝𝐨𝐫𝐢𝐚 𝐝𝐞",
+                "score": 0.598
+            },
+            {
+                "keyword": "𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐂𝐮𝐫𝐚𝐝𝐨𝐫𝐢𝐚 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬",
+                "score": 0.5953
+            },
+            {
+                "keyword": "𝒑𝒂𝒓𝒂 avançar 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐂𝐮𝐫𝐚𝐝𝐨𝐫𝐢𝐚",
+                "score": 0.5951
+            },
+            {
+                "keyword": "𝐟𝐨𝐫𝐦𝐚çã𝐨 𝐞𝐦 𝑭𝒖𝒏𝒅𝒂𝒎𝒆𝒏𝒕𝒐𝒔 𝒅𝒂",
+                "score": 0.5836
+            },
+            {
+                "keyword": "avançar 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐂𝐮𝐫𝐚𝐝𝐨𝐫𝐢𝐚",
+                "score": 0.5795
+            },
+            {
+                "keyword": "𝒑𝒂𝒓𝒂 avançar 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩",
+                "score": 0.5688
+            },
+            {
+                "keyword": "𝐜𝐨𝐧𝐡𝐞𝐜𝐢𝐦𝐞𝐧𝐭𝐨𝐬 𝐧𝐚 á𝐫𝐞𝐚",
+                "score": 0.5677
+            }
+        ],
+        "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:noyx3zntwmuobuqoulanmc6n/app.bsky.feed.post/3mumldtbask23",
+        "source": "bluesky",
+        "created_at": "2026-09-03T13:42:44.081Z",
+        "title_clean": "",
+        "clean_text": "And brute force won't work…",
+        "keywords": [
+            {
+                "keyword": "brute force",
+                "score": 0.6955
+            },
+            {
+                "keyword": "and brute force",
+                "score": 0.6951
+            },
+            {
+                "keyword": "brute force won work",
+                "score": 0.6554
+            },
+            {
+                "keyword": "and brute force won",
+                "score": 0.641
+            },
+            {
+                "keyword": "brute force won",
+                "score": 0.6214
+            },
+            {
+                "keyword": "and brute",
+                "score": 0.5281
+            },
+            {
+                "keyword": "force won work",
+                "score": 0.5167
+            },
+            {
+                "keyword": "force won",
+                "score": 0.4844
+            }
+        ],
+        "source_name": null
     }
 ]

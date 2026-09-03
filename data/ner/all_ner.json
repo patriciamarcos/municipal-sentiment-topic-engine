@@ -147101,6 +147101,734 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMia0FVX3lxTFBwOHJIcTBGcVlfbEZZNndRMTRleThsb2FueDJmaGdwMTJNNm5ManVHdVFSUWFjY29EUlFiSldGU2Mta1F0dUg1NmFBMlVTd3ZNc1RVNFhPX0NROXNuNXRPaVBtM1Q5V1lrVXRz?oc=5",
+        "source": "news",
+        "created_at": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "title_clean": "COVILHÃ | VOLTA A PORTUGAL DE JUNIORES",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "PORTUGAL",
+                "label": "LOC"
+            },
+            {
+                "text": "Federação Portuguesa de Ciclismo",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Jardim Público",
+                "label": "LOC"
+            },
+            {
+                "text": "Luís Marques",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFBidFcyZnM3dl9NQkVGcVZIYVgtSjFvTEJwMHd1dTl3QXZaUV9PalM1NHdHNm1TUkJadG1kSGk3TE1feGctd1hacS1HNTBmUWtXZUVVQTRlMFRtNTBXaEtmSnhva3VVQ0ZsZmdrcjhEMmRCQ1BEVi1fd2NaR2VfVzMzU2lrWW5zVWpIbHlrY2ZCcWgwbXJyV0VkYk9hU3h2UVdSNGYzMm5oLUNTU2l4bDJXd1RjNHhVV2pIMUtMR01DT3VTQTlPZENhSWZfdDV0R1RwYm1B?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 14:49:10 GMT",
+        "title_clean": "Conselho Municipal de Cultura dá parecer favorável à candidatura da Covilhã a Capital Portuguesa da Cultura 2028",
+        "entities": [
+            {
+                "text": "Conselho Municipal de Cultura",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Capital",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CVGhsLUNvYmdodENfZTFBamdqUWNDSFVKalBHOW1OM1VGeVNiM01nWTdaTWl6LVBVbFlBUDZqWW1ZTGdWREl2UU1tMzFmemJnWHc?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 18:49:21 GMT",
+        "title_clean": "contraDANÇA, pela Asta, 3 setembro a 24 outubro, Guarda, Gouveia e Covilhã - dgartes.gov.pt",
+        "entities": [
+            {
+                "text": "Harrobi Dantza Bertikala",
+                "label": "ORG"
+            },
+            {
+                "text": "Espanha",
+                "label": "LOC"
+            },
+            {
+                "text": "Diogo Araújo",
+                "label": "PER"
+            },
+            {
+                "text": "Henrique Vilão",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Borja Borbonabe",
+                "label": "PER"
+            },
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            },
+            {
+                "text": "Figueira de Castelo Rodrigo",
+                "label": "LOC"
+            },
+            {
+                "text": "Fornos de Algodres",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Maria da Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "São Romão",
+                "label": "LOC"
+            },
+            {
+                "text": "Silvares",
+                "label": "LOC"
+            },
+            {
+                "text": "Teixoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Tourais",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "Associação de Teatro e Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Sérgio Novo",
+                "label": "PER"
+            },
+            {
+                "text": "Rui Pires",
+                "label": "PER"
+            },
+            {
+                "text": "David Castro",
+                "label": "PER"
+            },
+            {
+                "text": "Rita Carrilho",
+                "label": "PER"
+            },
+            {
+                "text": "Nuno Madaleno",
+                "label": "PER"
+            },
+            {
+                "text": "Secretaria",
+                "label": "ORG"
+            },
+            {
+                "text": "Carmo Teixeira",
+                "label": "PER"
+            },
+            {
+                "text": "Helena Ribeiro",
+                "label": "PER"
+            },
+            {
+                "text": "David Gaspar",
+                "label": "PER"
+            },
+            {
+                "text": "Susana Marques",
+                "label": "PER"
+            },
+            {
+                "text": "Miguel Furtado",
+                "label": "PER"
+            },
+            {
+                "text": "INCIPIT",
+                "label": "ORG"
+            },
+            {
+                "text": "República Portuguesa - Cultura, Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Desporto",
+                "label": "ORG"
+            },
+            {
+                "text": "Direção-Geral",
+                "label": "ORG"
+            },
+            {
+                "text": "Parceiros",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal de Gouveia",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Guarda Apoios",
+                "label": "ORG"
+            },
+            {
+                "text": "Fundação INATEL",
+                "label": "ORG"
+            },
+            {
+                "text": "União de Freguesias Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Aasta",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YTmpUeXJxMUpsTVh2WEhhbE4xRmlLamxYNjVYTlJoZ3dVMkxQY2RmRWhxLXdrT25ERUxIT0VnM2g4SDBTZlNUTWdnbXhXdWNmcEV5bHlkNF9Ud0VXTDRvWU5zS2JCQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 09:24:00 GMT",
+        "title_clean": "Reabriu o Bolinha de Neve",
+        "entities": [
+            {
+                "text": "Bolinha de Neve",
+                "label": "LOC"
+            },
+            {
+                "text": "Infantil",
+                "label": "ORG"
+            },
+            {
+                "text": "Colégio das Freiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Centro Social Jesus Maria José",
+                "label": "ORG"
+            },
+            {
+                "text": "Dominguizo",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto de Gestão Financeira da Segurança Social",
+                "label": "ORG"
+            },
+            {
+                "text": "IGFSS",
+                "label": "ORG"
+            },
+            {
+                "text": "Instituto da Segurança Social",
+                "label": "ORG"
+            },
+            {
+                "text": "Comissão de Pais",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara da Co",
+                "label": "ORG"
+            },
+            {
+                "text": "Hélio Fazendeiro",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkxvZ0cwMmlqVXBxcDRLVzJGTXBVc0wyZi1LX3FLTE9vaU1UNk5rV25IeHpxeGdCMl9qU00zU3FxQjhRUFUwZjk0R1hxa05EOFpmN1NOajlhMU5LVlpPODF6Z2JFUDBMLXFIZURxYmdWYVRBOEV3X0hNYU5LT1lIZ0dYZ1I1NnNiTFYxLXhmRldBRGUwMmpzcGVvM0w5QzJDX0oxX3BkVVVGS0d1MkhBc3lZS3EwNk80NkItWWFkN1MtVTBsWlhMTkRPdEUtLWcxZWtYSzJB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 11:37:00 GMT",
+        "title_clean": "Projeto de voluntariado jovem para regeneração de áreas ardidas na Covilhã encerra com balanço positivo - radiocastelobranco.sapo.pt",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Juntas de Freguesia do",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Freguesia de Vales do Rio",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMingFBVV95cUxNbFVDelU5ZXNZTWtDREY3ck51dHJ0d2hkcTFMTmsya2E0empWVzk0UVpvOElMMjhCSFFmTllYYmtQMnhoVk1XNXhMSUFscjM2LUdtZWdzT2xqa3psejlxZ3JtbG55Y2NnSWx2dkpjMUNocUJacTJ6MzNiSUhYbXJ6azh4cDJLdGJmQVpibk9JWnZJUURoMTdfZnNFQjAwZw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 13:29:09 GMT",
+        "title_clean": "Festa Popular do Oriental realiza-se sábado na Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "São Martinho",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Conselheiro Santos Viegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Oriental de São",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEdMcEtmRGlvS0llMHBsM0ZFeUoyVTB1cUFJWWNwRE96ei0zbU5KRjl0NEUxOGdfblhkLXZTazFBS1hib3JteVRmdDJHLXBVUmpManV0SlRjSWJVWFZXM25WLTBuRXh5a1VDTDE0TXNKRFpkRW1BWjhuZXlqNkJTeUFwTQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 11:55:00 GMT",
+        "title_clean": "Serviço de recolha de lixo preocupa em Belmonte",
+        "entities": [
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "António Luís Beites",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara de Belmonte",
+                "label": "ORG"
+            },
+            {
+                "text": "Resiestrela",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWZnUmZRUzU2ZC1WX2pSMUVjNHlscElRVWhBUEpOM1duek5NTmtzbmVHTFI4c3lfOUFvbWkwYlFnOUxDQ2hhZXJ5Q3lTa2tEN1ozM1dwT3ViaWtfMEZnWTRlNkNhbGhWb0llcTFVUDM4WW1BeS1FWmFiODNULUpnOTk5RkdzOU8yUEtQSDJadWJuTU83YUN4OEUtRHJzcVQyd2hDMVdDdzBHU1ZzT1pDTjEzdnYtZVZxT1pXZ2RlRzdOZkx0YTVwSVdpWldBYXdxT1R0aHJJTnpqVHV2aU1rSlVBdm9OSjNOa3ZoV0ZiVmRlUEZ2?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 09:55:00 GMT",
+        "title_clean": "Conselho Municipal viabiliza por unanimidade candidatura da Covilhã a Capital Portuguesa da Cultura em 2028",
+        "entities": [
+            {
+                "text": "Conselho Municipal de Cultura da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Capital Portuguesa",
+                "label": "LOC"
+            },
+            {
+                "text": "Central Press",
+                "label": "ORG"
+            },
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGJhckk1Rmc5TDFsUUhLcE1LV0NUN1pWNXpwZ01oaExLNnpsenRTNXdnR01OdlVHSHhqbmdLTDJiV0xIMlR2V0RmMG1tQkpNdlFwaEJRbUd0V2JLQmhJWWF3Ykp2U3hOVWpGTFZJSDdSYlRkZTRyWElpdVRpTWRzcVVlUjZfV2tMd1dLRVBYNkM2aXVsaDF0VFFyQ2NXOGVyY3pFNmUtOHVuNm5qdUlrQXp5NmpQUXhIUDdjajFDU08ySHRTTlY0Zw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 10:17:09 GMT",
+        "title_clean": "Covilhã: arranca amanha a FIADA - Feira Internacional de Artesanato, Design e Outras Artes",
+        "entities": [
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Regina Gouveia",
+                "label": "PER"
+            },
+            {
+                "text": "Associação Empresarial da Covilhã, Belmonte e Penamacor",
+                "label": "ORG"
+            },
+            {
+                "text": "AECBP",
+                "label": "ORG"
+            },
+            {
+                "text": "ICOVI",
+                "label": "ORG"
+            },
+            {
+                "text": "Biblioteca Municipal da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Rita Teles Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Raquel Amaral",
+                "label": "PER"
+            },
+            {
+                "text": "Agrupamento de Escolas Frei Heitor Pinto",
+                "label": "ORG"
+            },
+            {
+                "text": "Palco Fiada",
+                "label": "LOC"
+            },
+            {
+                "text": "Noura",
+                "label": "PER"
+            },
+            {
+                "text": "Sofia Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Orquestra Típica Albicastrense",
+                "label": "ORG"
+            },
+            {
+                "text": "TorresFarra",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWhRYXBVSXEyM1FOVUJubF9GRFBDWlJSaE5wVlNCdDlRaFJMWG44bU9uR0xjWjZMUXBjZkdNajBHUVBVSWROSHgxOFBkbkE3aGp2QkJsSWIwMW5FZkpyRFJ4QV9GRzcyRHctNWtvRTFjOExsZk1wRkJDVzBnLWI2Vjhrc1huY1RPNlR0MUtxOA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 15:06:00 GMT",
+        "title_clean": "“Falsos acidentes” lesaram cinco pessoas na Beira Interior",
+        "entities": [
+            {
+                "text": "Beira Interior",
+                "label": "LOC"
+            },
+            {
+                "text": "Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Porto",
+                "label": "LOC"
+            },
+            {
+                "text": "Viseu",
+                "label": "LOC"
+            },
+            {
+                "text": "Castelo Branco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWi1RUzZFdEh1bmlaVHJoTkJESF9xUkV5Z2ZWeWRXdXhhVzZsbE1tLWM4Y1pwZkdTaTBiWTYwN0xXMkVRVUVncWtVeS1SOUc0dG16RmxiV0Vsa1NWZFJLSEdzRGFhVW1xdGJ1MENNNHJaWmI1ei1QZmNXLVVEVDdvZUMxMURreVVoUEZ0S0U0U1JiZzVLT3lGemRUYUQ3LVBxQ3NLOGdIRm1oZ1ptVVVILWhUOURRcjR3RGpyMlY0TGx4dmxzV2VMQWVfS2pCc2I3UnBLWWtWOTNnT0NYZm1Zd1hn?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 13:58:55 GMT",
+        "title_clean": "COVILHÃ: Projeto de voluntariado jovem para regeneração de áreas ardidas encerra com balanço positivo",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e da Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Freguesia de Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Municipal de Juventude",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMib0FVX3lxTE51T3VXTXpPMkFwVGxqczNsSjVXNHJtMk1jLVRkV0p2c0g0dWlXUDhxajBjajN1ejlya3lMci1oOGVtVWFWcTlmUGlRek1fc0ZyODk4djFIVXA3TU5wWmxZeE84aG9ndExScjVpREFEMA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 13:44:03 GMT",
+        "title_clean": "Débora Pax na Galeria António Lopes",
+        "entities": [
+            {
+                "text": "Galeria António Lopes",
+                "label": "LOC"
+            },
+            {
+                "text": "Débora Pax",
+                "label": "PER"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Santa Maria da Feira",
+                "label": "LOC"
+            },
+            {
+                "text": "Débora Andrade",
+                "label": "PER"
+            },
+            {
+                "text": "Igreja da Misericórdia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMizgFBVV95cUxQOFE2Tmt2SEdad2xuVEh3dGV0ZlA1UDVIX094bWZkUTBGdFVkX2hBZER0aDkwZDVocjF4bXFiRlB5c2hXdVVjSnN6RDRSc1J0bjJRbHBKZlZ4UndrMFJKTXpjX1lmQ0NVSThWQlNlQlpGY2tCNFQzN09SY1FMYktqMUlHRE5FTDZySXpLNU5IOV85UkVnbVRmM3lGNjVFQzNjRkRvWEJWZFJtc0pkdFdQYUdPRkFYcWtCM0ZoV1JSTXEtV1VaV3hQdnVqYnMwdw?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 08:04:50 GMT",
+        "title_clean": "Voluntariado jovem termina com balanço positivo na recuperação de áreas ardidas na Covilhã",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Português do Desporto e Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Junta",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Vales do Rio",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Municipal de Juventude",
+                "label": "ORG"
+            },
+            {
+                "text": "Eixo 6",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSWd2MGgyNjhKNkJzaUNYLWFYOGdXd3Z4SDYzbEhySEJyYmVUb05ZckZwRUpPbnAwOWsxRVVDMVppbWVlVXdzVW5KeGlXc253eDVOUUxVZ3lWT0NEbHVEc2YyYlRyZktRNkJFc3hmUmZMNEYyYURXczd1SkFwaTdzWjJaTWVROElyaWw1OEZtWWdsM1ZQZElnY0JmN0Rma182SGlBZW1xZ2p6WTV2M0IxVF9vRkkzeEdkM19tWkVHSHUtbW14WS1qUHhmV3BWckUtTEVtdTlma2tZTXpEUXJOSA?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 11:59:27 GMT",
+        "title_clean": "COVILHÃ: Candidatura do município a capital portuguesa da cultura com parecer favorável do conselho municipal de cultural",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Municipal de Cultura",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiigJBVV95cUxPX0hiN25tQ0dfams1dG8ySUdCdVhXUnQ1X1ZoRFUzclp5WWVfYVJpMWFnZzh4Qm5fU2YzeE1fa3BHS2tSYXJkSTN5Zk5BWDIzRDdxT3laVUFtZDA4YkRkX3hLWkZHbTMwZkJFY1BXQ0xDZTBYemQtUXRoVnZnMU1rLUo3NlVmbm9fUzNpXzN0WjlXcjJrUXozbHBYc014amF4UGlMM1VsLXJMc0Q1cDZfbE5zTzZCYUJfNWR5S2JVcWZlQXExaS14akg2QnJiUTlsVW9WTnZtTE5YTDFvdE4xN1RraWdYX0RaYlhwTGo2VEZQczVoOVFLdHAyS1NPU3kwOFFFcWNLZ05sQQ?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 08:29:52 GMT",
+        "title_clean": "Quercus denuncia abate de 1400 sobreiros, dezenas dos quais centenários, para expansão de Parque Industrial do Tortosendo na Covilhã",
+        "entities": [
+            {
+                "text": "Quercus",
+                "label": "ORG"
+            },
+            {
+                "text": "Parque Industrial do Tortosendo",
+                "label": "LOC"
+            },
+            {
+                "text": "CCDR-Centro",
+                "label": "ORG"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Autarquia",
+                "label": "LOC"
+            },
+            {
+                "text": "M. Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Quercus",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1BSZWs1d0d2bk9zNkVFdzlYV2NWWWM3N3VQMC1wVjZtZVVxVlppYzJZWFBkV3FmamRNRWNrYjFqN01tR0hUb09Ub1VDVkhjcDVxN09EWllSZUthUVIyNHlmTUprSmZwX3ZLbGp4dVFhZi1lUFJFVE95UnlzSktNU0JoeWZxRzAyTHV1SXZB?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 08:35:25 GMT",
+        "title_clean": "6° PASSEIO DO FUTURO é já a 13 setembro - Motomais",
+        "entities": [
+            {
+                "text": "Moto Clube da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Lobos da Neve",
+                "label": "ORG"
+            },
+            {
+                "text": "GARDUN",
+                "label": "ORG"
+            },
+            {
+                "text": "Facebook",
+                "label": "ORG"
+            },
+            {
+                "text": "Moto Clube Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Lobos da Neve",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Industrial",
+                "label": "LOC"
+            },
+            {
+                "text": "Tortosendo",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
@@ -151923,6 +152651,20 @@
         "record_id": "bluesky_at://did:plc:svvgl2o3inltbe5orau7puxy/app.bsky.feed.post/3mumdhpi3ps2r",
         "source": "bluesky",
         "created_at": "2026-09-03T11:21:44.419Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:ak23bdrwetsoskfil5bh3ff6/app.bsky.feed.post/3mumqeqmr5c2h",
+        "source": "bluesky",
+        "created_at": "2026-09-03T15:12:43.597Z",
+        "title_clean": "",
+        "entities": []
+    },
+    {
+        "record_id": "bluesky_at://did:plc:noyx3zntwmuobuqoulanmc6n/app.bsky.feed.post/3mumldtbask23",
+        "source": "bluesky",
+        "created_at": "2026-09-03T13:42:44.081Z",
         "title_clean": "",
         "entities": []
     },
