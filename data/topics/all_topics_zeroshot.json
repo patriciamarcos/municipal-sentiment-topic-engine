@@ -122158,5 +122158,35 @@
             "Falecimentos": 0.0002,
             "Incêndios e bombeiros": 0.0002
         }
+    },
+    {
+        "record_id": "bluesky_at://did:plc:svvgl2o3inltbe5orau7puxy/app.bsky.feed.post/3mumdhpi3ps2r",
+        "source": "bluesky",
+        "created_at": "2026-09-03T11:21:44.419Z",
+        "title_clean": "",
+        "topic_id": 9,
+        "topic_label": "Obras e infraestruturas",
+        "topic_probability": 0.4895,
+        "low_confidence": false,
+        "all_scores": {
+            "Obras e infraestruturas": 0.4895,
+            "Ação social e voluntariado": 0.0955,
+            "Universidade e vida académica": 0.0558,
+            "Turismo e património histórico": 0.0465,
+            "Saúde e hospital": 0.0374,
+            "Comércio e lojas": 0.0353,
+            "Feira e Festival": 0.0318,
+            "Transportes": 0.0287,
+            "Mercado": 0.0272,
+            "Habitação": 0.0254,
+            "Cultura, arte e espetáculos": 0.0239,
+            "Natal e festividades": 0.0209,
+            "Tecnologia": 0.019,
+            "Crimes e polícia": 0.0182,
+            "Eleições e política autárquica": 0.0123,
+            "Desporto e competições": 0.0117,
+            "Incêndios e bombeiros": 0.0112,
+            "Falecimentos": 0.0097
+        }
     }
 ]

@@ -9105,5 +9105,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:svvgl2o3inltbe5orau7puxy/app.bsky.feed.post/3mumdhpi3ps2r",
+        "source": "bluesky",
+        "created_at": "2026-09-03T11:21:44.419Z",
+        "title_clean": "",
+        "clean_text": "Caso queiram montar um bar de alterne, aqui está um bom investimento. O .bsky.social que o diga.",
+        "keywords": [
+            {
+                "keyword": "queiram montar bar",
+                "score": 0.7222
+            },
+            {
+                "keyword": "bar alterne aqui bom",
+                "score": 0.7211
+            },
+            {
+                "keyword": "aqui bom investimento bsky",
+                "score": 0.7089
+            },
+            {
+                "keyword": "montar bar alterne aqui",
+                "score": 0.7071
+            },
+            {
+                "keyword": "queiram montar bar alterne",
+                "score": 0.7047
+            },
+            {
+                "keyword": "aqui bom investimento",
+                "score": 0.7017
+            },
+            {
+                "keyword": "caso queiram montar bar",
+                "score": 0.6922
+            },
+            {
+                "keyword": "montar bar",
+                "score": 0.6612
+            }
+        ],
+        "source_name": null
     }
 ]
