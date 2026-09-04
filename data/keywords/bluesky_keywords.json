@@ -9231,5 +9231,47 @@
             }
         ],
         "source_name": null
+    },
+    {
+        "record_id": "bluesky_at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3mup3ahvdo226",
+        "source": "bluesky",
+        "created_at": "2026-09-04T13:32:30.864Z",
+        "title_clean": "",
+        "clean_text": "O IC6, o IC26, a conclusão da variante da EN 329, o IC35, o IC13 e o IC3 não saem da gaveta assim como a Linha do Vouga entre o Porto e Aveiro c/ramal para Águeda. Portugal perde milhões de euros com estes atrasos.",
+        "keywords": [
+            {
+                "keyword": "ic6 ic26 conclusão",
+                "score": 0.6096
+            },
+            {
+                "keyword": "ic6 ic26",
+                "score": 0.6009
+            },
+            {
+                "keyword": "ic6 ic26 conclusão variante",
+                "score": 0.5991
+            },
+            {
+                "keyword": "ic35 ic13",
+                "score": 0.5947
+            },
+            {
+                "keyword": "ic13 ic3 não saem",
+                "score": 0.5927
+            },
+            {
+                "keyword": "ic35 ic13 ic3 não",
+                "score": 0.5906
+            },
+            {
+                "keyword": "ic35 ic13 ic3",
+                "score": 0.5808
+            },
+            {
+                "keyword": "ic26 conclusão variante en",
+                "score": 0.5743
+            }
+        ],
+        "source_name": null
     }
 ]
