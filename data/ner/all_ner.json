@@ -147829,6 +147829,778 @@
         ]
     },
     {
+        "record_id": "news_https://news.google.com/rss/articles/CBMivgFBVV95cUxNa0Rpb2NyRDFPTmNGWm82TGtRVWYxZDlHcTRWZnFjcm9mZXhIN2FiSnU0cEdNWk1lUjVfRUtoR1pqem5KRFp6cUl0S1J3ZnRNMnlTa0VGXzF5Vlg3cjVQQXgtX0tKclJGM2VDd0pmZ3ExREFvcmticDRGOUFXMEtnVHB1M2tnSnFHWG9WNUFsVkN4cEVwZUFmNFdhWF9RdG1FTi10MFBEWnl0enpXMDdLOXh6TGZRVkY0aTFwbVpR?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 17:29:59 GMT",
+        "title_clean": "Sport Zone consolida presença no interior do país com abertura na Covilhã - FashionNetwork Portugal",
+        "entities": [
+            {
+                "text": "Sport Zone",
+                "label": "ORG"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "FashionNetwork Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Estela Ataíde",
+                "label": "PER"
+            },
+            {
+                "text": "City Center Retail Park",
+                "label": "LOC"
+            },
+            {
+                "text": "Serra Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "César Cuadrillero",
+                "label": "PER"
+            },
+            {
+                "text": "Madrid",
+                "label": "LOC"
+            },
+            {
+                "text": "Sprinter",
+                "label": "ORG"
+            },
+            {
+                "text": "JD Group",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0ZoUWE4bjRSTnBLeUdvR1VQbU1jaTF5UnExVF84aWwxTGdzaGUwYnljcnVCekhCblRmWnB0bkFWNGFNRWcxLVJmOUh0UU5WTlYwNXhfZFlmbkpLb0xvSUdxVkQ2UEllLXU2WldlWmRHNEd4aU5Ed1dFREJfZVZ0VDBzanZDVUsyc0hvdXViRWlFaDQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 11:31:42 GMT",
+        "title_clean": "FIADA decorre até domingo no Jardim das Artes na Covilhã",
+        "entities": [
+            {
+                "text": "Jardim das Artes",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Biblioteca Municipal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sílvia Jácome",
+                "label": "PER"
+            },
+            {
+                "text": "Rede Portuguesa de Cidades Criativas",
+                "label": "ORG"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            },
+            {
+                "text": "Modatex",
+                "label": "ORG"
+            },
+            {
+                "text": "New Hand Lab",
+                "label": "ORG"
+            },
+            {
+                "text": "Teatro e",
+                "label": "ORG"
+            },
+            {
+                "text": "Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Galeria António Lopes",
+                "label": "ORG"
+            },
+            {
+                "text": "J. Gomes",
+                "label": "ORG"
+            },
+            {
+                "text": "Rita Teles Garcia",
+                "label": "PER"
+            },
+            {
+                "text": "Raquel Amaral",
+                "label": "PER"
+            },
+            {
+                "text": "Turma 7CT",
+                "label": "ORG"
+            },
+            {
+                "text": "Agrupamento de Escolas Frei Heitor Pinto",
+                "label": "ORG"
+            },
+            {
+                "text": "CEARTE",
+                "label": "ORG"
+            },
+            {
+                "text": "Nelson Canilho",
+                "label": "PER"
+            },
+            {
+                "text": "FIADA",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2FZQnptNEJJOGEtdTZIU2FUdGNyV3FQbkxlRjltUWVGcnBzcmlEM3hkMEwzd25aaFpBc2w1cTVfZHlyNWZISmhfYXByUXlHY1YxVDdWeGFfbkJQY3F0ZDBhd3RJYUZkQzJmdXZFT2g5cV9LMEZnY25ZZ0ZEd1Z1ZHdlWkhtclhjcnRkWTNLcTZpN0tEaWdVZFRTVVZUdnlTU2EyY3BsTUNuZndNQXQ2QWdyalRDSG5WM1c3RVNEMzd3b01YaWM0blNYU3BncG1HVHRzU19sU25vOGJacUpaV2pCdUdyLUtr0gHIAUFVX3lxTE5LVGhtR01XLW5yZ0JSandfcFVCZGhiN3FmZTRiaXU0UUh5T0VOVTBHZThlSk1uX2YwY1F0ZGZwcGUxU0FtM25BM0NsMVhiYWxSU1F6cmlWNjY2SHhQY21CcklFekhTa3JuRUFDZG1EQjVMUE4wZFZHYU9PSnBmdmFRYS1YbzgwcXB0SGdrQUhjZHY1TXJEd3JIcEFHd1lCZjlrcmRoUEJ4R1FiVnBiMzVUU0ZFU014TVBPM0VpbkN4X3hlNG1hQVhj?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 15:08:08 GMT",
+        "title_clean": "Danny Pires reforça o Sp. Covilhã por empréstimo do Feirense - Record",
+        "entities": [
+            {
+                "text": "Danny Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Sp. Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Feirense",
+                "label": "ORG"
+            },
+            {
+                "text": "Record",
+                "label": "ORG"
+            },
+            {
+                "text": "Bragança",
+                "label": "ORG"
+            },
+            {
+                "text": "Luís Castro",
+                "label": "PER"
+            },
+            {
+                "text": "Felgueiras",
+                "label": "ORG"
+            },
+            {
+                "text": "FC Porto B",
+                "label": "ORG"
+            },
+            {
+                "text": "Campeonato de Portugal",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Maria da Feira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYkJWYWluNjBEajN6cF9oVk9MeWQtdzRPcGEySXR5VE1xWE1LWHpjM0RYOVZpbGJpWDUtYXhmZldsRHJEREIyMTF5YS1pRTMyVUdZM0ExOFBCblVoSGJQUHFya25XZ3BLa2pCbEpqRmVmbEhHakVya3ZlTDFUVGhKeHdVOHJCcl9sclhvMUdIRnRIbVBOYVpiTTlTblQyeXVpUk5kR1FHQlBUX0FyOXhvc0I4czRpdzZ2UHV5dDdYRUkwa1FFY2EtcmozVmJiUXpHTVE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 18:38:40 GMT",
+        "title_clean": "Covilhã: PCP diz faltar visão intermunicipal ao PDM que está em discussão pública - Diario Digital Castelo Branco",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Diario Digital Castelo Branco",
+                "label": "ORG"
+            },
+            {
+                "text": "Partido Comunista Português",
+                "label": "ORG"
+            },
+            {
+                "text": "Resiestrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Freguesia da Boidobra",
+                "label": "LOC"
+            },
+            {
+                "text": "Reserva Agrícola Nacional",
+                "label": "LOC"
+            },
+            {
+                "text": "Reserva Ecológica Nacional",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXdKeXNuUWF5QVl0NWRPT042dXVKczAxeThTa0Q3bmdsbHdpN0hGdElocGxHanF1SE0tclRrd0pmd2s5SWxManFYRnVCODhuVlRaZG9TVng4UWhmNlUybVk3LW1mSDl1MGs1Z25JTC1uNENIa2ljRWRvTTRuLXl4aVdCbFpWa0xHZTJjRWNlRGRZWHhLRU5zUG53?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 14:02:10 GMT",
+        "title_clean": "Covilhã é o município com maior área ardida entre 2020 e 2025",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Instituto Nacional de Estatística",
+                "label": "ORG"
+            },
+            {
+                "text": "Sabugal",
+                "label": "LOC"
+            },
+            {
+                "text": "Sernancelhe",
+                "label": "LOC"
+            },
+            {
+                "text": "Arcos de Valdevez",
+                "label": "LOC"
+            },
+            {
+                "text": "Baião",
+                "label": "LOC"
+            },
+            {
+                "text": "Chaves",
+                "label": "LOC"
+            },
+            {
+                "text": "Ponte da Barca",
+                "label": "LOC"
+            },
+            {
+                "text": "Vila Real",
+                "label": "LOC"
+            },
+            {
+                "text": "Pampilhosa da Serra",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaXFrZWpfQVBBVC1ocVkyM0dvMWFkMmViZzBrSnZfczdYaHNYcGs0akJmOXlCSTcyWFo1Ylg5ZlpxUTNDV1pZTGc0Qm5qWkVhSmJsTVRwVGlzLXJUSjJvaW5HVk1ETkgyZ25EcWdabUdLYlNvVXhfb2J6aTZraVNQRmJXU1BDdkR0RXF0NmZRaWhtdWhMMEFXS1VmZGdCeFpLNVRBTVlUcFI4MnZZX01tWDF3dXhkTkpHLUJjdGV5YjNJUkZmeG1GdHNvSVVaaEw2TnJ6LUlGQ0p2dHo3cEVsa1huaHByemh0TE1fa1FfbEpSN1QxRGNCNllPZ00?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 11:56:46 GMT",
+        "title_clean": "COVILHÃ: Candidatura do município a capital portuguesa da cultura com parecer favorável do conselho municipal de cultural",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Conselho Municipal de Cultura",
+                "label": "ORG"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Beira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMigwFBVV95cUxPUV9BdFpiZFJ2d0wwbWU0ZEEtbnl0cVI4NWd6bVc5SUtPUFNWLUowQkpJOFFIZUxYbTdZQlVxSlgxOHl0eUstTkhxMjZkYzExdmdaeG95RTZrWV8yUDYtUXVLMVdpRlRiT0lweVMyck1WVTJrOXRhby1WTFdKdmczQkx6OA?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 15:30:00 GMT",
+        "title_clean": "Passeio do Futuro 2026 reúne motos 125 cc na Covilhã - revistamotos.pt",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Motogardunha",
+                "label": "ORG"
+            },
+            {
+                "text": "Moto Club",
+                "label": "ORG"
+            },
+            {
+                "text": "Lobos da Neve",
+                "label": "LOC"
+            },
+            {
+                "text": "Zona Industrial do Tortosendo",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMif0FVX3lxTFBwRzFlSDNtajBTcFZqMjI4VF8temNaclQwVTUtT2hGTzFjamJjeU9YSFRMazN6Rk54dm56Tlg0TkN6MFRfcXZZS2VtMlZ2MzJKeFhQY0hkdThEY3VIS1NtNWt1a2trTjhHclkyWmdpQU1fZ3ZKZms3Mk5CaHl0SWs?oc=5",
+        "source": "news",
+        "created_at": "Fri, 04 Sep 2026 06:43:00 GMT",
+        "title_clean": "IC6: a estrada que nunca chega entre Coimbra e Covilhã - TSF",
+        "entities": [
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkN2d3FVcTcwQjBuUjVDWm9rTXhqM1VSTUpzN205aTBLTG1PaDl2WkdpV0tLR1ROVThMdlZJZXdXc2Yza3llUlVZdTJLTVpCZnV6a2tqMWhIVEk1TnV3a3lkV2wtVUl6eWVZcTRBdlBNbHJwNFNTdjhmc050TUFjaTU5WWZzUnFJd29veWprXzVlcmFJN2pDbGxEaGNuUmYxVVhQR25oNGk?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 09:40:25 GMT",
+        "title_clean": "Casa do Benfica na Covilhã homenageia equipa campeã de 1972/73",
+        "entities": [
+            {
+                "text": "Casa do Benfica na",
+                "label": "LOC"
+            },
+            {
+                "text": "Sport Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFYxWFEzWnFRSVpBNHVDTDlsaGgyTm5wR0t5MVM2cDBVQm9LaXkyT1dNZmdRTWZNc19VR1BBQ0d2T2VDQmFESzVuX0kyTW81aThxeGdLOV9lQ2pvaERiV0kya1VTRE93WHdzVEk3RUNSZTQwS1l0eEttc0YzMDY2VWF1QnJfNm02aFZYSllZT0ZfMUFWMDJvRVFGc2RnaUxPQjI0cHA5RzNIUEpwSS1SS05XRQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 10:51:39 GMT",
+        "title_clean": "PCP critica falta de visão intermunicipal na revisão do PDM da Covilhã",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Geoparque Estrela",
+                "label": "LOC"
+            },
+            {
+                "text": "Centro Histórico",
+                "label": "LOC"
+            },
+            {
+                "text": "Avenida Infante D. Henrique",
+                "label": "LOC"
+            },
+            {
+                "text": "Dominguiso",
+                "label": "LOC"
+            },
+            {
+                "text": "Paul-Erada",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjZRcW5xX09QX2llTEV1dEJkc1l0T2JsSFdSMFhqa1pzaWh0ZjgwdzQtUnBBb3dyTUZfY2FIa2F6R3U5WllGN2xxNEtyNkFKOUQ3VnBXa3FrUXBhRkY3bnJlYkY1QVIySmM3Y2VyTHBGNmthaVBjamNEclFZemRUS2k4YldDUTQ4aXQ2MTQ3NHJxRXY2SXpOdC1FNkVlS3ZyVkw0TzhYRHNYc0xmLXJsaFF4N3gwZ0Y1WE9r?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 08:01:20 GMT",
+        "title_clean": "ContraDança leva dança, teatro e performance contemporânea a Gouveia, Guarda e Covilhã - seiadigital.pt",
+        "entities": [
+            {
+                "text": "ContraDança",
+                "label": "ORG"
+            },
+            {
+                "text": "Gouveia",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro e Outras Artes",
+                "label": "ORG"
+            },
+            {
+                "text": "Rui Pires",
+                "label": "PER"
+            },
+            {
+                "text": "Torre dos Ferreiros",
+                "label": "LOC"
+            },
+            {
+                "text": "Tiago Cadete",
+                "label": "PER"
+            },
+            {
+                "text": "França",
+                "label": "LOC"
+            },
+            {
+                "text": "Departamento de Letras",
+                "label": "ORG"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Biblioteca da",
+                "label": "ORG"
+            },
+            {
+                "text": "Praça Velha",
+                "label": "LOC"
+            },
+            {
+                "text": "Teatro Municipal da Guarda",
+                "label": "LOC"
+            },
+            {
+                "text": "Direção-Geral das Artes",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMzFsbFpWUTZSNTI5TDNlblcyTGtVQ1VWU01pZ0RTMDRodmlGUDVPMWdMdXI0UFhlWHlGS1pGZlhDcUJBY0VVWHhLQ1UyRl9OYnU3cmpabEFFdzNBdjA4UFllQWdaaXFGcFFvTkI1c0Jac29TMFpuQXp1anUtVU1jUzg2QVlQNVIwclI4XzJNQmhNNEZHajNBclhsODRvbjN0bG5LS3VHQ3VNQU9DRlliRW40S1dBMzhIZjR2TF9OMC01cTlIMFFSRQ?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 15:54:00 GMT",
+        "title_clean": "Município da Covilhã abriu candidaturas a Bolsas de Estudo para o ensino superior",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Universidade da Beira Interior",
+                "label": "ORG"
+            },
+            {
+                "text": "Portal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGpoUGROYldPZXRfbjRBT05TdUtMcEZyaVhOY0xabDZhbE5LX3pMcHlzUlJtTmJ5RE5GdUs0SFpfX1VTTnFYUVpNSUdRejNmcFEyVzRUdXhFX0I5OGtVN0dIYmVEVHhKelFINERQM2pnbFdpOHFvOU8xRG1BN3lfVDdBVE1aUzBiQXc?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 12:12:00 GMT",
+        "title_clean": "Belmonte inicia aulas numa escola ainda em renovação",
+        "entities": [
+            {
+                "text": "Belmonte",
+                "label": "LOC"
+            },
+            {
+                "text": "Agrupamento de Escolas Pedro Álvares Cabral",
+                "label": "LOC"
+            },
+            {
+                "text": "António Luís Beites",
+                "label": "PER"
+            },
+            {
+                "text": "Câmara Municipal da Covilhã",
+                "label": "ORG"
+            },
+            {
+                "text": "Now XXI",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YaGR1YUNXcmVlZ29EMWw1UnJoNHFNcVgwZlQ2cFNUb1JSNW9XNG1mTVJqQ3kzZGlEVlIxeEVRUWdfOWxRZ3MyRU04M2RDTF9mSGR1QmxFcWtIUnYwUjVCQXdsMHg?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 15:30:01 GMT",
+        "title_clean": "DS TRAVEL reforça expansão com abertura de duas novas lojas em Santa Iria de Azóia e na Covilhã - infofranchising.pt",
+        "entities": [
+            {
+                "text": "DS TRAVEL",
+                "label": "ORG"
+            },
+            {
+                "text": "Santa Iria de Azóia",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Grupo Decisões e Soluções",
+                "label": "ORG"
+            },
+            {
+                "text": "Rua D. Pedro V, 47",
+                "label": "LOC"
+            },
+            {
+                "text": "Rua Doutor António Vaz Macedo, 4 R/C Dt",
+                "label": "LOC"
+            },
+            {
+                "text": "Grande Lisboa",
+                "label": "LOC"
+            },
+            {
+                "text": "Renato Brasil",
+                "label": "PER"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            },
+            {
+                "text": "DECISÕES E SOLUÇÕES - VIAGENS E TURISMO LDA",
+                "label": "ORG"
+            },
+            {
+                "text": "Registo Nacional das Agências de Viagens e Turismo",
+                "label": "ORG"
+            },
+            {
+                "text": "Associação Portuguesa de Franchising",
+                "label": "ORG"
+            },
+            {
+                "text": "Infofranchising",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYld2ZGFFd1NfS2VQNEVvclVCV2E1NUZuS0p3R1EtVHAta1E4bE15MUd3ZUpNcTgwVnFLdF9LRmFrZmdxdWF2TUZGdzU2RnBPU0NkYjFiMmNZOFpCNGdZTl9oZmpkaXdiUE5JWWxzYTg5YkpXY1o1aU0tWFEwSUlJQURWVDVSS25xTjFMVlVBT2IwbDhlME5XQUxXNEFxYXpTblQ1TG15NDBuUDRPanhwb1YwZThMNEdJeVhPbjJ4dU5kY2FQdzRob1BucDdTdWU5MG9FdmlB?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 11:20:46 GMT",
+        "title_clean": "COVILHÃ: Academia de Música da Banda da Covilhã abre portas para três dias de experimentação",
+        "entities": [
+            {
+                "text": "COVILHÃ",
+                "label": "LOC"
+            },
+            {
+                "text": "Academia de Música da Banda da Covilhã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnB6NWxDaGlzTnFnQ1Z1UngwWS1CcnA4dVFHNUI5alVjVkkyelNOOGlmelNrTkRRZGd3VUtic2dUdmJlMy1IUGhjVi01NFBQZFVYa2Nua0tHbFVMWVNaVnJFVzFlNWltNnJSMUhqM3lacTc5T3pZTWZkblh5ZmRsck9yQ3VlV3kzNGRUdENqM0ZPTDh2ZUtnMmVhdWNsYnZubGVyMWc1LWQwVHFSejNyc3Z0X3Q4THJR?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 10:44:56 GMT",
+        "title_clean": "PCP diz faltar visão intermunicipal ao PDM da Covilhã que está em discussão pública - Notícias de Coimbra",
+        "entities": [
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Coimbra",
+                "label": "LOC"
+            },
+            {
+                "text": "Partido Comunista Português",
+                "label": "ORG"
+            },
+            {
+                "text": "Notícias",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWt6UzlPdTU0dVFTUDFxNGdWemhEd3FBWVZkVkVlZnBlZHF1c1UyMW9tczEzSm1NMWpsTlBENU9mdmtZYzFwQUo4NGtQbHk3clg4bmpVNjQ4dDBPekVNOGpoeDZyMXRhMW1lcnZpSzU2RTNVUG1yMnFmdnFtSldZRGpOZ1pUdmZTZURhdHV3TjNqelJZUklzWjA3Q1lGVGRzdzdCRExFZkFUMnAySzRGUnc1SkhoNGNWR0lEZExNbDEzWjd6MkcxY0lVRG8zM184cy1uYkxVWk9vV05rYUt3c0EzNi1lQQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 11:37:00 GMT",
+        "title_clean": "Projeto de voluntariado jovem para regeneração de áreas ardidas na Covilhã encerra com balanço positivo",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Junta",
+                "label": "ORG"
+            },
+            {
+                "text": "Barco",
+                "label": "LOC"
+            },
+            {
+                "text": "Casegas",
+                "label": "LOC"
+            },
+            {
+                "text": "Coutada",
+                "label": "LOC"
+            },
+            {
+                "text": "Ourondo",
+                "label": "LOC"
+            },
+            {
+                "text": "Sobral de São Miguel",
+                "label": "LOC"
+            },
+            {
+                "text": "Freguesia de Vales do Rio",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWJGZDFkRmdEMVlxWlhUeXVSeW1hQzFSVXpuaUxGUDhGd1FXQ0J0LU00NllDV1piYlJOZ3djbDJyN1BhTG43bHYzODg0Mk9EaW1KQzNRVmhGTFlkOWViS0R1eGJvd1B0RERYRlJSWGp6c1VLdzhacXFaSW0wU3pFRGJpZDlVZ1o2WHN4SjZVN0lqZjRFSXhibTZWaXQ4allleG1vQThqb2NYOVF2UXNIaW04SnBxMV9fZzRZbk41RVdUcWhCdE9JWUxR?oc=5",
+        "source": "news",
+        "created_at": "Tue, 01 Sep 2026 15:48:00 GMT",
+        "title_clean": "Candidatura da Covilhã a Capital Portuguesa da Cultura lança site e imagem gráfica",
+        "entities": [
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Lobby Films & Advertising",
+                "label": "ORG"
+            },
+            {
+                "text": "Telmo Martins",
+                "label": "PER"
+            },
+            {
+                "text": "UNESCO",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkpROUtFbzhPWnVPZG5yXzNkX1Q5RFhJQ2I1V3E1SHFrTE05LXNhc0ZRZkFCaWJQY040M0JWMUNuM0IyUHoxQ0hnZVhRb3VXaUpwTzBQVGp4RnNQZlJyN1hFWEVtNUV2YUNQdUVGZHRBcVJhdzdGenpYSFF2ZmJtUXlqZWZoWnJ0OVFwbGJZTQ?oc=5",
+        "source": "news",
+        "created_at": "Wed, 02 Sep 2026 12:57:00 GMT",
+        "title_clean": "“Um adeus mais-que-perfeito” no regresso das “4as de teatro”",
+        "entities": [
+            {
+                "text": "Companhia de Teatro de Almada",
+                "label": "ORG"
+            },
+            {
+                "text": "Peter Handke",
+                "label": "PER"
+            },
+            {
+                "text": "Teresa Gafeira",
+                "label": "PER"
+            },
+            {
+                "text": "Teatro das Beiras",
+                "label": "LOC"
+            },
+            {
+                "text": "Auditório Fernando Landeira",
+                "label": "LOC"
+            },
+            {
+                "text": "Europa Central",
+                "label": "LOC"
+            },
+            {
+                "text": "Afonso Becerra",
+                "label": "PER"
+            },
+            {
+                "text": "Duarte Guimarães",
+                "label": "PER"
+            },
+            {
+                "text": "Pedro Walter",
+                "label": "PER"
+            },
+            {
+                "text": "Ticketline",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEZJX09FVktzcGFUQUEwY3dZSXJsSE9rYzVlWUtpSHc3ZnBZTGl2OU41QzB2UkRtSGRVek1WckJOUmdTWFZtRmdiWElZRmVpM0N5MEFiVFo2dmVjazgwNEZ2eVR5VHc2X3FGZ0xxV0hsam9pT2gtVDdVa2tXb1c4cmlycWU3ZlE?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 16:03:06 GMT",
+        "title_clean": "Sport Zone fecha loja no Serra Shopping e muda-se para o City Center Retail Park da Covilhã - Echo Boomer",
+        "entities": [
+            {
+                "text": "Sport Zone",
+                "label": "ORG"
+            },
+            {
+                "text": "Serra Shopping",
+                "label": "LOC"
+            },
+            {
+                "text": "City Center Retail Park",
+                "label": "LOC"
+            },
+            {
+                "text": "Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Runner",
+                "label": "LOC"
+            },
+            {
+                "text": "Portugal",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "record_id": "news_https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEFtSEJTSFd2X1c1S3MwMHExNnd2SDNtNkw5Nm9TbDVTTE55S2E5WmtHRkFhd2FKR0xIOEdoV0M1bVU5U1hSNk5CVGdEb1BaOVd3UFRCNVhvUHlRSUtmZ0FacFBaRzNIQ2NaNGtUZWpwVDJZSTVkSG5fX3cxdjZWOFE3czJGMWJFYXJnUllhSW9vTmZUSjJVY1hVanBVNkNrRExydnV5Uk9uaGlRSjk2UGp6enJNTXlkb2JRRHVCVDJVNGF4UGJibw?oc=5",
+        "source": "news",
+        "created_at": "Thu, 03 Sep 2026 13:34:58 GMT",
+        "title_clean": "Obras condicionam trânsito e estacionamento na Rua General Humberto Delgado, no Canhoso",
+        "entities": [
+            {
+                "text": "Rua General Humberto Delgado",
+                "label": "LOC"
+            },
+            {
+                "text": "Grande Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Alameda Europa",
+                "label": "LOC"
+            },
+            {
+                "text": "Central de Camionagem",
+                "label": "LOC"
+            },
+            {
+                "text": "Adega da Covilhã",
+                "label": "LOC"
+            },
+            {
+                "text": "Parque Industrial do Canhoso",
+                "label": "LOC"
+            },
+            {
+                "text": "Município da Covilhã",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
         "record_id": "reddit_1t9jcs3",
         "source": "reddit",
         "created_at": "2026-05-10 21:22:18",
